@@ -4,15 +4,9 @@ name: ACCC Register Monitor + Verify
 # Adjust cron times to your preference.
 # Times below are UTC — they correspond to roughly 8am, 11am, 2pm, 5pm AEST.
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 22,1,4,7 * * 1-5'   # Monday–Friday only (UTC, maps to AEST business day)
-  workflow_dispatch:                 # Also allows manual trigger from the GitHub UI
-    inputs:
-      reason:
-        description: 'Reason for manual trigger (optional)'
-        required: false
-        default: 'Manual run'
-
+    - cron: '0 22,1,4,7 * * 1-5'
 jobs:
   scrape:
     name: Scrape ACCC Acquisitions Register
