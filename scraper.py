@@ -317,43 +317,37 @@ def next_sibling_text(h3_tag):
 
 def extract_list_after_h3(h3_tag):
     """
-    Extract party names following an h3 heading.
-    Handles multiple ACCC HTML structures:
-      - <ul><li> lists (standard format)
-      - <p> tags (one per party)
-      - <dl><dd> definition lists
-      - <div> containers with inner elements
+    Extract list items associated with an h3 heading.
+    Uses find_next() to search the full document tree, not just direct
+    siblings — required because Drupal 10 wraps multi-value fields in
+    container divs that are not direct siblings of the h3.
     """
     items = []
-    sib = h3_tag.next_sibling
 
+    # Primary: find the next <ul> anywhere after this h3 in the document.
+    # Validate it belongs to this section by confirming no other h3
+    # sits between our h3 and the ul.
+    ul = h3_tag.find_next("ul")
+    if ul:
+        if ul.find_previous("h3") is h3_tag:
+            for li in ul.find_all("li"):
+                text = clean(li.get_text())
+                if text:
+                    items.append(text)
+            if items:
+                return items
+
+    # Fallback for non-list structures (<p> per item or <div> containers)
+    sib = h3_tag.next_sibling
     while sib is not None:
         if hasattr(sib, "name"):
-
-            if sib.name == "ul":
-                # Standard list — most common format
-                for li in sib.find_all("li"):
-                    text = clean(li.get_text())
-                    if text:
-                        items.append(text)
+            if sib.name == "h3":
                 break
-
-            elif sib.name == "dl":
-                # Definition list format
-                for dd in sib.find_all("dd"):
-                    text = clean(dd.get_text())
-                    if text:
-                        items.append(text)
-                break
-
             elif sib.name == "p":
-                # One party per paragraph
                 text = clean(sib.get_text())
                 if text:
                     items.append(text)
-
             elif sib.name == "div":
-                # Container — look inside for any list or paragraph structure
                 inner = sib.find_all(["li", "dd", "p"])
                 if inner:
                     for el in inner:
@@ -365,11 +359,6 @@ def extract_list_after_h3(h3_tag):
                     if text:
                         items.append(text)
                 break
-
-            elif sib.name == "h3":
-                # Reached the next section — stop
-                break
-
         sib = sib.next_sibling
 
     return items
