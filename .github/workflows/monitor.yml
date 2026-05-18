@@ -1,63 +1,52 @@
 name: ACCC Register Monitor + Verify
 
-# Runs 4x per day during Australian business hours (AEST/AEDT).
-# Adjust cron times to your preference.
-# Times below are UTC — they correspond to roughly 8am, 11am, 2pm, 5pm AEST.
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 22,1,4,7 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual trigger (optional)'
+        required: false
+        default: 'Manual run'
+
 jobs:
   scrape:
     name: Scrape ACCC Acquisitions Register
     runs-on: ubuntu-latest
-    timeout-minutes: 45   # ~250 entries × ~1s each + overhead
+    timeout-minutes: 45
 
     permissions:
-      contents: write     # Required: lets the job commit data files back to the repo
+      contents: write
 
     steps:
-      # ── 1. Check out the repository ──────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1   # Only need the latest commit
+          fetch-depth: 1
 
-      # ── 2. Set up Python ─────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      # ── 3. Install dependencies ──────────────────────────────────────────
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 4. Run the scraper ───────────────────────────────────────────────
       - name: Run scraper
         id: scraper
         run: python scraper.py
 
-      # ── 5. Commit updated data files back to the repo ────────────────────
-      # This only runs when at least one entry changed, was added, or was removed.
-      # The git commit history acts as a full audit log of all changes over time.
       - name: Commit data files
         if: steps.scraper.outputs.has_changes == 'true'
         run: |
-          git config user.name  "ACCC Monitor Bot"
+          git config user.name "ACCC Monitor Bot"
           git config user.email "actions@github.com"
           git add data/
-          git diff --cached --quiet || git commit -m \
-            "📊 Register update: +${{ steps.scraper.outputs.new_count }} new, \
-~${{ steps.scraper.outputs.changed_count }} changed, \
--${{ steps.scraper.outputs.removed_count }} removed \
-— $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "Register update: new=${{ steps.scraper.outputs.new_count }} changed=${{ steps.scraper.outputs.changed_count }} removed=${{ steps.scraper.outputs.removed_count }}"
           git push
 
-      # ── 6. Upload data files as a GitHub Actions artifact ────────────────
-      # Team members can download the CSV directly from the Actions run page
-      # without needing to pull the repo, even if there were no changes.
       - name: Upload data artifact
         if: always()
         uses: actions/upload-artifact@v4
@@ -69,12 +58,7 @@ jobs:
             data/latest_changes.json
           retention-days: 90
 
-      # ── 7. Email notification on changes (optional) ──────────────────────
-      # To enable: set MAIL_USERNAME, MAIL_PASSWORD, MAIL_RECIPIENTS as
-      # GitHub repository secrets (Settings → Secrets and variables → Actions).
-      # MAIL_PASSWORD should be a Gmail App Password, not your main password.
-      # Remove this step entirely if you do not want email notifications.
-      - name: Email notification
+      - name: Email notification on changes
         if: steps.scraper.outputs.has_changes == 'true' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
         env:
@@ -85,11 +69,8 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: "ACCC Monitor <${{ secrets.MAIL_USERNAME }}>"
-          subject: >
-            ACCC Register — ${{ steps.scraper.outputs.new_count }} new,
-            ${{ steps.scraper.outputs.changed_count }} changed
-            (${{ steps.scraper.outputs.removed_count }} removed)
+          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          subject: "ACCC Register update: ${{ steps.scraper.outputs.new_count }} new, ${{ steps.scraper.outputs.changed_count }} changed"
           body: |
             The ACCC Acquisitions Register has been updated.
 
@@ -97,44 +78,23 @@ jobs:
             Changed entries: ${{ steps.scraper.outputs.changed_count }}
             Removed entries: ${{ steps.scraper.outputs.removed_count }}
 
-            ── Download the latest CSV ────────────────────────────────────
+            Download the latest CSV:
             ${{ github.server_url }}/${{ github.repository }}/raw/main/data/register.csv
 
-            ── View changes in detail ─────────────────────────────────────
+            View what changed:
             ${{ github.server_url }}/${{ github.repository }}/blob/main/data/latest_changes.json
 
-            ── Full changelog ─────────────────────────────────────────────
+            Full changelog:
             ${{ github.server_url }}/${{ github.repository }}/blob/main/data/changelog.json
 
-            ── ACCC Register ──────────────────────────────────────────────
+            ACCC Register:
             https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
 
-            This is an automated notification from your ACCC monitor.
-            Triggered by GitHub Actions workflow run #${{ github.run_number }}.
-
-      # ── 8. Slack notification on changes (optional) ──────────────────────
-      # To enable: set SLACK_WEBHOOK_URL as a GitHub repository secret.
-      # Remove this step if you do not use Slack.
-      # ── 8. Slack notification on changes (optional) ──────────────────────
-      # To enable: set SLACK_WEBHOOK_URL as a GitHub repository secret.
-      # Remove this step if you do not use Slack.
-      - name: Slack — changes detected
-        if: steps.scraper.outputs.has_changes == 'true' && env.SLACK_WEBHOOK_URL != ''
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: |
-          curl -s -X POST "$SLACK_WEBHOOK_URL" \
-            -H "Content-Type: application/json" \
-            -d '{
-              "text": "*ACCC Register updated* — +${{ steps.scraper.outputs.new_count }} new, ~${{ steps.scraper.outputs.changed_count }} changed, -${{ steps.scraper.outputs.removed_count }} removed\n<${{ github.server_url }}/${{ github.repository }}/raw/main/data/register.csv|Download CSV> | <${{ github.server_url }}/${{ github.repository }}/blob/main/data/latest_changes.json|View changes>"
-            }'
-
-  # ─────────────────────────────────────────────────────────────────────────
   verify:
     name: Verify Data Accuracy
     runs-on: ubuntu-latest
-    needs: scrape          # Always run after the scrape job completes
-    if: always()           # Run even if the scrape job had no changes
+    needs: scrape
+    if: always()
     timeout-minutes: 30
 
     permissions:
@@ -144,7 +104,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Pull the latest commit (which includes data files just pushed by the scrape job)
           ref: main
           fetch-depth: 1
 
@@ -157,23 +116,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Full three-layer verification including the detail re-scrape.
-      # Pass --skip-layer3 here if you want faster daily checks and prefer to
-      # run the full re-scrape only on the weekly schedule (see below).
       - name: Run verification
         id: verify
         run: python verify.py
 
       - name: Commit verification report
         run: |
-          git config user.name  "ACCC Monitor Bot"
+          git config user.name "ACCC Monitor Bot"
           git config user.email "actions@github.com"
           git add data/verification_report.json data/verification_report.csv data/verification_summary.json || true
-          git diff --cached --quiet || git commit -m \
-            "🔍 Verification: ${{ steps.verify.outputs.error_count }} errors, ${{ steps.verify.outputs.warning_count }} warnings — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "Verification: errors=${{ steps.verify.outputs.error_count }} warnings=${{ steps.verify.outputs.warning_count }}"
           git push
 
-      - name: Upload verification report as artifact
+      - name: Upload verification report
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -183,8 +138,7 @@ jobs:
             data/verification_summary.json
           retention-days: 90
 
-      # Alert if errors are found (separate from the change notification above)
-      - name: Email alert — verification errors
+      - name: Email alert on verification errors
         if: steps.verify.outputs.verification_passed == 'false' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
         env:
@@ -195,37 +149,20 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: "ACCC Monitor <${{ secrets.MAIL_USERNAME }}>"
-          subject: >
-            ⚠️ ACCC Register — VERIFICATION FAILED
-            (${{ steps.verify.outputs.error_count }} errors)
+          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          subject: "ACCC Register VERIFICATION FAILED - ${{ steps.verify.outputs.error_count }} errors found"
           body: |
             The automated accuracy verification found errors in the scraped data.
 
             Errors:   ${{ steps.verify.outputs.error_count }}
             Warnings: ${{ steps.verify.outputs.warning_count }}
 
-            This means one or more scraped field values are potentially inaccurate.
             Do NOT rely on the data until you review the error list.
 
-            ── Download the verification report ───────────────────────────
+            Download the verification report:
             ${{ github.server_url }}/${{ github.repository }}/raw/main/data/verification_report.csv
 
-            ── View summary ───────────────────────────────────────────────
-            ${{ github.server_url }}/${{ github.repository }}/raw/main/data/verification_summary.json
-
-            ── Actions run ────────────────────────────────────────────────
+            View the Actions run log:
             ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
-            This is an automated accuracy alert. Human review required.
-
-      - name: Slack alert — verification errors
-        if: steps.verify.outputs.verification_passed == 'false' && env.SLACK_WEBHOOK_URL != ''
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: |
-          curl -s -X POST "$SLACK_WEBHOOK_URL" \
-            -H "Content-Type: application/json" \
-            -d '{
-              "text": "⚠️ *ACCC Verification FAILED* — ${{ steps.verify.outputs.error_count }} errors, ${{ steps.verify.outputs.warning_count }} warnings. Data accuracy uncertain.\n<${{ github.server_url }}/${{ github.repository }}/raw/main/data/verification_report.csv|Download error report>"
-            }'
+            Human review is required.
