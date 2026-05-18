@@ -131,6 +131,8 @@ def clean(text):
     """Normalise whitespace in a string for reliable comparison."""
     if not text:
         return ""
+    # Replace non-breaking spaces before whitespace normalisation
+    text = text.replace("\xa0", " ").replace("\u00a0", " ")
     return re.sub(r"\s+", " ", text.strip())
 
 
@@ -315,66 +317,43 @@ def next_sibling_text(h3_tag):
     return None
 
 
-def extract_list_after_h3(h3_tag):
+def extract_parties_from_text(page_text, section_label, stop_labels):
     """
-    Extract list items associated with an h3 heading.
-    Uses find_next() to search the full document tree, not just direct
-    siblings — required because Drupal 10 wraps multi-value fields in
-    container divs that are not direct siblings of the h3.
+    Extract party names from raw page text between a section header and the next.
+    Bypasses DOM structure entirely — works regardless of Drupal's HTML nesting.
     """
+    # Find the section label (as its own line)
+    lines = page_text.split("\n")
+    start_idx = None
+    for i, line in enumerate(lines):
+        if clean(line).lower() == section_label.lower():
+            start_idx = i + 1
+            break
+    if start_idx is None:
+        return []
+
+    # Collect lines until we hit another known section header
+    stop_set = {s.lower() for s in stop_labels}
     items = []
-
-    # Primary: find the next <ul> anywhere after this h3 in the document.
-    # Validate it belongs to this section by confirming no other h3
-    # sits between our h3 and the ul.
-    ul = h3_tag.find_next("ul")
-    if ul:
-        if ul.find_previous("h3") is h3_tag:
-            for li in ul.find_all("li"):
-                text = clean(li.get_text())
-                if text:
-                    items.append(text)
-            if items:
-                return items
-
-    # Fallback for non-list structures (<p> per item or <div> containers)
-    sib = h3_tag.next_sibling
-    while sib is not None:
-        if hasattr(sib, "name"):
-            if sib.name == "h3":
-                break
-            elif sib.name == "p":
-                text = clean(sib.get_text())
-                if text:
-                    items.append(text)
-            elif sib.name == "div":
-                inner = sib.find_all(["li", "dd", "p"])
-                if inner:
-                    for el in inner:
-                        text = clean(el.get_text())
-                        if text:
-                            items.append(text)
-                else:
-                    text = clean(sib.get_text())
-                    if text:
-                        items.append(text)
-                break
-        sib = sib.next_sibling
+    for line in lines[start_idx:]:
+        stripped = clean(line)
+        if stripped.lower() in stop_set:
+            break
+        # Skip very short lines (bullet markers, empty spans, whitespace)
+        if len(stripped) > 5:
+            items.append(stripped)
 
     return items
+
+
 def parse_detail_page(soup, url):
-    """
-    Parse an individual acquisition/waiver detail page and return a dict of all fields.
-    The Drupal CMS renders field labels as h3 tags followed by their values.
-    """
+    """Parse an individual acquisition/waiver detail page."""
     data = {"url": url}
 
     if not soup:
         return data
 
-    # ── Meta tags ──────────────────────────────────────────────────────────
-    # article:modified_time is updated by the ACCC whenever the page is edited.
-    # This is our primary change-detection signal.
+    # Meta tags
     meta_mod = soup.find("meta", {"property": "article:modified_time"})
     if meta_mod:
         data["last_modified_accc"] = clean(meta_mod.get("content", ""))
@@ -383,14 +362,12 @@ def parse_detail_page(soup, url):
     if meta_pub:
         data["published_time_accc"] = clean(meta_pub.get("content", ""))
 
-    # ── Page title ─────────────────────────────────────────────────────────
+    # Page title
     h1 = soup.find("h1")
     if h1:
         data["title"] = clean(h1.get_text())
 
-    # ── H3-delimited fields ────────────────────────────────────────────────
-    # Map the h3 label text (lowercased) to our data field name.
-    # Fields with list content (Acquirer, Target, Other) are handled below.
+    # Scalar fields via h3 heading navigation
     SCALAR_FIELDS = {
         "acquisition status": "acquisition_status",
         "acquisition case number": "case_number",
@@ -406,27 +383,66 @@ def parse_detail_page(soup, url):
         "anzsic codes": "anzsic_codes",
     }
 
-    LIST_FIELDS = {
-        "acquirer(s)": "acquirers",
-        "acquirers": "acquirers",
-        "target(s) or vendor(s)": "targets",
-        "targets or vendors": "targets",
-        "target(s)": "targets",
-        "other party(ies)": "other_parties",
-        "other parties": "other_parties",
-    }
-
     for h3 in soup.find_all("h3"):
         label = clean(h3.get_text()).lower()
-
         if label in SCALAR_FIELDS:
             val = next_sibling_text(h3)
             if val:
                 data[SCALAR_FIELDS[label]] = val
 
-        elif label in LIST_FIELDS:
-            items = extract_list_after_h3(h3)
-            data[LIST_FIELDS[label]] = "; ".join(items)
+    # Party fields via text extraction (more robust than DOM traversal)
+    page_text = soup.get_text(separator="\n")
+
+    ALL_STOP_LABELS = [
+        "Acquirer(s)", "Target(s) or Vendor(s)", "Other party(ies)",
+        "ANZSIC code(s)", "ANZSIC codes", "Description", "Consultation",
+        "Decisions and key events", "About the acquisition",
+        "ACCC Determination", "Determination publication date",
+        "Acquisition status", "Acquisition case number",
+    ]
+
+    acquirers = extract_parties_from_text(
+        page_text, "Acquirer(s)",
+        [s for s in ALL_STOP_LABELS if s != "Acquirer(s)"]
+    )
+    if acquirers:
+        data["acquirers"] = "; ".join(acquirers)
+
+    targets = extract_parties_from_text(
+        page_text, "Target(s) or Vendor(s)",
+        [s for s in ALL_STOP_LABELS if s != "Target(s) or Vendor(s)"]
+    )
+    if targets:
+        data["targets"] = "; ".join(targets)
+
+    others = extract_parties_from_text(
+        page_text, "Other party(ies)",
+        [s for s in ALL_STOP_LABELS if s != "Other party(ies)"]
+    )
+    if others:
+        data["other_parties"] = "; ".join(others)
+
+    # Documents table
+    docs = []
+    for table in soup.find_all("table"):
+        for row in table.find_all("tr"):
+            cells = row.find_all(["td", "th"])
+            if len(cells) < 2:
+                continue
+            date_text = clean(cells[0].get_text())
+            desc_text = clean(cells[1].get_text())
+            link_tag = cells[-1].find("a") if len(cells) > 2 else cells[1].find("a")
+            doc_url = urljoin(BASE_URL, link_tag["href"]) if link_tag else ""
+            if date_text and desc_text:
+                docs.append({
+                    "date": date_text,
+                    "description": desc_text,
+                    "url": doc_url,
+                })
+    if docs:
+        data["documents"] = docs
+
+    return data
 
     # ── Decisions / documents table ────────────────────────────────────────
     docs = []
