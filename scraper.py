@@ -700,6 +700,190 @@ def run():
     save_json(CHANGELOG_JSON, changelog)
     export_csv(new_register)
 
+  def write_status_csv(run_utc, register, stored_register,
+                     new_slugs, changed_slugs, removed_slugs, changelog):
+    """Write status.csv for the Last Updated tab in Google Sheets."""
+    import csv as _csv
+
+    try:
+        run_dt_utc = datetime.datetime.fromisoformat(run_utc.replace("Z", "+00:00"))
+        aest_str = (run_dt_utc + datetime.timedelta(hours=10)).strftime("%d %b %Y  %H:%M")
+    except Exception:
+        aest_str = "Unknown"
+        run_dt_utc = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+
+    def to_aest(ts_str):
+        dt = datetime.datetime.fromisoformat(ts_str.replace("Z", "+00:00"))
+        return (dt + datetime.timedelta(hours=10)).strftime("%d %b  %H:%M")
+
+    rows = []
+
+    # ── Run metadata ───────────────────────────────────────────────────────
+    rows += [
+        ["Metric", "Value", "Notes"],
+        ["", "", ""],
+        ["Last scrape run (UTC)",  run_utc.replace("T", " ").replace("Z", ""), ""],
+        ["Last scrape run (AEST)", aest_str, "UTC + 10 hrs (no DST adjustment)"],
+        ["", "", ""],
+        ["Total entries monitored",  str(len(register)),      ""],
+        ["New entries this run",     str(len(new_slugs)),     ""],
+        ["Changed entries this run", str(len(changed_slugs)), ""],
+        ["Removed entries this run", str(len(removed_slugs)), ""],
+        ["", "", ""],
+        ["Auto-run schedule", "Mon to Fri", "8am / 11am / 2pm / 5pm AEST"],
+        ["", "", ""],
+        ["", "", ""],
+    ]
+
+    # ── Changes in this run ────────────────────────────────────────────────
+    rows.append(["CHANGES IN THIS RUN", "", ""])
+    rows.append(["", "", ""])
+
+    if not new_slugs and not changed_slugs and not removed_slugs:
+        rows.append(["No changes detected in this run.", "", ""])
+        rows.append(["", "", ""])
+
+    if new_slugs:
+        rows.append([f"NEW ENTRIES ({len(new_slugs)})", "Case Number", "URL"])
+        for slug in new_slugs:
+            e = register.get(slug, {})
+            rows.append([
+                "+ " + e.get("title", slug),
+                e.get("case_number", ""),
+                e.get("url", ""),
+            ])
+        rows.append(["", "", ""])
+
+    if changed_slugs:
+        rows.append([
+            f"CHANGED ENTRIES ({len(changed_slugs)})",
+            "Field changed",
+            "Old value  →  New value",
+        ])
+        this_run_changes = {
+            c["slug"]: c["changes"]
+            for c in changelog
+            if c.get("timestamp_utc") == run_utc and c.get("event") == "CHANGED"
+        }
+        for slug in changed_slugs:
+            e = register.get(slug, {})
+            rows.append([
+                "~ " + e.get("title", slug),
+                e.get("case_number", ""),
+                e.get("url", ""),
+            ])
+            for ch in this_run_changes.get(slug, []):
+                field = ch.get("field", "").replace("_", " ").title()
+                old   = str(ch.get("old", ""))[:100]
+                new   = str(ch.get("new", ""))[:100]
+                rows.append(["", field, f"{old}  →  {new}"])
+            rows.append(["", "", ""])
+
+    if removed_slugs:
+        rows.append([f"REMOVED ENTRIES ({len(removed_slugs)})", "Case Number", ""])
+        for slug in removed_slugs:
+            e = stored_register.get(slug, {})
+            rows.append([
+                "- " + e.get("title", slug),
+                e.get("case_number", ""),
+                "",
+            ])
+        rows.append(["", "", ""])
+
+    # ── Changes in the last 7 days ─────────────────────────────────────────
+    rows.append(["", "", ""])
+    rows.append(["CHANGES IN THE LAST 7 DAYS", "", ""])
+    rows.append(["", "", ""])
+
+    try:
+        seven_days_ago = run_dt_utc - datetime.timedelta(days=7)
+
+        weekly = [
+            c for c in changelog
+            if c.get("timestamp_utc") != run_utc
+            and c.get("event") in ("NEW_ENTRY", "CHANGED", "REMOVED")
+            and datetime.datetime.fromisoformat(
+                c["timestamp_utc"].replace("Z", "+00:00")
+            ) >= seven_days_ago
+        ]
+
+        if not weekly:
+            rows.append(["No changes recorded in the last 7 days.", "", ""])
+            rows.append(["", "", ""])
+        else:
+            weekly_new     = [c for c in weekly if c["event"] == "NEW_ENTRY"]
+            weekly_changed = [c for c in weekly if c["event"] == "CHANGED"]
+            weekly_removed = [c for c in weekly if c["event"] == "REMOVED"]
+
+            if weekly_new:
+                rows.append([
+                    f"NEW ENTRIES ({len(weekly_new)})",
+                    "Case Number", "Detected (AEST)",
+                ])
+                for c in weekly_new:
+                    e = register.get(c["slug"], {})
+                    rows.append([
+                        "+ " + c.get("title", c["slug"]),
+                        e.get("case_number", ""),
+                        to_aest(c["timestamp_utc"]),
+                    ])
+                rows.append(["", "", ""])
+
+            if weekly_changed:
+                from collections import OrderedDict
+                slug_events = OrderedDict()
+                for c in weekly_changed:
+                    slug_events.setdefault(c["slug"], []).append(c)
+
+                rows.append([
+                    f"CHANGED ENTRIES ({len(slug_events)} entries, "
+                    f"{len(weekly_changed)} change events)",
+                    "Field changed",
+                    "Old value  →  New value  (AEST)",
+                ])
+                for slug, events in slug_events.items():
+                    e = register.get(slug, {})
+                    rows.append([
+                        "~ " + events[0].get("title", slug),
+                        e.get("case_number", ""),
+                        e.get("url", ""),
+                    ])
+                    for event in events:
+                        aest_ts = to_aest(event["timestamp_utc"])
+                        for ch in event.get("changes", []):
+                            field = ch.get("field", "").replace("_", " ").title()
+                            old   = str(ch.get("old", ""))[:80]
+                            new   = str(ch.get("new", ""))[:80]
+                            rows.append([
+                                "", field,
+                                f"{old}  →  {new}  ({aest_ts})",
+                            ])
+                    rows.append(["", "", ""])
+
+            if weekly_removed:
+                rows.append([
+                    f"REMOVED ENTRIES ({len(weekly_removed)})",
+                    "Case Number", "Detected (AEST)",
+                ])
+                for c in weekly_removed:
+                    e = stored_register.get(c["slug"], {})
+                    rows.append([
+                        "- " + c.get("title", c["slug"]),
+                        e.get("case_number", ""),
+                        to_aest(c["timestamp_utc"]),
+                    ])
+                rows.append(["", "", ""])
+
+    except Exception as exc:
+        rows.append([f"Error generating weekly summary: {exc}", "", ""])
+        rows.append(["", "", ""])
+
+    # Write file
+    status_path = os.path.join(DATA_DIR, "status.csv")
+    with open(status_path, "w", newline="", encoding="utf-8-sig") as _f:
+        _csv.writer(_f).writerows(rows)
+    print(f"  Status CSV written: {status_path}")
+
     summary = generate_summary(new_register)
     save_json(SUMMARY_JSON, summary)
 
@@ -777,6 +961,11 @@ def run():
             f.write(f"new_count={len(new_slugs)}\n")
             f.write(f"changed_count={len(changed_slugs)}\n")
             f.write(f"removed_count={len(removed_slugs)}\n")
+          
+          write_status_csv(
+        run_utc, new_register, stored_register,
+        new_slugs, changed_slugs, removed_slugs, changelog
+    )
 
     return has_changes
 
