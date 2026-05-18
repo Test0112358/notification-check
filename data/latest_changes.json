@@ -1,0 +1,1285 @@
+{
+  "run_utc": "2026-05-18T08:04:56.830513Z",
+  "new_count": 255,
+  "changed_count": 0,
+  "removed_count": 0,
+  "new_entries": [
+    {
+      "slug": "mastercard-bvnk",
+      "title": "Mastercard - BVNK",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk"
+    },
+    {
+      "slug": "volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+      "title": "Volt Managed Investment Trusts – HMC Energy Transition Platform",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform"
+    },
+    {
+      "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+      "title": "PT Asian Bulk Logistics – Engage Marine",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0"
+    },
+    {
+      "slug": "quanta-psd",
+      "title": "Quanta - PSD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd"
+    },
+    {
+      "slug": "novartis-excellergy",
+      "title": "Novartis / Excellergy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy"
+    },
+    {
+      "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+      "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff"
+    },
+    {
+      "slug": "seismic-%E2%80%93-highspot",
+      "title": "Seismic – Highspot",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot"
+    },
+    {
+      "slug": "openai-tomoro",
+      "title": "OpenAI - Tomoro",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro"
+    },
+    {
+      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+      "title": "Zoetis – Neogen Genomics Business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business"
+    },
+    {
+      "slug": "atkinsr%C3%A9alis-wga",
+      "title": "AtkinsRéalis - WGA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga"
+    },
+    {
+      "slug": "epl-indovida-india",
+      "title": "EPL - Indovida India",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/epl-indovida-india"
+    },
+    {
+      "slug": "3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue",
+      "title": "3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue"
+    },
+    {
+      "slug": "rubik-australia-pty-limited-qube-holdings-limited",
+      "title": "Rubik Australia Pty Limited - Qube Holdings Limited",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rubik-australia-pty-limited-qube-holdings-limited"
+    },
+    {
+      "slug": "medtronic-scientia",
+      "title": "Medtronic - Scientia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia"
+    },
+    {
+      "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
+      "title": "News – acquisition of 20% of National Distribution Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-%E2%80%93-acquisition-of-20-of-national-distribution-services"
+    },
+    {
+      "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
+      "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pty-ltd-davhold-australia-pty-ltd"
+    },
+    {
+      "slug": "nuveen-%E2%80%93-schroders",
+      "title": "Nuveen – Schroders",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nuveen-%E2%80%93-schroders"
+    },
+    {
+      "slug": "quadrant-private-equity-stanley-international-college",
+      "title": "Quadrant Private Equity - Stanley International College",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quadrant-private-equity-stanley-international-college"
+    },
+    {
+      "slug": "paramount-skydance-warner-bros-discovery",
+      "title": "Paramount Skydance / Warner Bros. Discovery",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery"
+    },
+    {
+      "slug": "tmx-cboe-australia",
+      "title": "TMX - Cboe Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tmx-cboe-australia"
+    },
+    {
+      "slug": "constellation-software-derbysoft-holdings",
+      "title": "Constellation Software - DerbySoft Holdings",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/constellation-software-derbysoft-holdings"
+    },
+    {
+      "slug": "fulton-hogan-%E2%80%93-avionics",
+      "title": "Fulton Hogan – Avionics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics"
+    },
+    {
+      "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
+      "title": "Barro Group / BQC Quarries and Burdekin Concrete",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete"
+    },
+    {
+      "slug": "dp-world-global-forwarding-%E2%80%93-pure-global-logistics",
+      "title": "DP World Global Forwarding – Pure Global Logistics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dp-world-global-forwarding-%E2%80%93-pure-global-logistics"
+    },
+    {
+      "slug": "cleanpeak-energy-holdings-sustainable-energy-infrastructure",
+      "title": "CleanPeak Energy Holdings - Sustainable Energy Infrastructure",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cleanpeak-energy-holdings-sustainable-energy-infrastructure"
+    },
+    {
+      "slug": "fc-group-holdings-corporation-ors-fluent-retail",
+      "title": "FC Group Holdings Corporation & ors - Fluent Retail",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fc-group-holdings-corporation-ors-fluent-retail"
+    },
+    {
+      "slug": "saipem-spa-subsea7-sa",
+      "title": "Saipem S.p.A / Subsea7 S.A.",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa"
+    },
+    {
+      "slug": "genea-embrace-fertility",
+      "title": "Genea - Embrace Fertility",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-embrace-fertility"
+    },
+    {
+      "slug": "ochre-health-new-lambton-family-practice-nsw",
+      "title": "Ochre Health - New Lambton Family Practice, NSW",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-new-lambton-family-practice-nsw"
+    },
+    {
+      "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
+      "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd"
+    },
+    {
+      "slug": "francisco-partners-blackline-safety",
+      "title": "Francisco Partners - Blackline Safety",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-blackline-safety"
+    },
+    {
+      "slug": "bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa",
+      "title": "BHP – expansion of Special Mining Lease at Olympic Dam, SA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa"
+    },
+    {
+      "slug": "crh-axius-water",
+      "title": "CRH - Axius Water",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/crh-axius-water"
+    },
+    {
+      "slug": "allied-retail-finance-%E2%80%93-automotive-retail-finance-assets-of-macquarie-leasing",
+      "title": "Allied Retail Finance – automotive retail finance assets of Macquarie Leasing",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allied-retail-finance-%E2%80%93-automotive-retail-finance-assets-of-macquarie-leasing"
+    },
+    {
+      "slug": "cement-australia-%E2%80%93-global-manufacturing-group",
+      "title": "Cement Australia – Global Manufacturing Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cement-australia-%E2%80%93-global-manufacturing-group"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-white-cockatoo-hotel-petersham",
+      "title": "Australian Venue Co – assets of White Cockatoo Hotel, Petersham",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-white-cockatoo-hotel-petersham"
+    },
+    {
+      "slug": "win-television-network-nbn-enterprises-television-holdings-darwin",
+      "title": "WIN Television Network - NBN Enterprises & Television Holdings Darwin",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/win-television-network-nbn-enterprises-television-holdings-darwin"
+    },
+    {
+      "slug": "allianz-lease-of-commercial-office-space-in-north-sydney-from-lendlease-victoria-cross",
+      "title": "Allianz - Lease of commercial office space in North Sydney from Lendlease (Victoria Cross)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-lease-of-commercial-office-space-in-north-sydney-from-lendlease-victoria-cross"
+    },
+    {
+      "slug": "gilead-ouro",
+      "title": "Gilead - Ouro",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-ouro"
+    },
+    {
+      "slug": "oceania-capital-partners-hudson-global-resources-aust",
+      "title": "Oceania Capital Partners - Hudson Global Resources (Aust)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oceania-capital-partners-hudson-global-resources-aust"
+    },
+    {
+      "slug": "apollo-funds-nippon-sheet-glass",
+      "title": "Apollo Funds - Nippon Sheet Glass",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-funds-nippon-sheet-glass"
+    },
+    {
+      "slug": "massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport",
+      "title": "MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport"
+    },
+    {
+      "slug": "coles-leasehold-interest-in-shopping-centre-on-capricorn-highway-emerald-qld",
+      "title": "Coles - Leasehold interest in shopping centre on Capricorn Highway, Emerald, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-leasehold-interest-in-shopping-centre-on-capricorn-highway-emerald-qld"
+    },
+    {
+      "slug": "coles-substation-in-yarrawonga-vic",
+      "title": "Coles - substation in Yarrawonga VIC",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-substation-in-yarrawonga-vic"
+    },
+    {
+      "slug": "australiansuper-ifm-global-infrastructure-australia-trust",
+      "title": "AustralianSuper - IFM Global Infrastructure (Australia) Trust",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australiansuper-ifm-global-infrastructure-australia-trust"
+    },
+    {
+      "slug": "zurich-clearview",
+      "title": "Zurich - ClearView",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-clearview"
+    },
+    {
+      "slug": "publicis-%E2%80%93-160over90",
+      "title": "Publicis – 160over90",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-%E2%80%93-160over90"
+    },
+    {
+      "slug": "mayfair-corporation-%E2%80%93-phosphate-hill",
+      "title": "Mayfair Corporation – Phosphate Hill",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mayfair-corporation-%E2%80%93-phosphate-hill"
+    },
+    {
+      "slug": "26north-funds-intermedia-cloud-communications",
+      "title": "26North Funds - Intermedia Cloud Communications",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/26north-funds-intermedia-cloud-communications"
+    },
+    {
+      "slug": "mag-south-coast-country-motor-company-kinghorn-motors",
+      "title": "MAG South Coast - Country Motor Company / Kinghorn Motors",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mag-south-coast-country-motor-company-kinghorn-motors"
+    },
+    {
+      "slug": "accenture-ziff-davis-connectivity-business",
+      "title": "Accenture - Ziff Davis' connectivity business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-ziff-davis-connectivity-business"
+    },
+    {
+      "slug": "ma-financial-group-redcape-fund-%E2%80%93-the-entrance-social-club",
+      "title": "MA Financial Group (Redcape Fund) – The Entrance Social Club",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-%E2%80%93-the-entrance-social-club"
+    },
+    {
+      "slug": "hostplus-%E2%80%93-ch-investment-holding-trust",
+      "title": "Hostplus – CH Investment Holding Trust",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hostplus-%E2%80%93-ch-investment-holding-trust"
+    },
+    {
+      "slug": "daikin-aams-group",
+      "title": "Daikin - AAMS Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/daikin-aams-group"
+    },
+    {
+      "slug": "global-infrastructure-management-%E2%80%93-tcr",
+      "title": "Global Infrastructure Management – TCR",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-%E2%80%93-tcr"
+    },
+    {
+      "slug": "ventura-motors-%E2%80%93-crown-coaches",
+      "title": "Ventura Motors – Crown Coaches",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ventura-motors-%E2%80%93-crown-coaches"
+    },
+    {
+      "slug": "trescal-%E2%80%93-tr-calibration",
+      "title": "Trescal – TR Calibration",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration"
+    },
+    {
+      "slug": "eli-lilly-%E2%80%93-acquisition-of-licence-from-csl-behring",
+      "title": "Eli Lilly – acquisition of licence from CSL Behring",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-%E2%80%93-acquisition-of-licence-from-csl-behring"
+    },
+    {
+      "slug": "lawrence-hanson-gordon-macdonald",
+      "title": "Lawrence & Hanson - Gordon Macdonald",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lawrence-hanson-gordon-macdonald"
+    },
+    {
+      "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers",
+      "title": "Herron Todd White – CJA Lee Property Valuers",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers"
+    },
+    {
+      "slug": "signant-actigraph",
+      "title": "Signant - ActiGraph",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/signant-actigraph"
+    },
+    {
+      "slug": "creative-planning-%E2%80%93-maseco",
+      "title": "Creative Planning – MASECO",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/creative-planning-%E2%80%93-maseco"
+    },
+    {
+      "slug": "salter-brothers-buroserv",
+      "title": "Salter Brothers - Buroserv",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salter-brothers-buroserv"
+    },
+    {
+      "slug": "estia-health-%E2%80%93-norsan-residential-aged-care-business",
+      "title": "Estia Health – Norsan residential aged care business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-norsan-residential-aged-care-business"
+    },
+    {
+      "slug": "dubai-aerospace-enterprise-macquarie-airfinance",
+      "title": "Dubai Aerospace Enterprise - Macquarie AirFinance",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dubai-aerospace-enterprise-macquarie-airfinance"
+    },
+    {
+      "slug": "swiss-re-qbe-insurances-trade-credit-and-surety-business",
+      "title": "Swiss Re - QBE Insurance's Trade Credit and Surety business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/swiss-re-qbe-insurances-trade-credit-and-surety-business"
+    },
+    {
+      "slug": "ph-medical-centres-riverstone-family-medical-practice",
+      "title": "PH Medical Centres - Riverstone Family Medical Practice",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ph-medical-centres-riverstone-family-medical-practice"
+    },
+    {
+      "slug": "turner-family-entities-pedal-group",
+      "title": "Turner Family Entities - Pedal Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turner-family-entities-pedal-group"
+    },
+    {
+      "slug": "savvy-games-group-%E2%80%93-moonton",
+      "title": "Savvy Games Group – Moonton",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/savvy-games-group-%E2%80%93-moonton"
+    },
+    {
+      "slug": "eli-lilly-orna-therapeutics",
+      "title": "Eli Lilly / Orna Therapeutics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-orna-therapeutics"
+    },
+    {
+      "slug": "mizuho-%E2%80%93-avendus",
+      "title": "Mizuho – Avendus",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mizuho-%E2%80%93-avendus"
+    },
+    {
+      "slug": "wipro-mindsprint",
+      "title": "Wipro - Mindsprint",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wipro-mindsprint"
+    },
+    {
+      "slug": "infosys-%E2%80%93-optimum-healthcare-it",
+      "title": "Infosys – Optimum Healthcare IT",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infosys-%E2%80%93-optimum-healthcare-it"
+    },
+    {
+      "slug": "sembcorp-industries-ltd-alinta-energy",
+      "title": "Sembcorp Industries Ltd - Alinta Energy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sembcorp-industries-ltd-alinta-energy"
+    },
+    {
+      "slug": "rea-group-simplicity-loans-advisory",
+      "title": "REA Group - Simplicity Loans & Advisory",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rea-group-simplicity-loans-advisory"
+    },
+    {
+      "slug": "journey-beyond-%E2%80%93-kakadu-crocodile-hotel",
+      "title": "Journey Beyond – Kakadu Crocodile Hotel",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-%E2%80%93-kakadu-crocodile-hotel"
+    },
+    {
+      "slug": "ebay-depop",
+      "title": "eBay / Depop",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebay-depop"
+    },
+    {
+      "slug": "yancoal-kestrel-coal-group",
+      "title": "Yancoal - Kestrel Coal Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/yancoal-kestrel-coal-group"
+    },
+    {
+      "slug": "egis-projects-asia-pacific-fulton-hogan-egis-om",
+      "title": "Egis Projects Asia Pacific - Fulton Hogan Egis O&M",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/egis-projects-asia-pacific-fulton-hogan-egis-om"
+    },
+    {
+      "slug": "prime-super-additional-interest-in-peninsula-link-project",
+      "title": "Prime Super - Additional interest in Peninsula Link Project",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project"
+    },
+    {
+      "slug": "airtree-and-ors-additional-minority-co-investors-advanced-navigation",
+      "title": "Airtree and ors (additional minority co-investors) - Advanced Navigation",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-and-ors-additional-minority-co-investors-advanced-navigation"
+    },
+    {
+      "slug": "energy-bay-rights-to-installoperate-embedded-networks-and-other-assets-from-centuria-capital-group-members",
+      "title": "Energy Bay - Rights to install/operate embedded networks and other assets from Centuria Capital Group members",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-rights-to-installoperate-embedded-networks-and-other-assets-from-centuria-capital-group-members"
+    },
+    {
+      "slug": "danaher-masimo",
+      "title": "Danaher - Masimo",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-masimo"
+    },
+    {
+      "slug": "searchlight-capital-partners-additional-interest-in-kore-group-holdings-inc",
+      "title": "Searchlight Capital Partners - Additional interest in KORE Group Holdings Inc.",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/searchlight-capital-partners-additional-interest-in-kore-group-holdings-inc"
+    },
+    {
+      "slug": "star-hotels-fiveways-hotel-toowoomba",
+      "title": "Star Hotels - Fiveways Hotel Toowoomba",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-fiveways-hotel-toowoomba"
+    },
+    {
+      "slug": "ochre-health-newstead-medical-and-kings-meadows-medical-centre-tas",
+      "title": "Ochre Health - Newstead Medical and Kings Meadows Medical Centre, TAS",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-newstead-medical-and-kings-meadows-medical-centre-tas"
+    },
+    {
+      "slug": "vets-central-drovers-vet-hospital",
+      "title": "Vets Central - Drovers Vet Hospital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-drovers-vet-hospital"
+    },
+    {
+      "slug": "export-trading-group-australia-%E2%80%93-pulses-and-grains-business-and-facility-in-mount-tyson-qld",
+      "title": "Export Trading Group Australia – pulses and grains business and facility in Mount Tyson, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/export-trading-group-australia-%E2%80%93-pulses-and-grains-business-and-facility-in-mount-tyson-qld"
+    },
+    {
+      "slug": "eagers-audi-melbourne-and-audi-richmond",
+      "title": "Eagers - Audi Melbourne and Audi Richmond",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eagers-audi-melbourne-and-audi-richmond"
+    },
+    {
+      "slug": "francisco-partners-%E2%80%93-capsa-healthcare",
+      "title": "Francisco Partners – Capsa Healthcare",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-%E2%80%93-capsa-healthcare"
+    },
+    {
+      "slug": "princeton-digital-group-australia-land-located-in-campbelltown-nsw",
+      "title": "Princeton Digital Group Australia - land located in Campbelltown, NSW",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/princeton-digital-group-australia-land-located-in-campbelltown-nsw"
+    },
+    {
+      "slug": "bendigo-and-adelaide-bank-%E2%80%93-racq-bank",
+      "title": "Bendigo and Adelaide Bank – RACQ Bank",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bendigo-and-adelaide-bank-%E2%80%93-racq-bank"
+    },
+    {
+      "slug": "calvary-holmesglen-private-hospital",
+      "title": "Calvary - Holmesglen Private Hospital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-holmesglen-private-hospital"
+    },
+    {
+      "slug": "ochre-health-telegraph-road-clinic-bracken-ridge-qld",
+      "title": "Ochre Health - Telegraph Road Clinic, Bracken Ridge QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-telegraph-road-clinic-bracken-ridge-qld"
+    },
+    {
+      "slug": "tega-and-apollo-funds-consortium-molycop",
+      "title": "Tega and Apollo Funds consortium - Molycop",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tega-and-apollo-funds-consortium-molycop"
+    },
+    {
+      "slug": "sinopec-cnaf",
+      "title": "Sinopec - CNAF",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sinopec-cnaf"
+    },
+    {
+      "slug": "coles-%E2%80%93-land-around-supermarket-site-in-balaclava-vic",
+      "title": "Coles – land around supermarket site in Balaclava, VIC",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-land-around-supermarket-site-in-balaclava-vic"
+    },
+    {
+      "slug": "ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina",
+      "title": "MA Financial Group (MA Marina Fund) – Gold Coast City Marina",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina"
+    },
+    {
+      "slug": "origin-%E2%80%93-equity-stake-in-kraken",
+      "title": "Origin – Equity stake in Kraken",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-equity-stake-in-kraken"
+    },
+    {
+      "slug": "intrepid-travel-wild-bush-luxury",
+      "title": "Intrepid Travel - Wild Bush Luxury",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/intrepid-travel-wild-bush-luxury"
+    },
+    {
+      "slug": "winning-group-holdings-%E2%80%93-winning-appliances",
+      "title": "Winning Group Holdings – Winning Appliances",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/winning-group-holdings-%E2%80%93-winning-appliances"
+    },
+    {
+      "slug": "lighthouse-precise-services-group",
+      "title": "Lighthouse - Precise Services Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lighthouse-precise-services-group"
+    },
+    {
+      "slug": "idemitsu-midocean-energy",
+      "title": "Idemitsu - MidOcean Energy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/idemitsu-midocean-energy"
+    },
+    {
+      "slug": "cvc-capital-partners-%E2%80%93-the-animal-nutrition-and-health-division-of-the-dsm-firmenich-group",
+      "title": "CVC Capital Partners – The animal nutrition and health division of the DSM-Firmenich Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-the-animal-nutrition-and-health-division-of-the-dsm-firmenich-group"
+    },
+    {
+      "slug": "discovery-holiday-parks-%E2%80%93-habitat-noosa-everglades-eco-camp",
+      "title": "Discovery Holiday Parks – Habitat Noosa Everglades Eco Camp",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-habitat-noosa-everglades-eco-camp"
+    },
+    {
+      "slug": "kps-capital-partners-jennmar",
+      "title": "KPS Capital Partners - Jennmar",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kps-capital-partners-jennmar"
+    },
+    {
+      "slug": "opal-healthcare-%E2%80%93-greenwich-place-residential-aged-care-home",
+      "title": "Opal HealthCare – Greenwich Place residential aged care home",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-%E2%80%93-greenwich-place-residential-aged-care-home"
+    },
+    {
+      "slug": "gilead-arcellx",
+      "title": "Gilead - Arcellx",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-arcellx"
+    },
+    {
+      "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+      "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant"
+    },
+    {
+      "slug": "cvc-capital-partners-%E2%80%93-marathon-asset-management",
+      "title": "CVC Capital Partners – Marathon Asset Management",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-marathon-asset-management"
+    },
+    {
+      "slug": "regent-motors-group-lane-groups-mandurah-dealerships",
+      "title": "Regent Motors Group - Lane Group's Mandurah Dealerships",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regent-motors-group-lane-groups-mandurah-dealerships"
+    },
+    {
+      "slug": "henkel-%E2%80%93-stahl",
+      "title": "Henkel – Stahl",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-stahl"
+    },
+    {
+      "slug": "arlington-capital-partners-%E2%80%93-eptec-defence-solutions",
+      "title": "Arlington Capital Partners – Eptec Defence Solutions",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/arlington-capital-partners-%E2%80%93-eptec-defence-solutions"
+    },
+    {
+      "slug": "ironbark-investment-in-viola-private-wealth",
+      "title": "Ironbark - Investment in Viola Private Wealth",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ironbark-investment-in-viola-private-wealth"
+    },
+    {
+      "slug": "star-hotels-group-%E2%80%93-liquor-legends-berserker-liquor-legends-highway-a1-qld",
+      "title": "Star Hotels Group – Liquor Legends Berserker & Liquor Legends Highway A1, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-%E2%80%93-liquor-legends-berserker-liquor-legends-highway-a1-qld"
+    },
+    {
+      "slug": "cinven-%E2%80%93-regenity",
+      "title": "Cinven – Regenity",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cinven-%E2%80%93-regenity"
+    },
+    {
+      "slug": "vets-central-%E2%80%93-hills-veterinary-centre",
+      "title": "Vets Central – Hills Veterinary Centre",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre"
+    },
+    {
+      "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-and-port-stephens",
+      "title": "Tony White Group - Sharton Motors Dealerships in Maitland and Port Stephens",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-and-port-stephens"
+    },
+    {
+      "slug": "adobe-semrush",
+      "title": "Adobe - Semrush",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adobe-semrush"
+    },
+    {
+      "slug": "midocean-energy-%E2%80%93-jera-gorgon",
+      "title": "MidOcean Energy – JERA Gorgon",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midocean-energy-%E2%80%93-jera-gorgon"
+    },
+    {
+      "slug": "innio-group-%E2%80%93-enerflex",
+      "title": "INNIO Group – Enerflex",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex"
+    },
+    {
+      "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-comfy-dental-clinic-mandurah-wa",
+      "title": "National Dental Care – business assets comprising the Comfy Dental clinic, Mandurah, WA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-comfy-dental-clinic-mandurah-wa"
+    },
+    {
+      "slug": "blackbird-ventures-%E2%80%93-halter",
+      "title": "Blackbird Ventures – Halter",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-halter"
+    },
+    {
+      "slug": "aldus-hilton-manufacturing",
+      "title": "Aldus - Hilton Manufacturing",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aldus-hilton-manufacturing"
+    },
+    {
+      "slug": "wentworth-capital-%E2%80%93-novotel-darling-harbour-and-ibis-darling-harbour",
+      "title": "Wentworth Capital – Novotel Darling Harbour and Ibis Darling Harbour",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wentworth-capital-%E2%80%93-novotel-darling-harbour-and-ibis-darling-harbour"
+    },
+    {
+      "slug": "element-zeros-l701-%E2%80%93-option-to-lease-developmentwa-industrial-land-at-boodarie-strategic-industrial-area",
+      "title": "Element Zero's L701 – Option to lease DevelopmentWA industrial land at Boodarie Strategic Industrial Area",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/element-zeros-l701-%E2%80%93-option-to-lease-developmentwa-industrial-land-at-boodarie-strategic-industrial-area"
+    },
+    {
+      "slug": "austral-resources-australia-%E2%80%93-lady-loretta-mine",
+      "title": "Austral Resources Australia – Lady Loretta mine",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/austral-resources-australia-%E2%80%93-lady-loretta-mine"
+    },
+    {
+      "slug": "kps-%E2%80%93-novacel",
+      "title": "KPS – Novacel",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kps-%E2%80%93-novacel"
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-site-in-new-norfolk-tas",
+      "title": "Coles – supermarket site in New Norfolk (TAS)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-new-norfolk-tas"
+    },
+    {
+      "slug": "permira-and-warburg-pincus-clearwater-analytics",
+      "title": "Permira and Warburg Pincus - Clearwater Analytics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/permira-and-warburg-pincus-clearwater-analytics"
+    },
+    {
+      "slug": "rocket-software-%E2%80%93-vertica",
+      "title": "Rocket Software – Vertica",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rocket-software-%E2%80%93-vertica"
+    },
+    {
+      "slug": "argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
+      "title": "Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries"
+    },
+    {
+      "slug": "bgis-ascot-air",
+      "title": "BGIS - Ascot Air",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bgis-ascot-air"
+    },
+    {
+      "slug": "enverus-%E2%80%93-spatial-business-systems",
+      "title": "Enverus – Spatial Business Systems",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/enverus-%E2%80%93-spatial-business-systems"
+    },
+    {
+      "slug": "honda-%E2%80%93-additional-shareholding-in-astemo",
+      "title": "Honda – additional shareholding in Astemo",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/honda-%E2%80%93-additional-shareholding-in-astemo"
+    },
+    {
+      "slug": "vfmc-%E2%80%93-corval-land-and-operator-trusts",
+      "title": "VFMC – CorVal Land and Operator Trusts",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vfmc-%E2%80%93-corval-land-and-operator-trusts"
+    },
+    {
+      "slug": "blackstone-advanced-cooling-technologies",
+      "title": "Blackstone - Advanced Cooling Technologies",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-advanced-cooling-technologies"
+    },
+    {
+      "slug": "mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
+      "title": "McDonald’s Australia – McDonald’s Restaurants in Bankstown and Yagoona, NSW",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw"
+    },
+    {
+      "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine",
+      "title": "PT Asian Bulk Logistics – Engage Marine",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine"
+    },
+    {
+      "slug": "infotrust-%E2%80%93-catalyst-cyber",
+      "title": "Infotrust – Catalyst Cyber",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infotrust-%E2%80%93-catalyst-cyber"
+    },
+    {
+      "slug": "care-%E2%80%93-motorone-autobody",
+      "title": "CARe – MotorOne Autobody",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/care-%E2%80%93-motorone-autobody"
+    },
+    {
+      "slug": "az-next-generation-advisory-%E2%80%93-intend-financial",
+      "title": "AZ Next Generation Advisory – Intend Financial",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/az-next-generation-advisory-%E2%80%93-intend-financial"
+    },
+    {
+      "slug": "brisbane-airport-corporation-%E2%80%93-interest-in-land-at-brisbane-airport",
+      "title": "Brisbane Airport Corporation – Interest in land at Brisbane Airport",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brisbane-airport-corporation-%E2%80%93-interest-in-land-at-brisbane-airport"
+    },
+    {
+      "slug": "waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland",
+      "title": "Waymark Hotels Group – Warrego Hotel Motel Cunnamulla, Queensland",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland"
+    },
+    {
+      "slug": "ma-financial-group-redcape-fund-hotel-brunswick",
+      "title": "MA Financial Group (Redcape Fund) - Hotel Brunswick",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick"
+    },
+    {
+      "slug": "peter-warren-wakeling-automotive",
+      "title": "Peter Warren - Wakeling Automotive",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive"
+    },
+    {
+      "slug": "michelin-flexitallic",
+      "title": "Michelin - Flexitallic",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/michelin-flexitallic"
+    },
+    {
+      "slug": "vets-central-%E2%80%93-west-toowoomba-veterinary-surgery-in-qld",
+      "title": "Vets Central – West Toowoomba Veterinary Surgery in QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-west-toowoomba-veterinary-surgery-in-qld"
+    },
+    {
+      "slug": "five-v-capital-ftp-group",
+      "title": "Five V Capital - FTP Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group"
+    },
+    {
+      "slug": "genesis-minerals-%E2%80%93-magnetic-resources",
+      "title": "Genesis Minerals – Magnetic Resources",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genesis-minerals-%E2%80%93-magnetic-resources"
+    },
+    {
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance"
+    },
+    {
+      "slug": "hall-mclean-%E2%80%93-freehold-interest-in-commercial-land-in-wellcamp-qld",
+      "title": "Hall & McLean – Freehold interest in commercial land in Wellcamp, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hall-mclean-%E2%80%93-freehold-interest-in-commercial-land-in-wellcamp-qld"
+    },
+    {
+      "slug": "softbank-%E2%80%93-digitalbridge",
+      "title": "SoftBank – DigitalBridge",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/softbank-%E2%80%93-digitalbridge"
+    },
+    {
+      "slug": "national-dental-care-%E2%80%93-ddta-dental-clinic-in-launceston-tas",
+      "title": "National Dental Care – DDTA Dental clinic in Launceston, TAS",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-ddta-dental-clinic-in-launceston-tas"
+    },
+    {
+      "slug": "tetra-tech-%E2%80%93-providence-consulting",
+      "title": "Tetra Tech – Providence Consulting",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tetra-tech-%E2%80%93-providence-consulting"
+    },
+    {
+      "slug": "oep-ix-%E2%80%93-leviat",
+      "title": "OEP IX – Leviat",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oep-ix-%E2%80%93-leviat"
+    },
+    {
+      "slug": "ior-delta-specialised-energy-assets",
+      "title": "IOR - Delta Specialised Energy assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ior-delta-specialised-energy-assets"
+    },
+    {
+      "slug": "resonetics-%E2%80%93-resolution-medical",
+      "title": "Resonetics – Resolution Medical",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/resonetics-%E2%80%93-resolution-medical"
+    },
+    {
+      "slug": "autosports-group-solitaire-automotive-group",
+      "title": "Autosports Group - Solitaire Automotive Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autosports-group-solitaire-automotive-group"
+    },
+    {
+      "slug": "aluminium-specialties-group-%E2%80%93-manufacturing-facility-site-in-orchard-hills-nsw",
+      "title": "Aluminium Specialties Group – Manufacturing facility site in Orchard Hills, NSW",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aluminium-specialties-group-%E2%80%93-manufacturing-facility-site-in-orchard-hills-nsw"
+    },
+    {
+      "slug": "bsn-sports-%E2%80%93-sports-endeavors",
+      "title": "BSN Sports – Sports Endeavors",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bsn-sports-%E2%80%93-sports-endeavors"
+    },
+    {
+      "slug": "civilmart-%E2%80%93-taylex",
+      "title": "Civilmart – Taylex",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/civilmart-%E2%80%93-taylex"
+    },
+    {
+      "slug": "north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+      "title": "North American Construction Group – Iron Mine Contracting and Iron Hire",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire"
+    },
+    {
+      "slug": "eiffel-and-eurazeo-%E2%80%93-segula",
+      "title": "Eiffel and Eurazeo – Segula",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eiffel-and-eurazeo-%E2%80%93-segula"
+    },
+    {
+      "slug": "eli-lilly-%E2%80%93-orna-therapeutics",
+      "title": "Eli Lilly – Orna Therapeutics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-%E2%80%93-orna-therapeutics"
+    },
+    {
+      "slug": "airtree-%E2%80%93-hotdoc",
+      "title": "Airtree – HotDoc",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc"
+    },
+    {
+      "slug": "cvent-on24",
+      "title": "Cvent - ON24",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvent-on24"
+    },
+    {
+      "slug": "platinum-equity-group-%E2%80%93-burke",
+      "title": "Platinum Equity Group – Burke",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/platinum-equity-group-%E2%80%93-burke"
+    },
+    {
+      "slug": "zendesk-%E2%80%93-forethought",
+      "title": "Zendesk – Forethought",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zendesk-%E2%80%93-forethought"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-an-sibin-irish-pub",
+      "title": "Australian Venue Co. – An Sibin Irish Pub",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-an-sibin-irish-pub"
+    },
+    {
+      "slug": "craig-mostyn-%E2%80%93-patmore-feeds",
+      "title": "Craig Mostyn – Patmore Feeds",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/craig-mostyn-%E2%80%93-patmore-feeds"
+    },
+    {
+      "slug": "audiotonix-soundtech-group",
+      "title": "Audiotonix - Soundtech Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/audiotonix-soundtech-group"
+    },
+    {
+      "slug": "premier-fresh-%E2%80%93-charles-domenico-group",
+      "title": "Premier Fresh – Charles Domenico Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-charles-domenico-group"
+    },
+    {
+      "slug": "microstar-logistics-konvoy",
+      "title": "MicroStar Logistics - Konvoy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy"
+    },
+    {
+      "slug": "hg-capital-onestream",
+      "title": "Hg Capital - OneStream",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hg-capital-onestream"
+    },
+    {
+      "slug": "salesforce-%E2%80%93-qualified-0",
+      "title": "Salesforce – Qualified",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-%E2%80%93-qualified-0"
+    },
+    {
+      "slug": "tdr-and-estoril-%E2%80%93-escode",
+      "title": "TDR and Estoril – Escode",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tdr-and-estoril-%E2%80%93-escode"
+    },
+    {
+      "slug": "russell-investment-group-%E2%80%93-zurich-investment-management",
+      "title": "Russell Investment Group – Zurich Investment Management",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/russell-investment-group-%E2%80%93-zurich-investment-management"
+    },
+    {
+      "slug": "henkel-%E2%80%93-atp-adhesives-systems-group",
+      "title": "Henkel – ATP Adhesives Systems Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-atp-adhesives-systems-group"
+    },
+    {
+      "slug": "scopely-%E2%80%93-loom-games",
+      "title": "Scopely – Loom Games",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/scopely-%E2%80%93-loom-games"
+    },
+    {
+      "slug": "superloop-%E2%80%93-lynham-networks",
+      "title": "Superloop – Lynham Networks",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/superloop-%E2%80%93-lynham-networks"
+    },
+    {
+      "slug": "telstra-%E2%80%93-infosys-technologies",
+      "title": "Telstra – Infosys Technologies",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/telstra-%E2%80%93-infosys-technologies"
+    },
+    {
+      "slug": "charter-hall-holdings-jgs-private-capital",
+      "title": "Charter Hall Holdings - JGS Private Capital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/charter-hall-holdings-jgs-private-capital"
+    },
+    {
+      "slug": "apex-mercer-administration-services-and-related-assets",
+      "title": "Apex - Mercer Administration Services and related assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apex-mercer-administration-services-and-related-assets"
+    },
+    {
+      "slug": "hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group",
+      "title": "HongShan Capital Group and Temasek – Golden Goose Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group"
+    },
+    {
+      "slug": "crossmuller-%E2%80%93-gem",
+      "title": "Crossmuller – GEM",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/crossmuller-%E2%80%93-gem"
+    },
+    {
+      "slug": "servicenow-armis",
+      "title": "ServiceNow - Armis",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/servicenow-armis"
+    },
+    {
+      "slug": "cvs-group-pittwater-animal-hospital",
+      "title": "CVS Group - Pittwater Animal Hospital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-pittwater-animal-hospital"
+    },
+    {
+      "slug": "allied-beef-lease-of-yarranbrook-feedlot",
+      "title": "Allied Beef - Lease of Yarranbrook Feedlot",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allied-beef-lease-of-yarranbrook-feedlot"
+    },
+    {
+      "slug": "colliers-international-group-%E2%80%93-ayesa-engineering",
+      "title": "Colliers International Group – Ayesa Engineering",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/colliers-international-group-%E2%80%93-ayesa-engineering"
+    },
+    {
+      "slug": "bettergrow-hyg",
+      "title": "Bettergrow - HYG",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bettergrow-hyg"
+    },
+    {
+      "slug": "impression-dental-group-happy-rock-dental-practice",
+      "title": "Impression Dental Group - Happy Rock Dental Practice",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-happy-rock-dental-practice"
+    },
+    {
+      "slug": "laundy-group-%E2%80%93-nine-radio",
+      "title": "Laundy Group – Nine Radio",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-group-%E2%80%93-nine-radio"
+    },
+    {
+      "slug": "apollo-funds-led-consortium-%E2%80%93-lecta-group",
+      "title": "Apollo Funds led consortium – Lecta Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-funds-led-consortium-%E2%80%93-lecta-group"
+    },
+    {
+      "slug": "freudenberg-home-and-cleaning-solutions-%E2%80%93-nilfisk",
+      "title": "Freudenberg Home and Cleaning Solutions – Nilfisk",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/freudenberg-home-and-cleaning-solutions-%E2%80%93-nilfisk"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-four-licensed-venues-in-metropolitan-sydney-public-house-petersham-the-erko-the-golden-sheaf-and-barangaroo-house",
+      "title": "Australian Venue Co. – four licensed venues in metropolitan Sydney (Public House Petersham, The Erko, The Golden Sheaf and Barangaroo House)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-four-licensed-venues-in-metropolitan-sydney-public-house-petersham-the-erko-the-golden-sheaf-and-barangaroo-house"
+    },
+    {
+      "slug": "bain-capital-%E2%80%93-mcj",
+      "title": "Bain Capital – MCJ",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-mcj"
+    },
+    {
+      "slug": "playlist-%E2%80%93-egym",
+      "title": "Playlist – EGYM",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/playlist-%E2%80%93-egym"
+    },
+    {
+      "slug": "hcltech-jaspersoft",
+      "title": "HCLTech - Jaspersoft",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft"
+    },
+    {
+      "slug": "parker-hannifin-%E2%80%93-filtration-group",
+      "title": "Parker-Hannifin – Filtration Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-filtration-group"
+    },
+    {
+      "slug": "ibm-confluent",
+      "title": "IBM - Confluent",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ibm-confluent"
+    },
+    {
+      "slug": "symal-group-80-acquisition-of-davison-earthmovers",
+      "title": "Symal Group - 80% acquisition of Davison Earthmovers",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-80-acquisition-of-davison-earthmovers"
+    },
+    {
+      "slug": "sony-%E2%80%93-peanuts-worldwide",
+      "title": "Sony – Peanuts Worldwide",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-%E2%80%93-peanuts-worldwide"
+    },
+    {
+      "slug": "kee-safety-ris-safety",
+      "title": "Kee Safety - RIS Safety",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kee-safety-ris-safety"
+    },
+    {
+      "slug": "abbott-laboratories-exact-sciences",
+      "title": "Abbott Laboratories - Exact Sciences",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbott-laboratories-exact-sciences"
+    },
+    {
+      "slug": "paragon-care-%E2%80%93-presidental",
+      "title": "Paragon Care – Presidental",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paragon-care-%E2%80%93-presidental"
+    },
+    {
+      "slug": "h-e-parts-international-mining-solutions-warehouse-workshop-site-in-paget-qld",
+      "title": "H-E Parts International Mining Solutions - Warehouse workshop site in Paget, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/h-e-parts-international-mining-solutions-warehouse-workshop-site-in-paget-qld"
+    },
+    {
+      "slug": "general-atlantic-and-cpp-investments-led-consortium-boats-group",
+      "title": "General Atlantic and CPP Investments led consortium - Boats Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/general-atlantic-and-cpp-investments-led-consortium-boats-group"
+    },
+    {
+      "slug": "vets-central-%E2%80%93-gawler-animal-hospital-and-animalia-vet-clinic",
+      "title": "Vets Central – Gawler Animal Hospital and Animalia Vet Clinic",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-gawler-animal-hospital-and-animalia-vet-clinic"
+    },
+    {
+      "slug": "blackbird-ventures-%E2%80%93-baseten-labs",
+      "title": "Blackbird Ventures – Baseten Labs",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs"
+    },
+    {
+      "slug": "nec-corporation-%E2%80%93-csg-systems-international",
+      "title": "NEC Corporation – CSG Systems International",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nec-corporation-%E2%80%93-csg-systems-international"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-leasehold-and-certain-other-assets-of-quay-restaurant-sydney",
+      "title": "Australian Venue Co. – leasehold and certain other assets of Quay Restaurant, Sydney",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-leasehold-and-certain-other-assets-of-quay-restaurant-sydney"
+    },
+    {
+      "slug": "australian-retirement-trust-%E2%80%93-interests-in-non-rental-income-westfield-sydney",
+      "title": "Australian Retirement Trust – Interests in non-rental income (Westfield Sydney)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-interests-in-non-rental-income-westfield-sydney"
+    },
+    {
+      "slug": "symal-group-timms-group-and-ld-group",
+      "title": "Symal Group - Timms Group and L&D Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-timms-group-and-ld-group"
+    },
+    {
+      "slug": "l-catterton-management-%E2%80%93-ex-nihilo-group",
+      "title": "L Catterton Management – Ex Nihilo Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l-catterton-management-%E2%80%93-ex-nihilo-group"
+    },
+    {
+      "slug": "coforge-encora",
+      "title": "Coforge - Encora",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coforge-encora"
+    },
+    {
+      "slug": "ramsay-health-care-%E2%80%93-national-capital-private-hospital",
+      "title": "Ramsay Health Care – National Capital Private Hospital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ramsay-health-care-%E2%80%93-national-capital-private-hospital"
+    },
+    {
+      "slug": "francisco-partners-sermo",
+      "title": "Francisco Partners - Sermo",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-sermo"
+    },
+    {
+      "slug": "intrepid-travel-%E2%80%93-wild-bush-luxury",
+      "title": "Intrepid Travel – Wild Bush Luxury",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/intrepid-travel-%E2%80%93-wild-bush-luxury"
+    },
+    {
+      "slug": "ge-healthcare-%E2%80%93-intelerad",
+      "title": "GE Healthcare – Intelerad",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ge-healthcare-%E2%80%93-intelerad"
+    },
+    {
+      "slug": "delinea-tpg-strongdm",
+      "title": "Delinea (TPG) - StrongDM",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/delinea-tpg-strongdm"
+    },
+    {
+      "slug": "warburg-pincus-%E2%80%93-acclime",
+      "title": "Warburg Pincus – Acclime",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-acclime"
+    },
+    {
+      "slug": "henkel-%E2%80%93-atp-adhesive-systems-group",
+      "title": "Henkel – ATP adhesive systems group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-atp-adhesive-systems-group"
+    },
+    {
+      "slug": "opal-healthcare-%E2%80%93-sunnymeade-park-aged-care-community",
+      "title": "Opal Healthcare – Sunnymeade Park Aged Care Community",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-%E2%80%93-sunnymeade-park-aged-care-community"
+    },
+    {
+      "slug": "alpine-software-group-asg-%E2%80%93-playhq",
+      "title": "Alpine Software Group (ASG) – PlayHQ",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/alpine-software-group-asg-%E2%80%93-playhq"
+    },
+    {
+      "slug": "thermo-fisher-clario-holdings",
+      "title": "Thermo Fisher - Clario Holdings",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/thermo-fisher-clario-holdings"
+    },
+    {
+      "slug": "cvc-capital-partners-%E2%80%93-smiths-detection-group",
+      "title": "CVC Capital Partners – Smiths Detection Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-smiths-detection-group"
+    },
+    {
+      "slug": "stockland-llc-%E2%80%93-intragroup-transfer-of-halcyon-jardin-and-evergreen-projects",
+      "title": "Stockland LLC – intragroup transfer of Halcyon Jardin and Evergreen projects",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stockland-llc-%E2%80%93-intragroup-transfer-of-halcyon-jardin-and-evergreen-projects"
+    },
+    {
+      "slug": "l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9",
+      "title": "L’Oréal – Kering Beauté",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9"
+    },
+    {
+      "slug": "star-hotels-group-%E2%80%93-yandina-hotel-qld",
+      "title": "Star Hotels Group – Yandina Hotel, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-%E2%80%93-yandina-hotel-qld"
+    },
+    {
+      "slug": "regroup-%E2%80%93-scouts-queensland-recycling-centre-site",
+      "title": "Re.Group – Scouts Queensland Recycling Centre Site",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regroup-%E2%80%93-scouts-queensland-recycling-centre-site"
+    },
+    {
+      "slug": "altor-fund-manager-evac-holding-oy",
+      "title": "Altor Fund Manager - Evac Holding Oy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/altor-fund-manager-evac-holding-oy"
+    },
+    {
+      "slug": "carlyle-%E2%80%93-peloton-computer-enterprises",
+      "title": "Carlyle – Peloton Computer Enterprises",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/carlyle-%E2%80%93-peloton-computer-enterprises"
+    },
+    {
+      "slug": "kkr-led-consortium-%E2%80%93-saviynt",
+      "title": "KKR led consortium – Saviynt",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-led-consortium-%E2%80%93-saviynt"
+    },
+    {
+      "slug": "regent-motors-group-%E2%80%93-esperance-motor-group-esperance-toyota-ford",
+      "title": "Regent Motors Group – Esperance Motor Group (Esperance Toyota & Ford)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regent-motors-group-%E2%80%93-esperance-motor-group-esperance-toyota-ford"
+    },
+    {
+      "slug": "google-wiz",
+      "title": "Google - Wiz",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-wiz"
+    },
+    {
+      "slug": "salesforce-%E2%80%93-qualified",
+      "title": "Salesforce – Qualified",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-%E2%80%93-qualified"
+    },
+    {
+      "slug": "accenture-%E2%80%93-faculty-science",
+      "title": "Accenture – Faculty Science",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-%E2%80%93-faculty-science"
+    },
+    {
+      "slug": "wsp-%E2%80%93-trc",
+      "title": "WSP – TRC",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-%E2%80%93-trc"
+    },
+    {
+      "slug": "ifs-%E2%80%93-softeon",
+      "title": "IFS – Softeon",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifs-%E2%80%93-softeon"
+    },
+    {
+      "slug": "ethos-tpg-%E2%80%93-emis-and-certain-related-assets",
+      "title": "Ethos (TPG) – EMIS and certain related assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ethos-tpg-%E2%80%93-emis-and-certain-related-assets"
+    },
+    {
+      "slug": "treysta-wealth-management-%E2%80%93-locumsgroup",
+      "title": "Treysta Wealth Management – Locumsgroup",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/treysta-wealth-management-%E2%80%93-locumsgroup"
+    },
+    {
+      "slug": "cse-crosscom-%E2%80%93-progility",
+      "title": "CSE Crosscom – Progility",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cse-crosscom-%E2%80%93-progility"
+    },
+    {
+      "slug": "servicenow-veza",
+      "title": "ServiceNow - Veza",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/servicenow-veza"
+    },
+    {
+      "slug": "danone-%E2%80%93-further-1-interest-in-danone-saputo-dairy-australia",
+      "title": "Danone – further 1% interest in Danone Saputo Dairy Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-further-1-interest-in-danone-saputo-dairy-australia"
+    },
+    {
+      "slug": "carlyle-basf-coatings",
+      "title": "Carlyle - BASF Coatings",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/carlyle-basf-coatings"
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+      "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa"
+    },
+    {
+      "slug": "molex-%E2%80%93-smiths-interconnect",
+      "title": "Molex – Smiths Interconnect",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/molex-%E2%80%93-smiths-interconnect"
+    },
+    {
+      "slug": "caterpillar-%E2%80%93-rpmglobal-holdings",
+      "title": "Caterpillar – RPMGlobal Holdings",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/caterpillar-%E2%80%93-rpmglobal-holdings"
+    },
+    {
+      "slug": "la-caisse-%E2%80%93-edify-nsw-development-assets",
+      "title": "La Caisse – Edify NSW Development assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/la-caisse-%E2%80%93-edify-nsw-development-assets"
+    },
+    {
+      "slug": "anglo-american-teck-resources",
+      "title": "Anglo American - Teck Resources",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anglo-american-teck-resources"
+    },
+    {
+      "slug": "asahi-%E2%80%93-warehouse-site-on-weedman-and-montgomery-streets-redbank-qld",
+      "title": "Asahi – Warehouse site on Weedman and Montgomery Streets, Redbank (Qld)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/asahi-%E2%80%93-warehouse-site-on-weedman-and-montgomery-streets-redbank-qld"
+    },
+    {
+      "slug": "ampol-%E2%80%93-eg-australia",
+      "title": "Ampol – EG Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia"
+    },
+    {
+      "slug": "asahi-%E2%80%93-warehouse-site-on-tilburn-rd-deer-park-vic",
+      "title": "Asahi – Warehouse site on Tilburn Rd, Deer Park (Vic)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/asahi-%E2%80%93-warehouse-site-on-tilburn-rd-deer-park-vic"
+    },
+    {
+      "slug": "kongsberg-defence-%E2%80%93-site-within-newcastle-airport-precinct",
+      "title": "Kongsberg Defence – site within Newcastle Airport precinct",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kongsberg-defence-%E2%80%93-site-within-newcastle-airport-precinct"
+    }
+  ],
+  "changed_entries": [],
+  "removed_entries": []
+}
