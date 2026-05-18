@@ -317,24 +317,62 @@ def next_sibling_text(h3_tag):
 
 def extract_list_after_h3(h3_tag):
     """
-    Return a list of cleaned strings from the <ul> immediately following an h3.
+    Extract party names following an h3 heading.
+    Handles multiple ACCC HTML structures:
+      - <ul><li> lists (standard format)
+      - <p> tags (one per party)
+      - <dl><dd> definition lists
+      - <div> containers with inner elements
     """
     items = []
     sib = h3_tag.next_sibling
+
     while sib is not None:
         if hasattr(sib, "name"):
+
             if sib.name == "ul":
+                # Standard list — most common format
                 for li in sib.find_all("li"):
                     text = clean(li.get_text())
                     if text:
                         items.append(text)
                 break
-            elif sib.name == "h3":
+
+            elif sib.name == "dl":
+                # Definition list format
+                for dd in sib.find_all("dd"):
+                    text = clean(dd.get_text())
+                    if text:
+                        items.append(text)
                 break
+
+            elif sib.name == "p":
+                # One party per paragraph
+                text = clean(sib.get_text())
+                if text:
+                    items.append(text)
+
+            elif sib.name == "div":
+                # Container — look inside for any list or paragraph structure
+                inner = sib.find_all(["li", "dd", "p"])
+                if inner:
+                    for el in inner:
+                        text = clean(el.get_text())
+                        if text:
+                            items.append(text)
+                else:
+                    text = clean(sib.get_text())
+                    if text:
+                        items.append(text)
+                break
+
+            elif sib.name == "h3":
+                # Reached the next section — stop
+                break
+
         sib = sib.next_sibling
+
     return items
-
-
 def parse_detail_page(soup, url):
     """
     Parse an individual acquisition/waiver detail page and return a dict of all fields.
