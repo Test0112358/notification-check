@@ -713,12 +713,6 @@ def save_json(path, obj):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=2, default=str, ensure_ascii=False)
 
-def format_date_for_csv(date_str):
-    """Convert date strings to ISO YYYY-MM-DD format for correct sorting."""
-    d = parse_date(date_str)
-    if d:
-        return d.strftime("%Y-%m-%d")
-    return date_str
 
 def export_csv(register):
     """Write the register data to a CSV with human-readable column names."""
@@ -879,31 +873,8 @@ def download_questionnaires(questionnaires, session):
             print(f"  WARNING: Could not download {url}: {exc}")
 
     return downloaded
-
-    dl_cons = download_list(new_consultation, "consultation_docs")
-    dl_decs = download_list(new_decisions, "decision_docs")
-    return dl_cons, dl_decs
   
-# ── Consultation questionnaire detection and download ──────────────────
-    dl_questionnaires = []  # Always defined, even if detection fails
-    try:
-        print("\nChecking for new consultation questionnaires...")
-        new_questionnaires = detect_new_questionnaires(stored_register, new_register)
-        if new_questionnaires:
-            print(f"  {len(new_questionnaires)} new questionnaire(s) detected.")
-            dl_questionnaires = download_questionnaires(new_questionnaires, session)
-        else:
-            print("  No new questionnaires.")
-        save_json(
-            os.path.join(DATA_DIR, "new_documents.json"),
-            {
-                "run_utc": run_utc,
-                "questionnaire_count": len(dl_questionnaires),
-                "questionnaires": dl_questionnaires,
-            },
-        )
-    except Exception as exc:
-        print(f"  WARNING: Questionnaire detection/download failed: {exc}")
+
   
 def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
@@ -1235,6 +1206,27 @@ def run():
     }
     save_json(LATEST_CHANGES_JSON, latest_changes)
 
+    # ── Consultation questionnaire detection and download ──────────────────
+    dl_questionnaires = []  # Always defined, even if detection fails
+    try:
+        print("\nChecking for new consultation questionnaires...")
+        new_questionnaires = detect_new_questionnaires(stored_register, new_register)
+        if new_questionnaires:
+            print(f"  {len(new_questionnaires)} new questionnaire(s) detected.")
+            dl_questionnaires = download_questionnaires(new_questionnaires, session)
+        else:
+            print("  No new questionnaires.")
+        save_json(
+            os.path.join(DATA_DIR, "new_documents.json"),
+            {
+                "run_utc": run_utc,
+                "questionnaire_count": len(dl_questionnaires),
+                "questionnaires": dl_questionnaires,
+            },
+        )
+    except Exception as exc:
+        print(f"  WARNING: Questionnaire detection/download failed: {exc}")
+
     # ── Summary output ─────────────────────────────────────────────────────
     print(f"\n{'─' * 65}")
     print(f"  Run complete at {run_utc}")
@@ -1283,10 +1275,10 @@ def run():
             f.write(f"removed_count={len(removed_slugs)}\n")
             f.write(f"consultation_doc_count={len(locals().get('dl_questionnaires', []))}\n")
 
-  # ── New document detection and download ────────────────────────────────
+    # ── New document detection and download ────────────────────────────────
     print("\nChecking for new documents...")
-  new_consultation, new_decisions = [], []
-  
+    new_consultation, new_decisions = [], []
+
     write_status_csv(
         run_utc, new_register, stored_register,
         new_slugs, changed_slugs, removed_slugs, changelog
