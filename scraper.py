@@ -1281,7 +1281,7 @@ def run():
             f.write(f"new_count={len(new_slugs)}\n")
             f.write(f"changed_count={len(changed_slugs)}\n")
             f.write(f"removed_count={len(removed_slugs)}\n")
-            f.write(f"consultation_doc_count={len(dl_questionnaires)}\n")
+            f.write(f"consultation_doc_count={len(locals().get('dl_questionnaires', []))}\n")
 
   # ── New document detection and download ────────────────────────────────
     print("\nChecking for new documents...")
