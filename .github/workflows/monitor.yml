@@ -72,6 +72,67 @@ jobs:
           from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
           subject: "ACCC Register update: ${{ steps.scraper.outputs.new_count }} new, ${{ steps.scraper.outputs.changed_count }} changed"
           body: |
+
+          - name: Email new consultation documents
+        if: steps.scraper.outputs.consultation_doc_count != '0' && env.MAIL_USERNAME != ''
+        uses: dawidd6/action-send-mail@v3
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          subject: "ACCC — ${{ steps.scraper.outputs.consultation_doc_count }} new consultation document(s) published"
+          attachments: data/consultation_docs/*
+          body: |
+            The ACCC has published new consultation document(s).
+
+            ${{ steps.scraper.outputs.consultation_doc_count }} document(s) are attached.
+            File type may be Word or PDF depending on the case.
+
+            These relate to active consultation periods where the ACCC is
+            seeking submissions from interested parties.
+
+            Documents are also stored permanently here:
+            ${{ github.server_url }}/${{ github.repository }}/tree/main/data/consultation_docs
+
+            ACCC Register:
+            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
+
+      - name: Email new determination documents
+        if: steps.scraper.outputs.decision_doc_count != '0' && env.MAIL_USERNAME != ''
+        uses: dawidd6/action-send-mail@v3
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          subject: "ACCC — ${{ steps.scraper.outputs.decision_doc_count }} new determination/key event document(s) published"
+          attachments: data/decision_docs/*
+          body: |
+            The ACCC has published new determination or key event document(s).
+
+            ${{ steps.scraper.outputs.decision_doc_count }} document(s) are attached.
+            File type may be PDF or Word depending on the case.
+
+            These may include Phase 1 or Phase 2 determinations, statements of
+            issues, public benefit assessments, or timeline notices.
+
+            Documents are also stored permanently here:
+            ${{ github.server_url }}/${{ github.repository }}/tree/main/data/decision_docs
+
+            Full details:
+            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/new_documents.json
+
+            ACCC Register:
+            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
             The ACCC Acquisitions Register has been updated.
 
             New entries:     ${{ steps.scraper.outputs.new_count }}
