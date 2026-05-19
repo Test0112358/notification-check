@@ -619,6 +619,12 @@ def save_json(path, obj):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=2, default=str, ensure_ascii=False)
 
+def format_date_for_csv(date_str):
+    """Convert date strings to ISO YYYY-MM-DD format for correct sorting."""
+    d = parse_date(date_str)
+    if d:
+        return d.strftime("%Y-%m-%d")
+    return date_str
 
 def export_csv(register):
     """Write the register data to a CSV with human-readable column names."""
