@@ -72,8 +72,25 @@ jobs:
           from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
           subject: "ACCC Register update: ${{ steps.scraper.outputs.new_count }} new, ${{ steps.scraper.outputs.changed_count }} changed"
           body: |
+            The ACCC Acquisitions Register has been updated.
 
-          - name: Email new consultation documents
+            New entries:     ${{ steps.scraper.outputs.new_count }}
+            Changed entries: ${{ steps.scraper.outputs.changed_count }}
+            Removed entries: ${{ steps.scraper.outputs.removed_count }}
+
+            Download the latest CSV:
+            ${{ github.server_url }}/${{ github.repository }}/raw/main/data/register.csv
+
+            View what changed:
+            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/latest_changes.json
+
+            Full changelog:
+            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/changelog.json
+
+            ACCC Register:
+            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
+
+      - name: Email new consultation documents
         if: steps.scraper.outputs.consultation_doc_count != '0' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
         env:
@@ -133,24 +150,8 @@ jobs:
 
             ACCC Register:
             https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
-            The ACCC Acquisitions Register has been updated.
 
-            New entries:     ${{ steps.scraper.outputs.new_count }}
-            Changed entries: ${{ steps.scraper.outputs.changed_count }}
-            Removed entries: ${{ steps.scraper.outputs.removed_count }}
-
-            Download the latest CSV:
-            ${{ github.server_url }}/${{ github.repository }}/raw/main/data/register.csv
-
-            View what changed:
-            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/latest_changes.json
-
-            Full changelog:
-            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/changelog.json
-
-            ACCC Register:
-            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
-
+          
   verify:
     name: Verify Data Accuracy
     runs-on: ubuntu-latest
