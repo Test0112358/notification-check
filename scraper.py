@@ -1157,6 +1157,30 @@ def run():
 
     # ── Removed entries ────────────────────────────────────────────────────
     removed_slugs = sorted(set(stored_register.keys()) - set(new_register.keys()))
+
+     # ── Verify removals before trusting them ───────────────────────────────
+    confirmed_removed = []
+    for slug in removed_slugs:
+        detail_url = f"{BASE_URL}/acquisitions-register/{slug}"
+        try:
+            r = session.get(detail_url, timeout=30)
+            if r.status_code == 404 or "page not found" in r.text.lower():
+                confirmed_removed.append(slug)
+            else:
+                print(f"  WARNING: {slug} missing from listing but detail page exists — skipping removal")
+        except Exception as exc:
+            print(f"  WARNING: could not verify {slug} — keeping in register ({exc})")
+    removed_slugs = confirmed_removed
+
+    for slug in removed_slugs:
+        changelog.append({
+            "timestamp_utc": run_utc,
+            "slug": slug,
+            "title": stored_register[slug].get("title", slug),
+            "url": stored_register[slug].get("url", ""),
+            "event": "REMOVED",
+            "changes": [],
+          
     for slug in removed_slugs:
         changelog.append({
             "timestamp_utc": run_utc,
