@@ -593,7 +593,16 @@ def detect_changes(old, new):
             changes.append({"field": field, "old": old_val, "new": new_val})
     return changes
 
-
+def format_date_for_csv(date_str):
+    """
+    Convert any date string to ISO format (YYYY-MM-DD) for Google Sheets.
+    ISO format sorts correctly both alphabetically and as date values.
+    Returns the original string unchanged if it cannot be parsed.
+    """
+    d = parse_date(date_str)
+    if d:
+        return d.strftime("%Y-%m-%d")
+    return date_str
 # ---------------------------------------------------------------------------
 # Persistence
 # ---------------------------------------------------------------------------
