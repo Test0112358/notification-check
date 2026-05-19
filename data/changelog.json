@@ -12766,5 +12766,40 @@
         "new": "GREATER NEWCASTLE AEROTROPOLIS PTY LTD; 90 629 359 726"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-19T00:15:26.876792Z",
+    "slug": "restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+    "title": "Restaurant Brands and Yum! Brands – Taco Bell restaurants",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T00:15:26.876792Z",
+    "slug": "3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue",
+    "title": "3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "3M Company; IRS EIN - 41-041777; Madison Industrial Solutions Corporation; State of Delaware, Division of Corporations - 5633530; Bain Capital Investors, LLC; IRS EIN - 81-2878769",
+        "new": "Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-041777; Madison Industrial Solutions Corporation; State of Delaware, Division of Corporations - 5633530"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-11T15:50:13+10:00",
+        "new": "2026-05-19T09:53:11+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-19T00:15:26.876792Z",
+    "slug": "hcltech-jaspersoft",
+    "title": "HCLTech - Jaspersoft",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft",
+    "event": "REMOVED",
+    "changes": []
   }
 ]
