@@ -353,9 +353,76 @@ def parse_detail_page(soup, url):
     if not soup:
         return data
 
-  
+    # Meta tags
+    meta_mod = soup.find("meta", {"property": "article:modified_time"})
+    if meta_mod:
+        data["last_modified_accc"] = clean(meta_mod.get("content", ""))
 
-    # ── Decisions / documents table ────────────────────────────────────────
+    meta_pub = soup.find("meta", {"property": "article:published_time"})
+    if meta_pub:
+        data["published_time_accc"] = clean(meta_pub.get("content", ""))
+
+    # Page title
+    h1 = soup.find("h1")
+    if h1:
+        data["title"] = clean(h1.get_text())
+
+    # Scalar fields via h3 heading navigation
+    SCALAR_FIELDS = {
+        "acquisition status":              "acquisition_status",
+        "acquisition case number":         "case_number",
+        "type":                            "type",
+        "effective notification date":     "notification_date",
+        "waiver application date":         "notification_date",
+        "notification / application date": "notification_date",
+        "stage":                           "stage",
+        "end of determination period":     "end_of_determination_period",
+        "accc determination":              "accc_determination",
+        "determination publication date":  "determination_publication_date",
+        "anzsic code(s)":                  "anzsic_codes",
+        "anzsic codes":                    "anzsic_codes",
+    }
+
+    for h3 in soup.find_all("h3"):
+        label = clean(h3.get_text()).lower()
+        if label in SCALAR_FIELDS:
+            val = next_sibling_text(h3)
+            if val:
+                data[SCALAR_FIELDS[label]] = val
+
+    # Party fields via text extraction
+    page_text = soup.get_text(separator="\n")
+
+    ALL_STOP_LABELS = [
+        "Acquirer(s)", "Target(s) or Vendor(s)", "Other party(ies)",
+        "ANZSIC code(s)", "ANZSIC codes", "Description", "Consultation",
+        "Decisions and key events", "About the acquisition",
+        "ACCC Determination", "Determination publication date",
+        "Acquisition status", "Acquisition case number",
+    ]
+
+    acquirers = extract_parties_from_text(
+        page_text, "Acquirer(s)",
+        [s for s in ALL_STOP_LABELS if s != "Acquirer(s)"]
+    )
+    if acquirers:
+        data["acquirers"] = "; ".join(acquirers)
+
+    targets = extract_parties_from_text(
+        page_text, "Target(s) or Vendor(s)",
+        [s for s in ALL_STOP_LABELS if s != "Target(s) or Vendor(s)"]
+    )
+    if targets:
+        data["targets"] = "; ".join(targets)
+
+    others = extract_parties_from_text(
+        page_text, "Other party(ies)",
+        [s for s in ALL_STOP_LABELS if s != "Other party(ies)"]
+    )
+    if others:
+        data["other_parties"] = "; ".join(others)
+
+    # Documents table
     docs = []
     for table in soup.find_all("table"):
         for row in table.find_all("tr"):
@@ -864,10 +931,10 @@ def run():
         for item in summary["decisions_due_within_10_days"]:
             print(f"    ⚠  {item['title']} — {item['end_of_determination_period']} ({item['days_remaining']}d)")
 
-    # ── GitHub Actions output variables ────────────────────────────────────
+ # ── GitHub Actions output variables ────────────────────────────────────
     has_changes = bool(new_slugs or changed_slugs or removed_slugs)
     gh_output = os.environ.get("GITHUB_OUTPUT", "")
-  if gh_output:
+    if gh_output:
         with open(gh_output, "a") as f:
             f.write(f"has_changes={'true' if has_changes else 'false'}\n")
             f.write(f"new_count={len(new_slugs)}\n")
