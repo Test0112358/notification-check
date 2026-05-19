@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-05-19T00:28:44.654282Z",
+  "generated_at_utc": "2026-05-19T01:11:56.286313Z",
   "total_entries": 255,
   "by_acquisition_status": {
-    "Under assessment": 29,
-    "Assessment completed": 226
+    "Under assessment": 28,
+    "Assessment completed": 227
   },
   "by_stage": {
     "Phase 1 - initial assessment": 101,
@@ -15,7 +15,7 @@
     "Waiver": 150
   },
   "by_accc_determination": {
-    "Approved": 213,
+    "Approved": 214,
     "Not approved": 13
   },
   "decisions_due_within_10_days": []

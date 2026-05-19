@@ -1,33 +1,30 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-19 00:15:26.876792,
-Last scrape run (AEST),19 May 2026  10:15,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-19 00:58:19.976008,
+Last scrape run (AEST),19 May 2026  10:58,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,255,
-New entries this run,1,
+New entries this run,0,
 Changed entries this run,1,
-Removed entries this run,1,
+Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
-,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ 3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue,MN-15015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue
-,Other Parties,"3M Company; IRS EIN - 41-041777; Madison Industrial Solutions Corporation; State of Delaware, Divisi  →  Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-041777; Madison Industri"
-,Last Modified Accc,2026-05-11T15:50:13+10:00  →  2026-05-19T09:53:11+10:00
-,,
-REMOVED ENTRIES (1),Case Number,
-- HCLTech - Jaspersoft,WA-95005,
+~ Gilead - Ouro,MN-60014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-ouro
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,5 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  18 May 2026
+,Last Modified Accc,2026-05-04T11:38:49+10:00  →  2026-05-19T10:18:20+10:00
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (255),Case Number,Detected (AEST)
+NEW ENTRIES (256),Case Number,Detected (AEST)
 + Mastercard - BVNK,MN-50015,18 May  18:04
 + Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,18 May  18:04
 + PT Asian Bulk Logistics – Engage Marine,MN-90012,18 May  18:04
@@ -283,8 +280,9 @@ NEW ENTRIES (255),Case Number,Detected (AEST)
 + Ampol – EG Australia,MN-01019,18 May  18:04
 "+ Asahi – Warehouse site on Tilburn Rd, Deer Park (Vic)",MN-01016,18 May  18:04
 + Kongsberg Defence – site within Newcastle Airport precinct,MN-01017,18 May  18:04
++ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,19 May  10:15
 ,,
-"CHANGED ENTRIES (255 entries, 497 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (255 entries, 498 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
 ,Acquirers,  →  Ares UK Holdco 2 Limited CRN 17107097; Mastercard Incorporated 3390142; Masterca  (18 May  18:45)
 ,Targets,  →  BVNK Holdings Limited 13922014; B Corporation S.A.M 23S09602  (18 May  18:45)
@@ -371,6 +369,8 @@ NEW ENTRIES (255),Case Number,Detected (AEST)
 ,Acquirers,"Fire Safety Platform Holding, LP State of Delaware, Division of Corporations - 1  →  Fire Safety Platform Holding, LP; State of Delaware, Division of Corporations -   (18 May  19:26)"
 ,Targets,"Madison Safety & Flow Holdings LLC State of Delaware, Division of Corporations -  →  Madison Safety & Flow Holdings LLC; State of Delaware, Division of Corporations   (18 May  19:26)"
 ,Other Parties,3M Company IRS EIN - 41-041777; Madison Industrial Solutions Corporation State o  →  3M Company; IRS EIN - 41-041777; Madison Industrial Solutions Corporation; State  (18 May  19:26)
+,Other Parties,"3M Company; IRS EIN - 41-041777; Madison Industrial Solutions Corporation; State  →  Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-0417  (19 May  10:15)"
+,Last Modified Accc,2026-05-11T15:50:13+10:00  →  2026-05-19T09:53:11+10:00  (19 May  10:15)
 ,,
 ~ Rubik Australia Pty Limited - Qube Holdings Limited,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rubik-australia-pty-limited-qube-holdings-limited
 ,Acquirers,  →  RUBIK AUSTRALIA PTY LIMITED ABN - 66 694 531 792  (18 May  18:45)
@@ -2045,4 +2045,7 @@ NEW ENTRIES (255),Case Number,Detected (AEST)
 ,Targets,  →  GREATER NEWCASTLE AEROTROPOLIS PTY LTD ABN - 90 629 359 726  (18 May  18:45)
 ,Acquirers,KONGSBERG DEFENCE AUSTRALIA PTY LTD ABN - 95 146 599 359  →  KONGSBERG DEFENCE AUSTRALIA PTY LTD; 95 146 599 359  (18 May  19:26)
 ,Targets,GREATER NEWCASTLE AEROTROPOLIS PTY LTD ABN - 90 629 359 726  →  GREATER NEWCASTLE AEROTROPOLIS PTY LTD; 90 629 359 726  (18 May  19:26)
+,,
+REMOVED ENTRIES (1),Case Number,Detected (AEST)
+- HCLTech - Jaspersoft,,19 May  10:15
 ,,

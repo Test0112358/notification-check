@@ -12801,5 +12801,39 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft",
     "event": "REMOVED",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T00:58:19.976008Z",
+    "slug": "gilead-ouro",
+    "title": "Gilead - Ouro",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-ouro",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "5 Jun 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 May 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-04T11:38:49+10:00",
+        "new": "2026-05-19T10:18:20+10:00"
+      }
+    ]
   }
 ]
