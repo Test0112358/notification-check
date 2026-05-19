@@ -1285,30 +1285,7 @@ def run():
 
   # ── New document detection and download ────────────────────────────────
     print("\nChecking for new documents...")
-    new_consultation, new_decisions = detect_new_documents(
-        stored_register, new_register
-    )
-    dl_cons, dl_decs = [], []
-
-    if new_consultation or new_decisions:
-        print(f"  {len(new_consultation)} new consultation doc(s), "
-              f"{len(new_decisions)} new decision doc(s).")
-        dl_cons, dl_decs = download_new_documents(
-            new_consultation, new_decisions, session
-        )
-    else:
-        print("  No new documents.")
-
-    save_json(
-        os.path.join(DATA_DIR, "new_documents.json"),
-        {
-            "run_utc": run_utc,
-            "consultation_count": len(dl_cons),
-            "decision_count": len(dl_decs),
-            "consultation_docs": dl_cons,
-            "decision_docs": dl_decs,
-        },
-    )
+  new_consultation, new_decisions = [], []
   
     write_status_csv(
         run_utc, new_register, stored_register,
