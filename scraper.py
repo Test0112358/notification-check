@@ -87,6 +87,9 @@ TRACKED_FIELDS = [
     "other_parties",
     "anzsic_codes",
     "last_modified_accc",  # article:modified_time from the ACCC page
+    "consultation_text",
+    "consultation_docs",
+    "decisions_docs",  
 ]
 
 # ---------------------------------------------------------------------------
@@ -425,6 +428,69 @@ def fetch_all_listing_entries(session):
 # Detail page parsing
 # ---------------------------------------------------------------------------
 
+def get_section_table(h3_tag, all_h3_and_tables):
+    """
+    Return the first table belonging to this h3 section —
+    the first table appearing after this h3 and before the next h3
+    in document order.
+    """
+    found = False
+    for el in all_h3_and_tables:
+        if el is h3_tag:
+            found = True
+            continue
+        if found:
+            if el.name == "h3":
+                return None
+            if el.name == "table":
+                return el
+    return None
+
+
+def parse_table_rows(table_tag):
+    """
+    Extract rows from a section table as a list of
+    {date, description, url} dicts. Skips header rows.
+    """
+    rows = []
+    if not table_tag:
+        return rows
+    for row in table_tag.find_all("tr"):
+        cells = row.find_all(["td", "th"])
+        if len(cells) < 2:
+            continue
+        date_text = clean(cells[0].get_text())
+        desc_text = clean(cells[1].get_text())
+        if date_text.lower() in ("date", ""):
+            continue
+        link_tag = None
+        for cell in cells:
+            link_tag = cell.find("a", href=True)
+            if link_tag:
+                break
+        doc_url = urljoin(BASE_URL, link_tag["href"]) if link_tag else ""
+        if date_text and desc_text:
+            rows.append({
+                "date": date_text,
+                "description": desc_text,
+                "url": doc_url,
+            })
+    return rows
+
+
+def format_docs_for_csv(docs):
+    """
+    Format a list of document dicts as a pipe-separated readable string.
+    Example: "3 Apr 2026: Statement of Issues | 15 May 2026: Determination"
+    """
+    if not docs:
+        return ""
+    return " | ".join(
+        f"{d.get('date', '')}: {d.get('description', '')}"
+        for d in docs
+        if d.get("description")
+    )
+
 def next_sibling_text(h3_tag):
     """
     Return the cleaned text content of the first meaningful sibling after an h3.
@@ -553,25 +619,53 @@ def parse_detail_page(soup, url):
     if others:
         data["other_parties"] = "; ".join(others)
 
-    # Documents table
-    docs = []
-    for table in soup.find_all("table"):
-        for row in table.find_all("tr"):
-            cells = row.find_all(["td", "th"])
-            if len(cells) < 2:
-                continue
-            date_text = clean(cells[0].get_text())
-            desc_text = clean(cells[1].get_text())
-            link_tag = cells[-1].find("a") if len(cells) > 2 else cells[1].find("a")
-            doc_url = urljoin(BASE_URL, link_tag["href"]) if link_tag else ""
-            if date_text and desc_text:
-                docs.append({
-                    "date": date_text,
-                    "description": desc_text,
-                    "url": doc_url,
-                })
-    if docs:
-        data["documents"] = docs
+   # ── Section-aware document and text extraction ─────────────────────────
+    all_h3_and_tables = soup.find_all(["h3", "table"])
+
+    for h3 in soup.find_all("h3"):
+        label = clean(h3.get_text()).lower()
+
+        if label == "consultation":
+            # Prose text from consultation section
+            text_parts = []
+            sib = h3.next_sibling
+            while sib is not None:
+                if hasattr(sib, "name"):
+                    if sib.name == "h3":
+                        break
+                    if sib.name in ("p", "div"):
+                        t = clean(sib.get_text())
+                        if t and len(t) > 15:
+                            text_parts.append(t)
+                sib = sib.next_sibling
+            if text_parts:
+                data["consultation_text"] = " ".join(text_parts[:3])
+
+            # Consultation document table (Word docs or PDFs)
+            table = get_section_table(h3, all_h3_and_tables)
+            rows = parse_table_rows(table)
+            if rows:
+                data["consultation_docs"] = rows
+
+        elif label in (
+            "decisions and key events",
+            "key events",
+            "decisions",
+            "decisions & key events",
+        ):
+            # Decisions document table (PDFs or Word docs)
+            table = get_section_table(h3, all_h3_and_tables)
+            rows = parse_table_rows(table)
+            if rows:
+                data["decisions_docs"] = rows
+
+    # Combined documents field for backward compatibility
+    all_docs = (
+        data.get("consultation_docs", []) +
+        data.get("decisions_docs", [])
+    )
+    if all_docs:
+        data["documents"] = all_docs
 
     return data
 
@@ -652,6 +746,9 @@ def export_csv(register):
             "Determination Publication Date":    format_date_for_csv(e.get("determination_publication_date", "")),
             "ANZSIC Code(s)":                           e.get("anzsic_codes", ""),
             "URL":                                      e.get("url", ""),
+            "Decisions and Key Events":  format_docs_for_csv(e.get("decisions_docs", [])),
+            "Consultation Text":          e.get("consultation_text", ""),
+            "Consultation Documents":     format_docs_for_csv(e.get("consultation_docs", [])),
             "ACCC Page Last Modified":                  e.get("last_modified_accc", ""),
             "Last Scraped (UTC)":                       e.get("last_scraped_utc", ""),
         })
@@ -709,6 +806,102 @@ def generate_summary(register):
         ),
     }
 
+def detect_new_documents(stored_register, new_register):
+    """
+    Detect new documents across both Consultation and
+    Decisions and key events sections for all entries.
+    Returns two lists: new consultation docs, new decision docs.
+    File type (PDF or Word) is not assumed — both can appear in either section.
+    """
+    new_consultation = []
+    new_decisions = []
+
+    for slug, entry in new_register.items():
+        stored = stored_register.get(slug, {})
+        title = entry.get("title", slug)
+        case_num = entry.get("case_number", "")
+        accc_url = entry.get("url", "")
+
+        # Consultation docs
+        old_cons_urls = {
+            d["url"] for d in stored.get("consultation_docs", [])
+            if d.get("url")
+        }
+        for doc in entry.get("consultation_docs", []):
+            if doc.get("url") and doc["url"] not in old_cons_urls:
+                new_consultation.append({
+                    "slug": slug, "title": title,
+                    "case_number": case_num, "accc_url": accc_url,
+                    "section": "Consultation",
+                    "date": doc.get("date", ""),
+                    "description": doc.get("description", ""),
+                    "download_url": doc.get("url", ""),
+                })
+
+        # Decisions docs
+        old_decs_urls = {
+            d["url"] for d in stored.get("decisions_docs", [])
+            if d.get("url")
+        }
+        for doc in entry.get("decisions_docs", []):
+            if doc.get("url") and doc["url"] not in old_decs_urls:
+                new_decisions.append({
+                    "slug": slug, "title": title,
+                    "case_number": case_num, "accc_url": accc_url,
+                    "section": "Decisions and key events",
+                    "date": doc.get("date", ""),
+                    "description": doc.get("description", ""),
+                    "download_url": doc.get("url", ""),
+                })
+
+    return new_consultation, new_decisions
+
+
+def download_new_documents(new_consultation, new_decisions, session):
+    """
+    Download new consultation and decision documents into separate subfolders.
+    Handles any file type (PDF or Word doc) — uses filename from the URL.
+    Returns (downloaded_consultation, downloaded_decisions).
+    """
+    import urllib.parse
+
+    def download_list(docs, subfolder):
+        folder = os.path.join(DATA_DIR, subfolder)
+        os.makedirs(folder, exist_ok=True)
+        downloaded = []
+        for doc in docs:
+            url = doc.get("download_url", "")
+            if not url:
+                continue
+            try:
+                parsed = urllib.parse.urlparse(url)
+                filename = urllib.parse.unquote(os.path.basename(parsed.path))
+                if not filename:
+                    filename = f"{doc['slug']}-document"
+                filename = re.sub(r'[^\w\-_\. ]', '_', filename)
+                filepath = os.path.join(folder, filename)
+
+                print(f"  Downloading: {filename}")
+                resp = session.get(url, timeout=60)
+                resp.raise_for_status()
+                with open(filepath, "wb") as f:
+                    f.write(resp.content)
+                size_kb = round(len(resp.content) / 1024, 1)
+                print(f"  Saved: {filepath} ({size_kb} KB)")
+                downloaded.append({
+                    **doc,
+                    "local_path": filepath,
+                    "filename": filename,
+                    "size_kb": size_kb,
+                })
+                time.sleep(REQUEST_DELAY)
+            except Exception as exc:
+                print(f"  WARNING: Could not download {url}: {exc}")
+        return downloaded
+
+    dl_cons = download_list(new_consultation, "consultation_docs")
+    dl_decs = download_list(new_decisions, "decision_docs")
+    return dl_cons, dl_decs
 
 def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
@@ -1086,7 +1279,36 @@ def run():
             f.write(f"new_count={len(new_slugs)}\n")
             f.write(f"changed_count={len(changed_slugs)}\n")
             f.write(f"removed_count={len(removed_slugs)}\n")
+            f.write(f"consultation_doc_count={len(dl_cons)}\n")
+            f.write(f"decision_doc_count={len(dl_decs)}\n")
 
+  # ── New document detection and download ────────────────────────────────
+    print("\nChecking for new documents...")
+    new_consultation, new_decisions = detect_new_documents(
+        stored_register, new_register
+    )
+    dl_cons, dl_decs = [], []
+
+    if new_consultation or new_decisions:
+        print(f"  {len(new_consultation)} new consultation doc(s), "
+              f"{len(new_decisions)} new decision doc(s).")
+        dl_cons, dl_decs = download_new_documents(
+            new_consultation, new_decisions, session
+        )
+    else:
+        print("  No new documents.")
+
+    save_json(
+        os.path.join(DATA_DIR, "new_documents.json"),
+        {
+            "run_utc": run_utc,
+            "consultation_count": len(dl_cons),
+            "decision_count": len(dl_decs),
+            "consultation_docs": dl_cons,
+            "decision_docs": dl_decs,
+        },
+    )
+  
     write_status_csv(
         run_utc, new_register, stored_register,
         new_slugs, changed_slugs, removed_slugs, changelog
