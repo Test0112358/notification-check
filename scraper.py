@@ -586,121 +586,7 @@ def generate_summary(register):
     }
 
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
-
-def run():
-    separator = "=" * 65
-    print(f"\n{separator}")
-    print(f"  ACCC Acquisitions Register Monitor")
-    print(f"  {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S local')}")
-    print(f"{separator}\n")
-
-    stored_register = load_json(REGISTER_JSON, {})
-    changelog = load_json(CHANGELOG_JSON, [])
-
-    run_utc = datetime.datetime.utcnow().isoformat() + "Z"
-
-    session = requests.Session()
-    session.headers.update(HEADERS)
-
-    # ── Step 1: Get summary data from all listing pages ────────────────────
-    listing_entries = fetch_all_listing_entries(session)
-
-    # ── Step 2: Fetch every detail page ───────────────────────────────────
-    # We must fetch detail pages for ALL entries because fields like
-    # "End of determination period" and "ACCC Determination" only appear
-    # on the individual case page, not the listing.
-    # The article:modified_time lets us detect any change (including date
-    # changes the ACCC makes without altering visible text).
-
-    new_register = {}
-    new_slugs = []
-    changed_slugs = []
-
-    total = len(listing_entries)
-    print(f"\nFetching {total} detail pages...\n")
-
-    for idx, (slug, list_entry) in enumerate(listing_entries.items(), 1):
-        print(f"  [{idx:3d}/{total}] {slug[:70]}")
-
-        detail_soup = fetch(list_entry["url"], session)
-        time.sleep(REQUEST_DELAY)
-
-        if detail_soup:
-            detail = parse_detail_page(detail_soup, list_entry["url"])
-        else:
-            # Fall back to previously stored data so we don't lose history
-            detail = stored_register.get(slug, {})
-            print(f"           WARNING: using cached data for {slug}")
-
-        # Merge: detail page values override list-page values for shared fields
-        entry = {**list_entry, **detail}
-        entry["slug"] = slug
-        entry["last_scraped_utc"] = run_utc
-
-        # ── Calculated day fields ──────────────────────────────────────────
-        notif_date = entry.get("notification_date", "")
-        end_det = entry.get("end_of_determination_period", "")
-        det_pub = entry.get("determination_publication_date", "")
-
-        # Notification date → end of determination period
-        cal, biz = calc_determination_days(notif_date, end_det)
-        entry["det_period_calendar_days"] = cal
-        entry["det_period_business_days"] = biz
-
-        # Notification date → determination publication date (completed cases)
-        if det_pub:
-            e_cal, e_biz = calc_determination_days(notif_date, det_pub)
-            entry["elapsed_calendar_days"] = e_cal
-            entry["elapsed_business_days"] = e_biz
-
-        # ── Change detection ───────────────────────────────────────────────
-        if slug not in stored_register:
-            new_slugs.append(slug)
-            changelog.append({
-                "timestamp_utc": run_utc,
-                "slug": slug,
-                "title": entry.get("title", slug),
-                "url": entry.get("url", ""),
-                "event": "NEW_ENTRY",
-                "changes": [],
-            })
-        else:
-            changes = detect_changes(stored_register[slug], entry)
-            if changes:
-                changed_slugs.append(slug)
-                changelog.append({
-                    "timestamp_utc": run_utc,
-                    "slug": slug,
-                    "title": entry.get("title", slug),
-                    "url": entry.get("url", ""),
-                    "event": "CHANGED",
-                    "changes": changes,
-                })
-
-        new_register[slug] = entry
-
-    # ── Removed entries ────────────────────────────────────────────────────
-    removed_slugs = sorted(set(stored_register.keys()) - set(new_register.keys()))
-    for slug in removed_slugs:
-        changelog.append({
-            "timestamp_utc": run_utc,
-            "slug": slug,
-            "title": stored_register[slug].get("title", slug),
-            "url": stored_register[slug].get("url", ""),
-            "event": "REMOVED",
-            "changes": [],
-        })
-
-    # ── Persist ────────────────────────────────────────────────────────────
-    print("\nSaving data files...")
-    save_json(REGISTER_JSON, new_register)
-    save_json(CHANGELOG_JSON, changelog)
-    export_csv(new_register)
-
-  def write_status_csv(run_utc, register, stored_register,
+def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
     """Write status.csv for the Last Updated tab in Google Sheets."""
     import csv as _csv
@@ -883,6 +769,121 @@ def run():
     with open(status_path, "w", newline="", encoding="utf-8-sig") as _f:
         _csv.writer(_f).writerows(rows)
     print(f"  Status CSV written: {status_path}")
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def run():
+    separator = "=" * 65
+    print(f"\n{separator}")
+    print(f"  ACCC Acquisitions Register Monitor")
+    print(f"  {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S local')}")
+    print(f"{separator}\n")
+
+    stored_register = load_json(REGISTER_JSON, {})
+    changelog = load_json(CHANGELOG_JSON, [])
+
+    run_utc = datetime.datetime.utcnow().isoformat() + "Z"
+
+    session = requests.Session()
+    session.headers.update(HEADERS)
+
+    # ── Step 1: Get summary data from all listing pages ────────────────────
+    listing_entries = fetch_all_listing_entries(session)
+
+    # ── Step 2: Fetch every detail page ───────────────────────────────────
+    # We must fetch detail pages for ALL entries because fields like
+    # "End of determination period" and "ACCC Determination" only appear
+    # on the individual case page, not the listing.
+    # The article:modified_time lets us detect any change (including date
+    # changes the ACCC makes without altering visible text).
+
+    new_register = {}
+    new_slugs = []
+    changed_slugs = []
+
+    total = len(listing_entries)
+    print(f"\nFetching {total} detail pages...\n")
+
+    for idx, (slug, list_entry) in enumerate(listing_entries.items(), 1):
+        print(f"  [{idx:3d}/{total}] {slug[:70]}")
+
+        detail_soup = fetch(list_entry["url"], session)
+        time.sleep(REQUEST_DELAY)
+
+        if detail_soup:
+            detail = parse_detail_page(detail_soup, list_entry["url"])
+        else:
+            # Fall back to previously stored data so we don't lose history
+            detail = stored_register.get(slug, {})
+            print(f"           WARNING: using cached data for {slug}")
+
+        # Merge: detail page values override list-page values for shared fields
+        entry = {**list_entry, **detail}
+        entry["slug"] = slug
+        entry["last_scraped_utc"] = run_utc
+
+        # ── Calculated day fields ──────────────────────────────────────────
+        notif_date = entry.get("notification_date", "")
+        end_det = entry.get("end_of_determination_period", "")
+        det_pub = entry.get("determination_publication_date", "")
+
+        # Notification date → end of determination period
+        cal, biz = calc_determination_days(notif_date, end_det)
+        entry["det_period_calendar_days"] = cal
+        entry["det_period_business_days"] = biz
+
+        # Notification date → determination publication date (completed cases)
+        if det_pub:
+            e_cal, e_biz = calc_determination_days(notif_date, det_pub)
+            entry["elapsed_calendar_days"] = e_cal
+            entry["elapsed_business_days"] = e_biz
+
+        # ── Change detection ───────────────────────────────────────────────
+        if slug not in stored_register:
+            new_slugs.append(slug)
+            changelog.append({
+                "timestamp_utc": run_utc,
+                "slug": slug,
+                "title": entry.get("title", slug),
+                "url": entry.get("url", ""),
+                "event": "NEW_ENTRY",
+                "changes": [],
+            })
+        else:
+            changes = detect_changes(stored_register[slug], entry)
+            if changes:
+                changed_slugs.append(slug)
+                changelog.append({
+                    "timestamp_utc": run_utc,
+                    "slug": slug,
+                    "title": entry.get("title", slug),
+                    "url": entry.get("url", ""),
+                    "event": "CHANGED",
+                    "changes": changes,
+                })
+
+        new_register[slug] = entry
+
+    # ── Removed entries ────────────────────────────────────────────────────
+    removed_slugs = sorted(set(stored_register.keys()) - set(new_register.keys()))
+    for slug in removed_slugs:
+        changelog.append({
+            "timestamp_utc": run_utc,
+            "slug": slug,
+            "title": stored_register[slug].get("title", slug),
+            "url": stored_register[slug].get("url", ""),
+            "event": "REMOVED",
+            "changes": [],
+        })
+
+    # ── Persist ────────────────────────────────────────────────────────────
+    print("\nSaving data files...")
+    save_json(REGISTER_JSON, new_register)
+    save_json(CHANGELOG_JSON, changelog)
+    export_csv(new_register)
+
+ 
 
     summary = generate_summary(new_register)
     save_json(SUMMARY_JSON, summary)
