@@ -1155,24 +1155,35 @@ def run():
 
         new_register[slug] = entry
 
-    # ── Removed entries ────────────────────────────────────────────────────
-    removed_slugs = sorted(set(stored_register.keys()) - set(new_register.keys()))
+   # ── Removed entries ────────────────────────────────────────────────────
+    potentially_removed = sorted(set(stored_register.keys()) - set(new_register.keys()))
 
-     # ── Verify removals before trusting them ───────────────────────────────
-    confirmed_removed = []
-    for slug in removed_slugs:
-        detail_url = f"{BASE_URL}/acquisitions-register/{slug}"
+    removed_slugs = []
+
+    if potentially_removed:
+        print(f"\n  Verifying {len(potentially_removed)} potentially removed entry(ies)...")
+
+    for slug in potentially_removed:
+        stored_entry = stored_register[slug]
+        # Use the stored URL directly — more reliable than reconstructing it
+        detail_url = stored_entry.get("url", "")
+        if not detail_url:
+            detail_url = f"{BASE_URL}/acquisitions-register/{slug}"
         try:
             r = session.get(detail_url, timeout=30)
             if r.status_code == 404 or "page not found" in r.text.lower():
-                confirmed_removed.append(slug)
+                # Genuinely gone from the ACCC website
+                removed_slugs.append(slug)
+                print(f"    CONFIRMED removed: {slug}")
             else:
-                print(f"  WARNING: {slug} missing from listing but detail page exists — skipping removal")
+                # Page still exists — pagination miss, recover from stored data
+                print(f"    Recovered (pagination miss): {slug}")
+                new_register[slug] = {**stored_entry, "last_scraped_utc": run_utc}
         except Exception as exc:
-            print(f"  WARNING: could not verify {slug} — keeping in register ({exc})")
-    removed_slugs = confirmed_removed
+            # Cannot verify — conservative default is to keep the entry
+            print(f"    Cannot verify {slug} — keeping in register ({exc})")
+            new_register[slug] = {**stored_entry, "last_scraped_utc": run_utc}
 
-          
     for slug in removed_slugs:
         changelog.append({
             "timestamp_utc": run_utc,
