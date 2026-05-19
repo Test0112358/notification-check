@@ -16619,5 +16619,21 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick",
     "event": "REMOVED",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T08:11:17.415127Z",
+    "slug": "axdi-minority-interest-in-la-trobe-financial",
+    "title": "AXDI - minority interest in La Trobe Financial",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T08:11:17.415127Z",
+    "slug": "ma-financial-group-redcape-fund-hotel-brunswick",
+    "title": "MA Financial Group (Redcape Fund) - Hotel Brunswick",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
