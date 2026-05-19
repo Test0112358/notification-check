@@ -12835,5 +12835,64 @@
         "new": "2026-05-19T10:18:20+10:00"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-19T02:54:16.967891Z",
+    "slug": "eli-lilly-kelonia-therapeutics",
+    "title": "Eli Lilly - Kelonia Therapeutics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T02:54:16.967891Z",
+    "slug": "primary-wave-kobalt",
+    "title": "Primary Wave - Kobalt",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T02:54:16.967891Z",
+    "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
+    "title": "Barro Group / BQC Quarries and Burdekin Concrete",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; BURDEKIN CONCRETE PTY. LTD.; 25 010 095 253; TWIN ROCK PTY. LTD.; 84 092 733 867; COLEVALE ESTATES PTY LTD & M & T POPULIN PTY LTD & TWIN ROCK PTY LTD; 14 440 726 153; BQC SANDS PTY LTD; 92 662 904 190",
+        "new": "BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T Populin Pty Ltd; 092 648 078; TWIN ROCK PTY. LTD.; 84 092 733 867; COLEVALE ESTATES PTY LTD & M & T POPULIN PTY LTD & TWIN ROCK PTY LTD; 14 440 726 153; BURDEKIN CONCRETE PTY. LTD.; 25 010 095 253"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-04-29T14:07:41+10:00",
+        "new": "2026-05-07T13:35:47+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-19T02:54:16.967891Z",
+    "slug": "hcltech-jaspersoft",
+    "title": "HCLTech - Jaspersoft",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T02:54:16.967891Z",
+    "slug": "five-v-capital-ftp-group",
+    "title": "Five V Capital - FTP Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group",
+    "event": "REMOVED",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T02:54:16.967891Z",
+    "slug": "ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina",
+    "title": "MA Financial Group (MA Marina Fund) – Gold Coast City Marina",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina",
+    "event": "REMOVED",
+    "changes": []
   }
 ]

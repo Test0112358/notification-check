@@ -1,42 +1,52 @@
 {
-  "run_utc": "2026-05-19T00:58:19.976008Z",
-  "new_count": 0,
+  "run_utc": "2026-05-19T02:54:16.967891Z",
+  "new_count": 3,
   "changed_count": 1,
-  "removed_count": 0,
-  "new_entries": [],
+  "removed_count": 2,
+  "new_entries": [
+    {
+      "slug": "eli-lilly-kelonia-therapeutics",
+      "title": "Eli Lilly - Kelonia Therapeutics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics"
+    },
+    {
+      "slug": "primary-wave-kobalt",
+      "title": "Primary Wave - Kobalt",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt"
+    },
+    {
+      "slug": "hcltech-jaspersoft",
+      "title": "HCLTech - Jaspersoft",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "gilead-ouro",
-      "title": "Gilead - Ouro",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-ouro",
+      "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
+      "title": "Barro Group / BQC Quarries and Burdekin Concrete",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "5 Jun 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "18 May 2026"
+          "field": "targets",
+          "old": "M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; BURDEKIN CONCRETE PTY. LTD.; 25 010 095 253; TWIN ROCK PTY. LTD.; 84 092 733 867; COLEVALE ESTATES PTY LTD & M & T POPULIN PTY LTD & TWIN ROCK PTY LTD; 14 440 726 153; BQC SANDS PTY LTD; 92 662 904 190",
+          "new": "BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T Populin Pty Ltd; 092 648 078; TWIN ROCK PTY. LTD.; 84 092 733 867; COLEVALE ESTATES PTY LTD & M & T POPULIN PTY LTD & TWIN ROCK PTY LTD; 14 440 726 153; BURDEKIN CONCRETE PTY. LTD.; 25 010 095 253"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-04T11:38:49+10:00",
-          "new": "2026-05-19T10:18:20+10:00"
+          "old": "2026-04-29T14:07:41+10:00",
+          "new": "2026-05-07T13:35:47+10:00"
         }
       ]
     }
   ],
-  "removed_entries": []
+  "removed_entries": [
+    {
+      "slug": "five-v-capital-ftp-group",
+      "title": "Five V Capital - FTP Group"
+    },
+    {
+      "slug": "ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina",
+      "title": "MA Financial Group (MA Marina Fund) – Gold Coast City Marina"
+    }
+  ]
 }

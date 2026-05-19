@@ -1,25 +1,31 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-19 00:58:19.976008,
-Last scrape run (AEST),19 May 2026  10:58,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-19 02:54:16.967891,
+Last scrape run (AEST),19 May 2026  12:54,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,255,
-New entries this run,0,
+Total entries monitored,256,
+New entries this run,3,
 Changed entries this run,1,
-Removed entries this run,0,
+Removed entries this run,2,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
+NEW ENTRIES (3),Case Number,URL
++ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
++ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
++ HCLTech - Jaspersoft,WA-95005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft
+,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Gilead - Ouro,MN-60014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-ouro
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,5 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  18 May 2026
-,Last Modified Accc,2026-05-04T11:38:49+10:00  →  2026-05-19T10:18:20+10:00
+~ Barro Group / BQC Quarries and Burdekin Concrete,MN-60011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete
+,Targets,M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; BURDEKIN CONCRETE PTY. LTD  →  BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T Populin Pty Ltd; 092 
+,Last Modified Accc,2026-04-29T14:07:41+10:00  →  2026-05-07T13:35:47+10:00
+,,
+REMOVED ENTRIES (2),Case Number,
+- Five V Capital - FTP Group,WA-25008,
+- MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -122,7 +128,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 + Tega and Apollo Funds consortium - Molycop,MN-85006,18 May  18:04
 + Sinopec - CNAF,MN-01093,18 May  18:04
 "+ Coles – land around supermarket site in Balaclava, VIC",WA-60012,18 May  18:04
-+ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,18 May  18:04
++ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,,18 May  18:04
 + Origin – Equity stake in Kraken,MN-20011,18 May  18:04
 + Intrepid Travel - Wild Bush Luxury,MN-40008,18 May  18:04
 + Winning Group Holdings – Winning Appliances,WA-01092,18 May  18:04
@@ -173,7 +179,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 + Peter Warren - Wakeling Automotive,MN-30002,18 May  18:04
 + Michelin - Flexitallic,WA-60010,18 May  18:04
 + Vets Central – West Toowoomba Veterinary Surgery in QLD,WA-95008,18 May  18:04
-+ Five V Capital - FTP Group,WA-25008,18 May  18:04
++ Five V Capital - FTP Group,,18 May  18:04
 + Genesis Minerals – Magnetic Resources,WA-85014,18 May  18:04
 + Insurance Australia Group – RAC Insurance,MN-65005,18 May  18:04
 "+ Hall & McLean – Freehold interest in commercial land in Wellcamp, QLD",WA-20008,18 May  18:04
@@ -223,7 +229,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 "+ Australian Venue Co. – four licensed venues in metropolitan Sydney (Public House Petersham, The Erko, The Golden Sheaf and Barangaroo House)",MN-10006,18 May  18:04
 + Bain Capital – MCJ,MN-80002,18 May  18:04
 + Playlist – EGYM,WA-75006,18 May  18:04
-+ HCLTech - Jaspersoft,,18 May  18:04
++ HCLTech - Jaspersoft,WA-95005,18 May  18:04
 + Parker-Hannifin – Filtration Group,MN-75004,18 May  18:04
 + IBM - Confluent,MN-10001,18 May  18:04
 + Symal Group - 80% acquisition of Davison Earthmovers,MN-55003,18 May  18:04
@@ -282,7 +288,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 + Kongsberg Defence – site within Newcastle Airport precinct,MN-01017,18 May  18:04
 + Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,19 May  10:15
 ,,
-"CHANGED ENTRIES (255 entries, 498 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (255 entries, 499 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
 ,Acquirers,  →  Ares UK Holdco 2 Limited CRN 17107097; Mastercard Incorporated 3390142; Masterca  (18 May  18:45)
 ,Targets,  →  BVNK Holdings Limited 13922014; B Corporation S.A.M 23S09602  (18 May  18:45)
@@ -562,6 +568,11 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Targets,"  →  Ouro Medicines, LLC 202462212198  (18 May  18:45)"
 ,Acquirers,"Gilead Sciences, Inc. EIN 94-3047598  →  Gilead Sciences, Inc.; EIN 94-3047598  (18 May  19:26)"
 ,Targets,"Ouro Medicines, LLC 202462212198  →  Ouro Medicines, LLC; 202462212198  (18 May  19:26)"
+,Acquisition Status,Under assessment  →  Assessment completed  (19 May  10:58)
+,End Of Determination Period,5 Jun 2026  →    (19 May  10:58)
+,Accc Determination,  →  Approved  (19 May  10:58)
+,Determination Publication Date,  →  18 May 2026  (19 May  10:58)
+,Last Modified Accc,2026-05-04T11:38:49+10:00  →  2026-05-19T10:18:20+10:00  (19 May  10:58)
 ,,
 ~ Oceania Capital Partners - Hudson Global Resources (Aust),WA-70016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oceania-capital-partners-hudson-global-resources-aust
 ,Acquirers,  →  OCEANIA CAPITAL PARTNERS LIMITED ABN - 52 111 554 360; K & K RYAN PTY LTD (ACN 6  (18 May  18:45)
@@ -977,7 +988,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Targets,CITY OF PORT PHILLIP ABN - 21 762 977 945  →  CITY OF PORT PHILLIP; 21 762 977 945  (18 May  19:26)
 ,Other Parties,COLES SUPERMARKETS AUSTRALIA PTY LTD ABN - 45 004 189 708; COLES GROUP LIMITED A  →  COLES SUPERMARKETS AUSTRALIA PTY LTD; 45 004 189 708; COLES GROUP LIMITED; 11 00  (18 May  19:26)
 ,,
-~ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina
+~ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,,
 ,Acquirers,  →  MA MARINA FUND HOLDCO PTY LTD ABN - 96 667 241 385; MA MARINA FUND TT PTY LTD AB  (18 May  18:45)
 ,Targets,  →  GGC Marketing Pty Ltd ABN - 32 105 294 228; QUEENSLAND & PACIFIC PTY. LTD. ABN -  (18 May  18:45)
 ,Other Parties,  →  MA ASSET MANAGEMENT LTD ABN - 93 142 008 535; MA MARINA FUND OPCO NO. 1 PTY LTD   (18 May  18:45)
@@ -1335,7 +1346,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Targets,The trustee for the Burke Family Trust ABN - 35 834 715 269  →  The trustee for the Burke Family Trust; 35 834 715 269  (18 May  19:26)
 ,Other Parties,VETS CENTRAL HOLDINGS PTY LTD ABN - 60 652 812 256  →  VETS CENTRAL HOLDINGS PTY LTD; 60 652 812 256  (18 May  19:26)
 ,,
-~ Five V Capital - FTP Group,WA-25008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group
+~ Five V Capital - FTP Group,,
 ,Acquirers,  →  OVERWATCH BIDCO PTY LTD ACN - 695 739 970  (18 May  18:45)
 ,Targets,  →  FTP GROUP HOLDINGS PTY LTD ABN - 82 626 217 614; FAARM BIDCO PTY LTD ACN - 695 8  (18 May  18:45)
 ,Other Parties,  →  FIVE V CAPITAL PTY LTD ABN - 29 162 193 928; Five V Horizons Pty Ltd ACN - 665 2  (18 May  18:45)
@@ -1684,7 +1695,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Targets,EGYM SE HRB: 186394  →  EGYM SE; HRB: 186394  (18 May  19:26)
 ,Other Parties,Fitness Technologies Group LLC DE File number: 6170825; CLASSPASS AUSTRALIA PTY   →  Fitness Technologies Group LLC; DE File number: 6170825; CLASSPASS AUSTRALIA PTY  (18 May  19:26)
 ,,
-~ HCLTech - Jaspersoft,,
+~ HCLTech - Jaspersoft,WA-95005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft
 ,Acquirers,  →  HCL Technologies Limited ABN - 37 541 578 951  (18 May  18:45)
 ,Targets,  →  CLOUD SOFTWARE GROUP AUSTRALIA PTY LTD ABN - 94 092 002 321  (18 May  18:45)
 ,Acquirers,HCL Technologies Limited ABN - 37 541 578 951  →  HCL Technologies Limited; 37 541 578 951  (18 May  19:26)
