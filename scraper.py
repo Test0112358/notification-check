@@ -868,6 +868,7 @@ def download_new_documents(new_consultation, new_decisions, session):
     def download_list(docs, subfolder):
         folder = os.path.join(DATA_DIR, subfolder)
         os.makedirs(folder, exist_ok=True)
+        docs = docs[:15]  # Safety cap — max 15 downloads per section per run
         downloaded = []
         for doc in docs:
             url = doc.get("download_url", "")
@@ -902,6 +903,33 @@ def download_new_documents(new_consultation, new_decisions, session):
     dl_cons = download_list(new_consultation, "consultation_docs")
     dl_decs = download_list(new_decisions, "decision_docs")
     return dl_cons, dl_decs
+  
+# ── New document detection and download ────────────────────────────────
+    print("\nChecking for new documents...")
+    new_consultation, new_decisions = detect_new_documents(
+        stored_register, new_register
+    )
+    dl_cons, dl_decs = [], []
+
+    if new_consultation or new_decisions:
+        print(f"  {len(new_consultation)} new consultation doc(s), "
+              f"{len(new_decisions)} new decision doc(s).")
+        dl_cons, dl_decs = download_new_documents(
+            new_consultation, new_decisions, session
+        )
+    else:
+        print("  No new documents.")
+
+    save_json(
+        os.path.join(DATA_DIR, "new_documents.json"),
+        {
+            "run_utc": run_utc,
+            "consultation_count": len(dl_cons),
+            "decision_count": len(dl_decs),
+            "consultation_docs": dl_cons,
+            "decision_docs": dl_decs,
+        },
+    )
 
 def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
