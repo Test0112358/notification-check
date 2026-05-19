@@ -1,26 +1,25 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-19 08:11:17.415127,
-Last scrape run (AEST),19 May 2026  18:11,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-19 17:30:48.033694,
+Last scrape run (AEST),20 May 2026  03:30,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,261,
-New entries this run,2,
+Total entries monitored,260,
+New entries this run,0,
 Changed entries this run,0,
-Removed entries this run,0,
+Removed entries this run,1,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ AXDI - minority interest in La Trobe Financial,WA-30011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial
-+ MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick
+REMOVED ENTRIES (1),Case Number,
+- Tega and Apollo Funds consortium - Molycop,MN-85006,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (263),Case Number,Detected (AEST)
+NEW ENTRIES (265),Case Number,Detected (AEST)
 + Mastercard - BVNK,MN-50015,18 May  18:04
 + Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,18 May  18:04
 + PT Asian Bulk Logistics – Engage Marine,MN-90012,18 May  18:04
@@ -115,7 +114,7 @@ NEW ENTRIES (263),Case Number,Detected (AEST)
 + Bendigo and Adelaide Bank – RACQ Bank,WA-70015,18 May  18:04
 + Calvary - Holmesglen Private Hospital,MN-55010,18 May  18:04
 "+ Ochre Health - Telegraph Road Clinic, Bracken Ridge QLD",WA-15012,18 May  18:04
-+ Tega and Apollo Funds consortium - Molycop,MN-85006,18 May  18:04
++ Tega and Apollo Funds consortium - Molycop,,18 May  18:04
 + Sinopec - CNAF,MN-01093,18 May  18:04
 "+ Coles – land around supermarket site in Balaclava, VIC",WA-60012,18 May  18:04
 + MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,18 May  18:04
@@ -284,6 +283,8 @@ NEW ENTRIES (263),Case Number,Detected (AEST)
 + Hillhouse - Barwon Investment Partners,WA-65015,19 May  17:26
 + MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,19 May  17:26
 + Five V Capital - FTP Group,WA-25008,19 May  17:26
++ AXDI - minority interest in La Trobe Financial,WA-30011,19 May  18:11
++ MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,19 May  18:11
 ,,
 "CHANGED ENTRIES (258 entries, 755 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
@@ -1074,7 +1075,7 @@ NEW ENTRIES (263),Case Number,Detected (AEST)
 ,Other Parties,RAINLEIGH PTY LIMITED ABN - 41 056 364 679; Genesis Capital  →  RAINLEIGH PTY LIMITED; 41 056 364 679; Genesis Capital  (18 May  19:26)
 ,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination publis  (19 May  17:26)"
 ,,
-~ Tega and Apollo Funds consortium - Molycop,MN-85006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tega-and-apollo-funds-consortium-molycop
+~ Tega and Apollo Funds consortium - Molycop,,
 ,Acquirers,  →  Tega MC SG Holdings Pte. Ltd. 202551682E; Tega MC Australia Holdings Pty Ltd ABN  (18 May  18:45)
 ,Targets,  →  Orway IQ Pty Ltd ABN - 52 631 359 370; Molycop Technologies Pty Ltd ABN - 85 154  (18 May  18:45)
 ,Other Parties,  →  Tega MC JV Holdings Pte. Ltd. 202551674N; AP Jupiter Holdco (SG) P. Ltd. 2025516  (18 May  18:45)
@@ -2344,5 +2345,5 @@ REMOVED ENTRIES (4),Case Number,Detected (AEST)
 - HCLTech - Jaspersoft,WA-95005,19 May  10:15
 - Five V Capital - FTP Group,WA-25008,19 May  12:54
 - MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,19 May  12:54
-- MA Financial Group (Redcape Fund) - Hotel Brunswick,,19 May  17:26
+- MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,19 May  17:26
 ,,

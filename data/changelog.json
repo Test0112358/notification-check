@@ -16635,5 +16635,13 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-19T17:30:48.033694Z",
+    "slug": "tega-and-apollo-funds-consortium-molycop",
+    "title": "Tega and Apollo Funds consortium - Molycop",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tega-and-apollo-funds-consortium-molycop",
+    "event": "REMOVED",
+    "changes": []
   }
 ]

@@ -1,20 +1,14 @@
 {
-  "run_utc": "2026-05-19T08:11:17.415127Z",
-  "new_count": 2,
+  "run_utc": "2026-05-19T17:30:48.033694Z",
+  "new_count": 0,
   "changed_count": 0,
-  "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "axdi-minority-interest-in-la-trobe-financial",
-      "title": "AXDI - minority interest in La Trobe Financial",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial"
-    },
-    {
-      "slug": "ma-financial-group-redcape-fund-hotel-brunswick",
-      "title": "MA Financial Group (Redcape Fund) - Hotel Brunswick",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick"
-    }
-  ],
+  "removed_count": 1,
+  "new_entries": [],
   "changed_entries": [],
-  "removed_entries": []
+  "removed_entries": [
+    {
+      "slug": "tega-and-apollo-funds-consortium-molycop",
+      "title": "Tega and Apollo Funds consortium - Molycop"
+    }
+  ]
 }
