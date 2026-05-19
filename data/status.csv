@@ -1,36 +1,820 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-19 02:54:16.967891,
-Last scrape run (AEST),19 May 2026  12:54,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-19 07:26:15.752573,
+Last scrape run (AEST),19 May 2026  17:26,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,256,
-New entries this run,3,
-Changed entries this run,1,
-Removed entries this run,2,
+Total entries monitored,259,
+New entries this run,4,
+Changed entries this run,255,
+Removed entries this run,1,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
-+ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
-+ HCLTech - Jaspersoft,WA-95005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft
+NEW ENTRIES (4),Case Number,URL
+"+ National Dental Care – business assets comprising the Cambridge Dental Centre clinic, Perth, WA",WA-70017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa
++ Hillhouse - Barwon Investment Partners,WA-65015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-barwon-investment-partners
++ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina
++ Five V Capital - FTP Group,WA-25008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
+CHANGED ENTRIES (255),Field changed,Old value  →  New value
+~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '19 May 2026', 'description': 'Restaurant Brands and Yum Brands - Taco Bell - Questionnair"
+,,
+~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '19 May 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - third party questionnair"
+,,
+~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '19 May 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file"
+,,
+~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May 2026', 'url': 'http"
+,,
+~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
+,Acquirers,Volt Managed Investment Trust 2; Volt Managed Investment Trust 1  →  Volt Managed Investment Trust 1; Volt Managed Investment Trust 2
+,Other Parties,Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust 1); The John Laing G  →  The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 9
+,Last Modified Accc,2026-05-15T11:06:17+10:00  →  2026-05-19T14:54:35+10:00
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '15 May 2026', 'description': 'Questionnaire - KKR-HMC Energy Transition Platform', 'url':"
+,,
+~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '14 May 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Questionnaire - M"
+,,
+~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '12 May 2026', 'description': 'Questionnaire - Quanta - PSD', 'url': 'https://www.accc.gov"
+,,
+"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - TWG - Sharton Motors dealerships', 'url': '"
+,,
+~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'url': 'https://www.ac"
+,,
+~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - OpenAI - Tomoro', 'url': 'https://www.accc."
+,,
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomics Business', 'url': "
+,,
+~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'url': 'https://www.ac"
+,,
+~ Novartis / Excellergy,MN-40019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy
+,Other Parties,Novartis Finance Corporation; US EIN 13-3922240; NOVARTIS PHARMACEUTICALS AUSTRALIA PTY LIMITED; 18   →  NOVARTIS PHARMACEUTICALS AUSTRALIA PTY LIMITED; 18 004 244 160; EXCELLERGY AUSTRALIA PTY LTD; 50 690
+,Last Modified Accc,2026-05-12T16:13:41+10:00  →  2026-05-19T16:46:10+10:00
+,Consultation Text,  →  The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h
+,,
+~ EPL - Indovida India,WA-25023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/epl-indovida-india
+,Decisions Docs,"  →  [{'date': '18 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Rubik Australia Pty Limited - Qube Holdings Limited,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rubik-australia-pty-limited-qube-holdings-limited
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ 3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue,MN-15015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ Medtronic - Scientia,MN-80010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ News – acquisition of 20% of National Distribution Services,MN-35014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-%E2%80%93-acquisition-of-20-of-national-distribution-services
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ WPF DURATEC PTY LTD / Davhold Australia Pty Ltd,MN-75018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pty-ltd-davhold-australia-pty-ltd
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ Nuveen – Schroders,WA-25022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nuveen-%E2%80%93-schroders
+,Decisions Docs,"  →  [{'date': '15 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Quadrant Private Equity - Stanley International College,WA-01097,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quadrant-private-equity-stanley-international-college
+,Decisions Docs,"  →  [{'date': '18 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Paramount Skydance / Warner Bros. Discovery,MN-45006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ TMX - Cboe Australia,WA-05019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tmx-cboe-australia
+,Decisions Docs,"  →  [{'date': '15 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Constellation Software - DerbySoft Holdings,WA-90014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/constellation-software-derbysoft-holdings
+,Decisions Docs,"  →  [{'date': '15 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,,
+~ DP World Global Forwarding – Pure Global Logistics,WA-95015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dp-world-global-forwarding-%E2%80%93-pure-global-logistics
+,Decisions Docs,"  →  [{'date': '11 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ CleanPeak Energy Holdings - Sustainable Energy Infrastructure,WA-75020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cleanpeak-energy-holdings-sustainable-energy-infrastructure
+,Decisions Docs,"  →  [{'date': '14 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ FC Group Holdings Corporation & ors - Fluent Retail,WA-80012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fc-group-holdings-corporation-ors-fluent-retail
+,Decisions Docs,"  →  [{'date': '15 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
 ~ Barro Group / BQC Quarries and Burdekin Concrete,MN-60011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete
-,Targets,M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; BURDEKIN CONCRETE PTY. LTD  →  BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T Populin Pty Ltd; 092 
-,Last Modified Accc,2026-04-29T14:07:41+10:00  →  2026-05-07T13:35:47+10:00
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
 ,,
-REMOVED ENTRIES (2),Case Number,
-- Five V Capital - FTP Group,WA-25008,
-- MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,
+~ Saipem S.p.A / Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ Genea - Embrace Fertility,MN-05009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-embrace-fertility
+,Decisions Docs,"  →  [{'date': '18 May 2026', 'description': 'Genea - Embrace Fertility - Phase 1 determination', 'url': "
+,,
+"~ Ochre Health - New Lambton Family Practice, NSW",WA-40021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-new-lambton-family-practice-nsw
+,Decisions Docs,"  →  [{'date': '12 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,MN-20012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,,
+~ Francisco Partners - Blackline Safety,WA-85025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-blackline-safety
+,Decisions Docs,"  →  [{'date': '6 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+"~ BHP – expansion of Special Mining Lease at Olympic Dam, SA",WA-65013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa
+,Decisions Docs,"  →  [{'date': '7 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ CRH - Axius Water,WA-80011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/crh-axius-water
+,Decisions Docs,"  →  [{'date': '11 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Allied Retail Finance – automotive retail finance assets of Macquarie Leasing,WA-35015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allied-retail-finance-%E2%80%93-automotive-retail-finance-assets-of-macquarie-leasing
+,Decisions Docs,"  →  [{'date': '11 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Cement Australia – Global Manufacturing Group,WA-90013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cement-australia-%E2%80%93-global-manufacturing-group
+,Decisions Docs,"  →  [{'date': '11 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ Australian Venue Co – assets of White Cockatoo Hotel, Petersham",WA-45013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-white-cockatoo-hotel-petersham
+,Decisions Docs,"  →  [{'date': '11 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ WIN Television Network - NBN Enterprises & Television Holdings Darwin,MN-50008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/win-television-network-nbn-enterprises-television-holdings-darwin
+,Decisions Docs,"  →  [{'date': '18 May 2026', 'description': 'WIN Television Network - NBN Enterprises & Television Holdi"
+,,
+~ Allianz - Lease of commercial office space in North Sydney from Lendlease (Victoria Cross),WA-55015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-lease-of-commercial-office-space-in-north-sydney-from-lendlease-victoria-cross
+,Decisions Docs,"  →  [{'date': '29 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Oceania Capital Partners - Hudson Global Resources (Aust),WA-70016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oceania-capital-partners-hudson-global-resources-aust
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Apollo Funds - Nippon Sheet Glass,WA-45012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-funds-nippon-sheet-glass
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Gilead - Ouro,MN-60014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-ouro
+,Decisions Docs,"  →  [{'date': '18 May 2026', 'description': 'Gilead - Ouro - Phase 1 determination', 'url': 'https://www"
+,,
+"~ MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",MN-10012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+"~ Coles - Leasehold interest in shopping centre on Capricorn Highway, Emerald, QLD",WA-55017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-leasehold-interest-in-shopping-centre-on-capricorn-highway-emerald-qld
+,Decisions Docs,"  →  [{'date': '1 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Coles - substation in Yarrawonga VIC,WA-05016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-substation-in-yarrawonga-vic
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ AustralianSuper - IFM Global Infrastructure (Australia) Trust,WA-40018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australiansuper-ifm-global-infrastructure-australia-trust
+,Decisions Docs,"  →  [{'date': '12 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Zurich - ClearView,MN-55016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-clearview
+,Decisions Docs,"  →  [{'date': '14 May 2026', 'description': 'Zurich - ClearView - Phase 1 determination', 'url': 'https:"
+,,
+~ Publicis – 160over90,WA-95014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-%E2%80%93-160over90
+,Decisions Docs,"  →  [{'date': '29 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Mayfair Corporation – Phosphate Hill,WA-25017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mayfair-corporation-%E2%80%93-phosphate-hill
+,Decisions Docs,"  →  [{'date': '6 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ 26North Funds - Intermedia Cloud Communications,WA-65014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/26north-funds-intermedia-cloud-communications
+,Decisions Docs,"  →  [{'date': '13 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ MAG South Coast - Country Motor Company / Kinghorn Motors,WA-30010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mag-south-coast-country-motor-company-kinghorn-motors
+,Decisions Docs,"  →  [{'date': '15 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Accenture - Ziff Davis' connectivity business,MN-10013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-ziff-davis-connectivity-business
+,Decisions Docs,"  →  [{'date': '14 May 2026', 'description': ""Accenture - Ziff Davis' connectivity business - Phase 1 det"
+,,
+~ MA Financial Group (Redcape Fund) – The Entrance Social Club,WA-60017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-%E2%80%93-the-entrance-social-club
+,Decisions Docs,"  →  [{'date': '30 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Hostplus – CH Investment Holding Trust,WA-25016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hostplus-%E2%80%93-ch-investment-holding-trust
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Daikin - AAMS Group,MN-30009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/daikin-aams-group
+,Decisions Docs,"  →  [{'date': '8 May 2026', 'description': 'Daikin - AAMS Group - Phase 1 determination', 'url': 'https:"
+,,
+~ Global Infrastructure Management – TCR,MN-70014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-%E2%80%93-tcr
+,Decisions Docs,"  →  [{'date': '18 May 2026', 'description': 'Global Infrastructure Management - TCR – Phase 1 determinat"
+,,
+~ Ventura Motors – Crown Coaches,MN-70013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ventura-motors-%E2%80%93-crown-coaches
+,Decisions Docs,"  →  [{'date': '7 May 2026', 'description': 'Ventura Motors / Crown Coaches - Phase 1 Determination', 'ur"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
+,,
+~ Eli Lilly – acquisition of licence from CSL Behring,MN-40012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-%E2%80%93-acquisition-of-licence-from-csl-behring
+,Decisions Docs,"  →  [{'date': '6 May 2026', 'description': 'Eli Lilly - acquisition of licence from CSL Behring - Phase "
+,,
+~ Lawrence & Hanson - Gordon Macdonald,MN-55013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lawrence-hanson-gordon-macdonald
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': 'Lawrence & Hanson - Gordon MacDonald - Phase 1 Determination"
+,,
+~ Herron Todd White – CJA Lee Property Valuers,WA-20015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers
+,Decisions Docs,"  →  [{'date': '7 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Signant - ActiGraph,WA-45011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/signant-actigraph
+,Decisions Docs,"  →  [{'date': '16 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Creative Planning – MASECO,WA-40016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/creative-planning-%E2%80%93-maseco
+,Decisions Docs,"  →  [{'date': '23 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Estia Health – Norsan residential aged care business,MN-35013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-norsan-residential-aged-care-business
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Phase 1 Determination - Estia Health - Norsan residential ag"
+,,
+~ Dubai Aerospace Enterprise - Macquarie AirFinance,MN-95011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dubai-aerospace-enterprise-macquarie-airfinance
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Phase 1 Determination - Dubai Aerospace Enterprise - Macquar"
+,,
+~ Swiss Re - QBE Insurance's Trade Credit and Surety business,MN-40015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/swiss-re-qbe-insurances-trade-credit-and-surety-business
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': ""Swiss Re - QBE's TC&S Business - Phase 1 determination"", 'ur"
+,,
+~ Salter Brothers - Buroserv,WA-90011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salter-brothers-buroserv
+,Decisions Docs,"  →  [{'date': '29 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ PH Medical Centres - Riverstone Family Medical Practice,WA-85022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ph-medical-centres-riverstone-family-medical-practice
+,Decisions Docs,"  →  [{'date': '16 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Turner Family Entities - Pedal Group,WA-10014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turner-family-entities-pedal-group
+,Decisions Docs,"  →  [{'date': '30 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Savvy Games Group – Moonton,WA-65012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/savvy-games-group-%E2%80%93-moonton
+,Decisions Docs,"  →  [{'date': '30 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Eli Lilly / Orna Therapeutics,MN-20013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-orna-therapeutics
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Eli Lilly - Orna Therapeutics - Phase 1 determination', 'url"
+,,
+~ Mizuho – Avendus,WA-80009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mizuho-%E2%80%93-avendus
+,Decisions Docs,"  →  [{'date': '17 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Wipro - Mindsprint,WA-15014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wipro-mindsprint
+,Decisions Docs,"  →  [{'date': '24 Apr 2026', 'description': 'Notification waiver determination', 'url': 'https://www.acc"
+,,
+~ Infosys – Optimum Healthcare IT,WA-40014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infosys-%E2%80%93-optimum-healthcare-it
+,Decisions Docs,"  →  [{'date': '17 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ REA Group - Simplicity Loans & Advisory,MN-65008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rea-group-simplicity-loans-advisory
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': 'REA Group - Simplicity Loans & Advisory - Phase 1 determinat"
+,,
+~ Journey Beyond – Kakadu Crocodile Hotel,MN-15013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-%E2%80%93-kakadu-crocodile-hotel
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': 'Journey Beyond - Kakadu Crocodile Hotel - Phase 1 determinat"
+,,
+~ Sembcorp Industries Ltd - Alinta Energy,MN-95001,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sembcorp-industries-ltd-alinta-energy
+,Decisions Docs,"  →  [{'date': '6 May 2026', 'description': 'Sembcorp - Alinta Energy - Phase 1 determination', 'url': 'h"
+,,
+~ eBay / Depop,MN-45002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebay-depop
+,Decisions Docs,"  →  [{'date': '12 May 2026', 'description': 'eBay - Depop - Phase 1 Determination', 'url': 'https://www."
+,,
+~ Yancoal - Kestrel Coal Group,WA-85021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/yancoal-kestrel-coal-group
+,Decisions Docs,"  →  [{'date': '13 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Egis Projects Asia Pacific - Fulton Hogan Egis O&M,WA-70011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/egis-projects-asia-pacific-fulton-hogan-egis-om
+,Decisions Docs,"  →  [{'date': '22 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Prime Super - Additional interest in Peninsula Link Project,WA-90010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project
+,Decisions Docs,"  →  [{'date': '20 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Airtree and ors (additional minority co-investors) - Advanced Navigation,WA-45010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-and-ors-additional-minority-co-investors-advanced-navigation
+,Decisions Docs,"  →  [{'date': '1 May 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Danaher - Masimo,MN-15011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-masimo
+,Decisions Docs,"  →  [{'date': '4 May 2026', 'description': 'Danaher - Masimo - Phase 1 determination', 'url': 'https://w"
+,,
+~ Energy Bay - Rights to install/operate embedded networks and other assets from Centuria Capital Group members,WA-01094,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-rights-to-installoperate-embedded-networks-and-other-assets-from-centuria-capital-group-members
+,Decisions Docs,"  →  [{'date': '11 May 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Searchlight Capital Partners - Additional interest in KORE Group Holdings Inc.,WA-50014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/searchlight-capital-partners-additional-interest-in-kore-group-holdings-inc
+,Decisions Docs,"  →  [{'date': '23 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Star Hotels - Fiveways Hotel Toowoomba,WA-50013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-fiveways-hotel-toowoomba
+,Decisions Docs,"  →  [{'date': '23 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ Ochre Health - Newstead Medical and Kings Meadows Medical Centre, TAS",WA-95012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-newstead-medical-and-kings-meadows-medical-centre-tas
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Vets Central - Drovers Vet Hospital,WA-75017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-drovers-vet-hospital
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+"~ Export Trading Group Australia – pulses and grains business and facility in Mount Tyson, QLD",WA-60013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/export-trading-group-australia-%E2%80%93-pulses-and-grains-business-and-facility-in-mount-tyson-qld
+,Decisions Docs,"  →  [{'date': '29 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Eagers - Audi Melbourne and Audi Richmond,MN-05012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eagers-audi-melbourne-and-audi-richmond
+,Decisions Docs,"  →  [{'date': '5 May 2026', 'description': 'Eagers - Audi Melbourne and Audi Richmond - Phase 1 determin"
+,,
+~ Francisco Partners – Capsa Healthcare,WA-85020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-%E2%80%93-capsa-healthcare
+,Decisions Docs,"  →  [{'date': '2 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+"~ Princeton Digital Group Australia - land located in Campbelltown, NSW",WA-80008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/princeton-digital-group-australia-land-located-in-campbelltown-nsw
+,Decisions Docs,"  →  [{'date': '21 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Bendigo and Adelaide Bank – RACQ Bank,WA-70015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bendigo-and-adelaide-bank-%E2%80%93-racq-bank
+,Decisions Docs,"  →  [{'date': '28 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Calvary - Holmesglen Private Hospital,MN-55010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-holmesglen-private-hospital
+,Decisions Docs,"  →  [{'date': '28 Apr 2026', 'description': 'Calvary - Holmesglen Private Hospital - Phase 1 determinati"
+,,
+"~ Ochre Health - Telegraph Road Clinic, Bracken Ridge QLD",WA-15012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-telegraph-road-clinic-bracken-ridge-qld
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Tega and Apollo Funds consortium - Molycop,MN-85006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tega-and-apollo-funds-consortium-molycop
+,Decisions Docs,"  →  [{'date': '28 Apr 2026', 'description': 'Tega and Apollo Funds consortium - Molycop - Phase 1 determ"
+,,
+~ Sinopec - CNAF,MN-01093,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sinopec-cnaf
+,Decisions Docs,"  →  [{'date': '30 Apr 2026', 'description': 'Sinopec - CNAF - Phase 1 determination', 'url': 'https://ww"
+,,
+"~ Coles – land around supermarket site in Balaclava, VIC",WA-60012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-land-around-supermarket-site-in-balaclava-vic
+,Decisions Docs,"  →  [{'date': '23 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Origin – Equity stake in Kraken,MN-20011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-equity-stake-in-kraken
+,Decisions Docs,"  →  [{'date': '20 Apr 2026', 'description': 'Origin – Equity stake in Kraken - Phase 1 determination', '"
+,,
+~ Intrepid Travel - Wild Bush Luxury,MN-40008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/intrepid-travel-wild-bush-luxury
+,Decisions Docs,"  →  [{'date': '16 Apr 2026', 'description': 'Intrepid Travel - Wild Bush Luxury - Phase 1 determination'"
+,,
+~ Winning Group Holdings – Winning Appliances,WA-01092,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/winning-group-holdings-%E2%80%93-winning-appliances
+,Decisions Docs,"  →  [{'date': '23 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Lighthouse - Precise Services Group,WA-95010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lighthouse-precise-services-group
+,Decisions Docs,"  →  [{'date': '13 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Idemitsu - MidOcean Energy,WA-45009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/idemitsu-midocean-energy
+,Decisions Docs,"  →  [{'date': '10 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ CVC Capital Partners – The animal nutrition and health division of the DSM-Firmenich Group,WA-25014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-the-animal-nutrition-and-health-division-of-the-dsm-firmenich-group
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Discovery Holiday Parks – Habitat Noosa Everglades Eco Camp,WA-85018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-habitat-noosa-everglades-eco-camp
+,Decisions Docs,"  →  [{'date': '10 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ KPS Capital Partners - Jennmar,WA-55014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kps-capital-partners-jennmar
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Opal HealthCare – Greenwich Place residential aged care home,MN-75012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-%E2%80%93-greenwich-place-residential-aged-care-home
+,Decisions Docs,"  →  [{'date': '13 Apr 2026', 'description': 'Opal Healthcare - Greenwich Place residential aged care hom"
+,,
+~ Gilead - Arcellx,MN-40009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gilead-arcellx
+,Decisions Docs,"  →  [{'date': '13 Apr 2026', 'description': 'Gilead - Arcellx - Phase 1 determination', 'url': 'https://"
+,,
+~ Regent Motors Group - Lane Group's Mandurah Dealerships,WA-85017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regent-motors-group-lane-groups-mandurah-dealerships
+,Decisions Docs,"  →  [{'date': '9 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Henkel – Stahl,WA-45007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-stahl
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Arlington Capital Partners – Eptec Defence Solutions,WA-80007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/arlington-capital-partners-%E2%80%93-eptec-defence-solutions
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant,MN-50012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant
+,Decisions Docs,"  →  [{'date': '13 Apr 2026', 'description': 'Maas - 50% acquisition of COLAS’ Caloundra asphalt plant an"
+,,
+~ CVC Capital Partners – Marathon Asset Management,MN-65009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-marathon-asset-management
+,Decisions Docs,"  →  [{'date': '16 Apr 2026', 'description': 'CVC Capital Partners - Marathon Asset Management - Phase 1 "
+,,
+~ Ironbark - Investment in Viola Private Wealth,WA-05005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ironbark-investment-in-viola-private-wealth
+,Decisions Docs,"  →  [{'date': '9 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+"~ Star Hotels Group – Liquor Legends Berserker & Liquor Legends Highway A1, QLD",WA-75015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-%E2%80%93-liquor-legends-berserker-liquor-legends-highway-a1-qld
+,Decisions Docs,"  →  [{'date': '2 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Cinven – Regenity,WA-25013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cinven-%E2%80%93-regenity
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Vets Central – Hills Veterinary Centre,WA-85016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre
+,Decisions Docs,"  →  [{'date': '14 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Tony White Group - Sharton Motors Dealerships in Maitland and Port Stephens,WA-65011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-and-port-stephens
+,Decisions Docs,"  →  [{'date': '14 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Adobe - Semrush,MN-30005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adobe-semrush
+,Decisions Docs,"  →  [{'date': '10 Apr 2026', 'description': 'Adobe - Semrush - Phase 1 Determination', 'url': 'https://w"
+,,
+~ MidOcean Energy – JERA Gorgon,MN-05004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midocean-energy-%E2%80%93-jera-gorgon
+,Decisions Docs,"  →  [{'date': '8 Apr 2026', 'description': 'MidOcean Energy - JERA Gorgon - Phase 1 determination', 'url"
+,,
+~ INNIO Group – Enerflex,WA-25010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex
+,Decisions Docs,"  →  [{'date': '16 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ National Dental Care – business assets comprising the Comfy Dental clinic, Mandurah, WA",MN-50007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-comfy-dental-clinic-mandurah-wa
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'National Dental Care - business assets comprising the Comfy "
+,,
+~ Blackbird Ventures – Halter,WA-50010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-halter
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Aldus - Hilton Manufacturing,WA-75013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aldus-hilton-manufacturing
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ KPS – Novacel,MN-25006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kps-%E2%80%93-novacel
+,Decisions Docs,"  →  [{'date': '2 Apr 2026', 'description': 'KPS Capital - Novacel - Phase 1 determination', 'url': 'http"
+,,
+~ Coles – supermarket site in New Norfolk (TAS),MN-01090,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-new-norfolk-tas
+,Decisions Docs,"  →  [{'date': '9 Apr 2026', 'description': 'Coles New Norfolk - Phase 1 Determination', 'url': 'https://"
+,,
+~ Wentworth Capital – Novotel Darling Harbour and Ibis Darling Harbour,WA-10011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wentworth-capital-%E2%80%93-novotel-darling-harbour-and-ibis-darling-harbour
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Element Zero's L701 – Option to lease DevelopmentWA industrial land at Boodarie Strategic Industrial Area,WA-40011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/element-zeros-l701-%E2%80%93-option-to-lease-developmentwa-industrial-land-at-boodarie-strategic-industrial-area
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Austral Resources Australia – Lady Loretta mine,WA-35011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/austral-resources-australia-%E2%80%93-lady-loretta-mine
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Rocket Software – Vertica,MN-20009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rocket-software-%E2%80%93-vertica
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Rocket Vertica - Phase 1 determination', 'url': 'https://www"
+,,
+~ Permira and Warburg Pincus - Clearwater Analytics,WA-40010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/permira-and-warburg-pincus-clearwater-analytics
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries,MN-55012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries
+,Decisions Docs,"  →  [{'date': '31 Mar 2026', 'description': 'Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries -"
+,,
+~ BGIS - Ascot Air,WA-25011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bgis-ascot-air
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Enverus – Spatial Business Systems,WA-10010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/enverus-%E2%80%93-spatial-business-systems
+,Decisions Docs,"  →  [{'date': '7 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Honda – additional shareholding in Astemo,WA-65010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/honda-%E2%80%93-additional-shareholding-in-astemo
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Blackstone - Advanced Cooling Technologies,WA-35010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-advanced-cooling-technologies
+,Decisions Docs,"  →  [{'date': '24 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ McDonald’s Australia – McDonald’s Restaurants in Bankstown and Yagoona, NSW",WA-95009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ VFMC – CorVal Land and Operator Trusts,WA-35008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vfmc-%E2%80%93-corval-land-and-operator-trusts
+,Decisions Docs,"  →  [{'date': '26 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ AZ Next Generation Advisory – Intend Financial,WA-15010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/az-next-generation-advisory-%E2%80%93-intend-financial
+,Decisions Docs,"  →  [{'date': '24 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Brisbane Airport Corporation – Interest in land at Brisbane Airport,WA-25009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brisbane-airport-corporation-%E2%80%93-interest-in-land-at-brisbane-airport
+,Decisions Docs,"  →  [{'date': '8 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ CARe – MotorOne Autobody,MN-90006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/care-%E2%80%93-motorone-autobody
+,Decisions Docs,"  →  [{'date': '30 Mar 2026', 'description': 'CARe - MotorOne Autobody - Phase 1 determination', 'url': '"
+,,
+"~ Waymark Hotels Group – Warrego Hotel Motel Cunnamulla, Queensland",WA-70010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland
+,Decisions Docs,"  →  [{'date': '2 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ PT Asian Bulk Logistics – Engage Marine,WA-20010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine
+,Decisions Docs,"  →  [{'date': '19 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Infotrust – Catalyst Cyber,WA-70009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infotrust-%E2%80%93-catalyst-cyber
+,Decisions Docs,"  →  [{'date': '26 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Decisions Docs,"  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by"
+,,
+~ Michelin - Flexitallic,WA-60010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/michelin-flexitallic
+,Decisions Docs,"  →  [{'date': '27 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Vets Central – West Toowoomba Veterinary Surgery in QLD,WA-95008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-west-toowoomba-veterinary-surgery-in-qld
+,Decisions Docs,"  →  [{'date': '10 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Genesis Minerals – Magnetic Resources,WA-85014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genesis-minerals-%E2%80%93-magnetic-resources
+,Decisions Docs,"  →  [{'date': '19 Mar 2026', 'description': 'Notiification waiver determination', 'url': 'https://www.ac"
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con
+,Decisions Docs,"  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
+,,
+"~ Hall & McLean – Freehold interest in commercial land in Wellcamp, QLD",WA-20008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hall-mclean-%E2%80%93-freehold-interest-in-commercial-land-in-wellcamp-qld
+,Decisions Docs,"  →  [{'date': '24 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ SoftBank – DigitalBridge,WA-10009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/softbank-%E2%80%93-digitalbridge
+,Decisions Docs,"  →  [{'date': '24 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ National Dental Care – DDTA Dental clinic in Launceston, TAS",WA-85013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-ddta-dental-clinic-in-launceston-tas
+,Decisions Docs,"  →  [{'date': '10 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Tetra Tech – Providence Consulting,WA-70008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tetra-tech-%E2%80%93-providence-consulting
+,Decisions Docs,"  →  [{'date': '1 Apr 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ OEP IX – Leviat,WA-55011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oep-ix-%E2%80%93-leviat
+,Decisions Docs,"  →  [{'date': '16 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ IOR - Delta Specialised Energy assets,MN-60004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ior-delta-specialised-energy-assets
+,Decisions Docs,"  →  [{'date': '25 Mar 2026', 'description': 'IOR - Delta Specialised Energy assets - Phase 1 determinati"
+,,
+~ Resonetics – Resolution Medical,WA-55009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/resonetics-%E2%80%93-resolution-medical
+,Decisions Docs,"  →  [{'date': '11 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Autosports Group - Solitaire Automotive Group,WA-75011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autosports-group-solitaire-automotive-group
+,Decisions Docs,"  →  [{'date': '11 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ Aluminium Specialties Group – Manufacturing facility site in Orchard Hills, NSW",WA-45003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aluminium-specialties-group-%E2%80%93-manufacturing-facility-site-in-orchard-hills-nsw
+,Decisions Docs,"  →  [{'date': '11 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ BSN Sports – Sports Endeavors,WA-01088,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bsn-sports-%E2%80%93-sports-endeavors
+,Decisions Docs,"  →  [{'date': '6 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Civilmart – Taylex,MN-01083,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/civilmart-%E2%80%93-taylex
+,Decisions Docs,"  →  [{'date': '2 Apr 2026', 'description': 'Civilmart - Taylex - Phase 1 - determination', 'url': 'https"
+,,
+~ North American Construction Group – Iron Mine Contracting and Iron Hire,MN-85003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire
+,Decisions Docs,"  →  [{'date': '19 Mar 2026', 'description': 'North American Construction Group – Iron Mine Contracting a"
+,,
+~ Eiffel and Eurazeo – Segula,WA-05007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eiffel-and-eurazeo-%E2%80%93-segula
+,Decisions Docs,"  →  [{'date': '26 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Eli Lilly – Orna Therapeutics,WA-01087,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-%E2%80%93-orna-therapeutics
+,Decisions Docs,"  →  [{'date': '12 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Airtree – HotDoc,WA-50006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc
+,Decisions Docs,"  →  [{'date': '19 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Cvent - ON24,MN-15005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvent-on24
+,Decisions Docs,"  →  [{'date': '17 Mar 2026', 'description': 'Cvent - ON24 - Phase 1 Determination', 'url': 'https://www."
+,,
+~ Platinum Equity Group – Burke,WA-70007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/platinum-equity-group-%E2%80%93-burke
+,Decisions Docs,"  →  [{'date': '6 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Zendesk – Forethought,WA-75010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zendesk-%E2%80%93-forethought
+,Decisions Docs,"  →  [{'date': '6 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Australian Venue Co. – An Sibin Irish Pub,MN-65007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-an-sibin-irish-pub
+,Decisions Docs,"  →  [{'date': '17 Mar 2026', 'description': 'Australian Venue Co - An Sibin Irish Pub - Phase 1 Determin"
+,,
+~ Craig Mostyn – Patmore Feeds,MN-60007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/craig-mostyn-%E2%80%93-patmore-feeds
+,Decisions Docs,"  →  [{'date': '19 Mar 2026', 'description': 'Craig Mostyn - Patmore Feeds - Phase 1 determination', 'url"
+,,
+~ Audiotonix - Soundtech Group,MN-80004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/audiotonix-soundtech-group
+,Decisions Docs,"  →  [{'date': '17 Mar 2026', 'description': 'Audiotonix - Soundtech Group - Phase 1 determination', 'url"
+,,
+~ Premier Fresh – Charles Domenico Group,WA-10008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-charles-domenico-group
+,Decisions Docs,"  →  [{'date': '13 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con
+,Decisions Docs,"  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
+,,
+~ Hg Capital - OneStream,MN-55006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hg-capital-onestream
+,Decisions Docs,"  →  [{'date': '17 Mar 2026', 'description': 'Hg Capital - OneStream - Phase 1 Determination', 'url': 'ht"
+,,
+~ Salesforce – Qualified,MN-85007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-%E2%80%93-qualified-0
+,Decisions Docs,"  →  [{'date': '17 Mar 2026', 'description': 'Salesforce - Qualified - Phase 1 determination', 'url': 'ht"
+,,
+~ TDR and Estoril – Escode,WA-85011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tdr-and-estoril-%E2%80%93-escode
+,Decisions Docs,"  →  [{'date': '17 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Russell Investment Group – Zurich Investment Management,WA-80006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/russell-investment-group-%E2%80%93-zurich-investment-management
+,Decisions Docs,"  →  [{'date': '12 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Henkel – ATP Adhesives Systems Group,MN-40005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-atp-adhesives-systems-group
+,Decisions Docs,"  →  [{'date': '12 Mar 2026', 'description': 'Henkel - ATP Adhesives Systems - Phase 1 determination', 'u"
+,,
+~ Scopely – Loom Games,WA-70006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/scopely-%E2%80%93-loom-games
+,Decisions Docs,"  →  [{'date': '6 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Superloop – Lynham Networks,WA-35005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/superloop-%E2%80%93-lynham-networks
+,Decisions Docs,"  →  [{'date': '24 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Telstra – Infosys Technologies,WA-20007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/telstra-%E2%80%93-infosys-technologies
+,Decisions Docs,"  →  [{'date': '19 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Charter Hall Holdings - JGS Private Capital,MN-75009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/charter-hall-holdings-jgs-private-capital
+,Decisions Docs,"  →  [{'date': '20 Mar 2026', 'description': 'Charter Hall Holdings - JGS Private Capital - Phase 1 Deter"
+,,
+~ Apex - Mercer Administration Services and related assets,MN-10005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apex-mercer-administration-services-and-related-assets
+,Decisions Docs,"  →  [{'date': '12 Mar 2026', 'description': 'Apex - Mercer Administration Services and related assets - "
+,,
+~ HongShan Capital Group and Temasek – Golden Goose Group,WA-05008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group
+,Decisions Docs,"  →  [{'date': '6 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Crossmuller – GEM,WA-90004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/crossmuller-%E2%80%93-gem
+,Decisions Docs,"  →  [{'date': '5 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ ServiceNow - Armis,MN-25004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/servicenow-armis
+,Decisions Docs,"  →  [{'date': '12 Mar 2026', 'description': 'ServiceNow - Armis - Phase 1 determination', 'url': 'https:"
+,,
+~ CVS Group - Pittwater Animal Hospital,MN-95003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-pittwater-animal-hospital
+,Decisions Docs,"  →  [{'date': '24 Mar 2026', 'description': 'Timeline extended by 10 business days – following request b"
+,,
+~ Allied Beef - Lease of Yarranbrook Feedlot,WA-50005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allied-beef-lease-of-yarranbrook-feedlot
+,Decisions Docs,"  →  [{'date': '6 Mar 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Colliers International Group – Ayesa Engineering,WA-15008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/colliers-international-group-%E2%80%93-ayesa-engineering
+,Decisions Docs,"  →  [{'date': '25 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Bettergrow - HYG,WA-75008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bettergrow-hyg
+,Decisions Docs,"  →  [{'date': '27 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Impression Dental Group - Happy Rock Dental Practice,WA-70004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-happy-rock-dental-practice
+,Decisions Docs,"  →  [{'date': '26 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Laundy Group – Nine Radio,WA-95006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-group-%E2%80%93-nine-radio
+,Decisions Docs,"  →  [{'date': '20 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Apollo Funds led consortium – Lecta Group,WA-15007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-funds-led-consortium-%E2%80%93-lecta-group
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Freudenberg Home and Cleaning Solutions – Nilfisk,MN-70005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/freudenberg-home-and-cleaning-solutions-%E2%80%93-nilfisk
+,Decisions Docs,"  →  [{'date': '12 Mar 2026', 'description': 'Freudenberg - Nilfisk - Phase 1 Determination', 'url': 'htt"
+,,
+"~ Australian Venue Co. – four licensed venues in metropolitan Sydney (Public House Petersham, The Erko, The Golden Sheaf and Barangaroo House)",MN-10006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-four-licensed-venues-in-metropolitan-sydney-public-house-petersham-the-erko-the-golden-sheaf-and-barangaroo-house
+,Decisions Docs,"  →  [{'date': '3 Mar 2026', 'description': 'Australian Venue Co - four licensed venues in metropolitan S"
+,,
+~ Bain Capital – MCJ,MN-80002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-mcj
+,Decisions Docs,"  →  [{'date': '3 Mar 2026', 'description': 'Bain Capital - MCJ - Phase 1 determination', 'url': 'https:/"
+,,
+~ Playlist – EGYM,WA-75006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/playlist-%E2%80%93-egym
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ HCLTech - Jaspersoft,WA-95005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Parker-Hannifin – Filtration Group,MN-75004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-filtration-group
+,Decisions Docs,"  →  [{'date': '10 Mar 2026', 'description': 'Parker-Hannifin - Filtration Group - Phase 1 determination'"
+,,
+~ IBM - Confluent,MN-10001,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ibm-confluent
+,Decisions Docs,"  →  [{'date': '3 Mar 2026', 'description': 'IBM - Confluent - Phase 1 determination', 'url': 'https://ww"
+,,
+~ Symal Group - 80% acquisition of Davison Earthmovers,MN-55003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-80-acquisition-of-davison-earthmovers
+,Decisions Docs,"  →  [{'date': '24 Feb 2026', 'description': 'Symal Group - Davison Earthworks - Phase 1 Determination', "
+,,
+~ Sony – Peanuts Worldwide,WA-85008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-%E2%80%93-peanuts-worldwide
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Kee Safety - RIS Safety,WA-65004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kee-safety-ris-safety
+,Decisions Docs,"  →  [{'date': '13 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Abbott Laboratories - Exact Sciences,MN-95002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbott-laboratories-exact-sciences
+,Decisions Docs,"  →  [{'date': '24 Feb 2026', 'description': 'Abbott Laboratories - Exact Sciences - Phase 1 determinatio"
+,,
+~ Paragon Care – Presidental,WA-45001,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paragon-care-%E2%80%93-presidental
+,Decisions Docs,"  →  [{'date': '16 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ H-E Parts International Mining Solutions - Warehouse workshop site in Paget, QLD",WA-20005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/h-e-parts-international-mining-solutions-warehouse-workshop-site-in-paget-qld
+,Decisions Docs,"  →  [{'date': '12 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ General Atlantic and CPP Investments led consortium - Boats Group,WA-55005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/general-atlantic-and-cpp-investments-led-consortium-boats-group
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Vets Central – Gawler Animal Hospital and Animalia Vet Clinic,WA-40004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-gawler-animal-hospital-and-animalia-vet-clinic
+,Decisions Docs,"  →  [{'date': '12 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Blackbird Ventures – Baseten Labs,WA-55004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs
+,Decisions Docs,"  →  [{'date': '10 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ NEC Corporation – CSG Systems International,WA-90002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nec-corporation-%E2%80%93-csg-systems-international
+,Decisions Docs,"  →  [{'date': '24 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+"~ Australian Venue Co. – leasehold and certain other assets of Quay Restaurant, Sydney",WA-25005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-leasehold-and-certain-other-assets-of-quay-restaurant-sydney
+,Decisions Docs,"  →  [{'date': '9 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Australian Retirement Trust – Interests in non-rental income (Westfield Sydney),WA-15004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-interests-in-non-rental-income-westfield-sydney
+,Decisions Docs,"  →  [{'date': '20 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Symal Group - Timms Group and L&D Group,MN-25002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-timms-group-and-ld-group
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Symal Group / Timms Group and L&D Group -Phase 1 Determinat"
+,,
+~ L Catterton Management – Ex Nihilo Group,WA-35004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l-catterton-management-%E2%80%93-ex-nihilo-group
+,Decisions Docs,"  →  [{'date': '4 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Coforge - Encora,WA-15003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coforge-encora
+,Decisions Docs,"  →  [{'date': '13 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Ramsay Health Care – National Capital Private Hospital,MN-75003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ramsay-health-care-%E2%80%93-national-capital-private-hospital
+,Decisions Docs,"  →  [{'date': '12 Feb 2026', 'description': 'Ramsay - National Capital - Phase 1 determination', 'url': "
+,,
+~ Francisco Partners - Sermo,WA-50003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-sermo
+,Decisions Docs,"  →  [{'date': '20 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Intrepid Travel – Wild Bush Luxury,WA-70003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/intrepid-travel-%E2%80%93-wild-bush-luxury
+,Decisions Docs,"  →  [{'date': '5 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ GE Healthcare – Intelerad,MN-01074,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ge-healthcare-%E2%80%93-intelerad
+,Decisions Docs,"  →  [{'date': '26 Feb 2026', 'description': 'GE Healthcare - Intelerad - Phase 1 determination', 'url': "
+,,
+~ Delinea (TPG) - StrongDM,WA-25003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/delinea-tpg-strongdm
+,Decisions Docs,"  →  [{'date': '3 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Warburg Pincus – Acclime,WA-60008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-acclime
+,Decisions Docs,"  →  [{'date': '30 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Henkel – ATP adhesive systems group,WA-65003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-atp-adhesive-systems-group
+,Decisions Docs,"  →  [{'date': '5 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Opal Healthcare – Sunnymeade Park Aged Care Community,MN-75002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-%E2%80%93-sunnymeade-park-aged-care-community
+,Decisions Docs,"  →  [{'date': '10 Feb 2026', 'description': 'Opal Healthcare - Sunnymeade Park Aged Care Community - Pha"
+,,
+~ Alpine Software Group (ASG) – PlayHQ,WA-80001,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/alpine-software-group-asg-%E2%80%93-playhq
+,Decisions Docs,"  →  [{'date': '29 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Thermo Fisher - Clario Holdings,MN-01075,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/thermo-fisher-clario-holdings
+,Decisions Docs,"  →  [{'date': '10 Feb 2026', 'description': 'Thermo Fisher - Clario Holdings - Phase 1 determination', '"
+,,
+~ CVC Capital Partners – Smiths Detection Group,WA-40003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-smiths-detection-group
+,Decisions Docs,"  →  [{'date': '30 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Stockland LLC – intragroup transfer of Halcyon Jardin and Evergreen projects,WA-10002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stockland-llc-%E2%80%93-intragroup-transfer-of-halcyon-jardin-and-evergreen-projects
+,Decisions Docs,"  →  [{'date': '13 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ L’Oréal – Kering Beauté,MN-01080,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9
+,Decisions Docs,"  →  [{'date': '11 Feb 2026', 'description': ""L'Oreal - Kering Beaute - Phase 1 determination"", 'url': 'h"
+,,
+"~ Star Hotels Group – Yandina Hotel, QLD",WA-40002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-%E2%80%93-yandina-hotel-qld
+,Decisions Docs,"  →  [{'date': '2 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Re.Group – Scouts Queensland Recycling Centre Site,WA-60006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regroup-%E2%80%93-scouts-queensland-recycling-centre-site
+,Decisions Docs,"  →  [{'date': '29 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Altor Fund Manager - Evac Holding Oy,WA-85005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/altor-fund-manager-evac-holding-oy
+,Decisions Docs,"  →  [{'date': '30 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Carlyle – Peloton Computer Enterprises,WA-20003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/carlyle-%E2%80%93-peloton-computer-enterprises
+,Decisions Docs,"  →  [{'date': '30 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ KKR led consortium – Saviynt,WA-05003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-led-consortium-%E2%80%93-saviynt
+,Decisions Docs,"  →  [{'date': '27 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Regent Motors Group – Esperance Motor Group (Esperance Toyota & Ford),WA-25001,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regent-motors-group-%E2%80%93-esperance-motor-group-esperance-toyota-ford
+,Decisions Docs,"  →  [{'date': '5 Feb 2026', 'description': 'Notification waiver determination published', 'url': 'https:"
+,,
+~ Google - Wiz,MN-15002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-wiz
+,Decisions Docs,"  →  [{'date': '19 Feb 2026', 'description': 'Google - Wiz - Phase 1 determination', 'url': 'https://www."
+,,
+~ Salesforce – Qualified,WA-35003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-%E2%80%93-qualified
+,Decisions Docs,"  →  [{'date': '21 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Accenture – Faculty Science,WA-01081,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-%E2%80%93-faculty-science
+,Decisions Docs,"  →  [{'date': '20 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ WSP – TRC,WA-35001,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-%E2%80%93-trc
+,Decisions Docs,"  →  [{'date': '13 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ IFS – Softeon,WA-35002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifs-%E2%80%93-softeon
+,Decisions Docs,"  →  [{'date': '27 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Ethos (TPG) – EMIS and certain related assets,WA-70002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ethos-tpg-%E2%80%93-emis-and-certain-related-assets
+,Decisions Docs,"  →  [{'date': '13 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ Treysta Wealth Management – Locumsgroup,WA-85004,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/treysta-wealth-management-%E2%80%93-locumsgroup
+,Decisions Docs,"  →  [{'date': '27 Jan 2026', 'description': 'Notification waiver determination published', 'url': 'https"
+,,
+~ CSE Crosscom – Progility,MN-01071,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cse-crosscom-%E2%80%93-progility
+,Decisions Docs,"  →  [{'date': '3 Feb 2026', 'description': 'CSE Crosscom - Progility - Phase 1 determination', 'url': 'h"
+,,
+~ ServiceNow - Veza,MN-85002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/servicenow-veza
+,Decisions Docs,"  →  [{'date': '10 Feb 2026', 'description': 'ServiceNow-Veza - Phase 1 Determination', 'url': 'https://w"
+,,
+~ Danone – further 1% interest in Danone Saputo Dairy Australia,MN-01069,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-further-1-interest-in-danone-saputo-dairy-australia
+,Decisions Docs,"  →  [{'date': '28 Jan 2026', 'description': 'Danone - further 1% interest in Danone Saputo Dairy Austral"
+,,
+~ Carlyle - BASF Coatings,MN-01064,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/carlyle-basf-coatings
+,Decisions Docs,"  →  [{'date': '18 Dec 2025', 'description': 'Carlyle - BASF Coatings', 'url': 'https://www.accc.gov.au/s"
+,,
+"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con
+,Decisions Docs,"  →  [{'date': '12 May 2026', 'description': 'Timeline extended by 6 business days – following request fo"
+,,
+~ Molex – Smiths Interconnect,MN-01061,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/molex-%E2%80%93-smiths-interconnect
+,Decisions Docs,"  →  [{'date': '5 Dec 2025', 'description': 'Molex - Smith Interconnect - Phase 1 determination', 'url': "
+,,
+~ Caterpillar – RPMGlobal Holdings,MN-01058,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/caterpillar-%E2%80%93-rpmglobal-holdings
+,Decisions Docs,"  →  [{'date': '18 Dec 2025', 'description': 'Caterpillar – RPMGlobal Holdings - Phase 1 determination', "
+,,
+~ La Caisse – Edify NSW Development assets,MN-01031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/la-caisse-%E2%80%93-edify-nsw-development-assets
+,Decisions Docs,"  →  [{'date': '26 Nov 2025', 'description': 'La Caisse - Edify NSW development assets - Phase 1 determin"
+,,
+~ Anglo American - Teck Resources,MN-01037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anglo-american-teck-resources
+,Decisions Docs,"  →  [{'date': '18 Nov 2025', 'description': 'Anglo American - Teck Resources - Phase 1 determination', '"
+,,
+"~ Asahi – Warehouse site on Weedman and Montgomery Streets, Redbank (Qld)",MN-01035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/asahi-%E2%80%93-warehouse-site-on-weedman-and-montgomery-streets-redbank-qld
+,Decisions Docs,"  →  [{'date': '18 Nov 2025', 'description': 'Asahi - Warehouse site at Weedman and Montgomery Streets, R"
+,,
+~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
+,Consultation Text,"  →  On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 retail fuel and conveni"
+,Decisions Docs,"  →  [{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://"
+,,
+"~ Asahi – Warehouse site on Tilburn Rd, Deer Park (Vic)",MN-01016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/asahi-%E2%80%93-warehouse-site-on-tilburn-rd-deer-park-vic
+,Decisions Docs,"  →  [{'date': '5 Sep 2025', 'description': 'Asahi - Warehouse site on Tilburn Rd, Deer Park, VIC - Phase"
+,,
+~ Kongsberg Defence – site within Newcastle Airport precinct,MN-01017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kongsberg-defence-%E2%80%93-site-within-newcastle-airport-precinct
+,Decisions Docs,"  →  [{'date': '29 Aug 2025', 'description': 'Kongsberg Defence - site within Newcastle Airport precinct "
+,,
+REMOVED ENTRIES (1),Case Number,
+- MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (256),Case Number,Detected (AEST)
+NEW ENTRIES (259),Case Number,Detected (AEST)
 + Mastercard - BVNK,MN-50015,18 May  18:04
 + Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,18 May  18:04
 + PT Asian Bulk Logistics – Engage Marine,MN-90012,18 May  18:04
@@ -128,7 +912,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 + Tega and Apollo Funds consortium - Molycop,MN-85006,18 May  18:04
 + Sinopec - CNAF,MN-01093,18 May  18:04
 "+ Coles – land around supermarket site in Balaclava, VIC",WA-60012,18 May  18:04
-+ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,,18 May  18:04
++ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,18 May  18:04
 + Origin – Equity stake in Kraken,MN-20011,18 May  18:04
 + Intrepid Travel - Wild Bush Luxury,MN-40008,18 May  18:04
 + Winning Group Holdings – Winning Appliances,WA-01092,18 May  18:04
@@ -175,11 +959,11 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 + AZ Next Generation Advisory – Intend Financial,WA-15010,18 May  18:04
 + Brisbane Airport Corporation – Interest in land at Brisbane Airport,WA-25009,18 May  18:04
 "+ Waymark Hotels Group – Warrego Hotel Motel Cunnamulla, Queensland",WA-70010,18 May  18:04
-+ MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,18 May  18:04
++ MA Financial Group (Redcape Fund) - Hotel Brunswick,,18 May  18:04
 + Peter Warren - Wakeling Automotive,MN-30002,18 May  18:04
 + Michelin - Flexitallic,WA-60010,18 May  18:04
 + Vets Central – West Toowoomba Veterinary Surgery in QLD,WA-95008,18 May  18:04
-+ Five V Capital - FTP Group,,18 May  18:04
++ Five V Capital - FTP Group,WA-25008,18 May  18:04
 + Genesis Minerals – Magnetic Resources,WA-85014,18 May  18:04
 + Insurance Australia Group – RAC Insurance,MN-65005,18 May  18:04
 "+ Hall & McLean – Freehold interest in commercial land in Wellcamp, QLD",WA-20008,18 May  18:04
@@ -287,8 +1071,11 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 "+ Asahi – Warehouse site on Tilburn Rd, Deer Park (Vic)",MN-01016,18 May  18:04
 + Kongsberg Defence – site within Newcastle Airport precinct,MN-01017,18 May  18:04
 + Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,19 May  10:15
++ Eli Lilly - Kelonia Therapeutics,MN-95016,19 May  12:54
++ Primary Wave - Kobalt,MN-25018,19 May  12:54
++ HCLTech - Jaspersoft,WA-95005,19 May  12:54
 ,,
-"CHANGED ENTRIES (255 entries, 499 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (255 entries, 500 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
 ,Acquirers,  →  Ares UK Holdco 2 Limited CRN 17107097; Mastercard Incorporated 3390142; Masterca  (18 May  18:45)
 ,Targets,  →  BVNK Holdings Limited 13922014; B Corporation S.A.M 23S09602  (18 May  18:45)
@@ -457,6 +1244,8 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Other Parties,  →  Barro Group Pty Ltd ACN - 005 105 724; MT. MARROW BLUE METAL QUARRIES PTY. LTD.   (18 May  18:45)
 ,Targets,M&T Populin Pty Ltd ACN - 092 648 078; BQC Registrations Pty Ltd ACN - 613 361 0  →  M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; BURDEK  (18 May  19:26)
 ,Other Parties,Barro Group Pty Ltd ACN - 005 105 724; MT. MARROW BLUE METAL QUARRIES PTY. LTD.   →  Barro Group Pty Ltd; 005 105 724; MT. MARROW BLUE METAL QUARRIES PTY. LTD.; 64 0  (18 May  19:26)
+,Targets,M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; BURDEK  →  BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T P  (19 May  12:54)
+,Last Modified Accc,2026-04-29T14:07:41+10:00  →  2026-05-07T13:35:47+10:00  (19 May  12:54)
 ,,
 ~ DP World Global Forwarding – Pure Global Logistics,WA-95015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dp-world-global-forwarding-%E2%80%93-pure-global-logistics
 ,Acquirers,  →  DP WORLD GLOBAL FORWARDING PTY LTD ABN - 92 656 783 916  (18 May  18:45)
@@ -988,7 +1777,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Targets,CITY OF PORT PHILLIP ABN - 21 762 977 945  →  CITY OF PORT PHILLIP; 21 762 977 945  (18 May  19:26)
 ,Other Parties,COLES SUPERMARKETS AUSTRALIA PTY LTD ABN - 45 004 189 708; COLES GROUP LIMITED A  →  COLES SUPERMARKETS AUSTRALIA PTY LTD; 45 004 189 708; COLES GROUP LIMITED; 11 00  (18 May  19:26)
 ,,
-~ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,,
+~ MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-ma-marina-fund-%E2%80%93-gold-coast-city-marina
 ,Acquirers,  →  MA MARINA FUND HOLDCO PTY LTD ABN - 96 667 241 385; MA MARINA FUND TT PTY LTD AB  (18 May  18:45)
 ,Targets,  →  GGC Marketing Pty Ltd ABN - 32 105 294 228; QUEENSLAND & PACIFIC PTY. LTD. ABN -  (18 May  18:45)
 ,Other Parties,  →  MA ASSET MANAGEMENT LTD ABN - 93 142 008 535; MA MARINA FUND OPCO NO. 1 PTY LTD   (18 May  18:45)
@@ -1318,7 +2107,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Acquirers,Waymark Hotels Properties No 42 Pty Ltd ACN - 692 820 143; WARREGO OP CO PTY LTD  →  Waymark Hotels Properties No 42 Pty Ltd; 692 820 143; WARREGO OP CO PTY LTD; 29   (18 May  19:26)
 ,Targets,G.A.A. Pty Ltd ACN - 131 680 790  →  G.A.A. Pty Ltd; 131 680 790  (18 May  19:26)
 ,,
-~ MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-hotel-brunswick
+~ MA Financial Group (Redcape Fund) - Hotel Brunswick,,
 ,Acquirers,  →  REDCAPE HOTEL GROUP PTY LTD ABN - 43 139 067 244; MAHPT TT PTY LTD ABN - 31 619   (18 May  18:45)
 ,Targets,  →  BRUNSWICK HOTEL OPCO PTY LTD ABN - 99 656 116 853; The Trustee for Brunswick Hot  (18 May  18:45)
 ,Acquirers,REDCAPE HOTEL GROUP PTY LTD ABN - 43 139 067 244; MAHPT TT PTY LTD ABN - 31 619   →  REDCAPE HOTEL GROUP PTY LTD; 43 139 067 244; MAHPT TT PTY LTD; 31 619 297 657  (18 May  19:26)
@@ -1346,7 +2135,7 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Targets,The trustee for the Burke Family Trust ABN - 35 834 715 269  →  The trustee for the Burke Family Trust; 35 834 715 269  (18 May  19:26)
 ,Other Parties,VETS CENTRAL HOLDINGS PTY LTD ABN - 60 652 812 256  →  VETS CENTRAL HOLDINGS PTY LTD; 60 652 812 256  (18 May  19:26)
 ,,
-~ Five V Capital - FTP Group,,
+~ Five V Capital - FTP Group,WA-25008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group
 ,Acquirers,  →  OVERWATCH BIDCO PTY LTD ACN - 695 739 970  (18 May  18:45)
 ,Targets,  →  FTP GROUP HOLDINGS PTY LTD ABN - 82 626 217 614; FAARM BIDCO PTY LTD ACN - 695 8  (18 May  18:45)
 ,Other Parties,  →  FIVE V CAPITAL PTY LTD ABN - 29 162 193 928; Five V Horizons Pty Ltd ACN - 665 2  (18 May  18:45)
@@ -2057,6 +2846,8 @@ NEW ENTRIES (256),Case Number,Detected (AEST)
 ,Acquirers,KONGSBERG DEFENCE AUSTRALIA PTY LTD ABN - 95 146 599 359  →  KONGSBERG DEFENCE AUSTRALIA PTY LTD; 95 146 599 359  (18 May  19:26)
 ,Targets,GREATER NEWCASTLE AEROTROPOLIS PTY LTD ABN - 90 629 359 726  →  GREATER NEWCASTLE AEROTROPOLIS PTY LTD; 90 629 359 726  (18 May  19:26)
 ,,
-REMOVED ENTRIES (1),Case Number,Detected (AEST)
-- HCLTech - Jaspersoft,,19 May  10:15
+REMOVED ENTRIES (3),Case Number,Detected (AEST)
+- HCLTech - Jaspersoft,WA-95005,19 May  10:15
+- Five V Capital - FTP Group,,19 May  12:54
+- MA Financial Group (MA Marina Fund) – Gold Coast City Marina,,19 May  12:54
 ,,

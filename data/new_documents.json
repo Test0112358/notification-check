@@ -1,0 +1,150 @@
+{
+  "run_utc": "2026-05-19T07:26:15.752573Z",
+  "questionnaire_count": 12,
+  "questionnaires": [
+    {
+      "slug": "restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+      "title": "Restaurant Brands and Yum! Brands – Taco Bell restaurants",
+      "case_number": "MN-70018",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+      "date": "19 May 2026",
+      "description": "Restaurant Brands and Yum Brands - Taco Bell - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Yum%20-%20Taco%20Bell%3A%20Questionnaire%20-%20May%202026.docx",
+      "local_path": "data/consultation_docs/Yum - Taco Bell_ Questionnaire - May 2026.docx",
+      "filename": "Yum - Taco Bell_ Questionnaire - May 2026.docx",
+      "size_kb": 116.3
+    },
+    {
+      "slug": "eli-lilly-kelonia-therapeutics",
+      "title": "Eli Lilly - Kelonia Therapeutics",
+      "case_number": "MN-95016",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
+      "date": "19 May 2026",
+      "description": "Eli Lilly - Kelonia Therapeutics - third party questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Eli%20Lilly%20-%20Kelonia%20Therapeutics%20-%203rd%20party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Eli Lilly - Kelonia Therapeutics - 3rd party questionnaire.docx",
+      "filename": "Eli Lilly - Kelonia Therapeutics - 3rd party questionnaire.docx",
+      "size_kb": 115.7
+    },
+    {
+      "slug": "primary-wave-kobalt",
+      "title": "Primary Wave - Kobalt",
+      "case_number": "MN-25018",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt",
+      "date": "19 May 2026",
+      "description": "Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kobalt%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/ Kobalt - Questionnaire.docx",
+      "filename": " Kobalt - Questionnaire.docx",
+      "size_kb": 110.3
+    },
+    {
+      "slug": "mastercard-bvnk",
+      "title": "Mastercard - BVNK",
+      "case_number": "MN-50015",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk",
+      "date": "18 May 2026",
+      "description": "Mastercard - BVNK - Questionnaire - May 2026",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Mastercard%20-%20BVNK%20-%20Questionnaire%20-%20May%202026.docx",
+      "local_path": "data/consultation_docs/Mastercard - BVNK - Questionnaire - May 2026.docx",
+      "filename": "Mastercard - BVNK - Questionnaire - May 2026.docx",
+      "size_kb": 61.4
+    },
+    {
+      "slug": "volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+      "title": "Volt Managed Investment Trusts – HMC Energy Transition Platform",
+      "case_number": "MN-90007",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+      "date": "15 May 2026",
+      "description": "Questionnaire - KKR-HMC Energy Transition Platform",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20KKR-HMC%20Energy%20Transition%20Platform.docx",
+      "local_path": "data/consultation_docs/Questionnaire - KKR-HMC Energy Transition Platform.docx",
+      "filename": "Questionnaire - KKR-HMC Energy Transition Platform.docx",
+      "size_kb": 116.0
+    },
+    {
+      "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+      "title": "PT Asian Bulk Logistics – Engage Marine",
+      "case_number": "MN-90012",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+      "date": "14 May 2026",
+      "description": "PT Asian Bulk Logistics - Engage Marine - Questionnaire - May 2026",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/PT%20Asian%20Bulk%20Logistics%20-%20Engage%20Marine%20-%20Questionnaire%20-%20May%202026_0.docx",
+      "local_path": "data/consultation_docs/PT Asian Bulk Logistics - Engage Marine - Questionnaire - May 2026_0.docx",
+      "filename": "PT Asian Bulk Logistics - Engage Marine - Questionnaire - May 2026_0.docx",
+      "size_kb": 61.5
+    },
+    {
+      "slug": "quanta-psd",
+      "title": "Quanta - PSD",
+      "case_number": "MN-70012",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd",
+      "date": "12 May 2026",
+      "description": "Questionnaire - Quanta - PSD",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Quanta%20-%20PSD.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Quanta - PSD.docx",
+      "filename": "Questionnaire - Quanta - PSD.docx",
+      "size_kb": 117.7
+    },
+    {
+      "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+      "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
+      "case_number": "MN-05017",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+      "date": "13 May 2026",
+      "description": "Questionnaire - TWG - Sharton Motors dealerships",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/%20Sharton%20-%20Questionnaire%20text.docx",
+      "local_path": "data/consultation_docs/ Sharton - Questionnaire text.docx",
+      "filename": " Sharton - Questionnaire text.docx",
+      "size_kb": 118.9
+    },
+    {
+      "slug": "seismic-%E2%80%93-highspot",
+      "title": "Seismic – Highspot",
+      "case_number": "MN-75014",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot",
+      "date": "12 May 2026",
+      "description": "Questionnaire - Seismic - Highspot",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Seismic%20-%20Highspot%20-%203rd%20Party%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Seismic - Highspot - 3rd Party Questionnaire.docx",
+      "filename": "Seismic - Highspot - 3rd Party Questionnaire.docx",
+      "size_kb": 117.4
+    },
+    {
+      "slug": "openai-tomoro",
+      "title": "OpenAI - Tomoro",
+      "case_number": "MN-25021",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro",
+      "date": "13 May 2026",
+      "description": "Questionnaire - OpenAI - Tomoro",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20OpenAI%20-%20Tomoro.docx",
+      "local_path": "data/consultation_docs/Questionnaire - OpenAI - Tomoro.docx",
+      "filename": "Questionnaire - OpenAI - Tomoro.docx",
+      "size_kb": 110.1
+    },
+    {
+      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+      "title": "Zoetis – Neogen Genomics Business",
+      "case_number": "MN-05013",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+      "date": "13 May 2026",
+      "description": "Questionnaire - Zoetis - Neogen Genomics Business",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Zoetis%20-%20Neogen%20Genomics%20Business.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Zoetis - Neogen Genomics Business.docx",
+      "filename": "Questionnaire - Zoetis - Neogen Genomics Business.docx",
+      "size_kb": 116.6
+    },
+    {
+      "slug": "atkinsr%C3%A9alis-wga",
+      "title": "AtkinsRéalis - WGA",
+      "case_number": "MN-65016",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga",
+      "date": "13 May 2026",
+      "description": "Questionnaire - AtkinsRealis - WGA",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/AtkinsRealis%20-%20WGA%20Group%20-%20third-party%20questionnaire%20template.docx",
+      "local_path": "data/consultation_docs/AtkinsRealis - WGA Group - third-party questionnaire template.docx",
+      "filename": "AtkinsRealis - WGA Group - third-party questionnaire template.docx",
+      "size_kb": 115.9
+    }
+  ]
+}
