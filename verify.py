@@ -44,7 +44,7 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from workalendar.oceania import AustralianCapitalTerritory
+
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -75,7 +75,7 @@ HEADERS = {
     )
 }
 
-ACT_CAL = AustralianCapitalTerritory()
+
 
 DATE_FORMATS = [
     "%d %B %Y",
@@ -117,6 +117,142 @@ WARNING = "WARNING"  # Data may be wrong or unexpected
 INFO = "INFO"        # Informational anomaly worth noting
 
 
+# ---------------------------------------------------------------------------
+# ACT Public Holiday Calendar — Official ACT Government Source
+# ---------------------------------------------------------------------------
+# Source: ACT Government Work Safety Group, Chief Minister, Treasury and
+# Economic Development Directorate (wsg@act.gov.au)
+#   ACT-Public-Holidays-2026.pdf — correct as at 24 March 2026
+#   ACT-Public-Holidays-2027.pdf — correct as at 9 December 2025
+#   ACT-Public-Holidays-2028.pdf — correct as at 9 December 2025
+#   ACT-Public-Holidays-2029.pdf — correct as at 9 December 2025
+#   2025 dates derived from the same authority (prior year publication)
+#
+# When new annual PDFs are published by the ACT Government, add the new
+# year's dates here and update requirements.txt if needed.
+# New PDFs are published at: https://www.act.gov.au/working-in-the-act/public-holidays
+#
+# NOTE: Business day calculations also exclude the ACCC's Christmas/New Year
+# suspension period (23 December to 11 January inclusive) per the ACCC
+# Merger Process Guidelines.
+# ---------------------------------------------------------------------------
+
+_D = datetime.date  # shorthand
+
+ACT_PUBLIC_HOLIDAYS = {
+
+    # 2025 — derived from ACT Government Holidays Act 1958 (ACT) rules
+    _D(2025,  1,  1),  # New Year's Day
+    _D(2025,  1, 27),  # Australia Day (26 Jan is Sunday, observed Monday)
+    _D(2025,  3, 10),  # Canberra Day (second Monday in March)
+    _D(2025,  4, 18),  # Good Friday
+    _D(2025,  4, 19),  # Easter Saturday
+    _D(2025,  4, 20),  # Easter Sunday
+    _D(2025,  4, 21),  # Easter Monday
+    _D(2025,  4, 25),  # ANZAC Day (Friday)
+    _D(2025,  6,  2),  # Reconciliation Day (27 May is Tuesday, following Monday)
+    _D(2025,  6,  9),  # King's Birthday (second Monday in June)
+    _D(2025, 10,  6),  # Labour Day (first Monday in October)
+    _D(2025, 12, 25),  # Christmas Day
+    _D(2025, 12, 26),  # Boxing Day
+
+    # 2026 — ACT-Public-Holidays-2026.pdf (correct as at 24 March 2026)
+    _D(2026,  1,  1),  # New Year's Day
+    _D(2026,  1, 26),  # Australia Day
+    _D(2026,  3,  9),  # Canberra Day
+    _D(2026,  4,  3),  # Good Friday
+    _D(2026,  4,  4),  # Easter Saturday
+    _D(2026,  4,  5),  # Easter Sunday
+    _D(2026,  4,  6),  # Easter Monday
+    _D(2026,  4, 25),  # ANZAC Day (Saturday — observed)
+    _D(2026,  4, 27),  # ANZAC Day additional (Monday — as 25 Apr is Saturday)
+    _D(2026,  6,  1),  # Reconciliation Day (27 May is Wednesday, following Monday)
+    _D(2026,  6,  8),  # King's Birthday
+    _D(2026, 10,  5),  # Labour Day
+    _D(2026, 12, 25),  # Christmas Day
+    _D(2026, 12, 26),  # Boxing Day (Saturday — observed)
+    _D(2026, 12, 28),  # Boxing Day additional (Monday — as 26 Dec is Saturday)
+
+    # 2027 — ACT-Public-Holidays-2027.pdf (correct as at 9 December 2025)
+    _D(2027,  1,  1),  # New Year's Day
+    _D(2027,  1, 26),  # Australia Day
+    _D(2027,  3,  8),  # Canberra Day
+    _D(2027,  3, 26),  # Good Friday
+    _D(2027,  3, 27),  # Easter Saturday
+    _D(2027,  3, 28),  # Easter Sunday
+    _D(2027,  3, 29),  # Easter Monday
+    _D(2027,  4, 26),  # ANZAC Day (25 Apr is Sunday, observed following Monday)
+    _D(2027,  5, 31),  # Reconciliation Day (27 May is Thursday, following Monday)
+    _D(2027,  6, 14),  # King's Birthday
+    _D(2027, 10,  4),  # Labour Day
+    _D(2027, 12, 25),  # Christmas Day (Saturday — observed)
+    _D(2027, 12, 27),  # Christmas Day additional (Monday — as 25 Dec is Saturday)
+    _D(2027, 12, 26),  # Boxing Day (Sunday — observed)
+    _D(2027, 12, 28),  # Boxing Day additional (Tuesday — as 26 Dec is Sunday)
+
+    # 2028 — ACT-Public-Holidays-2028.pdf (correct as at 9 December 2025)
+    _D(2028,  1,  1),  # New Year's Day (Saturday — observed)
+    _D(2028,  1,  3),  # New Year's Day additional (Monday — as 1 Jan is Saturday)
+    _D(2028,  1, 26),  # Australia Day
+    _D(2028,  3, 13),  # Canberra Day
+    _D(2028,  4, 14),  # Good Friday
+    _D(2028,  4, 15),  # Easter Saturday
+    _D(2028,  4, 16),  # Easter Sunday
+    _D(2028,  4, 17),  # Easter Monday
+    _D(2028,  4, 25),  # ANZAC Day (Tuesday)
+    _D(2028,  5, 29),  # Reconciliation Day (27 May is Saturday, following Monday)
+    _D(2028,  6, 12),  # King's Birthday
+    _D(2028, 10,  2),  # Labour Day
+    _D(2028, 12, 25),  # Christmas Day (Monday)
+    _D(2028, 12, 26),  # Boxing Day (Tuesday)
+
+    # 2029 — ACT-Public-Holidays-2029.pdf (correct as at 9 December 2025)
+    _D(2029,  1,  1),  # New Year's Day
+    _D(2029,  1, 26),  # Australia Day
+    _D(2029,  3, 12),  # Canberra Day
+    _D(2029,  3, 30),  # Good Friday
+    _D(2029,  3, 31),  # Easter Saturday
+    _D(2029,  4,  1),  # Easter Sunday
+    _D(2029,  4,  2),  # Easter Monday
+    _D(2029,  4, 25),  # ANZAC Day (Wednesday)
+    _D(2029,  5, 28),  # Reconciliation Day (27 May is Sunday, following Monday)
+    _D(2029,  6, 11),  # King's Birthday
+    _D(2029, 10,  1),  # Labour Day
+    _D(2029, 12, 25),  # Christmas Day (Tuesday)
+    _D(2029, 12, 26),  # Boxing Day (Wednesday)
+}
+
+
+def is_accc_business_day(d):
+    """
+    Returns True if d counts as a business day under the ACCC merger regime.
+    Excludes weekends, ACT public holidays (official ACT Government PDFs),
+    and the 23 Dec to 11 Jan Christmas/New Year suspension period per the
+    ACCC Merger Process Guidelines.
+    """
+    if d.weekday() >= 5:  # 5 = Saturday, 6 = Sunday
+        return False
+    if d in ACT_PUBLIC_HOLIDAYS:
+        return False
+    # ACCC Christmas/New Year suspension (23 Dec to 11 Jan inclusive)
+    if (d.month == 12 and d.day >= 23) or (d.month == 1 and d.day <= 11):
+        return False
+    return True
+
+
+def count_accc_business_days(start_date, end_date):
+    """
+    Count ACCC business days from start_date to end_date inclusive.
+    """
+    if not start_date or not end_date or end_date < start_date:
+        return None
+    count = 0
+    current = start_date
+    while current <= end_date:
+        if is_accc_business_day(current):
+            count += 1
+        current += datetime.timedelta(days=1)
+    return count
 # ---------------------------------------------------------------------------
 # Shared utilities
 # ---------------------------------------------------------------------------
@@ -175,8 +311,8 @@ def fetch_soup(url, session):
 
 def recalculate_business_days(start_str, end_str):
     """
-    Re-calculate ACT business days independently from the stored value.
-    Uses a direct day-by-day count as a second opinion on workalendar's output.
+    Independent recalculation of ACCC business days for verification.
+    Uses a day-by-day loop as a second opinion on the scraper's output.
     """
     start = parse_date(start_str)
     end = parse_date(end_str)
@@ -185,7 +321,7 @@ def recalculate_business_days(start_str, end_str):
     count = 0
     current = start
     while current <= end:
-        if ACT_CAL.is_working_day(current):
+        if is_accc_business_day(current):
             count += 1
         current += datetime.timedelta(days=1)
     return count
