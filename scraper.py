@@ -806,130 +806,104 @@ def generate_summary(register):
         ),
     }
 
-def detect_new_documents(stored_register, new_register):
+def detect_new_questionnaires(stored_register, new_register):
     """
-    Detect new documents across both Consultation and
-    Decisions and key events sections for all entries.
-    Returns two lists: new consultation docs, new decision docs.
-    File type (PDF or Word) is not assumed — both can appear in either section.
+    Detect new consultation questionnaire Word documents (.docx) only.
+    Checks the Consultation section of each entry.
+    Skips PDFs, blank URLs, and any doc already in the stored register.
     """
-    new_consultation = []
-    new_decisions = []
+    new_questionnaires = []
 
     for slug, entry in new_register.items():
         stored = stored_register.get(slug, {})
-        title = entry.get("title", slug)
-        case_num = entry.get("case_number", "")
-        accc_url = entry.get("url", "")
-
-        # Consultation docs
-        old_cons_urls = {
+        old_urls = {
             d["url"] for d in stored.get("consultation_docs", [])
             if d.get("url")
         }
         for doc in entry.get("consultation_docs", []):
-            if doc.get("url") and doc["url"] not in old_cons_urls:
-                new_consultation.append({
-                    "slug": slug, "title": title,
-                    "case_number": case_num, "accc_url": accc_url,
-                    "section": "Consultation",
+            url = doc.get("url", "")
+            if (url
+                    and url not in old_urls
+                    and url.lower().endswith(".docx")):
+                new_questionnaires.append({
+                    "slug": slug,
+                    "title": entry.get("title", slug),
+                    "case_number": entry.get("case_number", ""),
+                    "accc_url": entry.get("url", ""),
                     "date": doc.get("date", ""),
                     "description": doc.get("description", ""),
-                    "download_url": doc.get("url", ""),
+                    "download_url": url,
                 })
 
-        # Decisions docs
-        old_decs_urls = {
-            d["url"] for d in stored.get("decisions_docs", [])
-            if d.get("url")
-        }
-        for doc in entry.get("decisions_docs", []):
-            if doc.get("url") and doc["url"] not in old_decs_urls:
-                new_decisions.append({
-                    "slug": slug, "title": title,
-                    "case_number": case_num, "accc_url": accc_url,
-                    "section": "Decisions and key events",
-                    "date": doc.get("date", ""),
-                    "description": doc.get("description", ""),
-                    "download_url": doc.get("url", ""),
-                })
-
-    return new_consultation, new_decisions
+    return new_questionnaires
 
 
-def download_new_documents(new_consultation, new_decisions, session):
+def download_questionnaires(questionnaires, session):
     """
-    Download new consultation and decision documents into separate subfolders.
-    Handles any file type (PDF or Word doc) — uses filename from the URL.
-    Returns (downloaded_consultation, downloaded_decisions).
+    Download new consultation questionnaire Word docs to data/consultation_docs/.
+    Capped at 15 per run to prevent bulk downloads on the first run.
     """
     import urllib.parse
 
-    def download_list(docs, subfolder):
-        folder = os.path.join(DATA_DIR, subfolder)
-        os.makedirs(folder, exist_ok=True)
-        docs = docs[:15]  # Safety cap — max 15 downloads per section per run
-        downloaded = []
-        for doc in docs:
-            url = doc.get("download_url", "")
-            if not url:
-                continue
-            try:
-                parsed = urllib.parse.urlparse(url)
-                filename = urllib.parse.unquote(os.path.basename(parsed.path))
-                if not filename:
-                    filename = f"{doc['slug']}-document"
-                filename = re.sub(r'[^\w\-_\. ]', '_', filename)
-                filepath = os.path.join(folder, filename)
+    docs_dir = os.path.join(DATA_DIR, "consultation_docs")
+    os.makedirs(docs_dir, exist_ok=True)
 
-                print(f"  Downloading: {filename}")
-                resp = session.get(url, timeout=60)
-                resp.raise_for_status()
-                with open(filepath, "wb") as f:
-                    f.write(resp.content)
-                size_kb = round(len(resp.content) / 1024, 1)
-                print(f"  Saved: {filepath} ({size_kb} KB)")
-                downloaded.append({
-                    **doc,
-                    "local_path": filepath,
-                    "filename": filename,
-                    "size_kb": size_kb,
-                })
-                time.sleep(REQUEST_DELAY)
-            except Exception as exc:
-                print(f"  WARNING: Could not download {url}: {exc}")
-        return downloaded
+    downloaded = []
+    for doc in questionnaires[:15]:
+        url = doc.get("download_url", "")
+        if not url:
+            continue
+        try:
+            parsed = urllib.parse.urlparse(url)
+            filename = urllib.parse.unquote(os.path.basename(parsed.path))
+            if not filename:
+                filename = f"{doc['slug']}-questionnaire.docx"
+            filename = re.sub(r'[^\w\-_\. ]', '_', filename)
+            filepath = os.path.join(docs_dir, filename)
+
+            print(f"  Downloading: {filename}")
+            resp = session.get(url, timeout=60)
+            resp.raise_for_status()
+            with open(filepath, "wb") as f:
+                f.write(resp.content)
+            size_kb = round(len(resp.content) / 1024, 1)
+            print(f"  Saved: {filepath} ({size_kb} KB)")
+            downloaded.append({
+                **doc,
+                "local_path": filepath,
+                "filename": filename,
+                "size_kb": size_kb,
+            })
+            time.sleep(REQUEST_DELAY)
+        except Exception as exc:
+            print(f"  WARNING: Could not download {url}: {exc}")
+
+    return downloaded
 
     dl_cons = download_list(new_consultation, "consultation_docs")
     dl_decs = download_list(new_decisions, "decision_docs")
     return dl_cons, dl_decs
   
-# ── New document detection and download ────────────────────────────────
-    print("\nChecking for new documents...")
-    new_consultation, new_decisions = detect_new_documents(
-        stored_register, new_register
-    )
-    dl_cons, dl_decs = [], []
+# ── Consultation questionnaire detection and download ──────────────────
+    print("\nChecking for new consultation questionnaires...")
+    new_questionnaires = detect_new_questionnaires(stored_register, new_register)
+    dl_questionnaires = []
 
-    if new_consultation or new_decisions:
-        print(f"  {len(new_consultation)} new consultation doc(s), "
-              f"{len(new_decisions)} new decision doc(s).")
-        dl_cons, dl_decs = download_new_documents(
-            new_consultation, new_decisions, session
-        )
+    if new_questionnaires:
+        print(f"  {len(new_questionnaires)} new questionnaire(s) detected.")
+        dl_questionnaires = download_questionnaires(new_questionnaires, session)
     else:
-        print("  No new documents.")
+        print("  No new questionnaires.")
 
     save_json(
         os.path.join(DATA_DIR, "new_documents.json"),
         {
             "run_utc": run_utc,
-            "consultation_count": len(dl_cons),
-            "decision_count": len(dl_decs),
-            "consultation_docs": dl_cons,
-            "decision_docs": dl_decs,
+            "questionnaire_count": len(dl_questionnaires),
+            "questionnaires": dl_questionnaires,
         },
     )
+  
 
 def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
@@ -1307,8 +1281,7 @@ def run():
             f.write(f"new_count={len(new_slugs)}\n")
             f.write(f"changed_count={len(changed_slugs)}\n")
             f.write(f"removed_count={len(removed_slugs)}\n")
-            f.write(f"consultation_doc_count={len(dl_cons)}\n")
-            f.write(f"decision_doc_count={len(dl_decs)}\n")
+            f.write(f"consultation_doc_count={len(dl_questionnaires)}\n")
 
   # ── New document detection and download ────────────────────────────────
     print("\nChecking for new documents...")
