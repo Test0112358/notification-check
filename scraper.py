@@ -1172,14 +1172,6 @@ def run():
             print(f"  WARNING: could not verify {slug} — keeping in register ({exc})")
     removed_slugs = confirmed_removed
 
-    for slug in removed_slugs:
-        changelog.append({
-            "timestamp_utc": run_utc,
-            "slug": slug,
-            "title": stored_register[slug].get("title", slug),
-            "url": stored_register[slug].get("url", ""),
-            "event": "REMOVED",
-            "changes": [],
           
     for slug in removed_slugs:
         changelog.append({
