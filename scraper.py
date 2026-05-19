@@ -904,7 +904,26 @@ def download_questionnaires(questionnaires, session):
         },
     )
   
+# ── Consultation questionnaire detection and download ──────────────────
+    print("\nChecking for new consultation questionnaires...")
+    new_questionnaires = detect_new_questionnaires(stored_register, new_register)
+    dl_questionnaires = []
 
+    if new_questionnaires:
+        print(f"  {len(new_questionnaires)} new questionnaire(s) detected.")
+        dl_questionnaires = download_questionnaires(new_questionnaires, session)
+    else:
+        print("  No new questionnaires.")
+
+    save_json(
+        os.path.join(DATA_DIR, "new_documents.json"),
+        {
+            "run_utc": run_utc,
+            "questionnaire_count": len(dl_questionnaires),
+            "questionnaires": dl_questionnaires,
+        },
+    )
+  
 def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
     """Write status.csv for the Last Updated tab in Google Sheets."""
