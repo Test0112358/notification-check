@@ -22,5 +22,17 @@
     "field": "anzsic_codes",
     "stored_value": "121 Beverage Manufacturing; 67 Property Operators and Real Estate Services",
     "expected_or_found": "at least one 4-digit code"
+  },
+  {
+    "slug": "waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland",
+    "title": "Waymark Hotels Group – Warrego Hotel Motel Cunnamulla, Queensland",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
   }
 ]
