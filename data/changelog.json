@@ -16736,5 +16736,66 @@
         "new": "[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '12 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_3.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_3.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-20T10:30:16.704837Z",
+    "slug": "integris-related-entities-first-focus",
+    "title": "Integris & related entities - First Focus",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-20T10:30:16.704837Z",
+    "slug": "atkinsr%C3%A9alis-wga",
+    "title": "AtkinsRéalis - WGA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "ATKINSREALIS ENGINEERING PTY LTD; 36 101 300 476",
+        "new": "ATKINSREALIS AUSTRALIA HOLDINGS PTY LTD; 697 935 685"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-13T16:40:14+10:00",
+        "new": "2026-05-20T16:59:10+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 May 2026 via e-mail to mergers@accc.gov.au with the title Submission re: AtkinsRealis - WGA. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 13 May 2026 Questionnaire - AtkinsRealis - WGA Attachment 115.95 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/AtkinsRealis%20-%20WGA%20Group%20-%20third-party%20questionnaire%20template.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-20T10:30:16.704837Z",
+    "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+    "title": "Zoetis – Neogen Genomics Business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-13T18:12:09+10:00",
+        "new": "2026-05-20T16:54:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by 20 May 2026 via email to mergers@accc.gov.au with the title Submission re: Zoetis - Neogen Genomics Business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 13 May 2026 Questionnaire - Zoetis - Neogen Genomics Business Attachment 116.65 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomics Business', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Zoetis%20-%20Neogen%20Genomics%20Business.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

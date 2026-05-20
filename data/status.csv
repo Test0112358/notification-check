@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-19 23:47:47.079039,
-Last scrape run (AEST),20 May 2026  09:47,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-20 10:30:16.704837,
+Last scrape run (AEST),20 May 2026  20:30,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,262,
-New entries this run,2,
-Changed entries this run,3,
+Total entries monitored,263,
+New entries this run,1,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,31 +13,25 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Magellan Financial Group - Barrenjoey,MN-95007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey
-+ Tega and Apollo Funds consortium - Molycop,MN-85006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tega-and-apollo-funds-consortium-molycop
+NEW ENTRIES (1),Case Number,URL
++ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
-,Other Parties,PSD Plant & Equipment Pty Ltd; 97 144 778 861; Intellect Systems Pty Ltd; 11 115 885 348; Axcentium   →  Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861; PSD Energy Pty Ltd
-,Last Modified Accc,2026-05-12T14:58:54+10:00  →  2026-05-20T07:51:16+10:00
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
+,Acquirers,ATKINSREALIS ENGINEERING PTY LTD; 36 101 300 476  →  ATKINSREALIS AUSTRALIA HOLDINGS PTY LTD; 697 935 685
+,Last Modified Accc,2026-05-13T16:40:14+10:00  →  2026-05-20T16:59:10+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '12 May 2026', 'description': 'Questionnaire - Quanta - PSD', 'url': 'https://www.accc.gov  →  "
+,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'url': 'https://www.ac  →  "
 ,,
-~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
-,Last Modified Accc,2026-05-13T15:30:18+10:00  →  2026-05-20T09:29:59+10:00
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,Last Modified Accc,2026-05-13T18:12:09+10:00  →  2026-05-20T16:54:08+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - OpenAI - Tomoro', 'url': 'https://www.accc.  →  "
-,,
-"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,End Of Determination Period,22 Jun 2026  →  26 Jun 2026
-,Last Modified Accc,2026-05-13T15:14:30+10:00  →  2026-05-20T09:09:07+10:00
-,Decisions Docs,"[{'date': '12 May 2026', 'description': 'Timeline extended by 6 business days – following request fo  →  [{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request fo"
+,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomics Business', 'url':   →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (265),Case Number,Detected (AEST)
+NEW ENTRIES (267),Case Number,Detected (AEST)
 + Mastercard - BVNK,MN-50015,18 May  18:04
 + Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,18 May  18:04
 + PT Asian Bulk Logistics – Engage Marine,MN-90012,18 May  18:04
@@ -303,8 +297,10 @@ NEW ENTRIES (265),Case Number,Detected (AEST)
 + Five V Capital - FTP Group,WA-25008,19 May  17:26
 + AXDI - minority interest in La Trobe Financial,WA-30011,19 May  18:11
 + MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,19 May  18:11
++ Magellan Financial Group - Barrenjoey,MN-95007,20 May  09:47
++ Tega and Apollo Funds consortium - Molycop,MN-85006,20 May  09:47
 ,,
-"CHANGED ENTRIES (258 entries, 755 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (258 entries, 758 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
 ,Acquirers,  →  Ares UK Holdco 2 Limited CRN 17107097; Mastercard Incorporated 3390142; Masterca  (18 May  18:45)
 ,Targets,  →  BVNK Holdings Limited 13922014; B Corporation S.A.M 23S09602  (18 May  18:45)
@@ -344,6 +340,10 @@ NEW ENTRIES (265),Case Number,Detected (AEST)
 ,Other Parties,PSD Plant & Equipment Pty Ltd ABN - 97 144 778 861; Intellect Systems Pty Ltd AB  →  PSD Plant & Equipment Pty Ltd; 97 144 778 861; Intellect Systems Pty Ltd; 11 115  (18 May  19:26)
 ,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (19 May  17:26)
 ,Consultation Docs,"  →  [{'date': '12 May 2026', 'description': 'Questionnaire - Quanta - PSD', 'url': '  (19 May  17:26)"
+,Other Parties,PSD Plant & Equipment Pty Ltd; 97 144 778 861; Intellect Systems Pty Ltd; 11 115  →  Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861  (20 May  09:47)
+,Last Modified Accc,2026-05-12T14:58:54+10:00  →  2026-05-20T07:51:16+10:00  (20 May  09:47)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 May  09:47)
+,Consultation Docs,"[{'date': '12 May 2026', 'description': 'Questionnaire - Quanta - PSD', 'url': '  →    (20 May  09:47)"
 ,,
 ~ Novartis / Excellergy,MN-40019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy
 ,Acquirers,"  →  Elba Merger Sub, Inc. Delaware company number 10547479  (18 May  18:45)"
@@ -385,6 +385,9 @@ NEW ENTRIES (265),Case Number,Detected (AEST)
 ,Other Parties,OpenAI Foundation Delaware file number - 5902936  →  OpenAI Foundation; Delaware file number - 5902936  (18 May  19:26)
 ,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (19 May  17:26)
 ,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - OpenAI - Tomoro', 'url'  (19 May  17:26)"
+,Last Modified Accc,2026-05-13T15:30:18+10:00  →  2026-05-20T09:29:59+10:00  (20 May  09:47)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 May  09:47)
+,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - OpenAI - Tomoro', 'url'  →    (20 May  09:47)"
 ,,
 ~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
 ,Acquirers,  →  Zoetis Holdings LLC  (18 May  18:45)
@@ -2288,6 +2291,9 @@ NEW ENTRIES (265),Case Number,Detected (AEST)
 ,Targets,M Holdings 4 Pty Ltd ACN - 652 075 799  →  M Holdings 4 Pty Ltd; 652 075 799  (18 May  19:26)
 ,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Ph  (19 May  17:26)
 ,Decisions Docs,"  →  [{'date': '12 May 2026', 'description': 'Timeline extended by 6 business days –   (19 May  17:26)"
+,End Of Determination Period,22 Jun 2026  →  26 Jun 2026  (20 May  09:47)
+,Last Modified Accc,2026-05-13T15:14:30+10:00  →  2026-05-20T09:09:07+10:00  (20 May  09:47)
+,Decisions Docs,"[{'date': '12 May 2026', 'description': 'Timeline extended by 6 business days –   →  [{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days –   (20 May  09:47)"
 ,,
 ~ Molex – Smiths Interconnect,MN-01061,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/molex-%E2%80%93-smiths-interconnect
 ,Acquirers,"  →  Molex Electronic Technologies Holdings, LLC Company number - 46-4432478  (18 May  18:45)"
@@ -2364,5 +2370,5 @@ REMOVED ENTRIES (5),Case Number,Detected (AEST)
 - Five V Capital - FTP Group,WA-25008,19 May  12:54
 - MA Financial Group (MA Marina Fund) – Gold Coast City Marina,MN-45005,19 May  12:54
 - MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,19 May  17:26
-- Tega and Apollo Funds consortium - Molycop,,20 May  03:30
+- Tega and Apollo Funds consortium - Molycop,MN-85006,20 May  03:30
 ,,
