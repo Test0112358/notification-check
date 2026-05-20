@@ -1,14 +1,92 @@
 {
-  "run_utc": "2026-05-19T17:30:48.033694Z",
-  "new_count": 0,
-  "changed_count": 0,
-  "removed_count": 1,
-  "new_entries": [],
-  "changed_entries": [],
-  "removed_entries": [
+  "run_utc": "2026-05-19T23:47:47.079039Z",
+  "new_count": 2,
+  "changed_count": 3,
+  "removed_count": 0,
+  "new_entries": [
+    {
+      "slug": "magellan-financial-group-barrenjoey",
+      "title": "Magellan Financial Group - Barrenjoey",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey"
+    },
     {
       "slug": "tega-and-apollo-funds-consortium-molycop",
-      "title": "Tega and Apollo Funds consortium - Molycop"
+      "title": "Tega and Apollo Funds consortium - Molycop",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tega-and-apollo-funds-consortium-molycop"
     }
-  ]
+  ],
+  "changed_entries": [
+    {
+      "slug": "quanta-psd",
+      "title": "Quanta - PSD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd",
+      "changes": [
+        {
+          "field": "other_parties",
+          "old": "PSD Plant & Equipment Pty Ltd; 97 144 778 861; Intellect Systems Pty Ltd; 11 115 885 348; Axcentium Pty Ltd; 48 638 953 572; Consolidated Power Projects Australia Pty Ltd; 18 075 411 219; Nacap Pty Ltd; 33 006 306 994; PSD Energy Pty Ltd; 68 117 966 926",
+          "new": "Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861; PSD Energy Pty Ltd; 68 117 966 926; Intellect Systems Pty Ltd; 11 115 885 348; Consolidated Power Projects Australia Pty Ltd; 18 075 411 219; Nacap Pty Ltd; 33 006 306 994"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-12T14:58:54+10:00",
+          "new": "2026-05-20T07:51:16+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 May 2026 via email to mergers@accc.gov.au with the title Submission re: Quanta - PSD. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 12 May 2026 Questionnaire - Quanta - PSD Attachment 117.71 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '12 May 2026', 'description': 'Questionnaire - Quanta - PSD', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Quanta%20-%20PSD.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "openai-tomoro",
+      "title": "OpenAI - Tomoro",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-13T15:30:18+10:00",
+          "new": "2026-05-20T09:29:59+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 May 2026 via e-mail to mergers@accc.gov.au with the title Submission re: OpenAI - Tomoro. read more 13 May 2026 Questionnaire - OpenAI - Tomoro Attachment 110.08 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '13 May 2026', 'description': 'Questionnaire - OpenAI - Tomoro', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20OpenAI%20-%20Tomoro.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+      "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+      "changes": [
+        {
+          "field": "end_of_determination_period",
+          "old": "22 Jun 2026",
+          "new": "26 Jun 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-13T15:14:30+10:00",
+          "new": "2026-05-20T09:09:07+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '12 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_0.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_1.pdf'}]",
+          "new": "[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '12 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_3.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_3.pdf'}]"
+        }
+      ]
+    }
+  ],
+  "removed_entries": []
 }
