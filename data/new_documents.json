@@ -1,18 +1,30 @@
 {
-  "run_utc": "2026-05-20T10:30:16.704837Z",
-  "questionnaire_count": 1,
+  "run_utc": "2026-05-21T10:53:18.784549Z",
+  "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "integris-related-entities-first-focus",
-      "title": "Integris & related entities - First Focus",
-      "case_number": "MN-40022",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus",
-      "date": "20 May 2026",
-      "description": "Integris-First Focus - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/First%20Focus%20-%20Questionnaire%20-%20May%202026_0.docx",
-      "local_path": "data/consultation_docs/First Focus - Questionnaire - May 2026_0.docx",
-      "filename": "First Focus - Questionnaire - May 2026_0.docx",
-      "size_kb": 110.2
+      "slug": "banijay-entertainment-%E2%80%93-all3media",
+      "title": "Banijay Entertainment – All3Media",
+      "case_number": "MN-85026",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
+      "date": "21 May 2026",
+      "description": "Questionnaire – Banijay Entertainment – All3Media",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Banijay%20Entertainment%20%E2%80%93%20All3Media%20%E2%80%93%20Questionnaire%20%E2%80%93%2021%20May%202026_0.docx",
+      "local_path": "data/consultation_docs/Banijay Entertainment _ All3Media _ Questionnaire _ 21 May 2026_0.docx",
+      "filename": "Banijay Entertainment _ All3Media _ Questionnaire _ 21 May 2026_0.docx",
+      "size_kb": 110.5
+    },
+    {
+      "slug": "opal-healthcare-bethel-aged-care",
+      "title": "Opal HealthCare - Bethel Aged Care",
+      "case_number": "MN-15019",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+      "date": "21 May 2026",
+      "description": "Questionnaire - Opal Healthcare - Bethel Aged Care",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Opal%20Healthcare%20-%20Bethel%20Aged%20Care_0.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Opal Healthcare - Bethel Aged Care_0.docx",
+      "filename": "Questionnaire - Opal Healthcare - Bethel Aged Care_0.docx",
+      "size_kb": 111.0
     }
   ]
 }

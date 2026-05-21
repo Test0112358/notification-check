@@ -16797,5 +16797,139 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "banijay-entertainment-%E2%80%93-all3media",
+    "title": "Banijay Entertainment – All3Media",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "opal-healthcare-bethel-aged-care",
+    "title": "Opal HealthCare - Bethel Aged Care",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "united-states%E2%80%93australia-gallium",
+    "title": "United States–Australia Gallium",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/united-states%E2%80%93australia-gallium",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "seismic-%E2%80%93-highspot",
+    "title": "Seismic – Highspot",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649",
+        "new": "Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number - 10492811; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-13T13:47:37+10:00",
+        "new": "2026-05-20T17:01:33+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 May 2026 via email to mergers@accc.gov.au with the title Submission re: Seismic – Highspot. read more 12 May 2026 Questionnaire - Seismic - Highspot Attachment 117.4 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Seismic%20-%20Highspot%20-%203rd%20Party%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "midea-group-%E2%80%93-esaote",
+    "title": "Midea Group – Esaote",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-group-%E2%80%93-esaote",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-courthouse-hotel-newtown-nsw",
+    "title": "Australian Venue Co – assets of Courthouse Hotel, Newtown NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-courthouse-hotel-newtown-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "cognizant-%E2%80%93-astreya",
+    "title": "Cognizant – Astreya",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cognizant-%E2%80%93-astreya",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "medhealth-%E2%80%93-connect-allied-health",
+    "title": "MedHealth – Connect Allied Health",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medhealth-%E2%80%93-connect-allied-health",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-21T10:53:18.784549Z",
+    "slug": "massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport",
+    "title": "MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "4 Jun 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 May 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AWARE SUPER; 53 226 460 365; GOODMAN LIMITED; 69 000 123 071",
+        "new": "The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AWARE SUPER; 53 226 460 365; GOODMAN LIMITED; 69 000 123 071; The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-04-28T17:35:36+10:00",
+        "new": "2026-05-21T15:20:20+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 May 2026', 'description': 'MassMutual, REST, Aware Super and Goodman - Moorabbin Airport – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MassMutual%20Moorabbin%20Airport%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]

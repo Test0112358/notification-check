@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-20 10:30:16.704837,
-Last scrape run (AEST),20 May 2026  20:30,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-21 10:53:18.784549,
+Last scrape run (AEST),21 May 2026  20:53,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,263,
-New entries this run,1,
+Total entries monitored,270,
+New entries this run,7,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,25 +13,36 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
+NEW ENTRIES (7),Case Number,URL
++ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
++ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
++ United States–Australia Gallium,WA-75022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/united-states%E2%80%93australia-gallium
++ Midea Group – Esaote,WA-05020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-group-%E2%80%93-esaote
+"+ Australian Venue Co – assets of Courthouse Hotel, Newtown NSW",WA-50017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-courthouse-hotel-newtown-nsw
++ Cognizant – Astreya,WA-70019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cognizant-%E2%80%93-astreya
++ MedHealth – Connect Allied Health,WA-30014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medhealth-%E2%80%93-connect-allied-health
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
-,Acquirers,ATKINSREALIS ENGINEERING PTY LTD; 36 101 300 476  →  ATKINSREALIS AUSTRALIA HOLDINGS PTY LTD; 697 935 685
-,Last Modified Accc,2026-05-13T16:40:14+10:00  →  2026-05-20T16:59:10+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'url': 'https://www.ac  →  "
+~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
+,Other Parties,SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649  →  Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Su
+,Last Modified Accc,2026-05-13T13:47:37+10:00  →  2026-05-20T17:01:33+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'url': 'https://www.ac  →  "
 ,,
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,Last Modified Accc,2026-05-13T18:12:09+10:00  →  2026-05-20T16:54:08+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomics Business', 'url':   →  "
+"~ MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",MN-10012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,4 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  21 May 2026
+,Other Parties,The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massachusetts Mutual Life  →  The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AWARE SUPER; 53 226 46
+,Last Modified Accc,2026-04-28T17:35:36+10:00  →  2026-05-21T15:20:20+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '21 May 2026', 'description': 'MassMutual, REST, Aware Super and Goodman - Moorabbin Airpo"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (267),Case Number,Detected (AEST)
+NEW ENTRIES (268),Case Number,Detected (AEST)
 + Mastercard - BVNK,MN-50015,18 May  18:04
 + Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,18 May  18:04
 + PT Asian Bulk Logistics – Engage Marine,MN-90012,18 May  18:04
@@ -299,8 +310,9 @@ NEW ENTRIES (267),Case Number,Detected (AEST)
 + MA Financial Group (Redcape Fund) - Hotel Brunswick,WA-15009,19 May  18:11
 + Magellan Financial Group - Barrenjoey,MN-95007,20 May  09:47
 + Tega and Apollo Funds consortium - Molycop,MN-85006,20 May  09:47
++ Integris & related entities - First Focus,MN-40022,20 May  20:30
 ,,
-"CHANGED ENTRIES (258 entries, 758 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (258 entries, 760 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
 ,Acquirers,  →  Ares UK Holdco 2 Limited CRN 17107097; Mastercard Incorporated 3390142; Masterca  (18 May  18:45)
 ,Targets,  →  BVNK Holdings Limited 13922014; B Corporation S.A.M 23S09602  (18 May  18:45)
@@ -394,6 +406,9 @@ NEW ENTRIES (267),Case Number,Detected (AEST)
 ,Targets,  →  Neogen Corporation  (18 May  18:45)
 ,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (19 May  17:26)
 ,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomic  (19 May  17:26)"
+,Last Modified Accc,2026-05-13T18:12:09+10:00  →  2026-05-20T16:54:08+10:00  (20 May  20:30)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 May  20:30)
+,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomic  →    (20 May  20:30)"
 ,,
 ~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
 ,Acquirers,  →  ATKINSREALIS ENGINEERING PTY LTD ABN - 36 101 300 476  (18 May  18:45)
@@ -402,6 +417,10 @@ NEW ENTRIES (267),Case Number,Detected (AEST)
 ,Targets,WGA GROUP HOLDINGS PTY LTD ABN - 86 649 953 980  →  WGA GROUP HOLDINGS PTY LTD; 86 649 953 980  (18 May  19:26)
 ,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (19 May  17:26)
 ,Consultation Docs,"  →  [{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'u  (19 May  17:26)"
+,Acquirers,ATKINSREALIS ENGINEERING PTY LTD; 36 101 300 476  →  ATKINSREALIS AUSTRALIA HOLDINGS PTY LTD; 697 935 685  (20 May  20:30)
+,Last Modified Accc,2026-05-13T16:40:14+10:00  →  2026-05-20T16:59:10+10:00  (20 May  20:30)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 May  20:30)
+,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'u  →    (20 May  20:30)"
 ,,
 ~ EPL - Indovida India,WA-25023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/epl-indovida-india
 ,Acquirers,"  →  EPL Limited Registered in India, no. L74950MH1982PLC028947  (18 May  18:45)"
