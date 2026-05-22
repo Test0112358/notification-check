@@ -1,30 +1,30 @@
 {
-  "run_utc": "2026-05-21T10:53:18.784549Z",
+  "run_utc": "2026-05-22T10:30:02.957528Z",
   "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "banijay-entertainment-%E2%80%93-all3media",
-      "title": "Banijay Entertainment – All3Media",
-      "case_number": "MN-85026",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
-      "date": "21 May 2026",
-      "description": "Questionnaire – Banijay Entertainment – All3Media",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Banijay%20Entertainment%20%E2%80%93%20All3Media%20%E2%80%93%20Questionnaire%20%E2%80%93%2021%20May%202026_0.docx",
-      "local_path": "data/consultation_docs/Banijay Entertainment _ All3Media _ Questionnaire _ 21 May 2026_0.docx",
-      "filename": "Banijay Entertainment _ All3Media _ Questionnaire _ 21 May 2026_0.docx",
-      "size_kb": 110.5
+      "slug": "logic-technologies-ace-communication-distributors",
+      "title": "Logic Technologies - Ace Communication Distributors",
+      "case_number": "MN-95021",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+      "date": "22 May 2026",
+      "description": "Questionnaire - Logic Technologies - Ace Communication Distributors",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Logic%20Technologies%20-%20Ace%20Communication%20Distributors%20-%20Questionnaire%20-%20May%202026.docx",
+      "local_path": "data/consultation_docs/Logic Technologies - Ace Communication Distributors - Questionnaire - May 2026.docx",
+      "filename": "Logic Technologies - Ace Communication Distributors - Questionnaire - May 2026.docx",
+      "size_kb": 116.1
     },
     {
-      "slug": "opal-healthcare-bethel-aged-care",
-      "title": "Opal HealthCare - Bethel Aged Care",
-      "case_number": "MN-15019",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+      "slug": "black-rhino-club-hotel-motel-roma",
+      "title": "Black Rhino - Club Hotel Motel Roma",
+      "case_number": "MN-90008",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
       "date": "21 May 2026",
-      "description": "Questionnaire - Opal Healthcare - Bethel Aged Care",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Opal%20Healthcare%20-%20Bethel%20Aged%20Care_0.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Opal Healthcare - Bethel Aged Care_0.docx",
-      "filename": "Questionnaire - Opal Healthcare - Bethel Aged Care_0.docx",
-      "size_kb": 111.0
+      "description": "Black Rhino - Club Hotel Motel Roma - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/%20Club%20Hotel%20Roma%20-%203rd%20party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/ Club Hotel Roma - 3rd party questionnaire.docx",
+      "filename": " Club Hotel Roma - 3rd party questionnaire.docx",
+      "size_kb": 120.9
     }
   ]
 }

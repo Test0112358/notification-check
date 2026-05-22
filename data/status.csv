@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-21 10:53:18.784549,
-Last scrape run (AEST),21 May 2026  20:53,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-22 10:30:02.957528,
+Last scrape run (AEST),22 May 2026  20:30,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,270,
-New entries this run,7,
+Total entries monitored,274,
+New entries this run,4,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,36 +13,28 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
-+ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
-+ United States–Australia Gallium,WA-75022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/united-states%E2%80%93australia-gallium
-+ Midea Group – Esaote,WA-05020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-group-%E2%80%93-esaote
-"+ Australian Venue Co – assets of Courthouse Hotel, Newtown NSW",WA-50017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-courthouse-hotel-newtown-nsw
-+ Cognizant – Astreya,WA-70019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cognizant-%E2%80%93-astreya
-+ MedHealth – Connect Allied Health,WA-30014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medhealth-%E2%80%93-connect-allied-health
+NEW ENTRIES (4),Case Number,URL
++ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
++ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
++ American Industrial Partners - Avanos Medical,WA-85027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-avanos-medical
++ Australian Meat Group - Killara Feedlot,MN-20012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-killara-feedlot
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
-,Other Parties,SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649  →  Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Su
-,Last Modified Accc,2026-05-13T13:47:37+10:00  →  2026-05-20T17:01:33+10:00
+~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
+,Other Parties,The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 9  →  Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust 1); HMC Energy Trans
+,Last Modified Accc,2026-05-19T14:54:35+10:00  →  2026-05-22T15:14:09+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'url': 'https://www.ac  →  "
+,Consultation Docs,"[{'date': '15 May 2026', 'description': 'Questionnaire - KKR-HMC Energy Transition Platform', 'url':  →  "
 ,,
-"~ MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",MN-10012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,4 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  21 May 2026
-,Other Parties,The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massachusetts Mutual Life  →  The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AWARE SUPER; 53 226 46
-,Last Modified Accc,2026-04-28T17:35:36+10:00  →  2026-05-21T15:20:20+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '21 May 2026', 'description': 'MassMutual, REST, Aware Super and Goodman - Moorabbin Airpo"
+"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
+,Last Modified Accc,2026-05-13T11:42:52+10:00  →  2026-05-21T10:20:16+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - TWG - Sharton Motors dealerships', 'url': '  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (268),Case Number,Detected (AEST)
+NEW ENTRIES (275),Case Number,Detected (AEST)
 + Mastercard - BVNK,MN-50015,18 May  18:04
 + Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,18 May  18:04
 + PT Asian Bulk Logistics – Engage Marine,MN-90012,18 May  18:04
@@ -311,8 +303,15 @@ NEW ENTRIES (268),Case Number,Detected (AEST)
 + Magellan Financial Group - Barrenjoey,MN-95007,20 May  09:47
 + Tega and Apollo Funds consortium - Molycop,MN-85006,20 May  09:47
 + Integris & related entities - First Focus,MN-40022,20 May  20:30
++ Banijay Entertainment – All3Media,MN-85026,21 May  20:53
++ Opal HealthCare - Bethel Aged Care,MN-15019,21 May  20:53
++ United States–Australia Gallium,WA-75022,21 May  20:53
++ Midea Group – Esaote,WA-05020,21 May  20:53
+"+ Australian Venue Co – assets of Courthouse Hotel, Newtown NSW",WA-50017,21 May  20:53
++ Cognizant – Astreya,WA-70019,21 May  20:53
++ MedHealth – Connect Allied Health,WA-30014,21 May  20:53
 ,,
-"CHANGED ENTRIES (258 entries, 760 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (258 entries, 762 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
 ,Acquirers,  →  Ares UK Holdco 2 Limited CRN 17107097; Mastercard Incorporated 3390142; Masterca  (18 May  18:45)
 ,Targets,  →  BVNK Holdings Limited 13922014; B Corporation S.A.M 23S09602  (18 May  18:45)
@@ -387,6 +386,10 @@ NEW ENTRIES (268),Case Number,Detected (AEST)
 ,Other Parties,SEISMIC SOFTWARE PTY. LTD. ABN - 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD ABN   →  SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 3  (18 May  19:26)
 ,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (19 May  17:26)
 ,Consultation Docs,"  →  [{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'u  (19 May  17:26)"
+,Other Parties,SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 3  →  Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 6  (21 May  20:53)
+,Last Modified Accc,2026-05-13T13:47:37+10:00  →  2026-05-20T17:01:33+10:00  (21 May  20:53)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (21 May  20:53)
+,Consultation Docs,"[{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'u  →    (21 May  20:53)"
 ,,
 ~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
 ,Acquirers,  →  OpenAI Group PBC Delaware file number - 10381551  (18 May  18:45)
@@ -692,6 +695,14 @@ NEW ENTRIES (268),Case Number,Detected (AEST)
 ,Targets,MOORABBIN AIRPORT CORPORATION PTY LIMITED ABN - 94 081 564 310; TALLINA PTY LTD   →  MOORABBIN AIRPORT CORPORATION PTY LIMITED; 94 081 564 310; TALLINA PTY LTD; 68 0  (18 May  19:26)
 ,Other Parties,The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST ABN - 62 653 671 394; The   →  The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massa  (18 May  19:26)
 ,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s Ph  (19 May  17:26)
+,Acquisition Status,Under assessment  →  Assessment completed  (21 May  20:53)
+,End Of Determination Period,4 Jun 2026  →    (21 May  20:53)
+,Accc Determination,  →  Approved  (21 May  20:53)
+,Determination Publication Date,  →  21 May 2026  (21 May  20:53)
+,Other Parties,The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massa  →  The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AW  (21 May  20:53)
+,Last Modified Accc,2026-04-28T17:35:36+10:00  →  2026-05-21T15:20:20+10:00  (21 May  20:53)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (21 May  20:53)
+,Decisions Docs,"  →  [{'date': '21 May 2026', 'description': 'MassMutual, REST, Aware Super and Goodm  (21 May  20:53)"
 ,,
 "~ Coles - Leasehold interest in shopping centre on Capricorn Highway, Emerald, QLD",WA-55017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-leasehold-interest-in-shopping-centre-on-capricorn-highway-emerald-qld
 ,Acquirers,  →  COLES SUPERMARKETS AUSTRALIA PTY LTD  (18 May  18:45)

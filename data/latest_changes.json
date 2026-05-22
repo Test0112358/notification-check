@@ -1,117 +1,77 @@
 {
-  "run_utc": "2026-05-21T10:53:18.784549Z",
-  "new_count": 7,
+  "run_utc": "2026-05-22T10:30:02.957528Z",
+  "new_count": 4,
   "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "banijay-entertainment-%E2%80%93-all3media",
-      "title": "Banijay Entertainment – All3Media",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media"
+      "slug": "logic-technologies-ace-communication-distributors",
+      "title": "Logic Technologies - Ace Communication Distributors",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors"
     },
     {
-      "slug": "opal-healthcare-bethel-aged-care",
-      "title": "Opal HealthCare - Bethel Aged Care",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care"
+      "slug": "black-rhino-club-hotel-motel-roma",
+      "title": "Black Rhino - Club Hotel Motel Roma",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma"
     },
     {
-      "slug": "united-states%E2%80%93australia-gallium",
-      "title": "United States–Australia Gallium",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/united-states%E2%80%93australia-gallium"
+      "slug": "american-industrial-partners-avanos-medical",
+      "title": "American Industrial Partners - Avanos Medical",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-avanos-medical"
     },
     {
-      "slug": "midea-group-%E2%80%93-esaote",
-      "title": "Midea Group – Esaote",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-group-%E2%80%93-esaote"
-    },
-    {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-courthouse-hotel-newtown-nsw",
-      "title": "Australian Venue Co – assets of Courthouse Hotel, Newtown NSW",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-courthouse-hotel-newtown-nsw"
-    },
-    {
-      "slug": "cognizant-%E2%80%93-astreya",
-      "title": "Cognizant – Astreya",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cognizant-%E2%80%93-astreya"
-    },
-    {
-      "slug": "medhealth-%E2%80%93-connect-allied-health",
-      "title": "MedHealth – Connect Allied Health",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medhealth-%E2%80%93-connect-allied-health"
+      "slug": "australian-meat-group-killara-feedlot",
+      "title": "Australian Meat Group - Killara Feedlot",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-killara-feedlot"
     }
   ],
   "changed_entries": [
     {
-      "slug": "seismic-%E2%80%93-highspot",
-      "title": "Seismic – Highspot",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot",
+      "slug": "volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+      "title": "Volt Managed Investment Trusts – HMC Energy Transition Platform",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
       "changes": [
         {
           "field": "other_parties",
-          "old": "SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649",
-          "new": "Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number - 10492811; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649"
+          "old": "The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 993; HMC Energy Transition No. 3 Holdings Pty Ltd as trustee of the HMC Energy Transition No. 3 Trust; 98 159 167 344; HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No: 05975300; Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust 1)",
+          "new": "Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust 1); HMC Energy Transition No. 3 Holdings Pty Ltd as trustee of the HMC Energy Transition No. 3 Trust; 98 159 167 344; HMC CAPITAL LIMITED; 94 138 990 593; The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 993; The John Laing Group Limited; UK Company No: 05975300"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-13T13:47:37+10:00",
-          "new": "2026-05-20T17:01:33+10:00"
+          "old": "2026-05-19T14:54:35+10:00",
+          "new": "2026-05-22T15:14:09+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 May 2026 via email to mergers@accc.gov.au with the title Submission re: Seismic – Highspot. read more 12 May 2026 Questionnaire - Seismic - Highspot Attachment 117.4 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by 22 May 2026 via e-mail to mergers@accc.gov.au with the title Submission re: KKR – HMC Energy Transition Platform. read more 15 May 2026 Questionnaire - KKR-HMC Energy Transition Platform Attachment 116 KB",
           "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Seismic%20-%20Highspot%20-%203rd%20Party%20Questionnaire.docx'}]",
+          "old": "[{'date': '15 May 2026', 'description': 'Questionnaire - KKR-HMC Energy Transition Platform', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20KKR-HMC%20Energy%20Transition%20Platform.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport",
-      "title": "MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport",
+      "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+      "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "4 Jun 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "21 May 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AWARE SUPER; 53 226 460 365; GOODMAN LIMITED; 69 000 123 071",
-          "new": "The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AWARE SUPER; 53 226 460 365; GOODMAN LIMITED; 69 000 123 071; The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-04-28T17:35:36+10:00",
-          "new": "2026-05-21T15:20:20+10:00"
+          "old": "2026-05-13T11:42:52+10:00",
+          "new": "2026-05-21T10:20:16+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 May 2026 via email to mergers@accc.gov.au with the title Submission re: Tony White Group - Sharton Motors. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 13 May 2026 Questionnaire - TWG - Sharton Motors dealerships Attachment 118.94 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '21 May 2026', 'description': 'MassMutual, REST, Aware Super and Goodman - Moorabbin Airport – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MassMutual%20Moorabbin%20Airport%20-%20Phase%201%20determination.pdf'}]"
+          "field": "consultation_docs",
+          "old": "[{'date': '13 May 2026', 'description': 'Questionnaire - TWG - Sharton Motors dealerships', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Sharton%20-%20Questionnaire%20text.docx'}]",
+          "new": ""
         }
       ]
     }
