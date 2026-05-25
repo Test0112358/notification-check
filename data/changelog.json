@@ -17016,5 +17016,172 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-killara-feedlot",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+    "title": "Endeavour Group – retail liquor store in Muswellbrook (NSW)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "zurich-beazley",
+    "title": "Zurich - Beazley",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "tibaldi-south-food-group",
+    "title": "Tibaldi - South Food Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "stonepeak-%E2%80%93-castrol",
+    "title": "Stonepeak – Castrol",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "blackstone-medallia",
+    "title": "Blackstone - Medallia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-medallia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+    "title": "Volt Managed Investment Trusts – HMC Energy Transition Platform",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust 1); HMC Energy Transition No. 3 Holdings Pty Ltd as trustee of the HMC Energy Transition No. 3 Trust; 98 159 167 344; HMC CAPITAL LIMITED; 94 138 990 593; The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 993; The John Laing Group Limited; UK Company No: 05975300",
+        "new": "HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No: 05975300; Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust 1); HMC Energy Transition No. 3 Holdings Pty Ltd as trustee of the HMC Energy Transition No. 3 Trust; 98 159 167 344; The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 993"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-22T15:14:09+10:00",
+        "new": "2026-05-25T16:28:39+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+    "title": "PT Asian Bulk Logistics – Engage Marine",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Global Engage Marine Pty Ltd; 693 762 122; PT Asian Bulk Logistics",
+        "new": "PT Asian Bulk Logistics; Global Engage Marine Pty Ltd; 693 762 122"
+      },
+      {
+        "field": "targets",
+        "old": "ENGAGE MARINE TOPCO PTY LTD; 46 675 998 562; ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE FINCO PTY LTD; 25 675 999 283",
+        "new": "ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE TOPCO PTY LTD; 46 675 998 562; ENGAGE MARINE FINCO PTY LTD; 25 675 999 283"
+      },
+      {
+        "field": "other_parties",
+        "old": "MAGNETIC INFRASTRUCTURE GROUP PTY LTD; 81 663 518 563; AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; Australian Global Onshore Logistics Pty Ltd; 691 961 136; AUSTRALIAN GLOBAL INFRASTRUCTURE PTY LTD; 47 663 347 948",
+        "new": "AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; AUSTRALIAN GLOBAL INFRASTRUCTURE PTY LTD; 47 663 347 948; Australian Global Onshore Logistics Pty Ltd; 691 961 136; MAGNETIC INFRASTRUCTURE GROUP PTY LTD; 81 663 518 563"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-14T15:23:14+10:00",
+        "new": "2026-05-25T11:10:23+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 22 May 2026 via email to mergers@accc.gov.au with the title Submission re: PT Asian Bulk Logistics – Engage Marine. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 14 May 2026 PT Asian Bulk Logistics - Engage Marine - Questionnaire - May 2026 Attachment 61.46 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 May 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Questionnaire - May 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/PT%20Asian%20Bulk%20Logistics%20-%20Engage%20Marine%20-%20Questionnaire%20-%20May%202026_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "eqt-fund-management-%E2%80%93-kakakucom",
+    "title": "EQT Fund Management – Kakaku.com",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-%E2%80%93-kakakucom",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "zijin-mining-chifeng",
+    "title": "Zijin Mining - Chifeng",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zijin-mining-chifeng",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "triton-integris",
+    "title": "Triton - Integris",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/triton-integris",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "adyen-talonone",
+    "title": "Adyen - Talon.One",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adyen-talonone",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "hillhouse-kmc-solutions",
+    "title": "Hillhouse - KMC Solutions",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-kmc-solutions",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:53:51.795206Z",
+    "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+    "title": "Insurance Australia Group – RAC Insurance",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882",
+        "new": "RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805"
+      },
+      {
+        "field": "other_parties",
+        "old": "RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120",
+        "new": "THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-04T17:11:55+10:00",
+        "new": "2026-05-25T18:09:58+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}]",
+        "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}]"
+      }
+    ]
   }
 ]

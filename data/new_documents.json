@@ -1,30 +1,42 @@
 {
-  "run_utc": "2026-05-22T10:30:02.957528Z",
-  "questionnaire_count": 2,
+  "run_utc": "2026-05-25T12:53:51.795206Z",
+  "questionnaire_count": 3,
   "questionnaires": [
     {
-      "slug": "logic-technologies-ace-communication-distributors",
-      "title": "Logic Technologies - Ace Communication Distributors",
-      "case_number": "MN-95021",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
-      "date": "22 May 2026",
-      "description": "Questionnaire - Logic Technologies - Ace Communication Distributors",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Logic%20Technologies%20-%20Ace%20Communication%20Distributors%20-%20Questionnaire%20-%20May%202026.docx",
-      "local_path": "data/consultation_docs/Logic Technologies - Ace Communication Distributors - Questionnaire - May 2026.docx",
-      "filename": "Logic Technologies - Ace Communication Distributors - Questionnaire - May 2026.docx",
-      "size_kb": 116.1
+      "slug": "endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+      "title": "Endeavour Group – retail liquor store in Muswellbrook (NSW)",
+      "case_number": "MN-30012",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+      "date": "25 May 2026",
+      "description": "Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20-%20retail%20liquor%20store%20in%20Muswellbrook%20%28NSW%29%20-%20Questionnaire%20-%2025%20May%202026_2.docx",
+      "local_path": "data/consultation_docs/Endeavour Group - retail liquor store in Muswellbrook _NSW_ - Questionnaire - 25 May 2026_2.docx",
+      "filename": "Endeavour Group - retail liquor store in Muswellbrook _NSW_ - Questionnaire - 25 May 2026_2.docx",
+      "size_kb": 110.1
     },
     {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "case_number": "MN-90008",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
-      "date": "21 May 2026",
-      "description": "Black Rhino - Club Hotel Motel Roma - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/%20Club%20Hotel%20Roma%20-%203rd%20party%20questionnaire.docx",
-      "local_path": "data/consultation_docs/ Club Hotel Roma - 3rd party questionnaire.docx",
-      "filename": " Club Hotel Roma - 3rd party questionnaire.docx",
-      "size_kb": 120.9
+      "slug": "tibaldi-south-food-group",
+      "title": "Tibaldi - South Food Group",
+      "case_number": "MN-25026",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group",
+      "date": "25 May 2026",
+      "description": "Questionnaire - Tibaldi - South Food Group",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Tibaldi%20-%20South%20Food%20Group%20-%20Questionnaire%20-%2025%20May%202026.docx",
+      "local_path": "data/consultation_docs/Tibaldi - South Food Group - Questionnaire - 25 May 2026.docx",
+      "filename": "Tibaldi - South Food Group - Questionnaire - 25 May 2026.docx",
+      "size_kb": 108.5
+    },
+    {
+      "slug": "stonepeak-%E2%80%93-castrol",
+      "title": "Stonepeak – Castrol",
+      "case_number": "MN-60015",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+      "date": "25 May 2026",
+      "description": "Questionnaire - Stonepeak - Castrol",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak_Castrol%20-%20Third%20Party%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Stonepeak_Castrol - Third Party Questionnaire.docx",
+      "filename": "Stonepeak_Castrol - Third Party Questionnaire.docx",
+      "size_kb": 116.2
     }
   ]
 }

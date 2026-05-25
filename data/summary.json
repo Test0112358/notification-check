@@ -1,22 +1,29 @@
 {
-  "generated_at_utc": "2026-05-22T10:41:11.490249Z",
-  "total_entries": 274,
+  "generated_at_utc": "2026-05-25T13:04:21.190377Z",
+  "total_entries": 284,
   "by_acquisition_status": {
-    "Under assessment": 35,
-    "Assessment completed": 239
+    "Under assessment": 39,
+    "Assessment completed": 245
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 110,
-    "Waiver application": 160,
+    "Phase 1 - initial assessment": 114,
+    "Waiver application": 166,
     "Phase 2 - detailed assessment": 4
   },
   "by_type": {
-    "Notification": 114,
-    "Waiver": 160
+    "Notification": 118,
+    "Waiver": 166
   },
   "by_accc_determination": {
-    "Approved": 226,
+    "Approved": 232,
     "Not approved": 13
   },
-  "decisions_due_within_10_days": []
+  "decisions_due_within_10_days": [
+    {
+      "slug": "peter-warren-wakeling-automotive",
+      "title": "Peter Warren - Wakeling Automotive",
+      "end_of_determination_period": "2 Jun 2026",
+      "days_remaining": 8
+    }
+  ]
 }
