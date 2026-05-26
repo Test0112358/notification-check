@@ -751,6 +751,197 @@ def export_csv(register):
     df.to_csv(REGISTER_CSV, index=False, encoding="utf-8-sig")
     print(f"  CSV exported: {len(rows)} rows → {REGISTER_CSV}")
 
+def export_excel(register, run_utc, new_slugs, changed_slugs, removed_slugs):
+    """
+    Generate a formatted multi-tab Excel workbook from the current register.
+    Tabs: Raw Data, Notifications, Waivers, Summary
+    """
+    import openpyxl
+    from openpyxl.styles import (
+        Font, PatternFill, Alignment, Border, Side, PatternFill
+    )
+    from openpyxl.utils import get_column_letter
+    from openpyxl.formatting.rule import CellIsRule
+    import pandas as pd
+
+    # ── Build base DataFrame ───────────────────────────────────────────────
+    rows = []
+    for entry in register.values():
+        rows.append({
+            "Title":                        entry.get("title", ""),
+            "Type":                         entry.get("type", ""),
+            "Case Number":                  entry.get("case_number", ""),
+            "Stage":                        entry.get("stage", ""),
+            "Notification Date":            entry.get("notification_date", ""),
+            "End of Determination Period":  entry.get("end_of_determination_period", ""),
+            "ACCC Determination":           entry.get("accc_determination", ""),
+            "Determination Date":           entry.get("determination_publication_date", ""),
+            "Acquirers":                    entry.get("acquirers", ""),
+            "Targets":                      entry.get("targets", ""),
+            "Other Parties":                entry.get("other_parties", ""),
+            "ANZSIC Codes":                 entry.get("anzsic_codes", ""),
+            "Det. Period (Calendar Days)":  entry.get("det_period_calendar_days", ""),
+            "Det. Period (Business Days)":  entry.get("det_period_business_days", ""),
+            "Elapsed Calendar Days":        entry.get("elapsed_calendar_days", ""),
+            "Elapsed Business Days":        entry.get("elapsed_business_days", ""),
+            "Last Modified (ACCC)":         entry.get("last_modified_accc", ""),
+            "URL":                          entry.get("url", ""),
+        })
+
+    df_all = pd.DataFrame(rows)
+    df_notif = df_all[df_all["Type"] == "Notification"].copy()
+    df_waiver = df_all[df_all["Type"] == "Waiver"].copy()
+
+    # Sort both by Notification Date descending
+    for df in [df_notif, df_waiver]:
+        df.sort_values("Notification Date", ascending=False, inplace=True)
+
+    wb = openpyxl.Workbook()
+
+    # ── Style helpers ──────────────────────────────────────────────────────
+    COL_WIDTHS = {
+        "Title":                        42,
+        "Type":                         14,
+        "Case Number":                  14,
+        "Stage":                        22,
+        "Notification Date":            18,
+        "End of Determination Period":  22,
+        "ACCC Determination":           36,
+        "Determination Date":           18,
+        "Acquirers":                    38,
+        "Targets":                      38,
+        "Other Parties":                38,
+        "ANZSIC Codes":                 16,
+        "Det. Period (Calendar Days)":  18,
+        "Det. Period (Business Days)":  18,
+        "Elapsed Calendar Days":        18,
+        "Elapsed Business Days":        18,
+        "Last Modified (ACCC)":         22,
+        "URL":                          18,
+    }
+
+    HEADER_FILL   = PatternFill("solid", fgColor="0D1B2A")
+    HEADER_FONT   = Font(bold=True, color="FFFFFF", name="Calibri", size=10)
+    ALT_FILL      = PatternFill("solid", fgColor="F0F4F8")
+    ACTIVE_FILL   = PatternFill("solid", fgColor="ECFDF5")  # light green — active case
+    DATE_FILL     = PatternFill("solid", fgColor="FEF9C3")  # light yellow — expiring soon
+    BODY_FONT     = Font(name="Calibri", size=10)
+    CENTER        = Alignment(horizontal="center", vertical="top", wrap_text=False)
+    LEFT_WRAP     = Alignment(horizontal="left",   vertical="top", wrap_text=True)
+    LEFT_NO_WRAP  = Alignment(horizontal="left",   vertical="top", wrap_text=False)
+    THIN          = Side(style="thin", color="D1D5DB")
+    BORDER        = Border(bottom=THIN)
+
+    def write_sheet(ws, df, tab_color):
+        ws.sheet_properties.tabColor = tab_color
+        ws.freeze_panes = "A2"
+        ws.auto_filter.ref = f"A1:{get_column_letter(len(df.columns))}{len(df) + 1}"
+        ws.row_dimensions[1].height = 28
+
+        # Header row
+        for ci, col in enumerate(df.columns, 1):
+            cell = ws.cell(row=1, column=ci, value=col)
+            cell.fill   = HEADER_FILL
+            cell.font   = HEADER_FONT
+            cell.alignment = CENTER
+            cell.border = BORDER
+            ws.column_dimensions[get_column_letter(ci)].width = COL_WIDTHS.get(col, 16)
+
+        # Data rows
+        wrap_cols = {"Title", "ACCC Determination", "Acquirers", "Targets",
+                     "Other Parties", "Stage"}
+        url_col   = list(df.columns).index("URL") + 1 if "URL" in df.columns else None
+
+        for ri, (_, row) in enumerate(df.iterrows(), 2):
+            ws.row_dimensions[ri].height = 40
+            fill = ALT_FILL if ri % 2 == 0 else PatternFill()
+
+            for ci, col in enumerate(df.columns, 1):
+                val = row[col]
+                cell = ws.cell(row=ri, column=ci, value=val if val != "" else None)
+                cell.font      = BODY_FONT
+                cell.fill      = fill
+                cell.alignment = LEFT_WRAP if col in wrap_cols else LEFT_NO_WRAP
+                cell.border    = BORDER
+
+                # Hyperlink for URL column
+                if ci == url_col and val:
+                    cell.value     = "Open ↗"
+                    cell.hyperlink = val
+                    cell.font      = Font(name="Calibri", size=10,
+                                         color="1D4ED8", underline="single")
+
+    # ── Tab 1: Raw Data ────────────────────────────────────────────────────
+    ws_raw = wb.active
+    ws_raw.title = "Raw Data"
+    write_sheet(ws_raw, df_all, "0D1B2A")
+
+    # ── Tab 2: Notifications ───────────────────────────────────────────────
+    ws_notif = wb.create_sheet("Notifications")
+    write_sheet(ws_notif, df_notif, "1D4ED8")
+
+    # ── Tab 3: Waivers ─────────────────────────────────────────────────────
+    ws_waiver = wb.create_sheet("Waivers")
+    write_sheet(ws_waiver, df_waiver, "7C3AED")
+
+    # ── Tab 4: Summary ─────────────────────────────────────────────────────
+    ws_sum = wb.create_sheet("Summary")
+    ws_sum.sheet_properties.tabColor = "10B981"
+    ws_sum.column_dimensions["A"].width = 32
+    ws_sum.column_dimensions["B"].width = 28
+
+    import datetime
+    aest_time = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
+
+    summary_rows = [
+        ("ACCC Acquisitions Register", ""),
+        ("", ""),
+        ("Last updated (UTC)",   run_utc[:19].replace("T", " ")),
+        ("Last updated (AEST)",  aest_time.strftime("%Y-%m-%d %H:%M")),
+        ("", ""),
+        ("Total entries monitored",  len(register)),
+        ("  Notifications",          len(df_notif)),
+        ("  Waivers",                len(df_waiver)),
+        ("", ""),
+        ("Changes in this run", ""),
+        ("  New entries",         len(new_slugs)),
+        ("  Changed entries",     len(changed_slugs)),
+        ("  Removed entries",     len(removed_slugs)),
+        ("", ""),
+        ("Auto-run schedule",  "Mon–Fri, 8am / 11am / 2pm / 5pm AEST"),
+    ]
+
+    TITLE_FONT  = Font(bold=True, name="Calibri", size=13, color="0D1B2A")
+    LABEL_FONT  = Font(bold=True, name="Calibri", size=10)
+    VALUE_FONT  = Font(name="Calibri", size=10)
+    GREEN_FONT  = Font(bold=True, name="Calibri", size=10, color="065F46")
+    SECTION_FILL = PatternFill("solid", fgColor="F0F4F8")
+
+    for ri, (label, value) in enumerate(summary_rows, 1):
+        ws_sum.row_dimensions[ri].height = 20
+        ca = ws_sum.cell(row=ri, column=1, value=label)
+        cb = ws_sum.cell(row=ri, column=2, value=value)
+
+        if ri == 1:
+            ca.font = TITLE_FONT
+        elif label.startswith("  "):
+            ca.font = VALUE_FONT
+            cb.font = GREEN_FONT if isinstance(value, int) and value > 0 else VALUE_FONT
+        elif label in ("Changes in this run", "Auto-run schedule"):
+            ca.font = LABEL_FONT
+            cb.font = VALUE_FONT
+        elif label:
+            ca.font = LABEL_FONT
+            cb.font = VALUE_FONT
+
+        if label in ("Changes in this run",):
+            for col in [1, 2]:
+                ws_sum.cell(row=ri, column=col).fill = SECTION_FILL
+
+    # ── Save ───────────────────────────────────────────────────────────────
+    path = os.path.join(DATA_DIR, "register.xlsx")
+    wb.save(path)
+    print(f"  Excel exported: {len(register)} rows → {path}")
 
 def generate_summary(register):
     """Produce aggregate statistics for the dashboard / README."""
