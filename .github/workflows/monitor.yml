@@ -64,7 +64,7 @@ jobs:
         env:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
         with:
-          server_address: smtp.gmail.com
+          server_address: frog91904@outlook.com
           server_port: 587
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
@@ -131,12 +131,12 @@ jobs:
 
 
       - name: Email Excel register to recipients
-        if: steps.scraper.outputs.has_changes == 'true' && env.MAIL_USERNAME != ''
+        if: env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
         env:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
         with:
-          server_address: smtp.gmail.com
+          server_address: frog91904@outlook.com
           server_port: 587
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
