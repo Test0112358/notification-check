@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-27 00:03:47.719644,
-Last scrape run (AEST),27 May 2026  10:03,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-27 00:35:41.909804,
+Last scrape run (AEST),27 May 2026  10:35,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,286,
-New entries this run,2,
-Changed entries this run,6,
+Total entries monitored,287,
+New entries this run,1,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,48 +13,13 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Allegro - Fantastic Furniture,WA-55019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allegro-fantastic-furniture
-+ Wipro - Indeco,WA-35016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wipro-indeco
-,,
-CHANGED ENTRIES (6),Field changed,Old value  →  New value
-~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
-,Other Parties,Restaurant Brands Australia Holdings Pty Ltd; 53 611 058 701; Collins Restaurants Management Pty Ltd  →  Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 24 093 912 979; Gardi
-,Last Modified Accc,2026-05-19T09:54:48+10:00  →  2026-05-26T15:38:28+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Restaurant Brands and Yum Brands - Taco Bell - Questionnair  →  "
-,,
-~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
-,Other Parties,Kang Acquisition Corporation; Shareholder Representative Services LLC  →  Shareholder Representative Services LLC; Kang Acquisition Corporation
-,Last Modified Accc,2026-05-19T11:00:45+10:00  →  2026-05-27T09:27:53+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - third party questionnair  →  "
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,End Of Determination Period,10 Jun 2026  →  25 Jun 2026
-,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; T  →  N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.; Registration number
-,Anzsic Codes,6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Preci  →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Service
-,Last Modified Accc,2026-05-04T14:31:13+10:00  →  2026-05-26T16:57:51+10:00
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
-,,
-~ Eli Lilly - Orna Therapeutics,MN-20013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-orna-therapeutics
-,Title,Eli Lilly / Orna Therapeutics  →  Eli Lilly - Orna Therapeutics
-,Last Modified Accc,2026-05-04T10:46:40+10:00  →  2026-05-26T11:40:37+10:00
-,,
-~ eBay - Depop,MN-45002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebay-depop
-,Title,eBay / Depop  →  eBay - Depop
-,Other Parties,eBay Marketplaces GmbH; Swiss Enterprise Identification Number - CHE205764206; EBAY COMMERCE AUSTRAL  →  EBAY COMMERCE AUSTRALIA PTY LTD; 62 634 460 969; EBAY AUSTRALIA AND NEW ZEALAND PTY LIMITED; 22 086 
-,Last Modified Accc,2026-05-12T15:10:01+10:00  →  2026-05-26T12:04:01+10:00
-,,
-"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,End Of Determination Period,26 Jun 2026  →  2 Jul 2026
-,Last Modified Accc,2026-05-20T09:09:07+10:00  →  2026-05-26T17:27:32+10:00
-,Decisions Docs,"[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request fo  →  [{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request fo"
+NEW ENTRIES (1),Case Number,URL
++ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (22),Case Number,Detected (AEST)
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + Integris & related entities - First Focus,MN-40022,20 May  20:30
 + Banijay Entertainment – All3Media,MN-85026,21 May  20:53
 + Opal HealthCare - Bethel Aged Care,MN-15019,21 May  20:53
@@ -77,8 +42,10 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 + Triton - Integris,WA-20020,25 May  22:53
 + Adyen - Talon.One,WA-01098,25 May  22:53
 + Hillhouse - KMC Solutions,WA-75021,25 May  22:53
++ Allegro - Fantastic Furniture,WA-55019,27 May  10:03
++ Wipro - Indeco,WA-35016,27 May  10:03
 ,,
-"CHANGED ENTRIES (8 entries, 9 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (14 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
 ~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
 ,Acquirers,ATKINSREALIS ENGINEERING PTY LTD; 36 101 300 476  →  ATKINSREALIS AUSTRALIA HOLDINGS PTY LTD; 697 935 685  (20 May  20:30)
 ,Last Modified Accc,2026-05-13T16:40:14+10:00  →  2026-05-20T16:59:10+10:00  (20 May  20:30)
@@ -132,4 +99,37 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 ,Other Parties,RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33   →  THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60   (25 May  22:53)
 ,Last Modified Accc,2026-05-04T17:11:55+10:00  →  2026-05-25T18:09:58+10:00  (25 May  22:53)
 ,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (25 May  22:53)"
+,,
+~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
+,Other Parties,Restaurant Brands Australia Holdings Pty Ltd; 53 611 058 701; Collins Restaurant  →  Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 2  (27 May  10:03)
+,Last Modified Accc,2026-05-19T09:54:48+10:00  →  2026-05-26T15:38:28+10:00  (27 May  10:03)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (27 May  10:03)
+,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Restaurant Brands and Yum Brands - Taco  →    (27 May  10:03)"
+,,
+~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
+,Other Parties,Kang Acquisition Corporation; Shareholder Representative Services LLC  →  Shareholder Representative Services LLC; Kang Acquisition Corporation  (27 May  10:03)
+,Last Modified Accc,2026-05-19T11:00:45+10:00  →  2026-05-27T09:27:53+10:00  (27 May  10:03)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (27 May  10:03)
+,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - thir  →    (27 May  10:03)"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,End Of Determination Period,10 Jun 2026  →  25 Jun 2026  (27 May  10:03)
+,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  →  N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.;  (27 May  10:03)
+,Anzsic Codes,6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic   →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   (27 May  10:03)
+,Last Modified Accc,2026-05-04T14:31:13+10:00  →  2026-05-26T16:57:51+10:00  (27 May  10:03)
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (27 May  10:03)"
+,,
+~ Eli Lilly - Orna Therapeutics,MN-20013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-orna-therapeutics
+,Title,Eli Lilly / Orna Therapeutics  →  Eli Lilly - Orna Therapeutics  (27 May  10:03)
+,Last Modified Accc,2026-05-04T10:46:40+10:00  →  2026-05-26T11:40:37+10:00  (27 May  10:03)
+,,
+~ eBay - Depop,MN-45002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebay-depop
+,Title,eBay / Depop  →  eBay - Depop  (27 May  10:03)
+,Other Parties,eBay Marketplaces GmbH; Swiss Enterprise Identification Number - CHE205764206; E  →  EBAY COMMERCE AUSTRALIA PTY LTD; 62 634 460 969; EBAY AUSTRALIA AND NEW ZEALAND   (27 May  10:03)
+,Last Modified Accc,2026-05-12T15:10:01+10:00  →  2026-05-26T12:04:01+10:00  (27 May  10:03)
+,,
+"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
+,End Of Determination Period,26 Jun 2026  →  2 Jul 2026  (27 May  10:03)
+,Last Modified Accc,2026-05-20T09:09:07+10:00  →  2026-05-26T17:27:32+10:00  (27 May  10:03)
+,Decisions Docs,"[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days –   (27 May  10:03)"
 ,,

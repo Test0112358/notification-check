@@ -17358,5 +17358,13 @@
         "new": "[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_4.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_4.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:35:41.909804Z",
+    "slug": "henkel-%E2%80%93-olaplex",
+    "title": "Henkel – Olaplex",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
