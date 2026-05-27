@@ -908,7 +908,7 @@ def export_excel(register, run_utc, new_slugs, changed_slugs, removed_slugs):
         ("  Changed entries",     len(changed_slugs)),
         ("  Removed entries",     len(removed_slugs)),
         ("", ""),
-        ("Auto-run schedule",  "Mon–Fri, 8am / 11am / 2pm / 5pm AEST"),
+        ("Auto-run schedule",  "Mon–Fri, 10am and 4pm AEST"),
     ]
 
     TITLE_FONT  = Font(bold=True, name="Calibri", size=13, color="0D1B2A")
