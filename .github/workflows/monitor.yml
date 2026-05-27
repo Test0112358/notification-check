@@ -2,7 +2,7 @@ name: ACCC Register Monitor + Verify
 
 on:
   schedule:
-    - cron: '0 22,1,4,7 * * 1-5'
+    - cron: '0 0,6  * * 1-5'
   workflow_dispatch:
     inputs:
       reason:
@@ -160,6 +160,8 @@ jobs:
               • Waivers        — waiver cases only, sorted by date
               • Summary        — run statistics and timestamps
 
+            Auto-run schedule: Mon–Fri, 10am and 4pm AEST
+            
             ACCC Register: https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
           
   verify:
