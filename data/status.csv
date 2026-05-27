@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-27 03:41:19.409109,
-Last scrape run (AEST),27 May 2026  13:41,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-27 17:45:19.263206,
+Last scrape run (AEST),28 May 2026  03:45,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,287,
-New entries this run,0,
+Total entries monitored,292,
+New entries this run,5,
 Changed entries this run,1,
 Removed entries this run,0,
 ,,
@@ -13,18 +13,23 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
+NEW ENTRIES (5),Case Number,URL
++ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
++ BGIS - Safe Fire Electrical,WA-55020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bgis-safe-fire-electrical
++ URUS (CVC Capital Partners) – AgriWebb,WA-30015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/urus-cvc-capital-partners-%E2%80%93-agriwebb
++ IK Partners - Selatek,WA-20019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ik-partners-selatek
++ Saipem - Subsea7,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-subsea7
+,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Saipem - Subsea7,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
-,Title,Saipem S.p.A / Subsea7 S.A.  →  Saipem - Subsea7
-,End Of Determination Period,10 Jun 2026  →  6 Jul 2026
-,Last Modified Accc,2026-05-04T16:08:19+10:00  →  2026-05-27T13:26:06+10:00
-,Decisions Docs,"  →  [{'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request b"
+~ Magellan Financial Group - Barrenjoey,MN-95007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey
+,Last Modified Accc,2026-05-20T09:27:53+10:00  →  2026-05-27T16:17:13+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '20 May 2026', 'description': 'Magellan Financial Group - Barrenjoey - Questionnaire', 'ur  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
-+ Integris & related entities - First Focus,MN-40022,20 May  20:30
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + Banijay Entertainment – All3Media,MN-85026,21 May  20:53
 + Opal HealthCare - Bethel Aged Care,MN-15019,21 May  20:53
 + United States–Australia Gallium,WA-75022,21 May  20:53
@@ -50,18 +55,7 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Wipro - Indeco,WA-35016,27 May  10:03
 + Henkel – Olaplex,MN-80016,27 May  10:35
 ,,
-"CHANGED ENTRIES (14 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
-~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
-,Acquirers,ATKINSREALIS ENGINEERING PTY LTD; 36 101 300 476  →  ATKINSREALIS AUSTRALIA HOLDINGS PTY LTD; 697 935 685  (20 May  20:30)
-,Last Modified Accc,2026-05-13T16:40:14+10:00  →  2026-05-20T16:59:10+10:00  (20 May  20:30)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 May  20:30)
-,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - AtkinsRealis - WGA', 'u  →    (20 May  20:30)"
-,,
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,Last Modified Accc,2026-05-13T18:12:09+10:00  →  2026-05-20T16:54:08+10:00  (20 May  20:30)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 May  20:30)
-,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - Zoetis - Neogen Genomic  →    (20 May  20:30)"
-,,
+"CHANGED ENTRIES (13 entries, 14 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
 ,Other Parties,SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 3  →  Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 6  (21 May  20:53)
 ,Last Modified Accc,2026-05-13T13:47:37+10:00  →  2026-05-20T17:01:33+10:00  (21 May  20:53)
@@ -137,4 +131,10 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,End Of Determination Period,26 Jun 2026  →  2 Jul 2026  (27 May  10:03)
 ,Last Modified Accc,2026-05-20T09:09:07+10:00  →  2026-05-26T17:27:32+10:00  (27 May  10:03)
 ,Decisions Docs,"[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days –   (27 May  10:03)"
+,,
+~ Saipem - Subsea7,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+,Title,Saipem S.p.A / Subsea7 S.A.  →  Saipem - Subsea7  (27 May  13:41)
+,End Of Determination Period,10 Jun 2026  →  6 Jul 2026  (27 May  13:41)
+,Last Modified Accc,2026-05-04T16:08:19+10:00  →  2026-05-27T13:26:06+10:00  (27 May  13:41)
+,Decisions Docs,"  →  [{'date': '27 May 2026', 'description': 'Timeline extended by 18 business days –  (27 May  13:41)"
 ,,

@@ -17395,5 +17395,69 @@
         "new": "[{'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:45:19.263206Z",
+    "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
+    "title": "Smile Partners Australia – Mehta Orthodontics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:45:19.263206Z",
+    "slug": "bgis-safe-fire-electrical",
+    "title": "BGIS - Safe Fire Electrical",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bgis-safe-fire-electrical",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:45:19.263206Z",
+    "slug": "magellan-financial-group-barrenjoey",
+    "title": "Magellan Financial Group - Barrenjoey",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-20T09:27:53+10:00",
+        "new": "2026-05-27T16:17:13+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 27 May 2026 via email to mergers@accc.gov.au with the title Submission re: Magellan Financial Group - Barrenjoey. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 20 May 2026 Magellan Financial Group - Barrenjoey - Questionnaire Attachment 116.21 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '20 May 2026', 'description': 'Magellan Financial Group - Barrenjoey - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Magellan%20Financial%20Group_%20Barrenjoey%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:45:19.263206Z",
+    "slug": "urus-cvc-capital-partners-%E2%80%93-agriwebb",
+    "title": "URUS (CVC Capital Partners) – AgriWebb",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/urus-cvc-capital-partners-%E2%80%93-agriwebb",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:45:19.263206Z",
+    "slug": "ik-partners-selatek",
+    "title": "IK Partners - Selatek",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ik-partners-selatek",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:45:19.263206Z",
+    "slug": "saipem-subsea7",
+    "title": "Saipem - Subsea7",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-subsea7",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
