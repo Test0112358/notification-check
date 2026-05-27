@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-05-27T00:35:41.909804Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "henkel-%E2%80%93-olaplex",
-      "title": "Henkel – Olaplex",
-      "case_number": "MN-80016",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
-      "date": "27 May 2026",
-      "description": "Henkel - Olaplex - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Henkel%20-%20Olaplex%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Henkel - Olaplex - Questionnaire.docx",
-      "filename": "Henkel - Olaplex - Questionnaire.docx",
-      "size_kb": 116.1
-    }
-  ]
+  "run_utc": "2026-05-27T03:41:19.409109Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

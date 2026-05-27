@@ -17366,5 +17366,34 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T03:41:19.409109Z",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem - Subsea7",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "title",
+        "old": "Saipem S.p.A / Subsea7 S.A.",
+        "new": "Saipem - Subsea7"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "10 Jun 2026",
+        "new": "6 Jul 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-04T16:08:19+10:00",
+        "new": "2026-05-27T13:26:06+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]

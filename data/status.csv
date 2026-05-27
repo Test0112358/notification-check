@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-27 00:35:41.909804,
-Last scrape run (AEST),27 May 2026  10:35,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-27 03:41:19.409109,
+Last scrape run (AEST),27 May 2026  13:41,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,287,
-New entries this run,1,
-Changed entries this run,0,
+New entries this run,0,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,13 +13,17 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Saipem - Subsea7,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+,Title,Saipem S.p.A / Subsea7 S.A.  →  Saipem - Subsea7
+,End Of Determination Period,10 Jun 2026  →  6 Jul 2026
+,Last Modified Accc,2026-05-04T16:08:19+10:00  →  2026-05-27T13:26:06+10:00
+,Decisions Docs,"  →  [{'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request b"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (24),Case Number,Detected (AEST)
+NEW ENTRIES (25),Case Number,Detected (AEST)
 + Integris & related entities - First Focus,MN-40022,20 May  20:30
 + Banijay Entertainment – All3Media,MN-85026,21 May  20:53
 + Opal HealthCare - Bethel Aged Care,MN-15019,21 May  20:53
@@ -44,6 +48,7 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + Hillhouse - KMC Solutions,WA-75021,25 May  22:53
 + Allegro - Fantastic Furniture,WA-55019,27 May  10:03
 + Wipro - Indeco,WA-35016,27 May  10:03
++ Henkel – Olaplex,MN-80016,27 May  10:35
 ,,
 "CHANGED ENTRIES (14 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
 ~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
