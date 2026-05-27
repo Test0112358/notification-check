@@ -218,7 +218,7 @@ jobs:
         env:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
         with:
-          server_address: smtp.gmail.com
+          server_address: frog91904@outlook.com
           server_port: 587
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
