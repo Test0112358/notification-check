@@ -129,6 +129,38 @@ jobs:
             ACCC Register:
             https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
 
+
+      - name: Email Excel register to recipients
+        if: steps.scraper.outputs.has_changes == 'true' && env.MAIL_USERNAME != ''
+        uses: dawidd6/action-send-mail@v3
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          subject: "ACCC Register — ${{ steps.scraper.outputs.new_count }} new · ${{ steps.scraper.outputs.changed_count }} changed · ${{ steps.scraper.outputs.removed_count }} removed"
+          attachments: data/register.xlsx
+          body: |
+            ACCC Acquisitions Register — automated update
+
+            Run completed at: ${{ steps.scraper.outputs.run_utc }}
+
+            Changes this run:
+              New entries:     ${{ steps.scraper.outputs.new_count }}
+              Changed entries: ${{ steps.scraper.outputs.changed_count }}
+              Removed entries: ${{ steps.scraper.outputs.removed_count }}
+
+            The full register is attached as an Excel workbook with four tabs:
+              • Raw Data       — all 260+ entries
+              • Notifications  — notification cases only, sorted by date
+              • Waivers        — waiver cases only, sorted by date
+              • Summary        — run statistics and timestamps
+
+            ACCC Register: https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
           
   verify:
     name: Verify Data Accuracy
