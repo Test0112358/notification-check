@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-05-25T13:04:21.190377Z",
-  "total_entries": 284,
+  "generated_at_utc": "2026-05-27T00:17:35.605913Z",
+  "total_entries": 286,
   "by_acquisition_status": {
     "Under assessment": 39,
-    "Assessment completed": 245
+    "Assessment completed": 247
   },
   "by_stage": {
     "Phase 1 - initial assessment": 114,
-    "Waiver application": 166,
+    "Waiver application": 168,
     "Phase 2 - detailed assessment": 4
   },
   "by_type": {
     "Notification": 118,
-    "Waiver": 166
+    "Waiver": 168
   },
   "by_accc_determination": {
-    "Approved": 232,
+    "Approved": 234,
     "Not approved": 13
   },
   "decisions_due_within_10_days": [
@@ -23,7 +23,13 @@
       "slug": "peter-warren-wakeling-automotive",
       "title": "Peter Warren - Wakeling Automotive",
       "end_of_determination_period": "2 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 6
+    },
+    {
+      "slug": "ampol-%E2%80%93-eg-australia",
+      "title": "Ampol – EG Australia",
+      "end_of_determination_period": "5 Jun 2026",
+      "days_remaining": 9
     }
   ]
 }

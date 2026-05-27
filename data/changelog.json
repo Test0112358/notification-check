@@ -17183,5 +17183,180 @@
         "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+    "title": "Restaurant Brands and Yum! Brands – Taco Bell restaurants",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Restaurant Brands Australia Holdings Pty Ltd; 53 611 058 701; Collins Restaurants Management Pty Ltd; 24 093 912 979; QSR Pty Ltd; 63 089 163 682; Gardiner Lane Capital, LLC; US-DE - 3308412; Collins Foods Limited; 13 151 420 781; Yum! Brands, Inc.; US-NC - 0428278; Restaurant Brands New Zealand Limited; NZBN - 9429038138775",
+        "new": "Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 24 093 912 979; Gardiner Lane Capital, LLC; US-DE - 3308412; QSR Pty Ltd; 63 089 163 682; Yum! Brands, Inc.; US-NC - 0428278; Restaurant Brands New Zealand Limited; NZBN - 9429038138775; Restaurant Brands Australia Holdings Pty Ltd; 53 611 058 701"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-19T09:54:48+10:00",
+        "new": "2026-05-26T15:38:28+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 26 May 2026 via email to mergers@accc.gov.au with the title Submission re: Restaurant Brands and Yum! Brands – Taco Bell restaurants. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 19 May 2026 Restaurant Brands and Yum Brands - Taco Bell - Questionnaire Attachment 116.31 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '19 May 2026', 'description': 'Restaurant Brands and Yum Brands - Taco Bell - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Yum%20-%20Taco%20Bell%3A%20Questionnaire%20-%20May%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "eli-lilly-kelonia-therapeutics",
+    "title": "Eli Lilly - Kelonia Therapeutics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Kang Acquisition Corporation; Shareholder Representative Services LLC",
+        "new": "Shareholder Representative Services LLC; Kang Acquisition Corporation"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-19T11:00:45+10:00",
+        "new": "2026-05-27T09:27:53+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by 26 May 2026 via email to mergers@accc.gov.au with the title Submission re: Eli Lilly - Kelonia Therapeutics. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 19 May 2026 Eli Lilly - Kelonia Therapeutics - third party questionnaire Attachment 115.75 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '19 May 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - third party questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Eli%20Lilly%20-%20Kelonia%20Therapeutics%20-%203rd%20party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "allegro-fantastic-furniture",
+    "title": "Allegro - Fantastic Furniture",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allegro-fantastic-furniture",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "wipro-indeco",
+    "title": "Wipro - Indeco",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wipro-indeco",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "trescal-%E2%80%93-tr-calibration",
+    "title": "Trescal – TR Calibration",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "10 Jun 2026",
+        "new": "25 Jun 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 57 818 350 085; TRESCAL HOLDING PTY LTD; 35 633 411 391; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482",
+        "new": "N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; TRESCAL HOLDING PTY LTD; 35 633 411 391; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; The Trustee for ASG Exical Unit Trust; 57 818 350 085"
+      },
+      {
+        "field": "anzsic_codes",
+        "old": "6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Precision Equipment Repair; 3494 Other Electrical and Electronic Goods Wholesaling",
+        "new": "3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Precision Equipment Repair"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-04T14:31:13+10:00",
+        "new": "2026-05-26T16:57:51+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "eli-lilly-orna-therapeutics",
+    "title": "Eli Lilly - Orna Therapeutics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-orna-therapeutics",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "title",
+        "old": "Eli Lilly / Orna Therapeutics",
+        "new": "Eli Lilly - Orna Therapeutics"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-04T10:46:40+10:00",
+        "new": "2026-05-26T11:40:37+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "ebay-depop",
+    "title": "eBay - Depop",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebay-depop",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "title",
+        "old": "eBay / Depop",
+        "new": "eBay - Depop"
+      },
+      {
+        "field": "other_parties",
+        "old": "eBay Marketplaces GmbH; Swiss Enterprise Identification Number - CHE205764206; EBAY COMMERCE AUSTRALIA PTY LTD; 62 634 460 969; EBAY AUSTRALIA AND NEW ZEALAND PTY LIMITED; 22 086 288 888",
+        "new": "EBAY COMMERCE AUSTRALIA PTY LTD; 62 634 460 969; EBAY AUSTRALIA AND NEW ZEALAND PTY LIMITED; 22 086 288 888; eBay Marketplaces GmbH; Swiss Enterprise Identification Number - CHE205764206"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-12T15:10:01+10:00",
+        "new": "2026-05-26T12:04:01+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-27T00:03:47.719644Z",
+    "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+    "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "26 Jun 2026",
+        "new": "2 Jul 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-20T09:09:07+10:00",
+        "new": "2026-05-26T17:27:32+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '12 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_3.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_3.pdf'}]",
+        "new": "[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_4.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_4.pdf'}]"
+      }
+    ]
   }
 ]
