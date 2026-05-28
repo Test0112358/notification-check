@@ -54,14 +54,31 @@ def push_summary(sh):
                 changes = content.get("changes", [])
 
     decisions_due = []
-    if os.path.exists("data/status.csv"):
-        status_df = pd.read_csv("data/status.csv", dtype=str).fillna("")
-        if "decision_due" in status_df.columns:
-            due = status_df[status_df["decision_due"].str.strip() != ""]
-            for _, row in due.iterrows():
-                decisions_due.append(
-                    f"{row.get('title', '')} — {row.get('decision_due', '')}"
-                )
+    today_aest = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
+    title_col = "Title" if "Title" in df.columns else "title"
+    due_col = next((c for c in ["End Of Determination Period", "end_of_determination_period"] if c in df.columns), None)
+    det_col = next((c for c in ["ACCC Determination", "accc_determination"] if c in df.columns), None)
+    if due_col:
+        for _, row in df.iterrows():
+            due_str = str(row.get(due_col, "")).strip()
+            if not due_str:
+                continue
+            determination = str(row.get(det_col, "")).strip() if det_col else ""
+            if determination:
+                continue
+            due_date = None
+            for fmt in ["%d %b %Y", "%Y-%m-%d", "%d/%m/%Y"]:
+                try:
+                    due_date = datetime.datetime.strptime(due_str, fmt)
+                    break
+                except ValueError:
+                    continue
+            if not due_date:
+                continue
+            days_remaining = (due_date - today_aest).days
+            if 0 <= days_remaining <= 10:
+                title = str(row.get(title_col, "")).strip()
+                decisions_due.append(f"{title} — {due_str} ({days_remaining}d remaining)")
 
     rows = [
         ["ACCC Acquisitions Register — Last Updated", "", "", ""],
