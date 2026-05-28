@@ -47,6 +47,15 @@ jobs:
           git diff --cached --quiet || git commit -m "Register update: new=${{ steps.scraper.outputs.new_count }} changed=${{ steps.scraper.outputs.changed_count }} removed=${{ steps.scraper.outputs.removed_count }}"
           git push
 
+      - name: Push data to Google Sheets
+        if: env.GOOGLE_SHEETS_CREDENTIALS != '' && env.GOOGLE_SHEET_ID != ''
+        env:
+          GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+        run: |
+          pip install gspread google-auth --break-system-packages
+          python push_to_sheets.py
+          
       - name: Upload data artifact
         if: always()
         uses: actions/upload-artifact@v4
