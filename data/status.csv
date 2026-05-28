@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-28 01:23:57.425211,
-Last scrape run (AEST),28 May 2026  11:23,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-28 12:50:59.908052,
+Last scrape run (AEST),28 May 2026  22:50,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,292,
-New entries this run,0,
+Total entries monitored,295,
+New entries this run,3,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,30 +13,33 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
-,Acquirers,Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apollo Investment Holdings LLC  →  OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 096
-,Last Modified Accc,2026-05-20T16:18:53+10:00  →  2026-05-28T09:14:09+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '20 May 2026', 'description': 'Integris-First Focus - Questionnaire', 'url': 'https://www.  →  "
+NEW ENTRIES (3),Case Number,URL
++ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
++ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+"+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld
 ,,
-~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
-,Other Parties,KOBALT MUSIC SERVICES AUSTRALIA PTY LIMITED; 12 144 997 142; KOBALT MUSIC PUBLISHING AUSTRALIA PTY L  →  Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australia Pty Limited; 63 14
-,Last Modified Accc,2026-05-19T12:29:44+10:00  →  2026-05-28T09:38:38+10:00
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
+,Acquirers,Gold Rush TopCo Limited; RN 152697; Banijay Holding UK Limited; UK Company number 17040112  →  Banijay Holding UK Limited; UK Company number 17040112; Gold Rush TopCo Limited; RN 152697
+,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; ENDEMOL SHINE AUSTRALIA HOLDINGS PTY LIMIT  →  RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 041 RCS PARIS; Banija
+,Last Modified Accc,2026-05-21T13:14:56+10:00  →  2026-05-28T17:01:29+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
+,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire – Banijay Entertainment – All3Media', 'url':   →  "
+,,
+~ Medtronic - Scientia,MN-80010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,18 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  28 May 2026
+,Acquirers,"Project Saint Merger Sub, Inc.; 10489040; Medtronic plc; 98-1183488; United States Surgical Corporat  →  Project Saint Merger Sub, Inc.; 10489040; United States Surgical Corporation; 13-2518270; Medtronic "
+,Last Modified Accc,2026-05-13T16:34:20+10:00  →  2026-05-28T16:41:20+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determination', 'url': 'http"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (29),Case Number,Detected (AEST)
-+ Banijay Entertainment – All3Media,MN-85026,21 May  20:53
-+ Opal HealthCare - Bethel Aged Care,MN-15019,21 May  20:53
-+ United States–Australia Gallium,WA-75022,21 May  20:53
-+ Midea Group – Esaote,WA-05020,21 May  20:53
-"+ Australian Venue Co – assets of Courthouse Hotel, Newtown NSW",WA-50017,21 May  20:53
-+ Cognizant – Astreya,WA-70019,21 May  20:53
-+ MedHealth – Connect Allied Health,WA-30014,21 May  20:53
+NEW ENTRIES (22),Case Number,Detected (AEST)
 + Logic Technologies - Ace Communication Distributors,MN-95021,22 May  20:30
 + Black Rhino - Club Hotel Motel Roma,MN-90008,22 May  20:30
 + American Industrial Partners - Avanos Medical,WA-85027,22 May  20:30
@@ -61,22 +64,6 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 + Saipem - Subsea7,MN-01072,28 May  03:45
 ,,
 "CHANGED ENTRIES (14 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
-~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
-,Other Parties,SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; HIGHSPOT AUSTRALIA PTY LTD; 11 653 3  →  Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 6  (21 May  20:53)
-,Last Modified Accc,2026-05-13T13:47:37+10:00  →  2026-05-20T17:01:33+10:00  (21 May  20:53)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (21 May  20:53)
-,Consultation Docs,"[{'date': '12 May 2026', 'description': 'Questionnaire - Seismic - Highspot', 'u  →    (21 May  20:53)"
-,,
-"~ MassMutual, Rest, Aware Super and Goodman – Moorabbin Airport",MN-10012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/massmutual-rest-aware-super-and-goodman-%E2%80%93-moorabbin-airport
-,Acquisition Status,Under assessment  →  Assessment completed  (21 May  20:53)
-,End Of Determination Period,4 Jun 2026  →    (21 May  20:53)
-,Accc Determination,  →  Approved  (21 May  20:53)
-,Determination Publication Date,  →  21 May 2026  (21 May  20:53)
-,Other Parties,The Trustee for RETAIL EMPLOYEES SUPERANNUATION TRUST; 62 653 671 394; The Massa  →  The Massachusetts Mutual Life Insurance Company (MassMutual); The Trustee for AW  (21 May  20:53)
-,Last Modified Accc,2026-04-28T17:35:36+10:00  →  2026-05-21T15:20:20+10:00  (21 May  20:53)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (21 May  20:53)
-,Decisions Docs,"  →  [{'date': '21 May 2026', 'description': 'MassMutual, REST, Aware Super and Goodm  (21 May  20:53)"
-,,
 ~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
 ,Other Parties,The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Tr  →  Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust   (22 May  20:30)
 ,Last Modified Accc,2026-05-19T14:54:35+10:00  →  2026-05-22T15:14:09+10:00  (22 May  20:30)
@@ -147,4 +134,16 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-20T09:27:53+10:00  →  2026-05-27T16:17:13+10:00  (28 May  03:45)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  03:45)
 ,Consultation Docs,"[{'date': '20 May 2026', 'description': 'Magellan Financial Group - Barrenjoey -  →    (28 May  03:45)"
+,,
+~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
+,Acquirers,Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apollo Investment Holdings LL  →  OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 09  (28 May  11:23)
+,Last Modified Accc,2026-05-20T16:18:53+10:00  →  2026-05-28T09:14:09+10:00  (28 May  11:23)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  11:23)
+,Consultation Docs,"[{'date': '20 May 2026', 'description': 'Integris-First Focus - Questionnaire',   →    (28 May  11:23)"
+,,
+~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
+,Other Parties,KOBALT MUSIC SERVICES AUSTRALIA PTY LIMITED; 12 144 997 142; KOBALT MUSIC PUBLIS  →  Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australi  (28 May  11:23)
+,Last Modified Accc,2026-05-19T12:29:44+10:00  →  2026-05-28T09:38:38+10:00  (28 May  11:23)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  11:23)
+,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (28 May  11:23)"
 ,,
