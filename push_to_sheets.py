@@ -1,9 +1,3 @@
-"""
-push_to_sheets.py
-Pushes the current register data directly into Google Sheets via the API.
-Replaces IMPORTDATA — no TOS risk, updates on every scrape run.
-"""
-
 import os
 import json
 import datetime
@@ -11,14 +5,14 @@ import pandas as pd
 import gspread
 from google.oauth2.service_account import Credentials
 
-SCOPES = [
-    "https://www.googleapis.com/auth/spreadsheets",
-]
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
+
 
 def get_client():
     creds_json = json.loads(os.environ["GOOGLE_SHEETS_CREDENTIALS"])
     creds = Credentials.from_service_account_info(creds_json, scopes=SCOPES)
     return gspread.authorize(creds)
+
 
 def push_raw_data(sh):
     df = pd.read_csv("data/register.csv", dtype=str).fillna("")
@@ -26,6 +20,7 @@ def push_raw_data(sh):
     ws.clear()
     ws.update([df.columns.tolist()] + df.values.tolist())
     print(f"  Raw Data: pushed {len(df)} rows")
+
 
 def push_summary(sh):
     try:
@@ -40,23 +35,24 @@ def push_summary(sh):
     notifs = len(df[df["Type"] == "Notification"]) if "Type" in df.columns else 0
     waivers = len(df[df["Type"] == "Waiver"]) if "Type" in df.columns else 0
 
-    # Load summary.json for change counts
     summary = {}
     if os.path.exists("data/summary.json"):
         with open("data/summary.json") as f:
             summary = json.load(f)
 
-    new_count     = summary.get("new_count", 0)
+    new_count = summary.get("new_count", 0)
     changed_count = summary.get("changed_count", 0)
     removed_count = summary.get("removed_count", 0)
 
-    # Load latest_changes.json for detail
     changes = []
     if os.path.exists("data/latest_changes.json"):
         with open("data/latest_changes.json") as f:
-            changes = json.load(f)
+            content = json.load(f)
+            if isinstance(content, list):
+                changes = content
+            elif isinstance(content, dict):
+                changes = content.get("changes", [])
 
-    # Load status.csv for decisions due
     decisions_due = []
     if os.path.exists("data/status.csv"):
         status_df = pd.read_csv("data/status.csv", dtype=str).fillna("")
@@ -70,27 +66,26 @@ def push_summary(sh):
     rows = [
         ["ACCC Acquisitions Register — Last Updated", "", "", ""],
         ["", "", "", ""],
-        ["Last updated (UTC)",  datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M"), "", ""],
+        ["Last updated (UTC)", datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M"), "", ""],
         ["Last updated (AEST)", aest.strftime("%Y-%m-%d %H:%M"), "", ""],
-        ["Auto-run schedule",   "Mon–Fri, 10am and 4pm AEST", "", ""],
+        ["Auto-run schedule", "Mon–Fri, 10am and 4pm AEST", "", ""],
         ["", "", "", ""],
         ["REGISTER TOTALS", "", "", ""],
-        ["Total entries",   total,   "", ""],
-        ["Notifications",   notifs,  "", ""],
-        ["Waivers",         waivers, "", ""],
+        ["Total entries", total, "", ""],
+        ["Notifications", notifs, "", ""],
+        ["Waivers", waivers, "", ""],
         ["", "", "", ""],
         ["CHANGES IN THIS RUN", "", "", ""],
-        ["New entries",     new_count,     "", ""],
+        ["New entries", new_count, "", ""],
         ["Changed entries", changed_count, "", ""],
         ["Removed entries", removed_count, "", ""],
         ["", "", "", ""],
     ]
 
-   if changes:
+    if changes:
         rows.append(["CHANGE DETAIL", "", "", ""])
         rows.append(["Case", "Event", "Field", "Change"])
         for c in changes:
-            # Guard against non-dict entries in the JSON
             if not isinstance(c, dict):
                 rows.append([str(c), "", "", ""])
                 continue
@@ -101,9 +96,10 @@ def push_summary(sh):
                 for fc in field_changes:
                     if isinstance(fc, dict):
                         rows.append([
-                            title, event,
+                            title,
+                            event,
                             fc.get("field", ""),
-                            f"{fc.get('old_value', '')} → {fc.get('new_value', '')}"
+                            f"{fc.get('old_value', '')} → {fc.get('new_value', '')}",
                         ])
                     else:
                         rows.append([title, event, str(fc), ""])
@@ -117,11 +113,16 @@ def push_summary(sh):
             rows.append([d, "", "", ""])
         rows.append(["", "", "", ""])
 
-    rows.append(["Register URL", "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register", "", ""])
+    rows.append([
+        "Register URL",
+        "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register",
+        "", "",
+    ])
 
     ws.clear()
     ws.update(rows)
     print(f"  Last Updated tab: refreshed ({len(rows)} rows)")
+
 
 def main():
     print("\nPushing data to Google Sheets...")
@@ -130,6 +131,7 @@ def main():
     push_raw_data(sh)
     push_summary(sh)
     print("  Done.")
+
 
 if __name__ == "__main__":
     main()
