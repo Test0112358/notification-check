@@ -78,7 +78,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
           subject: "ACCC Register update: ${{ steps.scraper.outputs.new_count }} new, ${{ steps.scraper.outputs.changed_count }} changed"
           body: |
             The ACCC Acquisitions Register has been updated.
@@ -110,7 +110,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
           subject: "ACCC — ${{ steps.scraper.outputs.consultation_doc_count }} new consultation document(s) published"
           attachments: data/consultation_docs/*
           body: |
@@ -150,7 +150,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
           subject: "ACCC Register — ${{ steps.scraper.outputs.new_count }} new · ${{ steps.scraper.outputs.changed_count }} changed · ${{ steps.scraper.outputs.removed_count }} removed"
           attachments: data/register.xlsx
           body: |
@@ -232,7 +232,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_USERNAME }}>
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
           subject: "ACCC Register VERIFICATION FAILED - ${{ steps.verify.outputs.error_count }} errors found"
           body: |
             The automated accuracy verification found errors in the scraped data.
