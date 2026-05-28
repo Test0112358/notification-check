@@ -1,54 +1,60 @@
 {
-  "run_utc": "2026-05-27T17:45:19.263206Z",
-  "new_count": 5,
-  "changed_count": 1,
+  "run_utc": "2026-05-28T01:23:57.425211Z",
+  "new_count": 0,
+  "changed_count": 2,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
-      "title": "Smile Partners Australia – Mehta Orthodontics",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics"
-    },
-    {
-      "slug": "bgis-safe-fire-electrical",
-      "title": "BGIS - Safe Fire Electrical",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bgis-safe-fire-electrical"
-    },
-    {
-      "slug": "urus-cvc-capital-partners-%E2%80%93-agriwebb",
-      "title": "URUS (CVC Capital Partners) – AgriWebb",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/urus-cvc-capital-partners-%E2%80%93-agriwebb"
-    },
-    {
-      "slug": "ik-partners-selatek",
-      "title": "IK Partners - Selatek",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ik-partners-selatek"
-    },
-    {
-      "slug": "saipem-subsea7",
-      "title": "Saipem - Subsea7",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-subsea7"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "magellan-financial-group-barrenjoey",
-      "title": "Magellan Financial Group - Barrenjoey",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey",
+      "slug": "integris-related-entities-first-focus",
+      "title": "Integris & related entities - First Focus",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus",
       "changes": [
         {
+          "field": "acquirers",
+          "old": "Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apollo Investment Holdings LLC",
+          "new": "OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 096"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-05-20T09:27:53+10:00",
-          "new": "2026-05-27T16:17:13+10:00"
+          "old": "2026-05-20T16:18:53+10:00",
+          "new": "2026-05-28T09:14:09+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 27 May 2026 via email to mergers@accc.gov.au with the title Submission re: Magellan Financial Group - Barrenjoey. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 20 May 2026 Magellan Financial Group - Barrenjoey - Questionnaire Attachment 116.21 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 27 May 2026 via email to mergers@accc.gov.au with the title Submission re: Integris & related entities - First Focus. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 20 May 2026 Integris-First Focus - Questionnaire Attachment 110.21 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '20 May 2026', 'description': 'Magellan Financial Group - Barrenjoey - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Magellan%20Financial%20Group_%20Barrenjoey%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '20 May 2026', 'description': 'Integris-First Focus - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/First%20Focus%20-%20Questionnaire%20-%20May%202026_0.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "primary-wave-kobalt",
+      "title": "Primary Wave - Kobalt",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt",
+      "changes": [
+        {
+          "field": "other_parties",
+          "old": "KOBALT MUSIC SERVICES AUSTRALIA PTY LIMITED; 12 144 997 142; KOBALT MUSIC PUBLISHING AUSTRALIA PTY LIMITED; 63 144 996 609; PWMP Ventures, LLC; Company number 5324467; Brookfield Corporation; Company number 1644037; Primary Wave Music IP Fund 4, LP; Company number 7667918; Primary Wave Music IP Fund 4 GP, LLC; Company number 7667915",
+          "new": "Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australia Pty Limited; 63 144 996 609; Primary Wave Music IP Fund 4, LP; Company number 7667918; PWMP Ventures, LLC; Company number 5324467; Primary Wave Music IP Fund 4 GP, LLC; Company number 7667915; Kobalt Music Services Australia Pty Limited; 12 144 997 142"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-19T12:29:44+10:00",
+          "new": "2026-05-28T09:38:38+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 26 May 2026 via email to mergers@accc.gov.au with the title Submission re: Primary Wave - Kobalt. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 19 May 2026 Questionnaire Attachment 110.26 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '19 May 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kobalt%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
