@@ -31,29 +31,90 @@ def push_summary(sh):
     try:
         ws = sh.worksheet("Last Updated")
     except gspread.exceptions.WorksheetNotFound:
-        ws = sh.add_worksheet("Last Updated", rows=20, cols=3)
+        ws = sh.add_worksheet("Last Updated", rows=50, cols=4)
 
     aest = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
 
     df = pd.read_csv("data/register.csv", dtype=str).fillna("")
     total = len(df)
-    notifs = len(df[df["Type"] == "Notification"]) if "Type" in df.columns else ""
-    waivers = len(df[df["Type"] == "Waiver"]) if "Type" in df.columns else ""
+    notifs = len(df[df["Type"] == "Notification"]) if "Type" in df.columns else 0
+    waivers = len(df[df["Type"] == "Waiver"]) if "Type" in df.columns else 0
+
+    # Load summary.json for change counts
+    summary = {}
+    if os.path.exists("data/summary.json"):
+        with open("data/summary.json") as f:
+            summary = json.load(f)
+
+    new_count     = summary.get("new_count", 0)
+    changed_count = summary.get("changed_count", 0)
+    removed_count = summary.get("removed_count", 0)
+
+    # Load latest_changes.json for detail
+    changes = []
+    if os.path.exists("data/latest_changes.json"):
+        with open("data/latest_changes.json") as f:
+            changes = json.load(f)
+
+    # Load status.csv for decisions due
+    decisions_due = []
+    if os.path.exists("data/status.csv"):
+        status_df = pd.read_csv("data/status.csv", dtype=str).fillna("")
+        if "decision_due" in status_df.columns:
+            due = status_df[status_df["decision_due"].str.strip() != ""]
+            for _, row in due.iterrows():
+                decisions_due.append(
+                    f"{row.get('title', '')} — {row.get('decision_due', '')}"
+                )
 
     rows = [
-        ["Metric", "Value", ""],
-        ["Last updated (UTC)",  datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M"), ""],
-        ["Last updated (AEST)", aest.strftime("%Y-%m-%d %H:%M"), ""],
-        ["", "", ""],
-        ["Total entries",  total,   ""],
-        ["Notifications",  notifs,  ""],
-        ["Waivers",        waivers, ""],
-        ["", "", ""],
-        ["Auto-run schedule", "Mon–Fri, 10am and 4pm AEST", ""],
+        ["ACCC Acquisitions Register — Last Updated", "", "", ""],
+        ["", "", "", ""],
+        ["Last updated (UTC)",  datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M"), "", ""],
+        ["Last updated (AEST)", aest.strftime("%Y-%m-%d %H:%M"), "", ""],
+        ["Auto-run schedule",   "Mon–Fri, 10am and 4pm AEST", "", ""],
+        ["", "", "", ""],
+        ["REGISTER TOTALS", "", "", ""],
+        ["Total entries",   total,   "", ""],
+        ["Notifications",   notifs,  "", ""],
+        ["Waivers",         waivers, "", ""],
+        ["", "", "", ""],
+        ["CHANGES IN THIS RUN", "", "", ""],
+        ["New entries",     new_count,     "", ""],
+        ["Changed entries", changed_count, "", ""],
+        ["Removed entries", removed_count, "", ""],
+        ["", "", "", ""],
     ]
+
+    if changes:
+        rows.append(["CHANGE DETAIL", "", "", ""])
+        rows.append(["Case", "Event", "Field", "Change"])
+        for c in changes:
+            title = c.get("title", c.get("slug", ""))
+            event = c.get("event", "")
+            field_changes = c.get("changes", [])
+            if field_changes:
+                for fc in field_changes:
+                    rows.append([
+                        title, event,
+                        fc.get("field", ""),
+                        f"{fc.get('old_value', '')} → {fc.get('new_value', '')}"
+                    ])
+            else:
+                rows.append([title, event, "", ""])
+        rows.append(["", "", "", ""])
+
+    if decisions_due:
+        rows.append(["DECISIONS DUE WITHIN 10 DAYS", "", "", ""])
+        for d in decisions_due:
+            rows.append([d, "", "", ""])
+        rows.append(["", "", "", ""])
+
+    rows.append(["Register URL", "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register", "", ""])
+
     ws.clear()
     ws.update(rows)
-    print("  Last Updated tab: refreshed")
+    print(f"  Last Updated tab: refreshed ({len(rows)} rows)")
 
 def main():
     print("\nPushing data to Google Sheets...")
