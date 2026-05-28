@@ -24,9 +24,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "saipem-spa-subsea7-sa",
-    "title": "Saipem - Subsea7",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
+    "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -36,9 +36,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
-    "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem - Subsea7",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
