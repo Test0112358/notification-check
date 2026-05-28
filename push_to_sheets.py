@@ -86,20 +86,27 @@ def push_summary(sh):
         ["", "", "", ""],
     ]
 
-    if changes:
+   if changes:
         rows.append(["CHANGE DETAIL", "", "", ""])
         rows.append(["Case", "Event", "Field", "Change"])
         for c in changes:
+            # Guard against non-dict entries in the JSON
+            if not isinstance(c, dict):
+                rows.append([str(c), "", "", ""])
+                continue
             title = c.get("title", c.get("slug", ""))
             event = c.get("event", "")
             field_changes = c.get("changes", [])
             if field_changes:
                 for fc in field_changes:
-                    rows.append([
-                        title, event,
-                        fc.get("field", ""),
-                        f"{fc.get('old_value', '')} → {fc.get('new_value', '')}"
-                    ])
+                    if isinstance(fc, dict):
+                        rows.append([
+                            title, event,
+                            fc.get("field", ""),
+                            f"{fc.get('old_value', '')} → {fc.get('new_value', '')}"
+                        ])
+                    else:
+                        rows.append([title, event, str(fc), ""])
             else:
                 rows.append([title, event, "", ""])
         rows.append(["", "", "", ""])
