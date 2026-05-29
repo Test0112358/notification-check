@@ -195,7 +195,7 @@ def push_dashboard(sh):
                 s = s.strip()
                 if s:
                     sectors[s] = sectors.get(s, 0) + 1
-    top_sectors = sorted(sectors.items(), key=lambda x: -x[1])[:10]
+    top_sectors = sorted(sectors.items(), key=lambda x: -x[1])[:20]
 
     rows = [["ACCC REGISTER — DASHBOARD", today.strftime("%d %b %Y %H:%M AEST"), ""]]
     rows.append(["", "", ""])
