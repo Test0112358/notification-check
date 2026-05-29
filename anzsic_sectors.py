@@ -872,26 +872,18 @@ def get_ma_sector(anzsic_code: str) -> str:
 
 
 def get_ma_sectors_for_entry(anzsic_codes_field: str) -> list[str]:
-    """
-    Parse the anzsic_codes field from a register entry (may contain
-    multiple codes separated by semicolons or commas) and return a
-    deduplicated list of M&A sector labels.
-
-    Example:
-        "6221; 6330" → ["Banking", "Superannuation"]
-    """
     if not anzsic_codes_field:
         return []
-
     import re
-    codes = re.split(r"[;,\s]+", str(anzsic_codes_field))
     sectors = []
     seen = set()
-    for code in codes:
-        code = code.strip()
-        if code:
-            sector = get_ma_sector(code)
-            if sector and sector not in seen:
-                sectors.append(sector)
-                seen.add(sector)
+    for chunk in str(anzsic_codes_field).split(";"):
+        # Extract leading digits only (e.g. "1852 Cosmetic..." -> "1852")
+        m = re.match(r"\s*(\d+)", chunk)
+        if not m:
+            continue
+        sector = get_ma_sector(m.group(1))
+        if sector and sector != "Unknown / Other" and sector not in seen:
+            sectors.append(sector)
+            seen.add(sector)
     return sectors
