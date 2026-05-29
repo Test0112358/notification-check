@@ -140,6 +140,78 @@ def push_summary(sh):
     ws.update(rows)
     print(f"  Last Updated tab: refreshed ({len(rows)} rows)")
 
+def push_dashboard(sh):
+    try:
+        ws = sh.worksheet("Dashboard")
+    except gspread.exceptions.WorksheetNotFound:
+        ws = sh.add_worksheet("Dashboard", rows=80, cols=4)
+
+    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
+    today = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
+
+    def col(*names):
+        return next((c for c in names if c in df.columns), None)
+
+    title_c = col("Title", "title")
+    due_c   = col("End Of Determination Period", "end_of_determination_period")
+    det_c   = col("ACCC Determination", "accc_determination")
+    stage_c = col("Stage", "Acquisition Status", "stage")
+    dec_c   = col("Decisions Docs", "decisions_docs")
+    anz_c   = col("M&A Sector", "ANZSIC Codes", "anzsic_codes")
+
+    # Decisions due (active, within 14 days, sorted by urgency)
+    due_list = []
+    if due_c:
+        for _, r in df.iterrows():
+            if det_c and str(r.get(det_c, "")).strip():
+                continue
+            ds = str(r.get(due_c, "")).strip()
+            d = None
+            for fmt in ("%d %b %Y", "%Y-%m-%d", "%d/%m/%Y"):
+                try:
+                    d = datetime.datetime.strptime(ds, fmt); break
+                except ValueError:
+                    continue
+            if not d:
+                continue
+            days = (d - today).days
+            if 0 <= days <= 14:
+                due_list.append((days, str(r.get(title_c, "")).strip(), ds))
+    due_list.sort()
+
+    # Active Phase 2 cases
+    phase2 = []
+    if dec_c:
+        for _, r in df.iterrows():
+            if "phase 2" in str(r.get(dec_c, "")).lower():
+                if not (det_c and str(r.get(det_c, "")).strip()):
+                    phase2.append(str(r.get(title_c, "")).strip())
+
+    # Sector counts
+    sectors = {}
+    if anz_c == "M&A Sector":
+        for v in df[anz_c]:
+            for s in str(v).split(";"):
+                s = s.strip()
+                if s:
+                    sectors[s] = sectors.get(s, 0) + 1
+    top_sectors = sorted(sectors.items(), key=lambda x: -x[1])[:10]
+
+    rows = [["ACCC REGISTER — DASHBOARD", today.strftime("%d %b %Y %H:%M AEST"), ""]]
+    rows.append(["", "", ""])
+    rows.append([f"DECISIONS DUE (next 14 days) — {len(due_list)}", "Due date", "Days left"])
+    rows += [[t, ds, dleft] for dleft, t, ds in due_list] or [["None pending", "", ""]]
+    rows.append(["", "", ""])
+    rows.append([f"ACTIVE PHASE 2 REVIEWS — {len(phase2)}", "", ""])
+    rows += [[p, "", ""] for p in phase2] or [["None active", "", ""]]
+    rows.append(["", "", ""])
+    if top_sectors:
+        rows.append(["TOP SECTORS BY DEAL COUNT", "Deals", ""])
+        rows += [[s, n, ""] for s, n in top_sectors]
+
+    ws.clear()
+    ws.update(rows)
+    print(f"  Dashboard: refreshed ({len(rows)} rows)")
 
 def main():
     print("\nPushing data to Google Sheets...")
