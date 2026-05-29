@@ -219,6 +219,7 @@ def main():
     sh = gc.open_by_key(os.environ["GOOGLE_SHEET_ID"])
     push_raw_data(sh)
     push_summary(sh)
+    push_dashboard(sh)
     print("  Done.")
 
 
