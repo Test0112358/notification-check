@@ -21,6 +21,7 @@ Confirmed against live pages on 2026-05-18:
     (or → determination publication date for completed cases)
 """
 
+from anzsic_sectors import get_ma_sectors_for_entry
 import json
 import os
 import re
@@ -725,6 +726,7 @@ def export_csv(register):
             "Case Number":                              e.get("case_number", ""),
             "Acquirer(s)":                              e.get("acquirers", ""),
             "Target(s) / Vendor(s)":                   e.get("targets", ""),
+            "M&A Sector": "; ".join(get_ma_sectors_for_entry(e.get("anzsic_codes", ""))),
             "Other Parties":                            e.get("other_parties", ""),
             "Notification / Application Date":  format_date_for_csv(e.get("notification_date", "")),
             "Stage":                                    e.get("stage", ""),
