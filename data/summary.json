@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-28T13:02:54.595147Z",
+  "generated_at_utc": "2026-05-29T01:01:00.120079Z",
   "total_entries": 295,
   "by_acquisition_status": {
     "Under assessment": 43,
@@ -23,13 +23,13 @@
       "slug": "peter-warren-wakeling-automotive",
       "title": "Peter Warren - Wakeling Automotive",
       "end_of_determination_period": "2 Jun 2026",
-      "days_remaining": 5
+      "days_remaining": 4
     },
     {
       "slug": "ampol-%E2%80%93-eg-australia",
       "title": "Ampol – EG Australia",
       "end_of_determination_period": "5 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     }
   ]
 }

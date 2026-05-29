@@ -1,102 +1,46 @@
 {
-  "run_utc": "2026-05-28T12:50:59.908052Z",
-  "new_count": 3,
+  "run_utc": "2026-05-29T00:46:19.077141Z",
+  "new_count": 0,
   "changed_count": 2,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas"
-    },
+  "new_entries": [],
+  "changed_entries": [
     {
       "slug": "impression-dental-group-coastal-dental-care",
       "title": "Impression Dental Group - Coastal Dental Care",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care"
-    },
-    {
-      "slug": "black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld",
-      "title": "Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld"
-    }
-  ],
-  "changed_entries": [
-    {
-      "slug": "banijay-entertainment-%E2%80%93-all3media",
-      "title": "Banijay Entertainment – All3Media",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "Gold Rush TopCo Limited; RN 152697; Banijay Holding UK Limited; UK Company number 17040112",
-          "new": "Banijay Holding UK Limited; UK Company number 17040112; Gold Rush TopCo Limited; RN 152697"
-        },
-        {
-          "field": "other_parties",
-          "old": "RedBird Capital Partners Management LLC; File No 5372472; ENDEMOL SHINE AUSTRALIA HOLDINGS PTY LIMITED; 94 134 845 364; Banijay Entertainment SASU; 503 069 965 RCS PARIS; Lov Group Invest S.A.S; SIREN 494 031 008; Banijay SAS; 499 797 041 RCS PARIS; Banijay Group N.V.; ISIN: NL0015000X07",
-          "new": "RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 041 RCS PARIS; Banijay Entertainment SASU; 503 069 965 RCS PARIS; ENDEMOL SHINE AUSTRALIA HOLDINGS PTY LIMITED; 94 134 845 364; Lov Group Invest S.A.S; SIREN 494 031 008; Banijay Group N.V.; ISIN: NL0015000X07"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-05-21T13:14:56+10:00",
-          "new": "2026-05-28T17:01:29+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 28 May 2026 via email to mergers@accc.gov.au with the title Submission re: Banijay Entertainment – All3Media. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 May 2026 Questionnaire – Banijay Entertainment – All3Media Attachment 110.54 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '21 May 2026', 'description': 'Questionnaire – Banijay Entertainment – All3Media', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Banijay%20Entertainment%20%E2%80%93%20All3Media%20%E2%80%93%20Questionnaire%20%E2%80%93%2021%20May%202026_0.docx'}]",
-          "new": ""
+          "old": "2026-05-28T17:38:44+10:00",
+          "new": "2026-05-29T09:09:40+10:00"
         }
       ]
     },
     {
-      "slug": "medtronic-scientia",
-      "title": "Medtronic - Scientia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia",
+      "slug": "mastercard-bvnk",
+      "title": "Mastercard - BVNK",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "18 Jun 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "28 May 2026"
-        },
-        {
           "field": "acquirers",
-          "old": "Project Saint Merger Sub, Inc.; 10489040; Medtronic plc; 98-1183488; United States Surgical Corporation; 13-2518270",
-          "new": "Project Saint Merger Sub, Inc.; 10489040; United States Surgical Corporation; 13-2518270; Medtronic plc; 98-1183488"
+          "old": "Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142; Mastercard International Incorporated; 648928",
+          "new": "Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-13T16:34:20+10:00",
-          "new": "2026-05-28T16:41:20+10:00"
+          "old": "2026-05-18T12:10:32+10:00",
+          "new": "2026-05-25T16:32:26+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 25 May 2026 via email to mergers@accc.gov.au with the title Submission re: Mastercard – BVNK. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 18 May 2026 Mastercard - BVNK - Questionnaire - May 2026 Attachment 61.35 KB",
+          "new": "The period for providing submission or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Medtronic%20-%20Scientia%20-%20Phase%201%20determination.pdf'}]"
+          "field": "consultation_docs",
+          "old": "[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Mastercard%20-%20BVNK%20-%20Questionnaire%20-%20May%202026.docx'}]",
+          "new": ""
         }
       ]
     }

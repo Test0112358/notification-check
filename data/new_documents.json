@@ -1,30 +1,5 @@
 {
-  "run_utc": "2026-05-28T12:50:59.908052Z",
-  "questionnaire_count": 2,
-  "questionnaires": [
-    {
-      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
-      "case_number": "MN-50009",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "date": "28 May 2026",
-      "description": "Questionnaire - Heidelberg Materials Australia - construction materials business of MAAS",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Questionnaire_0.docx",
-      "local_path": "data/consultation_docs/Heidelberg Materials Australia _ construction materials business of MAAS - Questionnaire_0.docx",
-      "filename": "Heidelberg Materials Australia _ construction materials business of MAAS - Questionnaire_0.docx",
-      "size_kb": 118.4
-    },
-    {
-      "slug": "impression-dental-group-coastal-dental-care",
-      "title": "Impression Dental Group - Coastal Dental Care",
-      "case_number": "MN-90015",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care",
-      "date": "28 May 2026",
-      "description": "Questionnaire - Impression Dental Group – Coastal Dental Care",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Impression%20Dental%20Group%20%E2%80%93%20Coastal%20Dental%20Care_0.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Impression Dental Group _ Coastal Dental Care_0.docx",
-      "filename": "Questionnaire - Impression Dental Group _ Coastal Dental Care_0.docx",
-      "size_kb": 116.0
-    }
-  ]
+  "run_utc": "2026-05-29T00:46:19.077141Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

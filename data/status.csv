@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-28 12:50:59.908052,
-Last scrape run (AEST),28 May 2026  22:50,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-29 00:46:19.077141,
+Last scrape run (AEST),29 May 2026  10:46,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,295,
-New entries this run,3,
+New entries this run,0,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,33 +13,20 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-+ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-"+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld
-,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
-,Acquirers,Gold Rush TopCo Limited; RN 152697; Banijay Holding UK Limited; UK Company number 17040112  →  Banijay Holding UK Limited; UK Company number 17040112; Gold Rush TopCo Limited; RN 152697
-,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; ENDEMOL SHINE AUSTRALIA HOLDINGS PTY LIMIT  →  RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 041 RCS PARIS; Banija
-,Last Modified Accc,2026-05-21T13:14:56+10:00  →  2026-05-28T17:01:29+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire – Banijay Entertainment – All3Media', 'url':   →  "
+~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+,Last Modified Accc,2026-05-28T17:38:44+10:00  →  2026-05-29T09:09:40+10:00
 ,,
-~ Medtronic - Scientia,MN-80010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,18 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  28 May 2026
-,Acquirers,"Project Saint Merger Sub, Inc.; 10489040; Medtronic plc; 98-1183488; United States Surgical Corporat  →  Project Saint Merger Sub, Inc.; 10489040; United States Surgical Corporation; 13-2518270; Medtronic "
-,Last Modified Accc,2026-05-13T16:34:20+10:00  →  2026-05-28T16:41:20+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determination', 'url': 'http"
+~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
+,Acquirers,Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142; Mastercard International I  →  Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard In
+,Last Modified Accc,2026-05-18T12:10:32+10:00  →  2026-05-25T16:32:26+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h
+,Consultation Docs,"[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May 2026', 'url': 'http  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (22),Case Number,Detected (AEST)
+NEW ENTRIES (25),Case Number,Detected (AEST)
 + Logic Technologies - Ace Communication Distributors,MN-95021,22 May  20:30
 + Black Rhino - Club Hotel Motel Roma,MN-90008,22 May  20:30
 + American Industrial Partners - Avanos Medical,WA-85027,22 May  20:30
@@ -62,8 +49,11 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 + URUS (CVC Capital Partners) – AgriWebb,WA-30015,28 May  03:45
 + IK Partners - Selatek,WA-20019,28 May  03:45
 + Saipem - Subsea7,MN-01072,28 May  03:45
++ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,28 May  22:50
++ Impression Dental Group - Coastal Dental Care,MN-90015,28 May  22:50
+"+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,28 May  22:50
 ,,
-"CHANGED ENTRIES (14 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
 ,Other Parties,The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Tr  →  Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust   (22 May  20:30)
 ,Last Modified Accc,2026-05-19T14:54:35+10:00  →  2026-05-22T15:14:09+10:00  (22 May  20:30)
@@ -146,4 +136,21 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-19T12:29:44+10:00  →  2026-05-28T09:38:38+10:00  (28 May  11:23)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  11:23)
 ,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (28 May  11:23)"
+,,
+~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
+,Acquirers,Gold Rush TopCo Limited; RN 152697; Banijay Holding UK Limited; UK Company numbe  →  Banijay Holding UK Limited; UK Company number 17040112; Gold Rush TopCo Limited;  (28 May  22:50)
+,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; ENDEMOL SHINE AUSTRALI  →  RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 0  (28 May  22:50)
+,Last Modified Accc,2026-05-21T13:14:56+10:00  →  2026-05-28T17:01:29+10:00  (28 May  22:50)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  22:50)
+,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire – Banijay Entertainment –  →    (28 May  22:50)"
+,,
+~ Medtronic - Scientia,MN-80010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia
+,Acquisition Status,Under assessment  →  Assessment completed  (28 May  22:50)
+,End Of Determination Period,18 Jun 2026  →    (28 May  22:50)
+,Accc Determination,  →  Approved  (28 May  22:50)
+,Determination Publication Date,  →  28 May 2026  (28 May  22:50)
+,Acquirers,"Project Saint Merger Sub, Inc.; 10489040; Medtronic plc; 98-1183488; United Stat  →  Project Saint Merger Sub, Inc.; 10489040; United States Surgical Corporation; 13  (28 May  22:50)"
+,Last Modified Accc,2026-05-13T16:34:20+10:00  →  2026-05-28T16:41:20+10:00  (28 May  22:50)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (28 May  22:50)
+,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determin  (28 May  22:50)"
 ,,

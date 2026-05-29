@@ -17624,5 +17624,48 @@
         "new": "[{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Medtronic%20-%20Scientia%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-29T00:46:19.077141Z",
+    "slug": "impression-dental-group-coastal-dental-care",
+    "title": "Impression Dental Group - Coastal Dental Care",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-28T17:38:44+10:00",
+        "new": "2026-05-29T09:09:40+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-05-29T00:46:19.077141Z",
+    "slug": "mastercard-bvnk",
+    "title": "Mastercard - BVNK",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142; Mastercard International Incorporated; 648928",
+        "new": "Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-18T12:10:32+10:00",
+        "new": "2026-05-25T16:32:26+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 25 May 2026 via email to mergers@accc.gov.au with the title Submission re: Mastercard – BVNK. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 18 May 2026 Mastercard - BVNK - Questionnaire - May 2026 Attachment 61.35 KB",
+        "new": "The period for providing submission or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Mastercard%20-%20BVNK%20-%20Questionnaire%20-%20May%202026.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]
