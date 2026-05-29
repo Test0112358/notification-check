@@ -36,9 +36,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
-    "title": "North American Construction Group – Iron Mine Contracting and Iron Hire",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+    "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
+    "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -48,9 +48,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
-    "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
+    "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "cvc-capital-partners-%E2%80%93-marathon-asset-management",
+    "title": "CVC Capital Partners – Marathon Asset Management",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-marathon-asset-management",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
