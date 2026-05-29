@@ -24,9 +24,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "bsn-sports-%E2%80%93-sports-endeavors",
-    "title": "BSN Sports – Sports Endeavors",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bsn-sports-%E2%80%93-sports-endeavors",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem - Subsea7",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -36,9 +36,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "saipem-spa-subsea7-sa",
-    "title": "Saipem - Subsea7",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "slug": "north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+    "title": "North American Construction Group – Iron Mine Contracting and Iron Hire",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
