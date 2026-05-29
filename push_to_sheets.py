@@ -130,6 +130,42 @@ def push_summary(sh):
             rows.append([d, "", "", ""])
         rows.append(["", "", "", ""])
 
+    # Rolling 7-day activity from the full changelog
+    if os.path.exists("data/changelog.json"):
+        with open("data/changelog.json") as f:
+            log = json.load(f)
+        cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=7)
+        recent_new, recent_changed = [], []
+        for entry in log:
+            if not isinstance(entry, dict):
+                continue
+            ts = entry.get("timestamp_utc", "")
+            try:
+                when = datetime.datetime.fromisoformat(ts.replace("Z", ""))
+            except (ValueError, AttributeError):
+                continue
+            if when < cutoff:
+                continue
+            when_aest = (when + datetime.timedelta(hours=10)).strftime("%d %b %H:%M")
+            if entry.get("event") == "NEW_ENTRY":
+                recent_new.append((entry.get("title", ""), entry.get("case_number", ""), when_aest))
+            elif entry.get("event") == "CHANGED":
+                for fc in entry.get("changes", []):
+                    if isinstance(fc, dict):
+                        recent_changed.append([
+                            entry.get("title", ""), fc.get("field", ""),
+                            f"{fc.get('old_value', '')} → {fc.get('new_value', '')}", when_aest
+                        ])
+
+        if recent_new:
+            rows.append([f"NEW ENTRIES (LAST 7 DAYS) — {len(recent_new)}", "Case", "Detected (AEST)", ""])
+            rows += [[t, cn, w, ""] for t, cn, w in recent_new]
+            rows.append(["", "", "", ""])
+        if recent_changed:
+            rows.append([f"CHANGED (LAST 7 DAYS) — {len(recent_changed)} events", "Field", "Change", "When"])
+            rows += recent_changed
+            rows.append(["", "", "", ""])
+    
     rows.append([
         "Register URL",
         "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register",
