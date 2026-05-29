@@ -1,34 +1,94 @@
 {
-  "run_utc": "2026-05-29T02:16:44.459425Z",
-  "new_count": 0,
-  "changed_count": 1,
+  "run_utc": "2026-05-29T12:28:16.772914Z",
+  "new_count": 2,
+  "changed_count": 3,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "sydney-water-windsor-sewerage-scheme-assets",
+      "title": "Sydney Water - Windsor Sewerage Scheme Assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sydney-water-windsor-sewerage-scheme-assets"
+    },
+    {
+      "slug": "turkish-airlines-air-europa",
+      "title": "Turkish Airlines - Air Europa",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turkish-airlines-air-europa"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "fulton-hogan-%E2%80%93-avionics",
-      "title": "Fulton Hogan – Avionics",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics",
+      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
       "changes": [
         {
           "field": "end_of_determination_period",
-          "old": "11 Jun 2026",
-          "new": "17 Jun 2026"
+          "old": "13 Jul 2026",
+          "new": "3 Aug 2026"
         },
         {
           "field": "targets",
-          "old": "AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883; Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605",
-          "new": "AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883"
+          "old": "MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699",
+          "new": "MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-07T11:13:45+10:00",
-          "new": "2026-05-29T11:31:57+10:00"
+          "old": "2026-05-28T17:30:09+10:00",
+          "new": "2026-05-29T14:31:38+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by parties', 'url': ''}]"
+          "new": "[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]"
+        }
+      ]
+    },
+    {
+      "slug": "black-rhino-club-hotel-motel-roma",
+      "title": "Black Rhino - Club Hotel Motel Roma",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498",
+          "new": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-22T11:11:20+10:00",
+          "new": "2026-05-29T15:05:45+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 May 2026 via email to mergers@accc.gov.au with the title Submission re: Black Rhino - Club Hotel Motel Roma The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 May 2026 Black Rhino - Club Hotel Motel Roma - Questionnaire Attachment 120.9 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '21 May 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Club%20Hotel%20Roma%20-%203rd%20party%20questionnaire.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "opal-healthcare-bethel-aged-care",
+      "title": "Opal HealthCare - Bethel Aged Care",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-21T13:24:24+10:00",
+          "new": "2026-05-29T12:31:12+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by 28 May 2026 via email to mergers@accc.gov.au with the title Submission re: Opal Healthcare - Bethel Aged Care. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 May 2026 Questionnaire - Opal Healthcare - Bethel Aged Care Attachment 111.02 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '21 May 2026', 'description': 'Questionnaire - Opal Healthcare - Bethel Aged Care', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Opal%20Healthcare%20-%20Bethel%20Aged%20Care_0.docx'}]",
+          "new": ""
         }
       ]
     }

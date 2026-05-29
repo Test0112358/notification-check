@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-29 02:16:44.459425,
-Last scrape run (AEST),29 May 2026  12:16,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-29 12:28:16.772914,
+Last scrape run (AEST),29 May 2026  22:28,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,295,
-New entries this run,0,
-Changed entries this run,1,
+Total entries monitored,297,
+New entries this run,2,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,21 +13,32 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
-,End Of Determination Period,11 Jun 2026  →  17 Jun 2026
-,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Shane Webb Nominees Pty Ltd in its capacity at the truste  →  AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley
-,Last Modified Accc,2026-05-07T11:13:45+10:00  →  2026-05-29T11:31:57+10:00
-,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by"
+NEW ENTRIES (2),Case Number,URL
++ Sydney Water - Windsor Sewerage Scheme Assets,WA-80013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sydney-water-windsor-sewerage-scheme-assets
++ Turkish Airlines - Air Europa,WA-90016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turkish-airlines-air-europa
+,,
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,End Of Determination Period,13 Jul 2026  →  3 Aug 2026
+,Targets,MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAC  →  MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; M
+,Last Modified Accc,2026-05-28T17:30:09+10:00  →  2026-05-29T14:31:38+10:00
+,Decisions Docs,"  →  [{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy of"
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705   →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 
+,Last Modified Accc,2026-05-22T11:11:20+10:00  →  2026-05-29T15:05:45+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Questionnaire', 'url'  →  "
+,,
+~ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
+,Last Modified Accc,2026-05-21T13:24:24+10:00  →  2026-05-29T12:31:12+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire - Opal Healthcare - Bethel Aged Care', 'url':  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
-+ Logic Technologies - Ace Communication Distributors,MN-95021,22 May  20:30
-+ Black Rhino - Club Hotel Motel Roma,MN-90008,22 May  20:30
-+ American Industrial Partners - Avanos Medical,WA-85027,22 May  20:30
-+ Australian Meat Group - Killara Feedlot,MN-20012,22 May  20:30
+NEW ENTRIES (21),Case Number,Detected (AEST)
 + Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,25 May  22:53
 + Zurich - Beazley,MN-30016,25 May  22:53
 + Tibaldi - South Food Group,MN-25026,25 May  22:53
@@ -50,19 +61,10 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Impression Dental Group - Coastal Dental Care,MN-90015,28 May  22:50
 "+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,28 May  22:50
 ,,
-"CHANGED ENTRIES (18 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
-,Other Parties,The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Tr  →  Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust   (22 May  20:30)
-,Last Modified Accc,2026-05-19T14:54:35+10:00  →  2026-05-22T15:14:09+10:00  (22 May  20:30)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 May  20:30)
-,Consultation Docs,"[{'date': '15 May 2026', 'description': 'Questionnaire - KKR-HMC Energy Transiti  →    (22 May  20:30)"
 ,Other Parties,Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust   →  HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No  (25 May  22:53)
 ,Last Modified Accc,2026-05-22T15:14:09+10:00  →  2026-05-25T16:28:39+10:00  (25 May  22:53)
-,,
-"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
-,Last Modified Accc,2026-05-13T11:42:52+10:00  →  2026-05-21T10:20:16+10:00  (22 May  20:30)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (22 May  20:30)
-,Consultation Docs,"[{'date': '13 May 2026', 'description': 'Questionnaire - TWG - Sharton Motors de  →    (22 May  20:30)"
 ,,
 ~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
 ,Acquirers,Global Engage Marine Pty Ltd; 693 762 122; PT Asian Bulk Logistics  →  PT Asian Bulk Logistics; Global Engage Marine Pty Ltd; 693 762 122  (25 May  22:53)
@@ -159,4 +161,10 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-18T12:10:32+10:00  →  2026-05-25T16:32:26+10:00  (29 May  10:46)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submission or information in response to the ACCC's Pha  (29 May  10:46)
 ,Consultation Docs,"[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May  →    (29 May  10:46)"
+,,
+~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
+,End Of Determination Period,11 Jun 2026  →  17 Jun 2026  (29 May  12:16)
+,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Shane Webb Nominees Pty Ltd in its ca  →  AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capac  (29 May  12:16)
+,Last Modified Accc,2026-05-07T11:13:45+10:00  →  2026-05-29T11:31:57+10:00  (29 May  12:16)
+,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days -   (29 May  12:16)"
 ,,
