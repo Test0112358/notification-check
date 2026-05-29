@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-05-29 00:46:19.077141,
-Last scrape run (AEST),29 May 2026  10:46,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-05-29 02:16:44.459425,
+Last scrape run (AEST),29 May 2026  12:16,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,295,
 New entries this run,0,
-Changed entries this run,2,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,15 +13,12 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-,Last Modified Accc,2026-05-28T17:38:44+10:00  →  2026-05-29T09:09:40+10:00
-,,
-~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
-,Acquirers,Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142; Mastercard International I  →  Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard In
-,Last Modified Accc,2026-05-18T12:10:32+10:00  →  2026-05-25T16:32:26+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h
-,Consultation Docs,"[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May 2026', 'url': 'http  →  "
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
+,End Of Determination Period,11 Jun 2026  →  17 Jun 2026
+,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Shane Webb Nominees Pty Ltd in its capacity at the truste  →  AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley
+,Last Modified Accc,2026-05-07T11:13:45+10:00  →  2026-05-29T11:31:57+10:00
+,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -53,7 +50,7 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Impression Dental Group - Coastal Dental Care,MN-90015,28 May  22:50
 "+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,28 May  22:50
 ,,
-"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (18 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
 ,Other Parties,The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Tr  →  Perpetual Corporate Trust Limited (as trustee for Volt Managed Investment Trust   (22 May  20:30)
 ,Last Modified Accc,2026-05-19T14:54:35+10:00  →  2026-05-22T15:14:09+10:00  (22 May  20:30)
@@ -153,4 +150,13 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-13T16:34:20+10:00  →  2026-05-28T16:41:20+10:00  (28 May  22:50)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (28 May  22:50)
 ,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determin  (28 May  22:50)"
+,,
+~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+,Last Modified Accc,2026-05-28T17:38:44+10:00  →  2026-05-29T09:09:40+10:00  (29 May  10:46)
+,,
+~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
+,Acquirers,Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142; Master  →  Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 171  (29 May  10:46)
+,Last Modified Accc,2026-05-18T12:10:32+10:00  →  2026-05-25T16:32:26+10:00  (29 May  10:46)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submission or information in response to the ACCC's Pha  (29 May  10:46)
+,Consultation Docs,"[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May  →    (29 May  10:46)"
 ,,

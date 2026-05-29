@@ -17667,5 +17667,34 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-05-29T02:16:44.459425Z",
+    "slug": "fulton-hogan-%E2%80%93-avionics",
+    "title": "Fulton Hogan – Avionics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "11 Jun 2026",
+        "new": "17 Jun 2026"
+      },
+      {
+        "field": "targets",
+        "old": "AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883; Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605",
+        "new": "AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-07T11:13:45+10:00",
+        "new": "2026-05-29T11:31:57+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]
