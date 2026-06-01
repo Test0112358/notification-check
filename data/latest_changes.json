@@ -1,93 +1,86 @@
 {
-  "run_utc": "2026-05-29T12:28:16.772914Z",
-  "new_count": 2,
-  "changed_count": 3,
+  "run_utc": "2026-06-01T19:30:46.769174Z",
+  "new_count": 4,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "sydney-water-windsor-sewerage-scheme-assets",
-      "title": "Sydney Water - Windsor Sewerage Scheme Assets",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sydney-water-windsor-sewerage-scheme-assets"
+      "slug": "respect-group-jallarah-homes",
+      "title": "Respect Group - Jallarah Homes",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/respect-group-jallarah-homes"
     },
     {
-      "slug": "turkish-airlines-air-europa",
-      "title": "Turkish Airlines - Air Europa",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turkish-airlines-air-europa"
+      "slug": "tinicum-and-blackstone-led-consortium-%E2%80%93-senior",
+      "title": "Tinicum and Blackstone led consortium – Senior",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tinicum-and-blackstone-led-consortium-%E2%80%93-senior"
+    },
+    {
+      "slug": "up-education-%E2%80%93-australian-academy-of-beauty-dermal-laser",
+      "title": "UP Education – Australian Academy of Beauty Dermal & Laser",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/up-education-%E2%80%93-australian-academy-of-beauty-dermal-laser"
+    },
+    {
+      "slug": "oracle-%E2%80%93-leasehold-interest-in-airtrunk-data-centre",
+      "title": "Oracle – Leasehold interest in AirTrunk data centre",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oracle-%E2%80%93-leasehold-interest-in-airtrunk-data-centre"
     }
   ],
   "changed_entries": [
     {
-      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "13 Jul 2026",
-          "new": "3 Aug 2026"
-        },
-        {
-          "field": "targets",
-          "old": "MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699",
-          "new": "MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-05-28T17:30:09+10:00",
-          "new": "2026-05-29T14:31:38+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]"
-        }
-      ]
-    },
-    {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+      "slug": "logic-technologies-ace-communication-distributors",
+      "title": "Logic Technologies - Ace Communication Distributors",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
       "changes": [
         {
           "field": "acquirers",
-          "old": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498",
-          "new": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187"
+          "old": "LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084; CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090",
+          "new": "CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090; LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-22T11:11:20+10:00",
-          "new": "2026-05-29T15:05:45+10:00"
+          "old": "2026-05-22T11:54:00+10:00",
+          "new": "2026-06-01T10:01:15+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 May 2026 via email to mergers@accc.gov.au with the title Submission re: Black Rhino - Club Hotel Motel Roma The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 May 2026 Black Rhino - Club Hotel Motel Roma - Questionnaire Attachment 120.9 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 May 2026 via email to mergers@accc.gov.au with the title Submission re: Logic Technologies – Ace Communication Distributors. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 May 2026 Questionnaire - Logic Technologies - Ace Communication Distributors Attachment 116.08 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '21 May 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Club%20Hotel%20Roma%20-%203rd%20party%20questionnaire.docx'}]",
+          "old": "[{'date': '22 May 2026', 'description': 'Questionnaire - Logic Technologies - Ace Communication Distributors', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Logic%20Technologies%20-%20Ace%20Communication%20Distributors%20-%20Questionnaire%20-%20May%202026.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "opal-healthcare-bethel-aged-care",
-      "title": "Opal HealthCare - Bethel Aged Care",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+      "slug": "stonepeak-%E2%80%93-castrol",
+      "title": "Stonepeak – Castrol",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
       "changes": [
         {
+          "field": "acquirers",
+          "old": "CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 16910312",
+          "new": "Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 16910312; CPP Investment Board Private Holdings (6) Inc; CBN - 764228300"
+        },
+        {
+          "field": "other_parties",
+          "old": "Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c; UKCRN - 00102498",
+          "new": "BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-05-21T13:24:24+10:00",
-          "new": "2026-05-29T12:31:12+10:00"
+          "old": "2026-05-25T16:22:24+10:00",
+          "new": "2026-06-01T14:38:26+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by 28 May 2026 via email to mergers@accc.gov.au with the title Submission re: Opal Healthcare - Bethel Aged Care. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 May 2026 Questionnaire - Opal Healthcare - Bethel Aged Care Attachment 111.02 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 1 June 2026 via email to mergers@accc.gov.au with the title Submission re: Stonepeak - Castrol. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 25 May 2026 Questionnaire - Stonepeak - Castrol Attachment 116.24 KB",
+          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '21 May 2026', 'description': 'Questionnaire - Opal Healthcare - Bethel Aged Care', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Opal%20Healthcare%20-%20Bethel%20Aged%20Care_0.docx'}]",
+          "old": "[{'date': '25 May 2026', 'description': 'Questionnaire - Stonepeak - Castrol', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak_Castrol%20-%20Third%20Party%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
