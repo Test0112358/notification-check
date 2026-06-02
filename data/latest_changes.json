@@ -1,87 +1,92 @@
 {
-  "run_utc": "2026-06-01T19:30:46.769174Z",
-  "new_count": 4,
+  "run_utc": "2026-06-02T13:00:10.447674Z",
+  "new_count": 6,
   "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "respect-group-jallarah-homes",
-      "title": "Respect Group - Jallarah Homes",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/respect-group-jallarah-homes"
+      "slug": "kk-group-invest-powercon",
+      "title": "KK Group Invest - PowerCon",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon"
     },
     {
-      "slug": "tinicum-and-blackstone-led-consortium-%E2%80%93-senior",
-      "title": "Tinicum and Blackstone led consortium – Senior",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tinicum-and-blackstone-led-consortium-%E2%80%93-senior"
+      "slug": "direct-couriers-%E2%80%93-phoenix-transport",
+      "title": "Direct Couriers – Phoenix Transport",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/direct-couriers-%E2%80%93-phoenix-transport"
     },
     {
-      "slug": "up-education-%E2%80%93-australian-academy-of-beauty-dermal-laser",
-      "title": "UP Education – Australian Academy of Beauty Dermal & Laser",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/up-education-%E2%80%93-australian-academy-of-beauty-dermal-laser"
+      "slug": "soilco-go-grow",
+      "title": "SOILCO - Go Grow",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/soilco-go-grow"
     },
     {
-      "slug": "oracle-%E2%80%93-leasehold-interest-in-airtrunk-data-centre",
-      "title": "Oracle – Leasehold interest in AirTrunk data centre",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oracle-%E2%80%93-leasehold-interest-in-airtrunk-data-centre"
+      "slug": "star-hotels-group-shafston-hotel-qld",
+      "title": "Star Hotels Group - Shafston Hotel, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-shafston-hotel-qld"
+    },
+    {
+      "slug": "aub-%E2%80%93-further-interest-in-kj-risk",
+      "title": "AUB – further interest in KJ Risk",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aub-%E2%80%93-further-interest-in-kj-risk"
+    },
+    {
+      "slug": "prime-asia-%E2%80%93-stockland-sienna-wood-and-providence",
+      "title": "PRIME Asia – Stockland Sienna Wood and Providence",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-asia-%E2%80%93-stockland-sienna-wood-and-providence"
     }
   ],
   "changed_entries": [
     {
-      "slug": "logic-technologies-ace-communication-distributors",
-      "title": "Logic Technologies - Ace Communication Distributors",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+      "slug": "endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+      "title": "Endeavour Group – retail liquor store in Muswellbrook (NSW)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084; CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090",
-          "new": "CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090; LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-05-22T11:54:00+10:00",
-          "new": "2026-06-01T10:01:15+10:00"
+          "old": "2026-05-25T16:51:04+10:00",
+          "new": "2026-06-02T16:25:01+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 May 2026 via email to mergers@accc.gov.au with the title Submission re: Logic Technologies – Ace Communication Distributors. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 May 2026 Questionnaire - Logic Technologies - Ace Communication Distributors Attachment 116.08 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 June 2026 via email to mergers@accc.gov.au with the title Submission re: Endeavour Group – retail liquor store in Muswellbrook (NSW). The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 25 May 2026 Questionnaire Attachment 110.15 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '22 May 2026', 'description': 'Questionnaire - Logic Technologies - Ace Communication Distributors', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Logic%20Technologies%20-%20Ace%20Communication%20Distributors%20-%20Questionnaire%20-%20May%202026.docx'}]",
+          "old": "[{'date': '25 May 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20-%20retail%20liquor%20store%20in%20Muswellbrook%20%28NSW%29%20-%20Questionnaire%20-%2025%20May%202026_2.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "stonepeak-%E2%80%93-castrol",
-      "title": "Stonepeak – Castrol",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+      "slug": "peter-warren-wakeling-automotive",
+      "title": "Peter Warren - Wakeling Automotive",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 16910312",
-          "new": "Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 16910312; CPP Investment Board Private Holdings (6) Inc; CBN - 764228300"
+          "field": "end_of_determination_period",
+          "old": "2 Jun 2026",
+          "new": "9 Oct 2026"
         },
         {
-          "field": "other_parties",
-          "old": "Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c; UKCRN - 00102498",
-          "new": "BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware"
+          "field": "targets",
+          "old": "HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768",
+          "new": "WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Wakeling South Coast Pty Ltd; 636 298 970"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-25T16:22:24+10:00",
-          "new": "2026-06-01T14:38:26+10:00"
+          "old": "2026-04-07T15:03:09+10:00",
+          "new": "2026-06-02T17:16:13+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 1 June 2026 via email to mergers@accc.gov.au with the title Submission re: Stonepeak - Castrol. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 25 May 2026 Questionnaire - Stonepeak - Castrol Attachment 116.24 KB",
-          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": "The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC invites submissions from interested parties on the matters that the ACCC intends to investigate further as outlined in the boxes in the Phase 2 Notice and any other relevant matters. Submissions should be provided by 5 PM AEST on Tuesday, 16 June 2026 via email to mergers@accc.gov.au with the title Submission re: Peter Warren – Wakeling Automotive. read more"
         },
         {
-          "field": "consultation_docs",
-          "old": "[{'date': '25 May 2026', 'description': 'Questionnaire - Stonepeak - Castrol', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak_Castrol%20-%20Third%20Party%20Questionnaire.docx'}]",
-          "new": ""
+          "field": "decisions_docs",
+          "old": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}]",
+          "new": "[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026.pdf'}, {'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}]"
         }
       ]
     }

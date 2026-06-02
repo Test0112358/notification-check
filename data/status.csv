@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-01 19:30:46.769174,
-Last scrape run (AEST),02 Jun 2026  05:30,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-02 13:00:10.447674,
+Last scrape run (AEST),02 Jun 2026  23:00,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,301,
-New entries this run,4,
+Total entries monitored,307,
+New entries this run,6,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,30 +13,31 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Respect Group - Jallarah Homes,WA-35020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/respect-group-jallarah-homes
-+ Tinicum and Blackstone led consortium – Senior,WA-30018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tinicum-and-blackstone-led-consortium-%E2%80%93-senior
-+ UP Education – Australian Academy of Beauty Dermal & Laser,WA-85030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/up-education-%E2%80%93-australian-academy-of-beauty-dermal-laser
-+ Oracle – Leasehold interest in AirTrunk data centre,WA-50016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oracle-%E2%80%93-leasehold-interest-in-airtrunk-data-centre
+NEW ENTRIES (6),Case Number,URL
++ KK Group Invest - PowerCon,WA-20024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon
++ Direct Couriers – Phoenix Transport,WA-80017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/direct-couriers-%E2%80%93-phoenix-transport
++ SOILCO - Go Grow,WA-80018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/soilco-go-grow
+"+ Star Hotels Group - Shafston Hotel, QLD",WA-80015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-shafston-hotel-qld
++ AUB – further interest in KJ Risk,WA-40023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aub-%E2%80%93-further-interest-in-kj-risk
++ PRIME Asia – Stockland Sienna Wood and Providence,WA-20022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-asia-%E2%80%93-stockland-sienna-wood-and-providence
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
-,Acquirers,LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084; CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090  →  CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090; LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084
-,Last Modified Accc,2026-05-22T11:54:00+10:00  →  2026-06-01T10:01:15+10:00
+~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
+,Last Modified Accc,2026-05-25T16:51:04+10:00  →  2026-06-02T16:25:01+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '22 May 2026', 'description': 'Questionnaire - Logic Technologies - Ace Communication Dist  →  "
+,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
 ,,
-~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
-,Acquirers,CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limited; Company Identif  →  Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 1691031
-,Other Parties,Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c; UKCRN - 00102498  →  BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware
-,Last Modified Accc,2026-05-25T16:22:24+10:00  →  2026-06-01T14:38:26+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Stonepeak - Castrol', 'url': 'https://www.a  →  "
+~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
+,End Of Determination Period,2 Jun 2026  →  9 Oct 2026
+,Targets,HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Wakeling South C  →  WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYN
+,Last Modified Accc,2026-04-07T15:03:09+10:00  →  2026-06-02T17:16:13+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2 
+,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by  →  [{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url':"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (13),Case Number,Detected (AEST)
+NEW ENTRIES (17),Case Number,Detected (AEST)
 + Allegro - Fantastic Furniture,WA-55019,27 May  10:03
 + Wipro - Indeco,WA-35016,27 May  10:03
 + Henkel – Olaplex,MN-80016,27 May  10:35
@@ -50,8 +51,12 @@ NEW ENTRIES (13),Case Number,Detected (AEST)
 "+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,28 May  22:50
 + Sydney Water - Windsor Sewerage Scheme Assets,WA-80013,29 May  22:28
 + Turkish Airlines - Air Europa,WA-90016,29 May  22:28
++ Respect Group - Jallarah Homes,WA-35020,02 Jun  05:30
++ Tinicum and Blackstone led consortium – Senior,WA-30018,02 Jun  05:30
++ UP Education – Australian Academy of Beauty Dermal & Laser,WA-85030,02 Jun  05:30
++ Oracle – Leasehold interest in AirTrunk data centre,WA-50016,02 Jun  05:30
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
 ,Other Parties,Restaurant Brands Australia Holdings Pty Ltd; 53 611 058 701; Collins Restaurant  →  Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 2  (27 May  10:03)
 ,Last Modified Accc,2026-05-19T09:54:48+10:00  →  2026-05-26T15:38:28+10:00  (27 May  10:03)
@@ -156,4 +161,17 @@ NEW ENTRIES (13),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-21T13:24:24+10:00  →  2026-05-29T12:31:12+10:00  (29 May  22:28)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 May  22:28)
 ,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire - Opal Healthcare - Bethe  →    (29 May  22:28)"
+,,
+~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
+,Acquirers,LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084; CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 1  →  CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090; LOGIC TECHNOLOGIES PTY LTD; 25 0  (02 Jun  05:30)
+,Last Modified Accc,2026-05-22T11:54:00+10:00  →  2026-06-01T10:01:15+10:00  (02 Jun  05:30)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (02 Jun  05:30)
+,Consultation Docs,"[{'date': '22 May 2026', 'description': 'Questionnaire - Logic Technologies - Ac  →    (02 Jun  05:30)"
+,,
+~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
+,Acquirers,CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limi  →  Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limi  (02 Jun  05:30)
+,Other Parties,Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c;   →  BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 49  (02 Jun  05:30)
+,Last Modified Accc,2026-05-25T16:22:24+10:00  →  2026-06-01T14:38:26+10:00  (02 Jun  05:30)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (02 Jun  05:30)
+,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Stonepeak - Castrol', '  →    (02 Jun  05:30)"
 ,,
