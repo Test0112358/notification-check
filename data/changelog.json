@@ -17995,5 +17995,168 @@
         "new": "[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026.pdf'}, {'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "precision-poultry-voag-chicken-farming-operations",
+    "title": "Precision Poultry - VOAG chicken farming operations",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+    "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "sony-music-recognition-music",
+    "title": "Sony Music - Recognition Music",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
+    "title": "Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "henkel-%E2%80%93-olaplex",
+    "title": "Henkel – Olaplex",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent International, L.P.; Delaware registration number: 204418; Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679)",
+        "new": "Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679); Advent International, L.P.; Delaware registration number: 204418; Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163)"
+      },
+      {
+        "field": "other_parties",
+        "old": "Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Australia Pty Ltd; 82 001 302 996; Henkel Global Supply Chain B.V.; Netherlands registration number (KVK): 854017447; CCI 60683945; Platina Cosméticos Ltda (dba Skala); Brazil registration number: 66.288.002/0001-36; Henkel Ireland Distribution Limited; Ireland registration number: 430837; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany registration number (HRB): 35906; Henkel AG & Co. KGaA; Germany registration number (HRB): 4724; Henkel Finance Australia L.P.; 15 740 196 765; L.N.C. (dba Parfums de Marly, now known as Artessence); France registration number (SIREN): 511 248 981",
+        "new": "Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany registration number (HRB): 35906; Henkel Global Supply Chain B.V.; Netherlands registration number (KVK): 854017447; CCI 60683945; Henkel AG & Co. KGaA; Germany registration number (HRB): 4724; Platina Cosméticos Ltda (dba Skala); Brazil registration number: 66.288.002/0001-36; Henkel Ireland Distribution Limited; Ireland registration number: 430837; Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Finance Australia L.P.; 15 740 196 765; L.N.C. (dba Parfums de Marly, now known as Artessence); France registration number (SIREN): 511 248 981"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-27T10:09:42+10:00",
+        "new": "2026-06-03T10:43:33+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 3 June 2026 via email to mergers@accc.gov.au with the title Submission re: Henkel – Olaplex. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 27 May 2026 Henkel - Olaplex - Questionnaire Attachment 116.13 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '27 May 2026', 'description': 'Henkel - Olaplex - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Henkel%20-%20Olaplex%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "zurich-beazley",
+    "title": "Zurich - Beazley",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Zurich Assure Australia Pty Ltd; Zurich Financial Services Australia Limited; Insite Holdings Pty Limited; Zurich Services (Australia) Pty Ltd; OnePath General Insurance Pty Ltd; Cover-More Group; Zurich Australia Insurance Limited; Zurich Finance (Australia) Limited; Zurich Australia Insurance Properties Pty Ltd; Zurich Australia Limited; Zurich Australian Property Holdings Pty Limited",
+        "new": "Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services Australia Limited; Zurich Services (Australia) Pty Ltd; OnePath General Insurance Pty Ltd; Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Properties Pty Ltd; Insite Holdings Pty Limited; Zurich Australian Property Holdings Pty Limited; Zurich Australia Limited; Zurich Finance (Australia) Limited"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-25T16:56:33+10:00",
+        "new": "2026-06-03T09:52:59+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 June 2026 via email to mergers@accc.gov.au with the title Submission re: Zurich - Beazley. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Zurich - Beazley - Questionnaire Attachment 116.04 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "peter-warren-wakeling-automotive",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "stage",
+        "old": "Phase 1 - initial assessment",
+        "new": "Phase 2 - detailed assessment"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "9 Oct 2026",
+        "new": "8 Oct 2026"
+      },
+      {
+        "field": "targets",
+        "old": "WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Wakeling South Coast Pty Ltd; 636 298 970",
+        "new": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-02T17:16:13+10:00",
+        "new": "2026-06-03T16:39:04+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026.pdf'}, {'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}, {'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026_0.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:10:05.032859Z",
+    "slug": "ampol-%E2%80%93-eg-australia",
+    "title": "Ampol – EG Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "5 Jun 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved with conditions"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-01T13:27:04+10:00",
+        "new": "2026-06-03T18:57:32+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 retail fuel and convenience sites in areas across Australia in the form of an undertaking pursuant to s87B of the Compet On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 retail fuel and convenience sites in areas across Australia in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth). This offer includes divestiture of four additional sites compared to Ampol’s remedy offer of 7 April 2026. The period for providing submissions or information in response to Ampol's further remedy offer has closed. read more",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_5.pdf'}, {'date': '20 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_4.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}]",
+        "new": "[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_2.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_5.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_0.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_0.pdf'}]"
+      }
+    ]
   }
 ]

@@ -1,5 +1,42 @@
 {
-  "run_utc": "2026-06-02T13:00:10.447674Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-06-03T18:10:05.032859Z",
+  "questionnaire_count": 3,
+  "questionnaires": [
+    {
+      "slug": "precision-poultry-voag-chicken-farming-operations",
+      "title": "Precision Poultry - VOAG chicken farming operations",
+      "case_number": "MN-35019",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
+      "date": "3 Jun 2026",
+      "description": "Questionnaire - Precision Poultry - VOAG chicken farming operations",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Precision%20Poultry%20-%20VOAG%20-%20Questionnaire_0.docx",
+      "local_path": "data/consultation_docs/Precision Poultry - VOAG - Questionnaire_0.docx",
+      "filename": "Precision Poultry - VOAG - Questionnaire_0.docx",
+      "size_kb": 110.4
+    },
+    {
+      "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+      "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
+      "case_number": "MN-70020",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+      "date": "3 Jun 2026",
+      "description": "Questionnaire - CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20CVS%20Group%20%E2%80%93%20Paws%20at%20Prospect%20Vet%20and%20Eyes%20at%20Prospect%20Vet.docx",
+      "local_path": "data/consultation_docs/Questionnaire - CVS Group _ Paws at Prospect Vet and Eyes at Prospect Vet.docx",
+      "filename": "Questionnaire - CVS Group _ Paws at Prospect Vet and Eyes at Prospect Vet.docx",
+      "size_kb": 116.6
+    },
+    {
+      "slug": "sony-music-recognition-music",
+      "title": "Sony Music - Recognition Music",
+      "case_number": "MN-20023",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music",
+      "date": "3 Jun 2026",
+      "description": "Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Recognition%20Music%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Recognition Music - Questionnaire.docx",
+      "filename": "Recognition Music - Questionnaire.docx",
+      "size_kb": 106.9
+    }
+  ]
 }

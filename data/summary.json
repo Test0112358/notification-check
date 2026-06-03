@@ -1,47 +1,42 @@
 {
-  "generated_at_utc": "2026-06-02T13:12:13.465043Z",
-  "total_entries": 307,
+  "generated_at_utc": "2026-06-03T18:22:00.715248Z",
+  "total_entries": 311,
   "by_acquisition_status": {
-    "Under assessment": 43,
-    "Assessment completed": 264
+    "Under assessment": 45,
+    "Assessment completed": 266
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 119,
-    "Waiver application": 184,
-    "Phase 2 - detailed assessment": 4
+    "Phase 1 - initial assessment": 121,
+    "Waiver application": 185,
+    "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 123,
-    "Waiver": 184
+    "Notification": 126,
+    "Waiver": 185
   },
   "by_accc_determination": {
-    "Approved": 251,
-    "Not approved": 13
+    "Approved": 252,
+    "Not approved": 13,
+    "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "ampol-%E2%80%93-eg-australia",
-      "title": "Ampol – EG Australia",
-      "end_of_determination_period": "5 Jun 2026",
-      "days_remaining": 3
-    },
     {
       "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
       "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
       "end_of_determination_period": "10 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
       "title": "Barro Group / BQC Quarries and Burdekin Concrete",
       "end_of_determination_period": "11 Jun 2026",
-      "days_remaining": 9
+      "days_remaining": 8
     },
     {
       "slug": "paramount-skydance-warner-bros-discovery",
       "title": "Paramount Skydance / Warner Bros. Discovery",
       "end_of_determination_period": "12 Jun 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }

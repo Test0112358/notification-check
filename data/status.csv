@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-02 13:00:10.447674,
-Last scrape run (AEST),02 Jun 2026  23:00,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-03 18:10:05.032859,
+Last scrape run (AEST),04 Jun 2026  04:10,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,307,
-New entries this run,6,
-Changed entries this run,2,
+Total entries monitored,311,
+New entries this run,4,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,39 +13,44 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (6),Case Number,URL
-+ KK Group Invest - PowerCon,WA-20024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon
-+ Direct Couriers – Phoenix Transport,WA-80017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/direct-couriers-%E2%80%93-phoenix-transport
-+ SOILCO - Go Grow,WA-80018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/soilco-go-grow
-"+ Star Hotels Group - Shafston Hotel, QLD",WA-80015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/star-hotels-group-shafston-hotel-qld
-+ AUB – further interest in KJ Risk,WA-40023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aub-%E2%80%93-further-interest-in-kj-risk
-+ PRIME Asia – Stockland Sienna Wood and Providence,WA-20022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-asia-%E2%80%93-stockland-sienna-wood-and-providence
+NEW ENTRIES (4),Case Number,URL
++ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
++ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
++ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
++ Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition,WA-60020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
-,Last Modified Accc,2026-05-25T16:51:04+10:00  →  2026-06-02T16:25:01+10:00
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
+,Targets,"Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent International, L.P.;   →  Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679); Advent Internationa"
+,Other Parties,Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Australia Pty Ltd;  →  Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany re
+,Last Modified Accc,2026-05-27T10:09:42+10:00  →  2026-06-03T10:43:33+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
+,Consultation Docs,"[{'date': '27 May 2026', 'description': 'Henkel - Olaplex - Questionnaire', 'url': 'https://www.accc  →  "
+,,
+~ Zurich - Beazley,MN-30016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley
+,Other Parties,Zurich Assure Australia Pty Ltd; Zurich Financial Services Australia Limited; Insite Holdings Pty Li  →  Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services Australia Limited; Z
+,Last Modified Accc,2026-05-25T16:56:33+10:00  →  2026-06-03T09:52:59+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
 ,,
 ~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
-,End Of Determination Period,2 Jun 2026  →  9 Oct 2026
-,Targets,HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Wakeling South C  →  WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYN
-,Last Modified Accc,2026-04-07T15:03:09+10:00  →  2026-06-02T17:16:13+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2 
-,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by  →  [{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url':"
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment
+,End Of Determination Period,9 Oct 2026  →  8 Oct 2026
+,Targets,WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYN  →  WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess
+,Last Modified Accc,2026-06-02T17:16:13+10:00  →  2026-06-03T16:39:04+10:00
+,Decisions Docs,"[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url':  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by"
+,,
+~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,5 Jun 2026  →  
+,Accc Determination,  →  Approved with conditions
+,Last Modified Accc,2026-05-01T13:27:04+10:00  →  2026-06-03T18:57:32+10:00
+,Consultation Text,"On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 retail fuel and conveni  →  "
+,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://  →  [{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Allegro - Fantastic Furniture,WA-55019,27 May  10:03
-+ Wipro - Indeco,WA-35016,27 May  10:03
-+ Henkel – Olaplex,MN-80016,27 May  10:35
-+ Smile Partners Australia – Mehta Orthodontics,MN-05014,28 May  03:45
-+ BGIS - Safe Fire Electrical,WA-55020,28 May  03:45
-+ URUS (CVC Capital Partners) – AgriWebb,WA-30015,28 May  03:45
-+ IK Partners - Selatek,WA-20019,28 May  03:45
-+ Saipem - Subsea7,MN-01072,28 May  03:45
+NEW ENTRIES (15),Case Number,Detected (AEST)
 + Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,28 May  22:50
 + Impression Dental Group - Coastal Dental Care,MN-90015,28 May  22:50
 "+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,28 May  22:50
@@ -55,52 +60,14 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Tinicum and Blackstone led consortium – Senior,WA-30018,02 Jun  05:30
 + UP Education – Australian Academy of Beauty Dermal & Laser,WA-85030,02 Jun  05:30
 + Oracle – Leasehold interest in AirTrunk data centre,WA-50016,02 Jun  05:30
++ KK Group Invest - PowerCon,WA-20024,02 Jun  23:00
++ Direct Couriers – Phoenix Transport,WA-80017,02 Jun  23:00
++ SOILCO - Go Grow,WA-80018,02 Jun  23:00
+"+ Star Hotels Group - Shafston Hotel, QLD",WA-80015,02 Jun  23:00
++ AUB – further interest in KJ Risk,WA-40023,02 Jun  23:00
++ PRIME Asia – Stockland Sienna Wood and Providence,WA-20022,02 Jun  23:00
 ,,
-"CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
-~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
-,Other Parties,Restaurant Brands Australia Holdings Pty Ltd; 53 611 058 701; Collins Restaurant  →  Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 2  (27 May  10:03)
-,Last Modified Accc,2026-05-19T09:54:48+10:00  →  2026-05-26T15:38:28+10:00  (27 May  10:03)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (27 May  10:03)
-,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Restaurant Brands and Yum Brands - Taco  →    (27 May  10:03)"
-,,
-~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
-,Other Parties,Kang Acquisition Corporation; Shareholder Representative Services LLC  →  Shareholder Representative Services LLC; Kang Acquisition Corporation  (27 May  10:03)
-,Last Modified Accc,2026-05-19T11:00:45+10:00  →  2026-05-27T09:27:53+10:00  (27 May  10:03)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (27 May  10:03)
-,Consultation Docs,"[{'date': '19 May 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - thir  →    (27 May  10:03)"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,End Of Determination Period,10 Jun 2026  →  25 Jun 2026  (27 May  10:03)
-,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  →  N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.;  (27 May  10:03)
-,Anzsic Codes,6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic   →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   (27 May  10:03)
-,Last Modified Accc,2026-05-04T14:31:13+10:00  →  2026-05-26T16:57:51+10:00  (27 May  10:03)
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (27 May  10:03)"
-,,
-~ Eli Lilly - Orna Therapeutics,MN-20013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-orna-therapeutics
-,Title,Eli Lilly / Orna Therapeutics  →  Eli Lilly - Orna Therapeutics  (27 May  10:03)
-,Last Modified Accc,2026-05-04T10:46:40+10:00  →  2026-05-26T11:40:37+10:00  (27 May  10:03)
-,,
-~ eBay - Depop,MN-45002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebay-depop
-,Title,eBay / Depop  →  eBay - Depop  (27 May  10:03)
-,Other Parties,eBay Marketplaces GmbH; Swiss Enterprise Identification Number - CHE205764206; E  →  EBAY COMMERCE AUSTRALIA PTY LTD; 62 634 460 969; EBAY AUSTRALIA AND NEW ZEALAND   (27 May  10:03)
-,Last Modified Accc,2026-05-12T15:10:01+10:00  →  2026-05-26T12:04:01+10:00  (27 May  10:03)
-,,
-"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,End Of Determination Period,26 Jun 2026  →  2 Jul 2026  (27 May  10:03)
-,Last Modified Accc,2026-05-20T09:09:07+10:00  →  2026-05-26T17:27:32+10:00  (27 May  10:03)
-,Decisions Docs,"[{'date': '18 May 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days –   (27 May  10:03)"
-,,
-~ Saipem - Subsea7,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
-,Title,Saipem S.p.A / Subsea7 S.A.  →  Saipem - Subsea7  (27 May  13:41)
-,End Of Determination Period,10 Jun 2026  →  6 Jul 2026  (27 May  13:41)
-,Last Modified Accc,2026-05-04T16:08:19+10:00  →  2026-05-27T13:26:06+10:00  (27 May  13:41)
-,Decisions Docs,"  →  [{'date': '27 May 2026', 'description': 'Timeline extended by 18 business days –  (27 May  13:41)"
-,,
-~ Magellan Financial Group - Barrenjoey,MN-95007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey
-,Last Modified Accc,2026-05-20T09:27:53+10:00  →  2026-05-27T16:17:13+10:00  (28 May  03:45)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  03:45)
-,Consultation Docs,"[{'date': '20 May 2026', 'description': 'Magellan Financial Group - Barrenjoey -  →    (28 May  03:45)"
-,,
+"CHANGED ENTRIES (14 entries, 14 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
 ,Acquirers,Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apollo Investment Holdings LL  →  OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 09  (28 May  11:23)
 ,Last Modified Accc,2026-05-20T16:18:53+10:00  →  2026-05-28T09:14:09+10:00  (28 May  11:23)
@@ -174,4 +141,16 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-25T16:22:24+10:00  →  2026-06-01T14:38:26+10:00  (02 Jun  05:30)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (02 Jun  05:30)
 ,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Stonepeak - Castrol', '  →    (02 Jun  05:30)"
+,,
+~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
+,Last Modified Accc,2026-05-25T16:51:04+10:00  →  2026-06-02T16:25:01+10:00  (02 Jun  23:00)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (02 Jun  23:00)
+,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (02 Jun  23:00)"
+,,
+~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
+,End Of Determination Period,2 Jun 2026  →  9 Oct 2026  (02 Jun  23:00)
+,Targets,HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 5  →  WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 16  (02 Jun  23:00)
+,Last Modified Accc,2026-04-07T15:03:09+10:00  →  2026-06-02T17:16:13+10:00  (02 Jun  23:00)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →  The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has   (02 Jun  23:00)
+,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   →  [{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  (02 Jun  23:00)"
 ,,
