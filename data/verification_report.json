@@ -12,6 +12,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "ampol-%E2%80%93-eg-australia",
+    "title": "Ampol – EG Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "asahi-%E2%80%93-warehouse-site-on-tilburn-rd-deer-park-vic",
     "title": "Asahi – Warehouse site on Tilburn Rd, Deer Park (Vic)",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/asahi-%E2%80%93-warehouse-site-on-tilburn-rd-deer-park-vic",
@@ -22,18 +34,6 @@
     "field": "anzsic_codes",
     "stored_value": "121 Beverage Manufacturing; 67 Property Operators and Real Estate Services",
     "expected_or_found": "at least one 4-digit code"
-  },
-  {
-    "slug": "saipem-spa-subsea7-sa",
-    "title": "Saipem - Subsea7",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
   },
   {
     "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
@@ -48,9 +48,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
-    "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem - Subsea7",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -60,9 +60,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "cvc-capital-partners-%E2%80%93-marathon-asset-management",
-    "title": "CVC Capital Partners – Marathon Asset Management",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-marathon-asset-management",
+    "slug": "turkish-airlines-air-europa",
+    "title": "Turkish Airlines - Air Europa",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turkish-airlines-air-europa",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
