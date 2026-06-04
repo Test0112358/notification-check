@@ -1,121 +1,119 @@
 {
-  "run_utc": "2026-06-03T18:10:05.032859Z",
-  "new_count": 4,
-  "changed_count": 4,
+  "run_utc": "2026-06-04T11:37:07.812476Z",
+  "new_count": 11,
+  "changed_count": 6,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "precision-poultry-voag-chicken-farming-operations",
-      "title": "Precision Poultry - VOAG chicken farming operations",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations"
+      "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+      "title": "Coles – supermarket site in Lidcombe (NSW)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw"
     },
     {
-      "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
-      "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet"
+      "slug": "anz-banking-group-worldline-australia",
+      "title": "ANZ Banking Group - Worldline Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia"
     },
     {
-      "slug": "sony-music-recognition-music",
-      "title": "Sony Music - Recognition Music",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music"
+      "slug": "anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+      "title": "ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool"
     },
     {
-      "slug": "metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
-      "title": "Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition"
+      "slug": "vets-central-claremont-veterinary-surgery",
+      "title": "Vets Central - Claremont Veterinary Surgery",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-claremont-veterinary-surgery"
+    },
+    {
+      "slug": "kfw-%E2%80%93-knds-nv",
+      "title": "KfW – KNDS N.V.",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv"
+    },
+    {
+      "slug": "grant-thornton-advisors-grant-thornton-australia",
+      "title": "Grant Thornton Advisors - Grant Thornton Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/grant-thornton-advisors-grant-thornton-australia"
+    },
+    {
+      "slug": "buss-queensland-%E2%80%93-additional-interest-in-duxton-vineyards",
+      "title": "BUSS Queensland – Additional interest in Duxton Vineyards",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/buss-queensland-%E2%80%93-additional-interest-in-duxton-vineyards"
+    },
+    {
+      "slug": "apollo-capital-management-%E2%80%93-questex-holdings-group",
+      "title": "Apollo Capital Management – Questex Holdings Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-management-%E2%80%93-questex-holdings-group"
+    },
+    {
+      "slug": "laundy-%E2%80%93-woy-woy-hotel",
+      "title": "Laundy – Woy Woy Hotel",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel"
+    },
+    {
+      "slug": "inpex-%E2%80%93-minority-interests-in-beetaloo-development-projects",
+      "title": "INPEX – minority interests in Beetaloo development projects",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/inpex-%E2%80%93-minority-interests-in-beetaloo-development-projects"
+    },
+    {
+      "slug": "ochre-health-airlie-womens-clinic-vic",
+      "title": "Ochre Health - Airlie Women's Clinic, VIC",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-airlie-womens-clinic-vic"
     }
   ],
   "changed_entries": [
     {
-      "slug": "henkel-%E2%80%93-olaplex",
-      "title": "Henkel – Olaplex",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
+      "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
+      "title": "Smile Partners Australia – Mehta Orthodontics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
       "changes": [
         {
-          "field": "targets",
-          "old": "Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent International, L.P.; Delaware registration number: 204418; Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679)",
-          "new": "Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679); Advent International, L.P.; Delaware registration number: 204418; Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163)"
-        },
-        {
           "field": "other_parties",
-          "old": "Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Australia Pty Ltd; 82 001 302 996; Henkel Global Supply Chain B.V.; Netherlands registration number (KVK): 854017447; CCI 60683945; Platina Cosméticos Ltda (dba Skala); Brazil registration number: 66.288.002/0001-36; Henkel Ireland Distribution Limited; Ireland registration number: 430837; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany registration number (HRB): 35906; Henkel AG & Co. KGaA; Germany registration number (HRB): 4724; Henkel Finance Australia L.P.; 15 740 196 765; L.N.C. (dba Parfums de Marly, now known as Artessence); France registration number (SIREN): 511 248 981",
-          "new": "Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany registration number (HRB): 35906; Henkel Global Supply Chain B.V.; Netherlands registration number (KVK): 854017447; CCI 60683945; Henkel AG & Co. KGaA; Germany registration number (HRB): 4724; Platina Cosméticos Ltda (dba Skala); Brazil registration number: 66.288.002/0001-36; Henkel Ireland Distribution Limited; Ireland registration number: 430837; Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Finance Australia L.P.; 15 740 196 765; L.N.C. (dba Parfums de Marly, now known as Artessence); France registration number (SIREN): 511 248 981"
+          "old": "SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; Armitage Services IVA Pty Ltd; 665 389 104; DEMI EDUCATION GROUP PTY LTD; 58 652 798 126; NEWCASTLE WEIGHING SERVICES PTY LTD; 36 001 344 430; MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; IRON CAPITAL PTY LTD; 61 623 379 797; SMILE PARTNERS (WA1) PTY LTD; 27 662 001 925; SMILE PARTNERS (OCEAN) PTY LTD; 99 625 040 744; SMILE PARTNERS (VIC2) PTY LTD; 95 683 484 764; SMILE PARTNERS (WA2) PTY LTD; 98 674 927 943; OUTLINE GLOBAL PTY LTD; 70 122 481 341; SMILE PARTNERS (KNOX CITY) PTY LTD; 36 616 447 646; SMILE PARTNERS (VIC1) PTY LTD; 22 682 367 899; ARMITAGE ASSOCIATES PTY LTD; 87 611 079 157; SMILE PARTNERS (NSW2) PTY LTD; 26 689 905 799; MAXLIFE CARE CORP PTY LTD; 22 644 546 494; ICG CAPITAL MANAGEMENT PTY LTD; 77 679 496 201; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; SMILE PARTNERS (QLD1) PTY LTD; 38 691 675 180; WASTECH GROUP PTY LIMITED; 61 637 049 293; SMILE PARTNERS MIDCO PTY LTD; 54 693 759 894; SASH HOLDCO PTY LTD; 91 616 570 560; REDCAT PTY LTD; 88 090 409 920; The Trustee for SHRIKA; 83 315 233 206; TECALA HOLDINGS PTY LTD; 67 653 440 405; THERAPYNOW PTY LTD; 17 662 216 104; BLUEFIT GROUP PTY LTD; 15 623 370 552; Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (AUS) HOLDINGS PTY LTD; 63 614 373 778; Armitage Associates Services Pty Ltd; 614 677 708; SMILE PARTNERS (NSW1) PTY LTD; 80 679 220 350; SMILE PARTNERS (MYSMILE) PTY LTD; 54 620 594 916; SMILE PARTNERS AUSTRALIA PTY LTD; 53 607 013 561; TNG1 Pty Ltd; 682 275 234; COLTERLEC HOLDINGS PTY LTD; 51 614 738 608; SMILE PARTNERS (INSTYLE) PTY LTD; 61 625 040 520; SMILE PARTNERS (GOLD COAST) PTY LTD; 73 669 437 656; NWS Topco Pty Ltd; 688 200 795; MEHTA, ATUL; 28 009 755 704",
+          "new": "Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; TNG1 Pty Ltd; 682 275 234; THERAPYNOW PTY LTD; 17 662 216 104; MAXLIFE CARE CORP PTY LTD; 22 644 546 494; SASH HOLDCO PTY LTD; 91 616 570 560; TECALA HOLDINGS PTY LTD; 67 653 440 405; SMILE PARTNERS (GOLD COAST) PTY LTD; 73 669 437 656; ICG CAPITAL MANAGEMENT PTY LTD; 77 679 496 201; NWS Topco Pty Ltd; 688 200 795; OUTLINE GLOBAL PTY LTD; 70 122 481 341; SMILE PARTNERS MIDCO PTY LTD; 54 693 759 894; COLTERLEC HOLDINGS PTY LTD; 51 614 738 608; Armitage Services IVA Pty Ltd; 665 389 104; Armitage Associates Services Pty Ltd; 614 677 708; SMILE PARTNERS AUSTRALIA PTY LTD; 53 607 013 561; ARMITAGE ASSOCIATES PTY LTD; 87 611 079 157; SMILE PARTNERS (VIC1) PTY LTD; 22 682 367 899; DEMI EDUCATION GROUP PTY LTD; 58 652 798 126; REDCAT PTY LTD; 88 090 409 920; NEWCASTLE WEIGHING SERVICES PTY LTD; 36 001 344 430; SMILE PARTNERS (NSW2) PTY LTD; 26 689 905 799; SMILE PARTNERS (MYSMILE) PTY LTD; 54 620 594 916; SMILE PARTNERS (QLD1) PTY LTD; 38 691 675 180; SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; WASTECH GROUP PTY LIMITED; 61 637 049 293; SMILE PARTNERS (AUS) HOLDINGS PTY LTD; 63 614 373 778; SMILE PARTNERS (OCEAN) PTY LTD; 99 625 040 744; BLUEFIT GROUP PTY LTD; 15 623 370 552; SMILE PARTNERS (WA2) PTY LTD; 98 674 927 943; SMILE PARTNERS (KNOX CITY) PTY LTD; 36 616 447 646; SMILE PARTNERS (INSTYLE) PTY LTD; 61 625 040 520; SMILE PARTNERS (VIC2) PTY LTD; 95 683 484 764; The Trustee for SHRIKA; 83 315 233 206; MEHTA, ATUL; 28 009 755 704; SMILE PARTNERS (WA1) PTY LTD; 27 662 001 925; SMILE PARTNERS (NSW1) PTY LTD; 80 679 220 350; IRON CAPITAL PTY LTD; 61 623 379 797"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-27T10:09:42+10:00",
-          "new": "2026-06-03T10:43:33+10:00"
+          "old": "2026-05-27T17:26:13+10:00",
+          "new": "2026-06-04T14:49:27+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 3 June 2026 via email to mergers@accc.gov.au with the title Submission re: Henkel – Olaplex. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 27 May 2026 Henkel - Olaplex - Questionnaire Attachment 116.13 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 4 June 2026 via email to mergers@accc.gov.au with the title Submission re: Smile Partners Australia - Mehta Orthodontics. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Smile Partners Australia - Mehta Orthodontics - Questionnaire Attachment 116.15 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "tibaldi-south-food-group",
+      "title": "Tibaldi - South Food Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group",
+      "changes": [
+        {
+          "field": "other_parties",
+          "old": "TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257; CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421",
+          "new": "CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-25T17:16:26+10:00",
+          "new": "2026-06-02T16:19:37+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 June 2026 via email to mergers@accc.gov.au with the title Submission re: Tibaldi - South Food Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 25 May 2026 Questionnaire - Tibaldi - South Food Group Attachment 108.5 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '27 May 2026', 'description': 'Henkel - Olaplex - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Henkel%20-%20Olaplex%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '25 May 2026', 'description': 'Questionnaire - Tibaldi - South Food Group', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Tibaldi%20-%20South%20Food%20Group%20-%20Questionnaire%20-%2025%20May%202026.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "zurich-beazley",
-      "title": "Zurich - Beazley",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley",
-      "changes": [
-        {
-          "field": "other_parties",
-          "old": "Zurich Assure Australia Pty Ltd; Zurich Financial Services Australia Limited; Insite Holdings Pty Limited; Zurich Services (Australia) Pty Ltd; OnePath General Insurance Pty Ltd; Cover-More Group; Zurich Australia Insurance Limited; Zurich Finance (Australia) Limited; Zurich Australia Insurance Properties Pty Ltd; Zurich Australia Limited; Zurich Australian Property Holdings Pty Limited",
-          "new": "Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services Australia Limited; Zurich Services (Australia) Pty Ltd; OnePath General Insurance Pty Ltd; Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Properties Pty Ltd; Insite Holdings Pty Limited; Zurich Australian Property Holdings Pty Limited; Zurich Australia Limited; Zurich Finance (Australia) Limited"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-05-25T16:56:33+10:00",
-          "new": "2026-06-03T09:52:59+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 June 2026 via email to mergers@accc.gov.au with the title Submission re: Zurich - Beazley. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Zurich - Beazley - Questionnaire Attachment 116.04 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "peter-warren-wakeling-automotive",
-      "title": "Peter Warren - Wakeling Automotive",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive",
-      "changes": [
-        {
-          "field": "stage",
-          "old": "Phase 1 - initial assessment",
-          "new": "Phase 2 - detailed assessment"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "9 Oct 2026",
-          "new": "8 Oct 2026"
-        },
-        {
-          "field": "targets",
-          "old": "WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Wakeling South Coast Pty Ltd; 636 298 970",
-          "new": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-02T17:16:13+10:00",
-          "new": "2026-06-03T16:39:04+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026.pdf'}, {'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}, {'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026_0.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "ampol-%E2%80%93-eg-australia",
-      "title": "Ampol – EG Australia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia",
+      "slug": "quanta-psd",
+      "title": "Quanta - PSD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd",
       "changes": [
         {
           "field": "acquisition_status",
@@ -124,28 +122,179 @@
         },
         {
           "field": "end_of_determination_period",
-          "old": "5 Jun 2026",
+          "old": "25 Jun 2026",
           "new": ""
         },
         {
           "field": "accc_determination",
           "old": "",
-          "new": "Approved with conditions"
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "3 June 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861; PSD Energy Pty Ltd; 68 117 966 926; Intellect Systems Pty Ltd; 11 115 885 348; Consolidated Power Projects Australia Pty Ltd; 18 075 411 219; Nacap Pty Ltd; 33 006 306 994",
+          "new": "Axcentium Pty Ltd; 48 638 953 572; Consolidated Power Projects Australia Pty Ltd; 18 075 411 219; PSD Plant & Equipment Pty Ltd; 97 144 778 861; Nacap Pty Ltd; 33 006 306 994; Intellect Systems Pty Ltd; 11 115 885 348; PSD Energy Pty Ltd; 68 117 966 926"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-01T13:27:04+10:00",
-          "new": "2026-06-03T18:57:32+10:00"
+          "old": "2026-05-20T07:51:16+10:00",
+          "new": "2026-06-04T10:11:07+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 retail fuel and convenience sites in areas across Australia in the form of an undertaking pursuant to s87B of the Compet On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 retail fuel and convenience sites in areas across Australia in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth). This offer includes divestiture of four additional sites compared to Ampol’s remedy offer of 7 April 2026. The period for providing submissions or information in response to Ampol's further remedy offer has closed. read more",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_5.pdf'}, {'date': '20 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_4.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}]",
-          "new": "[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_2.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_5.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_0.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_0.pdf'}]"
+          "old": "",
+          "new": "[{'date': '3 Jun 2026', 'description': 'Quanta-PSD - Phase 1 determination - 3 June 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Quanta-PSD%20-%20Phase%201%20determination%20-%203%20June%202026.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "seismic-%E2%80%93-highspot",
+      "title": "Seismic – Highspot",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "25 Jun 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "4 June 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number - 10492811; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649",
+          "new": "SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number - 10492811; HIGHSPOT AUSTRALIA PTY LTD; 11 653 327 649; Helix Sub LLC; Delaware File Number - 10492813"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-20T17:01:33+10:00",
+          "new": "2026-06-04T17:10:35+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '4 Jun 2026', 'description': 'Seismic - Highspot - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Seismic-Highspot%20-%20Phase%201%20Determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue",
+      "title": "3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "19 Jun 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "4 June 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-041777; Madison Industrial Solutions Corporation; State of Delaware, Division of Corporations - 5633530",
+          "new": "Bain Capital Investors, LLC; IRS EIN - 81-2878769; Madison Industrial Solutions Corporation; State of Delaware, Division of Corporations - 5633530; 3M Company; IRS EIN - 41-041777"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-19T09:53:11+10:00",
+          "new": "2026-06-04T16:38:14+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '4 Jun 2026', 'description': '3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/or%20advised%20by%20Bain%20Capital%20-%20Madison%20Fire%20%26%20Rescue%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
+      "title": "Barro Group - BQC Quarries and Burdekin Concrete",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete",
+      "changes": [
+        {
+          "field": "title",
+          "old": "Barro Group / BQC Quarries and Burdekin Concrete",
+          "new": "Barro Group - BQC Quarries and Burdekin Concrete"
+        },
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "11 Jun 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "targets",
+          "old": "BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T Populin Pty Ltd; 092 648 078; TWIN ROCK PTY. LTD.; 84 092 733 867; COLEVALE ESTATES PTY LTD & M & T POPULIN PTY LTD & TWIN ROCK PTY LTD; 14 440 726 153; BURDEKIN CONCRETE PTY. LTD.; 25 010 095 253",
+          "new": "M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; TWIN ROCK PTY. LTD.; 84 092 733 867; BQC SANDS PTY LTD; 92 662 904 190; BURDEKIN CONCRETE PTY. LTD.; 25 010 095 253; COLEVALE ESTATES PTY LTD & M & T POPULIN PTY LTD & TWIN ROCK PTY LTD; 14 440 726 153"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-07T13:35:47+10:00",
+          "new": "2026-06-04T10:59:48+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '3 Jun 2026', 'description': 'Barro - BQC Quarries and Burdekin Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Barro%20-%20BQC%20Quarries%20and%20Burdekin%20Concrete%20-%20Phase%201%20determination%20without%20conditions%20-%203%20June%202026_0.pdf'}]"
         }
       ]
     }
