@@ -1,5 +1,17 @@
 [
   {
+    "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
+    "title": "Barro Group - BQC Quarries and Burdekin Concrete",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "google-wiz",
     "title": "Google - Wiz",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-wiz",
@@ -36,18 +48,6 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
-    "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
     "slug": "saipem-spa-subsea7-sa",
     "title": "Saipem - Subsea7",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
@@ -60,9 +60,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "turkish-airlines-air-europa",
-    "title": "Turkish Airlines - Air Europa",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/turkish-airlines-air-europa",
+    "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
+    "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
