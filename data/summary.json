@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-06-04T11:49:45.918559Z",
-  "total_entries": 322,
+  "generated_at_utc": "2026-06-05T12:04:26.178948Z",
+  "total_entries": 324,
   "by_acquisition_status": {
-    "Under assessment": 44,
-    "Assessment completed": 278
+    "Under assessment": 43,
+    "Assessment completed": 281
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 124,
-    "Waiver application": 193,
+    "Phase 1 - initial assessment": 125,
+    "Waiver application": 194,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 129,
-    "Waiver": 193
+    "Notification": 130,
+    "Waiver": 194
   },
   "by_accc_determination": {
-    "Approved": 263,
+    "Approved": 266,
     "Not approved": 14,
     "Approved with conditions": 1
   },
@@ -24,13 +24,13 @@
       "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
       "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
       "end_of_determination_period": "10 Jun 2026",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "slug": "paramount-skydance-warner-bros-discovery",
       "title": "Paramount Skydance / Warner Bros. Discovery",
       "end_of_determination_period": "12 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     }
   ]
 }

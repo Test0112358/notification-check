@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-04 11:37:07.812476,
-Last scrape run (AEST),04 Jun 2026  21:37,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-05 11:52:29.632538,
+Last scrape run (AEST),05 Jun 2026  21:52,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,322,
-New entries this run,11,
-Changed entries this run,6,
+Total entries monitored,324,
+New entries this run,2,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,78 +13,46 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (11),Case Number,URL
-+ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
-+ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
-"+ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
-+ Vets Central - Claremont Veterinary Surgery,WA-55023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-claremont-veterinary-surgery
-+ KfW – KNDS N.V.,WA-75024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv
-+ Grant Thornton Advisors - Grant Thornton Australia,WA-95020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/grant-thornton-advisors-grant-thornton-australia
-+ BUSS Queensland – Additional interest in Duxton Vineyards,WA-35021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/buss-queensland-%E2%80%93-additional-interest-in-duxton-vineyards
-+ Apollo Capital Management – Questex Holdings Group,WA-05023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-management-%E2%80%93-questex-holdings-group
-+ Laundy – Woy Woy Hotel,WA-25025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel
-+ INPEX – minority interests in Beetaloo development projects,WA-01101,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/inpex-%E2%80%93-minority-interests-in-beetaloo-development-projects
-"+ Ochre Health - Airlie Women's Clinic, VIC",WA-01100,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-airlie-womens-clinic-vic
+NEW ENTRIES (2),Case Number,URL
++ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
+"+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-freehold-land-acquisition-in-chelsea-heights-victoria
 ,,
-CHANGED ENTRIES (6),Field changed,Old value  →  New value
-~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
-,Other Parties,SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; Armitage Services IVA Pty Ltd; 665 389 104; DEMI EDUCA  →  Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; TNG1 Pty Ltd; 6
-,Last Modified Accc,2026-05-27T17:26:13+10:00  →  2026-06-04T14:49:27+10:00
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
+,Last Modified Accc,2026-06-04T10:41:29+10:00  →  2026-06-05T15:21:57+10:00
+,,
+~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+,Targets,The Trustee for FRANCK PAGE #3 TRUST; 65 158 640 539; COASTAL DENTAL CARE AUSTRALIA PTY LTD; 39 617   →  COASTAL DENTAL CARE AUSTRALIA PTY LTD; 39 617 360 460; The Trustee for FRANCK PAGE #3 TRUST; 65 158 
+,Last Modified Accc,2026-05-29T09:09:40+10:00  →  2026-06-05T14:53:21+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Impression Dental Group – Coastal Dental Ca  →  "
 ,,
-~ Tibaldi - South Food Group,MN-25026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group
-,Other Parties,TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257; CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250   →  CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974
-,Last Modified Accc,2026-05-25T17:16:26+10:00  →  2026-06-02T16:19:37+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Tibaldi - South Food Group', 'url': 'https:  →  "
-,,
-~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
+~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,25 Jun 2026  →  
+,End Of Determination Period,29 Jun 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  3 June 2026
-,Other Parties,Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861; PSD Energy Pty Ltd  →  Axcentium Pty Ltd; 48 638 953 572; Consolidated Power Projects Australia Pty Ltd; 18 075 411 219; PS
-,Last Modified Accc,2026-05-20T07:51:16+10:00  →  2026-06-04T10:11:07+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Quanta-PSD - Phase 1 determination - 3 June 2026', 'url': 'h"
+,Determination Publication Date,  →  5 June 2026
+,Acquirers,Volt Managed Investment Trust 1; Volt Managed Investment Trust 2  →  Volt Managed Investment Trust 2; Volt Managed Investment Trust 1
+,Other Parties,HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No: 05975300; Perpetua  →  The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 9
+,Last Modified Accc,2026-05-25T16:28:39+10:00  →  2026-06-05T16:36:40+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '5 Jun 2026', 'description': 'Volt Managed Investment Trusts – HMC Energy Transition Platf"
 ,,
-~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
+~ Novartis - Excellergy,MN-40019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy
+,Title,Novartis / Excellergy  →  Novartis - Excellergy
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,End Of Determination Period,25 Jun 2026  →  
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  4 June 2026
-,Other Parties,Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Su  →  SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number - 10492811; HIGHSPO
-,Last Modified Accc,2026-05-20T17:01:33+10:00  →  2026-06-04T17:10:35+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Seismic - Highspot - Phase 1 Determination', 'url': 'https:/"
-,,
-~ 3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue,MN-15015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,19 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  4 June 2026
-,Other Parties,"Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-041777; Madison Industri  →  Bain Capital Investors, LLC; IRS EIN - 81-2878769; Madison Industrial Solutions Corporation; State o"
-,Last Modified Accc,2026-05-19T09:53:11+10:00  →  2026-06-04T16:38:14+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': '3M and funds managed and/or advised by Bain Capital - Madiso"
-,,
-~ Barro Group - BQC Quarries and Burdekin Concrete,MN-60011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete
-,Title,Barro Group / BQC Quarries and Burdekin Concrete  →  Barro Group - BQC Quarries and Burdekin Concrete
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,11 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Targets,BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T Populin Pty Ltd; 092   →  M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; TWIN ROCK PTY. LTD.; 84 09
-,Last Modified Accc,2026-05-07T13:35:47+10:00  →  2026-06-04T10:59:48+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Barro - BQC Quarries and Burdekin Concrete - Phase 1 determi"
+,Other Parties,NOVARTIS PHARMACEUTICALS AUSTRALIA PTY LIMITED; 18 004 244 160; EXCELLERGY AUSTRALIA PTY LTD; 50 690  →  NOVARTIS AUSTRALIA PTY LIMITED; 81 004 371 224; Novartis Finance Corporation; US EIN 13-3922240; NOV
+,Last Modified Accc,2026-05-19T16:46:10+10:00  →  2026-06-05T08:51:48+10:00
+,Consultation Text,The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h  →  
+,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Novartis - Excellergy - Phase 1 Determination', 'url': 'http"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (19),Case Number,Detected (AEST)
-+ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,28 May  22:50
-+ Impression Dental Group - Coastal Dental Care,MN-90015,28 May  22:50
-"+ Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",WA-65017,28 May  22:50
+NEW ENTRIES (27),Case Number,Detected (AEST)
 + Sydney Water - Windsor Sewerage Scheme Assets,WA-80013,29 May  22:28
 + Turkish Airlines - Air Europa,WA-90016,29 May  22:28
 + Respect Group - Jallarah Homes,WA-35020,02 Jun  05:30
@@ -101,40 +69,19 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 + CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,04 Jun  04:10
 + Sony Music - Recognition Music,MN-20023,04 Jun  04:10
 + Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition,WA-60020,04 Jun  04:10
++ Coles – supermarket site in Lidcombe (NSW),MN-50019,04 Jun  21:37
++ ANZ Banking Group - Worldline Australia,MN-80014,04 Jun  21:37
+"+ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,04 Jun  21:37
++ Vets Central - Claremont Veterinary Surgery,WA-55023,04 Jun  21:37
++ KfW – KNDS N.V.,WA-75024,04 Jun  21:37
++ Grant Thornton Advisors - Grant Thornton Australia,WA-95020,04 Jun  21:37
++ BUSS Queensland – Additional interest in Duxton Vineyards,WA-35021,04 Jun  21:37
++ Apollo Capital Management – Questex Holdings Group,WA-05023,04 Jun  21:37
++ Laundy – Woy Woy Hotel,WA-25025,04 Jun  21:37
++ INPEX – minority interests in Beetaloo development projects,WA-01101,04 Jun  21:37
+"+ Ochre Health - Airlie Women's Clinic, VIC",WA-01100,04 Jun  21:37
 ,,
-"CHANGED ENTRIES (15 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
-~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
-,Acquirers,Gold Rush TopCo Limited; RN 152697; Banijay Holding UK Limited; UK Company numbe  →  Banijay Holding UK Limited; UK Company number 17040112; Gold Rush TopCo Limited;  (28 May  22:50)
-,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; ENDEMOL SHINE AUSTRALI  →  RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 0  (28 May  22:50)
-,Last Modified Accc,2026-05-21T13:14:56+10:00  →  2026-05-28T17:01:29+10:00  (28 May  22:50)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (28 May  22:50)
-,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire – Banijay Entertainment –  →    (28 May  22:50)"
-,,
-~ Medtronic - Scientia,MN-80010,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/medtronic-scientia
-,Acquisition Status,Under assessment  →  Assessment completed  (28 May  22:50)
-,End Of Determination Period,18 Jun 2026  →    (28 May  22:50)
-,Accc Determination,  →  Approved  (28 May  22:50)
-,Determination Publication Date,  →  28 May 2026  (28 May  22:50)
-,Acquirers,"Project Saint Merger Sub, Inc.; 10489040; Medtronic plc; 98-1183488; United Stat  →  Project Saint Merger Sub, Inc.; 10489040; United States Surgical Corporation; 13  (28 May  22:50)"
-,Last Modified Accc,2026-05-13T16:34:20+10:00  →  2026-05-28T16:41:20+10:00  (28 May  22:50)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (28 May  22:50)
-,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Medtronic - Scientia - Phase 1 determin  (28 May  22:50)"
-,,
-~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-,Last Modified Accc,2026-05-28T17:38:44+10:00  →  2026-05-29T09:09:40+10:00  (29 May  10:46)
-,,
-~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
-,Acquirers,Ares UK Holdco 2 Limited; CRN 17107097; Mastercard Incorporated; 3390142; Master  →  Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 171  (29 May  10:46)
-,Last Modified Accc,2026-05-18T12:10:32+10:00  →  2026-05-25T16:32:26+10:00  (29 May  10:46)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submission or information in response to the ACCC's Pha  (29 May  10:46)
-,Consultation Docs,"[{'date': '18 May 2026', 'description': 'Mastercard - BVNK - Questionnaire - May  →    (29 May  10:46)"
-,,
-~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
-,End Of Determination Period,11 Jun 2026  →  17 Jun 2026  (29 May  12:16)
-,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Shane Webb Nominees Pty Ltd in its ca  →  AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capac  (29 May  12:16)
-,Last Modified Accc,2026-05-07T11:13:45+10:00  →  2026-05-29T11:31:57+10:00  (29 May  12:16)
-,Decisions Docs,"  →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days -   (29 May  12:16)"
-,,
+"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
 ,End Of Determination Period,13 Jul 2026  →  3 Aug 2026  (29 May  22:28)
 ,Targets,MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED;  →  MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITE  (29 May  22:28)
@@ -201,4 +148,55 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-01T13:27:04+10:00  →  2026-06-03T18:57:32+10:00  (04 Jun  04:10)
 ,Consultation Text,"On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 ret  →    (04 Jun  04:10)"
 ,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  →  [{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  (04 Jun  04:10)"
+,,
+~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
+,Other Parties,SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; Armitage Services IVA Pty Ltd; 665  →  Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164   (04 Jun  21:37)
+,Last Modified Accc,2026-05-27T17:26:13+10:00  →  2026-06-04T14:49:27+10:00  (04 Jun  21:37)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  21:37)
+,,
+~ Tibaldi - South Food Group,MN-25026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group
+,Other Parties,TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257; CHESTNUT AVENUE AUSTRALIA PT  →  CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA  (04 Jun  21:37)
+,Last Modified Accc,2026-05-25T17:16:26+10:00  →  2026-06-02T16:19:37+10:00  (04 Jun  21:37)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  21:37)
+,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Tibaldi - South Food Gr  →    (04 Jun  21:37)"
+,,
+~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
+,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
+,End Of Determination Period,25 Jun 2026  →    (04 Jun  21:37)
+,Accc Determination,  →  Approved  (04 Jun  21:37)
+,Determination Publication Date,  →  3 June 2026  (04 Jun  21:37)
+,Other Parties,Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861  →  Axcentium Pty Ltd; 48 638 953 572; Consolidated Power Projects Australia Pty Ltd  (04 Jun  21:37)
+,Last Modified Accc,2026-05-20T07:51:16+10:00  →  2026-06-04T10:11:07+10:00  (04 Jun  21:37)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (04 Jun  21:37)
+,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Quanta-PSD - Phase 1 determination - 3 J  (04 Jun  21:37)"
+,,
+~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
+,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
+,End Of Determination Period,25 Jun 2026  →    (04 Jun  21:37)
+,Accc Determination,  →  Approved  (04 Jun  21:37)
+,Determination Publication Date,  →  4 June 2026  (04 Jun  21:37)
+,Other Parties,Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 6  →  SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number  (04 Jun  21:37)
+,Last Modified Accc,2026-05-20T17:01:33+10:00  →  2026-06-04T17:10:35+10:00  (04 Jun  21:37)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (04 Jun  21:37)
+,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Seismic - Highspot - Phase 1 Determinati  (04 Jun  21:37)"
+,,
+~ 3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue,MN-15015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue
+,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
+,End Of Determination Period,19 Jun 2026  →    (04 Jun  21:37)
+,Accc Determination,  →  Approved  (04 Jun  21:37)
+,Determination Publication Date,  →  4 June 2026  (04 Jun  21:37)
+,Other Parties,"Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-0417  →  Bain Capital Investors, LLC; IRS EIN - 81-2878769; Madison Industrial Solutions   (04 Jun  21:37)"
+,Last Modified Accc,2026-05-19T09:53:11+10:00  →  2026-06-04T16:38:14+10:00  (04 Jun  21:37)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (04 Jun  21:37)
+,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': '3M and funds managed and/or advised by B  (04 Jun  21:37)"
+,,
+~ Barro Group - BQC Quarries and Burdekin Concrete,MN-60011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete
+,Title,Barro Group / BQC Quarries and Burdekin Concrete  →  Barro Group - BQC Quarries and Burdekin Concrete  (04 Jun  21:37)
+,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
+,End Of Determination Period,11 Jun 2026  →    (04 Jun  21:37)
+,Accc Determination,  →  Approved  (04 Jun  21:37)
+,Targets,BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T P  →  M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; TWIN R  (04 Jun  21:37)
+,Last Modified Accc,2026-05-07T13:35:47+10:00  →  2026-06-04T10:59:48+10:00  (04 Jun  21:37)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (04 Jun  21:37)
+,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Barro - BQC Quarries and Burdekin Concre  (04 Jun  21:37)"
 ,,
