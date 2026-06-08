@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-05 11:52:29.632538,
-Last scrape run (AEST),05 Jun 2026  21:52,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-08 14:51:03.844141,
+Last scrape run (AEST),09 Jun 2026  00:51,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,324,
-New entries this run,2,
-Changed entries this run,4,
+Total entries monitored,325,
+New entries this run,1,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,48 +13,13 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
-"+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-freehold-land-acquisition-in-chelsea-heights-victoria
-,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
-,Last Modified Accc,2026-06-04T10:41:29+10:00  →  2026-06-05T15:21:57+10:00
-,,
-~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-,Targets,The Trustee for FRANCK PAGE #3 TRUST; 65 158 640 539; COASTAL DENTAL CARE AUSTRALIA PTY LTD; 39 617   →  COASTAL DENTAL CARE AUSTRALIA PTY LTD; 39 617 360 460; The Trustee for FRANCK PAGE #3 TRUST; 65 158 
-,Last Modified Accc,2026-05-29T09:09:40+10:00  →  2026-06-05T14:53:21+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Impression Dental Group – Coastal Dental Ca  →  "
-,,
-~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,29 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  5 June 2026
-,Acquirers,Volt Managed Investment Trust 1; Volt Managed Investment Trust 2  →  Volt Managed Investment Trust 2; Volt Managed Investment Trust 1
-,Other Parties,HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No: 05975300; Perpetua  →  The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Trust 2); 21 000 000 9
-,Last Modified Accc,2026-05-25T16:28:39+10:00  →  2026-06-05T16:36:40+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '5 Jun 2026', 'description': 'Volt Managed Investment Trusts – HMC Energy Transition Platf"
-,,
-~ Novartis - Excellergy,MN-40019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy
-,Title,Novartis / Excellergy  →  Novartis - Excellergy
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,25 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  4 June 2026
-,Other Parties,NOVARTIS PHARMACEUTICALS AUSTRALIA PTY LIMITED; 18 004 244 160; EXCELLERGY AUSTRALIA PTY LTD; 50 690  →  NOVARTIS AUSTRALIA PTY LIMITED; 81 004 371 224; Novartis Finance Corporation; US EIN 13-3922240; NOV
-,Last Modified Accc,2026-05-19T16:46:10+10:00  →  2026-06-05T08:51:48+10:00
-,Consultation Text,The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h  →  
-,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Novartis - Excellergy - Phase 1 Determination', 'url': 'http"
+NEW ENTRIES (1),Case Number,URL
++ RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC,WA-45014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rdo-australia-%E2%80%93-freehold-land-and-buildings-of-three-commercial-truck-dealership-sites-in-west-wodonga-vic
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (27),Case Number,Detected (AEST)
-+ Sydney Water - Windsor Sewerage Scheme Assets,WA-80013,29 May  22:28
-+ Turkish Airlines - Air Europa,WA-90016,29 May  22:28
 + Respect Group - Jallarah Homes,WA-35020,02 Jun  05:30
 + Tinicum and Blackstone led consortium – Senior,WA-30018,02 Jun  05:30
 + UP Education – Australian Academy of Beauty Dermal & Laser,WA-85030,02 Jun  05:30
@@ -80,25 +45,10 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 + Laundy – Woy Woy Hotel,WA-25025,04 Jun  21:37
 + INPEX – minority interests in Beetaloo development projects,WA-01101,04 Jun  21:37
 "+ Ochre Health - Airlie Women's Clinic, VIC",WA-01100,04 Jun  21:37
++ Premier Fresh – Domenico Group,MN-40020,05 Jun  21:52
+"+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,05 Jun  21:52
 ,,
-"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,End Of Determination Period,13 Jul 2026  →  3 Aug 2026  (29 May  22:28)
-,Targets,MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED;  →  MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITE  (29 May  22:28)
-,Last Modified Accc,2026-05-28T17:30:09+10:00  →  2026-05-29T14:31:38+10:00  (29 May  22:28)
-,Decisions Docs,"  →  [{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  (29 May  22:28)"
-,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  (29 May  22:28)
-,Last Modified Accc,2026-05-22T11:11:20+10:00  →  2026-05-29T15:05:45+10:00  (29 May  22:28)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 May  22:28)
-,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Q  →    (29 May  22:28)"
-,,
-~ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
-,Last Modified Accc,2026-05-21T13:24:24+10:00  →  2026-05-29T12:31:12+10:00  (29 May  22:28)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 May  22:28)
-,Consultation Docs,"[{'date': '21 May 2026', 'description': 'Questionnaire - Opal Healthcare - Bethe  →    (29 May  22:28)"
-,,
+"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
 ,Acquirers,LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084; CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 1  →  CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090; LOGIC TECHNOLOGIES PTY LTD; 25 0  (02 Jun  05:30)
 ,Last Modified Accc,2026-05-22T11:54:00+10:00  →  2026-06-01T10:01:15+10:00  (02 Jun  05:30)
@@ -199,4 +149,35 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-07T13:35:47+10:00  →  2026-06-04T10:59:48+10:00  (04 Jun  21:37)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (04 Jun  21:37)
 ,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Barro - BQC Quarries and Burdekin Concre  (04 Jun  21:37)"
+,,
+~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
+,Last Modified Accc,2026-06-04T10:41:29+10:00  →  2026-06-05T15:21:57+10:00  (05 Jun  21:52)
+,,
+~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+,Targets,The Trustee for FRANCK PAGE #3 TRUST; 65 158 640 539; COASTAL DENTAL CARE AUSTRA  →  COASTAL DENTAL CARE AUSTRALIA PTY LTD; 39 617 360 460; The Trustee for FRANCK PA  (05 Jun  21:52)
+,Last Modified Accc,2026-05-29T09:09:40+10:00  →  2026-06-05T14:53:21+10:00  (05 Jun  21:52)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Jun  21:52)
+,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Impression Dental Group  →    (05 Jun  21:52)"
+,,
+~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
+,Acquisition Status,Under assessment  →  Assessment completed  (05 Jun  21:52)
+,End Of Determination Period,29 Jun 2026  →    (05 Jun  21:52)
+,Accc Determination,  →  Approved  (05 Jun  21:52)
+,Determination Publication Date,  →  5 June 2026  (05 Jun  21:52)
+,Acquirers,Volt Managed Investment Trust 1; Volt Managed Investment Trust 2  →  Volt Managed Investment Trust 2; Volt Managed Investment Trust 1  (05 Jun  21:52)
+,Other Parties,HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No  →  The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Tr  (05 Jun  21:52)
+,Last Modified Accc,2026-05-25T16:28:39+10:00  →  2026-06-05T16:36:40+10:00  (05 Jun  21:52)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (05 Jun  21:52)
+,Decisions Docs,"  →  [{'date': '5 Jun 2026', 'description': 'Volt Managed Investment Trusts – HMC Ene  (05 Jun  21:52)"
+,,
+~ Novartis - Excellergy,MN-40019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy
+,Title,Novartis / Excellergy  →  Novartis - Excellergy  (05 Jun  21:52)
+,Acquisition Status,Under assessment  →  Assessment completed  (05 Jun  21:52)
+,End Of Determination Period,25 Jun 2026  →    (05 Jun  21:52)
+,Accc Determination,  →  Approved  (05 Jun  21:52)
+,Determination Publication Date,  →  4 June 2026  (05 Jun  21:52)
+,Other Parties,NOVARTIS PHARMACEUTICALS AUSTRALIA PTY LIMITED; 18 004 244 160; EXCELLERGY AUSTR  →  NOVARTIS AUSTRALIA PTY LIMITED; 81 004 371 224; Novartis Finance Corporation; US  (05 Jun  21:52)
+,Last Modified Accc,2026-05-19T16:46:10+10:00  →  2026-06-05T08:51:48+10:00  (05 Jun  21:52)
+,Consultation Text,The period for providing submission or information in response to the ACCC's Pha  →    (05 Jun  21:52)
+,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Novartis - Excellergy - Phase 1 Determin  (05 Jun  21:52)"
 ,,

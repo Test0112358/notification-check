@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-06-05T12:04:26.178948Z",
-  "total_entries": 324,
+  "generated_at_utc": "2026-06-08T15:03:41.820122Z",
+  "total_entries": 325,
   "by_acquisition_status": {
     "Under assessment": 43,
-    "Assessment completed": 281
+    "Assessment completed": 282
   },
   "by_stage": {
     "Phase 1 - initial assessment": 125,
-    "Waiver application": 194,
+    "Waiver application": 195,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
     "Notification": 130,
-    "Waiver": 194
+    "Waiver": 195
   },
   "by_accc_determination": {
-    "Approved": 266,
+    "Approved": 267,
     "Not approved": 14,
     "Approved with conditions": 1
   },
@@ -24,13 +24,31 @@
       "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
       "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
       "end_of_determination_period": "10 Jun 2026",
-      "days_remaining": 5
+      "days_remaining": 2
     },
     {
       "slug": "paramount-skydance-warner-bros-discovery",
       "title": "Paramount Skydance / Warner Bros. Discovery",
       "end_of_determination_period": "12 Jun 2026",
-      "days_remaining": 7
+      "days_remaining": 4
+    },
+    {
+      "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
+      "title": "News – acquisition of 20% of National Distribution Services",
+      "end_of_determination_period": "17 Jun 2026",
+      "days_remaining": 9
+    },
+    {
+      "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
+      "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd",
+      "end_of_determination_period": "17 Jun 2026",
+      "days_remaining": 9
+    },
+    {
+      "slug": "fulton-hogan-%E2%80%93-avionics",
+      "title": "Fulton Hogan – Avionics",
+      "end_of_determination_period": "17 Jun 2026",
+      "days_remaining": 9
     }
   ]
 }

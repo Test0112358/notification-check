@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-06-05T11:52:29.632538Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "premier-fresh-%E2%80%93-domenico-group",
-      "title": "Premier Fresh – Domenico Group",
-      "case_number": "MN-40020",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group",
-      "date": "5 Jun 2026",
-      "description": "Questionnaire - Premier Fresh - Domenico Group",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Premier%20Fresh%20-%20Domenico%20Group.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Premier Fresh - Domenico Group.docx",
-      "filename": "Questionnaire - Premier Fresh - Domenico Group.docx",
-      "size_kb": 116.0
-    }
-  ]
+  "run_utc": "2026-06-08T14:51:03.844141Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }
