@@ -1,5 +1,30 @@
 {
-  "run_utc": "2026-06-08T14:51:03.844141Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-06-09T11:44:37.930771Z",
+  "questionnaire_count": 2,
+  "questionnaires": [
+    {
+      "slug": "coles-%E2%80%93-supermarket-site-in-minto-nsw",
+      "title": "Coles – supermarket site in Minto, NSW",
+      "case_number": "MN-25029",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw",
+      "date": "9 Jun 2026",
+      "description": "Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Minto%20-%20Questionnaire%20-%20June%202026_0.docx",
+      "local_path": "data/consultation_docs/Coles Minto - Questionnaire - June 2026_0.docx",
+      "filename": "Coles Minto - Questionnaire - June 2026_0.docx",
+      "size_kb": 60.1
+    },
+    {
+      "slug": "uber-blacklane",
+      "title": "Uber - Blacklane",
+      "case_number": "MN-20018",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane",
+      "date": "9 Jun 2026",
+      "description": "Uber - Blacklane - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20third%20party%20questionnaire%20-%20June%202026.docx",
+      "local_path": "data/consultation_docs/Uber-Blacklane - third party questionnaire - June 2026.docx",
+      "filename": "Uber-Blacklane - third party questionnaire - June 2026.docx",
+      "size_kb": 116.5
+    }
+  ]
 }

@@ -1,15 +1,135 @@
 {
-  "run_utc": "2026-06-08T14:51:03.844141Z",
-  "new_count": 1,
-  "changed_count": 0,
+  "run_utc": "2026-06-09T11:44:37.930771Z",
+  "new_count": 6,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "rdo-australia-%E2%80%93-freehold-land-and-buildings-of-three-commercial-truck-dealership-sites-in-west-wodonga-vic",
-      "title": "RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rdo-australia-%E2%80%93-freehold-land-and-buildings-of-three-commercial-truck-dealership-sites-in-west-wodonga-vic"
+      "slug": "coles-%E2%80%93-supermarket-site-in-minto-nsw",
+      "title": "Coles – supermarket site in Minto, NSW",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw"
+    },
+    {
+      "slug": "uber-blacklane",
+      "title": "Uber - Blacklane",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane"
+    },
+    {
+      "slug": "capital-group-big-post",
+      "title": "Capital Group - Big Post",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/capital-group-big-post"
+    },
+    {
+      "slug": "genusplus-group-%E2%80%93-mpc-kinetic",
+      "title": "GenusPlus Group – MPC Kinetic",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genusplus-group-%E2%80%93-mpc-kinetic"
+    },
+    {
+      "slug": "news-corp-%E2%80%93-acquisition-of-20-of-national-distribution-services",
+      "title": "News Corp – acquisition of 20% of National Distribution Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-corp-%E2%80%93-acquisition-of-20-of-national-distribution-services"
+    },
+    {
+      "slug": "wpf-duratec-pacific-welding-davhold-australia",
+      "title": "WPF Duratec - Pacific Welding (Davhold Australia)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pacific-welding-davhold-australia"
     }
   ],
-  "changed_entries": [],
+  "changed_entries": [
+    {
+      "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+      "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "25 Jun 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "9 June 2026"
+        },
+        {
+          "field": "targets",
+          "old": "N&M Burton Pty Ltd; 125 935 944; SHARTON MOTORS PTY LTD; 55 001 345 384",
+          "new": "SHARTON MOTORS PTY LTD; 55 001 345 384; N&M Burton Pty Ltd; 125 935 944"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-21T10:20:16+10:00",
+          "new": "2026-06-09T16:40:05+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '9 Jun 2026', 'description': 'Tony White Group - Sharton Motors - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Tony%20White%20Group%20-%20Sharton%20Motors%20dealerships%20in%20Maitland%2C%20Port%20Stephens%20and%20Cardiff%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "paramount-skydance-warner-bros-discovery",
+      "title": "Paramount Skydance - Warner Bros. Discovery",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery",
+      "changes": [
+        {
+          "field": "title",
+          "old": "Paramount Skydance / Warner Bros. Discovery",
+          "new": "Paramount Skydance - Warner Bros. Discovery"
+        },
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "12 Jun 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "9 June 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-08T14:54:54+10:00",
+          "new": "2026-06-09T17:21:45+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '9 Jun 2026', 'description': 'Paramount Skydance-Warner Bros Discovery - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Paramount%20Skydance-Warner%20Bros%20Discovery%20-%20Phase%201%20determination_1.pdf'}]"
+        }
+      ]
+    }
+  ],
   "removed_entries": []
 }

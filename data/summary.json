@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-06-08T15:03:41.820122Z",
-  "total_entries": 325,
+  "generated_at_utc": "2026-06-09T11:56:26.935780Z",
+  "total_entries": 331,
   "by_acquisition_status": {
     "Under assessment": 43,
-    "Assessment completed": 282
+    "Assessment completed": 288
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 125,
-    "Waiver application": 195,
+    "Phase 1 - initial assessment": 129,
+    "Waiver application": 197,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 130,
-    "Waiver": 195
+    "Notification": 134,
+    "Waiver": 197
   },
   "by_accc_determination": {
-    "Approved": 267,
+    "Approved": 273,
     "Not approved": 14,
     "Approved with conditions": 1
   },
@@ -24,31 +24,31 @@
       "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
       "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
       "end_of_determination_period": "10 Jun 2026",
-      "days_remaining": 2
-    },
-    {
-      "slug": "paramount-skydance-warner-bros-discovery",
-      "title": "Paramount Skydance / Warner Bros. Discovery",
-      "end_of_determination_period": "12 Jun 2026",
-      "days_remaining": 4
-    },
-    {
-      "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
-      "title": "News – acquisition of 20% of National Distribution Services",
-      "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 9
-    },
-    {
-      "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
-      "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd",
-      "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 9
+      "days_remaining": 1
     },
     {
       "slug": "fulton-hogan-%E2%80%93-avionics",
       "title": "Fulton Hogan – Avionics",
       "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 9
+      "days_remaining": 8
+    },
+    {
+      "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
+      "title": "News – acquisition of 20% of National Distribution Services",
+      "end_of_determination_period": "17 Jun 2026",
+      "days_remaining": 8
+    },
+    {
+      "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
+      "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd",
+      "end_of_determination_period": "17 Jun 2026",
+      "days_remaining": 8
+    },
+    {
+      "slug": "rubik-australia-pty-limited-qube-holdings-limited",
+      "title": "Rubik Australia Pty Limited - Qube Holdings Limited",
+      "end_of_determination_period": "19 Jun 2026",
+      "days_remaining": 10
     }
   ]
 }

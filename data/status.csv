@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-08 14:51:03.844141,
-Last scrape run (AEST),09 Jun 2026  00:51,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-09 11:44:37.930771,
+Last scrape run (AEST),09 Jun 2026  21:44,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,325,
-New entries this run,1,
-Changed entries this run,0,
+Total entries monitored,331,
+New entries this run,6,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,17 +13,39 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC,WA-45014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rdo-australia-%E2%80%93-freehold-land-and-buildings-of-three-commercial-truck-dealership-sites-in-west-wodonga-vic
+NEW ENTRIES (6),Case Number,URL
+"+ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
++ Uber - Blacklane,MN-20018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane
++ Capital Group - Big Post,WA-95019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/capital-group-big-post
++ GenusPlus Group – MPC Kinetic,WA-55022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genusplus-group-%E2%80%93-mpc-kinetic
++ News Corp – acquisition of 20% of National Distribution Services,MN-35014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-corp-%E2%80%93-acquisition-of-20-of-national-distribution-services
++ WPF Duratec - Pacific Welding (Davhold Australia),MN-75018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pacific-welding-davhold-australia
+,,
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,25 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  9 June 2026
+,Targets,N&M Burton Pty Ltd; 125 935 944; SHARTON MOTORS PTY LTD; 55 001 345 384  →  SHARTON MOTORS PTY LTD; 55 001 345 384; N&M Burton Pty Ltd; 125 935 944
+,Last Modified Accc,2026-05-21T10:20:16+10:00  →  2026-06-09T16:40:05+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Tony White Group - Sharton Motors - Phase 1 determination', "
+,,
+~ Paramount Skydance - Warner Bros. Discovery,MN-45006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery
+,Title,Paramount Skydance / Warner Bros. Discovery  →  Paramount Skydance - Warner Bros. Discovery
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,12 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  9 June 2026
+,Last Modified Accc,2026-05-08T14:54:54+10:00  →  2026-06-09T17:21:45+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Paramount Skydance-Warner Bros Discovery - Phase 1 determina"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (27),Case Number,Detected (AEST)
-+ Respect Group - Jallarah Homes,WA-35020,02 Jun  05:30
-+ Tinicum and Blackstone led consortium – Senior,WA-30018,02 Jun  05:30
-+ UP Education – Australian Academy of Beauty Dermal & Laser,WA-85030,02 Jun  05:30
-+ Oracle – Leasehold interest in AirTrunk data centre,WA-50016,02 Jun  05:30
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + KK Group Invest - PowerCon,WA-20024,02 Jun  23:00
 + Direct Couriers – Phoenix Transport,WA-80017,02 Jun  23:00
 + SOILCO - Go Grow,WA-80018,02 Jun  23:00
@@ -47,21 +69,9 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 "+ Ochre Health - Airlie Women's Clinic, VIC",WA-01100,04 Jun  21:37
 + Premier Fresh – Domenico Group,MN-40020,05 Jun  21:52
 "+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,05 Jun  21:52
++ RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC,WA-45014,09 Jun  00:51
 ,,
-"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
-,Acquirers,LOGIC TECHNOLOGIES PTY LTD; 25 071 025 084; CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 1  →  CSE-GLOBAL (AUSTRALIA) PTY LTD; 85 109 958 090; LOGIC TECHNOLOGIES PTY LTD; 25 0  (02 Jun  05:30)
-,Last Modified Accc,2026-05-22T11:54:00+10:00  →  2026-06-01T10:01:15+10:00  (02 Jun  05:30)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (02 Jun  05:30)
-,Consultation Docs,"[{'date': '22 May 2026', 'description': 'Questionnaire - Logic Technologies - Ac  →    (02 Jun  05:30)"
-,,
-~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
-,Acquirers,CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limi  →  Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limi  (02 Jun  05:30)
-,Other Parties,Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c;   →  BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 49  (02 Jun  05:30)
-,Last Modified Accc,2026-05-25T16:22:24+10:00  →  2026-06-01T14:38:26+10:00  (02 Jun  05:30)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (02 Jun  05:30)
-,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Stonepeak - Castrol', '  →    (02 Jun  05:30)"
-,,
+"CHANGED ENTRIES (15 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
 ,Last Modified Accc,2026-05-25T16:51:04+10:00  →  2026-06-02T16:25:01+10:00  (02 Jun  23:00)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (02 Jun  23:00)
