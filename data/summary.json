@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-06-09T11:56:26.935780Z",
-  "total_entries": 331,
+  "generated_at_utc": "2026-06-10T12:55:01.674104Z",
+  "total_entries": 338,
   "by_acquisition_status": {
-    "Under assessment": 43,
-    "Assessment completed": 288
+    "Under assessment": 41,
+    "Assessment completed": 297
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 129,
-    "Waiver application": 197,
+    "Phase 1 - initial assessment": 131,
+    "Waiver application": 202,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 134,
-    "Waiver": 197
+    "Notification": 136,
+    "Waiver": 202
   },
   "by_accc_determination": {
-    "Approved": 273,
+    "Approved": 282,
     "Not approved": 14,
     "Approved with conditions": 1
   },
@@ -24,31 +24,37 @@
       "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
       "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd",
       "end_of_determination_period": "10 Jun 2026",
-      "days_remaining": 1
+      "days_remaining": 0
     },
     {
       "slug": "fulton-hogan-%E2%80%93-avionics",
       "title": "Fulton Hogan – Avionics",
       "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
       "title": "News – acquisition of 20% of National Distribution Services",
       "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
       "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd",
       "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
+    },
+    {
+      "slug": "macquarie-asset-management-led-consortium-%E2%80%93-qube",
+      "title": "Macquarie Asset Management led consortium – Qube",
+      "end_of_determination_period": "19 Jun 2026",
+      "days_remaining": 9
     },
     {
       "slug": "rubik-australia-pty-limited-qube-holdings-limited",
       "title": "Rubik Australia Pty Limited - Qube Holdings Limited",
       "end_of_determination_period": "19 Jun 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }

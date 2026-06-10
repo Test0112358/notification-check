@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-09 11:44:37.930771,
-Last scrape run (AEST),09 Jun 2026  21:44,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-10 12:41:54.339679,
+Last scrape run (AEST),10 Jun 2026  22:41,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,331,
-New entries this run,6,
-Changed entries this run,2,
+Total entries monitored,338,
+New entries this run,7,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,45 +13,57 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (6),Case Number,URL
-"+ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
-+ Uber - Blacklane,MN-20018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane
-+ Capital Group - Big Post,WA-95019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/capital-group-big-post
-+ GenusPlus Group – MPC Kinetic,WA-55022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genusplus-group-%E2%80%93-mpc-kinetic
-+ News Corp – acquisition of 20% of National Distribution Services,MN-35014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-corp-%E2%80%93-acquisition-of-20-of-national-distribution-services
-+ WPF Duratec - Pacific Welding (Davhold Australia),MN-75018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pacific-welding-davhold-australia
+NEW ENTRIES (7),Case Number,URL
++ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
++ Regional Australia Bank – South West Slopes Credit Union,WA-30021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union
++ Fujifilm – endoscopy distribution business in Australia,WA-01102,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fujifilm-%E2%80%93-endoscopy-distribution-business-in-australia
++ Platinum Equity Group - LMPG,WA-80020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/platinum-equity-group-lmpg
++ KKR – Fresha.com,WA-30019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-%E2%80%93-freshacom
++ QIC – CopperString Project assets from Powerlink Queensland,WA-60019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/qic-%E2%80%93-copperstring-project-assets-from-powerlink-queensland
++ Macquarie Asset Management led consortium – Qube,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,1 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Last Modified Accc,2026-05-27T09:27:53+10:00  →  2026-06-10T12:20:13+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - Phase 1 Determination', "
+,,
+~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,30 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  10 June 2026
+,Acquirers,Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard In  →  Mastercard Incorporated; 3390142; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard International I
+,Targets,BVNK Holdings Limited; 13922014; B Corporation S.A.M; 23S09602  →  B Corporation S.A.M; 23S09602; BVNK Holdings Limited; 13922014
+,Last Modified Accc,2026-05-25T16:32:26+10:00  →  2026-06-10T17:22:09+10:00
+,Consultation Text,The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h  →  
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Mastercard - BVNK - Phase 1 determination', 'url': 'https:/"
+,,
+~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,End Of Determination Period,25 Jun 2026  →  
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  9 June 2026
-,Targets,N&M Burton Pty Ltd; 125 935 944; SHARTON MOTORS PTY LTD; 55 001 345 384  →  SHARTON MOTORS PTY LTD; 55 001 345 384; N&M Burton Pty Ltd; 125 935 944
-,Last Modified Accc,2026-05-21T10:20:16+10:00  →  2026-06-09T16:40:05+10:00
+,Last Modified Accc,2026-05-20T09:29:59+10:00  →  2026-06-10T11:59:09+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Tony White Group - Sharton Motors - Phase 1 determination', "
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'OpenAI-Tomoro - Phase 1 determination', 'url': 'https://www."
 ,,
-~ Paramount Skydance - Warner Bros. Discovery,MN-45006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery
-,Title,Paramount Skydance / Warner Bros. Discovery  →  Paramount Skydance - Warner Bros. Discovery
+~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,12 Jun 2026  →  
+,End Of Determination Period,25 Jun 2026  →  
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  9 June 2026
-,Last Modified Accc,2026-05-08T14:54:54+10:00  →  2026-06-09T17:21:45+10:00
+,Last Modified Accc,2026-05-20T16:59:10+10:00  →  2026-06-10T16:46:36+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Paramount Skydance-Warner Bros Discovery - Phase 1 determina"
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'AtkinsRealis - WGA - Phase 1 Determination', 'url': 'https:/"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (24),Case Number,Detected (AEST)
-+ KK Group Invest - PowerCon,WA-20024,02 Jun  23:00
-+ Direct Couriers – Phoenix Transport,WA-80017,02 Jun  23:00
-+ SOILCO - Go Grow,WA-80018,02 Jun  23:00
-"+ Star Hotels Group - Shafston Hotel, QLD",WA-80015,02 Jun  23:00
-+ AUB – further interest in KJ Risk,WA-40023,02 Jun  23:00
-+ PRIME Asia – Stockland Sienna Wood and Providence,WA-20022,02 Jun  23:00
 + Precision Poultry - VOAG chicken farming operations,MN-35019,04 Jun  04:10
 + CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,04 Jun  04:10
 + Sony Music - Recognition Music,MN-20023,04 Jun  04:10
@@ -70,25 +82,14 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + Premier Fresh – Domenico Group,MN-40020,05 Jun  21:52
 "+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,05 Jun  21:52
 + RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC,WA-45014,09 Jun  00:51
+"+ Coles – supermarket site in Minto, NSW",MN-25029,09 Jun  21:44
++ Uber - Blacklane,MN-20018,09 Jun  21:44
++ Capital Group - Big Post,WA-95019,09 Jun  21:44
++ GenusPlus Group – MPC Kinetic,WA-55022,09 Jun  21:44
++ News Corp – acquisition of 20% of National Distribution Services,MN-35014,09 Jun  21:44
++ WPF Duratec - Pacific Welding (Davhold Australia),MN-75018,09 Jun  21:44
 ,,
-"CHANGED ENTRIES (15 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
-~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
-,Last Modified Accc,2026-05-25T16:51:04+10:00  →  2026-06-02T16:25:01+10:00  (02 Jun  23:00)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (02 Jun  23:00)
-,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (02 Jun  23:00)"
-,,
-~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
-,End Of Determination Period,2 Jun 2026  →  9 Oct 2026  (02 Jun  23:00)
-,Targets,HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 5  →  WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 16  (02 Jun  23:00)
-,Last Modified Accc,2026-04-07T15:03:09+10:00  →  2026-06-02T17:16:13+10:00  (02 Jun  23:00)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →  The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has   (02 Jun  23:00)
-,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   →  [{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  (02 Jun  23:00)"
-,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (04 Jun  04:10)
-,End Of Determination Period,9 Oct 2026  →  8 Oct 2026  (04 Jun  04:10)
-,Targets,WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 16  →  WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trus  (04 Jun  04:10)
-,Last Modified Accc,2026-06-02T17:16:13+10:00  →  2026-06-03T16:39:04+10:00  (04 Jun  04:10)
-,Decisions Docs,"[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   (04 Jun  04:10)"
-,,
+"CHANGED ENTRIES (16 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
 ,Targets,"Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent I  →  Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679);  (04 Jun  04:10)"
 ,Other Parties,Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henke  →  Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellsc  (04 Jun  04:10)
@@ -100,6 +101,13 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Other Parties,Zurich Assure Australia Pty Ltd; Zurich Financial Services Australia Limited; In  →  Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services   (04 Jun  04:10)
 ,Last Modified Accc,2026-05-25T16:56:33+10:00  →  2026-06-03T09:52:59+10:00  (04 Jun  04:10)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  04:10)
+,,
+~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (04 Jun  04:10)
+,End Of Determination Period,9 Oct 2026  →  8 Oct 2026  (04 Jun  04:10)
+,Targets,WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 16  →  WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trus  (04 Jun  04:10)
+,Last Modified Accc,2026-06-02T17:16:13+10:00  →  2026-06-03T16:39:04+10:00  (04 Jun  04:10)
+,Decisions Docs,"[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   (04 Jun  04:10)"
 ,,
 ~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
 ,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  04:10)
@@ -190,4 +198,24 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-19T16:46:10+10:00  →  2026-06-05T08:51:48+10:00  (05 Jun  21:52)
 ,Consultation Text,The period for providing submission or information in response to the ACCC's Pha  →    (05 Jun  21:52)
 ,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Novartis - Excellergy - Phase 1 Determin  (05 Jun  21:52)"
+,,
+"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Jun  21:44)
+,End Of Determination Period,25 Jun 2026  →    (09 Jun  21:44)
+,Accc Determination,  →  Approved  (09 Jun  21:44)
+,Determination Publication Date,  →  9 June 2026  (09 Jun  21:44)
+,Targets,N&M Burton Pty Ltd; 125 935 944; SHARTON MOTORS PTY LTD; 55 001 345 384  →  SHARTON MOTORS PTY LTD; 55 001 345 384; N&M Burton Pty Ltd; 125 935 944  (09 Jun  21:44)
+,Last Modified Accc,2026-05-21T10:20:16+10:00  →  2026-06-09T16:40:05+10:00  (09 Jun  21:44)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jun  21:44)
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Tony White Group - Sharton Motors - Phas  (09 Jun  21:44)"
+,,
+~ Paramount Skydance - Warner Bros. Discovery,MN-45006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery
+,Title,Paramount Skydance / Warner Bros. Discovery  →  Paramount Skydance - Warner Bros. Discovery  (09 Jun  21:44)
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Jun  21:44)
+,End Of Determination Period,12 Jun 2026  →    (09 Jun  21:44)
+,Accc Determination,  →  Approved  (09 Jun  21:44)
+,Determination Publication Date,  →  9 June 2026  (09 Jun  21:44)
+,Last Modified Accc,2026-05-08T14:54:54+10:00  →  2026-06-09T17:21:45+10:00  (09 Jun  21:44)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jun  21:44)
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Paramount Skydance-Warner Bros Discovery  (09 Jun  21:44)"
 ,,
