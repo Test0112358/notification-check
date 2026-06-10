@@ -1,5 +1,29 @@
 [
   {
+    "slug": "eli-lilly-kelonia-therapeutics",
+    "title": "Eli Lilly - Kelonia Therapeutics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "wpf-duratec-pacific-welding-davhold-australia",
+    "title": "WPF Duratec - Pacific Welding (Davhold Australia)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pacific-welding-davhold-australia",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "barro-group-bqc-quarries-and-burdekin-concrete",
     "title": "Barro Group - BQC Quarries and Burdekin Concrete",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete",
@@ -63,6 +87,42 @@
     "slug": "saipem-spa-subsea7-sa",
     "title": "Saipem - Subsea7",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
+    "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "rubik-australia-pty-limited-qube-holdings-limited",
+    "title": "Rubik Australia Pty Limited - Qube Holdings Limited",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rubik-australia-pty-limited-qube-holdings-limited",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
+    "title": "News – acquisition of 20% of National Distribution Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
