@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-06-10T12:41:54.339679Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "equans-cv-services-group",
-      "title": "Equans - CV Services Group",
-      "case_number": "MN-05025",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group",
-      "date": "10 Jun 2026",
-      "description": "Questionnaire - Equans - CV Services Group",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Equans%20-%20CV%20Services%20Group%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Equans - CV Services Group - Questionnaire.docx",
-      "filename": "Equans - CV Services Group - Questionnaire.docx",
-      "size_kb": 115.9
-    }
-  ]
+  "run_utc": "2026-06-11T13:05:20.939123Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

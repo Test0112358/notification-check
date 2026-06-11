@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-10 12:41:54.339679,
-Last scrape run (AEST),10 Jun 2026  22:41,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-11 13:05:20.939123,
+Last scrape run (AEST),11 Jun 2026  23:05,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,338,
-New entries this run,7,
-Changed entries this run,4,
+New entries this run,0,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,72 +13,31 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
-+ Regional Australia Bank – South West Slopes Credit Union,WA-30021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union
-+ Fujifilm – endoscopy distribution business in Australia,WA-01102,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fujifilm-%E2%80%93-endoscopy-distribution-business-in-australia
-+ Platinum Equity Group - LMPG,WA-80020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/platinum-equity-group-lmpg
-+ KKR – Fresha.com,WA-30019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-%E2%80%93-freshacom
-+ QIC – CopperString Project assets from Powerlink Queensland,WA-60019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/qic-%E2%80%93-copperstring-project-assets-from-powerlink-queensland
-+ Macquarie Asset Management led consortium – Qube,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube
-,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,End Of Determination Period,1 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Last Modified Accc,2026-05-27T09:27:53+10:00  →  2026-06-10T12:20:13+10:00
+,Determination Publication Date,  →  11 June 2026
+,Other Parties,"Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australia Pty Limited; 63 14  →  Primary Wave Music IP Fund 4 GP, LLC; Company number 7667915; KOBALT MUSIC SERVICES AUSTRALIA PTY LI"
+,Last Modified Accc,2026-05-28T09:38:38+10:00  →  2026-06-11T10:04:09+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - Phase 1 Determination', "
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Primary Wave-Kobalt - Phase 1 determination', 'url': 'https"
 ,,
-~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
+~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,30 Jun 2026  →  
+,End Of Determination Period,1 Jul 2026  →  
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  10 June 2026
-,Acquirers,Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard In  →  Mastercard Incorporated; 3390142; Ares UK Holdco 2 Limited; CRN 17107097; Mastercard International I
-,Targets,BVNK Holdings Limited; 13922014; B Corporation S.A.M; 23S09602  →  B Corporation S.A.M; 23S09602; BVNK Holdings Limited; 13922014
-,Last Modified Accc,2026-05-25T16:32:26+10:00  →  2026-06-10T17:22:09+10:00
-,Consultation Text,The period for providing submission or information in response to the ACCC's Phase 1 questionnaire h  →  
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Mastercard - BVNK - Phase 1 determination', 'url': 'https:/"
-,,
-~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,25 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  9 June 2026
-,Last Modified Accc,2026-05-20T09:29:59+10:00  →  2026-06-10T11:59:09+10:00
+,Other Parties,"Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 24 093 912 979; Gardi  →  Restaurant Brands New Zealand Limited; NZBN - 9429038138775; Yum! Brands, Inc.; US-NC - 0428278; Gar"
+,Last Modified Accc,2026-05-26T15:38:28+10:00  →  2026-06-11T16:28:31+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'OpenAI-Tomoro - Phase 1 determination', 'url': 'https://www."
-,,
-~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,25 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  9 June 2026
-,Last Modified Accc,2026-05-20T16:59:10+10:00  →  2026-06-10T16:46:36+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'AtkinsRealis - WGA - Phase 1 Determination', 'url': 'https:/"
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Restaurant Brands and Yum - Taco Bell Restaurants - Phase 1"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (24),Case Number,Detected (AEST)
-+ Precision Poultry - VOAG chicken farming operations,MN-35019,04 Jun  04:10
-+ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,04 Jun  04:10
-+ Sony Music - Recognition Music,MN-20023,04 Jun  04:10
-+ Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition,WA-60020,04 Jun  04:10
-+ Coles – supermarket site in Lidcombe (NSW),MN-50019,04 Jun  21:37
-+ ANZ Banking Group - Worldline Australia,MN-80014,04 Jun  21:37
-"+ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,04 Jun  21:37
-+ Vets Central - Claremont Veterinary Surgery,WA-55023,04 Jun  21:37
-+ KfW – KNDS N.V.,WA-75024,04 Jun  21:37
-+ Grant Thornton Advisors - Grant Thornton Australia,WA-95020,04 Jun  21:37
-+ BUSS Queensland – Additional interest in Duxton Vineyards,WA-35021,04 Jun  21:37
-+ Apollo Capital Management – Questex Holdings Group,WA-05023,04 Jun  21:37
-+ Laundy – Woy Woy Hotel,WA-25025,04 Jun  21:37
-+ INPEX – minority interests in Beetaloo development projects,WA-01101,04 Jun  21:37
-"+ Ochre Health - Airlie Women's Clinic, VIC",WA-01100,04 Jun  21:37
+NEW ENTRIES (16),Case Number,Detected (AEST)
 + Premier Fresh – Domenico Group,MN-40020,05 Jun  21:52
 "+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,05 Jun  21:52
 + RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC,WA-45014,09 Jun  00:51
@@ -88,86 +47,15 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + GenusPlus Group – MPC Kinetic,WA-55022,09 Jun  21:44
 + News Corp – acquisition of 20% of National Distribution Services,MN-35014,09 Jun  21:44
 + WPF Duratec - Pacific Welding (Davhold Australia),MN-75018,09 Jun  21:44
++ Equans - CV Services Group,MN-05025,10 Jun  22:41
++ Regional Australia Bank – South West Slopes Credit Union,WA-30021,10 Jun  22:41
++ Fujifilm – endoscopy distribution business in Australia,WA-01102,10 Jun  22:41
++ Platinum Equity Group - LMPG,WA-80020,10 Jun  22:41
++ KKR – Fresha.com,WA-30019,10 Jun  22:41
++ QIC – CopperString Project assets from Powerlink Queensland,WA-60019,10 Jun  22:41
++ Macquarie Asset Management led consortium – Qube,MN-10007,10 Jun  22:41
 ,,
-"CHANGED ENTRIES (16 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
-~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
-,Targets,"Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent I  →  Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679);  (04 Jun  04:10)"
-,Other Parties,Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henke  →  Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellsc  (04 Jun  04:10)
-,Last Modified Accc,2026-05-27T10:09:42+10:00  →  2026-06-03T10:43:33+10:00  (04 Jun  04:10)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  04:10)
-,Consultation Docs,"[{'date': '27 May 2026', 'description': 'Henkel - Olaplex - Questionnaire', 'url  →    (04 Jun  04:10)"
-,,
-~ Zurich - Beazley,MN-30016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley
-,Other Parties,Zurich Assure Australia Pty Ltd; Zurich Financial Services Australia Limited; In  →  Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services   (04 Jun  04:10)
-,Last Modified Accc,2026-05-25T16:56:33+10:00  →  2026-06-03T09:52:59+10:00  (04 Jun  04:10)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  04:10)
-,,
-~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
-,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (04 Jun  04:10)
-,End Of Determination Period,9 Oct 2026  →  8 Oct 2026  (04 Jun  04:10)
-,Targets,WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 16  →  WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trus  (04 Jun  04:10)
-,Last Modified Accc,2026-06-02T17:16:13+10:00  →  2026-06-03T16:39:04+10:00  (04 Jun  04:10)
-,Decisions Docs,"[{'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   (04 Jun  04:10)"
-,,
-~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  04:10)
-,End Of Determination Period,5 Jun 2026  →    (04 Jun  04:10)
-,Accc Determination,  →  Approved with conditions  (04 Jun  04:10)
-,Last Modified Accc,2026-05-01T13:27:04+10:00  →  2026-06-03T18:57:32+10:00  (04 Jun  04:10)
-,Consultation Text,"On 22 April 2026, Ampol made a further remedy offer to the ACCC to divest 41 ret  →    (04 Jun  04:10)"
-,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  →  [{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  (04 Jun  04:10)"
-,,
-~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
-,Other Parties,SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; Armitage Services IVA Pty Ltd; 665  →  Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164   (04 Jun  21:37)
-,Last Modified Accc,2026-05-27T17:26:13+10:00  →  2026-06-04T14:49:27+10:00  (04 Jun  21:37)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  21:37)
-,,
-~ Tibaldi - South Food Group,MN-25026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group
-,Other Parties,TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257; CHESTNUT AVENUE AUSTRALIA PT  →  CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA  (04 Jun  21:37)
-,Last Modified Accc,2026-05-25T17:16:26+10:00  →  2026-06-02T16:19:37+10:00  (04 Jun  21:37)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Jun  21:37)
-,Consultation Docs,"[{'date': '25 May 2026', 'description': 'Questionnaire - Tibaldi - South Food Gr  →    (04 Jun  21:37)"
-,,
-~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
-,End Of Determination Period,25 Jun 2026  →    (04 Jun  21:37)
-,Accc Determination,  →  Approved  (04 Jun  21:37)
-,Determination Publication Date,  →  3 June 2026  (04 Jun  21:37)
-,Other Parties,Axcentium Pty Ltd; 48 638 953 572; PSD Plant & Equipment Pty Ltd; 97 144 778 861  →  Axcentium Pty Ltd; 48 638 953 572; Consolidated Power Projects Australia Pty Ltd  (04 Jun  21:37)
-,Last Modified Accc,2026-05-20T07:51:16+10:00  →  2026-06-04T10:11:07+10:00  (04 Jun  21:37)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (04 Jun  21:37)
-,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Quanta-PSD - Phase 1 determination - 3 J  (04 Jun  21:37)"
-,,
-~ Seismic – Highspot,MN-75014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
-,End Of Determination Period,25 Jun 2026  →    (04 Jun  21:37)
-,Accc Determination,  →  Approved  (04 Jun  21:37)
-,Determination Publication Date,  →  4 June 2026  (04 Jun  21:37)
-,Other Parties,Helix Sub LLC; Delaware File Number - 10492813; SEISMIC SOFTWARE PTY. LTD.; 87 6  →  SEISMIC SOFTWARE PTY. LTD.; 87 611 843 808; Helix Sub Inc.; Delaware File Number  (04 Jun  21:37)
-,Last Modified Accc,2026-05-20T17:01:33+10:00  →  2026-06-04T17:10:35+10:00  (04 Jun  21:37)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (04 Jun  21:37)
-,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Seismic - Highspot - Phase 1 Determinati  (04 Jun  21:37)"
-,,
-~ 3M and funds managed and/or advised by Bain Capital - Madison Fire & Rescue,MN-15015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/3m-and-funds-managed-andor-advised-by-bain-capital-madison-fire-rescue
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
-,End Of Determination Period,19 Jun 2026  →    (04 Jun  21:37)
-,Accc Determination,  →  Approved  (04 Jun  21:37)
-,Determination Publication Date,  →  4 June 2026  (04 Jun  21:37)
-,Other Parties,"Bain Capital Investors, LLC; IRS EIN - 81-2878769; 3M Company; IRS EIN - 41-0417  →  Bain Capital Investors, LLC; IRS EIN - 81-2878769; Madison Industrial Solutions   (04 Jun  21:37)"
-,Last Modified Accc,2026-05-19T09:53:11+10:00  →  2026-06-04T16:38:14+10:00  (04 Jun  21:37)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (04 Jun  21:37)
-,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': '3M and funds managed and/or advised by B  (04 Jun  21:37)"
-,,
-~ Barro Group - BQC Quarries and Burdekin Concrete,MN-60011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/barro-group-bqc-quarries-and-burdekin-concrete
-,Title,Barro Group / BQC Quarries and Burdekin Concrete  →  Barro Group - BQC Quarries and Burdekin Concrete  (04 Jun  21:37)
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Jun  21:37)
-,End Of Determination Period,11 Jun 2026  →    (04 Jun  21:37)
-,Accc Determination,  →  Approved  (04 Jun  21:37)
-,Targets,BQC Registrations Pty Ltd; 613 361 041; BQC SANDS PTY LTD; 92 662 904 190; M&T P  →  M&T Populin Pty Ltd; 092 648 078; BQC Registrations Pty Ltd; 613 361 041; TWIN R  (04 Jun  21:37)
-,Last Modified Accc,2026-05-07T13:35:47+10:00  →  2026-06-04T10:59:48+10:00  (04 Jun  21:37)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (04 Jun  21:37)
-,Decisions Docs,"  →  [{'date': '3 Jun 2026', 'description': 'Barro - BQC Quarries and Burdekin Concre  (04 Jun  21:37)"
-,,
+"CHANGED ENTRIES (10 entries, 10 change events)",Field changed,Old value  →  New value  (AEST)
 ~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
 ,Last Modified Accc,2026-06-04T10:41:29+10:00  →  2026-06-05T15:21:57+10:00  (05 Jun  21:52)
 ,,
@@ -218,4 +106,41 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-08T14:54:54+10:00  →  2026-06-09T17:21:45+10:00  (09 Jun  21:44)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jun  21:44)
 ,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Paramount Skydance-Warner Bros Discovery  (09 Jun  21:44)"
+,,
+~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
+,End Of Determination Period,1 Jul 2026  →    (10 Jun  22:41)
+,Accc Determination,  →  Approved  (10 Jun  22:41)
+,Last Modified Accc,2026-05-27T09:27:53+10:00  →  2026-06-10T12:20:13+10:00  (10 Jun  22:41)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - Phas  (10 Jun  22:41)"
+,,
+~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
+,End Of Determination Period,30 Jun 2026  →    (10 Jun  22:41)
+,Accc Determination,  →  Approved  (10 Jun  22:41)
+,Determination Publication Date,  →  10 June 2026  (10 Jun  22:41)
+,Acquirers,Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 171  →  Mastercard Incorporated; 3390142; Ares UK Holdco 2 Limited; CRN 17107097; Master  (10 Jun  22:41)
+,Targets,BVNK Holdings Limited; 13922014; B Corporation S.A.M; 23S09602  →  B Corporation S.A.M; 23S09602; BVNK Holdings Limited; 13922014  (10 Jun  22:41)
+,Last Modified Accc,2026-05-25T16:32:26+10:00  →  2026-06-10T17:22:09+10:00  (10 Jun  22:41)
+,Consultation Text,The period for providing submission or information in response to the ACCC's Pha  →    (10 Jun  22:41)
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Mastercard - BVNK - Phase 1 determinati  (10 Jun  22:41)"
+,,
+~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
+,End Of Determination Period,25 Jun 2026  →    (10 Jun  22:41)
+,Accc Determination,  →  Approved  (10 Jun  22:41)
+,Determination Publication Date,  →  9 June 2026  (10 Jun  22:41)
+,Last Modified Accc,2026-05-20T09:29:59+10:00  →  2026-06-10T11:59:09+10:00  (10 Jun  22:41)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'OpenAI-Tomoro - Phase 1 determination',   (10 Jun  22:41)"
+,,
+~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
+,End Of Determination Period,25 Jun 2026  →    (10 Jun  22:41)
+,Accc Determination,  →  Approved  (10 Jun  22:41)
+,Determination Publication Date,  →  9 June 2026  (10 Jun  22:41)
+,Last Modified Accc,2026-05-20T16:59:10+10:00  →  2026-06-10T16:46:36+10:00  (10 Jun  22:41)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
+,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'AtkinsRealis - WGA - Phase 1 Determinati  (10 Jun  22:41)"
 ,,
