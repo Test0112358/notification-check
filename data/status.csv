@@ -1,38 +1,80 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-11 13:05:20.939123,
-Last scrape run (AEST),11 Jun 2026  23:05,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-12 06:23:09.153947,
+Last scrape run (AEST),12 Jun 2026  16:23,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,338,
-New entries this run,0,
-Changed entries this run,2,
-Removed entries this run,0,
+Total entries monitored,334,
+New entries this run,1,
+Changed entries this run,8,
+Removed entries this run,5,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
+NEW ENTRIES (1),Case Number,URL
++ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
+,,
+CHANGED ENTRIES (8),Field changed,Old value  →  New value
+~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
+,Targets,De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 070 037 795; DOUBLE D PRODUCE PTY LTD; 86 07  →  DOUBLE D PRODUCE PTY LTD; 86 074 625 004; De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 07
+,Last Modified Accc,2026-06-05T11:13:50+10:00  →  2026-06-12T15:49:39+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '5 Jun 2026', 'description': 'Questionnaire - Premier Fresh - Domenico Group', 'url': 'htt  →  "
+,,
+~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
+,Targets,WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034; Worldline SA; VATIN FR01378901946  →  Worldline SA; VATIN FR01378901946; WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034
+,Last Modified Accc,2026-06-05T15:21:57+10:00  →  2026-06-12T15:19:48+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'ANZ Banking Group - Worldline Australia - Questionnaire', 'u  →  "
+,,
+~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
+,Acquirers,SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Orion BidCo LLC; DDC -  →  Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200; SMG-Three LLC; DDC -
+,Other Parties,"Candle Media LLC; DDC - 6119562; SESAC Holdings, Inc; NY DOS ID - 1652738; Blackstone Inc; DDC - 431  →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; National Exhibition Centre "
+,Last Modified Accc,2026-06-03T14:19:02+10:00  →  2026-06-10T17:15:56+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
+,,
+~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
+,Last Modified Accc,2026-06-03T12:25:40+10:00  →  2026-06-11T10:02:59+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - CVS Group – Paws at Prospect Vet and Eyes at  →  "
+,,
+~ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,1 Jul 2026  →  
+,End Of Determination Period,3 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  11 June 2026
-,Other Parties,"Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australia Pty Limited; 63 14  →  Primary Wave Music IP Fund 4 GP, LLC; Company number 7667915; KOBALT MUSIC SERVICES AUSTRALIA PTY LI"
-,Last Modified Accc,2026-05-28T09:38:38+10:00  →  2026-06-11T10:04:09+10:00
+,Determination Publication Date,  →  12 June 2026
+,Acquirers,DPG SERVICES PTY LTD; 38 090 007 999; OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477  →  OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477; DPG SERVICES PTY LTD; 38 090 007 999
+,Targets,Java Dale Pty Ltd; 077 379 367; Bethel Amen Pty Ltd; 077 379 358  →  Bethel Amen Pty Ltd; 077 379 358; Java Dale Pty Ltd; 077 379 367
+,Last Modified Accc,2026-05-29T12:31:12+10:00  →  2026-06-12T15:31:23+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Primary Wave-Kobalt - Phase 1 determination', 'url': 'https"
+,Decisions Docs,"  →  [{'date': '12 Jun 2026', 'description': 'Opal Healthcare - Bethel Aged Care - Phase 1 determination'"
+,,
+~ Magellan Financial Group - Barrenjoey,MN-95007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,2 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  12 June 2026
+,Last Modified Accc,2026-05-27T16:17:13+10:00  →  2026-06-12T08:44:51+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '11 Jun 2026', 'description': 'Magellan Financial Group - Barrenjoey - Phase 1 determinati"
 ,,
 ~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,1 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  10 June 2026
-,Other Parties,"Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 24 093 912 979; Gardi  →  Restaurant Brands New Zealand Limited; NZBN - 9429038138775; Yum! Brands, Inc.; US-NC - 0428278; Gar"
-,Last Modified Accc,2026-05-26T15:38:28+10:00  →  2026-06-11T16:28:31+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Restaurant Brands and Yum - Taco Bell Restaurants - Phase 1"
+,Determination Publication Date,10 June 2026  →  11 June 2026
+,Last Modified Accc,2026-06-11T16:28:31+10:00  →  2026-06-12T08:46:44+10:00
+,,
+~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
+,Determination Publication Date,3 June 2026  →  4 June 2026
+,Last Modified Accc,2026-06-04T10:11:07+10:00  →  2026-06-12T08:52:37+10:00
+,,
+REMOVED ENTRIES (5),Case Number,
+- Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,MN-20012,
+- News – acquisition of 20% of National Distribution Services,MN-35014,
+- Rubik Australia Pty Limited - Qube Holdings Limited,MN-10007,
+- Saipem - Subsea7,MN-01072,
+- WPF DURATEC PTY LTD / Davhold Australia Pty Ltd,MN-75018,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -55,7 +97,7 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 + QIC – CopperString Project assets from Powerlink Queensland,WA-60019,10 Jun  22:41
 + Macquarie Asset Management led consortium – Qube,MN-10007,10 Jun  22:41
 ,,
-"CHANGED ENTRIES (10 entries, 10 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (12 entries, 12 change events)",Field changed,Old value  →  New value  (AEST)
 ~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
 ,Last Modified Accc,2026-06-04T10:41:29+10:00  →  2026-06-05T15:21:57+10:00  (05 Jun  21:52)
 ,,
@@ -143,4 +185,24 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-20T16:59:10+10:00  →  2026-06-10T16:46:36+10:00  (10 Jun  22:41)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
 ,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'AtkinsRealis - WGA - Phase 1 Determinati  (10 Jun  22:41)"
+,,
+~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
+,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
+,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
+,Accc Determination,  →  Approved  (11 Jun  23:05)
+,Determination Publication Date,  →  11 June 2026  (11 Jun  23:05)
+,Other Parties,"Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australi  →  Primary Wave Music IP Fund 4 GP, LLC; Company number 7667915; KOBALT MUSIC SERVI  (11 Jun  23:05)"
+,Last Modified Accc,2026-05-28T09:38:38+10:00  →  2026-06-11T10:04:09+10:00  (11 Jun  23:05)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (11 Jun  23:05)
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Primary Wave-Kobalt - Phase 1 determina  (11 Jun  23:05)"
+,,
+~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
+,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
+,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
+,Accc Determination,  →  Approved  (11 Jun  23:05)
+,Determination Publication Date,  →  10 June 2026  (11 Jun  23:05)
+,Other Parties,"Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 2  →  Restaurant Brands New Zealand Limited; NZBN - 9429038138775; Yum! Brands, Inc.;   (11 Jun  23:05)"
+,Last Modified Accc,2026-05-26T15:38:28+10:00  →  2026-06-11T16:28:31+10:00  (11 Jun  23:05)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (11 Jun  23:05)
+,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Restaurant Brands and Yum - Taco Bell R  (11 Jun  23:05)"
 ,,
