@@ -189,6 +189,7 @@ def push_dashboard(sh):
         return next((c for c in names if c in df.columns), None)
 
     title_c = col("Title", "title")
+    case_c  = col("Case Number", "case_number")
     due_c   = col("End Of Determination Period", "end_of_determination_period")
     det_c   = col("ACCC Determination", "accc_determination")
     stage_c = col("Stage", "Acquisition Status", "stage")
@@ -212,7 +213,8 @@ def push_dashboard(sh):
                 continue
             days = (d - today).days
             if 0 <= days <= 14:
-                due_list.append((days, str(r.get(title_c, "")).strip(), ds))
+                cn = str(r.get(case_c, "")).strip() if case_c else ""
+                due_list.append((days, str(r.get(title_c, "")).strip(), ds, cn))
     due_list.sort()
 
     # Active Phase 2 cases
@@ -222,6 +224,15 @@ def push_dashboard(sh):
             if "phase 2" in str(r.get(dec_c, "")).lower():
                 if not (det_c and str(r.get(det_c, "")).strip()):
                     phase2.append(str(r.get(title_c, "")).strip())
+
+    # Active cases with extended determination timelines
+    extended = []
+    if dec_c:
+        for _, r in df.iterrows():
+            if "timeline extended" in str(r.get(dec_c, "")).lower():
+                if not (det_c and str(r.get(det_c, "")).strip()):
+                    cn = str(r.get(case_c, "")).strip() if case_c else ""
+                    extended.append((str(r.get(title_c, "")).strip(), cn))
 
     # Sector counts
     sectors = {}
@@ -235,11 +246,14 @@ def push_dashboard(sh):
 
     rows = [["ACCC REGISTER — DASHBOARD", today.strftime("%d %b %Y %H:%M AEST"), ""]]
     rows.append(["", "", ""])
-    rows.append([f"DECISIONS DUE (next 14 days) — {len(due_list)}", "Due date", "Days left"])
-    rows += [[t, ds, dleft] for dleft, t, ds in due_list] or [["None pending", "", ""]]
+    rows.append([f"DECISIONS DUE (next 14 days) — {len(due_list)}", "Case", "Due date", "Days left"])
+    rows += [[t, cn, ds, dleft] for dleft, t, ds, cn in due_list] or [["None pending", "", "", ""]]
     rows.append(["", "", ""])
     rows.append([f"ACTIVE PHASE 2 REVIEWS — {len(phase2)}", "", ""])
     rows += [[p, "", ""] for p in phase2] or [["None active", "", ""]]
+    rows.append(["", "", ""])
+    rows.append([f"EXTENDED TIMELINES (active) — {len(extended)}", "Case", ""])
+    rows += [[t, cn, ""] for t, cn in extended] or [["None", "", ""]]
     rows.append(["", "", ""])
     if top_sectors:
         rows.append(["TOP SECTORS BY DEAL COUNT", "Deals", ""])
@@ -247,6 +261,10 @@ def push_dashboard(sh):
 
     ws.clear()
     ws.update(rows)
+    ws.format("A1:C1", {"backgroundColor": {"red": 0.05, "green": 0.11, "blue": 0.16},
+                        "textFormat": {"bold": True, "foregroundColor": {"red": 1, "green": 1, "blue": 1}}})
+    ws.format("A3:C3", {"textFormat": {"bold": True}, "backgroundColor": {"red": 0.93, "green": 0.95, "blue": 0.97}})
+    ws.freeze(rows=1)
     print(f"  Dashboard: refreshed ({len(rows)} rows)")
 
 def main():
