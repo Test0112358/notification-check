@@ -1351,29 +1351,36 @@ def run():
    # ── Removed entries ────────────────────────────────────────────────────
     potentially_removed = sorted(set(stored_register.keys()) - set(new_register.keys()))
 
-    removed_slugs = []
+   removed_slugs = []
+
+    # Defect B fix: case numbers already present under a fresh slug = renamed deal
+    fresh_cases = {e.get("case_number", "") for e in new_register.values() if e.get("case_number")}
 
     if potentially_removed:
         print(f"\n  Verifying {len(potentially_removed)} potentially removed entry(ies)...")
 
     for slug in potentially_removed:
         stored_entry = stored_register[slug]
-        # Use the stored URL directly — more reliable than reconstructing it
+
+        if stored_entry.get("case_number") and stored_entry["case_number"] in fresh_cases:
+            removed_slugs.append(slug)
+            print(f"    Renamed duplicate, dropping stale slug: {slug}")
+            continue
+
         detail_url = stored_entry.get("url", "")
         if not detail_url:
             detail_url = f"{BASE_URL}/acquisitions-register/{slug}"
         try:
             r = session.get(detail_url, timeout=30)
             if r.status_code == 404 or "page not found" in r.text.lower():
-                # Genuinely gone from the ACCC website
                 removed_slugs.append(slug)
                 print(f"    CONFIRMED removed: {slug}")
             else:
-                # Page still exists — pagination miss, recover from stored data
-                print(f"    Recovered (pagination miss): {slug}")
-                new_register[slug] = {**stored_entry, "last_scraped_utc": run_utc}
+                # Defect A fix: re-parse the live page instead of keeping stale data
+                fresh = parse_detail_page(BeautifulSoup(r.text, "lxml"), detail_url)
+                new_register[slug] = {**stored_entry, **fresh, "last_scraped_utc": run_utc}
+                print(f"    Recovered (pagination miss, re-parsed live): {slug}")
         except Exception as exc:
-            # Cannot verify — conservative default is to keep the entry
             print(f"    Cannot verify {slug} — keeping in register ({exc})")
             new_register[slug] = {**stored_entry, "last_scraped_utc": run_utc}
 
