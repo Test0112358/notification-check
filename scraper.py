@@ -620,7 +620,7 @@ def parse_detail_page(soup, url):
     if others:
         data["other_parties"] = "; ".join(others)
 
-   # ── Section-aware document and text extraction ─────────────────────────
+    # ── Section-aware document and text extraction ─────────────────────────
     all_h3_and_tables = soup.find_all(["h3", "table"])
 
     for h3 in soup.find_all("h3"):
@@ -940,7 +940,7 @@ def export_excel(register, run_utc, new_slugs, changed_slugs, removed_slugs):
             for col in [1, 2]:
                 ws_sum.cell(row=ri, column=col).fill = SECTION_FILL
 
-    # ── Save ───────────────────────────────────────────────────────────────
+    # ── Save ───────────────────────────────────────────────────────────[...]
     path = os.path.join(DATA_DIR, "register.xlsx")
     wb.save(path)
     print(f"  Excel exported: {len(register)} rows → {path}")
@@ -1066,9 +1066,8 @@ def download_questionnaires(questionnaires, session):
             print(f"  WARNING: Could not download {url}: {exc}")
 
     return downloaded
-  
 
-  
+
 def write_status_csv(run_utc, register, stored_register,
                      new_slugs, changed_slugs, removed_slugs, changelog):
     """Write status.csv for the Last Updated tab in Google Sheets."""
@@ -1306,7 +1305,7 @@ def run():
         entry["slug"] = slug
         entry["last_scraped_utc"] = run_utc
 
-        # ── Calculated day fields ──────────────────────────────────────────
+        # ── Calculated day fields ──────────────────────────────��───────────
         notif_date = entry.get("notification_date", "")
         end_det = entry.get("end_of_determination_period", "")
         det_pub = entry.get("determination_publication_date", "")
@@ -1348,10 +1347,10 @@ def run():
 
         new_register[slug] = entry
 
-   # ── Removed entries ────────────────────────────────────────────────────
+    # ── Removed entries ────────────────────────────────────────────────────
     potentially_removed = sorted(set(stored_register.keys()) - set(new_register.keys()))
 
-   removed_slugs = []
+    removed_slugs = []
 
     # Defect B fix: case numbers already present under a fresh slug = renamed deal
     fresh_cases = {e.get("case_number", "") for e in new_register.values() if e.get("case_number")}
@@ -1394,13 +1393,13 @@ def run():
             "changes": [],
         })
 
-    # ── Persist ────────────────────────────────────────────────────────────
+    # ── Persist ───────────────────────────────────────────────────────────[...]
     print("\nSaving data files...")
     save_json(REGISTER_JSON, new_register)
     save_json(CHANGELOG_JSON, changelog)
     export_csv(new_register)
 
- 
+
 
     summary = generate_summary(new_register)
     save_json(SUMMARY_JSON, summary)
@@ -1491,7 +1490,7 @@ def run():
         for item in summary["decisions_due_within_10_days"]:
             print(f"    ⚠  {item['title']} — {item['end_of_determination_period']} ({item['days_remaining']}d)")
 
- # ── GitHub Actions output variables ────────────────────────────────────
+    # ── GitHub Actions output variables ────────────────────────────────────
     has_changes = bool(new_slugs or changed_slugs or removed_slugs)
     gh_output = os.environ.get("GITHUB_OUTPUT", "")
     if gh_output:
