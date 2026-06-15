@@ -1,273 +1,158 @@
 {
-  "run_utc": "2026-06-12T06:23:09.153947Z",
-  "new_count": 1,
-  "changed_count": 8,
-  "removed_count": 5,
+  "run_utc": "2026-06-15T18:10:18.949122Z",
+  "new_count": 3,
+  "changed_count": 6,
+  "removed_count": 0,
   "new_entries": [
     {
-      "slug": "ebos-paringa-pet-foods",
-      "title": "EBOS - Paringa Pet Foods",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods"
+      "slug": "service-stream-%E2%80%93-rie",
+      "title": "Service Stream – RiE",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie"
+    },
+    {
+      "slug": "hillhouse-mgi-dobbyn-carafa",
+      "title": "Hillhouse - MGI Dobbyn Carafa",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-mgi-dobbyn-carafa"
+    },
+    {
+      "slug": "frasers-group-%E2%80%93-accent-group",
+      "title": "Frasers Group – Accent Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/frasers-group-%E2%80%93-accent-group"
     }
   ],
   "changed_entries": [
     {
-      "slug": "premier-fresh-%E2%80%93-domenico-group",
-      "title": "Premier Fresh – Domenico Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group",
+      "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+      "title": "Coles – supermarket site in Lidcombe (NSW)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
       "changes": [
         {
-          "field": "targets",
-          "old": "De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 070 037 795; DOUBLE D PRODUCE PTY LTD; 86 074 625 004; C.A. DE DOMENICO PTY LTD; 18 102 487 963",
-          "new": "DOUBLE D PRODUCE PTY LTD; 86 074 625 004; De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 070 037 795; C.A. DE DOMENICO PTY LTD; 18 102 487 963"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-06-05T11:13:50+10:00",
-          "new": "2026-06-12T15:49:39+10:00"
+          "old": "2026-06-04T16:39:45+10:00",
+          "new": "2026-06-15T11:08:11+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 June 2026 via email to mergers@accc.gov.au with the title Submission re: Premier Fresh – Domenico Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 5 Jun 2026 Questionnaire - Premier Fresh - Domenico Group Attachment 116.01 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 June 2026 via email to mergers@accc.gov.au with the title Coles - supermarket site in Lidcombe (NSW). The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 4 Jun 2026 Questionnaire Attachment 60.22 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '5 Jun 2026', 'description': 'Questionnaire - Premier Fresh - Domenico Group', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Premier%20Fresh%20-%20Domenico%20Group.docx'}]",
+          "old": "[{'date': '4 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Lidcombe%20-%20Questionnaire%20-%20May%202026.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "anz-banking-group-worldline-australia",
-      "title": "ANZ Banking Group - Worldline Australia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia",
+      "slug": "precision-poultry-voag-chicken-farming-operations",
+      "title": "Precision Poultry - VOAG chicken farming operations",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
       "changes": [
         {
           "field": "targets",
-          "old": "WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034; Worldline SA; VATIN FR01378901946",
-          "new": "Worldline SA; VATIN FR01378901946; WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034"
+          "old": "VOAG 6 PTY LTD; 75 606 446 735; VOAG 2 PTY LTD; 33 606 445 747; VOAG 5 PTY LTD; 606 446 039; VOAG 3 PTY LTD; 48 606 445 809; VOAG PTY LTD; 84 606 381 597; VOAG 4 PTY LTD; 606 447 572; VOAG 1 PTY LTD; 12 606 445 658",
+          "new": "VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 606 381 597; VOAG 1 PTY LTD; 12 606 445 658; VOAG 6 PTY LTD; 75 606 446 735; VOAG 3 PTY LTD; 48 606 445 809; VOAG 5 PTY LTD; 606 446 039"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-05T15:21:57+10:00",
-          "new": "2026-06-12T15:19:48+10:00"
+          "old": "2026-06-03T09:49:36+10:00",
+          "new": "2026-06-15T08:30:34+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 June 2026 via email to mergers@accc.gov.au with the title Submission re: ANZ Banking Group - Worldline Australia. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 4 Jun 2026 ANZ Banking Group - Worldline Australia - Questionnaire Attachment 116.24 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '4 Jun 2026', 'description': 'ANZ Banking Group - Worldline Australia - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/ANZ%20Banking%20Group%20-%20Worldline%20Australia%20-%20Questionnaire.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "sony-music-recognition-music",
-      "title": "Sony Music - Recognition Music",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music",
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Orion BidCo LLC; DDC - 10608976",
-          "new": "Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200; SMG-Three LLC; DDC - 10277876"
-        },
-        {
-          "field": "other_parties",
-          "old": "Candle Media LLC; DDC - 6119562; SESAC Holdings, Inc; NY DOS ID - 1652738; Blackstone Inc; DDC - 4315990; National Exhibition Centre Limited; CRN - 00979395",
-          "new": "Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; National Exhibition Centre Limited; CRN - 00979395; Candle Media LLC; DDC - 6119562"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-03T14:19:02+10:00",
-          "new": "2026-06-10T17:15:56+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 June 2026 via email to mergers@accc.gov.au with the title Submission re: Sony Music – Recognition Music. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jun 2026 Questionnaire Attachment 106.86 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 June 2026 via email to mergers@accc.gov.au with the title Precision Poultry - VOAG chicken farming operations. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jun 2026 Questionnaire - Precision Poultry - VOAG chicken farming operations Attachment 110.35 KB",
           "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '3 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Recognition%20Music%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '3 Jun 2026', 'description': 'Questionnaire - Precision Poultry - VOAG chicken farming operations', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Precision%20Poultry%20-%20VOAG%20-%20Questionnaire_0.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
-      "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
       "changes": [
         {
+          "field": "targets",
+          "old": "MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056",
+          "new": "MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277"
+        },
+        {
+          "field": "anzsic_codes",
+          "old": "0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Coal Product Manufacturing; 2033 Ready-Mixed Concrete Manufacturing; 2921 Waste Treatment and Disposal Services; 2922 Waste Remediation and Materials Recovery Services; 6925 Scientific Testing and Analysis Services",
+          "new": ""
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-06-03T12:25:40+10:00",
-          "new": "2026-06-11T10:02:59+10:00"
+          "old": "2026-05-29T14:31:38+10:00",
+          "new": "2026-06-15T09:42:20+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 June 2026 via email to mergers@accc.gov.au with the title Submission re: CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jun 2026 Questionnaire - CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet Attachment 116.58 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Friday, 5 June 2026 via email to mergers@accc.gov.au with the title Submission re: Heidelberg Materials Australia – construction materials business of MAAS. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. HMA has offered a remedy to divest its Blackwater RMX plant and Yalkara hard rock quarry. The ACCC has prepared a summary of the remedy offer. read more 28 May 2026 Questionnaire - Heidelberg Materials Australia - construction materials business of MAAS Attachment 118.36 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '3 Jun 2026', 'description': 'Questionnaire - CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20CVS%20Group%20%E2%80%93%20Paws%20at%20Prospect%20Vet%20and%20Eyes%20at%20Prospect%20Vet.docx'}]",
+          "old": "[{'date': '28 May 2026', 'description': 'Questionnaire - Heidelberg Materials Australia - construction materials business of MAAS', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Questionnaire_0.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "opal-healthcare-bethel-aged-care",
-      "title": "Opal HealthCare - Bethel Aged Care",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+      "title": "Zoetis – Neogen Genomics Business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
           "field": "end_of_determination_period",
-          "old": "3 Jul 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "12 June 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "DPG SERVICES PTY LTD; 38 090 007 999; OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477",
-          "new": "OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477; DPG SERVICES PTY LTD; 38 090 007 999"
-        },
-        {
-          "field": "targets",
-          "old": "Java Dale Pty Ltd; 077 379 367; Bethel Amen Pty Ltd; 077 379 358",
-          "new": "Bethel Amen Pty Ltd; 077 379 358; Java Dale Pty Ltd; 077 379 367"
+          "old": "25 Jun 2026",
+          "new": "23 Jul 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-29T12:31:12+10:00",
-          "new": "2026-06-12T15:31:23+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "2026-05-20T16:54:08+10:00",
+          "new": "2026-06-15T15:05:04+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '12 Jun 2026', 'description': 'Opal Healthcare - Bethel Aged Care - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Opal%20Healthcare%20-%20Bethel%20Aged%20Care%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
         }
       ]
     },
     {
-      "slug": "magellan-financial-group-barrenjoey",
-      "title": "Magellan Financial Group - Barrenjoey",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey",
+      "slug": "trescal-%E2%80%93-tr-calibration",
+      "title": "Trescal – TR Calibration",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "2 Jul 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "12 June 2026"
-        },
+          "field": "anzsic_codes",
+          "old": "3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Precision Equipment Repair",
+          "new": "3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"
+        }
+      ]
+    },
+    {
+      "slug": "ampol-%E2%80%93-eg-australia",
+      "title": "Ampol – EG Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia",
+      "changes": [
         {
           "field": "last_modified_accc",
-          "old": "2026-05-27T16:17:13+10:00",
-          "new": "2026-06-12T08:44:51+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "2026-06-03T18:57:32+10:00",
+          "new": "2026-06-15T14:49:58+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '11 Jun 2026', 'description': 'Magellan Financial Group - Barrenjoey - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Magellan%20Financial%20Group%20-%20Barrenjoey%20-%20Phase%201%20determination%20-%2011%20June%202026.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
-      "title": "Restaurant Brands and Yum! Brands – Taco Bell restaurants",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
-      "changes": [
-        {
-          "field": "determination_publication_date",
-          "old": "10 June 2026",
-          "new": "11 June 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-11T16:28:31+10:00",
-          "new": "2026-06-12T08:46:44+10:00"
-        }
-      ]
-    },
-    {
-      "slug": "quanta-psd",
-      "title": "Quanta - PSD",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd",
-      "changes": [
-        {
-          "field": "determination_publication_date",
-          "old": "3 June 2026",
-          "new": "4 June 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-04T10:11:07+10:00",
-          "new": "2026-06-12T08:52:37+10:00"
+          "old": "[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_2.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_5.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_0.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_0.pdf'}]",
+          "new": "[{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20Limited%20-%20s87B%20Undertaking%20-%20Public%20Version_1.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_2.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_2.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026_2.pdf'}, {'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_6.pdf'}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_7.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}]"
         }
       ]
     }
   ],
-  "removed_entries": [
-    {
-      "slug": "australian-meat-group-pty-ltd-killara-feedlot-pty-ltd",
-      "title": "Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd"
-    },
-    {
-      "slug": "news-%E2%80%93-acquisition-of-20-of-national-distribution-services",
-      "title": "News – acquisition of 20% of National Distribution Services"
-    },
-    {
-      "slug": "rubik-australia-pty-limited-qube-holdings-limited",
-      "title": "Rubik Australia Pty Limited - Qube Holdings Limited"
-    },
-    {
-      "slug": "saipem-spa-subsea7-sa",
-      "title": "Saipem - Subsea7"
-    },
-    {
-      "slug": "wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
-      "title": "WPF DURATEC PTY LTD / Davhold Australia Pty Ltd"
-    }
-  ]
+  "removed_entries": []
 }

@@ -1,88 +1,58 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-12 06:23:09.153947,
-Last scrape run (AEST),12 Jun 2026  16:23,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-15 18:10:18.949122,
+Last scrape run (AEST),16 Jun 2026  04:10,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,334,
-New entries this run,1,
-Changed entries this run,8,
-Removed entries this run,5,
+Total entries monitored,337,
+New entries this run,3,
+Changed entries this run,6,
+Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
+NEW ENTRIES (3),Case Number,URL
++ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
++ Hillhouse - MGI Dobbyn Carafa,WA-50023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-mgi-dobbyn-carafa
++ Frasers Group – Accent Group,MN-30008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/frasers-group-%E2%80%93-accent-group
 ,,
-CHANGED ENTRIES (8),Field changed,Old value  →  New value
-~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
-,Targets,De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 070 037 795; DOUBLE D PRODUCE PTY LTD; 86 07  →  DOUBLE D PRODUCE PTY LTD; 86 074 625 004; De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 07
-,Last Modified Accc,2026-06-05T11:13:50+10:00  →  2026-06-12T15:49:39+10:00
+CHANGED ENTRIES (6),Field changed,Old value  →  New value
+~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
+,Last Modified Accc,2026-06-04T16:39:45+10:00  →  2026-06-15T11:08:11+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '5 Jun 2026', 'description': 'Questionnaire - Premier Fresh - Domenico Group', 'url': 'htt  →  "
+,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
 ,,
-~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
-,Targets,WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034; Worldline SA; VATIN FR01378901946  →  Worldline SA; VATIN FR01378901946; WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034
-,Last Modified Accc,2026-06-05T15:21:57+10:00  →  2026-06-12T15:19:48+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'ANZ Banking Group - Worldline Australia - Questionnaire', 'u  →  "
-,,
-~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
-,Acquirers,SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Orion BidCo LLC; DDC -  →  Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200; SMG-Three LLC; DDC -
-,Other Parties,"Candle Media LLC; DDC - 6119562; SESAC Holdings, Inc; NY DOS ID - 1652738; Blackstone Inc; DDC - 431  →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; National Exhibition Centre "
-,Last Modified Accc,2026-06-03T14:19:02+10:00  →  2026-06-10T17:15:56+10:00
+~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
+,Targets,VOAG 6 PTY LTD; 75 606 446 735; VOAG 2 PTY LTD; 33 606 445 747; VOAG 5 PTY LTD; 606 446 039; VOAG 3   →  VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 606 381 597; VOAG 1 PT
+,Last Modified Accc,2026-06-03T09:49:36+10:00  →  2026-06-15T08:30:34+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
+,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - Precision Poultry - VOAG chicken farming ope  →  "
 ,,
-~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
-,Last Modified Accc,2026-06-03T12:25:40+10:00  →  2026-06-11T10:02:59+10:00
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; M  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578
+,Anzsic Codes,0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Co  →  
+,Last Modified Accc,2026-05-29T14:31:38+10:00  →  2026-06-15T09:42:20+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - CVS Group – Paws at Prospect Vet and Eyes at  →  "
+,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Heidelberg Materials Australia - constructi  →  "
 ,,
-~ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,3 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  12 June 2026
-,Acquirers,DPG SERVICES PTY LTD; 38 090 007 999; OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477  →  OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477; DPG SERVICES PTY LTD; 38 090 007 999
-,Targets,Java Dale Pty Ltd; 077 379 367; Bethel Amen Pty Ltd; 077 379 358  →  Bethel Amen Pty Ltd; 077 379 358; Java Dale Pty Ltd; 077 379 367
-,Last Modified Accc,2026-05-29T12:31:12+10:00  →  2026-06-12T15:31:23+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '12 Jun 2026', 'description': 'Opal Healthcare - Bethel Aged Care - Phase 1 determination'"
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,End Of Determination Period,25 Jun 2026  →  23 Jul 2026
+,Last Modified Accc,2026-05-20T16:54:08+10:00  →  2026-06-15T15:05:04+10:00
+,Decisions Docs,"  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b"
 ,,
-~ Magellan Financial Group - Barrenjoey,MN-95007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,2 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  12 June 2026
-,Last Modified Accc,2026-05-27T16:17:13+10:00  →  2026-06-12T08:44:51+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '11 Jun 2026', 'description': 'Magellan Financial Group - Barrenjoey - Phase 1 determinati"
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,Anzsic Codes,3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Service  →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Service
 ,,
-~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
-,Determination Publication Date,10 June 2026  →  11 June 2026
-,Last Modified Accc,2026-06-11T16:28:31+10:00  →  2026-06-12T08:46:44+10:00
-,,
-~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
-,Determination Publication Date,3 June 2026  →  4 June 2026
-,Last Modified Accc,2026-06-04T10:11:07+10:00  →  2026-06-12T08:52:37+10:00
-,,
-REMOVED ENTRIES (5),Case Number,
-- Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,MN-20012,
-- News – acquisition of 20% of National Distribution Services,MN-35014,
-- Rubik Australia Pty Limited - Qube Holdings Limited,MN-10007,
-- Saipem - Subsea7,MN-01072,
-- WPF DURATEC PTY LTD / Davhold Australia Pty Ltd,MN-75018,
+~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
+,Last Modified Accc,2026-06-03T18:57:32+10:00  →  2026-06-15T14:49:58+10:00
+,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://  →  [{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.g"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (16),Case Number,Detected (AEST)
-+ Premier Fresh – Domenico Group,MN-40020,05 Jun  21:52
-"+ Ampol – Freehold land acquisition in Chelsea Heights, Victoria",WA-40024,05 Jun  21:52
-+ RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC,WA-45014,09 Jun  00:51
+NEW ENTRIES (14),Case Number,Detected (AEST)
 "+ Coles – supermarket site in Minto, NSW",MN-25029,09 Jun  21:44
 + Uber - Blacklane,MN-20018,09 Jun  21:44
 + Capital Group - Big Post,WA-95019,09 Jun  21:44
@@ -96,39 +66,9 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 + KKR – Fresha.com,WA-30019,10 Jun  22:41
 + QIC – CopperString Project assets from Powerlink Queensland,WA-60019,10 Jun  22:41
 + Macquarie Asset Management led consortium – Qube,MN-10007,10 Jun  22:41
++ EBOS - Paringa Pet Foods,MN-30020,12 Jun  16:23
 ,,
-"CHANGED ENTRIES (12 entries, 12 change events)",Field changed,Old value  →  New value  (AEST)
-~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
-,Last Modified Accc,2026-06-04T10:41:29+10:00  →  2026-06-05T15:21:57+10:00  (05 Jun  21:52)
-,,
-~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-,Targets,The Trustee for FRANCK PAGE #3 TRUST; 65 158 640 539; COASTAL DENTAL CARE AUSTRA  →  COASTAL DENTAL CARE AUSTRALIA PTY LTD; 39 617 360 460; The Trustee for FRANCK PA  (05 Jun  21:52)
-,Last Modified Accc,2026-05-29T09:09:40+10:00  →  2026-06-05T14:53:21+10:00  (05 Jun  21:52)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Jun  21:52)
-,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Impression Dental Group  →    (05 Jun  21:52)"
-,,
-~ Volt Managed Investment Trusts – HMC Energy Transition Platform,MN-90007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform
-,Acquisition Status,Under assessment  →  Assessment completed  (05 Jun  21:52)
-,End Of Determination Period,29 Jun 2026  →    (05 Jun  21:52)
-,Accc Determination,  →  Approved  (05 Jun  21:52)
-,Determination Publication Date,  →  5 June 2026  (05 Jun  21:52)
-,Acquirers,Volt Managed Investment Trust 1; Volt Managed Investment Trust 2  →  Volt Managed Investment Trust 2; Volt Managed Investment Trust 1  (05 Jun  21:52)
-,Other Parties,HMC CAPITAL LIMITED; 94 138 990 593; The John Laing Group Limited; UK Company No  →  The Trust Company (Australia) Limited (as trustee for Volt Managed Investment Tr  (05 Jun  21:52)
-,Last Modified Accc,2026-05-25T16:28:39+10:00  →  2026-06-05T16:36:40+10:00  (05 Jun  21:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (05 Jun  21:52)
-,Decisions Docs,"  →  [{'date': '5 Jun 2026', 'description': 'Volt Managed Investment Trusts – HMC Ene  (05 Jun  21:52)"
-,,
-~ Novartis - Excellergy,MN-40019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy
-,Title,Novartis / Excellergy  →  Novartis - Excellergy  (05 Jun  21:52)
-,Acquisition Status,Under assessment  →  Assessment completed  (05 Jun  21:52)
-,End Of Determination Period,25 Jun 2026  →    (05 Jun  21:52)
-,Accc Determination,  →  Approved  (05 Jun  21:52)
-,Determination Publication Date,  →  4 June 2026  (05 Jun  21:52)
-,Other Parties,NOVARTIS PHARMACEUTICALS AUSTRALIA PTY LIMITED; 18 004 244 160; EXCELLERGY AUSTR  →  NOVARTIS AUSTRALIA PTY LIMITED; 81 004 371 224; Novartis Finance Corporation; US  (05 Jun  21:52)
-,Last Modified Accc,2026-05-19T16:46:10+10:00  →  2026-06-05T08:51:48+10:00  (05 Jun  21:52)
-,Consultation Text,The period for providing submission or information in response to the ACCC's Pha  →    (05 Jun  21:52)
-,Decisions Docs,"  →  [{'date': '4 Jun 2026', 'description': 'Novartis - Excellergy - Phase 1 Determin  (05 Jun  21:52)"
-,,
+"CHANGED ENTRIES (15 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 "~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
 ,Acquisition Status,Under assessment  →  Assessment completed  (09 Jun  21:44)
 ,End Of Determination Period,25 Jun 2026  →    (09 Jun  21:44)
@@ -205,4 +145,61 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-26T15:38:28+10:00  →  2026-06-11T16:28:31+10:00  (11 Jun  23:05)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (11 Jun  23:05)
 ,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Restaurant Brands and Yum - Taco Bell R  (11 Jun  23:05)"
+,Determination Publication Date,10 June 2026  →  11 June 2026  (12 Jun  16:23)
+,Last Modified Accc,2026-06-11T16:28:31+10:00  →  2026-06-12T08:46:44+10:00  (12 Jun  16:23)
+,,
+~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
+,Targets,De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 070 037 795; DOUBLE D PR  →  DOUBLE D PRODUCE PTY LTD; 86 074 625 004; De Domenico Carmelo; NORTH QUEENSLAND   (12 Jun  16:23)
+,Last Modified Accc,2026-06-05T11:13:50+10:00  →  2026-06-12T15:49:39+10:00  (12 Jun  16:23)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Jun  16:23)
+,Consultation Docs,"[{'date': '5 Jun 2026', 'description': 'Questionnaire - Premier Fresh - Domenico  →    (12 Jun  16:23)"
+,,
+~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
+,Targets,WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034; Worldline SA; VATIN FR01378901946  →  Worldline SA; VATIN FR01378901946; WORLDLINE AUSTRALIA PTY LTD; 50 645 073 034  (12 Jun  16:23)
+,Last Modified Accc,2026-06-05T15:21:57+10:00  →  2026-06-12T15:19:48+10:00  (12 Jun  16:23)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Jun  16:23)
+,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'ANZ Banking Group - Worldline Australia   →    (12 Jun  16:23)"
+,,
+~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
+,Acquirers,SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Or  →  Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200;   (12 Jun  16:23)
+,Other Parties,"Candle Media LLC; DDC - 6119562; SESAC Holdings, Inc; NY DOS ID - 1652738; Black  →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Nationa  (12 Jun  16:23)"
+,Last Modified Accc,2026-06-03T14:19:02+10:00  →  2026-06-10T17:15:56+10:00  (12 Jun  16:23)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (12 Jun  16:23)
+,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (12 Jun  16:23)"
+,,
+~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
+,Last Modified Accc,2026-06-03T12:25:40+10:00  →  2026-06-11T10:02:59+10:00  (12 Jun  16:23)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Jun  16:23)
+,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - CVS Group – Paws at Pros  →    (12 Jun  16:23)"
+,,
+~ Opal HealthCare - Bethel Aged Care,MN-15019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-bethel-aged-care
+,Acquisition Status,Under assessment  →  Assessment completed  (12 Jun  16:23)
+,End Of Determination Period,3 Jul 2026  →    (12 Jun  16:23)
+,Accc Determination,  →  Approved  (12 Jun  16:23)
+,Determination Publication Date,  →  12 June 2026  (12 Jun  16:23)
+,Acquirers,DPG SERVICES PTY LTD; 38 090 007 999; OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807  →  OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477; DPG SERVICES PTY LTD; 38 090 007  (12 Jun  16:23)
+,Targets,Java Dale Pty Ltd; 077 379 367; Bethel Amen Pty Ltd; 077 379 358  →  Bethel Amen Pty Ltd; 077 379 358; Java Dale Pty Ltd; 077 379 367  (12 Jun  16:23)
+,Last Modified Accc,2026-05-29T12:31:12+10:00  →  2026-06-12T15:31:23+10:00  (12 Jun  16:23)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Jun  16:23)
+,Decisions Docs,"  →  [{'date': '12 Jun 2026', 'description': 'Opal Healthcare - Bethel Aged Care - Ph  (12 Jun  16:23)"
+,,
+~ Magellan Financial Group - Barrenjoey,MN-95007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/magellan-financial-group-barrenjoey
+,Acquisition Status,Under assessment  →  Assessment completed  (12 Jun  16:23)
+,End Of Determination Period,2 Jul 2026  →    (12 Jun  16:23)
+,Accc Determination,  →  Approved  (12 Jun  16:23)
+,Determination Publication Date,  →  12 June 2026  (12 Jun  16:23)
+,Last Modified Accc,2026-05-27T16:17:13+10:00  →  2026-06-12T08:44:51+10:00  (12 Jun  16:23)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Jun  16:23)
+,Decisions Docs,"  →  [{'date': '11 Jun 2026', 'description': 'Magellan Financial Group - Barrenjoey -  (12 Jun  16:23)"
+,,
+~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
+,Determination Publication Date,3 June 2026  →  4 June 2026  (12 Jun  16:23)
+,Last Modified Accc,2026-06-04T10:11:07+10:00  →  2026-06-12T08:52:37+10:00  (12 Jun  16:23)
+,,
+REMOVED ENTRIES (5),Case Number,Detected (AEST)
+- Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,,12 Jun  16:23
+- News – acquisition of 20% of National Distribution Services,,12 Jun  16:23
+- Rubik Australia Pty Limited - Qube Holdings Limited,,12 Jun  16:23
+- Saipem - Subsea7,,12 Jun  16:23
+- WPF DURATEC PTY LTD / Davhold Australia Pty Ltd,,12 Jun  16:23
 ,,

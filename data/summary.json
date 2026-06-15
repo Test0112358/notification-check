@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-06-12T06:40:05.470309Z",
-  "total_entries": 334,
+  "generated_at_utc": "2026-06-15T18:24:20.639772Z",
+  "total_entries": 337,
   "by_acquisition_status": {
-    "Under assessment": 33,
-    "Assessment completed": 301
+    "Under assessment": 34,
+    "Assessment completed": 303
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 127,
-    "Waiver application": 202,
+    "Phase 1 - initial assessment": 129,
+    "Waiver application": 203,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 132,
-    "Waiver": 202
+    "Notification": 134,
+    "Waiver": 203
   },
   "by_accc_determination": {
-    "Approved": 286,
+    "Approved": 288,
     "Not approved": 14,
     "Approved with conditions": 1
   },
@@ -24,13 +24,19 @@
       "slug": "fulton-hogan-%E2%80%93-avionics",
       "title": "Fulton Hogan – Avionics",
       "end_of_determination_period": "17 Jun 2026",
-      "days_remaining": 5
+      "days_remaining": 2
     },
     {
       "slug": "macquarie-asset-management-led-consortium-%E2%80%93-qube",
       "title": "Macquarie Asset Management led consortium – Qube",
       "end_of_determination_period": "19 Jun 2026",
-      "days_remaining": 7
+      "days_remaining": 4
+    },
+    {
+      "slug": "trescal-%E2%80%93-tr-calibration",
+      "title": "Trescal – TR Calibration",
+      "end_of_determination_period": "25 Jun 2026",
+      "days_remaining": 10
     }
   ]
 }

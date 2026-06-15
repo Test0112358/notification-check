@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-06-12T06:23:09.153947Z",
+  "run_utc": "2026-06-15T18:10:18.949122Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "ebos-paringa-pet-foods",
-      "title": "EBOS - Paringa Pet Foods",
-      "case_number": "MN-30020",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods",
-      "date": "12 Jun 2026",
-      "description": "Questionnaire - EBOS - Paringa Pet Foods",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/EBOS%20-%20Paringa%20Pet%20Foods%3A%20Questionnaire%20for%20Acquisitions%20register.docx",
-      "local_path": "data/consultation_docs/EBOS - Paringa Pet Foods_ Questionnaire for Acquisitions register.docx",
-      "filename": "EBOS - Paringa Pet Foods_ Questionnaire for Acquisitions register.docx",
-      "size_kb": 116.1
+      "slug": "service-stream-%E2%80%93-rie",
+      "title": "Service Stream – RiE",
+      "case_number": "MN-50022",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie",
+      "date": "15 Jun 2026",
+      "description": "Questionnaire - Service Stream - RiE",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Service%20Stream%20-%20RiE%20-%20Acquisitions%20register%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Service Stream - RiE - Acquisitions register questionnaire.docx",
+      "filename": "Service Stream - RiE - Acquisitions register questionnaire.docx",
+      "size_kb": 66.8
     }
   ]
 }

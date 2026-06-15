@@ -19451,5 +19451,173 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wpf-duratec-pty-ltd-davhold-australia-pty-ltd",
     "event": "REMOVED",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "service-stream-%E2%80%93-rie",
+    "title": "Service Stream – RiE",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+    "title": "Coles – supermarket site in Lidcombe (NSW)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-04T16:39:45+10:00",
+        "new": "2026-06-15T11:08:11+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 June 2026 via email to mergers@accc.gov.au with the title Coles - supermarket site in Lidcombe (NSW). The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 4 Jun 2026 Questionnaire Attachment 60.22 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '4 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Lidcombe%20-%20Questionnaire%20-%20May%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "precision-poultry-voag-chicken-farming-operations",
+    "title": "Precision Poultry - VOAG chicken farming operations",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "VOAG 6 PTY LTD; 75 606 446 735; VOAG 2 PTY LTD; 33 606 445 747; VOAG 5 PTY LTD; 606 446 039; VOAG 3 PTY LTD; 48 606 445 809; VOAG PTY LTD; 84 606 381 597; VOAG 4 PTY LTD; 606 447 572; VOAG 1 PTY LTD; 12 606 445 658",
+        "new": "VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 606 381 597; VOAG 1 PTY LTD; 12 606 445 658; VOAG 6 PTY LTD; 75 606 446 735; VOAG 3 PTY LTD; 48 606 445 809; VOAG 5 PTY LTD; 606 446 039"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-03T09:49:36+10:00",
+        "new": "2026-06-15T08:30:34+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 June 2026 via email to mergers@accc.gov.au with the title Precision Poultry - VOAG chicken farming operations. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jun 2026 Questionnaire - Precision Poultry - VOAG chicken farming operations Attachment 110.35 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '3 Jun 2026', 'description': 'Questionnaire - Precision Poultry - VOAG chicken farming operations', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Precision%20Poultry%20-%20VOAG%20-%20Questionnaire_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056",
+        "new": "MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277"
+      },
+      {
+        "field": "anzsic_codes",
+        "old": "0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Coal Product Manufacturing; 2033 Ready-Mixed Concrete Manufacturing; 2921 Waste Treatment and Disposal Services; 2922 Waste Remediation and Materials Recovery Services; 6925 Scientific Testing and Analysis Services",
+        "new": ""
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-29T14:31:38+10:00",
+        "new": "2026-06-15T09:42:20+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Friday, 5 June 2026 via email to mergers@accc.gov.au with the title Submission re: Heidelberg Materials Australia – construction materials business of MAAS. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. HMA has offered a remedy to divest its Blackwater RMX plant and Yalkara hard rock quarry. The ACCC has prepared a summary of the remedy offer. read more 28 May 2026 Questionnaire - Heidelberg Materials Australia - construction materials business of MAAS Attachment 118.36 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '28 May 2026', 'description': 'Questionnaire - Heidelberg Materials Australia - construction materials business of MAAS', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Questionnaire_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "hillhouse-mgi-dobbyn-carafa",
+    "title": "Hillhouse - MGI Dobbyn Carafa",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-mgi-dobbyn-carafa",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "frasers-group-%E2%80%93-accent-group",
+    "title": "Frasers Group – Accent Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/frasers-group-%E2%80%93-accent-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+    "title": "Zoetis – Neogen Genomics Business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "25 Jun 2026",
+        "new": "23 Jul 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-20T16:54:08+10:00",
+        "new": "2026-06-15T15:05:04+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "trescal-%E2%80%93-tr-calibration",
+    "title": "Trescal – TR Calibration",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "anzsic_codes",
+        "old": "3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Precision Equipment Repair",
+        "new": "3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Services; 9422 Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:10:18.949122Z",
+    "slug": "ampol-%E2%80%93-eg-australia",
+    "title": "Ampol – EG Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-03T18:57:32+10:00",
+        "new": "2026-06-15T14:49:58+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_2.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_5.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_0.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_0.pdf'}]",
+        "new": "[{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20Limited%20-%20s87B%20Undertaking%20-%20Public%20Version_1.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_2.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_2.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026_2.pdf'}, {'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_6.pdf'}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_7.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}]"
+      }
+    ]
   }
 ]
