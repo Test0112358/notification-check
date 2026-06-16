@@ -72,18 +72,6 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "airtree-%E2%80%93-hotdoc",
-    "title": "Airtree – HotDoc",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
     "slug": "soilco-go-grow",
     "title": "SOILCO - Go Grow",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/soilco-go-grow",
@@ -96,9 +84,33 @@
     "expected_or_found": ""
   },
   {
-    "slug": "zendesk-%E2%80%93-forethought",
-    "title": "Zendesk – Forethought",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zendesk-%E2%80%93-forethought",
+    "slug": "australian-venue-co-%E2%80%93-an-sibin-irish-pub",
+    "title": "Australian Venue Co. – An Sibin Irish Pub",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-an-sibin-irish-pub",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "direct-couriers-%E2%80%93-phoenix-transport",
+    "title": "Direct Couriers – Phoenix Transport",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/direct-couriers-%E2%80%93-phoenix-transport",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "tinicum-and-blackstone-led-consortium-%E2%80%93-senior",
+    "title": "Tinicum and Blackstone led consortium – Senior",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tinicum-and-blackstone-led-consortium-%E2%80%93-senior",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
