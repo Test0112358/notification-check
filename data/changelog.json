@@ -19619,5 +19619,260 @@
         "new": "[{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20Limited%20-%20s87B%20Undertaking%20-%20Public%20Version_1.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20PR%20version%20-%202%20June%202026_2.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EG%20-%20Phase%202%20determination%20-%20summary%20of%20reasons%20-%20PR%20version%20updated%20-%202%20June%202026_2.pdf'}, {'date': '2 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20EG%20-%20Phase%202%20determination%20-%20Statement%20of%20Reasons%20-%20Public%20version%20-%202%20June%202026_2.pdf'}, {'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol_EG%20-%20NOCC%20summary%20-%20AR%20version%20-%202%20March%202026_6.pdf'}, {'date': '21 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ampol%20-%20EG%20Australia%20-%20Phase%202%20Notice%20-%20Redacted_7.pdf'}, {'date': '6 Nov 2025', 'description': 'ACCC decided to extend the Phase 1 determination period following receipt of extension request from Ampol, to allow Ampol to provide additional information.', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "transocean-valaris",
+    "title": "Transocean - Valaris",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "csr-complete-plaster",
+    "title": "CSR - Complete Plaster",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-minto-nsw",
+    "title": "Coles – supermarket site in Minto, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-09T17:00:00+10:00",
+        "new": "2026-06-16T10:34:54+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 16 June 2026 via email to mergers@accc.gov.au with the title Coles – supermarket site in Minto, NSW. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jun 2026 Questionnaire Attachment 60.06 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '9 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Minto%20-%20Questionnaire%20-%20June%202026_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "uber-blacklane",
+    "title": "Uber - Blacklane",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFIC PTY LTD; 27 622 365 833",
+        "new": "UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFIC PTY LTD; 27 622 365 833"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-09T09:23:00+10:00",
+        "new": "2026-06-16T09:42:18+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 15 June 2026 via email to mergers@accc.gov.au with the title Submission re: Uber – Blacklane. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jun 2026 Uber - Blacklane - Questionnaire Attachment 116.51 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '9 Jun 2026', 'description': 'Uber - Blacklane - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20third%20party%20questionnaire%20-%20June%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "tibaldi-south-food-group",
+    "title": "Tibaldi - South Food Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "7 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "16 June 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257",
+        "new": "CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-02T16:19:37+10:00",
+        "new": "2026-06-16T10:17:15+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '16 Jun 2026', 'description': 'Tibaldi - South Food Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Tibaldi%20-%20South%20Food%20Group%20-%20Phase%201%20Determination%20-%2016%20June%202026_0.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+    "title": "Endeavour Group – retail liquor store in Muswellbrook (NSW)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "7 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "16 June 2026"
+      },
+      {
+        "field": "targets",
+        "old": "Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496; UPPER HUNTER MOTORS PTY LTD; 53 001 740 218",
+        "new": "UPPER HUNTER MOTORS PTY LTD; 53 001 740 218; Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-02T16:25:01+10:00",
+        "new": "2026-06-16T10:24:01+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '16 Jun 2026', 'description': 'Endeavour Group – retail liquor store in Muswellbrook (NSW) - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20-%20retail%20liquor%20store%20in%20Muswellbrook%20%28NSW%29%20-%20Determination%20-%2016%20June%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "fulton-hogan-%E2%80%93-avionics",
+    "title": "Fulton Hogan – Avionics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "17 Jun 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "16 June 2026"
+      },
+      {
+        "field": "targets",
+        "old": "AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883",
+        "new": "Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883; AVIONICS HOLDINGS PTY LTD; 92 166 405 321"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-29T11:31:57+10:00",
+        "new": "2026-06-16T13:07:19+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by parties', 'url': ''}]",
+        "new": "[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by parties', 'url': ''}, {'date': '16 Jun 2026', 'description': 'Fulton Hogan-Avionics - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Fulton%20Hogan-Avionics%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-16T18:20:11.806591Z",
+    "slug": "peter-warren-wakeling-automotive",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment ceased"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "8 Oct 2026",
+        "new": ""
+      },
+      {
+        "field": "targets",
+        "old": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980",
+        "new": "Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYNE PTY LTD; 74 118 744 915; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Wakeling South Coast Pty Ltd; 636 298 970"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-03T16:39:04+10:00",
+        "new": "2026-06-16T08:57:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC invites submissions from interested parties on the matters that the ACCC intends to investigate further as outlined in the boxes in the Phase 2 Notice and any other relevant matters. Submissions should be provided by 5 PM AEST on Tuesday, 16 June 2026 via email to mergers@accc.gov.au with the title Submission re: Peter Warren – Wakeling Automotive. read more",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}, {'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026_0.pdf'}]",
+        "new": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}, {'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Consideration of Notification ceased – following written request from notifying party', 'url': ''}]"
+      }
+    ]
   }
 ]

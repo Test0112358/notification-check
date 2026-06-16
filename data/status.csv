@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-15 18:10:18.949122,
-Last scrape run (AEST),16 Jun 2026  04:10,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-16 18:20:11.806591,
+Last scrape run (AEST),17 Jun 2026  04:20,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,337,
-New entries this run,3,
+Total entries monitored,339,
+New entries this run,2,
 Changed entries this run,6,
 Removed entries this run,0,
 ,,
@@ -13,52 +13,64 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
-+ Hillhouse - MGI Dobbyn Carafa,WA-50023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-mgi-dobbyn-carafa
-+ Frasers Group – Accent Group,MN-30008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/frasers-group-%E2%80%93-accent-group
+NEW ENTRIES (2),Case Number,URL
++ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
++ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
 ,,
 CHANGED ENTRIES (6),Field changed,Old value  →  New value
-~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
-,Last Modified Accc,2026-06-04T16:39:45+10:00  →  2026-06-15T11:08:11+10:00
+"~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
+,Last Modified Accc,2026-06-09T17:00:00+10:00  →  2026-06-16T10:34:54+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
+,Consultation Docs,"[{'date': '9 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
 ,,
-~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
-,Targets,VOAG 6 PTY LTD; 75 606 446 735; VOAG 2 PTY LTD; 33 606 445 747; VOAG 5 PTY LTD; 606 446 039; VOAG 3   →  VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 606 381 597; VOAG 1 PT
-,Last Modified Accc,2026-06-03T09:49:36+10:00  →  2026-06-15T08:30:34+10:00
+~ Uber - Blacklane,MN-20018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane
+,Other Parties,UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFI  →  UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFI
+,Last Modified Accc,2026-06-09T09:23:00+10:00  →  2026-06-16T09:42:18+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - Precision Poultry - VOAG chicken farming ope  →  "
+,Consultation Docs,"[{'date': '9 Jun 2026', 'description': 'Uber - Blacklane - Questionnaire', 'url': 'https://www.accc.  →  "
 ,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; M  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578
-,Anzsic Codes,0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Co  →  
-,Last Modified Accc,2026-05-29T14:31:38+10:00  →  2026-06-15T09:42:20+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Heidelberg Materials Australia - constructi  →  "
+~ Tibaldi - South Food Group,MN-25026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,7 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  16 June 2026
+,Other Parties,CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974  →  CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250
+,Last Modified Accc,2026-06-02T16:19:37+10:00  →  2026-06-16T10:17:15+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '16 Jun 2026', 'description': 'Tibaldi - South Food Group - Phase 1 determination', 'url':"
 ,,
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,End Of Determination Period,25 Jun 2026  →  23 Jul 2026
-,Last Modified Accc,2026-05-20T16:54:08+10:00  →  2026-06-15T15:05:04+10:00
-,Decisions Docs,"  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b"
+~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,7 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  16 June 2026
+,Targets,Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496; UPPER HUNTER MOTORS PTY LTD; 53 001 740 21  →  UPPER HUNTER MOTORS PTY LTD; 53 001 740 218; Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 49
+,Last Modified Accc,2026-06-02T16:25:01+10:00  →  2026-06-16T10:24:01+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '16 Jun 2026', 'description': 'Endeavour Group – retail liquor store in Muswellbrook (NSW)"
 ,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Anzsic Codes,3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Service  →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing and Analysis Service
+~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,17 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  16 June 2026
+,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley  →  Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 
+,Last Modified Accc,2026-05-29T11:31:57+10:00  →  2026-06-16T13:07:19+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by  →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by"
 ,,
-~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
-,Last Modified Accc,2026-06-03T18:57:32+10:00  →  2026-06-15T14:49:58+10:00
-,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://  →  [{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.g"
+~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
+,Acquisition Status,Under assessment  →  Assessment ceased
+,End Of Determination Period,8 Oct 2026  →  
+,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess  →  Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; P
+,Last Modified Accc,2026-06-03T16:39:04+10:00  →  2026-06-16T08:57:08+10:00
+,Consultation Text,The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2   →  
+,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (14),Case Number,Detected (AEST)
-"+ Coles – supermarket site in Minto, NSW",MN-25029,09 Jun  21:44
-+ Uber - Blacklane,MN-20018,09 Jun  21:44
-+ Capital Group - Big Post,WA-95019,09 Jun  21:44
-+ GenusPlus Group – MPC Kinetic,WA-55022,09 Jun  21:44
-+ News Corp – acquisition of 20% of National Distribution Services,MN-35014,09 Jun  21:44
-+ WPF Duratec - Pacific Welding (Davhold Australia),MN-75018,09 Jun  21:44
+NEW ENTRIES (11),Case Number,Detected (AEST)
 + Equans - CV Services Group,MN-05025,10 Jun  22:41
 + Regional Australia Bank – South West Slopes Credit Union,WA-30021,10 Jun  22:41
 + Fujifilm – endoscopy distribution business in Australia,WA-01102,10 Jun  22:41
@@ -67,28 +79,11 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 + QIC – CopperString Project assets from Powerlink Queensland,WA-60019,10 Jun  22:41
 + Macquarie Asset Management led consortium – Qube,MN-10007,10 Jun  22:41
 + EBOS - Paringa Pet Foods,MN-30020,12 Jun  16:23
++ Service Stream – RiE,MN-50022,16 Jun  04:10
++ Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
++ Frasers Group – Accent Group,MN-30008,16 Jun  04:10
 ,,
-"CHANGED ENTRIES (15 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
-"~ Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",MN-05017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff
-,Acquisition Status,Under assessment  →  Assessment completed  (09 Jun  21:44)
-,End Of Determination Period,25 Jun 2026  →    (09 Jun  21:44)
-,Accc Determination,  →  Approved  (09 Jun  21:44)
-,Determination Publication Date,  →  9 June 2026  (09 Jun  21:44)
-,Targets,N&M Burton Pty Ltd; 125 935 944; SHARTON MOTORS PTY LTD; 55 001 345 384  →  SHARTON MOTORS PTY LTD; 55 001 345 384; N&M Burton Pty Ltd; 125 935 944  (09 Jun  21:44)
-,Last Modified Accc,2026-05-21T10:20:16+10:00  →  2026-06-09T16:40:05+10:00  (09 Jun  21:44)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jun  21:44)
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Tony White Group - Sharton Motors - Phas  (09 Jun  21:44)"
-,,
-~ Paramount Skydance - Warner Bros. Discovery,MN-45006,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/paramount-skydance-warner-bros-discovery
-,Title,Paramount Skydance / Warner Bros. Discovery  →  Paramount Skydance - Warner Bros. Discovery  (09 Jun  21:44)
-,Acquisition Status,Under assessment  →  Assessment completed  (09 Jun  21:44)
-,End Of Determination Period,12 Jun 2026  →    (09 Jun  21:44)
-,Accc Determination,  →  Approved  (09 Jun  21:44)
-,Determination Publication Date,  →  9 June 2026  (09 Jun  21:44)
-,Last Modified Accc,2026-05-08T14:54:54+10:00  →  2026-06-09T17:21:45+10:00  (09 Jun  21:44)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jun  21:44)
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'Paramount Skydance-Warner Bros Discovery  (09 Jun  21:44)"
-,,
+"CHANGED ENTRIES (19 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
 ,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
 ,End Of Determination Period,1 Jul 2026  →    (10 Jun  22:41)
@@ -195,6 +190,36 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 ~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
 ,Determination Publication Date,3 June 2026  →  4 June 2026  (12 Jun  16:23)
 ,Last Modified Accc,2026-06-04T10:11:07+10:00  →  2026-06-12T08:52:37+10:00  (12 Jun  16:23)
+,,
+~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
+,Last Modified Accc,2026-06-04T16:39:45+10:00  →  2026-06-15T11:08:11+10:00  (16 Jun  04:10)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jun  04:10)
+,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (16 Jun  04:10)"
+,,
+~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
+,Targets,VOAG 6 PTY LTD; 75 606 446 735; VOAG 2 PTY LTD; 33 606 445 747; VOAG 5 PTY LTD;   →  VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 60  (16 Jun  04:10)
+,Last Modified Accc,2026-06-03T09:49:36+10:00  →  2026-06-15T08:30:34+10:00  (16 Jun  04:10)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (16 Jun  04:10)
+,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - Precision Poultry - VOAG  →    (16 Jun  04:10)"
+,,
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITE  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY  (16 Jun  04:10)
+,Anzsic Codes,0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Ot  →    (16 Jun  04:10)
+,Last Modified Accc,2026-05-29T14:31:38+10:00  →  2026-06-15T09:42:20+10:00  (16 Jun  04:10)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jun  04:10)
+,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Heidelberg Materials Au  →    (16 Jun  04:10)"
+,,
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,End Of Determination Period,25 Jun 2026  →  23 Jul 2026  (16 Jun  04:10)
+,Last Modified Accc,2026-05-20T16:54:08+10:00  →  2026-06-15T15:05:04+10:00  (16 Jun  04:10)
+,Decisions Docs,"  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  (16 Jun  04:10)"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,Anzsic Codes,3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   (16 Jun  04:10)
+,,
+~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
+,Last Modified Accc,2026-06-03T18:57:32+10:00  →  2026-06-15T14:49:58+10:00  (16 Jun  04:10)
+,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  →  [{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url':  (16 Jun  04:10)"
 ,,
 REMOVED ENTRIES (5),Case Number,Detected (AEST)
 - Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,,12 Jun  16:23
