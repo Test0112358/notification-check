@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-16 18:20:11.806591,
-Last scrape run (AEST),17 Jun 2026  04:20,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-17 13:03:08.359304,
+Last scrape run (AEST),17 Jun 2026  23:03,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,339,
-New entries this run,2,
-Changed entries this run,6,
+Total entries monitored,343,
+New entries this run,4,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,114 +13,66 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
-+ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
+NEW ENTRIES (4),Case Number,URL
++ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
++ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
++ International Parking Group – car park at St John of God Murdoch Hospital,WA-90018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital
++ Life Without Barriers – Mallacoota District Health & Support Service,WA-95022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/life-without-barriers-%E2%80%93-mallacoota-district-health-support-service
 ,,
-CHANGED ENTRIES (6),Field changed,Old value  →  New value
-"~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
-,Last Modified Accc,2026-06-09T17:00:00+10:00  →  2026-06-16T10:34:54+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '9 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
-,,
-~ Uber - Blacklane,MN-20018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane
-,Other Parties,UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFI  →  UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFI
-,Last Modified Accc,2026-06-09T09:23:00+10:00  →  2026-06-16T09:42:18+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '9 Jun 2026', 'description': 'Uber - Blacklane - Questionnaire', 'url': 'https://www.accc.  →  "
-,,
-~ Tibaldi - South Food Group,MN-25026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Zurich - Beazley,MN-30016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,End Of Determination Period,7 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  16 June 2026
-,Other Parties,CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974  →  CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250
-,Last Modified Accc,2026-06-02T16:19:37+10:00  →  2026-06-16T10:17:15+10:00
+,Determination Publication Date,  →  17 June 2026
+,Other Parties,Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services Australia Limited; Z  →  Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Limited; OnePath General Insurance Pty L
+,Last Modified Accc,2026-06-03T09:52:59+10:00  →  2026-06-17T11:16:39+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '16 Jun 2026', 'description': 'Tibaldi - South Food Group - Phase 1 determination', 'url':"
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Zurich - Beazley - Phase 1 determination', 'url': 'https://"
 ,,
-~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
+~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,7 Jul 2026  →  
+,End Of Determination Period,3 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  16 June 2026
-,Targets,Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496; UPPER HUNTER MOTORS PTY LTD; 53 001 740 21  →  UPPER HUNTER MOTORS PTY LTD; 53 001 740 218; Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 49
-,Last Modified Accc,2026-06-02T16:25:01+10:00  →  2026-06-16T10:24:01+10:00
+,Determination Publication Date,  →  17 June 2026
+,Targets,Banijay Holding S.A.S.; 829 295 138 RCS PARIS; Gold Rush HoldCo Limited; RN 152698  →  Gold Rush HoldCo Limited; RN 152698; Banijay Holding S.A.S.; 829 295 138 RCS PARIS
+,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 041 RCS PARIS; Banija  →  Lov Group Invest S.A.S; SIREN 494 031 008; Banijay SAS; 499 797 041 RCS PARIS; Banijay Entertainment
+,Last Modified Accc,2026-05-28T17:01:29+10:00  →  2026-06-17T15:28:13+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '16 Jun 2026', 'description': 'Endeavour Group – retail liquor store in Muswellbrook (NSW)"
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Banijay Entertainment - All3Media - Phase 1 Determination',"
 ,,
-~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
+~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,17 Jun 2026  →  
+,End Of Determination Period,2 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  16 June 2026
-,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley  →  Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 
-,Last Modified Accc,2026-05-29T11:31:57+10:00  →  2026-06-16T13:07:19+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by  →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by"
+,Determination Publication Date,  →  17 June 2026
+,Acquirers,OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 096  →  Apollo Australia Bidco Pty Ltd; 697 230 096; Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apol
+,Targets,FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST; 22 698 604 264  →  FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST; 22 698 604 264; FIRS
+,Last Modified Accc,2026-05-28T09:14:09+10:00  →  2026-06-17T16:17:12+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Integris & related entities - First Focus - Phase 1 determi"
 ,,
-~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
-,Acquisition Status,Under assessment  →  Assessment ceased
-,End Of Determination Period,8 Oct 2026  →  
-,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess  →  Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; P
-,Last Modified Accc,2026-06-03T16:39:04+10:00  →  2026-06-16T08:57:08+10:00
-,Consultation Text,The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2   →  
-,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by  →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by"
+~ Macquarie Asset Management led consortium – Qube,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,19 Jun 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  17 June 2026
+,Last Modified Accc,2026-06-10T17:20:34+10:00  →  2026-06-17T17:47:29+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consortium - Qube - Phase 1 "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (11),Case Number,Detected (AEST)
-+ Equans - CV Services Group,MN-05025,10 Jun  22:41
-+ Regional Australia Bank – South West Slopes Credit Union,WA-30021,10 Jun  22:41
-+ Fujifilm – endoscopy distribution business in Australia,WA-01102,10 Jun  22:41
-+ Platinum Equity Group - LMPG,WA-80020,10 Jun  22:41
-+ KKR – Fresha.com,WA-30019,10 Jun  22:41
-+ QIC – CopperString Project assets from Powerlink Queensland,WA-60019,10 Jun  22:41
-+ Macquarie Asset Management led consortium – Qube,MN-10007,10 Jun  22:41
+NEW ENTRIES (6),Case Number,Detected (AEST)
 + EBOS - Paringa Pet Foods,MN-30020,12 Jun  16:23
 + Service Stream – RiE,MN-50022,16 Jun  04:10
 + Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
 + Frasers Group – Accent Group,MN-30008,16 Jun  04:10
++ Transocean - Valaris,MN-25019,17 Jun  04:20
++ CSR - Complete Plaster,MN-10018,17 Jun  04:20
 ,,
-"CHANGED ENTRIES (19 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
-~ Eli Lilly - Kelonia Therapeutics,MN-95016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
-,End Of Determination Period,1 Jul 2026  →    (10 Jun  22:41)
-,Accc Determination,  →  Approved  (10 Jun  22:41)
-,Last Modified Accc,2026-05-27T09:27:53+10:00  →  2026-06-10T12:20:13+10:00  (10 Jun  22:41)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Eli Lilly - Kelonia Therapeutics - Phas  (10 Jun  22:41)"
-,,
-~ Mastercard - BVNK,MN-50015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mastercard-bvnk
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
-,End Of Determination Period,30 Jun 2026  →    (10 Jun  22:41)
-,Accc Determination,  →  Approved  (10 Jun  22:41)
-,Determination Publication Date,  →  10 June 2026  (10 Jun  22:41)
-,Acquirers,Mastercard International Incorporated; 648928; Ares UK Holdco 2 Limited; CRN 171  →  Mastercard Incorporated; 3390142; Ares UK Holdco 2 Limited; CRN 17107097; Master  (10 Jun  22:41)
-,Targets,BVNK Holdings Limited; 13922014; B Corporation S.A.M; 23S09602  →  B Corporation S.A.M; 23S09602; BVNK Holdings Limited; 13922014  (10 Jun  22:41)
-,Last Modified Accc,2026-05-25T16:32:26+10:00  →  2026-06-10T17:22:09+10:00  (10 Jun  22:41)
-,Consultation Text,The period for providing submission or information in response to the ACCC's Pha  →    (10 Jun  22:41)
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Mastercard - BVNK - Phase 1 determinati  (10 Jun  22:41)"
-,,
-~ OpenAI - Tomoro,MN-25021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
-,End Of Determination Period,25 Jun 2026  →    (10 Jun  22:41)
-,Accc Determination,  →  Approved  (10 Jun  22:41)
-,Determination Publication Date,  →  9 June 2026  (10 Jun  22:41)
-,Last Modified Accc,2026-05-20T09:29:59+10:00  →  2026-06-10T11:59:09+10:00  (10 Jun  22:41)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'OpenAI-Tomoro - Phase 1 determination',   (10 Jun  22:41)"
-,,
-~ AtkinsRéalis - WGA,MN-65016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Jun  22:41)
-,End Of Determination Period,25 Jun 2026  →    (10 Jun  22:41)
-,Accc Determination,  →  Approved  (10 Jun  22:41)
-,Determination Publication Date,  →  9 June 2026  (10 Jun  22:41)
-,Last Modified Accc,2026-05-20T16:59:10+10:00  →  2026-06-10T16:46:36+10:00  (10 Jun  22:41)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jun  22:41)
-,Decisions Docs,"  →  [{'date': '9 Jun 2026', 'description': 'AtkinsRealis - WGA - Phase 1 Determinati  (10 Jun  22:41)"
-,,
+"CHANGED ENTRIES (21 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
 ,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
 ,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
@@ -220,6 +172,55 @@ NEW ENTRIES (11),Case Number,Detected (AEST)
 ~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
 ,Last Modified Accc,2026-06-03T18:57:32+10:00  →  2026-06-15T14:49:58+10:00  (16 Jun  04:10)
 ,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  →  [{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url':  (16 Jun  04:10)"
+,,
+"~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
+,Last Modified Accc,2026-06-09T17:00:00+10:00  →  2026-06-16T10:34:54+10:00  (17 Jun  04:20)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Jun  04:20)
+,Consultation Docs,"[{'date': '9 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (17 Jun  04:20)"
+,,
+~ Uber - Blacklane,MN-20018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane
+,Other Parties,UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; UBER PACIFIC PTY LTD; 96 622 36  →  UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 36  (17 Jun  04:20)
+,Last Modified Accc,2026-06-09T09:23:00+10:00  →  2026-06-16T09:42:18+10:00  (17 Jun  04:20)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (17 Jun  04:20)
+,Consultation Docs,"[{'date': '9 Jun 2026', 'description': 'Uber - Blacklane - Questionnaire', 'url'  →    (17 Jun  04:20)"
+,,
+~ Tibaldi - South Food Group,MN-25026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  04:20)
+,End Of Determination Period,7 Jul 2026  →    (17 Jun  04:20)
+,Accc Determination,  →  Approved  (17 Jun  04:20)
+,Determination Publication Date,  →  16 June 2026  (17 Jun  04:20)
+,Other Parties,CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA  →  CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; CHESTNUT AVENUE AUSTRALIA P  (17 Jun  04:20)
+,Last Modified Accc,2026-06-02T16:19:37+10:00  →  2026-06-16T10:17:15+10:00  (17 Jun  04:20)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  04:20)
+,Decisions Docs,"  →  [{'date': '16 Jun 2026', 'description': 'Tibaldi - South Food Group - Phase 1 de  (17 Jun  04:20)"
+,,
+~ Endeavour Group – retail liquor store in Muswellbrook (NSW),MN-30012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  04:20)
+,End Of Determination Period,7 Jul 2026  →    (17 Jun  04:20)
+,Accc Determination,  →  Approved  (17 Jun  04:20)
+,Determination Publication Date,  →  16 June 2026  (17 Jun  04:20)
+,Targets,Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496; UPPER HUNTER MOTORS PT  →  UPPER HUNTER MOTORS PTY LTD; 53 001 740 218; Bottlemart Muswellbrook; JABETIN PT  (17 Jun  04:20)
+,Last Modified Accc,2026-06-02T16:25:01+10:00  →  2026-06-16T10:24:01+10:00  (17 Jun  04:20)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  04:20)
+,Decisions Docs,"  →  [{'date': '16 Jun 2026', 'description': 'Endeavour Group – retail liquor store i  (17 Jun  04:20)"
+,,
+~ Fulton Hogan – Avionics,MN-75016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  04:20)
+,End Of Determination Period,17 Jun 2026  →    (17 Jun  04:20)
+,Accc Determination,  →  Approved  (17 Jun  04:20)
+,Determination Publication Date,  →  16 June 2026  (17 Jun  04:20)
+,Targets,AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capac  →  Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 4  (17 Jun  04:20)
+,Last Modified Accc,2026-05-29T11:31:57+10:00  →  2026-06-16T13:07:19+10:00  (17 Jun  04:20)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (17 Jun  04:20)
+,Decisions Docs,"[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days -   →  [{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days -   (17 Jun  04:20)"
+,,
+~ Peter Warren - Wakeling Automotive,MN-30002,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive
+,Acquisition Status,Under assessment  →  Assessment ceased  (17 Jun  04:20)
+,End Of Determination Period,8 Oct 2026  →    (17 Jun  04:20)
+,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trus  →  Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WOLLONGONG CITY MOTORS PTY LT  (17 Jun  04:20)
+,Last Modified Accc,2026-06-03T16:39:04+10:00  →  2026-06-16T08:57:08+10:00  (17 Jun  04:20)
+,Consultation Text,The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has   →    (17 Jun  04:20)
+,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   (17 Jun  04:20)"
 ,,
 REMOVED ENTRIES (5),Case Number,Detected (AEST)
 - Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,,12 Jun  16:23

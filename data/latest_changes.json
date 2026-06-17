@@ -1,74 +1,35 @@
 {
-  "run_utc": "2026-06-16T18:20:11.806591Z",
-  "new_count": 2,
-  "changed_count": 6,
+  "run_utc": "2026-06-17T13:03:08.359304Z",
+  "new_count": 4,
+  "changed_count": 4,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "transocean-valaris",
-      "title": "Transocean - Valaris",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris"
+      "slug": "calvary-hobart-private-hospital",
+      "title": "Calvary - Hobart Private Hospital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital"
     },
     {
-      "slug": "csr-complete-plaster",
-      "title": "CSR - Complete Plaster",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster"
+      "slug": "complete-air-supply-all-air",
+      "title": "Complete Air Supply - All Air",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air"
+    },
+    {
+      "slug": "international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital",
+      "title": "International Parking Group – car park at St John of God Murdoch Hospital",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital"
+    },
+    {
+      "slug": "life-without-barriers-%E2%80%93-mallacoota-district-health-support-service",
+      "title": "Life Without Barriers – Mallacoota District Health & Support Service",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/life-without-barriers-%E2%80%93-mallacoota-district-health-support-service"
     }
   ],
   "changed_entries": [
     {
-      "slug": "coles-%E2%80%93-supermarket-site-in-minto-nsw",
-      "title": "Coles – supermarket site in Minto, NSW",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-09T17:00:00+10:00",
-          "new": "2026-06-16T10:34:54+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 16 June 2026 via email to mergers@accc.gov.au with the title Coles – supermarket site in Minto, NSW. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jun 2026 Questionnaire Attachment 60.06 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '9 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Minto%20-%20Questionnaire%20-%20June%202026_0.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "uber-blacklane",
-      "title": "Uber - Blacklane",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane",
-      "changes": [
-        {
-          "field": "other_parties",
-          "old": "UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFIC PTY LTD; 27 622 365 833",
-          "new": "UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFIC PTY LTD; 27 622 365 833"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-09T09:23:00+10:00",
-          "new": "2026-06-16T09:42:18+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 15 June 2026 via email to mergers@accc.gov.au with the title Submission re: Uber – Blacklane. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jun 2026 Uber - Blacklane - Questionnaire Attachment 116.51 KB",
-          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '9 Jun 2026', 'description': 'Uber - Blacklane - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20third%20party%20questionnaire%20-%20June%202026.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "tibaldi-south-food-group",
-      "title": "Tibaldi - South Food Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tibaldi-south-food-group",
+      "slug": "zurich-beazley",
+      "title": "Zurich - Beazley",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley",
       "changes": [
         {
           "field": "acquisition_status",
@@ -88,17 +49,17 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "16 June 2026"
+          "new": "17 June 2026"
         },
         {
           "field": "other_parties",
-          "old": "CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257",
-          "new": "CHESTNUT PROPERTY AUSTRALIA PTY LTD; 56 664 974 421; CHESTNUT AVENUE AUSTRALIA PTY. LTD.; 85 667 250 688; TIBALDI AUSTRALIA HOLDINGS PTY LTD; 20 664 117 257"
+          "old": "Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services Australia Limited; Zurich Services (Australia) Pty Ltd; OnePath General Insurance Pty Ltd; Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Properties Pty Ltd; Insite Holdings Pty Limited; Zurich Australian Property Holdings Pty Limited; Zurich Australia Limited; Zurich Finance (Australia) Limited",
+          "new": "Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Limited; OnePath General Insurance Pty Ltd; Zurich Services (Australia) Pty Ltd; Zurich Finance (Australia) Limited; Zurich Australian Property Holdings Pty Limited; Cover-More Group; Insite Holdings Pty Limited; Zurich Australia Limited; Zurich Australia Insurance Properties Pty Ltd; Zurich Financial Services Australia Limited"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-02T16:19:37+10:00",
-          "new": "2026-06-16T10:17:15+10:00"
+          "old": "2026-06-03T09:52:59+10:00",
+          "new": "2026-06-17T11:16:39+10:00"
         },
         {
           "field": "consultation_text",
@@ -108,14 +69,14 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '16 Jun 2026', 'description': 'Tibaldi - South Food Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Tibaldi%20-%20South%20Food%20Group%20-%20Phase%201%20Determination%20-%2016%20June%202026_0.pdf'}]"
+          "new": "[{'date': '17 Jun 2026', 'description': 'Zurich - Beazley - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zurich%20-%20Beazley%20-%20Phase%201%20determination_0.pdf'}]"
         }
       ]
     },
     {
-      "slug": "endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
-      "title": "Endeavour Group – retail liquor store in Muswellbrook (NSW)",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+      "slug": "banijay-entertainment-%E2%80%93-all3media",
+      "title": "Banijay Entertainment – All3Media",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
       "changes": [
         {
           "field": "acquisition_status",
@@ -124,7 +85,7 @@
         },
         {
           "field": "end_of_determination_period",
-          "old": "7 Jul 2026",
+          "old": "3 Jul 2026",
           "new": ""
         },
         {
@@ -135,17 +96,22 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "16 June 2026"
+          "new": "17 June 2026"
         },
         {
           "field": "targets",
-          "old": "Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496; UPPER HUNTER MOTORS PTY LTD; 53 001 740 218",
-          "new": "UPPER HUNTER MOTORS PTY LTD; 53 001 740 218; Bottlemart Muswellbrook; JABETIN PTY LTD; 62 001 588 496"
+          "old": "Banijay Holding S.A.S.; 829 295 138 RCS PARIS; Gold Rush HoldCo Limited; RN 152698",
+          "new": "Gold Rush HoldCo Limited; RN 152698; Banijay Holding S.A.S.; 829 295 138 RCS PARIS"
+        },
+        {
+          "field": "other_parties",
+          "old": "RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 041 RCS PARIS; Banijay Entertainment SASU; 503 069 965 RCS PARIS; ENDEMOL SHINE AUSTRALIA HOLDINGS PTY LIMITED; 94 134 845 364; Lov Group Invest S.A.S; SIREN 494 031 008; Banijay Group N.V.; ISIN: NL0015000X07",
+          "new": "Lov Group Invest S.A.S; SIREN 494 031 008; Banijay SAS; 499 797 041 RCS PARIS; Banijay Entertainment SASU; 503 069 965 RCS PARIS; ENDEMOL SHINE AUSTRALIA HOLDINGS PTY LIMITED; 94 134 845 364; Banijay Group N.V.; ISIN: NL0015000X07; RedBird Capital Partners Management LLC; File No 5372472"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-02T16:25:01+10:00",
-          "new": "2026-06-16T10:24:01+10:00"
+          "old": "2026-05-28T17:01:29+10:00",
+          "new": "2026-06-17T15:28:13+10:00"
         },
         {
           "field": "consultation_text",
@@ -155,14 +121,14 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '16 Jun 2026', 'description': 'Endeavour Group – retail liquor store in Muswellbrook (NSW) - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20-%20retail%20liquor%20store%20in%20Muswellbrook%20%28NSW%29%20-%20Determination%20-%2016%20June%202026.pdf'}]"
+          "new": "[{'date': '17 Jun 2026', 'description': 'Banijay Entertainment - All3Media - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Banijay%20Entertainment%20-%20All3Media%20-%20Determination%20-%20Phase%201%20Determination%20-%2017%20June%202026.pdf'}]"
         }
       ]
     },
     {
-      "slug": "fulton-hogan-%E2%80%93-avionics",
-      "title": "Fulton Hogan – Avionics",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fulton-hogan-%E2%80%93-avionics",
+      "slug": "integris-related-entities-first-focus",
+      "title": "Integris & related entities - First Focus",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus",
       "changes": [
         {
           "field": "acquisition_status",
@@ -171,7 +137,7 @@
         },
         {
           "field": "end_of_determination_period",
-          "old": "17 Jun 2026",
+          "old": "2 Jul 2026",
           "new": ""
         },
         {
@@ -182,64 +148,74 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "16 June 2026"
+          "new": "17 June 2026"
+        },
+        {
+          "field": "acquirers",
+          "old": "OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 096",
+          "new": "Apollo Australia Bidco Pty Ltd; 697 230 096; Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apollo Investment Holdings LLC; OMERS Apollo Investment Holdings LLC"
         },
         {
           "field": "targets",
-          "old": "AVIONICS HOLDINGS PTY LTD; 92 166 405 321; Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883",
-          "new": "Nick Brumley Pty Limited in its capacity atf Nick Brumley Family Trust (ABN 98 415 412 572); 44 124 730 605; Shane Webb Nominees Pty Ltd in its capacity at the trustee for The S & R Webb Family Trust; 619 189 883; AVIONICS HOLDINGS PTY LTD; 92 166 405 321"
+          "old": "FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST; 22 698 604 264",
+          "new": "FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST; 22 698 604 264; FIRST FOCUS IT PTY LIMITED; 73 106 912 350"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-05-29T11:31:57+10:00",
-          "new": "2026-06-16T13:07:19+10:00"
+          "old": "2026-05-28T09:14:09+10:00",
+          "new": "2026-06-17T16:17:12+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by parties', 'url': ''}]",
-          "new": "[{'date': '28 May 2026', 'description': 'Timeline extended by 4 business days - following request by parties', 'url': ''}, {'date': '16 Jun 2026', 'description': 'Fulton Hogan-Avionics - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Fulton%20Hogan-Avionics%20-%20Phase%201%20determination.pdf'}]"
+          "old": "",
+          "new": "[{'date': '17 Jun 2026', 'description': 'Integris & related entities - First Focus - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Integris%20%26%20related%20entities-First%20Focus%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     },
     {
-      "slug": "peter-warren-wakeling-automotive",
-      "title": "Peter Warren - Wakeling Automotive",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive",
+      "slug": "macquarie-asset-management-led-consortium-%E2%80%93-qube",
+      "title": "Macquarie Asset Management led consortium – Qube",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube",
       "changes": [
         {
           "field": "acquisition_status",
           "old": "Under assessment",
-          "new": "Assessment ceased"
+          "new": "Assessment completed"
         },
         {
           "field": "end_of_determination_period",
-          "old": "8 Oct 2026",
+          "old": "19 Jun 2026",
           "new": ""
         },
         {
-          "field": "targets",
-          "old": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980",
-          "new": "Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WAKELING HOLDINGS PTY LTD; 41 160 814 040; HURRIKAYNE PTY LTD; 74 118 744 915; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Wakeling South Coast Pty Ltd; 636 298 970"
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "17 June 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-03T16:39:04+10:00",
-          "new": "2026-06-16T08:57:08+10:00"
+          "old": "2026-06-10T17:20:34+10:00",
+          "new": "2026-06-17T17:47:29+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC invites submissions from interested parties on the matters that the ACCC intends to investigate further as outlined in the boxes in the Phase 2 Notice and any other relevant matters. Submissions should be provided by 5 PM AEST on Tuesday, 16 June 2026 via email to mergers@accc.gov.au with the title Submission re: Peter Warren – Wakeling Automotive. read more",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}, {'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026_0.pdf'}]",
-          "new": "[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days – following request by parties', 'url': ''}, {'date': '2 Jun 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Wakeling%20Automotive%20-%20Phase%202%20notice%20-%202%20June%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Consideration of Notification ceased – following written request from notifying party', 'url': ''}]"
+          "old": "",
+          "new": "[{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consortium - Qube - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Macquarie%20Asset%20Management%20led%20consortium%20-%20Qube%20-%20Phase%201%20determination%20-%2017%20June%202026.pdf'}]"
         }
       ]
     }

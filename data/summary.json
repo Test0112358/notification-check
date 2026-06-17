@@ -1,43 +1,37 @@
 {
-  "generated_at_utc": "2026-06-16T18:33:25.806494Z",
-  "total_entries": 339,
+  "generated_at_utc": "2026-06-17T13:17:06.649824Z",
+  "total_entries": 343,
   "by_acquisition_status": {
-    "Under assessment": 32,
-    "Assessment completed": 306,
+    "Under assessment": 30,
+    "Assessment completed": 312,
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 131,
-    "Waiver application": 203,
+    "Phase 1 - initial assessment": 133,
+    "Waiver application": 205,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 136,
-    "Waiver": 203
+    "Notification": 138,
+    "Waiver": 205
   },
   "by_accc_determination": {
-    "Approved": 291,
+    "Approved": 297,
     "Not approved": 14,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "macquarie-asset-management-led-consortium-%E2%80%93-qube",
-      "title": "Macquarie Asset Management led consortium – Qube",
-      "end_of_determination_period": "19 Jun 2026",
-      "days_remaining": 3
-    },
-    {
       "slug": "trescal-%E2%80%93-tr-calibration",
       "title": "Trescal – TR Calibration",
       "end_of_determination_period": "25 Jun 2026",
-      "days_remaining": 9
+      "days_remaining": 8
     },
     {
       "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
       "title": "PT Asian Bulk Logistics – Engage Marine",
       "end_of_determination_period": "26 Jun 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }
