@@ -1,29 +1,17 @@
 {
-  "run_utc": "2026-06-17T13:03:08.359304Z",
-  "questionnaire_count": 2,
+  "run_utc": "2026-06-18T04:18:42.958611Z",
+  "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "calvary-hobart-private-hospital",
-      "title": "Calvary - Hobart Private Hospital",
-      "case_number": "MN-40013",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital",
-      "date": "17 Jun 2026",
-      "description": "Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Calvary%20-%20Hobart%20Private%20-%20Questionnaire_3.docx",
-      "local_path": "data/consultation_docs/Calvary - Hobart Private - Questionnaire_3.docx",
-      "filename": "Calvary - Hobart Private - Questionnaire_3.docx",
-      "size_kb": 107.4
-    },
-    {
-      "slug": "complete-air-supply-all-air",
-      "title": "Complete Air Supply - All Air",
-      "case_number": "MN-15018",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air",
-      "date": "17 Jun 2026",
-      "description": "Complete Air Supply - All Air - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Complete%20Air%20Supply%20-%20All%20Air%20-%20third%20party%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Complete Air Supply - All Air - third party questionnaire.docx",
-      "filename": "Complete Air Supply - All Air - third party questionnaire.docx",
+      "slug": "adbri-eureka-concrete",
+      "title": "Adbri - Eureka Concrete",
+      "case_number": "MN-50021",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
+      "date": "18 Jun 2026",
+      "description": "Questionnaire - Adbri - Eureka Concrete",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Eureka%3A%20third-party%20questionnaire%20-%2018%20June%202026_0.docx",
+      "local_path": "data/consultation_docs/Eureka_ third-party questionnaire - 18 June 2026_0.docx",
+      "filename": "Eureka_ third-party questionnaire - 18 June 2026_0.docx",
       "size_kb": 116.0
     }
   ]

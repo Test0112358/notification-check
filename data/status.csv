@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-17 13:03:08.359304,
-Last scrape run (AEST),17 Jun 2026  23:03,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-18 04:18:42.958611,
+Last scrape run (AEST),18 Jun 2026  14:18,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,343,
-New entries this run,4,
-Changed entries this run,4,
+Total entries monitored,344,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,66 +13,31 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
-+ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
-+ International Parking Group – car park at St John of God Murdoch Hospital,WA-90018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital
-+ Life Without Barriers – Mallacoota District Health & Support Service,WA-95022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/life-without-barriers-%E2%80%93-mallacoota-district-health-support-service
+NEW ENTRIES (1),Case Number,URL
++ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Zurich - Beazley,MN-30016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,7 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  17 June 2026
-,Other Parties,Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services Australia Limited; Z  →  Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Limited; OnePath General Insurance Pty L
-,Last Modified Accc,2026-06-03T09:52:59+10:00  →  2026-06-17T11:16:39+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Zurich - Beazley - Phase 1 determination', 'url': 'https://"
-,,
-~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,3 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  17 June 2026
-,Targets,Banijay Holding S.A.S.; 829 295 138 RCS PARIS; Gold Rush HoldCo Limited; RN 152698  →  Gold Rush HoldCo Limited; RN 152698; Banijay Holding S.A.S.; 829 295 138 RCS PARIS
-,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 041 RCS PARIS; Banija  →  Lov Group Invest S.A.S; SIREN 494 031 008; Banijay SAS; 499 797 041 RCS PARIS; Banijay Entertainment
-,Last Modified Accc,2026-05-28T17:01:29+10:00  →  2026-06-17T15:28:13+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Banijay Entertainment - All3Media - Phase 1 Determination',"
-,,
-~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,2 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  17 June 2026
-,Acquirers,OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 096  →  Apollo Australia Bidco Pty Ltd; 697 230 096; Apollo Australia Bidco Pty Ltd; 697 230 096; OMERS Apol
-,Targets,FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST; 22 698 604 264  →  FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST; 22 698 604 264; FIRS
-,Last Modified Accc,2026-05-28T09:14:09+10:00  →  2026-06-17T16:17:12+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Integris & related entities - First Focus - Phase 1 determi"
-,,
-~ Macquarie Asset Management led consortium – Qube,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,19 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  17 June 2026
-,Last Modified Accc,2026-06-10T17:20:34+10:00  →  2026-06-17T17:47:29+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consortium - Qube - Phase 1 "
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
+,Last Modified Accc,2026-06-10T15:26:28+10:00  →  2026-06-18T11:37:08+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '10 Jun 2026', 'description': 'Questionnaire - Equans - CV Services Group', 'url': 'https:  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (6),Case Number,Detected (AEST)
+NEW ENTRIES (10),Case Number,Detected (AEST)
 + EBOS - Paringa Pet Foods,MN-30020,12 Jun  16:23
 + Service Stream – RiE,MN-50022,16 Jun  04:10
 + Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
 + Frasers Group – Accent Group,MN-30008,16 Jun  04:10
 + Transocean - Valaris,MN-25019,17 Jun  04:20
 + CSR - Complete Plaster,MN-10018,17 Jun  04:20
++ Calvary - Hobart Private Hospital,MN-40013,17 Jun  23:03
++ Complete Air Supply - All Air,MN-15018,17 Jun  23:03
++ International Parking Group – car park at St John of God Murdoch Hospital,WA-90018,17 Jun  23:03
++ Life Without Barriers – Mallacoota District Health & Support Service,WA-95022,17 Jun  23:03
 ,,
-"CHANGED ENTRIES (21 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (25 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
 ,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
 ,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
@@ -221,6 +186,47 @@ NEW ENTRIES (6),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-03T16:39:04+10:00  →  2026-06-16T08:57:08+10:00  (17 Jun  04:20)
 ,Consultation Text,The ACCC has published a Phase 2 Notice regarding the Acquisition. The ACCC has   →    (17 Jun  04:20)
 ,Decisions Docs,"[{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   →  [{'date': '2 Apr 2026', 'description': 'Timeline extended by 28 business days –   (17 Jun  04:20)"
+,,
+~ Zurich - Beazley,MN-30016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
+,End Of Determination Period,7 Jul 2026  →    (17 Jun  23:03)
+,Accc Determination,  →  Approved  (17 Jun  23:03)
+,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
+,Other Parties,Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services   →  Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Limited; OnePath Gen  (17 Jun  23:03)
+,Last Modified Accc,2026-06-03T09:52:59+10:00  →  2026-06-17T11:16:39+10:00  (17 Jun  23:03)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Zurich - Beazley - Phase 1 determinatio  (17 Jun  23:03)"
+,,
+~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
+,End Of Determination Period,3 Jul 2026  →    (17 Jun  23:03)
+,Accc Determination,  →  Approved  (17 Jun  23:03)
+,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
+,Targets,Banijay Holding S.A.S.; 829 295 138 RCS PARIS; Gold Rush HoldCo Limited; RN 1526  →  Gold Rush HoldCo Limited; RN 152698; Banijay Holding S.A.S.; 829 295 138 RCS PAR  (17 Jun  23:03)
+,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 0  →  Lov Group Invest S.A.S; SIREN 494 031 008; Banijay SAS; 499 797 041 RCS PARIS; B  (17 Jun  23:03)
+,Last Modified Accc,2026-05-28T17:01:29+10:00  →  2026-06-17T15:28:13+10:00  (17 Jun  23:03)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Banijay Entertainment - All3Media - Pha  (17 Jun  23:03)"
+,,
+~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
+,End Of Determination Period,2 Jul 2026  →    (17 Jun  23:03)
+,Accc Determination,  →  Approved  (17 Jun  23:03)
+,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
+,Acquirers,OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 09  →  Apollo Australia Bidco Pty Ltd; 697 230 096; Apollo Australia Bidco Pty Ltd; 697  (17 Jun  23:03)
+,Targets,FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST;   →  FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST;   (17 Jun  23:03)
+,Last Modified Accc,2026-05-28T09:14:09+10:00  →  2026-06-17T16:17:12+10:00  (17 Jun  23:03)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Integris & related entities - First Foc  (17 Jun  23:03)"
+,,
+~ Macquarie Asset Management led consortium – Qube,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube
+,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
+,End Of Determination Period,19 Jun 2026  →    (17 Jun  23:03)
+,Accc Determination,  →  Approved  (17 Jun  23:03)
+,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
+,Last Modified Accc,2026-06-10T17:20:34+10:00  →  2026-06-17T17:47:29+10:00  (17 Jun  23:03)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
+,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consorti  (17 Jun  23:03)"
 ,,
 REMOVED ENTRIES (5),Case Number,Detected (AEST)
 - Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,,12 Jun  16:23

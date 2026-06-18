@@ -20107,5 +20107,37 @@
         "new": "[{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consortium - Qube - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Macquarie%20Asset%20Management%20led%20consortium%20-%20Qube%20-%20Phase%201%20determination%20-%2017%20June%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-18T04:18:42.958611Z",
+    "slug": "adbri-eureka-concrete",
+    "title": "Adbri - Eureka Concrete",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T04:18:42.958611Z",
+    "slug": "equans-cv-services-group",
+    "title": "Equans - CV Services Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-10T15:26:28+10:00",
+        "new": "2026-06-18T11:37:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 June 2026 via email to mergers@accc.gov.au with the title Equans – CV Services Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 10 Jun 2026 Questionnaire - Equans - CV Services Group Attachment 115.91 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '10 Jun 2026', 'description': 'Questionnaire - Equans - CV Services Group', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Equans%20-%20CV%20Services%20Group%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]
