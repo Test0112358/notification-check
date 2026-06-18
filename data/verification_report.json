@@ -70,5 +70,41 @@
     "field": "anzsic_codes",
     "stored_value": "121 Beverage Manufacturing; 67 Property Operators and Real Estate Services",
     "expected_or_found": "at least one 4-digit code"
+  },
+  {
+    "slug": "north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+    "title": "North American Construction Group – Iron Mine Contracting and Iron Hire",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "kk-group-invest-powercon",
+    "title": "KK Group Invest - PowerCon",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "salter-brothers-buroserv",
+    "title": "Salter Brothers - Buroserv",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salter-brothers-buroserv",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
   }
 ]
