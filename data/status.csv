@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-18 04:18:42.958611,
-Last scrape run (AEST),18 Jun 2026  14:18,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-18 10:25:08.970925,
+Last scrape run (AEST),18 Jun 2026  20:25,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,344,
-New entries this run,1,
-Changed entries this run,1,
+Total entries monitored,352,
+New entries this run,8,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,19 +13,37 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+NEW ENTRIES (8),Case Number,URL
++ Jardines - I-MED,WA-90019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/jardines-i-med
+"+ Autopact - Freehold interest in commercial land in Dubbo, NSW",WA-55021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw
+"+ Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",WA-50018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic
++ Vets Central - Morley Veterinary Hospital,WA-15022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-morley-veterinary-hospital
++ Xylem - TriOS,WA-05018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/xylem-trios
++ Online Education Services – South Australian Institute of Business and Technology,WA-15020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology
++ Envest Group – MA Insurance Brokers,WA-50020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers
++ Northstar – business assets of Mildura Mazda,WA-45016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/northstar-%E2%80%93-business-assets-of-mildura-mazda
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
-,Last Modified Accc,2026-06-10T15:26:28+10:00  →  2026-06-18T11:37:08+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '10 Jun 2026', 'description': 'Questionnaire - Equans - CV Services Group', 'url': 'https:  →  "
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
+,Acquirers,NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; WESTPAC BANKING CORPORATION; 33 007 4  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005
+,Last Modified Accc,2026-06-04T17:15:40+10:00  →  2026-06-18T16:07:43+10:00
+,Consultation Text,The ACCC is inviting submissions from interested parties on the Acquisitions by 16 June 2026. This r  →  The period for providing submissions in relation to the Acquisitions has concluded.
+,,
+~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,6 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Acquirers,Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 1691031  →  CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limited; Company Identif
+,Targets,Castrol Group Holdings Limited; UKCRN - SC005098; Stonepeak Motion PoolingCo Limited; CBN - 76422830  →  Stonepeak Motion PoolingCo Limited; CBN - 764228300; Castrol Group Holdings Limited; UKCRN - SC00509
+,Other Parties,BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware  →  Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c; UKCRN - 00102498
+,Last Modified Accc,2026-06-01T14:38:26+10:00  →  2026-06-18T15:47:24+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '18 Jun 2026', 'description': 'Stonepeak - Castrol - Phase 1 Determination', 'url': 'https"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (10),Case Number,Detected (AEST)
+NEW ENTRIES (11),Case Number,Detected (AEST)
 + EBOS - Paringa Pet Foods,MN-30020,12 Jun  16:23
 + Service Stream – RiE,MN-50022,16 Jun  04:10
 + Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
@@ -36,8 +54,9 @@ NEW ENTRIES (10),Case Number,Detected (AEST)
 + Complete Air Supply - All Air,MN-15018,17 Jun  23:03
 + International Parking Group – car park at St John of God Murdoch Hospital,WA-90018,17 Jun  23:03
 + Life Without Barriers – Mallacoota District Health & Support Service,WA-95022,17 Jun  23:03
++ Adbri - Eureka Concrete,MN-50021,18 Jun  14:18
 ,,
-"CHANGED ENTRIES (25 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (26 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
 ,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
 ,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
@@ -227,6 +246,11 @@ NEW ENTRIES (10),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-10T17:20:34+10:00  →  2026-06-17T17:47:29+10:00  (17 Jun  23:03)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
 ,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consorti  (17 Jun  23:03)"
+,,
+~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
+,Last Modified Accc,2026-06-10T15:26:28+10:00  →  2026-06-18T11:37:08+10:00  (18 Jun  14:18)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (18 Jun  14:18)
+,Consultation Docs,"[{'date': '10 Jun 2026', 'description': 'Questionnaire - Equans - CV Services Gr  →    (18 Jun  14:18)"
 ,,
 REMOVED ENTRIES (5),Case Number,Detected (AEST)
 - Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,,12 Jun  16:23

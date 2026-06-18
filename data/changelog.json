@@ -20139,5 +20139,147 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+    "title": "ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; WESTPAC BANKING CORPORATION; 33 007 457 141; NATIONAL AUSTRALIA BANK LIMITED; 12 004 044 937; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005 357 522; COMMONWEALTH BANK OF AUSTRALIA; 48 123 123 124",
+        "new": "WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005 357 522; NATIONAL AUSTRALIA BANK LIMITED; 12 004 044 937; COMMONWEALTH BANK OF AUSTRALIA; 48 123 123 124; NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-04T17:15:40+10:00",
+        "new": "2026-06-18T16:07:43+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC is inviting submissions from interested parties on the Acquisitions by 16 June 2026. This request is made in accordance with section 51ABZZD(2)(a) and (c) of the CCA. The ACCC is inviting submissions from interested parties on the Acquisitions by 16 June 2026. This request is made in accordance with section 51ABZZD(2)(a) and (c) of the CCA. This means that, while the ACCC may take into account submissions or information received after the due date, it is not required to do so. Given the establishment and operation of JVCo is subject to both a notification under the acquisition provisions and an application for authorisation under the CCA, we encourage any submissions concerning the Acquisitions to be made as part of the consultation process for the authorisation application. Submissions on the application for authorisation will also be considered in the ACCC’s assessment of the Acquisitions subject to statutory requirements. Similarly, the ACCC will consider submissions made in the context of the notification of the Acquisitions in the assessment of the application for authorisation, subject to statutory requirements. Submissions on the Acquisitions can be provided via the web form accessible on the authorisation public register page for this matter. Your submission will be placed on the ACCC’s authorisations public register on the internet unless you have made a request (with reasons) for us to exclude part or all of the submission from the public register (see Guidelines for Excluding Information from the Public Register for more information on how to make a request and how we assess requests). read more",
+        "new": "The period for providing submissions in relation to the Acquisitions has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "jardines-i-med",
+    "title": "Jardines - I-MED",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/jardines-i-med",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
+    "title": "Autopact - Freehold interest in commercial land in Dubbo, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic",
+    "title": "Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "vets-central-morley-veterinary-hospital",
+    "title": "Vets Central - Morley Veterinary Hospital",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-morley-veterinary-hospital",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "xylem-trios",
+    "title": "Xylem - TriOS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/xylem-trios",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
+    "title": "Online Education Services – South Australian Institute of Business and Technology",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
+    "title": "Envest Group – MA Insurance Brokers",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "stonepeak-%E2%80%93-castrol",
+    "title": "Stonepeak – Castrol",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "6 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "acquirers",
+        "old": "Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 16910312; CPP Investment Board Private Holdings (6) Inc; CBN - 764228300",
+        "new": "CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 16910312"
+      },
+      {
+        "field": "targets",
+        "old": "Castrol Group Holdings Limited; UKCRN - SC005098; Stonepeak Motion PoolingCo Limited; CBN - 764228300",
+        "new": "Stonepeak Motion PoolingCo Limited; CBN - 764228300; Castrol Group Holdings Limited; UKCRN - SC005098"
+      },
+      {
+        "field": "other_parties",
+        "old": "BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware",
+        "new": "Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c; UKCRN - 00102498"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-01T14:38:26+10:00",
+        "new": "2026-06-18T15:47:24+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Jun 2026', 'description': 'Stonepeak - Castrol - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak%20-%20Castrol%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-18T10:25:08.970925Z",
+    "slug": "northstar-%E2%80%93-business-assets-of-mildura-mazda",
+    "title": "Northstar – business assets of Mildura Mazda",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/northstar-%E2%80%93-business-assets-of-mildura-mazda",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

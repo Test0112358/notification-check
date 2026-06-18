@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-06-18T04:18:42.958611Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "adbri-eureka-concrete",
-      "title": "Adbri - Eureka Concrete",
-      "case_number": "MN-50021",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
-      "date": "18 Jun 2026",
-      "description": "Questionnaire - Adbri - Eureka Concrete",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Eureka%3A%20third-party%20questionnaire%20-%2018%20June%202026_0.docx",
-      "local_path": "data/consultation_docs/Eureka_ third-party questionnaire - 18 June 2026_0.docx",
-      "filename": "Eureka_ third-party questionnaire - 18 June 2026_0.docx",
-      "size_kb": 116.0
-    }
-  ]
+  "run_utc": "2026-06-18T10:25:08.970925Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }
