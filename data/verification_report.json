@@ -1,5 +1,17 @@
 [
   {
+    "slug": "stonepeak-%E2%80%93-castrol",
+    "title": "Stonepeak – Castrol",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "eli-lilly-kelonia-therapeutics",
     "title": "Eli Lilly - Kelonia Therapeutics",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
@@ -72,9 +84,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
-    "title": "North American Construction Group – Iron Mine Contracting and Iron Hire",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+    "slug": "daikin-aams-group",
+    "title": "Daikin - AAMS Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/daikin-aams-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -84,21 +96,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "kk-group-invest-powercon",
-    "title": "KK Group Invest - PowerCon",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "salter-brothers-buroserv",
-    "title": "Salter Brothers - Buroserv",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salter-brothers-buroserv",
+    "slug": "capital-group-big-post",
+    "title": "Capital Group - Big Post",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/capital-group-big-post",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
