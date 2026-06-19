@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-06-18T10:41:34.825303Z",
-  "total_entries": 352,
+  "generated_at_utc": "2026-06-19T05:01:20.280766Z",
+  "total_entries": 353,
   "by_acquisition_status": {
-    "Under assessment": 30,
+    "Under assessment": 31,
     "Assessment completed": 321,
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 134,
+    "Phase 1 - initial assessment": 135,
     "Waiver application": 213,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 139,
+    "Notification": 140,
     "Waiver": 213
   },
   "by_accc_determination": {
@@ -25,13 +25,13 @@
       "slug": "trescal-%E2%80%93-tr-calibration",
       "title": "Trescal – TR Calibration",
       "end_of_determination_period": "25 Jun 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
       "title": "PT Asian Bulk Logistics – Engage Marine",
       "end_of_determination_period": "26 Jun 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     }
   ]
 }

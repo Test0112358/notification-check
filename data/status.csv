@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-18 10:25:08.970925,
-Last scrape run (AEST),18 Jun 2026  20:25,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-19 04:46:34.245416,
+Last scrape run (AEST),19 Jun 2026  14:46,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,352,
-New entries this run,8,
-Changed entries this run,2,
+Total entries monitored,353,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,37 +13,19 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (8),Case Number,URL
-+ Jardines - I-MED,WA-90019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/jardines-i-med
-"+ Autopact - Freehold interest in commercial land in Dubbo, NSW",WA-55021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw
-"+ Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",WA-50018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic
-+ Vets Central - Morley Veterinary Hospital,WA-15022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-morley-veterinary-hospital
-+ Xylem - TriOS,WA-05018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/xylem-trios
-+ Online Education Services – South Australian Institute of Business and Technology,WA-15020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology
-+ Envest Group – MA Insurance Brokers,WA-50020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers
-+ Northstar – business assets of Mildura Mazda,WA-45016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/northstar-%E2%80%93-business-assets-of-mildura-mazda
+NEW ENTRIES (1),Case Number,URL
++ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
-,Acquirers,NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; WESTPAC BANKING CORPORATION; 33 007 4  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005
-,Last Modified Accc,2026-06-04T17:15:40+10:00  →  2026-06-18T16:07:43+10:00
-,Consultation Text,The ACCC is inviting submissions from interested parties on the Acquisitions by 16 June 2026. This r  →  The period for providing submissions in relation to the Acquisitions has concluded.
-,,
-~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,6 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Acquirers,Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limited; UKCRN - 1691031  →  CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limited; Company Identif
-,Targets,Castrol Group Holdings Limited; UKCRN - SC005098; Stonepeak Motion PoolingCo Limited; CBN - 76422830  →  Stonepeak Motion PoolingCo Limited; CBN - 764228300; Castrol Group Holdings Limited; UKCRN - SC00509
-,Other Parties,BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware  →  Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c; UKCRN - 00102498
-,Last Modified Accc,2026-06-01T14:38:26+10:00  →  2026-06-18T15:47:24+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '18 Jun 2026', 'description': 'Stonepeak - Castrol - Phase 1 Determination', 'url': 'https"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,End Of Determination Period,6 Jul 2026  →  20 Jul 2026
+,Last Modified Accc,2026-05-29T15:05:45+10:00  →  2026-06-19T12:17:30+10:00
+,Decisions Docs,"  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request b"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (11),Case Number,Detected (AEST)
+NEW ENTRIES (19),Case Number,Detected (AEST)
 + EBOS - Paringa Pet Foods,MN-30020,12 Jun  16:23
 + Service Stream – RiE,MN-50022,16 Jun  04:10
 + Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
@@ -55,30 +37,16 @@ NEW ENTRIES (11),Case Number,Detected (AEST)
 + International Parking Group – car park at St John of God Murdoch Hospital,WA-90018,17 Jun  23:03
 + Life Without Barriers – Mallacoota District Health & Support Service,WA-95022,17 Jun  23:03
 + Adbri - Eureka Concrete,MN-50021,18 Jun  14:18
++ Jardines - I-MED,WA-90019,18 Jun  20:25
+"+ Autopact - Freehold interest in commercial land in Dubbo, NSW",WA-55021,18 Jun  20:25
+"+ Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",WA-50018,18 Jun  20:25
++ Vets Central - Morley Veterinary Hospital,WA-15022,18 Jun  20:25
++ Xylem - TriOS,WA-05018,18 Jun  20:25
++ Online Education Services – South Australian Institute of Business and Technology,WA-15020,18 Jun  20:25
++ Envest Group – MA Insurance Brokers,WA-50020,18 Jun  20:25
++ Northstar – business assets of Mildura Mazda,WA-45016,18 Jun  20:25
 ,,
-"CHANGED ENTRIES (26 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
-~ Primary Wave - Kobalt,MN-25018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt
-,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
-,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
-,Accc Determination,  →  Approved  (11 Jun  23:05)
-,Determination Publication Date,  →  11 June 2026  (11 Jun  23:05)
-,Other Parties,"Brookfield Corporation; Company number 1644037; Kobalt Music Publishing Australi  →  Primary Wave Music IP Fund 4 GP, LLC; Company number 7667915; KOBALT MUSIC SERVI  (11 Jun  23:05)"
-,Last Modified Accc,2026-05-28T09:38:38+10:00  →  2026-06-11T10:04:09+10:00  (11 Jun  23:05)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (11 Jun  23:05)
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Primary Wave-Kobalt - Phase 1 determina  (11 Jun  23:05)"
-,,
-~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
-,Acquisition Status,Under assessment  →  Assessment completed  (11 Jun  23:05)
-,End Of Determination Period,1 Jul 2026  →    (11 Jun  23:05)
-,Accc Determination,  →  Approved  (11 Jun  23:05)
-,Determination Publication Date,  →  10 June 2026  (11 Jun  23:05)
-,Other Parties,"Collins Foods Limited; 13 151 420 781; Collins Restaurants Management Pty Ltd; 2  →  Restaurant Brands New Zealand Limited; NZBN - 9429038138775; Yum! Brands, Inc.;   (11 Jun  23:05)"
-,Last Modified Accc,2026-05-26T15:38:28+10:00  →  2026-06-11T16:28:31+10:00  (11 Jun  23:05)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (11 Jun  23:05)
-,Decisions Docs,"  →  [{'date': '10 Jun 2026', 'description': 'Restaurant Brands and Yum - Taco Bell R  (11 Jun  23:05)"
-,Determination Publication Date,10 June 2026  →  11 June 2026  (12 Jun  16:23)
-,Last Modified Accc,2026-06-11T16:28:31+10:00  →  2026-06-12T08:46:44+10:00  (12 Jun  16:23)
-,,
+"CHANGED ENTRIES (27 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
 ,Targets,De Domenico Carmelo; NORTH QUEENSLAND IQF PTY. LTD.; 32 070 037 795; DOUBLE D PR  →  DOUBLE D PRODUCE PTY LTD; 86 074 625 004; De Domenico Carmelo; NORTH QUEENSLAND   (12 Jun  16:23)
 ,Last Modified Accc,2026-06-05T11:13:50+10:00  →  2026-06-12T15:49:39+10:00  (12 Jun  16:23)
@@ -122,6 +90,10 @@ NEW ENTRIES (11),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-27T16:17:13+10:00  →  2026-06-12T08:44:51+10:00  (12 Jun  16:23)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Jun  16:23)
 ,Decisions Docs,"  →  [{'date': '11 Jun 2026', 'description': 'Magellan Financial Group - Barrenjoey -  (12 Jun  16:23)"
+,,
+~ Restaurant Brands and Yum! Brands – Taco Bell restaurants,MN-70018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants
+,Determination Publication Date,10 June 2026  →  11 June 2026  (12 Jun  16:23)
+,Last Modified Accc,2026-06-11T16:28:31+10:00  →  2026-06-12T08:46:44+10:00  (12 Jun  16:23)
 ,,
 ~ Quanta - PSD,MN-70012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd
 ,Determination Publication Date,3 June 2026  →  4 June 2026  (12 Jun  16:23)
@@ -251,6 +223,22 @@ NEW ENTRIES (11),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-10T15:26:28+10:00  →  2026-06-18T11:37:08+10:00  (18 Jun  14:18)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (18 Jun  14:18)
 ,Consultation Docs,"[{'date': '10 Jun 2026', 'description': 'Questionnaire - Equans - CV Services Gr  →    (18 Jun  14:18)"
+,,
+"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
+,Acquirers,NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; WESTPAC BANKING C  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING G  (18 Jun  20:25)
+,Last Modified Accc,2026-06-04T17:15:40+10:00  →  2026-06-18T16:07:43+10:00  (18 Jun  20:25)
+,Consultation Text,The ACCC is inviting submissions from interested parties on the Acquisitions by   →  The period for providing submissions in relation to the Acquisitions has conclud  (18 Jun  20:25)
+,,
+~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
+,Acquisition Status,Under assessment  →  Assessment completed  (18 Jun  20:25)
+,End Of Determination Period,6 Jul 2026  →    (18 Jun  20:25)
+,Accc Determination,  →  Approved  (18 Jun  20:25)
+,Acquirers,Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limi  →  CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limi  (18 Jun  20:25)
+,Targets,Castrol Group Holdings Limited; UKCRN - SC005098; Stonepeak Motion PoolingCo Lim  →  Stonepeak Motion PoolingCo Limited; CBN - 764228300; Castrol Group Holdings Limi  (18 Jun  20:25)
+,Other Parties,BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 49  →  Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c;   (18 Jun  20:25)
+,Last Modified Accc,2026-06-01T14:38:26+10:00  →  2026-06-18T15:47:24+10:00  (18 Jun  20:25)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (18 Jun  20:25)
+,Decisions Docs,"  →  [{'date': '18 Jun 2026', 'description': 'Stonepeak - Castrol - Phase 1 Determina  (18 Jun  20:25)"
 ,,
 REMOVED ENTRIES (5),Case Number,Detected (AEST)
 - Australian Meat Group Pty Ltd - Killara Feedlot Pty Ltd,,12 Jun  16:23
