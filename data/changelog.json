@@ -20313,5 +20313,71 @@
         "new": "[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-19T10:43:16.289731Z",
+    "slug": "autodesk-maintainx",
+    "title": "Autodesk - MaintainX",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-19T10:43:16.289731Z",
+    "slug": "discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
+    "title": "Discovery Holiday Parks – four Breeze Holiday Parks",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-19T10:43:16.289731Z",
+    "slug": "ebos-paringa-pet-foods",
+    "title": "EBOS - Paringa Pet Foods",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "PET CARE DISTRIBUTORS PTY LTD; 58 125 265 769",
+        "new": "Pet Care Distributors Pty Ltd; 58 125 265 769"
+      },
+      {
+        "field": "targets",
+        "old": "PARINGA PET FOODS PTY LTD; 20 142 418 915",
+        "new": "Paringa Pet Foods Pty Ltd; 20 142 418 915"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-12T08:12:01+10:00",
+        "new": "2026-06-19T10:18:09+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 June 2026 via email to mergers@accc.gov.au with the title Submission re: EBOS – Paringa Pet Foods. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 12 Jun 2026 Questionnaire - EBOS - Paringa Pet Foods Attachment 116.08 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '12 Jun 2026', 'description': 'Questionnaire - EBOS - Paringa Pet Foods', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EBOS%20-%20Paringa%20Pet%20Foods%3A%20Questionnaire%20for%20Acquisitions%20register.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-19T10:43:16.289731Z",
+    "slug": "ares-bolt-spa-%E2%80%93-investment-in-plenitude",
+    "title": "Ares (Bolt S.p.A.) – Investment in Plenitude",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ares-bolt-spa-%E2%80%93-investment-in-plenitude",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-19T10:43:16.289731Z",
+    "slug": "oscars-group-%E2%80%93-hotel-diplomat-in-potts-point-nsw",
+    "title": "Oscars Group – Hotel Diplomat in Potts Point, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oscars-group-%E2%80%93-hotel-diplomat-in-potts-point-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

@@ -1,18 +1,30 @@
 {
-  "run_utc": "2026-06-19T04:46:34.245416Z",
-  "questionnaire_count": 1,
+  "run_utc": "2026-06-19T10:43:16.289731Z",
+  "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "bertelsmann-music-group-concord",
-      "title": "Bertelsmann Music Group - Concord",
-      "case_number": "MN-75023",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord",
+      "slug": "autodesk-maintainx",
+      "title": "Autodesk - MaintainX",
+      "case_number": "MN-60022",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
       "date": "19 Jun 2026",
-      "description": "Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Concord%20-%20Questionnaire_0.docx",
-      "local_path": "data/consultation_docs/Concord - Questionnaire_0.docx",
-      "filename": "Concord - Questionnaire_0.docx",
-      "size_kb": 60.0
+      "description": "Autodesk - MaintainX - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Autodesk%20-%20MaintainX%20-%20Questionnaire_0.docx",
+      "local_path": "data/consultation_docs/Autodesk - MaintainX - Questionnaire_0.docx",
+      "filename": "Autodesk - MaintainX - Questionnaire_0.docx",
+      "size_kb": 107.0
+    },
+    {
+      "slug": "discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
+      "title": "Discovery Holiday Parks – four Breeze Holiday Parks",
+      "case_number": "MN-01103",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
+      "date": "19 Jun 2026",
+      "description": "Questionnaire - Discovery Holiday Parks - four Breeze Holiday Parks",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Discovery%20Holiday%20Parks%20-%20four%20Breeze%20Holiday%20Parks%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Discovery Holiday Parks - four Breeze Holiday Parks - Questionnaire.docx",
+      "filename": "Discovery Holiday Parks - four Breeze Holiday Parks - Questionnaire.docx",
+      "size_kb": 118.2
     }
   ]
 }
