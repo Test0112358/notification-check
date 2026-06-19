@@ -84,9 +84,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "daikin-aams-group",
-    "title": "Daikin - AAMS Group",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/daikin-aams-group",
+    "slug": "epl-indovida-india",
+    "title": "EPL - Indovida India",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/epl-indovida-india",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -96,9 +96,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "capital-group-big-post",
-    "title": "Capital Group - Big Post",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/capital-group-big-post",
+    "slug": "idemitsu-midocean-energy",
+    "title": "Idemitsu - MidOcean Energy",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/idemitsu-midocean-energy",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
