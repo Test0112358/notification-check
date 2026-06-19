@@ -84,9 +84,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "epl-indovida-india",
-    "title": "EPL - Indovida India",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/epl-indovida-india",
+    "slug": "playlist-%E2%80%93-egym",
+    "title": "Playlist – EGYM",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/playlist-%E2%80%93-egym",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -96,9 +96,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "idemitsu-midocean-energy",
-    "title": "Idemitsu - MidOcean Energy",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/idemitsu-midocean-energy",
+    "slug": "five-v-capital-ftp-group",
+    "title": "Five V Capital - FTP Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
