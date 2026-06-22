@@ -96,9 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "hcltech-jaspersoft",
-    "title": "HCLTech - Jaspersoft",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft",
+    "slug": "american-industrial-partners-avanos-medical",
+    "title": "American Industrial Partners - Avanos Medical",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-avanos-medical",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
