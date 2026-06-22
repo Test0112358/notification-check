@@ -20506,5 +20506,125 @@
         "new": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "endeavour-group-retail-liquor-site-in-avalon-nsw",
+    "title": "Endeavour Group - retail liquor site in Avalon, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "genea-care-fertility-greenslopes",
+    "title": "Genea - Care Fertility Greenslopes",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "river-capital-%E2%80%93-yomg",
+    "title": "River Capital – YOMG",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/river-capital-%E2%80%93-yomg",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "service-stream-%E2%80%93-rie",
+    "title": "Service Stream – RiE",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-15T15:11:02+10:00",
+        "new": "2026-06-22T11:49:49+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Monday 22 June 2026 via email to mergers@accc.gov.au with the title Submission re: Service Stream – RiE. The ACCC must complete its assessment within strict statutory timelines which also impacts the time available for consultation. read more 15 Jun 2026 Questionnaire - Service Stream - RiE Attachment 66.81 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '15 Jun 2026', 'description': 'Questionnaire - Service Stream - RiE', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Service%20Stream%20-%20RiE%20-%20Acquisitions%20register%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "australian-venue-co-leasehold-and-assets-of-brabham-tavern-wa",
+    "title": "Australian Venue Co - leasehold and assets of Brabham Tavern, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-leasehold-and-assets-of-brabham-tavern-wa",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "ma-financial-group-redcape-fund-%E2%80%93-the-arthouse-hotel",
+    "title": "MA Financial Group (Redcape Fund) – The Arthouse Hotel",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-%E2%80%93-the-arthouse-hotel",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "american-industrial-partners-%E2%80%93-honeywell%E2%80%99s-warehouse-and-workflow-solutions-business",
+    "title": "American Industrial Partners – Honeywell’s Warehouse and Workflow Solutions business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-%E2%80%93-honeywell%E2%80%99s-warehouse-and-workflow-solutions-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "shape-australia-%E2%80%93-australian-professional-shopfitters",
+    "title": "Shape Australia – Australian Professional Shopfitters",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/shape-australia-%E2%80%93-australian-professional-shopfitters",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "bingo-industries-jlw-services",
+    "title": "Bingo Industries - JLW Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bingo-industries-jlw-services",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "metcash-foodland-flagstaff-hill-south-australia",
+    "title": "Metcash - Foodland Flagstaff Hill, South Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metcash-foodland-flagstaff-hill-south-australia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "mg-asia-property-fund-%E2%80%93-stockland-coopers-paddock-and-willawong-distribution-centre",
+    "title": "M&G Asia Property Fund – Stockland Coopers Paddock and Willawong Distribution Centre",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mg-asia-property-fund-%E2%80%93-stockland-coopers-paddock-and-willawong-distribution-centre",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "hexagon-waygate-technologies",
+    "title": "Hexagon - Waygate Technologies",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hexagon-waygate-technologies",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-22T12:11:07.414355Z",
+    "slug": "imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
+    "title": "Imagine Education – childcare centres ownership restructure",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-22 04:48:04.079985,
-Last scrape run (AEST),22 Jun 2026  14:48,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-22 12:11:07.414355,
+Last scrape run (AEST),22 Jun 2026  22:11,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,357,
-New entries this run,0,
-Changed entries this run,3,
+Total entries monitored,369,
+New entries this run,12,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,32 +13,25 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,9 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Other Parties,Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; TNG1 Pty Ltd; 6  →  MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; SMILE PARTNERS (WA1) PTY LTD; 27 662 001 925; Armitage Se
-,Last Modified Accc,2026-06-04T14:49:27+10:00  →  2026-06-22T11:16:05+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Phase 1 determination', 'url': 'https://www.accc.gov.au/sys"
+NEW ENTRIES (12),Case Number,URL
+"+ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
++ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
++ River Capital – YOMG,WA-25032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/river-capital-%E2%80%93-yomg
+"+ Australian Venue Co - leasehold and assets of Brabham Tavern, WA",WA-75026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-leasehold-and-assets-of-brabham-tavern-wa
++ MA Financial Group (Redcape Fund) – The Arthouse Hotel,WA-25027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-%E2%80%93-the-arthouse-hotel
++ American Industrial Partners – Honeywell’s Warehouse and Workflow Solutions business,WA-15023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-%E2%80%93-honeywell%E2%80%99s-warehouse-and-workflow-solutions-business
++ Shape Australia – Australian Professional Shopfitters,WA-40025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/shape-australia-%E2%80%93-australian-professional-shopfitters
++ Bingo Industries - JLW Services,WA-15021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bingo-industries-jlw-services
+"+ Metcash - Foodland Flagstaff Hill, South Australia",WA-35023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metcash-foodland-flagstaff-hill-south-australia
++ M&G Asia Property Fund – Stockland Coopers Paddock and Willawong Distribution Centre,WA-75025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mg-asia-property-fund-%E2%80%93-stockland-coopers-paddock-and-willawong-distribution-centre
++ Hexagon - Waygate Technologies,WA-35022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hexagon-waygate-technologies
++ Imagine Education – childcare centres ownership restructure,WA-80019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/imagine-education-%E2%80%93-childcare-centres-ownership-restructure
 ,,
-~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,9 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  22 June 2026
-,Targets,"Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679); Advent Internationa  →  Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent International, L.P.; "
-,Other Parties,Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany re  →  Henkel Australia Pty Ltd; 82 001 302 996; Platina Cosméticos Ltda (dba Skala); Brazil registration n
-,Last Modified Accc,2026-06-03T10:43:33+10:00  →  2026-06-22T11:09:40+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Henkel - Olaplex - Phase 1 determination', 'url': 'https://"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,End Of Determination Period,25 Jun 2026  →  2 Jul 2026
-,Other Parties,N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.; Registration number  →  EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; M
-,Last Modified Accc,2026-05-26T16:57:51+10:00  →  2026-06-22T13:23:22+10:00
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
+,Last Modified Accc,2026-06-15T15:11:02+10:00  →  2026-06-22T11:49:49+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '15 Jun 2026', 'description': 'Questionnaire - Service Stream - RiE', 'url': 'https://www.  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -68,7 +61,7 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 + Ares (Bolt S.p.A.) – Investment in Plenitude,WA-85032,19 Jun  20:43
 "+ Oscars Group – Hotel Diplomat in Potts Point, NSW",WA-60021,19 Jun  20:43
 ,,
-"CHANGED ENTRIES (21 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (23 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
 ,Last Modified Accc,2026-06-04T16:39:45+10:00  →  2026-06-15T11:08:11+10:00  (16 Jun  04:10)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jun  04:10)
@@ -94,6 +87,10 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,,
 ~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
 ,Anzsic Codes,3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   (16 Jun  04:10)
+,End Of Determination Period,25 Jun 2026  →  2 Jul 2026  (22 Jun  14:48)
+,Other Parties,N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.;  →  EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  (22 Jun  14:48)
+,Last Modified Accc,2026-05-26T16:57:51+10:00  →  2026-06-22T13:23:22+10:00  (22 Jun  14:48)
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (22 Jun  14:48)"
 ,,
 ~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
 ,Last Modified Accc,2026-06-03T18:57:32+10:00  →  2026-06-15T14:49:58+10:00  (16 Jun  04:10)
@@ -221,4 +218,24 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-12T08:12:01+10:00  →  2026-06-19T10:18:09+10:00  (19 Jun  20:43)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (19 Jun  20:43)
 ,Consultation Docs,"[{'date': '12 Jun 2026', 'description': 'Questionnaire - EBOS - Paringa Pet Food  →    (19 Jun  20:43)"
+,,
+~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jun  14:48)
+,End Of Determination Period,9 Jul 2026  →    (22 Jun  14:48)
+,Accc Determination,  →  Approved  (22 Jun  14:48)
+,Other Parties,Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164   →  MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; SMILE PARTNERS (WA1) PTY LTD; 27 662   (22 Jun  14:48)
+,Last Modified Accc,2026-06-04T14:49:27+10:00  →  2026-06-22T11:16:05+10:00  (22 Jun  14:48)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jun  14:48)
+,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Phase 1 determination', 'url': 'https:/  (22 Jun  14:48)"
+,,
+~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jun  14:48)
+,End Of Determination Period,9 Jul 2026  →    (22 Jun  14:48)
+,Accc Determination,  →  Approved  (22 Jun  14:48)
+,Determination Publication Date,  →  22 June 2026  (22 Jun  14:48)
+,Targets,"Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679);  →  Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent I  (22 Jun  14:48)"
+,Other Parties,Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellsc  →  Henkel Australia Pty Ltd; 82 001 302 996; Platina Cosméticos Ltda (dba Skala); B  (22 Jun  14:48)
+,Last Modified Accc,2026-06-03T10:43:33+10:00  →  2026-06-22T11:09:40+10:00  (22 Jun  14:48)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jun  14:48)
+,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Henkel - Olaplex - Phase 1 determinatio  (22 Jun  14:48)"
 ,,

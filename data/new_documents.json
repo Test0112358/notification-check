@@ -1,5 +1,30 @@
 {
-  "run_utc": "2026-06-22T04:48:04.079985Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-06-22T12:11:07.414355Z",
+  "questionnaire_count": 2,
+  "questionnaires": [
+    {
+      "slug": "endeavour-group-retail-liquor-site-in-avalon-nsw",
+      "title": "Endeavour Group - retail liquor site in Avalon, NSW",
+      "case_number": "MN-50027",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw",
+      "date": "22 Jun 2026",
+      "description": "Endeavour Group - retail liquor site in Avalon, NSW - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20%E2%80%93%20retail%20liquor%20site%20in%20Avalon%2C%20NSW%20-%20questionnaire%20-%2022%20June%202026.docx",
+      "local_path": "data/consultation_docs/Endeavour Group _ retail liquor site in Avalon_ NSW - questionnaire - 22 June 2026.docx",
+      "filename": "Endeavour Group _ retail liquor site in Avalon_ NSW - questionnaire - 22 June 2026.docx",
+      "size_kb": 108.3
+    },
+    {
+      "slug": "genea-care-fertility-greenslopes",
+      "title": "Genea - Care Fertility Greenslopes",
+      "case_number": "MN-01104",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes",
+      "date": "22 Jun 2026",
+      "description": "Questionnaire - Genea - Care Fertility Greenslopes",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Genea%20-%20Care%20Fertility%20Greenslopes%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Genea - Care Fertility Greenslopes - Questionnaire.docx",
+      "filename": "Genea - Care Fertility Greenslopes - Questionnaire.docx",
+      "size_kb": 116.6
+    }
+  ]
 }
