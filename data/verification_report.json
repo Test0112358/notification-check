@@ -1,5 +1,17 @@
 [
   {
+    "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
+    "title": "Smile Partners Australia – Mehta Orthodontics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "stonepeak-%E2%80%93-castrol",
     "title": "Stonepeak – Castrol",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
@@ -84,21 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "playlist-%E2%80%93-egym",
-    "title": "Playlist – EGYM",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/playlist-%E2%80%93-egym",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "five-v-capital-ftp-group",
-    "title": "Five V Capital - FTP Group",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/five-v-capital-ftp-group",
+    "slug": "hcltech-jaspersoft",
+    "title": "HCLTech - Jaspersoft",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hcltech-jaspersoft",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
