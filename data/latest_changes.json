@@ -1,60 +1,128 @@
 {
-  "run_utc": "2026-06-19T10:43:16.289731Z",
-  "new_count": 4,
-  "changed_count": 1,
+  "run_utc": "2026-06-22T04:48:04.079985Z",
+  "new_count": 0,
+  "changed_count": 3,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "autodesk-maintainx",
-      "title": "Autodesk - MaintainX",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx"
-    },
-    {
-      "slug": "discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
-      "title": "Discovery Holiday Parks – four Breeze Holiday Parks",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks"
-    },
-    {
-      "slug": "ares-bolt-spa-%E2%80%93-investment-in-plenitude",
-      "title": "Ares (Bolt S.p.A.) – Investment in Plenitude",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ares-bolt-spa-%E2%80%93-investment-in-plenitude"
-    },
-    {
-      "slug": "oscars-group-%E2%80%93-hotel-diplomat-in-potts-point-nsw",
-      "title": "Oscars Group – Hotel Diplomat in Potts Point, NSW",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oscars-group-%E2%80%93-hotel-diplomat-in-potts-point-nsw"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "ebos-paringa-pet-foods",
-      "title": "EBOS - Paringa Pet Foods",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods",
+      "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
+      "title": "Smile Partners Australia – Mehta Orthodontics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "PET CARE DISTRIBUTORS PTY LTD; 58 125 265 769",
-          "new": "Pet Care Distributors Pty Ltd; 58 125 265 769"
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
         },
         {
-          "field": "targets",
-          "old": "PARINGA PET FOODS PTY LTD; 20 142 418 915",
-          "new": "Paringa Pet Foods Pty Ltd; 20 142 418 915"
+          "field": "end_of_determination_period",
+          "old": "9 Jul 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "other_parties",
+          "old": "Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; TNG1 Pty Ltd; 682 275 234; THERAPYNOW PTY LTD; 17 662 216 104; MAXLIFE CARE CORP PTY LTD; 22 644 546 494; SASH HOLDCO PTY LTD; 91 616 570 560; TECALA HOLDINGS PTY LTD; 67 653 440 405; SMILE PARTNERS (GOLD COAST) PTY LTD; 73 669 437 656; ICG CAPITAL MANAGEMENT PTY LTD; 77 679 496 201; NWS Topco Pty Ltd; 688 200 795; OUTLINE GLOBAL PTY LTD; 70 122 481 341; SMILE PARTNERS MIDCO PTY LTD; 54 693 759 894; COLTERLEC HOLDINGS PTY LTD; 51 614 738 608; Armitage Services IVA Pty Ltd; 665 389 104; Armitage Associates Services Pty Ltd; 614 677 708; SMILE PARTNERS AUSTRALIA PTY LTD; 53 607 013 561; ARMITAGE ASSOCIATES PTY LTD; 87 611 079 157; SMILE PARTNERS (VIC1) PTY LTD; 22 682 367 899; DEMI EDUCATION GROUP PTY LTD; 58 652 798 126; REDCAT PTY LTD; 88 090 409 920; NEWCASTLE WEIGHING SERVICES PTY LTD; 36 001 344 430; SMILE PARTNERS (NSW2) PTY LTD; 26 689 905 799; SMILE PARTNERS (MYSMILE) PTY LTD; 54 620 594 916; SMILE PARTNERS (QLD1) PTY LTD; 38 691 675 180; SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; WASTECH GROUP PTY LIMITED; 61 637 049 293; SMILE PARTNERS (AUS) HOLDINGS PTY LTD; 63 614 373 778; SMILE PARTNERS (OCEAN) PTY LTD; 99 625 040 744; BLUEFIT GROUP PTY LTD; 15 623 370 552; SMILE PARTNERS (WA2) PTY LTD; 98 674 927 943; SMILE PARTNERS (KNOX CITY) PTY LTD; 36 616 447 646; SMILE PARTNERS (INSTYLE) PTY LTD; 61 625 040 520; SMILE PARTNERS (VIC2) PTY LTD; 95 683 484 764; The Trustee for SHRIKA; 83 315 233 206; MEHTA, ATUL; 28 009 755 704; SMILE PARTNERS (WA1) PTY LTD; 27 662 001 925; SMILE PARTNERS (NSW1) PTY LTD; 80 679 220 350; IRON CAPITAL PTY LTD; 61 623 379 797",
+          "new": "MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; SMILE PARTNERS (WA1) PTY LTD; 27 662 001 925; Armitage Services IVA Pty Ltd; 665 389 104; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; SMILE PARTNERS MIDCO PTY LTD; 54 693 759 894; SMILE PARTNERS (AUS) HOLDINGS PTY LTD; 63 614 373 778; SMILE PARTNERS (KNOX CITY) PTY LTD; 36 616 447 646; SASH HOLDCO PTY LTD; 91 616 570 560; DEMI EDUCATION GROUP PTY LTD; 58 652 798 126; REDCAT PTY LTD; 88 090 409 920; SMILE PARTNERS (NSW1) PTY LTD; 80 679 220 350; COLTERLEC HOLDINGS PTY LTD; 51 614 738 608; SMILE PARTNERS (WA2) PTY LTD; 98 674 927 943; THERAPYNOW PTY LTD; 17 662 216 104; SMILE PARTNERS (QLD1) PTY LTD; 38 691 675 180; SMILE PARTNERS (INSTYLE) PTY LTD; 61 625 040 520; SMILE PARTNERS (GOLD COAST) PTY LTD; 73 669 437 656; SMILE PARTNERS (MYSMILE) PTY LTD; 54 620 594 916; The Trustee for SHRIKA; 83 315 233 206; SMILE PARTNERS (WA3) PTY LTD; 49 675 791 572; Armitage Associates Services Pty Ltd; 614 677 708; SMILE PARTNERS AUSTRALIA PTY LTD; 53 607 013 561; ARMITAGE ASSOCIATES PTY LTD; 87 611 079 157; ICG CAPITAL MANAGEMENT PTY LTD; 77 679 496 201; MEHTA, ATUL; 28 009 755 704; NWS Topco Pty Ltd; 688 200 795; NEWCASTLE WEIGHING SERVICES PTY LTD; 36 001 344 430; BLUEFIT GROUP PTY LTD; 15 623 370 552; SMILE PARTNERS (VIC1) PTY LTD; 22 682 367 899; OUTLINE GLOBAL PTY LTD; 70 122 481 341; WASTECH GROUP PTY LIMITED; 61 637 049 293; SMILE PARTNERS (NSW2) PTY LTD; 26 689 905 799; TECALA HOLDINGS PTY LTD; 67 653 440 405; SMILE PARTNERS (VIC2) PTY LTD; 95 683 484 764; SMILE PARTNERS (OCEAN) PTY LTD; 99 625 040 744; IRON CAPITAL PTY LTD; 61 623 379 797; Redcat Bidco Pty Ltd; 683 178 921; MAXLIFE CARE CORP PTY LTD; 22 644 546 494; TNG1 Pty Ltd; 682 275 234"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-12T08:12:01+10:00",
-          "new": "2026-06-19T10:18:09+10:00"
+          "old": "2026-06-04T14:49:27+10:00",
+          "new": "2026-06-22T11:16:05+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 June 2026 via email to mergers@accc.gov.au with the title Submission re: EBOS – Paringa Pet Foods. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 12 Jun 2026 Questionnaire - EBOS - Paringa Pet Foods Attachment 116.08 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
         },
         {
-          "field": "consultation_docs",
-          "old": "[{'date': '12 Jun 2026', 'description': 'Questionnaire - EBOS - Paringa Pet Foods', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EBOS%20-%20Paringa%20Pet%20Foods%3A%20Questionnaire%20for%20Acquisitions%20register.docx'}]",
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '20 Jun 2026', 'description': 'Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Smile%20Partners%20Australia%20-%20Mehta%20Orthodontics%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "henkel-%E2%80%93-olaplex",
+      "title": "Henkel – Olaplex",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "9 Jul 2026",
           "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "22 June 2026"
+        },
+        {
+          "field": "targets",
+          "old": "Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679); Advent International, L.P.; Delaware registration number: 204418; Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163)",
+          "new": "Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent International, L.P.; Delaware registration number: 204418; Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679)"
+        },
+        {
+          "field": "other_parties",
+          "old": "Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany registration number (HRB): 35906; Henkel Global Supply Chain B.V.; Netherlands registration number (KVK): 854017447; CCI 60683945; Henkel AG & Co. KGaA; Germany registration number (HRB): 4724; Platina Cosméticos Ltda (dba Skala); Brazil registration number: 66.288.002/0001-36; Henkel Ireland Distribution Limited; Ireland registration number: 430837; Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Finance Australia L.P.; 15 740 196 765; L.N.C. (dba Parfums de Marly, now known as Artessence); France registration number (SIREN): 511 248 981",
+          "new": "Henkel Australia Pty Ltd; 82 001 302 996; Platina Cosméticos Ltda (dba Skala); Brazil registration number: 66.288.002/0001-36; Henkel Ireland Distribution Limited; Ireland registration number: 430837; Henkel Finance Australia L.P.; 15 740 196 765; Henkel Singapore Pte Ltd; Singapore registration number (UEN): 198304615H; Henkel Global Supply Chain B.V.; Netherlands registration number (KVK): 854017447; CCI 60683945; Henkel AG & Co. KGaA; Germany registration number (HRB): 4724; L.N.C. (dba Parfums de Marly, now known as Artessence); France registration number (SIREN): 511 248 981; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany registration number (HRB): 35906"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-03T10:43:33+10:00",
+          "new": "2026-06-22T11:09:40+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '20 Jun 2026', 'description': 'Henkel - Olaplex - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Henkel-Olaplex%20-%20Phase%201%20determination%20-%2020%20June%202026.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "trescal-%E2%80%93-tr-calibration",
+      "title": "Trescal – TR Calibration",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
+      "changes": [
+        {
+          "field": "end_of_determination_period",
+          "old": "25 Jun 2026",
+          "new": "2 Jul 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; TRESCAL HOLDING PTY LTD; 35 633 411 391; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; The Trustee for ASG Exical Unit Trust; 57 818 350 085",
+          "new": "EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; The Trustee for ASG Exical Unit Trust; 57 818 350 085; TRESCAL HOLDING PTY LTD; 35 633 411 391"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-05-26T16:57:51+10:00",
+          "new": "2026-06-22T13:23:22+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}]",
+          "new": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}]"
         }
       ]
     }

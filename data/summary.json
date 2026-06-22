@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-19T10:57:42.176518Z",
+  "generated_at_utc": "2026-06-22T04:57:53.199262Z",
   "total_entries": 357,
   "by_acquisition_status": {
-    "Under assessment": 33,
-    "Assessment completed": 323,
+    "Under assessment": 31,
+    "Assessment completed": 325,
     "Assessment ceased": 1
   },
   "by_stage": {
@@ -16,22 +16,28 @@
     "Waiver": 215
   },
   "by_accc_determination": {
-    "Approved": 308,
+    "Approved": 310,
     "Not approved": 14,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "trescal-%E2%80%93-tr-calibration",
-      "title": "Trescal – TR Calibration",
-      "end_of_determination_period": "25 Jun 2026",
-      "days_remaining": 6
-    },
-    {
       "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
       "title": "PT Asian Bulk Logistics – Engage Marine",
       "end_of_determination_period": "26 Jun 2026",
-      "days_remaining": 7
+      "days_remaining": 4
+    },
+    {
+      "slug": "trescal-%E2%80%93-tr-calibration",
+      "title": "Trescal – TR Calibration",
+      "end_of_determination_period": "2 Jul 2026",
+      "days_remaining": 10
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+      "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
+      "end_of_determination_period": "2 Jul 2026",
+      "days_remaining": 10
     }
   ]
 }

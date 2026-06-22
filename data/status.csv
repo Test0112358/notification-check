@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-19 10:43:16.289731,
-Last scrape run (AEST),19 Jun 2026  20:43,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-22 04:48:04.079985,
+Last scrape run (AEST),22 Jun 2026  14:48,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,357,
-New entries this run,4,
-Changed entries this run,1,
+New entries this run,0,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,24 +13,37 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
-+ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
-+ Ares (Bolt S.p.A.) – Investment in Plenitude,WA-85032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ares-bolt-spa-%E2%80%93-investment-in-plenitude
-"+ Oscars Group – Hotel Diplomat in Potts Point, NSW",WA-60021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oscars-group-%E2%80%93-hotel-diplomat-in-potts-point-nsw
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,9 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Other Parties,Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164 795; TNG1 Pty Ltd; 6  →  MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; SMILE PARTNERS (WA1) PTY LTD; 27 662 001 925; Armitage Se
+,Last Modified Accc,2026-06-04T14:49:27+10:00  →  2026-06-22T11:16:05+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Phase 1 determination', 'url': 'https://www.accc.gov.au/sys"
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
-,Acquirers,PET CARE DISTRIBUTORS PTY LTD; 58 125 265 769  →  Pet Care Distributors Pty Ltd; 58 125 265 769
-,Targets,PARINGA PET FOODS PTY LTD; 20 142 418 915  →  Paringa Pet Foods Pty Ltd; 20 142 418 915
-,Last Modified Accc,2026-06-12T08:12:01+10:00  →  2026-06-19T10:18:09+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '12 Jun 2026', 'description': 'Questionnaire - EBOS - Paringa Pet Foods', 'url': 'https://  →  "
+~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,9 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  22 June 2026
+,Targets,"Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679); Advent Internationa  →  Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent International, L.P.; "
+,Other Parties,Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellschaft mbH; Germany re  →  Henkel Australia Pty Ltd; 82 001 302 996; Platina Cosméticos Ltda (dba Skala); Brazil registration n
+,Last Modified Accc,2026-06-03T10:43:33+10:00  →  2026-06-22T11:09:40+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Henkel - Olaplex - Phase 1 determination', 'url': 'https://"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,End Of Determination Period,25 Jun 2026  →  2 Jul 2026
+,Other Parties,N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.; Registration number  →  EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; M
+,Last Modified Accc,2026-05-26T16:57:51+10:00  →  2026-06-22T13:23:22+10:00
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (19),Case Number,Detected (AEST)
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + Service Stream – RiE,MN-50022,16 Jun  04:10
 + Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
 + Frasers Group – Accent Group,MN-30008,16 Jun  04:10
@@ -50,8 +63,12 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 + Envest Group – MA Insurance Brokers,WA-50020,18 Jun  20:25
 + Northstar – business assets of Mildura Mazda,WA-45016,18 Jun  20:25
 + Bertelsmann Music Group - Concord,MN-75023,19 Jun  14:46
++ Autodesk - MaintainX,MN-60022,19 Jun  20:43
++ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,19 Jun  20:43
++ Ares (Bolt S.p.A.) – Investment in Plenitude,WA-85032,19 Jun  20:43
+"+ Oscars Group – Hotel Diplomat in Potts Point, NSW",WA-60021,19 Jun  20:43
 ,,
-"CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (21 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
 ,Last Modified Accc,2026-06-04T16:39:45+10:00  →  2026-06-15T11:08:11+10:00  (16 Jun  04:10)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jun  04:10)
@@ -197,4 +214,11 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 ,End Of Determination Period,6 Jul 2026  →  20 Jul 2026  (19 Jun  14:46)
 ,Last Modified Accc,2026-05-29T15:05:45+10:00  →  2026-06-19T12:17:30+10:00  (19 Jun  14:46)
 ,Decisions Docs,"  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  (19 Jun  14:46)"
+,,
+~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
+,Acquirers,PET CARE DISTRIBUTORS PTY LTD; 58 125 265 769  →  Pet Care Distributors Pty Ltd; 58 125 265 769  (19 Jun  20:43)
+,Targets,PARINGA PET FOODS PTY LTD; 20 142 418 915  →  Paringa Pet Foods Pty Ltd; 20 142 418 915  (19 Jun  20:43)
+,Last Modified Accc,2026-06-12T08:12:01+10:00  →  2026-06-19T10:18:09+10:00  (19 Jun  20:43)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (19 Jun  20:43)
+,Consultation Docs,"[{'date': '12 Jun 2026', 'description': 'Questionnaire - EBOS - Paringa Pet Food  →    (19 Jun  20:43)"
 ,,
