@@ -96,9 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
-    "title": "McDonald’s Australia – McDonald’s Restaurants in Bankstown and Yagoona, NSW",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
+    "slug": "australian-meat-group-killara-feedlot",
+    "title": "Australian Meat Group - Killara Feedlot",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-killara-feedlot",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -108,9 +108,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "ochre-health-newstead-medical-and-kings-meadows-medical-centre-tas",
-    "title": "Ochre Health - Newstead Medical and Kings Meadows Medical Centre, TAS",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ochre-health-newstead-medical-and-kings-meadows-medical-centre-tas",
+    "slug": "bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa",
+    "title": "BHP – expansion of Special Mining Lease at Olympic Dam, SA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -120,9 +120,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "openai-tomoro",
-    "title": "OpenAI - Tomoro",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-tomoro",
+    "slug": "novartis-excellergy",
+    "title": "Novartis - Excellergy",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
-    "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+    "slug": "kfw-%E2%80%93-knds-nv",
+    "title": "KfW – KNDS N.V.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -144,9 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "atkinsr%C3%A9alis-wga",
-    "title": "AtkinsRéalis - WGA",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga",
+    "slug": "francisco-partners-blackline-safety",
+    "title": "Francisco Partners - Blackline Safety",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-blackline-safety",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -156,9 +156,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "seismic-%E2%80%93-highspot",
-    "title": "Seismic – Highspot",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/seismic-%E2%80%93-highspot",
+    "slug": "win-television-network-nbn-enterprises-television-holdings-darwin",
+    "title": "WIN Television Network - NBN Enterprises & Television Holdings Darwin",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/win-television-network-nbn-enterprises-television-holdings-darwin",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
