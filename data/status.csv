@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-22 12:11:07.414355,
-Last scrape run (AEST),22 Jun 2026  22:11,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-23 09:47:49.446932,
+Last scrape run (AEST),23 Jun 2026  19:47,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,369,
-New entries this run,12,
+Total entries monitored,373,
+New entries this run,4,
 Changed entries this run,1,
 Removed entries this run,0,
 ,,
@@ -13,33 +13,22 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (12),Case Number,URL
-"+ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
-+ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
-+ River Capital – YOMG,WA-25032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/river-capital-%E2%80%93-yomg
-"+ Australian Venue Co - leasehold and assets of Brabham Tavern, WA",WA-75026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-leasehold-and-assets-of-brabham-tavern-wa
-+ MA Financial Group (Redcape Fund) – The Arthouse Hotel,WA-25027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-group-redcape-fund-%E2%80%93-the-arthouse-hotel
-+ American Industrial Partners – Honeywell’s Warehouse and Workflow Solutions business,WA-15023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-%E2%80%93-honeywell%E2%80%99s-warehouse-and-workflow-solutions-business
-+ Shape Australia – Australian Professional Shopfitters,WA-40025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/shape-australia-%E2%80%93-australian-professional-shopfitters
-+ Bingo Industries - JLW Services,WA-15021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bingo-industries-jlw-services
-"+ Metcash - Foodland Flagstaff Hill, South Australia",WA-35023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metcash-foodland-flagstaff-hill-south-australia
-+ M&G Asia Property Fund – Stockland Coopers Paddock and Willawong Distribution Centre,WA-75025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mg-asia-property-fund-%E2%80%93-stockland-coopers-paddock-and-willawong-distribution-centre
-+ Hexagon - Waygate Technologies,WA-35022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hexagon-waygate-technologies
-+ Imagine Education – childcare centres ownership restructure,WA-80019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/imagine-education-%E2%80%93-childcare-centres-ownership-restructure
+NEW ENTRIES (4),Case Number,URL
++ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
++ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
++ Carlyle – CHN Group,WA-95024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/carlyle-%E2%80%93-chn-group
++ Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership,WA-05026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership
 ,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
-,Last Modified Accc,2026-06-15T15:11:02+10:00  →  2026-06-22T11:49:49+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '15 Jun 2026', 'description': 'Questionnaire - Service Stream - RiE', 'url': 'https://www.  →  "
+~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
+,Last Modified Accc,2026-06-16T16:47:04+10:00  →  2026-06-23T16:00:02+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '16 Jun 2026', 'description': 'Questionnaire - Transocean - Valaris', 'url': 'https://www.  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (23),Case Number,Detected (AEST)
-+ Service Stream – RiE,MN-50022,16 Jun  04:10
-+ Hillhouse - MGI Dobbyn Carafa,WA-50023,16 Jun  04:10
-+ Frasers Group – Accent Group,MN-30008,16 Jun  04:10
+NEW ENTRIES (32),Case Number,Detected (AEST)
 + Transocean - Valaris,MN-25019,17 Jun  04:20
 + CSR - Complete Plaster,MN-10018,17 Jun  04:20
 + Calvary - Hobart Private Hospital,MN-40013,17 Jun  23:03
@@ -60,42 +49,20 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 + Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,19 Jun  20:43
 + Ares (Bolt S.p.A.) – Investment in Plenitude,WA-85032,19 Jun  20:43
 "+ Oscars Group – Hotel Diplomat in Potts Point, NSW",WA-60021,19 Jun  20:43
+"+ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,22 Jun  22:11
++ Genea - Care Fertility Greenslopes,MN-01104,22 Jun  22:11
++ River Capital – YOMG,WA-25032,22 Jun  22:11
+"+ Australian Venue Co - leasehold and assets of Brabham Tavern, WA",WA-75026,22 Jun  22:11
++ MA Financial Group (Redcape Fund) – The Arthouse Hotel,WA-25027,22 Jun  22:11
++ American Industrial Partners – Honeywell’s Warehouse and Workflow Solutions business,WA-15023,22 Jun  22:11
++ Shape Australia – Australian Professional Shopfitters,WA-40025,22 Jun  22:11
++ Bingo Industries - JLW Services,WA-15021,22 Jun  22:11
+"+ Metcash - Foodland Flagstaff Hill, South Australia",WA-35023,22 Jun  22:11
++ M&G Asia Property Fund – Stockland Coopers Paddock and Willawong Distribution Centre,WA-75025,22 Jun  22:11
++ Hexagon - Waygate Technologies,WA-35022,22 Jun  22:11
++ Imagine Education – childcare centres ownership restructure,WA-80019,22 Jun  22:11
 ,,
-"CHANGED ENTRIES (23 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
-~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
-,Last Modified Accc,2026-06-04T16:39:45+10:00  →  2026-06-15T11:08:11+10:00  (16 Jun  04:10)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jun  04:10)
-,Consultation Docs,"[{'date': '4 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (16 Jun  04:10)"
-,,
-~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
-,Targets,VOAG 6 PTY LTD; 75 606 446 735; VOAG 2 PTY LTD; 33 606 445 747; VOAG 5 PTY LTD;   →  VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 60  (16 Jun  04:10)
-,Last Modified Accc,2026-06-03T09:49:36+10:00  →  2026-06-15T08:30:34+10:00  (16 Jun  04:10)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (16 Jun  04:10)
-,Consultation Docs,"[{'date': '3 Jun 2026', 'description': 'Questionnaire - Precision Poultry - VOAG  →    (16 Jun  04:10)"
-,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITE  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY  (16 Jun  04:10)
-,Anzsic Codes,0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Ot  →    (16 Jun  04:10)
-,Last Modified Accc,2026-05-29T14:31:38+10:00  →  2026-06-15T09:42:20+10:00  (16 Jun  04:10)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jun  04:10)
-,Consultation Docs,"[{'date': '28 May 2026', 'description': 'Questionnaire - Heidelberg Materials Au  →    (16 Jun  04:10)"
-,,
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,End Of Determination Period,25 Jun 2026  →  23 Jul 2026  (16 Jun  04:10)
-,Last Modified Accc,2026-05-20T16:54:08+10:00  →  2026-06-15T15:05:04+10:00  (16 Jun  04:10)
-,Decisions Docs,"  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  (16 Jun  04:10)"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Anzsic Codes,3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   →  3494 Other Electrical and Electronic Goods Wholesaling; 6925 Scientific Testing   (16 Jun  04:10)
-,End Of Determination Period,25 Jun 2026  →  2 Jul 2026  (22 Jun  14:48)
-,Other Parties,N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.;  →  EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  (22 Jun  14:48)
-,Last Modified Accc,2026-05-26T16:57:51+10:00  →  2026-06-22T13:23:22+10:00  (22 Jun  14:48)
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (22 Jun  14:48)"
-,,
-~ Ampol – EG Australia,MN-01019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia
-,Last Modified Accc,2026-06-03T18:57:32+10:00  →  2026-06-15T14:49:58+10:00  (16 Jun  04:10)
-,Decisions Docs,"[{'date': '2 Mar 2026', 'description': 'Summary of Notice of Competition Concern  →  [{'date': '10 Jun 2026', 'description': 'ACCC accepted s87B undertaking', 'url':  (16 Jun  04:10)"
-,,
+"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 "~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
 ,Last Modified Accc,2026-06-09T17:00:00+10:00  →  2026-06-16T10:34:54+10:00  (17 Jun  04:20)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Jun  04:20)
@@ -238,4 +205,15 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-03T10:43:33+10:00  →  2026-06-22T11:09:40+10:00  (22 Jun  14:48)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jun  14:48)
 ,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Henkel - Olaplex - Phase 1 determinatio  (22 Jun  14:48)"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,End Of Determination Period,25 Jun 2026  →  2 Jul 2026  (22 Jun  14:48)
+,Other Parties,N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.;  →  EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  (22 Jun  14:48)
+,Last Modified Accc,2026-05-26T16:57:51+10:00  →  2026-06-22T13:23:22+10:00  (22 Jun  14:48)
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (22 Jun  14:48)"
+,,
+~ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
+,Last Modified Accc,2026-06-15T15:11:02+10:00  →  2026-06-22T11:49:49+10:00  (22 Jun  22:11)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 Jun  22:11)
+,Consultation Docs,"[{'date': '15 Jun 2026', 'description': 'Questionnaire - Service Stream - RiE',   →    (22 Jun  22:11)"
 ,,

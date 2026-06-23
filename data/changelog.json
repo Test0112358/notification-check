@@ -20626,5 +20626,61 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-23T09:47:49.446932Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+    "title": "Coles – supermarket site in Coffs Harbour (NSW)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-23T09:47:49.446932Z",
+    "slug": "regis-resources-vault-minerals",
+    "title": "Regis Resources - Vault Minerals",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-23T09:47:49.446932Z",
+    "slug": "transocean-valaris",
+    "title": "Transocean - Valaris",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-16T16:47:04+10:00",
+        "new": "2026-06-23T16:00:02+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 June 2026 via email to mergers@accc.gov.au with the title Submission re: Transocean – Valaris. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 16 Jun 2026 Questionnaire - Transocean - Valaris Attachment 117.6 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '16 Jun 2026', 'description': 'Questionnaire - Transocean - Valaris', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Transocean%20-%20Valaris_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-23T09:47:49.446932Z",
+    "slug": "carlyle-%E2%80%93-chn-group",
+    "title": "Carlyle – CHN Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/carlyle-%E2%80%93-chn-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-23T09:47:49.446932Z",
+    "slug": "mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
+    "title": "Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

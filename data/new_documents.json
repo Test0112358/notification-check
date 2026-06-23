@@ -1,30 +1,30 @@
 {
-  "run_utc": "2026-06-22T12:11:07.414355Z",
+  "run_utc": "2026-06-23T09:47:49.446932Z",
   "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "endeavour-group-retail-liquor-site-in-avalon-nsw",
-      "title": "Endeavour Group - retail liquor site in Avalon, NSW",
-      "case_number": "MN-50027",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw",
-      "date": "22 Jun 2026",
-      "description": "Endeavour Group - retail liquor site in Avalon, NSW - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20%E2%80%93%20retail%20liquor%20site%20in%20Avalon%2C%20NSW%20-%20questionnaire%20-%2022%20June%202026.docx",
-      "local_path": "data/consultation_docs/Endeavour Group _ retail liquor site in Avalon_ NSW - questionnaire - 22 June 2026.docx",
-      "filename": "Endeavour Group _ retail liquor site in Avalon_ NSW - questionnaire - 22 June 2026.docx",
-      "size_kb": 108.3
+      "slug": "coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+      "title": "Coles – supermarket site in Coffs Harbour (NSW)",
+      "case_number": "MN-70022",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+      "date": "23 Jun 2026",
+      "description": "Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Coffs%20Harbour%20-%20Questionnaire%20-%20June%202026.docx",
+      "local_path": "data/consultation_docs/Coles Coffs Harbour - Questionnaire - June 2026.docx",
+      "filename": "Coles Coffs Harbour - Questionnaire - June 2026.docx",
+      "size_kb": 60.3
     },
     {
-      "slug": "genea-care-fertility-greenslopes",
-      "title": "Genea - Care Fertility Greenslopes",
-      "case_number": "MN-01104",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes",
-      "date": "22 Jun 2026",
-      "description": "Questionnaire - Genea - Care Fertility Greenslopes",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Genea%20-%20Care%20Fertility%20Greenslopes%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Genea - Care Fertility Greenslopes - Questionnaire.docx",
-      "filename": "Genea - Care Fertility Greenslopes - Questionnaire.docx",
-      "size_kb": 116.6
+      "slug": "regis-resources-vault-minerals",
+      "title": "Regis Resources - Vault Minerals",
+      "case_number": "MN-65020",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
+      "date": "23 Jun 2026",
+      "description": "Regis Resources – Vault Minerals - Third party questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Regis-Vault%20-%20Third%20party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Regis-Vault - Third party questionnaire.docx",
+      "filename": "Regis-Vault - Third party questionnaire.docx",
+      "size_kb": 116.5
     }
   ]
 }
