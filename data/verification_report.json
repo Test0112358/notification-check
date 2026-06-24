@@ -96,9 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "australian-meat-group-killara-feedlot",
-    "title": "Australian Meat Group - Killara Feedlot",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-meat-group-killara-feedlot",
+    "slug": "austral-resources-australia-%E2%80%93-lady-loretta-mine",
+    "title": "Austral Resources Australia – Lady Loretta mine",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/austral-resources-australia-%E2%80%93-lady-loretta-mine",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -108,9 +108,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa",
-    "title": "BHP – expansion of Special Mining Lease at Olympic Dam, SA",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bhp-%E2%80%93-expansion-of-special-mining-lease-at-olympic-dam-sa",
+    "slug": "axdi-minority-interest-in-la-trobe-financial",
+    "title": "AXDI - minority interest in La Trobe Financial",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -120,45 +120,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "novartis-excellergy",
-    "title": "Novartis - Excellergy",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "kfw-%E2%80%93-knds-nv",
-    "title": "KfW – KNDS N.V.",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "francisco-partners-blackline-safety",
-    "title": "Francisco Partners - Blackline Safety",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-blackline-safety",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "win-television-network-nbn-enterprises-television-holdings-darwin",
-    "title": "WIN Television Network - NBN Enterprises & Television Holdings Darwin",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/win-television-network-nbn-enterprises-television-holdings-darwin",
+    "slug": "prime-super-additional-interest-in-peninsula-link-project",
+    "title": "Prime Super - Additional interest in Peninsula Link Project",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
