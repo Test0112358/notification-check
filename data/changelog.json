@@ -20682,5 +20682,217 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "autodesk-maintainx",
+    "title": "Autodesk - MaintainX",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "notification_date",
+        "old": "19 June 2026",
+        "new": "23 June 2026"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "31 Jul 2026",
+        "new": "4 Aug 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-19T16:19:51+10:00",
+        "new": "2026-06-24T16:09:49+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "csr-complete-plaster",
+    "title": "CSR - Complete Plaster",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-16T14:24:36+10:00",
+        "new": "2026-06-23T16:17:33+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 June 2026 via email to mergers@accc.gov.au with the title Submission re: CSR – Complete Plaster. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 16 Jun 2026 Questionnaire - CSR-Complete Plaster Attachment 116.02 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '16 Jun 2026', 'description': 'Questionnaire - CSR-Complete Plaster', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20CSR-Complete%20Plaster.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "gunvor-group-%E2%80%93-zen-energy-retail-holdings",
+    "title": "Gunvor Group – ZEN Energy Retail Holdings",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gunvor-group-%E2%80%93-zen-energy-retail-holdings",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "tasmea-maxim",
+    "title": "Tasmea - Maxim",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tasmea-maxim",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "precision-poultry-voag-chicken-farming-operations",
+    "title": "Precision Poultry - VOAG chicken farming operations",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "15 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "24 June 2026"
+      },
+      {
+        "field": "targets",
+        "old": "VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 606 381 597; VOAG 1 PTY LTD; 12 606 445 658; VOAG 6 PTY LTD; 75 606 446 735; VOAG 3 PTY LTD; 48 606 445 809; VOAG 5 PTY LTD; 606 446 039",
+        "new": "VOAG 6 PTY LTD; 75 606 446 735; VOAG PTY LTD; 84 606 381 597; VOAG 2 PTY LTD; 33 606 445 747; VOAG 1 PTY LTD; 12 606 445 658; VOAG 4 Pty Ltd; 606 447 572; VOAG 5 Pty Ltd; 606 446 039; VOAG 3 PTY LTD; 48 606 445 809"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-15T08:30:34+10:00",
+        "new": "2026-06-24T09:25:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '24 Jun 2026', 'description': 'Precision Poultry - VOAG chicken farming operations - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Precision%20Poultry%20-%20VOAG%20chicken%20farming%20operations%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting",
+    "title": "B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "aula-energy-%E2%80%93-additional-interest-in-the-boulder-creek-wind-farm",
+    "title": "Aula Energy – Additional interest in the Boulder Creek Wind Farm",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aula-energy-%E2%80%93-additional-interest-in-the-boulder-creek-wind-farm",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+    "title": "PT Asian Bulk Logistics – Engage Marine",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "26 Jun 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "24 June 2026"
+      },
+      {
+        "field": "targets",
+        "old": "ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE TOPCO PTY LTD; 46 675 998 562; ENGAGE MARINE FINCO PTY LTD; 25 675 999 283",
+        "new": "ENGAGE MARINE FINCO PTY LTD; 25 675 999 283; ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE TOPCO PTY LTD; 46 675 998 562"
+      },
+      {
+        "field": "other_parties",
+        "old": "AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; AUSTRALIAN GLOBAL INFRASTRUCTURE PTY LTD; 47 663 347 948; Australian Global Onshore Logistics Pty Ltd; 691 961 136; MAGNETIC INFRASTRUCTURE GROUP PTY LTD; 81 663 518 563",
+        "new": "Australian Global Onshore Logistics Pty Ltd; 691 961 136; AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; MAGNETIC INFRASTRUCTURE GROUP PTY LTD; 81 663 518 563; AUSTRALIAN GLOBAL INFRASTRUCTURE PTY LTD; 47 663 347 948"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-25T11:10:23+10:00",
+        "new": "2026-06-24T17:31:20+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Straightforward Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/PT%20Asian%20Bulk%20Logistics%20-%20Engage%20Marine%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-24T09:37:06.261858Z",
+    "slug": "microstar-logistics-konvoy",
+    "title": "MicroStar Logistics - Konvoy",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-05-14T12:37:44+10:00",
+        "new": "2026-06-24T11:28:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has concluded.",
+        "new": "On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Kegstar to n On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Kegstar to not enforce exclusivity provisions for a period of time, offer existing Konvoy customers Kegstar contracts on specified terms if requested, provide customers the option to purchase kegs in certain circumstances, and incorporate key performance indicators into all Customer Contracts (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 1 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: Microstar – Konvoy – Remedy offer. read more 24 Jun 2026 Microstar Konvoy - Remedy offer Attachment 487.19 KB 24 Jun 2026 Microstar Konvoy - Questionnaire - Remedy offer Attachment 119.5 KB"
+      },
+      {
+        "field": "consultation_docs",
+        "old": "",
+        "new": "[{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Remedy%20offer%20%2817%20June%202026%29.pdf'}, {'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Questionnaire - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Questionnaire%20-%20Remedy%20offer%20%2817%20June%202026%29.docx'}]"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN%2030003%20-%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20-%20Summary%20-%2013%20May%202026.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN%2030003%20-%20UPDATED%20MicroStar_Konvoy%20-%20Phase%202%20notice%20-%201%20April%202026_1.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]",
+        "new": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': ''}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
+      }
+    ]
   }
 ]

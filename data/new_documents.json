@@ -1,30 +1,18 @@
 {
-  "run_utc": "2026-06-23T09:47:49.446932Z",
-  "questionnaire_count": 2,
+  "run_utc": "2026-06-24T09:37:06.261858Z",
+  "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
-      "title": "Coles – supermarket site in Coffs Harbour (NSW)",
-      "case_number": "MN-70022",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
-      "date": "23 Jun 2026",
-      "description": "Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Coffs%20Harbour%20-%20Questionnaire%20-%20June%202026.docx",
-      "local_path": "data/consultation_docs/Coles Coffs Harbour - Questionnaire - June 2026.docx",
-      "filename": "Coles Coffs Harbour - Questionnaire - June 2026.docx",
-      "size_kb": 60.3
-    },
-    {
-      "slug": "regis-resources-vault-minerals",
-      "title": "Regis Resources - Vault Minerals",
-      "case_number": "MN-65020",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
-      "date": "23 Jun 2026",
-      "description": "Regis Resources – Vault Minerals - Third party questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Regis-Vault%20-%20Third%20party%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Regis-Vault - Third party questionnaire.docx",
-      "filename": "Regis-Vault - Third party questionnaire.docx",
-      "size_kb": 116.5
+      "slug": "microstar-logistics-konvoy",
+      "title": "MicroStar Logistics - Konvoy",
+      "case_number": "MN-30003",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
+      "date": "24 Jun 2026",
+      "description": "Microstar Konvoy - Questionnaire - Remedy offer",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Questionnaire%20-%20Remedy%20offer%20%2817%20June%202026%29.docx",
+      "local_path": "data/consultation_docs/Microstar Konvoy - Questionnaire - Remedy offer _17 June 2026_.docx",
+      "filename": "Microstar Konvoy - Questionnaire - Remedy offer _17 June 2026_.docx",
+      "size_kb": 119.5
     }
   ]
 }
