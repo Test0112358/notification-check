@@ -96,33 +96,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "austral-resources-australia-%E2%80%93-lady-loretta-mine",
-    "title": "Austral Resources Australia – Lady Loretta mine",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/austral-resources-australia-%E2%80%93-lady-loretta-mine",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "axdi-minority-interest-in-la-trobe-financial",
-    "title": "AXDI - minority interest in La Trobe Financial",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
     "slug": "prime-super-additional-interest-in-peninsula-link-project",
     "title": "Prime Super - Additional interest in Peninsula Link Project",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting",
+    "title": "B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
