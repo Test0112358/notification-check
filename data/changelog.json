@@ -20976,5 +20976,183 @@
         "new": "[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/PT%20Asian%20Bulk%20Logistics%20-%20Engage%20Marine%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "akzonobel-axalta",
+    "title": "AkzoNobel - Axalta",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "adbri-eureka-concrete",
+    "title": "Adbri - Eureka Concrete",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "E.B. Mawson & Sons Proprietary Limited; 14 004 519 617",
+        "new": "E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617"
+      },
+      {
+        "field": "other_parties",
+        "old": "Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15 007 596 018; Hy-Tec Industries (Victoria) Pty Ltd; 43 096 310 520; Central Pre-Mix Concrete Pty. Ltd.; 62 008 070 862",
+        "new": "ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-18T11:32:56+10:00",
+        "new": "2026-06-25T16:25:39+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 25 June 2026 via email to mergers@accc.gov.au with the title Submission re: Adbri - Eureka Concrete. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 18 Jun 2026 Questionnaire - Adbri - Eureka Concrete Attachment 116 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Eureka%3A%20third-party%20questionnaire%20-%2018%20June%202026_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "bain-capital-%E2%80%93-fdh",
+    "title": "Bain Capital – FDH",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-fdh",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "warburg-pincus-%E2%80%93-jsb",
+    "title": "Warburg Pincus – JSB",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-jsb",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "redwood-services-group-%E2%80%93-newtrend-it-specialists",
+    "title": "Redwood Services Group – Newtrend I.T. Specialists",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "redwood-services-group-%E2%80%93-all-it-australia",
+    "title": "Redwood Services Group – All IT Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "slr-consulting-australia-hydrobiology",
+    "title": "SLR Consulting Australia - Hydrobiology",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slr-consulting-australia-hydrobiology",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "dhilmar-%E2%80%93-anglo-american-steelmaking-coal-business",
+    "title": "Dhilmar – Anglo American steelmaking coal business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dhilmar-%E2%80%93-anglo-american-steelmaking-coal-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "anz-banking-group-worldline-australia",
+    "title": "ANZ Banking Group - Worldline Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "16 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 June 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-12T15:19:48+10:00",
+        "new": "2026-06-25T16:12:29+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Jun 2026', 'description': 'ANZ Banking Group-Worldline Australia - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/ANZ%20Banking%20Group%20-%20Worldline%20Australia%20-%20%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:31:28.676459Z",
+    "slug": "impression-dental-group-coastal-dental-care",
+    "title": "Impression Dental Group - Coastal Dental Care",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "13 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 June 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-05T14:53:21+10:00",
+        "new": "2026-06-25T15:58:53+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Dental Care - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Impression%20Dental%20Group%20-%20Coastal%20Dental%20Care%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]

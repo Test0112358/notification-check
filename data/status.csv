@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-25 03:55:21.122331,
-Last scrape run (AEST),25 Jun 2026  13:55,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-25 09:31:28.676459,
+Last scrape run (AEST),25 Jun 2026  19:31,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,377,
-New entries this run,0,
+Total entries monitored,384,
+New entries this run,7,
 Changed entries this run,3,
 Removed entries this run,0,
 ,,
@@ -13,29 +13,45 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
+NEW ENTRIES (7),Case Number,URL
++ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
++ Bain Capital – FDH,WA-25033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-fdh
++ Warburg Pincus – JSB,WA-10019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-jsb
++ Redwood Services Group – Newtrend I.T. Specialists,WA-60024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists
++ Redwood Services Group – All IT Australia,WA-15024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia
++ SLR Consulting Australia - Hydrobiology,WA-35025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slr-consulting-australia-hydrobiology
++ Dhilmar – Anglo American steelmaking coal business,WA-85035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dhilmar-%E2%80%93-anglo-american-steelmaking-coal-business
+,,
 CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
-,Other Parties,TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Distributors Pty Ltd; 43  →  KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 36
-,Last Modified Accc,2026-06-17T14:28:41+10:00  →  2026-06-25T09:32:12+10:00
+~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617
+,Other Parties,Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15 007 596 018; Hy-Tec   →  ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT C
+,Last Modified Accc,2026-06-18T11:32:56+10:00  →  2026-06-25T16:25:39+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Complete Air Supply - All Air - Questionnaire', 'url': 'htt  →  "
+,Consultation Docs,"[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete', 'url': 'https://w  →  "
 ,,
-~ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
-,Targets,ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274; HEALTHSCOPE MANAGE  →  HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ 
-,Other Parties,Keith Crawford (as joint and several receivers); Jason Ireland (as joint and several receivers); Mat  →  Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and several receivers); Keith 
-,Last Modified Accc,2026-06-17T11:54:30+10:00  →  2026-06-25T09:55:33+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
+~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,16 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  25 June 2026
+,Last Modified Accc,2026-06-12T15:19:48+10:00  →  2026-06-25T16:12:29+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'ANZ Banking Group-Worldline Australia - Phase 1 determinati"
 ,,
-~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
-,Last Modified Accc,2026-06-24T17:31:20+10:00  →  2026-06-24T21:50:17+10:00
-,Decisions Docs,"[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Straightforward P  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Phase 1 determina"
+~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,13 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  25 June 2026
+,Last Modified Accc,2026-06-05T14:53:21+10:00  →  2026-06-25T15:58:53+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Dental Care - Phase 1 det"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (34),Case Number,Detected (AEST)
-+ Adbri - Eureka Concrete,MN-50021,18 Jun  14:18
+NEW ENTRIES (33),Case Number,Detected (AEST)
 + Jardines - I-MED,WA-90019,18 Jun  20:25
 "+ Autopact - Freehold interest in commercial land in Dubbo, NSW",WA-55021,18 Jun  20:25
 "+ Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",WA-50018,18 Jun  20:25
@@ -70,12 +86,7 @@ NEW ENTRIES (34),Case Number,Detected (AEST)
 + B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting,WA-05024,24 Jun  19:37
 + Aula Energy – Additional interest in the Boulder Creek Wind Farm,WA-70021,24 Jun  19:37
 ,,
-"CHANGED ENTRIES (15 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
-~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
-,Last Modified Accc,2026-06-10T15:26:28+10:00  →  2026-06-18T11:37:08+10:00  (18 Jun  14:18)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (18 Jun  14:18)
-,Consultation Docs,"[{'date': '10 Jun 2026', 'description': 'Questionnaire - Equans - CV Services Gr  →    (18 Jun  14:18)"
-,,
+"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
 "~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
 ,Acquirers,NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; WESTPAC BANKING C  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING G  (18 Jun  20:25)
 ,Last Modified Accc,2026-06-04T17:15:40+10:00  →  2026-06-18T16:07:43+10:00  (18 Jun  20:25)
@@ -170,10 +181,25 @@ NEW ENTRIES (34),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-05-25T11:10:23+10:00  →  2026-06-24T17:31:20+10:00  (24 Jun  19:37)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (24 Jun  19:37)
 ,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (24 Jun  19:37)"
+,Last Modified Accc,2026-06-24T17:31:20+10:00  →  2026-06-24T21:50:17+10:00  (25 Jun  13:55)
+,Decisions Docs,"[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (25 Jun  13:55)"
 ,,
 ~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
 ,Last Modified Accc,2026-05-14T12:37:44+10:00  →  2026-06-24T11:28:06+10:00  (24 Jun  19:37)
 ,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (24 Jun  19:37)"
 ,Consultation Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  (24 Jun  19:37)"
 ,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (24 Jun  19:37)"
+,,
+~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
+,Other Parties,TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Dist  →  KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pt  (25 Jun  13:55)
+,Last Modified Accc,2026-06-17T14:28:41+10:00  →  2026-06-25T09:32:12+10:00  (25 Jun  13:55)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  13:55)
+,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Complete Air Supply - All Air - Questio  →    (25 Jun  13:55)"
+,,
+~ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
+,Targets,ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274  →  HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD;   (25 Jun  13:55)
+,Other Parties,Keith Crawford (as joint and several receivers); Jason Ireland (as joint and sev  →  Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and severa  (25 Jun  13:55)
+,Last Modified Accc,2026-06-17T11:54:30+10:00  →  2026-06-25T09:55:33+10:00  (25 Jun  13:55)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  13:55)
+,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (25 Jun  13:55)"
 ,,
