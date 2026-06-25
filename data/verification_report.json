@@ -96,9 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "prime-super-additional-interest-in-peninsula-link-project",
-    "title": "Prime Super - Additional interest in Peninsula Link Project",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project",
+    "slug": "hillhouse-kmc-solutions",
+    "title": "Hillhouse - KMC Solutions",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-kmc-solutions",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -108,9 +108,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting",
-    "title": "B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting",
+    "slug": "blackbird-ventures-%E2%80%93-halter",
+    "title": "Blackbird Ventures – Halter",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-halter",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "rea-group-simplicity-loans-advisory",
+    "title": "REA Group - Simplicity Loans & Advisory",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rea-group-simplicity-loans-advisory",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
