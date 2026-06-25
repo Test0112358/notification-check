@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-24T09:52:40.863699Z",
+  "generated_at_utc": "2026-06-25T04:12:38.425483Z",
   "total_entries": 377,
   "by_acquisition_status": {
     "Under assessment": 33,
@@ -25,13 +25,13 @@
       "slug": "trescal-%E2%80%93-tr-calibration",
       "title": "Trescal – TR Calibration",
       "end_of_determination_period": "2 Jul 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
       "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
       "end_of_determination_period": "2 Jul 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     }
   ]
 }

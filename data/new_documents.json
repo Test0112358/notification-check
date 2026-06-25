@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-06-24T09:37:06.261858Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "microstar-logistics-konvoy",
-      "title": "MicroStar Logistics - Konvoy",
-      "case_number": "MN-30003",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
-      "date": "24 Jun 2026",
-      "description": "Microstar Konvoy - Questionnaire - Remedy offer",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Questionnaire%20-%20Remedy%20offer%20%2817%20June%202026%29.docx",
-      "local_path": "data/consultation_docs/Microstar Konvoy - Questionnaire - Remedy offer _17 June 2026_.docx",
-      "filename": "Microstar Konvoy - Questionnaire - Remedy offer _17 June 2026_.docx",
-      "size_kb": 119.5
-    }
-  ]
+  "run_utc": "2026-06-25T03:55:21.122331Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

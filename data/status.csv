@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-24 09:37:06.261858,
-Last scrape run (AEST),24 Jun 2026  19:37,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-25 03:55:21.122331,
+Last scrape run (AEST),25 Jun 2026  13:55,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,377,
-New entries this run,4,
-Changed entries this run,5,
+New entries this run,0,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,58 +13,28 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Gunvor Group – ZEN Energy Retail Holdings,WA-15025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gunvor-group-%E2%80%93-zen-energy-retail-holdings
-+ Tasmea - Maxim,WA-85031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tasmea-maxim
-+ B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting,WA-05024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bmd-holdings-%E2%80%93-bajara-plant-hire-and-stirling-contracting
-+ Aula Energy – Additional interest in the Boulder Creek Wind Farm,WA-70021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aula-energy-%E2%80%93-additional-interest-in-the-boulder-creek-wind-farm
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
+,Other Parties,TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Distributors Pty Ltd; 43  →  KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 36
+,Last Modified Accc,2026-06-17T14:28:41+10:00  →  2026-06-25T09:32:12+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Complete Air Supply - All Air - Questionnaire', 'url': 'htt  →  "
 ,,
-CHANGED ENTRIES (5),Field changed,Old value  →  New value
-~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
-,Notification Date,19 June 2026  →  23 June 2026
-,End Of Determination Period,31 Jul 2026  →  4 Aug 2026
-,Last Modified Accc,2026-06-19T16:19:51+10:00  →  2026-06-24T16:09:49+10:00
-,,
-~ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
-,Last Modified Accc,2026-06-16T14:24:36+10:00  →  2026-06-23T16:17:33+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '16 Jun 2026', 'description': 'Questionnaire - CSR-Complete Plaster', 'url': 'https://www.  →  "
-,,
-~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,15 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  24 June 2026
-,Targets,VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 606 381 597; VOAG 1 PT  →  VOAG 6 PTY LTD; 75 606 446 735; VOAG PTY LTD; 84 606 381 597; VOAG 2 PTY LTD; 33 606 445 747; VOAG 1
-,Last Modified Accc,2026-06-15T08:30:34+10:00  →  2026-06-24T09:25:08+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Precision Poultry - VOAG chicken farming operations - Phase"
+~ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
+,Targets,ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274; HEALTHSCOPE MANAGE  →  HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ 
+,Other Parties,Keith Crawford (as joint and several receivers); Jason Ireland (as joint and several receivers); Mat  →  Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and several receivers); Keith 
+,Last Modified Accc,2026-06-17T11:54:30+10:00  →  2026-06-25T09:55:33+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
 ,,
 ~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,26 Jun 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  24 June 2026
-,Targets,ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE TOPCO PTY LTD; 46 675 998 562; ENGAGE   →  ENGAGE MARINE FINCO PTY LTD; 25 675 999 283; ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE 
-,Other Parties,AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; AUSTRALIAN GLOBAL INFRASTRUCTURE PTY  →  Australian Global Onshore Logistics Pty Ltd; 691 961 136; AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY
-,Last Modified Accc,2026-05-25T11:10:23+10:00  →  2026-06-24T17:31:20+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Straightforward P"
-,,
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-05-14T12:37:44+10:00  →  2026-06-24T11:28:06+10:00
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s"
-,Consultation Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url': 'https://www.accc."
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
+,Last Modified Accc,2026-06-24T17:31:20+10:00  →  2026-06-24T21:50:17+10:00
+,Decisions Docs,"[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Straightforward P  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Phase 1 determina"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (34),Case Number,Detected (AEST)
-+ Calvary - Hobart Private Hospital,MN-40013,17 Jun  23:03
-+ Complete Air Supply - All Air,MN-15018,17 Jun  23:03
-+ International Parking Group – car park at St John of God Murdoch Hospital,WA-90018,17 Jun  23:03
-+ Life Without Barriers – Mallacoota District Health & Support Service,WA-95022,17 Jun  23:03
 + Adbri - Eureka Concrete,MN-50021,18 Jun  14:18
 + Jardines - I-MED,WA-90019,18 Jun  20:25
 "+ Autopact - Freehold interest in commercial land in Dubbo, NSW",WA-55021,18 Jun  20:25
@@ -95,49 +65,12 @@ NEW ENTRIES (34),Case Number,Detected (AEST)
 + Regis Resources - Vault Minerals,MN-65020,23 Jun  19:47
 + Carlyle – CHN Group,WA-95024,23 Jun  19:47
 + Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership,WA-05026,23 Jun  19:47
++ Gunvor Group – ZEN Energy Retail Holdings,WA-15025,24 Jun  19:37
++ Tasmea - Maxim,WA-85031,24 Jun  19:37
++ B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting,WA-05024,24 Jun  19:37
++ Aula Energy – Additional interest in the Boulder Creek Wind Farm,WA-70021,24 Jun  19:37
 ,,
-"CHANGED ENTRIES (14 entries, 14 change events)",Field changed,Old value  →  New value  (AEST)
-~ Zurich - Beazley,MN-30016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zurich-beazley
-,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
-,End Of Determination Period,7 Jul 2026  →    (17 Jun  23:03)
-,Accc Determination,  →  Approved  (17 Jun  23:03)
-,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
-,Other Parties,Cover-More Group; Zurich Australia Insurance Limited; Zurich Financial Services   →  Zurich Assure Australia Pty Ltd; Zurich Australia Insurance Limited; OnePath Gen  (17 Jun  23:03)
-,Last Modified Accc,2026-06-03T09:52:59+10:00  →  2026-06-17T11:16:39+10:00  (17 Jun  23:03)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Zurich - Beazley - Phase 1 determinatio  (17 Jun  23:03)"
-,,
-~ Banijay Entertainment – All3Media,MN-85026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media
-,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
-,End Of Determination Period,3 Jul 2026  →    (17 Jun  23:03)
-,Accc Determination,  →  Approved  (17 Jun  23:03)
-,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
-,Targets,Banijay Holding S.A.S.; 829 295 138 RCS PARIS; Gold Rush HoldCo Limited; RN 1526  →  Gold Rush HoldCo Limited; RN 152698; Banijay Holding S.A.S.; 829 295 138 RCS PAR  (17 Jun  23:03)
-,Other Parties,RedBird Capital Partners Management LLC; File No 5372472; Banijay SAS; 499 797 0  →  Lov Group Invest S.A.S; SIREN 494 031 008; Banijay SAS; 499 797 041 RCS PARIS; B  (17 Jun  23:03)
-,Last Modified Accc,2026-05-28T17:01:29+10:00  →  2026-06-17T15:28:13+10:00  (17 Jun  23:03)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Banijay Entertainment - All3Media - Pha  (17 Jun  23:03)"
-,,
-~ Integris & related entities - First Focus,MN-40022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/integris-related-entities-first-focus
-,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
-,End Of Determination Period,2 Jul 2026  →    (17 Jun  23:03)
-,Accc Determination,  →  Approved  (17 Jun  23:03)
-,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
-,Acquirers,OMERS Apollo Investment Holdings LLC; Apollo Australia Bidco Pty Ltd; 697 230 09  →  Apollo Australia Bidco Pty Ltd; 697 230 096; Apollo Australia Bidco Pty Ltd; 697  (17 Jun  23:03)
-,Targets,FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST;   →  FIRST FOCUS IT PTY LIMITED; 73 106 912 350; The Trustee for FUTURE FOCUS TRUST;   (17 Jun  23:03)
-,Last Modified Accc,2026-05-28T09:14:09+10:00  →  2026-06-17T16:17:12+10:00  (17 Jun  23:03)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Integris & related entities - First Foc  (17 Jun  23:03)"
-,,
-~ Macquarie Asset Management led consortium – Qube,MN-10007,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/macquarie-asset-management-led-consortium-%E2%80%93-qube
-,Acquisition Status,Under assessment  →  Assessment completed  (17 Jun  23:03)
-,End Of Determination Period,19 Jun 2026  →    (17 Jun  23:03)
-,Accc Determination,  →  Approved  (17 Jun  23:03)
-,Determination Publication Date,  →  17 June 2026  (17 Jun  23:03)
-,Last Modified Accc,2026-06-10T17:20:34+10:00  →  2026-06-17T17:47:29+10:00  (17 Jun  23:03)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jun  23:03)
-,Decisions Docs,"  →  [{'date': '17 Jun 2026', 'description': 'Macquarie Asset Management led consorti  (17 Jun  23:03)"
-,,
+"CHANGED ENTRIES (15 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
 ,Last Modified Accc,2026-06-10T15:26:28+10:00  →  2026-06-18T11:37:08+10:00  (18 Jun  14:18)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (18 Jun  14:18)
@@ -206,4 +139,41 @@ NEW ENTRIES (34),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-16T16:47:04+10:00  →  2026-06-23T16:00:02+10:00  (23 Jun  19:47)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (23 Jun  19:47)
 ,Consultation Docs,"[{'date': '16 Jun 2026', 'description': 'Questionnaire - Transocean - Valaris',   →    (23 Jun  19:47)"
+,,
+~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
+,Notification Date,19 June 2026  →  23 June 2026  (24 Jun  19:37)
+,End Of Determination Period,31 Jul 2026  →  4 Aug 2026  (24 Jun  19:37)
+,Last Modified Accc,2026-06-19T16:19:51+10:00  →  2026-06-24T16:09:49+10:00  (24 Jun  19:37)
+,,
+~ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
+,Last Modified Accc,2026-06-16T14:24:36+10:00  →  2026-06-23T16:17:33+10:00  (24 Jun  19:37)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (24 Jun  19:37)
+,Consultation Docs,"[{'date': '16 Jun 2026', 'description': 'Questionnaire - CSR-Complete Plaster',   →    (24 Jun  19:37)"
+,,
+~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
+,Acquisition Status,Under assessment  →  Assessment completed  (24 Jun  19:37)
+,End Of Determination Period,15 Jul 2026  →    (24 Jun  19:37)
+,Accc Determination,  →  Approved  (24 Jun  19:37)
+,Determination Publication Date,  →  24 June 2026  (24 Jun  19:37)
+,Targets,VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 60  →  VOAG 6 PTY LTD; 75 606 446 735; VOAG PTY LTD; 84 606 381 597; VOAG 2 PTY LTD; 33  (24 Jun  19:37)
+,Last Modified Accc,2026-06-15T08:30:34+10:00  →  2026-06-24T09:25:08+10:00  (24 Jun  19:37)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (24 Jun  19:37)
+,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Precision Poultry - VOAG chicken farmin  (24 Jun  19:37)"
+,,
+~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
+,Acquisition Status,Under assessment  →  Assessment completed  (24 Jun  19:37)
+,End Of Determination Period,26 Jun 2026  →    (24 Jun  19:37)
+,Accc Determination,  →  Approved  (24 Jun  19:37)
+,Determination Publication Date,  →  24 June 2026  (24 Jun  19:37)
+,Targets,ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE TOPCO PTY LTD; 46   →  ENGAGE MARINE FINCO PTY LTD; 25 675 999 283; ENGAGE MARINE HOLDINGS PTY LTD; 99   (24 Jun  19:37)
+,Other Parties,AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; AUSTRALIAN GLOBA  →  Australian Global Onshore Logistics Pty Ltd; 691 961 136; AUSTRALIAN GLOBAL MARI  (24 Jun  19:37)
+,Last Modified Accc,2026-05-25T11:10:23+10:00  →  2026-06-24T17:31:20+10:00  (24 Jun  19:37)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (24 Jun  19:37)
+,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (24 Jun  19:37)"
+,,
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-05-14T12:37:44+10:00  →  2026-06-24T11:28:06+10:00  (24 Jun  19:37)
+,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (24 Jun  19:37)"
+,Consultation Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  (24 Jun  19:37)"
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (24 Jun  19:37)"
 ,,

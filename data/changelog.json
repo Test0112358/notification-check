@@ -20894,5 +20894,87 @@
         "new": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': ''}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-25T03:55:21.122331Z",
+    "slug": "complete-air-supply-all-air",
+    "title": "Complete Air Supply - All Air",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Distributors Pty Ltd; 43 139 947 363; QUALITY AIR EQUIPMENT PTY LTD; 42 095 082 689; KIRBY HVAC&R PTY LTD; 42 624 910 041; HVAC CONSOLIDATED PTY LTD; 26 162 828 971; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 680; BEIJER REF AUSTRALIA PTY LTD; 62 133 913 283; AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461",
+        "new": "KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 363; HVAC CONSOLIDATED PTY LTD; 26 162 828 971; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 680; AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; QUALITY AIR EQUIPMENT PTY LTD; 42 095 082 689; BEIJER REF AUSTRALIA PTY LTD; 62 133 913 283"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-17T14:28:41+10:00",
+        "new": "2026-06-25T09:32:12+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 24 June 2026 via email to mergers@accc.gov.au with the title Submission re: Complete Air – All Air. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 17 Jun 2026 Complete Air Supply - All Air - Questionnaire Attachment 116.02 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '17 Jun 2026', 'description': 'Complete Air Supply - All Air - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Complete%20Air%20Supply%20-%20All%20Air%20-%20third%20party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-25T03:55:21.122331Z",
+    "slug": "calvary-hobart-private-hospital",
+    "title": "Calvary - Hobart Private Hospital",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274; HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152",
+        "new": "HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274"
+      },
+      {
+        "field": "other_parties",
+        "old": "Keith Crawford (as joint and several receivers); Jason Ireland (as joint and several receivers); Matthew Caddy (as joint and several receivers); Kathy Sozou (as joint and several receivers)",
+        "new": "Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and several receivers); Keith Crawford (as joint and several receivers); Matthew Caddy (as joint and several receivers)"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-17T11:54:30+10:00",
+        "new": "2026-06-25T09:55:33+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 24 June 2026 via email to mergers@accc.gov.au with the title Submission re: Calvary – Hobart Private. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 17 Jun 2026 Questionnaire Attachment 107.37 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Calvary%20-%20Hobart%20Private%20-%20Questionnaire_3.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-25T03:55:21.122331Z",
+    "slug": "pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+    "title": "PT Asian Bulk Logistics – Engage Marine",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-24T17:31:20+10:00",
+        "new": "2026-06-24T21:50:17+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Straightforward Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/PT%20Asian%20Bulk%20Logistics%20-%20Engage%20Marine%20-%20Phase%201%20determination.pdf'}]",
+        "new": "[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/PT%20Asian%20Bulk%20Logistics%20-%20Engage%20Marine%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]
