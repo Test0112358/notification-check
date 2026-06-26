@@ -96,9 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "hillhouse-kmc-solutions",
-    "title": "Hillhouse - KMC Solutions",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-kmc-solutions",
+    "slug": "dp-world-global-forwarding-%E2%80%93-pure-global-logistics",
+    "title": "DP World Global Forwarding – Pure Global Logistics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dp-world-global-forwarding-%E2%80%93-pure-global-logistics",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -108,21 +108,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "blackbird-ventures-%E2%80%93-halter",
-    "title": "Blackbird Ventures – Halter",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-halter",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "rea-group-simplicity-loans-advisory",
-    "title": "REA Group - Simplicity Loans & Advisory",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/rea-group-simplicity-loans-advisory",
+    "slug": "fc-group-holdings-corporation-ors-fluent-retail",
+    "title": "FC Group Holdings Corporation & ors - Fluent Retail",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fc-group-holdings-corporation-ors-fluent-retail",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
