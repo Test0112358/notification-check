@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-06-26T04:19:32.731902Z",
-  "total_entries": 385,
+  "generated_at_utc": "2026-06-26T09:49:15.673108Z",
+  "total_entries": 388,
   "by_acquisition_status": {
-    "Under assessment": 33,
-    "Assessment completed": 351,
+    "Under assessment": 32,
+    "Assessment completed": 355,
     "Assessment ceased": 1
   },
   "by_stage": {
     "Phase 1 - initial assessment": 143,
-    "Waiver application": 237,
+    "Waiver application": 240,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
     "Notification": 148,
-    "Waiver": 237
+    "Waiver": 240
   },
   "by_accc_determination": {
-    "Approved": 336,
+    "Approved": 340,
     "Not approved": 14,
     "Approved with conditions": 1
   },

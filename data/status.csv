@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-26 04:02:04.609660,
-Last scrape run (AEST),26 Jun 2026  14:02,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-26 09:33:34.804929,
+Last scrape run (AEST),26 Jun 2026  19:33,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,385,
-New entries this run,1,
-Changed entries this run,1,
+Total entries monitored,388,
+New entries this run,3,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,19 +13,37 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Sika AG - Akkim,MN-40027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim
+NEW ENTRIES (3),Case Number,URL
++ Brookfield – World Freight Company,WA-55025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brookfield-%E2%80%93-world-freight-company
++ Australian Food & Fibre – Western Lands Lease Conversion,WA-40026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-food-fibre-%E2%80%93-western-lands-lease-conversion
++ Apax Partners LLP – Sedex Information Exchange Limited,WA-45017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apax-partners-llp-%E2%80%93-sedex-information-exchange-limited
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
+,Targets,The Trustee for Katherine Park Holding Trust; 61 521 863 718; The Trustee for THE F DAVIES FAMILY TR  →  The Trustee for Katherine Park Trust; 52 233 936 018; The Trustee for THE F DAVIES FAMILY TRUST; 53 
+,Last Modified Accc,2026-06-19T15:49:13+10:00  →  2026-06-26T09:51:32+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire - Discovery Holiday Parks - four Breeze Holid  →  "
+,,
+"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,16 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  26 June 2026
+,Acquirers,WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005
+,Last Modified Accc,2026-06-18T16:07:43+10:00  →  2026-06-26T16:50:47+10:00
+,Consultation Text,The period for providing submissions in relation to the Acquisitions has concluded.  →  
+,Decisions Docs,"  →  [{'date': '26 Jun 2026', 'description': 'ANZ, CBA, NAB and Westpac - shares in joint venture and int"
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,End Of Determination Period,26 Aug 2026  →  23 Sep 2026
+,Last Modified Accc,2026-05-25T18:09:58+10:00  →  2026-06-26T16:38:32+10:00
+,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (32),Case Number,Detected (AEST)
-+ Bertelsmann Music Group - Concord,MN-75023,19 Jun  14:46
 + Autodesk - MaintainX,MN-60022,19 Jun  20:43
 + Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,19 Jun  20:43
 + Ares (Bolt S.p.A.) – Investment in Plenitude,WA-85032,19 Jun  20:43
@@ -57,13 +75,9 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 + Redwood Services Group – All IT Australia,WA-15024,25 Jun  19:31
 + SLR Consulting Australia - Hydrobiology,WA-35025,25 Jun  19:31
 + Dhilmar – Anglo American steelmaking coal business,WA-85035,25 Jun  19:31
++ Sika AG - Akkim,MN-40027,26 Jun  14:02
 ,,
-"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,End Of Determination Period,6 Jul 2026  →  20 Jul 2026  (19 Jun  14:46)
-,Last Modified Accc,2026-05-29T15:05:45+10:00  →  2026-06-19T12:17:30+10:00  (19 Jun  14:46)
-,Decisions Docs,"  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  (19 Jun  14:46)"
-,,
+"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
 ,Acquirers,PET CARE DISTRIBUTORS PTY LTD; 58 125 265 769  →  Pet Care Distributors Pty Ltd; 58 125 265 769  (19 Jun  20:43)
 ,Targets,PARINGA PET FOODS PTY LTD; 20 142 418 915  →  Paringa Pet Foods Pty Ltd; 20 142 418 915  (19 Jun  20:43)
@@ -145,6 +159,8 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (24 Jun  19:37)"
 ,Consultation Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  (24 Jun  19:37)"
 ,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (24 Jun  19:37)"
+,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00  (26 Jun  14:02)
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (26 Jun  14:02)"
 ,,
 ~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
 ,Other Parties,TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Dist  →  KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pt  (25 Jun  13:55)
