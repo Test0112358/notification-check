@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-06-25T09:31:28.676459Z",
+  "run_utc": "2026-06-26T04:02:04.609660Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "akzonobel-axalta",
-      "title": "AkzoNobel - Axalta",
-      "case_number": "MN-50024",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta",
-      "date": "24 Jun 2026",
-      "description": "Questionnaire - AkzoNobel-Axalta",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20AkzoNobel-Axalta_2.docx",
-      "local_path": "data/consultation_docs/Questionnaire - AkzoNobel-Axalta_2.docx",
-      "filename": "Questionnaire - AkzoNobel-Axalta_2.docx",
-      "size_kb": 116.0
+      "slug": "sika-ag-akkim",
+      "title": "Sika AG - Akkim",
+      "case_number": "MN-40027",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim",
+      "date": "26 Jun 2026",
+      "description": "Questionnaire - Sika AG - Akkim",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Sika%20AG%20-%20Akkim.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Sika AG - Akkim.docx",
+      "filename": "Questionnaire - Sika AG - Akkim.docx",
+      "size_kb": 116.2
     }
   ]
 }

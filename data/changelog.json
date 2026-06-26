@@ -21154,5 +21154,32 @@
         "new": "[{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Dental Care - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Impression%20Dental%20Group%20-%20Coastal%20Dental%20Care%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-26T04:02:04.609660Z",
+    "slug": "sika-ag-akkim",
+    "title": "Sika AG - Akkim",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-26T04:02:04.609660Z",
+    "slug": "microstar-logistics-konvoy",
+    "title": "MicroStar Logistics - Konvoy",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-24T11:28:06+10:00",
+        "new": "2026-06-26T08:59:43+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': ''}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]",
+        "new": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
+      }
+    ]
   }
 ]

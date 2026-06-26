@@ -1,159 +1,30 @@
 {
-  "run_utc": "2026-06-25T09:31:28.676459Z",
-  "new_count": 7,
-  "changed_count": 3,
+  "run_utc": "2026-06-26T04:02:04.609660Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "akzonobel-axalta",
-      "title": "AkzoNobel - Axalta",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta"
-    },
-    {
-      "slug": "bain-capital-%E2%80%93-fdh",
-      "title": "Bain Capital – FDH",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-fdh"
-    },
-    {
-      "slug": "warburg-pincus-%E2%80%93-jsb",
-      "title": "Warburg Pincus – JSB",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-jsb"
-    },
-    {
-      "slug": "redwood-services-group-%E2%80%93-newtrend-it-specialists",
-      "title": "Redwood Services Group – Newtrend I.T. Specialists",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists"
-    },
-    {
-      "slug": "redwood-services-group-%E2%80%93-all-it-australia",
-      "title": "Redwood Services Group – All IT Australia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia"
-    },
-    {
-      "slug": "slr-consulting-australia-hydrobiology",
-      "title": "SLR Consulting Australia - Hydrobiology",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slr-consulting-australia-hydrobiology"
-    },
-    {
-      "slug": "dhilmar-%E2%80%93-anglo-american-steelmaking-coal-business",
-      "title": "Dhilmar – Anglo American steelmaking coal business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dhilmar-%E2%80%93-anglo-american-steelmaking-coal-business"
+      "slug": "sika-ag-akkim",
+      "title": "Sika AG - Akkim",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim"
     }
   ],
   "changed_entries": [
     {
-      "slug": "adbri-eureka-concrete",
-      "title": "Adbri - Eureka Concrete",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
+      "slug": "microstar-logistics-konvoy",
+      "title": "MicroStar Logistics - Konvoy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "E.B. Mawson & Sons Proprietary Limited; 14 004 519 617",
-          "new": "E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617"
-        },
-        {
-          "field": "other_parties",
-          "old": "Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15 007 596 018; Hy-Tec Industries (Victoria) Pty Ltd; 43 096 310 520; Central Pre-Mix Concrete Pty. Ltd.; 62 008 070 862",
-          "new": "ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-06-18T11:32:56+10:00",
-          "new": "2026-06-25T16:25:39+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 25 June 2026 via email to mergers@accc.gov.au with the title Submission re: Adbri - Eureka Concrete. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 18 Jun 2026 Questionnaire - Adbri - Eureka Concrete Attachment 116 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Eureka%3A%20third-party%20questionnaire%20-%2018%20June%202026_0.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "anz-banking-group-worldline-australia",
-      "title": "ANZ Banking Group - Worldline Australia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "16 Jul 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "25 June 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-12T15:19:48+10:00",
-          "new": "2026-06-25T16:12:29+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "2026-06-24T11:28:06+10:00",
+          "new": "2026-06-26T08:59:43+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '25 Jun 2026', 'description': 'ANZ Banking Group-Worldline Australia - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/ANZ%20Banking%20Group%20-%20Worldline%20Australia%20-%20%20Phase%201%20Determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "impression-dental-group-coastal-dental-care",
-      "title": "Impression Dental Group - Coastal Dental Care",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "13 Jul 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "25 June 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-05T14:53:21+10:00",
-          "new": "2026-06-25T15:58:53+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Dental Care - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Impression%20Dental%20Group%20-%20Coastal%20Dental%20Care%20-%20Phase%201%20determination.pdf'}]"
+          "old": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': ''}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]",
+          "new": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
         }
       ]
     }

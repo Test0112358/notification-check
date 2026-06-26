@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-25 09:31:28.676459,
-Last scrape run (AEST),25 Jun 2026  19:31,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-26 04:02:04.609660,
+Last scrape run (AEST),26 Jun 2026  14:02,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,384,
-New entries this run,7,
-Changed entries this run,3,
+Total entries monitored,385,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,53 +13,18 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
-+ Bain Capital – FDH,WA-25033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-fdh
-+ Warburg Pincus – JSB,WA-10019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-jsb
-+ Redwood Services Group – Newtrend I.T. Specialists,WA-60024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists
-+ Redwood Services Group – All IT Australia,WA-15024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia
-+ SLR Consulting Australia - Hydrobiology,WA-35025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slr-consulting-australia-hydrobiology
-+ Dhilmar – Anglo American steelmaking coal business,WA-85035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/dhilmar-%E2%80%93-anglo-american-steelmaking-coal-business
+NEW ENTRIES (1),Case Number,URL
++ Sika AG - Akkim,MN-40027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
-,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617
-,Other Parties,Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15 007 596 018; Hy-Tec   →  ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT C
-,Last Modified Accc,2026-06-18T11:32:56+10:00  →  2026-06-25T16:25:39+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete', 'url': 'https://w  →  "
-,,
-~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,16 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  25 June 2026
-,Last Modified Accc,2026-06-12T15:19:48+10:00  →  2026-06-25T16:12:29+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'ANZ Banking Group-Worldline Australia - Phase 1 determinati"
-,,
-~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,13 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  25 June 2026
-,Last Modified Accc,2026-06-05T14:53:21+10:00  →  2026-06-25T15:58:53+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Dental Care - Phase 1 det"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (33),Case Number,Detected (AEST)
-+ Jardines - I-MED,WA-90019,18 Jun  20:25
-"+ Autopact - Freehold interest in commercial land in Dubbo, NSW",WA-55021,18 Jun  20:25
-"+ Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",WA-50018,18 Jun  20:25
-+ Vets Central - Morley Veterinary Hospital,WA-15022,18 Jun  20:25
-+ Xylem - TriOS,WA-05018,18 Jun  20:25
-+ Online Education Services – South Australian Institute of Business and Technology,WA-15020,18 Jun  20:25
-+ Envest Group – MA Insurance Brokers,WA-50020,18 Jun  20:25
-+ Northstar – business assets of Mildura Mazda,WA-45016,18 Jun  20:25
+NEW ENTRIES (32),Case Number,Detected (AEST)
 + Bertelsmann Music Group - Concord,MN-75023,19 Jun  14:46
 + Autodesk - MaintainX,MN-60022,19 Jun  20:43
 + Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,19 Jun  20:43
@@ -85,24 +50,15 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 + Tasmea - Maxim,WA-85031,24 Jun  19:37
 + B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting,WA-05024,24 Jun  19:37
 + Aula Energy – Additional interest in the Boulder Creek Wind Farm,WA-70021,24 Jun  19:37
++ AkzoNobel - Axalta,MN-50024,25 Jun  19:31
++ Bain Capital – FDH,WA-25033,25 Jun  19:31
++ Warburg Pincus – JSB,WA-10019,25 Jun  19:31
++ Redwood Services Group – Newtrend I.T. Specialists,WA-60024,25 Jun  19:31
++ Redwood Services Group – All IT Australia,WA-15024,25 Jun  19:31
++ SLR Consulting Australia - Hydrobiology,WA-35025,25 Jun  19:31
++ Dhilmar – Anglo American steelmaking coal business,WA-85035,25 Jun  19:31
 ,,
-"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
-"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
-,Acquirers,NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; WESTPAC BANKING C  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING G  (18 Jun  20:25)
-,Last Modified Accc,2026-06-04T17:15:40+10:00  →  2026-06-18T16:07:43+10:00  (18 Jun  20:25)
-,Consultation Text,The ACCC is inviting submissions from interested parties on the Acquisitions by   →  The period for providing submissions in relation to the Acquisitions has conclud  (18 Jun  20:25)
-,,
-~ Stonepeak – Castrol,MN-60015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol
-,Acquisition Status,Under assessment  →  Assessment completed  (18 Jun  20:25)
-,End Of Determination Period,6 Jul 2026  →    (18 Jun  20:25)
-,Accc Determination,  →  Approved  (18 Jun  20:25)
-,Acquirers,Motion JVCo Limited; Company Identifier Number - 163042; BP Motion Holdings Limi  →  CPP Investment Board Private Holdings (6) Inc; CBN - 764228300; Motion JVCo Limi  (18 Jun  20:25)
-,Targets,Castrol Group Holdings Limited; UKCRN - SC005098; Stonepeak Motion PoolingCo Lim  →  Stonepeak Motion PoolingCo Limited; CBN - 764228300; Castrol Group Holdings Limi  (18 Jun  20:25)
-,Other Parties,BP p.l.c; UKCRN - 00102498; Stonepeak Partners LP; Company Identifier Number: 49  →  Stonepeak Partners LP; Company Identifier Number: 4958360 - Delaware; BP p.l.c;   (18 Jun  20:25)
-,Last Modified Accc,2026-06-01T14:38:26+10:00  →  2026-06-18T15:47:24+10:00  (18 Jun  20:25)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (18 Jun  20:25)
-,Decisions Docs,"  →  [{'date': '18 Jun 2026', 'description': 'Stonepeak - Castrol - Phase 1 Determina  (18 Jun  20:25)"
-,,
+"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
 ,End Of Determination Period,6 Jul 2026  →  20 Jul 2026  (19 Jun  14:46)
 ,Last Modified Accc,2026-05-29T15:05:45+10:00  →  2026-06-19T12:17:30+10:00  (19 Jun  14:46)
@@ -202,4 +158,29 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-17T11:54:30+10:00  →  2026-06-25T09:55:33+10:00  (25 Jun  13:55)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  13:55)
 ,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (25 Jun  13:55)"
+,,
+~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  (25 Jun  19:31)
+,Other Parties,Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15   →  ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  (25 Jun  19:31)
+,Last Modified Accc,2026-06-18T11:32:56+10:00  →  2026-06-25T16:25:39+10:00  (25 Jun  19:31)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  19:31)
+,Consultation Docs,"[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete  →    (25 Jun  19:31)"
+,,
+~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
+,Acquisition Status,Under assessment  →  Assessment completed  (25 Jun  19:31)
+,End Of Determination Period,16 Jul 2026  →    (25 Jun  19:31)
+,Accc Determination,  →  Approved  (25 Jun  19:31)
+,Determination Publication Date,  →  25 June 2026  (25 Jun  19:31)
+,Last Modified Accc,2026-06-12T15:19:48+10:00  →  2026-06-25T16:12:29+10:00  (25 Jun  19:31)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Jun  19:31)
+,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'ANZ Banking Group-Worldline Australia -  (25 Jun  19:31)"
+,,
+~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
+,Acquisition Status,Under assessment  →  Assessment completed  (25 Jun  19:31)
+,End Of Determination Period,13 Jul 2026  →    (25 Jun  19:31)
+,Accc Determination,  →  Approved  (25 Jun  19:31)
+,Determination Publication Date,  →  25 June 2026  (25 Jun  19:31)
+,Last Modified Accc,2026-06-05T14:53:21+10:00  →  2026-06-25T15:58:53+10:00  (25 Jun  19:31)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Jun  19:31)
+,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Denta  (25 Jun  19:31)"
 ,,
