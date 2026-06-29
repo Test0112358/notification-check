@@ -96,9 +96,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "primary-wave-kobalt",
-    "title": "Primary Wave - Kobalt",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/primary-wave-kobalt",
+    "slug": "north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
+    "title": "North American Construction Group – Iron Mine Contracting and Iron Hire",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/north-american-construction-group-%E2%80%93-iron-mine-contracting-and-iron-hire",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
