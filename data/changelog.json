@@ -21307,5 +21307,50 @@
         "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_0.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-29T04:15:54.389517Z",
+    "slug": "midea-residentia-group",
+    "title": "Midea - Residentia Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-29T04:15:54.389517Z",
+    "slug": "openai-ona",
+    "title": "OpenAI - Ona",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-29T04:15:54.389517Z",
+    "slug": "bertelsmann-music-group-concord",
+    "title": "Bertelsmann Music Group - Concord",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; Alchemy Copyrights LLC; Company Number: 5614268; BMG LP [New MusicCo]; BMG Rights Management (US), LLC; 4645458",
+        "new": "BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; BMG Rights Management (US), LLC; 4645458"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-19T10:49:39+10:00",
+        "new": "2026-06-26T09:46:48+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Merger. The ACCC has prepared a questionnaire on the Merger. Submissions or information in response to the questionnaire should be provided by 26 June 2026 via email to mergers@accc.gov.au with the title Submission re: Bertelsmann Music Group - Concord. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 19 Jun 2026 Questionnaire Attachment 60.02 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '19 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Concord%20-%20Questionnaire_0.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

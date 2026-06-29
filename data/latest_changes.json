@@ -1,119 +1,45 @@
 {
-  "run_utc": "2026-06-26T09:33:34.804929Z",
-  "new_count": 3,
-  "changed_count": 3,
+  "run_utc": "2026-06-29T04:15:54.389517Z",
+  "new_count": 2,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "brookfield-%E2%80%93-world-freight-company",
-      "title": "Brookfield – World Freight Company",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brookfield-%E2%80%93-world-freight-company"
+      "slug": "midea-residentia-group",
+      "title": "Midea - Residentia Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group"
     },
     {
-      "slug": "australian-food-fibre-%E2%80%93-western-lands-lease-conversion",
-      "title": "Australian Food & Fibre – Western Lands Lease Conversion",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-food-fibre-%E2%80%93-western-lands-lease-conversion"
-    },
-    {
-      "slug": "apax-partners-llp-%E2%80%93-sedex-information-exchange-limited",
-      "title": "Apax Partners LLP – Sedex Information Exchange Limited",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apax-partners-llp-%E2%80%93-sedex-information-exchange-limited"
+      "slug": "openai-ona",
+      "title": "OpenAI - Ona",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona"
     }
   ],
   "changed_entries": [
     {
-      "slug": "discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
-      "title": "Discovery Holiday Parks – four Breeze Holiday Parks",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
+      "slug": "bertelsmann-music-group-concord",
+      "title": "Bertelsmann Music Group - Concord",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord",
       "changes": [
         {
           "field": "targets",
-          "old": "The Trustee for Katherine Park Holding Trust; 61 521 863 718; The Trustee for THE F DAVIES FAMILY TRUST; 53 298 082 380; The Trustee for Katherine Park Trust; 52 233 936 018",
-          "new": "The Trustee for Katherine Park Trust; 52 233 936 018; The Trustee for THE F DAVIES FAMILY TRUST; 53 298 082 380; The Trustee for Katherine Park Holding Trust; 61 521 863 718"
+          "old": "Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; Alchemy Copyrights LLC; Company Number: 5614268; BMG LP [New MusicCo]; BMG Rights Management (US), LLC; 4645458",
+          "new": "BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; BMG Rights Management (US), LLC; 4645458"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-19T15:49:13+10:00",
-          "new": "2026-06-26T09:51:32+10:00"
+          "old": "2026-06-19T10:49:39+10:00",
+          "new": "2026-06-26T09:46:48+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 26 June 2026 via email to mergers@accc.gov.au with the title Discovery Holiday Parks – four Breeze Holiday Parks. read more 19 Jun 2026 Questionnaire - Discovery Holiday Parks - four Breeze Holiday Parks Attachment 118.21 KB",
+          "old": "The ACCC has prepared a questionnaire on the Merger. The ACCC has prepared a questionnaire on the Merger. Submissions or information in response to the questionnaire should be provided by 26 June 2026 via email to mergers@accc.gov.au with the title Submission re: Bertelsmann Music Group - Concord. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 19 Jun 2026 Questionnaire Attachment 60.02 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '19 Jun 2026', 'description': 'Questionnaire - Discovery Holiday Parks - four Breeze Holiday Parks', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Discovery%20Holiday%20Parks%20-%20four%20Breeze%20Holiday%20Parks%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '19 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Concord%20-%20Questionnaire_0.docx'}]",
           "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
-      "title": "ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "16 Jul 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "26 June 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005 357 522; NATIONAL AUSTRALIA BANK LIMITED; 12 004 044 937; COMMONWEALTH BANK OF AUSTRALIA; 48 123 123 124; NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010",
-          "new": "WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005 357 522; COMMONWEALTH BANK OF AUSTRALIA; 48 123 123 124; NATIONAL AUSTRALIA INVESTMENT CAPITAL PTY LTD; 27 073 242 010; NATIONAL AUSTRALIA BANK LIMITED; 12 004 044 937"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-18T16:07:43+10:00",
-          "new": "2026-06-26T16:50:47+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions in relation to the Acquisitions has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '26 Jun 2026', 'description': 'ANZ, CBA, NAB and Westpac - shares in joint venture and interests in Joint Cash Pool - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/ANZ%2C%20CBA%2C%20NAB%20and%20Westpac%20%E2%80%93%20shares%20in%20%20joint%20venture%20and%20interests%20in%20Joint%20Cash%20Pool%20%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "26 Aug 2026",
-          "new": "23 Sep 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-05-25T18:09:58+10:00",
-          "new": "2026-06-26T16:38:32+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}]",
-          "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_0.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}]"
         }
       ]
     }

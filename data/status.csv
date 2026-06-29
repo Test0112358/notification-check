@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-26 09:33:34.804929,
-Last scrape run (AEST),26 Jun 2026  19:33,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-29 04:15:54.389517,
+Last scrape run (AEST),29 Jun 2026  14:15,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,388,
-New entries this run,3,
-Changed entries this run,3,
+Total entries monitored,390,
+New entries this run,2,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,41 +13,21 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Brookfield – World Freight Company,WA-55025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brookfield-%E2%80%93-world-freight-company
-+ Australian Food & Fibre – Western Lands Lease Conversion,WA-40026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-food-fibre-%E2%80%93-western-lands-lease-conversion
-+ Apax Partners LLP – Sedex Information Exchange Limited,WA-45017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apax-partners-llp-%E2%80%93-sedex-information-exchange-limited
+NEW ENTRIES (2),Case Number,URL
++ Midea - Residentia Group,MN-01106,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group
++ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
-,Targets,The Trustee for Katherine Park Holding Trust; 61 521 863 718; The Trustee for THE F DAVIES FAMILY TR  →  The Trustee for Katherine Park Trust; 52 233 936 018; The Trustee for THE F DAVIES FAMILY TRUST; 53 
-,Last Modified Accc,2026-06-19T15:49:13+10:00  →  2026-06-26T09:51:32+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire - Discovery Holiday Parks - four Breeze Holid  →  "
-,,
-"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,16 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  26 June 2026
-,Acquirers,WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED; 11 005
-,Last Modified Accc,2026-06-18T16:07:43+10:00  →  2026-06-26T16:50:47+10:00
-,Consultation Text,The period for providing submissions in relation to the Acquisitions has concluded.  →  
-,Decisions Docs,"  →  [{'date': '26 Jun 2026', 'description': 'ANZ, CBA, NAB and Westpac - shares in joint venture and int"
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,End Of Determination Period,26 Aug 2026  →  23 Sep 2026
-,Last Modified Accc,2026-05-25T18:09:58+10:00  →  2026-06-26T16:38:32+10:00
-,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
+,Targets,Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; Alchemy Copyright  →  BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V. 
+,Last Modified Accc,2026-06-19T10:49:39+10:00  →  2026-06-26T09:46:48+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Merger. The ACCC has prepared a questionnaire on the Me  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (32),Case Number,Detected (AEST)
-+ Autodesk - MaintainX,MN-60022,19 Jun  20:43
-+ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,19 Jun  20:43
-+ Ares (Bolt S.p.A.) – Investment in Plenitude,WA-85032,19 Jun  20:43
-"+ Oscars Group – Hotel Diplomat in Potts Point, NSW",WA-60021,19 Jun  20:43
+NEW ENTRIES (31),Case Number,Detected (AEST)
 "+ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,22 Jun  22:11
 + Genea - Care Fertility Greenslopes,MN-01104,22 Jun  22:11
 + River Capital – YOMG,WA-25032,22 Jun  22:11
@@ -76,15 +56,11 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 + SLR Consulting Australia - Hydrobiology,WA-35025,25 Jun  19:31
 + Dhilmar – Anglo American steelmaking coal business,WA-85035,25 Jun  19:31
 + Sika AG - Akkim,MN-40027,26 Jun  14:02
++ Brookfield – World Freight Company,WA-55025,26 Jun  19:33
++ Australian Food & Fibre – Western Lands Lease Conversion,WA-40026,26 Jun  19:33
++ Apax Partners LLP – Sedex Information Exchange Limited,WA-45017,26 Jun  19:33
 ,,
-"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
-,Acquirers,PET CARE DISTRIBUTORS PTY LTD; 58 125 265 769  →  Pet Care Distributors Pty Ltd; 58 125 265 769  (19 Jun  20:43)
-,Targets,PARINGA PET FOODS PTY LTD; 20 142 418 915  →  Paringa Pet Foods Pty Ltd; 20 142 418 915  (19 Jun  20:43)
-,Last Modified Accc,2026-06-12T08:12:01+10:00  →  2026-06-19T10:18:09+10:00  (19 Jun  20:43)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (19 Jun  20:43)
-,Consultation Docs,"[{'date': '12 Jun 2026', 'description': 'Questionnaire - EBOS - Paringa Pet Food  →    (19 Jun  20:43)"
-,,
+"CHANGED ENTRIES (18 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
 ,Acquisition Status,Under assessment  →  Assessment completed  (22 Jun  14:48)
 ,End Of Determination Period,9 Jul 2026  →    (22 Jun  14:48)
@@ -199,4 +175,25 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-05T14:53:21+10:00  →  2026-06-25T15:58:53+10:00  (25 Jun  19:31)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Jun  19:31)
 ,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Denta  (25 Jun  19:31)"
+,,
+~ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
+,Targets,The Trustee for Katherine Park Holding Trust; 61 521 863 718; The Trustee for TH  →  The Trustee for Katherine Park Trust; 52 233 936 018; The Trustee for THE F DAVI  (26 Jun  19:33)
+,Last Modified Accc,2026-06-19T15:49:13+10:00  →  2026-06-26T09:51:32+10:00  (26 Jun  19:33)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (26 Jun  19:33)
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire - Discovery Holiday Parks  →    (26 Jun  19:33)"
+,,
+"~ ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",MN-20014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool
+,Acquisition Status,Under assessment  →  Assessment completed  (26 Jun  19:33)
+,End Of Determination Period,16 Jul 2026  →    (26 Jun  19:33)
+,Accc Determination,  →  Approved  (26 Jun  19:33)
+,Determination Publication Date,  →  26 June 2026  (26 Jun  19:33)
+,Acquirers,WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING G  →  WESTPAC BANKING CORPORATION; 33 007 457 141; AUSTRALIA AND NEW ZEALAND BANKING G  (26 Jun  19:33)
+,Last Modified Accc,2026-06-18T16:07:43+10:00  →  2026-06-26T16:50:47+10:00  (26 Jun  19:33)
+,Consultation Text,The period for providing submissions in relation to the Acquisitions has conclud  →    (26 Jun  19:33)
+,Decisions Docs,"  →  [{'date': '26 Jun 2026', 'description': 'ANZ, CBA, NAB and Westpac - shares in j  (26 Jun  19:33)"
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,End Of Determination Period,26 Aug 2026  →  23 Sep 2026  (26 Jun  19:33)
+,Last Modified Accc,2026-05-25T18:09:58+10:00  →  2026-06-26T16:38:32+10:00  (26 Jun  19:33)
+,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (26 Jun  19:33)"
 ,,
