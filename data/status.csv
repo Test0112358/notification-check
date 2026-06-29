@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-29 04:15:54.389517,
-Last scrape run (AEST),29 Jun 2026  14:15,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-29 11:06:51.956866,
+Last scrape run (AEST),29 Jun 2026  21:06,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,390,
-New entries this run,2,
-Changed entries this run,1,
+Total entries monitored,394,
+New entries this run,4,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,21 +13,27 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Midea - Residentia Group,MN-01106,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group
-+ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
+NEW ENTRIES (4),Case Number,URL
++ WSP / GEOTECHNICAL TESTING AND INTERPRETATION,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
++ INNIO Group – Enerflex,MN-80021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0
++ Bupa – Barings Australian Private Credit Fund,WA-20025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bupa-%E2%80%93-barings-australian-private-credit-fund
++ MLPL HoldCo – shares in Marinus Link Pty Ltd,WA-70023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
-,Targets,Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; Alchemy Copyright  →  BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V. 
-,Last Modified Accc,2026-06-19T10:49:39+10:00  →  2026-06-26T09:46:48+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Merger. The ACCC has prepared a questionnaire on the Me  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+"~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
+,Last Modified Accc,2026-06-22T15:42:35+10:00  →  2026-06-29T16:29:24+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Endeavour Group - retail liquor site in Avalon, NSW - Quest  →  "
+,,
+~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
+,End Of Determination Period,15 Jul 2026  →  21 Jul 2026
+,Last Modified Accc,2026-06-11T10:02:59+10:00  →  2026-06-29T15:41:02+10:00
+,Decisions Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (31),Case Number,Detected (AEST)
+NEW ENTRIES (33),Case Number,Detected (AEST)
 "+ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,22 Jun  22:11
 + Genea - Care Fertility Greenslopes,MN-01104,22 Jun  22:11
 + River Capital – YOMG,WA-25032,22 Jun  22:11
@@ -59,34 +65,10 @@ NEW ENTRIES (31),Case Number,Detected (AEST)
 + Brookfield – World Freight Company,WA-55025,26 Jun  19:33
 + Australian Food & Fibre – Western Lands Lease Conversion,WA-40026,26 Jun  19:33
 + Apax Partners LLP – Sedex Information Exchange Limited,WA-45017,26 Jun  19:33
++ Midea - Residentia Group,MN-01106,29 Jun  14:15
++ OpenAI - Ona,MN-90020,29 Jun  14:15
 ,,
-"CHANGED ENTRIES (18 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
-~ Smile Partners Australia – Mehta Orthodontics,MN-05014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics
-,Acquisition Status,Under assessment  →  Assessment completed  (22 Jun  14:48)
-,End Of Determination Period,9 Jul 2026  →    (22 Jun  14:48)
-,Accc Determination,  →  Approved  (22 Jun  14:48)
-,Other Parties,Redcat Bidco Pty Ltd; 683 178 921; SMILE PARTNERS (NORWEST) PTY LTD; 89 653 164   →  MEDIQUIP HOLDINGS PTY LTD; 69 628 866 731; SMILE PARTNERS (WA1) PTY LTD; 27 662   (22 Jun  14:48)
-,Last Modified Accc,2026-06-04T14:49:27+10:00  →  2026-06-22T11:16:05+10:00  (22 Jun  14:48)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jun  14:48)
-,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Phase 1 determination', 'url': 'https:/  (22 Jun  14:48)"
-,,
-~ Henkel – Olaplex,MN-80016,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/henkel-%E2%80%93-olaplex
-,Acquisition Status,Under assessment  →  Assessment completed  (22 Jun  14:48)
-,End Of Determination Period,9 Jul 2026  →    (22 Jun  14:48)
-,Accc Determination,  →  Approved  (22 Jun  14:48)
-,Determination Publication Date,  →  22 June 2026  (22 Jun  14:48)
-,Targets,"Olaplex Holdings, Inc.; Delaware registration number: 5923882 (EIN: 87-1242679);  →  Olaplex, Inc.; Delaware registration number: 7702123 (EIN: 84-3736163); Advent I  (22 Jun  14:48)"
-,Other Parties,Henkel Australia Pty Ltd; 82 001 302 996; Inter Beteiligungsverwaltungs-Gesellsc  →  Henkel Australia Pty Ltd; 82 001 302 996; Platina Cosméticos Ltda (dba Skala); B  (22 Jun  14:48)
-,Last Modified Accc,2026-06-03T10:43:33+10:00  →  2026-06-22T11:09:40+10:00  (22 Jun  14:48)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jun  14:48)
-,Decisions Docs,"  →  [{'date': '20 Jun 2026', 'description': 'Henkel - Olaplex - Phase 1 determinatio  (22 Jun  14:48)"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,End Of Determination Period,25 Jun 2026  →  2 Jul 2026  (22 Jun  14:48)
-,Other Parties,N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; EQT Fund Management S.à r.l.;  →  EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  (22 Jun  14:48)
-,Last Modified Accc,2026-05-26T16:57:51+10:00  →  2026-06-22T13:23:22+10:00  (22 Jun  14:48)
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (22 Jun  14:48)"
-,,
+"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
 ,Last Modified Accc,2026-06-15T15:11:02+10:00  →  2026-06-22T11:49:49+10:00  (22 Jun  22:11)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 Jun  22:11)
@@ -196,4 +178,10 @@ NEW ENTRIES (31),Case Number,Detected (AEST)
 ,End Of Determination Period,26 Aug 2026  →  23 Sep 2026  (26 Jun  19:33)
 ,Last Modified Accc,2026-05-25T18:09:58+10:00  →  2026-06-26T16:38:32+10:00  (26 Jun  19:33)
 ,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (26 Jun  19:33)"
+,,
+~ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
+,Targets,Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 4202720  →  BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard   (29 Jun  14:15)
+,Last Modified Accc,2026-06-19T10:49:39+10:00  →  2026-06-26T09:46:48+10:00  (29 Jun  14:15)
+,Consultation Text,The ACCC has prepared a questionnaire on the Merger. The ACCC has prepared a que  →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jun  14:15)
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (29 Jun  14:15)"
 ,,
