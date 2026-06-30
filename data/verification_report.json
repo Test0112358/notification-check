@@ -96,9 +96,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa",
-    "title": "National Dental Care – business assets comprising the Cambridge Dental Centre clinic, Perth, WA",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa",
+    "slug": "australian-venue-co-leasehold-and-assets-of-brabham-tavern-wa",
+    "title": "Australian Venue Co - leasehold and assets of Brabham Tavern, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-leasehold-and-assets-of-brabham-tavern-wa",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "jardines-i-med",
+    "title": "Jardines - I-MED",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/jardines-i-med",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
