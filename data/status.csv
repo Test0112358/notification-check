@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-30 03:57:25.341523,
-Last scrape run (AEST),30 Jun 2026  13:57,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-30 09:43:11.845912,
+Last scrape run (AEST),30 Jun 2026  19:43,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,395,
-New entries this run,1,
-Changed entries this run,2,
+Total entries monitored,401,
+New entries this run,6,
+Changed entries this run,5,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,24 +13,54 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
+NEW ENTRIES (6),Case Number,URL
++ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
++ GPS Energy – Ryowa's interest in Gladstone Power Station Joint Venture,WA-35027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gps-energy-%E2%80%93-ryowas-interest-in-gladstone-power-station-joint-venture
++ Oakley Capital – XTEL,WA-01108,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oakley-capital-%E2%80%93-xtel
++ Airtree – HotDoc,WA-40028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0
+"+ Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",WA-25028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne
++ Bain Capital – Perpetual Wealth Management Group,WA-80022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-perpetual-wealth-management-group
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
-,Last Modified Accc,2026-06-22T15:37:14+10:00  →  2026-06-29T15:30:33+10:00
+CHANGED ENTRIES (5),Field changed,Old value  →  New value
+~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
+,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility Greenslopes', 'url':  →  "
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire', 'url': 'https://www.  →  "
 ,,
-~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
-,Acquirers,E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  →  ADBRI PTY LIMITED; 15 007 596 018
-,Other Parties,ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT C  →  INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008
-,Last Modified Accc,2026-06-25T16:25:39+10:00  →  2026-06-30T11:02:38+10:00
+~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
+,Last Modified Accc,2026-06-23T16:51:53+10:00  →  2026-06-30T13:51:17+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Regis Resources – Vault Minerals - Third party questionnair  →  "
+,,
+~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,15 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  30 June 2026
+,Acquirers,Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200; SMG-Three LLC; DDC -  →  SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Orion BidCo LLC; DDC -
+,Other Parties,"Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; National Exhibition Centre   →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Candle Media LLC; DDC - 611"
+,Last Modified Accc,2026-06-10T17:15:56+10:00  →  2026-06-30T14:15:39+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '30 Jun 2026', 'description': 'Sony Music - Recognition Music - Phase 1 Determination', 'u"
+,,
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE 
+,Anzsic Codes,  →  0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Co
+,Last Modified Accc,2026-06-15T09:42:20+10:00  →  2026-06-30T17:31:23+10:00
+,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form "
+,Consultation Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials bus"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,End Of Determination Period,2 Jul 2026  →  6 Nov 2026
+,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; M  →  TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobi
+,Last Modified Accc,2026-06-22T13:23:22+10:00  →  2026-06-30T16:55:54+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
+NEW ENTRIES (26),Case Number,Detected (AEST)
 + Coles – supermarket site in Coffs Harbour (NSW),MN-70022,23 Jun  19:47
 + Regis Resources - Vault Minerals,MN-65020,23 Jun  19:47
 + Carlyle – CHN Group,WA-95024,23 Jun  19:47
@@ -56,8 +86,9 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + INNIO Group – Enerflex,MN-80021,29 Jun  21:06
 + Bupa – Barings Australian Private Credit Fund,WA-20025,29 Jun  21:06
 + MLPL HoldCo – shares in Marinus Link Pty Ltd,WA-70023,29 Jun  21:06
++ Amazon – Globalstar,MN-50025,30 Jun  13:57
 ,,
-"CHANGED ENTRIES (17 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (18 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
 ,Last Modified Accc,2026-06-16T16:47:04+10:00  →  2026-06-23T16:00:02+10:00  (23 Jun  19:47)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (23 Jun  19:47)
@@ -123,6 +154,9 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-18T11:32:56+10:00  →  2026-06-25T16:25:39+10:00  (25 Jun  19:31)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  19:31)
 ,Consultation Docs,"[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete  →    (25 Jun  19:31)"
+,Acquirers,E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  →  ADBRI PTY LIMITED; 15 007 596 018  (30 Jun  13:57)
+,Other Parties,ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  →  INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRE  (30 Jun  13:57)
+,Last Modified Accc,2026-06-25T16:25:39+10:00  →  2026-06-30T11:02:38+10:00  (30 Jun  13:57)
 ,,
 ~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
 ,Acquisition Status,Under assessment  →  Assessment completed  (25 Jun  19:31)
@@ -178,4 +212,9 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,End Of Determination Period,15 Jul 2026  →  21 Jul 2026  (29 Jun  21:06)
 ,Last Modified Accc,2026-06-11T10:02:59+10:00  →  2026-06-29T15:41:02+10:00  (29 Jun  21:06)
 ,Decisions Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   (29 Jun  21:06)"
+,,
+~ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
+,Last Modified Accc,2026-06-22T15:37:14+10:00  →  2026-06-29T15:30:33+10:00  (30 Jun  13:57)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  13:57)
+,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility   →    (30 Jun  13:57)"
 ,,

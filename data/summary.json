@@ -1,32 +1,26 @@
 {
-  "generated_at_utc": "2026-06-30T04:13:06.584713Z",
-  "total_entries": 395,
+  "generated_at_utc": "2026-06-30T09:57:44.736904Z",
+  "total_entries": 401,
   "by_acquisition_status": {
     "Under assessment": 37,
-    "Assessment completed": 357,
+    "Assessment completed": 363,
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 148,
-    "Waiver application": 242,
+    "Phase 1 - initial assessment": 149,
+    "Waiver application": 247,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 153,
-    "Waiver": 242
+    "Notification": 154,
+    "Waiver": 247
   },
   "by_accc_determination": {
-    "Approved": 342,
+    "Approved": 348,
     "Not approved": 14,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "trescal-%E2%80%93-tr-calibration",
-      "title": "Trescal – TR Calibration",
-      "end_of_determination_period": "2 Jul 2026",
-      "days_remaining": 2
-    },
     {
       "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
       "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",

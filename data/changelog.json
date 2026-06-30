@@ -21488,5 +21488,223 @@
         "new": "2026-06-30T11:02:38+10:00"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "hapag-lloyd-zim",
+    "title": "Hapag-Lloyd - ZIM",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "autodesk-maintainx",
+    "title": "Autodesk - MaintainX",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-24T16:09:49+10:00",
+        "new": "2026-06-30T16:17:51+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 26 June 2026 via email to mergers@accc.gov.au with the title Submission re: Autodesk - MaintainX. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 19 Jun 2026 Autodesk - MaintainX - Questionnaire Attachment 107 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Autodesk%20-%20MaintainX%20-%20Questionnaire_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "regis-resources-vault-minerals",
+    "title": "Regis Resources - Vault Minerals",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-23T16:51:53+10:00",
+        "new": "2026-06-30T13:51:17+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 30 June 2026 via email to mergers@accc.gov.au with the title Submission re: Regis Resources – Vault Minerals. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 23 Jun 2026 Regis Resources – Vault Minerals - Third party questionnaire Attachment 116.51 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '23 Jun 2026', 'description': 'Regis Resources – Vault Minerals - Third party questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Regis-Vault%20-%20Third%20party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "gps-energy-%E2%80%93-ryowas-interest-in-gladstone-power-station-joint-venture",
+    "title": "GPS Energy – Ryowa's interest in Gladstone Power Station Joint Venture",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gps-energy-%E2%80%93-ryowas-interest-in-gladstone-power-station-joint-venture",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "oakley-capital-%E2%80%93-xtel",
+    "title": "Oakley Capital – XTEL",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oakley-capital-%E2%80%93-xtel",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "airtree-%E2%80%93-hotdoc-0",
+    "title": "Airtree – HotDoc",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
+    "title": "Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "bain-capital-%E2%80%93-perpetual-wealth-management-group",
+    "title": "Bain Capital – Perpetual Wealth Management Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-perpetual-wealth-management-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "sony-music-recognition-music",
+    "title": "Sony Music - Recognition Music",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "15 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "30 June 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200; SMG-Three LLC; DDC - 10277876",
+        "new": "SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Orion BidCo LLC; DDC - 10608976"
+      },
+      {
+        "field": "other_parties",
+        "old": "Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; National Exhibition Centre Limited; CRN - 00979395; Candle Media LLC; DDC - 6119562",
+        "new": "Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Candle Media LLC; DDC - 6119562; National Exhibition Centre Limited; CRN - 00979395"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-10T17:15:56+10:00",
+        "new": "2026-06-30T14:15:39+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '30 Jun 2026', 'description': 'Sony Music - Recognition Music - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sony%20Music%20-%20Recognition%20Music%20-%20Phase%201%20Determination_0.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277",
+        "new": "MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699"
+      },
+      {
+        "field": "anzsic_codes",
+        "old": "",
+        "new": "0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Coal Product Manufacturing; 2033 Ready-Mixed Concrete Manufacturing; 2921 Waste Treatment and Disposal Services; 2922 Waste Remediation and Materials Recovery Services; 6925 Scientific Testing and Analysis Services"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-15T09:42:20+10:00",
+        "new": "2026-06-30T17:31:23+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": "On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form of undertakings pursuant to s87B of the Competition and Consumer Act 2010 (Cth On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form of undertakings pursuant to s87B of the Competition and Consumer Act 2010 (Cth), to divest its Blackwater RMX plant, its Yalkara hard rock quarry, its North Wollongong RMX plant, and its Bass Point RMX plant (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 7 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: HMA – MAAS – Remedy offer. read more 29 Jun 2026 Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer Attachment 3.26 MB 29 Jun 2026 Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer Attachment 110.25 KB"
+      },
+      {
+        "field": "consultation_docs",
+        "old": "",
+        "new": "[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Remedy%20Offer%20-%2029%20June%202026_0.pdf'}, {'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA%20MAAS%20-%20Questionnaire%20re%3A%20Remedy%20Offer%20%2829%20June%202026%29_0.docx'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-30T09:43:11.845912Z",
+    "slug": "trescal-%E2%80%93-tr-calibration",
+    "title": "Trescal – TR Calibration",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "2 Jul 2026",
+        "new": "6 Nov 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; The Trustee for ASG Exical Unit Trust; 57 818 350 085; TRESCAL HOLDING PTY LTD; 35 633 411 391",
+        "new": "TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-22T13:23:22+10:00",
+        "new": "2026-06-30T16:55:54+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}]",
+        "new": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026.pdf'}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]

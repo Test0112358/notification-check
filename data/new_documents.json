@@ -1,18 +1,30 @@
 {
-  "run_utc": "2026-06-30T03:57:25.341523Z",
-  "questionnaire_count": 1,
+  "run_utc": "2026-06-30T09:43:11.845912Z",
+  "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "amazon-%E2%80%93-globalstar",
-      "title": "Amazon – Globalstar",
-      "case_number": "MN-50025",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
+      "slug": "hapag-lloyd-zim",
+      "title": "Hapag-Lloyd - ZIM",
+      "case_number": "MN-65022",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim",
       "date": "30 Jun 2026",
-      "description": "Questionnaire - Amazon-Globalstar",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Amazon-Globalstar%20-%20Phase%201%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Amazon-Globalstar - Phase 1 questionnaire.docx",
-      "filename": "Amazon-Globalstar - Phase 1 questionnaire.docx",
-      "size_kb": 113.2
+      "description": "Questionnaire - Hapag-Lloyd - ZIM",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Hapag-Lloyd%20-%20ZIM.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Hapag-Lloyd - ZIM.docx",
+      "filename": "Questionnaire - Hapag-Lloyd - ZIM.docx",
+      "size_kb": 116.0
+    },
+    {
+      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+      "case_number": "MN-50009",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+      "date": "29 Jun 2026",
+      "description": "Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/HMA%20MAAS%20-%20Questionnaire%20re%3A%20Remedy%20Offer%20%2829%20June%202026%29_0.docx",
+      "local_path": "data/consultation_docs/HMA MAAS - Questionnaire re_ Remedy Offer _29 June 2026__0.docx",
+      "filename": "HMA MAAS - Questionnaire re_ Remedy Offer _29 June 2026__0.docx",
+      "size_kb": 110.2
     }
   ]
 }
