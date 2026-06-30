@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-06-29T11:24:50.938152Z",
-  "total_entries": 394,
+  "generated_at_utc": "2026-06-30T04:13:06.584713Z",
+  "total_entries": 395,
   "by_acquisition_status": {
-    "Under assessment": 36,
+    "Under assessment": 37,
     "Assessment completed": 357,
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 147,
+    "Phase 1 - initial assessment": 148,
     "Waiver application": 242,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 152,
+    "Notification": 153,
     "Waiver": 242
   },
   "by_accc_determination": {
@@ -25,25 +25,25 @@
       "slug": "trescal-%E2%80%93-tr-calibration",
       "title": "Trescal – TR Calibration",
       "end_of_determination_period": "2 Jul 2026",
-      "days_remaining": 3
+      "days_remaining": 2
     },
     {
       "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
       "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
       "end_of_determination_period": "2 Jul 2026",
-      "days_remaining": 3
+      "days_remaining": 2
     },
     {
       "slug": "logic-technologies-ace-communication-distributors",
       "title": "Logic Technologies - Ace Communication Distributors",
       "end_of_determination_period": "6 Jul 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "saipem-subsea7",
       "title": "Saipem - Subsea7",
       "end_of_determination_period": "6 Jul 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     }
   ]
 }

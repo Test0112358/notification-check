@@ -1,72 +1,57 @@
 {
-  "run_utc": "2026-06-29T11:06:51.956866Z",
-  "new_count": 4,
+  "run_utc": "2026-06-30T03:57:25.341523Z",
+  "new_count": 1,
   "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "wsp-geotechnical-testing-and-interpretation",
-      "title": "WSP / GEOTECHNICAL TESTING AND INTERPRETATION",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation"
-    },
-    {
-      "slug": "innio-group-%E2%80%93-enerflex-0",
-      "title": "INNIO Group – Enerflex",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0"
-    },
-    {
-      "slug": "bupa-%E2%80%93-barings-australian-private-credit-fund",
-      "title": "Bupa – Barings Australian Private Credit Fund",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bupa-%E2%80%93-barings-australian-private-credit-fund"
-    },
-    {
-      "slug": "mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd",
-      "title": "MLPL HoldCo – shares in Marinus Link Pty Ltd",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd"
+      "slug": "amazon-%E2%80%93-globalstar",
+      "title": "Amazon – Globalstar",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar"
     }
   ],
   "changed_entries": [
     {
-      "slug": "endeavour-group-retail-liquor-site-in-avalon-nsw",
-      "title": "Endeavour Group - retail liquor site in Avalon, NSW",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw",
+      "slug": "genea-care-fertility-greenslopes",
+      "title": "Genea - Care Fertility Greenslopes",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes",
       "changes": [
         {
           "field": "last_modified_accc",
-          "old": "2026-06-22T15:42:35+10:00",
-          "new": "2026-06-29T16:29:24+10:00"
+          "old": "2026-06-22T15:37:14+10:00",
+          "new": "2026-06-29T15:30:33+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 June 2026 via email to mergers@accc.gov.au with the title Submission re: Endeavour Group – retail liquor site in Avalon, NSW. read more 22 Jun 2026 Endeavour Group - retail liquor site in Avalon, NSW - Questionnaire Attachment 108.33 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Monday 29 June 2026 via email to mergers@accc.gov.au with the title Submission Re: Genea - Care Fertility Greenslopes. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jun 2026 Questionnaire - Genea - Care Fertility Greenslopes Attachment 116.58 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '22 Jun 2026', 'description': 'Endeavour Group - retail liquor site in Avalon, NSW - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20%E2%80%93%20retail%20liquor%20site%20in%20Avalon%2C%20NSW%20-%20questionnaire%20-%2022%20June%202026.docx'}]",
+          "old": "[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility Greenslopes', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Genea%20-%20Care%20Fertility%20Greenslopes%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
-      "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+      "slug": "adbri-eureka-concrete",
+      "title": "Adbri - Eureka Concrete",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
       "changes": [
         {
-          "field": "end_of_determination_period",
-          "old": "15 Jul 2026",
-          "new": "21 Jul 2026"
+          "field": "acquirers",
+          "old": "E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617",
+          "new": "ADBRI PTY LIMITED; 15 007 596 018"
+        },
+        {
+          "field": "other_parties",
+          "old": "ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520",
+          "new": "INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-11T10:02:59+10:00",
-          "new": "2026-06-29T15:41:02+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by parties', 'url': ''}]"
+          "old": "2026-06-25T16:25:39+10:00",
+          "new": "2026-06-30T11:02:38+10:00"
         }
       ]
     }

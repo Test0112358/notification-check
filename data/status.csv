@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-29 11:06:51.956866,
-Last scrape run (AEST),29 Jun 2026  21:06,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-06-30 03:57:25.341523,
+Last scrape run (AEST),30 Jun 2026  13:57,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,394,
-New entries this run,4,
+Total entries monitored,395,
+New entries this run,1,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,39 +13,24 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ WSP / GEOTECHNICAL TESTING AND INTERPRETATION,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
-+ INNIO Group – Enerflex,MN-80021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0
-+ Bupa – Barings Australian Private Credit Fund,WA-20025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bupa-%E2%80%93-barings-australian-private-credit-fund
-+ MLPL HoldCo – shares in Marinus Link Pty Ltd,WA-70023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd
+NEW ENTRIES (1),Case Number,URL
++ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-"~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
-,Last Modified Accc,2026-06-22T15:42:35+10:00  →  2026-06-29T16:29:24+10:00
+~ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
+,Last Modified Accc,2026-06-22T15:37:14+10:00  →  2026-06-29T15:30:33+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Endeavour Group - retail liquor site in Avalon, NSW - Quest  →  "
+,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility Greenslopes', 'url':  →  "
 ,,
-~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
-,End Of Determination Period,15 Jul 2026  →  21 Jul 2026
-,Last Modified Accc,2026-06-11T10:02:59+10:00  →  2026-06-29T15:41:02+10:00
-,Decisions Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by"
+~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+,Acquirers,E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  →  ADBRI PTY LIMITED; 15 007 596 018
+,Other Parties,ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT C  →  INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008
+,Last Modified Accc,2026-06-25T16:25:39+10:00  →  2026-06-30T11:02:38+10:00
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (33),Case Number,Detected (AEST)
-"+ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,22 Jun  22:11
-+ Genea - Care Fertility Greenslopes,MN-01104,22 Jun  22:11
-+ River Capital – YOMG,WA-25032,22 Jun  22:11
-"+ Australian Venue Co - leasehold and assets of Brabham Tavern, WA",WA-75026,22 Jun  22:11
-+ MA Financial Group (Redcape Fund) – The Arthouse Hotel,WA-25027,22 Jun  22:11
-+ American Industrial Partners – Honeywell’s Warehouse and Workflow Solutions business,WA-15023,22 Jun  22:11
-+ Shape Australia – Australian Professional Shopfitters,WA-40025,22 Jun  22:11
-+ Bingo Industries - JLW Services,WA-15021,22 Jun  22:11
-"+ Metcash - Foodland Flagstaff Hill, South Australia",WA-35023,22 Jun  22:11
-+ M&G Asia Property Fund – Stockland Coopers Paddock and Willawong Distribution Centre,WA-75025,22 Jun  22:11
-+ Hexagon - Waygate Technologies,WA-35022,22 Jun  22:11
-+ Imagine Education – childcare centres ownership restructure,WA-80019,22 Jun  22:11
+NEW ENTRIES (25),Case Number,Detected (AEST)
 + Coles – supermarket site in Coffs Harbour (NSW),MN-70022,23 Jun  19:47
 + Regis Resources - Vault Minerals,MN-65020,23 Jun  19:47
 + Carlyle – CHN Group,WA-95024,23 Jun  19:47
@@ -67,13 +52,12 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 + Apax Partners LLP – Sedex Information Exchange Limited,WA-45017,26 Jun  19:33
 + Midea - Residentia Group,MN-01106,29 Jun  14:15
 + OpenAI - Ona,MN-90020,29 Jun  14:15
++ WSP / GEOTECHNICAL TESTING AND INTERPRETATION,MN-01107,29 Jun  21:06
++ INNIO Group – Enerflex,MN-80021,29 Jun  21:06
++ Bupa – Barings Australian Private Credit Fund,WA-20025,29 Jun  21:06
++ MLPL HoldCo – shares in Marinus Link Pty Ltd,WA-70023,29 Jun  21:06
 ,,
-"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
-,Last Modified Accc,2026-06-15T15:11:02+10:00  →  2026-06-22T11:49:49+10:00  (22 Jun  22:11)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 Jun  22:11)
-,Consultation Docs,"[{'date': '15 Jun 2026', 'description': 'Questionnaire - Service Stream - RiE',   →    (22 Jun  22:11)"
-,,
+"CHANGED ENTRIES (17 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
 ,Last Modified Accc,2026-06-16T16:47:04+10:00  →  2026-06-23T16:00:02+10:00  (23 Jun  19:47)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (23 Jun  19:47)
@@ -184,4 +168,14 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-19T10:49:39+10:00  →  2026-06-26T09:46:48+10:00  (29 Jun  14:15)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Merger. The ACCC has prepared a que  →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jun  14:15)
 ,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (29 Jun  14:15)"
+,,
+"~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
+,Last Modified Accc,2026-06-22T15:42:35+10:00  →  2026-06-29T16:29:24+10:00  (29 Jun  21:06)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jun  21:06)
+,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Endeavour Group - retail liquor site in  →    (29 Jun  21:06)"
+,,
+~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
+,End Of Determination Period,15 Jul 2026  →  21 Jul 2026  (29 Jun  21:06)
+,Last Modified Accc,2026-06-11T10:02:59+10:00  →  2026-06-29T15:41:02+10:00  (29 Jun  21:06)
+,Decisions Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   (29 Jun  21:06)"
 ,,
