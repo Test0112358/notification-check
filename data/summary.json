@@ -1,43 +1,37 @@
 {
-  "generated_at_utc": "2026-06-30T09:57:44.736904Z",
-  "total_entries": 401,
+  "generated_at_utc": "2026-07-01T04:31:30.055760Z",
+  "total_entries": 404,
   "by_acquisition_status": {
-    "Under assessment": 37,
-    "Assessment completed": 363,
+    "Under assessment": 39,
+    "Assessment completed": 364,
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 149,
+    "Phase 1 - initial assessment": 152,
     "Waiver application": 247,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 154,
+    "Notification": 157,
     "Waiver": 247
   },
   "by_accc_determination": {
     "Approved": 348,
-    "Not approved": 14,
+    "Not approved": 15,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
-      "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
-      "end_of_determination_period": "2 Jul 2026",
-      "days_remaining": 2
-    },
-    {
       "slug": "logic-technologies-ace-communication-distributors",
       "title": "Logic Technologies - Ace Communication Distributors",
       "end_of_determination_period": "6 Jul 2026",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "slug": "saipem-subsea7",
       "title": "Saipem - Subsea7",
       "end_of_determination_period": "6 Jul 2026",
-      "days_remaining": 6
+      "days_remaining": 5
     }
   ]
 }

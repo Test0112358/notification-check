@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-06-30 09:43:11.845912,
-Last scrape run (AEST),30 Jun 2026  19:43,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-01 04:12:24.323777,
+Last scrape run (AEST),01 Jul 2026  14:12,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,401,
-New entries this run,6,
-Changed entries this run,5,
+Total entries monitored,404,
+New entries this run,3,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,58 +13,35 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (6),Case Number,URL
-+ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
-+ GPS Energy – Ryowa's interest in Gladstone Power Station Joint Venture,WA-35027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/gps-energy-%E2%80%93-ryowas-interest-in-gladstone-power-station-joint-venture
-+ Oakley Capital – XTEL,WA-01108,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oakley-capital-%E2%80%93-xtel
-+ Airtree – HotDoc,WA-40028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0
-"+ Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",WA-25028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne
-+ Bain Capital – Perpetual Wealth Management Group,WA-80022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-perpetual-wealth-management-group
+NEW ENTRIES (3),Case Number,URL
++ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
++ SpaceX - Anysphere,MN-85036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere
++ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
 ,,
-CHANGED ENTRIES (5),Field changed,Old value  →  New value
-~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
-,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
+,Last Modified Accc,2026-06-23T17:10:58+10:00  →  2026-07-01T12:56:15+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire', 'url': 'https://www.  →  "
-,,
-~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
-,Last Modified Accc,2026-06-23T16:51:53+10:00  →  2026-06-30T13:51:17+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Regis Resources – Vault Minerals - Third party questionnair  →  "
-,,
-~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,15 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  30 June 2026
-,Acquirers,Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200; SMG-Three LLC; DDC -  →  SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Orion BidCo LLC; DDC -
-,Other Parties,"Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; National Exhibition Centre   →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Candle Media LLC; DDC - 611"
-,Last Modified Accc,2026-06-10T17:15:56+10:00  →  2026-06-30T14:15:39+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '30 Jun 2026', 'description': 'Sony Music - Recognition Music - Phase 1 Determination', 'u"
-,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE 
-,Anzsic Codes,  →  0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Other Petroleum and Co
-,Last Modified Accc,2026-06-15T09:42:20+10:00  →  2026-06-30T17:31:23+10:00
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form "
-,Consultation Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials bus"
+,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
 ,,
 ~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,End Of Determination Period,2 Jul 2026  →  6 Nov 2026
-,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; M  →  TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobi
-,Last Modified Accc,2026-06-22T13:23:22+10:00  →  2026-06-30T16:55:54+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Other Parties,TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobi  →  The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819
+,Last Modified Accc,2026-06-30T16:55:54+10:00  →  2026-07-01T10:15:46+10:00
 ,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
+,,
+"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,2 Jul 2026  →  
+,Accc Determination,  →  Not approved
+,Determination Publication Date,  →  1 July 2026
+,Last Modified Accc,2026-05-26T17:27:32+10:00  →  2026-06-30T19:55:07+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con  →  
+,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request fo  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reasons', 'url': 'https:"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (26),Case Number,Detected (AEST)
-+ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,23 Jun  19:47
-+ Regis Resources - Vault Minerals,MN-65020,23 Jun  19:47
-+ Carlyle – CHN Group,WA-95024,23 Jun  19:47
-+ Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership,WA-05026,23 Jun  19:47
+NEW ENTRIES (28),Case Number,Detected (AEST)
 + Gunvor Group – ZEN Energy Retail Holdings,WA-15025,24 Jun  19:37
 + Tasmea - Maxim,WA-85031,24 Jun  19:37
 + B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting,WA-05024,24 Jun  19:37
@@ -87,17 +64,21 @@ NEW ENTRIES (26),Case Number,Detected (AEST)
 + Bupa – Barings Australian Private Credit Fund,WA-20025,29 Jun  21:06
 + MLPL HoldCo – shares in Marinus Link Pty Ltd,WA-70023,29 Jun  21:06
 + Amazon – Globalstar,MN-50025,30 Jun  13:57
++ Hapag-Lloyd - ZIM,MN-65022,30 Jun  19:43
++ GPS Energy – Ryowa's interest in Gladstone Power Station Joint Venture,WA-35027,30 Jun  19:43
++ Oakley Capital – XTEL,WA-01108,30 Jun  19:43
++ Airtree – HotDoc,WA-40028,30 Jun  19:43
+"+ Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",WA-25028,30 Jun  19:43
++ Bain Capital – Perpetual Wealth Management Group,WA-80022,30 Jun  19:43
 ,,
-"CHANGED ENTRIES (18 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
-~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
-,Last Modified Accc,2026-06-16T16:47:04+10:00  →  2026-06-23T16:00:02+10:00  (23 Jun  19:47)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (23 Jun  19:47)
-,Consultation Docs,"[{'date': '16 Jun 2026', 'description': 'Questionnaire - Transocean - Valaris',   →    (23 Jun  19:47)"
-,,
+"CHANGED ENTRIES (21 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
 ,Notification Date,19 June 2026  →  23 June 2026  (24 Jun  19:37)
 ,End Of Determination Period,31 Jul 2026  →  4 Aug 2026  (24 Jun  19:37)
 ,Last Modified Accc,2026-06-19T16:19:51+10:00  →  2026-06-24T16:09:49+10:00  (24 Jun  19:37)
+,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00  (30 Jun  19:43)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  19:43)
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire',   →    (30 Jun  19:43)"
 ,,
 ~ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
 ,Last Modified Accc,2026-06-16T14:24:36+10:00  →  2026-06-23T16:17:33+10:00  (24 Jun  19:37)
@@ -217,4 +198,34 @@ NEW ENTRIES (26),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-22T15:37:14+10:00  →  2026-06-29T15:30:33+10:00  (30 Jun  13:57)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  13:57)
 ,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility   →    (30 Jun  13:57)"
+,,
+~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
+,Last Modified Accc,2026-06-23T16:51:53+10:00  →  2026-06-30T13:51:17+10:00  (30 Jun  19:43)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (30 Jun  19:43)
+,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Regis Resources – Vault Minerals - Thir  →    (30 Jun  19:43)"
+,,
+~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
+,Acquisition Status,Under assessment  →  Assessment completed  (30 Jun  19:43)
+,End Of Determination Period,15 Jul 2026  →    (30 Jun  19:43)
+,Accc Determination,  →  Approved  (30 Jun  19:43)
+,Determination Publication Date,  →  30 June 2026  (30 Jun  19:43)
+,Acquirers,Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200;   →  SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Or  (30 Jun  19:43)
+,Other Parties,"Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Nationa  →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Candle   (30 Jun  19:43)"
+,Last Modified Accc,2026-06-10T17:15:56+10:00  →  2026-06-30T14:15:39+10:00  (30 Jun  19:43)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (30 Jun  19:43)
+,Decisions Docs,"  →  [{'date': '30 Jun 2026', 'description': 'Sony Music - Recognition Music - Phase   (30 Jun  19:43)"
+,,
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074  (30 Jun  19:43)
+,Anzsic Codes,  →  0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Ot  (30 Jun  19:43)
+,Last Modified Accc,2026-06-15T09:42:20+10:00  →  2026-06-30T17:31:23+10:00  (30 Jun  19:43)
+,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to t  (30 Jun  19:43)"
+,Consultation Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Constr  (30 Jun  19:43)"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,End Of Determination Period,2 Jul 2026  →  6 Nov 2026  (30 Jun  19:43)
+,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  →  TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust;   (30 Jun  19:43)
+,Last Modified Accc,2026-06-22T13:23:22+10:00  →  2026-06-30T16:55:54+10:00  (30 Jun  19:43)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (30 Jun  19:43)
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (30 Jun  19:43)"
 ,,
