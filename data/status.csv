@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-01 04:12:24.323777,
-Last scrape run (AEST),01 Jul 2026  14:12,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-01 09:54:37.875097,
+Last scrape run (AEST),01 Jul 2026  19:54,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,404,
-New entries this run,3,
-Changed entries this run,3,
+Total entries monitored,409,
+New entries this run,5,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,39 +13,28 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
-+ SpaceX - Anysphere,MN-85036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere
-+ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
+NEW ENTRIES (5),Case Number,URL
++ Hewitt – Nolan Meats,MN-35018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats
++ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio
++ Count – Oracle Group,WA-45018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/count-%E2%80%93-oracle-group
++ Warburg Pincus – Commercial Credit Holdings Limited,WA-25030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-commercial-credit-holdings-limited
++ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
-,Last Modified Accc,2026-06-23T17:10:58+10:00  →  2026-07-01T12:56:15+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Other Parties,TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobi  →  The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819
-,Last Modified Accc,2026-06-30T16:55:54+10:00  →  2026-07-01T10:15:46+10:00
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-06-26T08:59:43+10:00  →  2026-07-01T16:46:07+10:00
+,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s"
+,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url': 'https://www.accc.  →  "
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
 ,,
 "~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,2 Jul 2026  →  
-,Accc Determination,  →  Not approved
-,Determination Publication Date,  →  1 July 2026
-,Last Modified Accc,2026-05-26T17:27:32+10:00  →  2026-06-30T19:55:07+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con  →  
-,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request fo  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reasons', 'url': 'https:"
+,Last Modified Accc,2026-06-30T19:55:07+10:00  →  2026-07-01T18:32:20+10:00
+,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reasons', 'url': 'https:  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'http"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (28),Case Number,Detected (AEST)
-+ Gunvor Group – ZEN Energy Retail Holdings,WA-15025,24 Jun  19:37
-+ Tasmea - Maxim,WA-85031,24 Jun  19:37
-+ B.M.D. Holdings – Bajara Plant Hire and Stirling Contracting,WA-05024,24 Jun  19:37
-+ Aula Energy – Additional interest in the Boulder Creek Wind Farm,WA-70021,24 Jun  19:37
+NEW ENTRIES (27),Case Number,Detected (AEST)
 + AkzoNobel - Axalta,MN-50024,25 Jun  19:31
 + Bain Capital – FDH,WA-25033,25 Jun  19:31
 + Warburg Pincus – JSB,WA-10019,25 Jun  19:31
@@ -70,52 +59,11 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 + Airtree – HotDoc,WA-40028,30 Jun  19:43
 "+ Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",WA-25028,30 Jun  19:43
 + Bain Capital – Perpetual Wealth Management Group,WA-80022,30 Jun  19:43
++ KINETIC - DYSONS BUS SERVICES,MN-35017,01 Jul  14:12
++ SpaceX - Anysphere,MN-85036,01 Jul  14:12
++ Stonepeak-led consortium - Estia Health,MN-50026,01 Jul  14:12
 ,,
-"CHANGED ENTRIES (21 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
-,Notification Date,19 June 2026  →  23 June 2026  (24 Jun  19:37)
-,End Of Determination Period,31 Jul 2026  →  4 Aug 2026  (24 Jun  19:37)
-,Last Modified Accc,2026-06-19T16:19:51+10:00  →  2026-06-24T16:09:49+10:00  (24 Jun  19:37)
-,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00  (30 Jun  19:43)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  19:43)
-,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire',   →    (30 Jun  19:43)"
-,,
-~ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
-,Last Modified Accc,2026-06-16T14:24:36+10:00  →  2026-06-23T16:17:33+10:00  (24 Jun  19:37)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (24 Jun  19:37)
-,Consultation Docs,"[{'date': '16 Jun 2026', 'description': 'Questionnaire - CSR-Complete Plaster',   →    (24 Jun  19:37)"
-,,
-~ Precision Poultry - VOAG chicken farming operations,MN-35019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations
-,Acquisition Status,Under assessment  →  Assessment completed  (24 Jun  19:37)
-,End Of Determination Period,15 Jul 2026  →    (24 Jun  19:37)
-,Accc Determination,  →  Approved  (24 Jun  19:37)
-,Determination Publication Date,  →  24 June 2026  (24 Jun  19:37)
-,Targets,VOAG 4 PTY LTD; 606 447 572; VOAG 2 PTY LTD; 33 606 445 747; VOAG PTY LTD; 84 60  →  VOAG 6 PTY LTD; 75 606 446 735; VOAG PTY LTD; 84 606 381 597; VOAG 2 PTY LTD; 33  (24 Jun  19:37)
-,Last Modified Accc,2026-06-15T08:30:34+10:00  →  2026-06-24T09:25:08+10:00  (24 Jun  19:37)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (24 Jun  19:37)
-,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Precision Poultry - VOAG chicken farmin  (24 Jun  19:37)"
-,,
-~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
-,Acquisition Status,Under assessment  →  Assessment completed  (24 Jun  19:37)
-,End Of Determination Period,26 Jun 2026  →    (24 Jun  19:37)
-,Accc Determination,  →  Approved  (24 Jun  19:37)
-,Determination Publication Date,  →  24 June 2026  (24 Jun  19:37)
-,Targets,ENGAGE MARINE HOLDINGS PTY LTD; 99 626 774 678; ENGAGE MARINE TOPCO PTY LTD; 46   →  ENGAGE MARINE FINCO PTY LTD; 25 675 999 283; ENGAGE MARINE HOLDINGS PTY LTD; 99   (24 Jun  19:37)
-,Other Parties,AUSTRALIAN GLOBAL MARINE AND LOGISTICS PTY LTD; 68 682 427 587; AUSTRALIAN GLOBA  →  Australian Global Onshore Logistics Pty Ltd; 691 961 136; AUSTRALIAN GLOBAL MARI  (24 Jun  19:37)
-,Last Modified Accc,2026-05-25T11:10:23+10:00  →  2026-06-24T17:31:20+10:00  (24 Jun  19:37)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (24 Jun  19:37)
-,Decisions Docs,"  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (24 Jun  19:37)"
-,Last Modified Accc,2026-06-24T17:31:20+10:00  →  2026-06-24T21:50:17+10:00  (25 Jun  13:55)
-,Decisions Docs,"[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (25 Jun  13:55)"
-,,
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-05-14T12:37:44+10:00  →  2026-06-24T11:28:06+10:00  (24 Jun  19:37)
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (24 Jun  19:37)"
-,Consultation Docs,"  →  [{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  (24 Jun  19:37)"
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (24 Jun  19:37)"
-,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00  (26 Jun  14:02)
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (26 Jun  14:02)"
-,,
+"CHANGED ENTRIES (21 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
 ,Other Parties,TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Dist  →  KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pt  (25 Jun  13:55)
 ,Last Modified Accc,2026-06-17T14:28:41+10:00  →  2026-06-25T09:32:12+10:00  (25 Jun  13:55)
@@ -128,6 +76,10 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-17T11:54:30+10:00  →  2026-06-25T09:55:33+10:00  (25 Jun  13:55)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  13:55)
 ,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (25 Jun  13:55)"
+,,
+~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
+,Last Modified Accc,2026-06-24T17:31:20+10:00  →  2026-06-24T21:50:17+10:00  (25 Jun  13:55)
+,Decisions Docs,"[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (25 Jun  13:55)"
 ,,
 ~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
 ,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  (25 Jun  19:31)
@@ -156,6 +108,10 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-05T14:53:21+10:00  →  2026-06-25T15:58:53+10:00  (25 Jun  19:31)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Jun  19:31)
 ,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Denta  (25 Jun  19:31)"
+,,
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00  (26 Jun  14:02)
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (26 Jun  14:02)"
 ,,
 ~ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
 ,Targets,The Trustee for Katherine Park Holding Trust; 61 521 863 718; The Trustee for TH  →  The Trustee for Katherine Park Trust; 52 233 936 018; The Trustee for THE F DAVI  (26 Jun  19:33)
@@ -199,6 +155,11 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  13:57)
 ,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility   →    (30 Jun  13:57)"
 ,,
+~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
+,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00  (30 Jun  19:43)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  19:43)
+,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire',   →    (30 Jun  19:43)"
+,,
 ~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
 ,Last Modified Accc,2026-06-23T16:51:53+10:00  →  2026-06-30T13:51:17+10:00  (30 Jun  19:43)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (30 Jun  19:43)
@@ -228,4 +189,21 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-22T13:23:22+10:00  →  2026-06-30T16:55:54+10:00  (30 Jun  19:43)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (30 Jun  19:43)
 ,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (30 Jun  19:43)"
+,Other Parties,TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust;   →  The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES P  (01 Jul  14:12)
+,Last Modified Accc,2026-06-30T16:55:54+10:00  →  2026-07-01T10:15:46+10:00  (01 Jul  14:12)
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (01 Jul  14:12)"
+,,
+~ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
+,Last Modified Accc,2026-06-23T17:10:58+10:00  →  2026-07-01T12:56:15+10:00  (01 Jul  14:12)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (01 Jul  14:12)
+,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (01 Jul  14:12)"
+,,
+"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
+,Acquisition Status,Under assessment  →  Assessment completed  (01 Jul  14:12)
+,End Of Determination Period,2 Jul 2026  →    (01 Jul  14:12)
+,Accc Determination,  →  Not approved  (01 Jul  14:12)
+,Determination Publication Date,  →  1 July 2026  (01 Jul  14:12)
+,Last Modified Accc,2026-05-26T17:27:32+10:00  →  2026-06-30T19:55:07+10:00  (01 Jul  14:12)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (01 Jul  14:12)
+,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reas  (01 Jul  14:12)"
 ,,

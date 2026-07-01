@@ -1,42 +1,30 @@
 {
-  "run_utc": "2026-07-01T04:12:24.323777Z",
-  "questionnaire_count": 3,
+  "run_utc": "2026-07-01T09:54:37.875097Z",
+  "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "kinetic-dysons-bus-services",
-      "title": "KINETIC - DYSONS BUS SERVICES",
-      "case_number": "MN-35017",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services",
+      "slug": "hewitt-%E2%80%93-nolan-meats",
+      "title": "Hewitt – Nolan Meats",
+      "case_number": "MN-35018",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats",
       "date": "1 Jul 2026",
-      "description": "Questionnaire - Kinetic - Dysons",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Kinetic%20-%20Dysons.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Kinetic - Dysons.docx",
-      "filename": "Questionnaire - Kinetic - Dysons.docx",
-      "size_kb": 115.9
+      "description": "Hewitt - Nolan Meats - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Hewitt%20-%20Nolan%20-%20third-party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Hewitt - Nolan - third-party questionnaire.docx",
+      "filename": "Hewitt - Nolan - third-party questionnaire.docx",
+      "size_kb": 60.7
     },
     {
-      "slug": "spacex-anysphere",
-      "title": "SpaceX - Anysphere",
-      "case_number": "MN-85036",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere",
+      "slug": "symal-group-shamrock-engineering-and-equipment",
+      "title": "Symal Group - Shamrock Engineering and Equipment",
+      "case_number": "MN-50030",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment",
       "date": "1 Jul 2026",
-      "description": "Questionnaire - SpaceX-Anysphere",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/SpaceX-Cursor%20-%20Phase%201%20questionnaire.docx",
-      "local_path": "data/consultation_docs/SpaceX-Cursor - Phase 1 questionnaire.docx",
-      "filename": "SpaceX-Cursor - Phase 1 questionnaire.docx",
-      "size_kb": 113.2
-    },
-    {
-      "slug": "stonepeak-led-consortium-estia-health",
-      "title": "Stonepeak-led consortium - Estia Health",
-      "case_number": "MN-50026",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health",
-      "date": "30 Jun 2026",
-      "description": "Questionnaire - Stonepeak led consortium - Estia Health",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak%20-%20Estia%20Health%20-%20third-party%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Stonepeak - Estia Health - third-party questionnaire.docx",
-      "filename": "Stonepeak - Estia Health - third-party questionnaire.docx",
-      "size_kb": 116.1
+      "description": "Symal Group - Shamrock Engineering and Equipment - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Symal%20Group%20-%20Shamrock%20Engineering%20and%20Equipment%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Symal Group - Shamrock Engineering and Equipment - Questionnaire.docx",
+      "filename": "Symal Group - Shamrock Engineering and Equipment - Questionnaire.docx",
+      "size_kb": 61.4
     }
   ]
 }

@@ -1,67 +1,60 @@
 {
-  "run_utc": "2026-07-01T04:12:24.323777Z",
-  "new_count": 3,
-  "changed_count": 3,
+  "run_utc": "2026-07-01T09:54:37.875097Z",
+  "new_count": 5,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "kinetic-dysons-bus-services",
-      "title": "KINETIC - DYSONS BUS SERVICES",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services"
+      "slug": "hewitt-%E2%80%93-nolan-meats",
+      "title": "Hewitt – Nolan Meats",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats"
     },
     {
-      "slug": "spacex-anysphere",
-      "title": "SpaceX - Anysphere",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere"
+      "slug": "slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio",
+      "title": "SLB – S&P Global’s Geoscience Software Portfolio",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio"
     },
     {
-      "slug": "stonepeak-led-consortium-estia-health",
-      "title": "Stonepeak-led consortium - Estia Health",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health"
+      "slug": "count-%E2%80%93-oracle-group",
+      "title": "Count – Oracle Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/count-%E2%80%93-oracle-group"
+    },
+    {
+      "slug": "warburg-pincus-%E2%80%93-commercial-credit-holdings-limited",
+      "title": "Warburg Pincus – Commercial Credit Holdings Limited",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/warburg-pincus-%E2%80%93-commercial-credit-holdings-limited"
+    },
+    {
+      "slug": "symal-group-shamrock-engineering-and-equipment",
+      "title": "Symal Group - Shamrock Engineering and Equipment",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment"
     }
   ],
   "changed_entries": [
     {
-      "slug": "coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
-      "title": "Coles – supermarket site in Coffs Harbour (NSW)",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+      "slug": "microstar-logistics-konvoy",
+      "title": "MicroStar Logistics - Konvoy",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
       "changes": [
         {
           "field": "last_modified_accc",
-          "old": "2026-06-23T17:10:58+10:00",
-          "new": "2026-07-01T12:56:15+10:00"
+          "old": "2026-06-26T08:59:43+10:00",
+          "new": "2026-07-01T16:46:07+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 30 June 2026 via email to mergers@accc.gov.au with the title Submission re: Coles – supermarket site in Coffs Harbour, NSW. read more 23 Jun 2026 Questionnaire Attachment 60.3 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+          "old": "On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Kegstar to n On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Kegstar to not enforce exclusivity provisions for a period of time, offer existing Konvoy customers Kegstar contracts on specified terms if requested, provide customers the option to purchase kegs in certain circumstances, and incorporate key performance indicators into all Customer Contracts (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 1 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: Microstar – Konvoy – Remedy offer. read more 24 Jun 2026 Microstar Konvoy - Remedy offer Attachment 487.19 KB 24 Jun 2026 Microstar Konvoy - Questionnaire - Remedy offer Attachment 119.5 KB",
+          "new": "On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Ke On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Kegstar to not enforce exclusivity provisions for a period of time, offer existing Konvoy customers Kegstar contracts on specified terms if requested, provide customers the option to purchase kegs in certain circumstances, and incorporate key performance indicators into all Customer Contracts (the remedy offer). The period for providing submissions or information in response to the ACCC's remedy offer questionnaire has concluded. read more"
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '23 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Coffs%20Harbour%20-%20Questionnaire%20-%20June%202026.docx'}]",
+          "old": "[{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Remedy%20offer%20%2817%20June%202026%29.pdf'}, {'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Questionnaire - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Questionnaire%20-%20Remedy%20offer%20%2817%20June%202026%29.docx'}]",
           "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "trescal-%E2%80%93-tr-calibration",
-      "title": "Trescal – TR Calibration",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
-      "changes": [
-        {
-          "field": "other_parties",
-          "old": "TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LTD; 30 108 845 718; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738",
-          "new": "The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; IPAC SOLUTIONS PTY LTD; 30 108 845 718; TRESCAL HOLDING PTY LTD; 35 633 411 391; EQT Fund Management S.à r.l.; Registration number B167972; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-30T16:55:54+10:00",
-          "new": "2026-07-01T10:15:46+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026.pdf'}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026.pdf'}]"
+          "old": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_0.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]",
+          "new": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_2.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
         }
       ]
     },
@@ -71,39 +64,14 @@
       "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "2 Jul 2026",
-          "new": ""
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Not approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "1 July 2026"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-05-26T17:27:32+10:00",
-          "new": "2026-06-30T19:55:07+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has concluded.",
-          "new": ""
+          "old": "2026-06-30T19:55:07+10:00",
+          "new": "2026-07-01T18:32:20+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_4.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_4.pdf'}]",
-          "new": "[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_9.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_8.pdf'}]"
+          "old": "[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_9.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_8.pdf'}]",
+          "new": "[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20PUBLIC%20VERSION%20-%20FINAL%20-%20Phase%202%20-%20Statement%20of%20Reasons%20-%2030%20June%202026.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_1.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_5.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_5.pdf'}]"
         }
       ]
     }
