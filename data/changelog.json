@@ -21993,5 +21993,57 @@
         "new": "[{'date': '1 Jul 2026', 'description': 'Coles Lidcombe - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Lidcombe%20-%20Phase%201%20Determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-02T06:11:45.212328Z",
+    "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "title": "Vets Central – Hills Veterinary Centre",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-02T06:11:45.212328Z",
+    "slug": "logic-technologies-ace-communication-distributors",
+    "title": "Logic Technologies - Ace Communication Distributors",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "6 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "2 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-01T10:01:15+10:00",
+        "new": "2026-07-02T13:56:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication Distributors - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Logic%20Technologies%20-%20Ace%20Communication%20Distributors%20-%20Phase%201%20determination_1.pdf'}]"
+      }
+    ]
   }
 ]

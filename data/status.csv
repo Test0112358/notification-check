@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-02 03:53:10.936165,
-Last scrape run (AEST),02 Jul 2026  13:53,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-02 06:11:45.212328,
+Last scrape run (AEST),02 Jul 2026  16:11,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,409,
-New entries this run,0,
-Changed entries this run,2,
+Total entries monitored,410,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,23 +13,18 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-"~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,21 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-06-16T10:34:54+10:00  →  2026-07-01T17:52:03+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Minto - Phase 1 determination', 'url': 'https://www.ac"
+NEW ENTRIES (1),Case Number,URL
++ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
 ,,
-~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,17 Jul 2026  →  
+,End Of Determination Period,6 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  1 July 2026
-,Last Modified Accc,2026-06-15T11:08:11+10:00  →  2026-07-01T17:59:10+10:00
+,Determination Publication Date,  →  2 July 2026
+,Last Modified Accc,2026-06-01T10:01:15+10:00  →  2026-07-02T13:56:06+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Lidcombe - Phase 1 Determination', 'url': 'https://www"
+,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication Distributors - Phase "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -68,24 +63,7 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 + Warburg Pincus – Commercial Credit Holdings Limited,WA-25030,01 Jul  19:54
 + Symal Group - Shamrock Engineering and Equipment,MN-50030,01 Jul  19:54
 ,,
-"CHANGED ENTRIES (21 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
-,Other Parties,TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; Australian Airconditioning Dist  →  KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pt  (25 Jun  13:55)
-,Last Modified Accc,2026-06-17T14:28:41+10:00  →  2026-06-25T09:32:12+10:00  (25 Jun  13:55)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  13:55)
-,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Complete Air Supply - All Air - Questio  →    (25 Jun  13:55)"
-,,
-~ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
-,Targets,ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274  →  HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD;   (25 Jun  13:55)
-,Other Parties,Keith Crawford (as joint and several receivers); Jason Ireland (as joint and sev  →  Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and severa  (25 Jun  13:55)
-,Last Modified Accc,2026-06-17T11:54:30+10:00  →  2026-06-25T09:55:33+10:00  (25 Jun  13:55)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  13:55)
-,Consultation Docs,"[{'date': '17 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (25 Jun  13:55)"
-,,
-~ PT Asian Bulk Logistics – Engage Marine,MN-90012,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-asian-bulk-logistics-%E2%80%93-engage-marine-0
-,Last Modified Accc,2026-06-24T17:31:20+10:00  →  2026-06-24T21:50:17+10:00  (25 Jun  13:55)
-,Decisions Docs,"[{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  →  [{'date': '24 Jun 2026', 'description': 'PT Asian Bulk Logistics - Engage Marine  (25 Jun  13:55)"
-,,
+"CHANGED ENTRIES (20 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
 ,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  (25 Jun  19:31)
 ,Other Parties,Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15   →  ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  (25 Jun  19:31)
@@ -217,4 +195,21 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reas  (01 Jul  14:12)"
 ,Last Modified Accc,2026-06-30T19:55:07+10:00  →  2026-07-01T18:32:20+10:00  (01 Jul  19:54)
 ,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reas  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of re  (01 Jul  19:54)"
+,,
+"~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  13:53)
+,End Of Determination Period,21 Jul 2026  →    (02 Jul  13:53)
+,Accc Determination,  →  Approved  (02 Jul  13:53)
+,Last Modified Accc,2026-06-16T10:34:54+10:00  →  2026-07-01T17:52:03+10:00  (02 Jul  13:53)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  13:53)
+,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Minto - Phase 1 determination', 'u  (02 Jul  13:53)"
+,,
+~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  13:53)
+,End Of Determination Period,17 Jul 2026  →    (02 Jul  13:53)
+,Accc Determination,  →  Approved  (02 Jul  13:53)
+,Determination Publication Date,  →  1 July 2026  (02 Jul  13:53)
+,Last Modified Accc,2026-06-15T11:08:11+10:00  →  2026-07-01T17:59:10+10:00  (02 Jul  13:53)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  13:53)
+,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Lidcombe - Phase 1 Determination',  (02 Jul  13:53)"
 ,,

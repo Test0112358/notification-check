@@ -1,32 +1,26 @@
 {
-  "generated_at_utc": "2026-07-02T04:10:11.889358Z",
-  "total_entries": 409,
+  "generated_at_utc": "2026-07-02T06:31:00.041852Z",
+  "total_entries": 410,
   "by_acquisition_status": {
     "Under assessment": 40,
-    "Assessment completed": 368,
+    "Assessment completed": 369,
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 155,
+    "Phase 1 - initial assessment": 156,
     "Waiver application": 249,
     "Phase 2 - detailed assessment": 5
   },
   "by_type": {
-    "Notification": 160,
+    "Notification": 161,
     "Waiver": 249
   },
   "by_accc_determination": {
-    "Approved": 352,
+    "Approved": 353,
     "Not approved": 15,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "logic-technologies-ace-communication-distributors",
-      "title": "Logic Technologies - Ace Communication Distributors",
-      "end_of_determination_period": "6 Jul 2026",
-      "days_remaining": 4
-    },
     {
       "slug": "saipem-subsea7",
       "title": "Saipem - Subsea7",
