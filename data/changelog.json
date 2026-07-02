@@ -21910,5 +21910,88 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-02T03:53:10.936165Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-minto-nsw",
+    "title": "Coles – supermarket site in Minto, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "21 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-16T10:34:54+10:00",
+        "new": "2026-07-01T17:52:03+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '1 Jul 2026', 'description': 'Coles Minto - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Minto%20-%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-02T03:53:10.936165Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+    "title": "Coles – supermarket site in Lidcombe (NSW)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "17 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "1 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-15T11:08:11+10:00",
+        "new": "2026-07-01T17:59:10+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '1 Jul 2026', 'description': 'Coles Lidcombe - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Lidcombe%20-%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
   }
 ]
