@@ -744,6 +744,7 @@ def export_csv(register):
             "URL":                                      e.get("url", ""),
             "Decisions and Key Events":  format_docs_for_csv(e.get("decisions_docs", [])),
             "Consultation Text":          e.get("consultation_text", ""),
+            "Questionnaire": "Y" if "questionnaire" in str(e.get("consultation_text", "")).lower() else "",
             "Consultation Documents":     format_docs_for_csv(e.get("consultation_docs", [])),
             "ACCC Page Last Modified":                  e.get("last_modified_accc", ""),
             "Last Scraped (UTC)":                       e.get("last_scraped_utc", ""),
