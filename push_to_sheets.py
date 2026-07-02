@@ -349,6 +349,131 @@ def push_monthly_stats(sh):
     ws.freeze(rows=1)
     print(f"  Monthly Stats: refreshed ({len(rows)} rows)")
 
+def push_summary_dashboard(sh):
+    try:
+        ws = sh.worksheet("Summary")
+    except gspread.exceptions.WorksheetNotFound:
+        ws = sh.add_worksheet("Summary", rows=45, cols=15)
+
+    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
+
+    def col(*names):
+        return next((c for c in names if c in df.columns), None)
+
+    type_c  = col("Type", "type")
+    notif_c = col("Notification / Application Date", "Notification Date")
+    det_c   = col("ACCC Determination", "accc_determination")
+    pub_c   = col("Determination Publication Date", "Determination Date")
+    biz_c   = col("Elapsed Business Days to Decision (ACT)", "Elapsed Business Days")
+    stage_c = col("Stage", "stage")
+    sect_c  = col("M&A Sector")
+
+    def parse_d(s):
+        for fmt in ("%Y-%m-%d", "%d %b %Y", "%d/%m/%Y"):
+            try:
+                return datetime.datetime.strptime(str(s).strip(), fmt)
+            except ValueError:
+                continue
+        return None
+
+    def fnum(s):
+        try:
+            return float(str(s).strip())
+        except ValueError:
+            return None
+
+    YEAR = 2026
+    MONTHS = ["January","February","March","April","May","June",
+              "July","August","September","October","November","December"]
+
+    def monthly_table(subtype, heading):
+        sub = df[df[type_c] == subtype]
+        out = [[heading] + [""]*7,
+               ["Month","Total Filed","Total Completed","Approved",
+                "Not Approved","Approval Rate","Avg. Business Days","Trend"]]
+        prev_avg, tot = None, [0,0,0,0]
+        all_b = []
+        for mi, mn in enumerate(MONTHS, 1):
+            f = c = a = n = 0
+            b = []
+            for _, r in sub.iterrows():
+                nd, pdt = parse_d(r.get(notif_c,"")), parse_d(r.get(pub_c,""))
+                det = str(r.get(det_c,"")).strip().lower()
+                if nd and (nd.year, nd.month) == (YEAR, mi): f += 1
+                if pdt and (pdt.year, pdt.month) == (YEAR, mi):
+                    c += 1
+                    if det.startswith("approved"): a += 1
+                    elif det: n += 1
+                    v = fnum(r.get(biz_c,""))
+                    if v is not None: b.append(v)
+            avg = round(sum(b)/len(b),1) if b else None
+            trend = "-" if avg is None or prev_avg is None else ("slower" if avg > prev_avg else "faster" if avg < prev_avg else "steady")
+            out.append([mn, f, c, a, n,
+                        f"{a/c:.0%}" if c else "-",
+                        avg if avg is not None else "-", trend])
+            if avg is not None: prev_avg = avg
+            tot = [tot[0]+f, tot[1]+c, tot[2]+a, tot[3]+n]; all_b += b
+        out.append(["Total", *tot,
+                    f"{tot[2]/tot[1]:.0%}" if tot[1] else "-",
+                    round(sum(all_b)/len(all_b),1) if all_b else "-", ""])
+        return out, tot, all_b
+
+    w_rows, w_tot, w_b = monthly_table("Waiver",       f"WAIVERS - {YEAR}")
+    n_rows, n_tot, n_b = monthly_table("Notification", f"NOTIFICATIONS - {YEAR}")
+
+    # KPI / pipeline panel
+    stages = df[stage_c].str.lower() if stage_c else pd.Series(dtype=str)
+    dets   = df[det_c].str.lower()   if det_c   else pd.Series(dtype=str)
+    is_n   = df[type_c] == "Notification"
+    is_w   = df[type_c] == "Waiver"
+    ph2_active  = int((is_n & stages.str.contains("phase 2", na=False) & (dets == "")).sum())
+    pending     = int((is_n & (dets == "")).sum())
+    all_b2 = sorted(w_b + n_b)
+    med = all_b2[len(all_b2)//2] if all_b2 else "-"
+    comb_c, comb_a = w_tot[1]+n_tot[1], w_tot[2]+n_tot[2]
+    kpi = [
+        ("KPI SNAPSHOT", ""),
+        ("Waivers completed",  w_tot[1]), ("Waivers approved", w_tot[2]),
+        ("Waiver approval rate", f"{w_tot[2]/w_tot[1]:.0%}" if w_tot[1] else "-"),
+        ("Notifs completed",   n_tot[1]), ("Notifs approved",  n_tot[2]),
+        ("Notif approval rate", f"{n_tot[2]/n_tot[1]:.0%}" if n_tot[1] else "-"),
+        ("Combined approval rate", f"{comb_a/comb_c:.0%}" if comb_c else "-"),
+        ("Total matters on register", len(df)),
+        ("", ""),
+        ("SCRUTINY & PIPELINE", ""),
+        ("Phase 2 notifs (active)", ph2_active),
+        ("Notifs pending decision", pending),
+        ("Fastest processed (days)", min(all_b2) if all_b2 else "-"),
+        ("Slowest processed (days)", max(all_b2) if all_b2 else "-"),
+        ("Median processing (days)", med),
+    ]
+
+    # Industry breakdown from M&A Sector
+    ind = [("INDUSTRY BREAKDOWN", "")]
+    if sect_c:
+        counts = {}
+        for v in df[sect_c]:
+            for s in str(v).split(";"):
+                s = s.strip()
+                if s: counts[s] = counts.get(s, 0) + 1
+        ind += sorted(counts.items(), key=lambda x: -x[1])[:15]
+
+    left = [["ACCC ACQUISITIONS REGISTER - SUMMARY DASHBOARD"] + [""]*7, [""]*8] \
+           + w_rows + [[""]*8] + n_rows
+    rows = []
+    for i in range(max(len(left), len(kpi)+2, len(ind)+2)):
+        row = (left[i] if i < len(left) else [""]*8)[:8] + [""]*(8-len(left[i] if i < len(left) else []))
+        k = kpi[i-2] if 2 <= i-0 and (i-2) < len(kpi) else ("", "")
+        d = ind[i-2] if 2 <= i-0 and (i-2) < len(ind) else ("", "")
+        rows.append(row + ["", k[0], k[1], "", d[0], d[1]])
+
+    ws.clear()
+    ws.update(rows)
+    ws.format("A1:N1", {"backgroundColor": {"red": 0.05, "green": 0.11, "blue": 0.16},
+                        "textFormat": {"bold": True, "foregroundColor": {"red": 1, "green": 1, "blue": 1}}})
+    ws.freeze(rows=1)
+    print(f"  Summary dashboard: refreshed ({len(rows)} rows)")
+
 def main():
     print("\nPushing data to Google Sheets...")
     gc = get_client()
@@ -356,6 +481,7 @@ def main():
     push_raw_data(sh)
     push_summary(sh)
     push_dashboard(sh)
+    push_summary_dashboard(sh)
     push_monthly_stats(sh)
     print("  Done.")
 
