@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-07-02T06:11:45.212328Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "title": "Vets Central – Hills Veterinary Centre",
-      "case_number": "MN-40017",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "date": "2 Jul 2026",
-      "description": "Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Vets Central - Hills Veterinary Centre - Questionnaire.docx",
-      "filename": "Vets Central - Hills Veterinary Centre - Questionnaire.docx",
-      "size_kb": 107.8
-    }
-  ]
+  "run_utc": "2026-07-02T09:17:41.700817Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

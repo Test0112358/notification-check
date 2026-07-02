@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-02 06:11:45.212328,
-Last scrape run (AEST),02 Jul 2026  16:11,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-02 09:17:41.700817,
+Last scrape run (AEST),02 Jul 2026  19:17,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,410,
+Total entries monitored,411,
 New entries this run,1,
-Changed entries this run,1,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,22 +14,31 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (1),Case Number,URL
-+ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
++ CVC Capital Partners and Groupe Bruxelles Lambert – Recordati,WA-70024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,6 Jul 2026  →  
+,End Of Determination Period,23 Jul 2026  →  
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  2 July 2026
-,Last Modified Accc,2026-06-01T10:01:15+10:00  →  2026-07-02T13:56:06+10:00
+,Last Modified Accc,2026-06-19T10:18:09+10:00  →  2026-07-02T16:41:07+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication Distributors - Phase "
+,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'EBOS - Paringa Pet Foods - Phase 1 determination', 'url': 'h"
+,,
+~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,17 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  1 July 2026
+,Last Modified Accc,2026-06-12T15:49:39+10:00  →  2026-07-02T16:33:10+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Premier Fresh - Domenico Group - Phase 1 determination', 'ur"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (32),Case Number,Detected (AEST)
+NEW ENTRIES (33),Case Number,Detected (AEST)
 + AkzoNobel - Axalta,MN-50024,25 Jun  19:31
 + Bain Capital – FDH,WA-25033,25 Jun  19:31
 + Warburg Pincus – JSB,WA-10019,25 Jun  19:31
@@ -62,8 +71,9 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 + Count – Oracle Group,WA-45018,01 Jul  19:54
 + Warburg Pincus – Commercial Credit Holdings Limited,WA-25030,01 Jul  19:54
 + Symal Group - Shamrock Engineering and Equipment,MN-50030,01 Jul  19:54
++ Vets Central – Hills Veterinary Centre,MN-40017,02 Jul  16:11
 ,,
-"CHANGED ENTRIES (20 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (21 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
 ,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  (25 Jun  19:31)
 ,Other Parties,Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15   →  ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  (25 Jun  19:31)
@@ -212,4 +222,13 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-15T11:08:11+10:00  →  2026-07-01T17:59:10+10:00  (02 Jul  13:53)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  13:53)
 ,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Lidcombe - Phase 1 Determination',  (02 Jul  13:53)"
+,,
+~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  16:11)
+,End Of Determination Period,6 Jul 2026  →    (02 Jul  16:11)
+,Accc Determination,  →  Approved  (02 Jul  16:11)
+,Determination Publication Date,  →  2 July 2026  (02 Jul  16:11)
+,Last Modified Accc,2026-06-01T10:01:15+10:00  →  2026-07-02T13:56:06+10:00  (02 Jul  16:11)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  16:11)
+,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication D  (02 Jul  16:11)"
 ,,

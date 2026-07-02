@@ -1,20 +1,20 @@
 {
-  "run_utc": "2026-07-02T06:11:45.212328Z",
+  "run_utc": "2026-07-02T09:17:41.700817Z",
   "new_count": 1,
-  "changed_count": 1,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "title": "Vets Central – Hills Veterinary Centre",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0"
+      "slug": "cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati",
+      "title": "CVC Capital Partners and Groupe Bruxelles Lambert – Recordati",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati"
     }
   ],
   "changed_entries": [
     {
-      "slug": "logic-technologies-ace-communication-distributors",
-      "title": "Logic Technologies - Ace Communication Distributors",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+      "slug": "ebos-paringa-pet-foods",
+      "title": "EBOS - Paringa Pet Foods",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods",
       "changes": [
         {
           "field": "acquisition_status",
@@ -23,7 +23,7 @@
         },
         {
           "field": "end_of_determination_period",
-          "old": "6 Jul 2026",
+          "old": "23 Jul 2026",
           "new": ""
         },
         {
@@ -38,8 +38,8 @@
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-01T10:01:15+10:00",
-          "new": "2026-07-02T13:56:06+10:00"
+          "old": "2026-06-19T10:18:09+10:00",
+          "new": "2026-07-02T16:41:07+10:00"
         },
         {
           "field": "consultation_text",
@@ -49,7 +49,49 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication Distributors - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Logic%20Technologies%20-%20Ace%20Communication%20Distributors%20-%20Phase%201%20determination_1.pdf'}]"
+          "new": "[{'date': '2 Jul 2026', 'description': 'EBOS - Paringa Pet Foods - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/EBOS%20-%20Paringa%20Pet%20Foods%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "premier-fresh-%E2%80%93-domenico-group",
+      "title": "Premier Fresh – Domenico Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "17 Jul 2026",
+          "new": ""
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "1 July 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-12T15:49:39+10:00",
+          "new": "2026-07-02T16:33:10+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '1 Jul 2026', 'description': 'Premier Fresh - Domenico Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Premier%20Fresh%20-%20Domenico%20Group%20-%20Phase%201%20determination%20%20-%201%20July%202026.pdf'}]"
         }
       ]
     }
