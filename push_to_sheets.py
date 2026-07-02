@@ -267,6 +267,88 @@ def push_dashboard(sh):
     ws.freeze(rows=1)
     print(f"  Dashboard: refreshed ({len(rows)} rows)")
 
+def push_monthly_stats(sh):
+    try:
+        ws = sh.worksheet("Monthly Stats")
+    except gspread.exceptions.WorksheetNotFound:
+        ws = sh.add_worksheet("Monthly Stats", rows=40, cols=8)
+
+    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
+
+    def col(*names):
+        return next((c for c in names if c in df.columns), None)
+
+    type_c = col("Type", "type")
+    notif_c = col("Notification / Application Date", "Notification Date", "notification_date")
+    det_c = col("ACCC Determination", "accc_determination")
+    pub_c = col("Determination Publication Date", "Determination Date", "determination_publication_date")
+    biz_c = col("Elapsed Business Days to Decision (ACT)", "Elapsed Business Days", "elapsed_business_days")
+
+    def parse_d(s):
+        s = str(s).strip()
+        for fmt in ("%Y-%m-%d", "%d %b %Y", "%d/%m/%Y"):
+            try:
+                return datetime.datetime.strptime(s, fmt)
+            except ValueError:
+                continue
+        return None
+
+    year = 2026
+    months = ["January", "February", "March", "April", "May", "June",
+              "July", "August", "September", "October", "November", "December"]
+
+    def stats_block(subtype):
+        sub = df[df[type_c] == subtype] if type_c else df
+        block = [[f"{subtype.upper()}S - {year}", "", "", "", "", "", ""],
+                 ["Month", "Total Filed", "Total Completed", "Approved",
+                  "Not Approved", "Approval Rate", "Avg Business Days"]]
+        tot = [0, 0, 0, 0]
+        all_biz = []
+        for m_idx, m_name in enumerate(months, 1):
+            filed = completed = approved = notapproved = 0
+            biz_days = []
+            for _, r in sub.iterrows():
+                nd = parse_d(r.get(notif_c, "")) if notif_c else None
+                pd_ = parse_d(r.get(pub_c, "")) if pub_c else None
+                det = str(r.get(det_c, "")).strip().lower() if det_c else ""
+                if nd and nd.year == year and nd.month == m_idx:
+                    filed += 1
+                if pd_ and pd_.year == year and pd_.month == m_idx:
+                    completed += 1
+                    if det.startswith("approved"):
+                        approved += 1
+                    elif det:
+                        notapproved += 1
+                    b = str(r.get(biz_c, "")).strip() if biz_c else ""
+                    try:
+                        biz_days.append(float(b))
+                    except ValueError:
+                        pass
+            rate = f"{approved / completed:.0%}" if completed else "-"
+            avg = round(sum(biz_days) / len(biz_days), 1) if biz_days else "-"
+            block.append([m_name, filed, completed, approved, notapproved, rate, avg])
+            tot[0] += filed; tot[1] += completed; tot[2] += approved; tot[3] += notapproved
+            all_biz += biz_days
+        t_rate = f"{tot[2] / tot[1]:.0%}" if tot[1] else "-"
+        t_avg = round(sum(all_biz) / len(all_biz), 1) if all_biz else "-"
+        block.append(["Total", tot[0], tot[1], tot[2], tot[3], t_rate, t_avg])
+        block.append(["", "", "", "", "", "", ""])
+        return block
+
+    rows = [["ACCC REGISTER - MONTHLY STATISTICS",
+             (datetime.datetime.utcnow() + datetime.timedelta(hours=10)).strftime("%d %b %Y %H:%M AEST"),
+             "", "", "", "", ""]]
+    rows.append(["", "", "", "", "", "", ""])
+    rows += stats_block("Notification")
+    rows += stats_block("Waiver")
+
+    ws.clear()
+    ws.update(rows)
+    ws.format("A1:G1", {"backgroundColor": {"red": 0.05, "green": 0.11, "blue": 0.16},
+                        "textFormat": {"bold": True, "foregroundColor": {"red": 1, "green": 1, "blue": 1}}})
+    ws.freeze(rows=1)
+    print(f"  Monthly Stats: refreshed ({len(rows)} rows)")
+
 def main():
     print("\nPushing data to Google Sheets...")
     gc = get_client()
@@ -274,6 +356,7 @@ def main():
     push_raw_data(sh)
     push_summary(sh)
     push_dashboard(sh)
+    push_monthly_stats(sh)
     print("  Done.")
 
 
