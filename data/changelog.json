@@ -22141,5 +22141,113 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T03:34:55.974503Z",
+    "slug": "akzonobel-axalta",
+    "title": "AkzoNobel - Axalta",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; REFINISH IMPORTS PTY LIMITED; 15 626 896 142; U-POL AUSTRALIA PTY LTD; 12 633 592 819",
+        "new": "U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; REFINISH IMPORTS PTY LIMITED; 15 626 896 142"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-25T14:24:08+10:00",
+        "new": "2026-07-03T08:27:12+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Transaction. The ACCC has prepared a questionnaire on the Transaction. Submissions or information in response to the questionnaire should be provided by 2 July 2026 via email to mergers@accc.gov.au with the title Submission re: AkzoNobel – Axalta. read more 24 Jun 2026 Questionnaire - AkzoNobel-Axalta Attachment 116.02 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '24 Jun 2026', 'description': 'Questionnaire - AkzoNobel-Axalta', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20AkzoNobel-Axalta_2.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-03T03:34:55.974503Z",
+    "slug": "black-rhino-club-hotel-motel-roma",
+    "title": "Black Rhino - Club Hotel Motel Roma",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "20 Jul 2026",
+        "new": "27 Jul 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187",
+        "new": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498"
+      },
+      {
+        "field": "targets",
+        "old": "The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330 255",
+        "new": "SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-19T12:17:30+10:00",
+        "new": "2026-07-03T10:56:23+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-03T03:34:55.974503Z",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem S.p.A - Subsea7 S.A.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T03:34:55.974503Z",
+    "slug": "trescal-%E2%80%93-tr-calibration",
+    "title": "Trescal – TR Calibration",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "stage",
+        "old": "Phase 1 - initial assessment",
+        "new": "Phase 2 - detailed assessment"
+      },
+      {
+        "field": "other_parties",
+        "old": "The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; IPAC SOLUTIONS PTY LTD; 30 108 845 718; TRESCAL HOLDING PTY LTD; 35 633 411 391; EQT Fund Management S.à r.l.; Registration number B167972; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482",
+        "new": "IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; EQT Fund Management S.à r.l.; Registration number B167972; TRESCAL HOLDING PTY LTD; 35 633 411 391; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-01T10:15:46+10:00",
+        "new": "2026-07-03T13:31:12+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026.pdf'}]",
+        "new": "[{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026_0.pdf'}, {'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-03T03:34:55.974503Z",
+    "slug": "saipem-subsea7",
+    "title": "Saipem - Subsea7",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-subsea7",
+    "event": "REMOVED",
+    "changes": []
   }
 ]

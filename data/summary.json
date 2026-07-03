@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T09:32:55.621610Z",
+  "generated_at_utc": "2026-07-03T03:46:14.423345Z",
   "total_entries": 411,
   "by_acquisition_status": {
     "Under assessment": 38,
@@ -7,9 +7,9 @@
     "Assessment ceased": 1
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 156,
+    "Phase 1 - initial assessment": 155,
     "Waiver application": 250,
-    "Phase 2 - detailed assessment": 5
+    "Phase 2 - detailed assessment": 6
   },
   "by_type": {
     "Notification": 161,
@@ -20,12 +20,5 @@
     "Not approved": 15,
     "Approved with conditions": 1
   },
-  "decisions_due_within_10_days": [
-    {
-      "slug": "saipem-subsea7",
-      "title": "Saipem - Subsea7",
-      "end_of_determination_period": "6 Jul 2026",
-      "days_remaining": 4
-    }
-  ]
+  "decisions_due_within_10_days": []
 }

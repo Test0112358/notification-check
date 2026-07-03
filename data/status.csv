@@ -1,12 +1,12 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-02 09:17:41.700817,
-Last scrape run (AEST),02 Jul 2026  19:17,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-03 03:34:55.974503,
+Last scrape run (AEST),03 Jul 2026  13:34,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,411,
 New entries this run,1,
-Changed entries this run,2,
-Removed entries this run,0,
+Changed entries this run,3,
+Removed entries this run,1,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
@@ -14,38 +14,35 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (1),Case Number,URL
-+ CVC Capital Partners and Groupe Bruxelles Lambert – Recordati,WA-70024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati
++ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,23 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  2 July 2026
-,Last Modified Accc,2026-06-19T10:18:09+10:00  →  2026-07-02T16:41:07+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'EBOS - Paringa Pet Foods - Phase 1 determination', 'url': 'h"
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
+,Other Parties,AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; RE  →  U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYST
+,Last Modified Accc,2026-06-25T14:24:08+10:00  →  2026-07-03T08:27:12+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Transaction. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Questionnaire - AkzoNobel-Axalta', 'url': 'https://www.accc  →  "
 ,,
-~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
-,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,17 Jul 2026  →  
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  1 July 2026
-,Last Modified Accc,2026-06-12T15:49:39+10:00  →  2026-07-02T16:33:10+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Premier Fresh - Domenico Group - Phase 1 determination', 'ur"
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,End Of Determination Period,20 Jul 2026  →  27 Jul 2026
+,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693   →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 
+,Targets,The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330  →  SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126
+,Last Modified Accc,2026-06-19T12:17:30+10:00  →  2026-07-03T10:56:23+10:00
+,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request b  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request b"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment
+,Other Parties,The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819  →  IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobil
+,Last Modified Accc,2026-07-01T10:15:46+10:00  →  2026-07-03T13:31:12+10:00
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to"
+,,
+REMOVED ENTRIES (1),Case Number,
+- Saipem - Subsea7,MN-01072,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (33),Case Number,Detected (AEST)
-+ AkzoNobel - Axalta,MN-50024,25 Jun  19:31
-+ Bain Capital – FDH,WA-25033,25 Jun  19:31
-+ Warburg Pincus – JSB,WA-10019,25 Jun  19:31
-+ Redwood Services Group – Newtrend I.T. Specialists,WA-60024,25 Jun  19:31
-+ Redwood Services Group – All IT Australia,WA-15024,25 Jun  19:31
-+ SLR Consulting Australia - Hydrobiology,WA-35025,25 Jun  19:31
-+ Dhilmar – Anglo American steelmaking coal business,WA-85035,25 Jun  19:31
+NEW ENTRIES (27),Case Number,Detected (AEST)
 + Sika AG - Akkim,MN-40027,26 Jun  14:02
 + Brookfield – World Freight Company,WA-55025,26 Jun  19:33
 + Australian Food & Fibre – Western Lands Lease Conversion,WA-40026,26 Jun  19:33
@@ -72,36 +69,9 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 + Warburg Pincus – Commercial Credit Holdings Limited,WA-25030,01 Jul  19:54
 + Symal Group - Shamrock Engineering and Equipment,MN-50030,01 Jul  19:54
 + Vets Central – Hills Veterinary Centre,MN-40017,02 Jul  16:11
++ CVC Capital Partners and Groupe Bruxelles Lambert – Recordati,WA-70024,02 Jul  19:17
 ,,
-"CHANGED ENTRIES (21 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
-,Acquirers,E.B. Mawson & Sons Proprietary Limited; 14 004 519 617  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  (25 Jun  19:31)
-,Other Parties,Independent Cement And Lime Pty. Limited; 49 005 829 550; Adbri Pty Limited; 15   →  ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  (25 Jun  19:31)
-,Last Modified Accc,2026-06-18T11:32:56+10:00  →  2026-06-25T16:25:39+10:00  (25 Jun  19:31)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (25 Jun  19:31)
-,Consultation Docs,"[{'date': '18 Jun 2026', 'description': 'Questionnaire - Adbri - Eureka Concrete  →    (25 Jun  19:31)"
-,Acquirers,E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  →  ADBRI PTY LIMITED; 15 007 596 018  (30 Jun  13:57)
-,Other Parties,ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  →  INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRE  (30 Jun  13:57)
-,Last Modified Accc,2026-06-25T16:25:39+10:00  →  2026-06-30T11:02:38+10:00  (30 Jun  13:57)
-,,
-~ ANZ Banking Group - Worldline Australia,MN-80014,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia
-,Acquisition Status,Under assessment  →  Assessment completed  (25 Jun  19:31)
-,End Of Determination Period,16 Jul 2026  →    (25 Jun  19:31)
-,Accc Determination,  →  Approved  (25 Jun  19:31)
-,Determination Publication Date,  →  25 June 2026  (25 Jun  19:31)
-,Last Modified Accc,2026-06-12T15:19:48+10:00  →  2026-06-25T16:12:29+10:00  (25 Jun  19:31)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Jun  19:31)
-,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'ANZ Banking Group-Worldline Australia -  (25 Jun  19:31)"
-,,
-~ Impression Dental Group - Coastal Dental Care,MN-90015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-coastal-dental-care
-,Acquisition Status,Under assessment  →  Assessment completed  (25 Jun  19:31)
-,End Of Determination Period,13 Jul 2026  →    (25 Jun  19:31)
-,Accc Determination,  →  Approved  (25 Jun  19:31)
-,Determination Publication Date,  →  25 June 2026  (25 Jun  19:31)
-,Last Modified Accc,2026-06-05T14:53:21+10:00  →  2026-06-25T15:58:53+10:00  (25 Jun  19:31)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Jun  19:31)
-,Decisions Docs,"  →  [{'date': '25 Jun 2026', 'description': 'Impression Dental Group - Coastal Denta  (25 Jun  19:31)"
-,,
+"CHANGED ENTRIES (21 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
 ,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00  (26 Jun  14:02)
 ,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (26 Jun  14:02)"
@@ -151,6 +121,11 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-22T15:37:14+10:00  →  2026-06-29T15:30:33+10:00  (30 Jun  13:57)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  13:57)
 ,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility   →    (30 Jun  13:57)"
+,,
+~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+,Acquirers,E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  →  ADBRI PTY LIMITED; 15 007 596 018  (30 Jun  13:57)
+,Other Parties,ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  →  INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRE  (30 Jun  13:57)
+,Last Modified Accc,2026-06-25T16:25:39+10:00  →  2026-06-30T11:02:38+10:00  (30 Jun  13:57)
 ,,
 ~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
 ,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00  (30 Jun  19:43)
@@ -231,4 +206,22 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-01T10:01:15+10:00  →  2026-07-02T13:56:06+10:00  (02 Jul  16:11)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  16:11)
 ,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication D  (02 Jul  16:11)"
+,,
+~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  19:17)
+,End Of Determination Period,23 Jul 2026  →    (02 Jul  19:17)
+,Accc Determination,  →  Approved  (02 Jul  19:17)
+,Determination Publication Date,  →  2 July 2026  (02 Jul  19:17)
+,Last Modified Accc,2026-06-19T10:18:09+10:00  →  2026-07-02T16:41:07+10:00  (02 Jul  19:17)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  19:17)
+,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'EBOS - Paringa Pet Foods - Phase 1 deter  (02 Jul  19:17)"
+,,
+~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  19:17)
+,End Of Determination Period,17 Jul 2026  →    (02 Jul  19:17)
+,Accc Determination,  →  Approved  (02 Jul  19:17)
+,Determination Publication Date,  →  1 July 2026  (02 Jul  19:17)
+,Last Modified Accc,2026-06-12T15:49:39+10:00  →  2026-07-02T16:33:10+10:00  (02 Jul  19:17)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  19:17)
+,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Premier Fresh - Domenico Group - Phase 1  (02 Jul  19:17)"
 ,,
