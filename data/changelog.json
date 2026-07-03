@@ -22249,5 +22249,163 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-subsea7",
     "event": "REMOVED",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business",
+    "title": "Allianz – certain assets of nib’s Australian travel insurance business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "partnered-health-ryan-plaza-medical-services",
+    "title": "Partnered Health - Ryan Plaza Medical Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "journey-beyond-kelsian-group-tourism-portfolio",
+    "title": "Journey Beyond Kelsian Group Tourism Portfolio",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-group-tourism-portfolio",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "journey-beyond-sealink-rottnest",
+    "title": "Journey Beyond - SeaLink Rottnest",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "openai-ona",
+    "title": "OpenAI - Ona",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Wave Merger Sub, Inc.; Delaware File Number - 10631976; OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7007085",
+        "new": "OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7007085; Wave Merger Sub, Inc.; Delaware File Number - 10631976"
+      },
+      {
+        "field": "other_parties",
+        "old": "Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936",
+        "new": "OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-29T14:03:06+10:00",
+        "new": "2026-07-03T16:02:23+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 3 July 2026 via email to mergers@accc.gov.au with the title Submission re: OpenAI – Ona. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jun 2026 OpenAI - Ona - Phase 1 Questionnaire Attachment 116.29 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '29 Jun 2026', 'description': 'OpenAI - Ona - Phase 1 Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/OpenAI%20-%20Ona%20-%20Phase%201%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "sika-ag-akkim",
+    "title": "Sika AG - Akkim",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Akkim Europe SRL; Akfix Kimya Lojistik Hizmetleri Limited Şirketi; Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akkim Yapi Kimyasallari Sanayi ve Ticaret Anonim Şirketi",
+        "new": "Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akkim Europe SRL; Akkim Yapi Kimyasallari Sanayi ve Ticaret Anonim Şirketi; Akfix Kimya Lojistik Hizmetleri Limited Şirketi"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-26T10:24:22+10:00",
+        "new": "2026-07-03T09:52:30+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 3 July 2026 via email to mergers@accc.gov.au with the title Submission re: Sika AG – Akkim. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 26 Jun 2026 Questionnaire - Sika AG - Akkim Attachment 116.16 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '26 Jun 2026', 'description': 'Questionnaire - Sika AG - Akkim', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Sika%20AG%20-%20Akkim.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "vets-central-gold-coast-veterinary-surgery",
+    "title": "Vets Central - Gold Coast Veterinary Surgery",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-gold-coast-veterinary-surgery",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "service-stream-%E2%80%93-rie",
+    "title": "Service Stream – RiE",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "23 Jul 2026",
+        "new": ""
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-22T11:49:49+10:00",
+        "new": "2026-07-03T11:57:58+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '3 Jul 2026', 'description': 'Service Stream - RiE Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Service%20Stream%20-%20RiE%20Group%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "ey-australia-australian-ey-fusion-business",
+    "title": "EY Australia - Australian EY Fusion business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ey-australia-australian-ey-fusion-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-03T09:23:40.814511Z",
+    "slug": "freedom-fuels-%E2%80%93-rennic",
+    "title": "Freedom Fuels – Rennic",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/freedom-fuels-%E2%80%93-rennic",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

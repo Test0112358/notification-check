@@ -1,49 +1,53 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-03 03:34:55.974503,
-Last scrape run (AEST),03 Jul 2026  13:34,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-03 09:23:40.814511,
+Last scrape run (AEST),03 Jul 2026  19:23,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,411,
-New entries this run,1,
+Total entries monitored,418,
+New entries this run,7,
 Changed entries this run,3,
-Removed entries this run,1,
+Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+NEW ENTRIES (7),Case Number,URL
++ Allianz – certain assets of nib’s Australian travel insurance business,MN-80024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business
++ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
++ Journey Beyond Kelsian Group Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-group-tourism-portfolio
++ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
++ Vets Central - Gold Coast Veterinary Surgery,WA-55026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-gold-coast-veterinary-surgery
++ EY Australia - Australian EY Fusion business,WA-90021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ey-australia-australian-ey-fusion-business
++ Freedom Fuels – Rennic,WA-85034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/freedom-fuels-%E2%80%93-rennic
 ,,
 CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
-,Other Parties,AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; RE  →  U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYST
-,Last Modified Accc,2026-06-25T14:24:08+10:00  →  2026-07-03T08:27:12+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Transaction. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Questionnaire - AkzoNobel-Axalta', 'url': 'https://www.accc  →  "
+~ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
+,Acquirers,"Wave Merger Sub, Inc.; Delaware File Number - 10631976; OpenAI Group PBC; Delaware File Number - 103  →  OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7"
+,Other Parties,Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936  →  OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228
+,Last Modified Accc,2026-06-29T14:03:06+10:00  →  2026-07-03T16:02:23+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'OpenAI - Ona - Phase 1 Questionnaire', 'url': 'https://www.  →  "
 ,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,End Of Determination Period,20 Jul 2026  →  27 Jul 2026
-,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693   →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 
-,Targets,The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330  →  SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126
-,Last Modified Accc,2026-06-19T12:17:30+10:00  →  2026-07-03T10:56:23+10:00
-,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request b  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request b"
+~ Sika AG - Akkim,MN-40027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim
+,Targets,Akkim Europe SRL; Akfix Kimya Lojistik Hizmetleri Limited Şirketi; Akde Kimya Sanayi ve Ticaret Anon  →  Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akkim Europe SRL; Akkim Yapi Kimyasallari Sanayi ve Tic
+,Last Modified Accc,2026-06-26T10:24:22+10:00  →  2026-07-03T09:52:30+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '26 Jun 2026', 'description': 'Questionnaire - Sika AG - Akkim', 'url': 'https://www.accc.  →  "
 ,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment
-,Other Parties,The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819  →  IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobil
-,Last Modified Accc,2026-07-01T10:15:46+10:00  →  2026-07-03T13:31:12+10:00
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by   →  [{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to"
-,,
-REMOVED ENTRIES (1),Case Number,
-- Saipem - Subsea7,MN-01072,
+~ Service Stream – RiE,MN-50022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie
+,Acquisition Status,Under assessment  →  Assessment completed
+,End Of Determination Period,23 Jul 2026  →  
+,Accc Determination,  →  Approved
+,Last Modified Accc,2026-06-22T11:49:49+10:00  →  2026-07-03T11:57:58+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '3 Jul 2026', 'description': 'Service Stream - RiE Group - Phase 1 determination', 'url': "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (27),Case Number,Detected (AEST)
-+ Sika AG - Akkim,MN-40027,26 Jun  14:02
 + Brookfield – World Freight Company,WA-55025,26 Jun  19:33
 + Australian Food & Fibre – Western Lands Lease Conversion,WA-40026,26 Jun  19:33
 + Apax Partners LLP – Sedex Information Exchange Limited,WA-45017,26 Jun  19:33
@@ -70,16 +74,9 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 + Symal Group - Shamrock Engineering and Equipment,MN-50030,01 Jul  19:54
 + Vets Central – Hills Veterinary Centre,MN-40017,02 Jul  16:11
 + CVC Capital Partners and Groupe Bruxelles Lambert – Recordati,WA-70024,02 Jul  19:17
++ Saipem S.p.A - Subsea7 S.A.,MN-01072,03 Jul  13:34
 ,,
-"CHANGED ENTRIES (21 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-06-24T11:28:06+10:00  →  2026-06-26T08:59:43+10:00  (26 Jun  14:02)
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (26 Jun  14:02)"
-,Last Modified Accc,2026-06-26T08:59:43+10:00  →  2026-07-01T16:46:07+10:00  (01 Jul  19:54)
-,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (01 Jul  19:54)"
-,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  →    (01 Jul  19:54)"
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (01 Jul  19:54)"
-,,
+"CHANGED ENTRIES (23 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
 ,Targets,The Trustee for Katherine Park Holding Trust; 61 521 863 718; The Trustee for TH  →  The Trustee for Katherine Park Trust; 52 233 936 018; The Trustee for THE F DAVI  (26 Jun  19:33)
 ,Last Modified Accc,2026-06-19T15:49:13+10:00  →  2026-06-26T09:51:32+10:00  (26 Jun  19:33)
@@ -164,6 +161,10 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 ,Other Parties,TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust;   →  The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES P  (01 Jul  14:12)
 ,Last Modified Accc,2026-06-30T16:55:54+10:00  →  2026-07-01T10:15:46+10:00  (01 Jul  14:12)
 ,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (01 Jul  14:12)"
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (03 Jul  13:34)
+,Other Parties,The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES P  →  IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 5  (03 Jul  13:34)
+,Last Modified Accc,2026-07-01T10:15:46+10:00  →  2026-07-03T13:31:12+10:00  (03 Jul  13:34)
+,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days –   (03 Jul  13:34)"
 ,,
 ~ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
 ,Last Modified Accc,2026-06-23T17:10:58+10:00  →  2026-07-01T12:56:15+10:00  (01 Jul  14:12)
@@ -180,6 +181,12 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 ,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reas  (01 Jul  14:12)"
 ,Last Modified Accc,2026-06-30T19:55:07+10:00  →  2026-07-01T18:32:20+10:00  (01 Jul  19:54)
 ,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reas  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of re  (01 Jul  19:54)"
+,,
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-06-26T08:59:43+10:00  →  2026-07-01T16:46:07+10:00  (01 Jul  19:54)
+,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (01 Jul  19:54)"
+,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  →    (01 Jul  19:54)"
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (01 Jul  19:54)"
 ,,
 "~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
 ,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  13:53)
@@ -224,4 +231,20 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-12T15:49:39+10:00  →  2026-07-02T16:33:10+10:00  (02 Jul  19:17)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  19:17)
 ,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Premier Fresh - Domenico Group - Phase 1  (02 Jul  19:17)"
+,,
+~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
+,Other Parties,AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD  →  U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424;  (03 Jul  13:34)
+,Last Modified Accc,2026-06-25T14:24:08+10:00  →  2026-07-03T08:27:12+10:00  (03 Jul  13:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the Transaction. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (03 Jul  13:34)
+,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Questionnaire - AkzoNobel-Axalta', 'url  →    (03 Jul  13:34)"
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,End Of Determination Period,20 Jul 2026  →  27 Jul 2026  (03 Jul  13:34)
+,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  (03 Jul  13:34)
+,Targets,The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS  →  SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMI  (03 Jul  13:34)
+,Last Modified Accc,2026-06-19T12:17:30+10:00  →  2026-07-03T10:56:23+10:00  (03 Jul  13:34)
+,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  (03 Jul  13:34)"
+,,
+REMOVED ENTRIES (1),Case Number,Detected (AEST)
+- Saipem - Subsea7,,03 Jul  13:34
 ,,
