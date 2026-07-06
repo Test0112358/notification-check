@@ -1,54 +1,5 @@
 {
-  "run_utc": "2026-07-03T09:23:40.814511Z",
-  "questionnaire_count": 4,
-  "questionnaires": [
-    {
-      "slug": "allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business",
-      "title": "Allianz – certain assets of nib’s Australian travel insurance business",
-      "case_number": "MN-80024",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business",
-      "date": "3 Jul 2026",
-      "description": "Allianz – certain assets of nib’s Australian travel insurance business - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Allianz%20%E2%80%93%20certain%20assets%20of%20nib%E2%80%99s%20Australian%20travel%20insurance%20business%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Allianz _ certain assets of nib_s Australian travel insurance business - Questionnaire.docx",
-      "filename": "Allianz _ certain assets of nib_s Australian travel insurance business - Questionnaire.docx",
-      "size_kb": 116.0
-    },
-    {
-      "slug": "partnered-health-ryan-plaza-medical-services",
-      "title": "Partnered Health - Ryan Plaza Medical Services",
-      "case_number": "MN-15027",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
-      "date": "3 Jul 2026",
-      "description": "Questionnaire - Partnered Health-Ryan Plaza",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Partnered%20Health-Ryan%20Plaza_1.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Partnered Health-Ryan Plaza_1.docx",
-      "filename": "Questionnaire - Partnered Health-Ryan Plaza_1.docx",
-      "size_kb": 115.9
-    },
-    {
-      "slug": "journey-beyond-kelsian-group-tourism-portfolio",
-      "title": "Journey Beyond Kelsian Group Tourism Portfolio",
-      "case_number": "MN-85015",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-group-tourism-portfolio",
-      "date": "3 Jul 2026",
-      "description": "Questionnaire - EAG - Kelsian and Vyscot",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20EAG%20-%20Kelsian%20and%20Vyscot.docx",
-      "local_path": "data/consultation_docs/Questionnaire - EAG - Kelsian and Vyscot.docx",
-      "filename": "Questionnaire - EAG - Kelsian and Vyscot.docx",
-      "size_kb": 120.2
-    },
-    {
-      "slug": "journey-beyond-sealink-rottnest",
-      "title": "Journey Beyond - SeaLink Rottnest",
-      "case_number": "MN-50011",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
-      "date": "3 Jul 2026",
-      "description": "Questionnaire - EAG - Kelsian and Vyscot",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20EAG%20-%20Kelsian%20and%20Vyscot_0.docx",
-      "local_path": "data/consultation_docs/Questionnaire - EAG - Kelsian and Vyscot_0.docx",
-      "filename": "Questionnaire - EAG - Kelsian and Vyscot_0.docx",
-      "size_kb": 120.2
-    }
-  ]
+  "run_utc": "2026-07-06T10:43:20.309101Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }
