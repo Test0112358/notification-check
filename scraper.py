@@ -1306,6 +1306,12 @@ def run():
         entry["slug"] = slug
         entry["last_scraped_utc"] = run_utc
 
+        # Preserve the deadline after the ACCC blanks it on determination.
+        # The date remains legally meaningful for elapsed-time analysis.
+        prev = stored_register.get(slug, {})
+        if not entry.get("end_of_determination_period") and prev.get("end_of_determination_period"):
+            entry["end_of_determination_period"] = prev["end_of_determination_period"]
+
         # ── Calculated day fields ──────────────────────────────��───────────
         notif_date = entry.get("notification_date", "")
         end_det = entry.get("end_of_determination_period", "")
