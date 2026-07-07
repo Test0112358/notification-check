@@ -22509,5 +22509,116 @@
         "new": "[{'date': '6 Jul 2026', 'description': 'Equans - CV Services Group', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Equans%20-%20CV%20Services%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-07T09:48:13.109480Z",
+    "slug": "vsa-sprayline",
+    "title": "VSA - SprayLine",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-07T09:48:13.109480Z",
+    "slug": "amazon-%E2%80%93-globalstar",
+    "title": "Amazon – Globalstar",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-30T10:38:51+10:00",
+        "new": "2026-07-07T14:01:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 7 July 2026 via email to mergers@accc.gov.au with the title Submission re: Amazon - Globalstar. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jun 2026 Questionnaire - Amazon-Globalstar Attachment 113.23 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '30 Jun 2026', 'description': 'Questionnaire - Amazon-Globalstar', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Amazon-Globalstar%20-%20Phase%201%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-07T09:48:13.109480Z",
+    "slug": "midea-residentia-group",
+    "title": "Midea - Residentia Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-29T13:28:30+10:00",
+        "new": "2026-07-07T14:55:36+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 July 2026 via email to mergers@accc.gov.au with the title Submission re: Midea – Residentia Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jun 2026 Midea - Residentia - Questionnaire Attachment 116.95 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '29 Jun 2026', 'description': 'Midea - Residentia - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Midea-Residentia%20-%20Questionnaire%20-%2017%20June%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-07T09:48:13.109480Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd",
+    "title": "Australian Venue Co – assets of Café Kinetic, Flinders Lane Melbourne CBD",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-07T09:48:13.109480Z",
+    "slug": "csr-complete-plaster",
+    "title": "CSR - Complete Plaster",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "7 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-23T16:17:33+10:00",
+        "new": "2026-07-07T16:25:19+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '7 Jul 2026', 'description': 'CSR - Complete Plaster - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/CSR%20-%20Complete%20Plaster%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-07T09:48:13.109480Z",
+    "slug": "ltm-%E2%80%93-randstad-digital-entities-including-finxl",
+    "title": "LTM – Randstad Digital entities including FinXL",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ltm-%E2%80%93-randstad-digital-entities-including-finxl",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

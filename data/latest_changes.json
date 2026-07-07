@@ -1,72 +1,79 @@
 {
-  "run_utc": "2026-07-06T10:43:20.309101Z",
+  "run_utc": "2026-07-07T09:48:13.109480Z",
   "new_count": 3,
-  "changed_count": 2,
+  "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "mitsubishi-estate-asia-%E2%80%93-eynesbury-properties",
-      "title": "Mitsubishi Estate Asia – Eynesbury Properties",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mitsubishi-estate-asia-%E2%80%93-eynesbury-properties"
+      "slug": "vsa-sprayline",
+      "title": "VSA - SprayLine",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline"
     },
     {
-      "slug": "siemens-energy-%E2%80%93-camlin-group",
-      "title": "Siemens Energy – Camlin Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-energy-%E2%80%93-camlin-group"
+      "slug": "australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd",
+      "title": "Australian Venue Co – assets of Café Kinetic, Flinders Lane Melbourne CBD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd"
     },
     {
-      "slug": "oaktree-%E2%80%93-vivax-metrotech",
-      "title": "Oaktree – Vivax Metrotech",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oaktree-%E2%80%93-vivax-metrotech"
+      "slug": "ltm-%E2%80%93-randstad-digital-entities-including-finxl",
+      "title": "LTM – Randstad Digital entities including FinXL",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ltm-%E2%80%93-randstad-digital-entities-including-finxl"
     }
   ],
   "changed_entries": [
     {
-      "slug": "wsp-geotechnical-testing-and-interpretation",
-      "title": "WSP - Geotechnical Testing and Interpretation",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation",
+      "slug": "amazon-%E2%80%93-globalstar",
+      "title": "Amazon – Globalstar",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
       "changes": [
         {
-          "field": "title",
-          "old": "WSP / GEOTECHNICAL TESTING AND INTERPRETATION",
-          "new": "WSP - Geotechnical Testing and Interpretation"
-        },
-        {
-          "field": "other_parties",
-          "old": "WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395; RICARDO AUSTRALIA PTY LTD; 17 625 088 646",
-          "new": "RICARDO AUSTRALIA PTY LTD; 17 625 088 646; WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-06-29T16:38:51+10:00",
-          "new": "2026-07-06T11:23:24+10:00"
+          "old": "2026-06-30T10:38:51+10:00",
+          "new": "2026-07-07T14:01:06+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 July 2026 via email to mergers@accc.gov.au with the title Submission re: WSP - Geotechnical Testing and Interpretation. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jun 2026 Questionnaire – WSP - Geotechnical Testing and Interpretation Attachment 116.12 KB",
+          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 7 July 2026 via email to mergers@accc.gov.au with the title Submission re: Amazon - Globalstar. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jun 2026 Questionnaire - Amazon-Globalstar Attachment 113.23 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '29 Jun 2026', 'description': 'Questionnaire – WSP - Geotechnical Testing and Interpretation', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/WSP-Geotechnical%20Testing%20and%20Interpretation%20-%20Phase%201%20questionnaire.docx'}]",
+          "old": "[{'date': '30 Jun 2026', 'description': 'Questionnaire - Amazon-Globalstar', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Amazon-Globalstar%20-%20Phase%201%20questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "equans-cv-services-group",
-      "title": "Equans - CV Services Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group",
+      "slug": "midea-residentia-group",
+      "title": "Midea - Residentia Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-29T13:28:30+10:00",
+          "new": "2026-07-07T14:55:36+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 July 2026 via email to mergers@accc.gov.au with the title Submission re: Midea – Residentia Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jun 2026 Midea - Residentia - Questionnaire Attachment 116.95 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '29 Jun 2026', 'description': 'Midea - Residentia - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Midea-Residentia%20-%20Questionnaire%20-%2017%20June%202026.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "csr-complete-plaster",
+      "title": "CSR - Complete Plaster",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster",
       "changes": [
         {
           "field": "acquisition_status",
           "old": "Under assessment",
           "new": "Assessment completed"
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "21 Jul 2026",
-          "new": ""
         },
         {
           "field": "accc_determination",
@@ -76,12 +83,12 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "6 July 2026"
+          "new": "7 July 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-18T11:37:08+10:00",
-          "new": "2026-07-06T15:46:57+10:00"
+          "old": "2026-06-23T16:17:33+10:00",
+          "new": "2026-07-07T16:25:19+10:00"
         },
         {
           "field": "consultation_text",
@@ -91,7 +98,7 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '6 Jul 2026', 'description': 'Equans - CV Services Group', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Equans%20-%20CV%20Services%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '7 Jul 2026', 'description': 'CSR - Complete Plaster - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/CSR%20-%20Complete%20Plaster%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }

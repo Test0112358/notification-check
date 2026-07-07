@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-06 10:43:20.309101,
-Last scrape run (AEST),06 Jul 2026  20:43,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-07 09:48:13.109480,
+Last scrape run (AEST),07 Jul 2026  19:48,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,421,
+Total entries monitored,424,
 New entries this run,3,
-Changed entries this run,2,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,42 +14,33 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (3),Case Number,URL
-+ Mitsubishi Estate Asia – Eynesbury Properties,WA-35026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mitsubishi-estate-asia-%E2%80%93-eynesbury-properties
-+ Siemens Energy – Camlin Group,WA-60023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-energy-%E2%80%93-camlin-group
-+ Oaktree – Vivax Metrotech,WA-20026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oaktree-%E2%80%93-vivax-metrotech
++ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline
+"+ Australian Venue Co – assets of Café Kinetic, Flinders Lane Melbourne CBD",WA-65024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd
++ LTM – Randstad Digital entities including FinXL,WA-15026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ltm-%E2%80%93-randstad-digital-entities-including-finxl
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
-,Title,WSP / GEOTECHNICAL TESTING AND INTERPRETATION  →  WSP - Geotechnical Testing and Interpretation
-,Other Parties,WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395; RICARDO AUSTRALIA PTY LTD; 17 625 088 646  →  RICARDO AUSTRALIA PTY LTD; 17 625 088 646; WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395
-,Last Modified Accc,2026-06-29T16:38:51+10:00  →  2026-07-06T11:23:24+10:00
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
+,Last Modified Accc,2026-06-30T10:38:51+10:00  →  2026-07-07T14:01:06+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '30 Jun 2026', 'description': 'Questionnaire - Amazon-Globalstar', 'url': 'https://www.acc  →  "
+,,
+~ Midea - Residentia Group,MN-01106,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group
+,Last Modified Accc,2026-06-29T13:28:30+10:00  →  2026-07-07T14:55:36+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Questionnaire – WSP - Geotechnical Testing and Interpretati  →  "
+,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Midea - Residentia - Questionnaire', 'url': 'https://www.ac  →  "
 ,,
-~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
+~ CSR - Complete Plaster,MN-10018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster
 ,Acquisition Status,Under assessment  →  Assessment completed
-,End Of Determination Period,21 Jul 2026  →  
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  6 July 2026
-,Last Modified Accc,2026-06-18T11:37:08+10:00  →  2026-07-06T15:46:57+10:00
+,Determination Publication Date,  →  7 July 2026
+,Last Modified Accc,2026-06-23T16:17:33+10:00  →  2026-07-07T16:25:19+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '6 Jul 2026', 'description': 'Equans - CV Services Group', 'url': 'https://www.accc.gov.au"
+,Decisions Docs,"  →  [{'date': '7 Jul 2026', 'description': 'CSR - Complete Plaster - Phase 1 determination', 'url': 'htt"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (29),Case Number,Detected (AEST)
-+ WSP / GEOTECHNICAL TESTING AND INTERPRETATION,MN-01107,29 Jun  21:06
-+ INNIO Group – Enerflex,MN-80021,29 Jun  21:06
-+ Bupa – Barings Australian Private Credit Fund,WA-20025,29 Jun  21:06
-+ MLPL HoldCo – shares in Marinus Link Pty Ltd,WA-70023,29 Jun  21:06
-+ Amazon – Globalstar,MN-50025,30 Jun  13:57
-+ Hapag-Lloyd - ZIM,MN-65022,30 Jun  19:43
-+ GPS Energy – Ryowa's interest in Gladstone Power Station Joint Venture,WA-35027,30 Jun  19:43
-+ Oakley Capital – XTEL,WA-01108,30 Jun  19:43
-+ Airtree – HotDoc,WA-40028,30 Jun  19:43
-"+ Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",WA-25028,30 Jun  19:43
-+ Bain Capital – Perpetual Wealth Management Group,WA-80022,30 Jun  19:43
+NEW ENTRIES (21),Case Number,Detected (AEST)
 + KINETIC - DYSONS BUS SERVICES,MN-35017,01 Jul  14:12
 + SpaceX - Anysphere,MN-85036,01 Jul  14:12
 + Stonepeak-led consortium - Estia Health,MN-50026,01 Jul  14:12
@@ -68,62 +59,17 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 + Vets Central - Gold Coast Veterinary Surgery,WA-55026,03 Jul  19:23
 + EY Australia - Australian EY Fusion business,WA-90021,03 Jul  19:23
 + Freedom Fuels – Rennic,WA-85034,03 Jul  19:23
++ Mitsubishi Estate Asia – Eynesbury Properties,WA-35026,06 Jul  20:43
++ Siemens Energy – Camlin Group,WA-60023,06 Jul  20:43
++ Oaktree – Vivax Metrotech,WA-20026,06 Jul  20:43
 ,,
-"CHANGED ENTRIES (22 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-"~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
-,Last Modified Accc,2026-06-22T15:42:35+10:00  →  2026-06-29T16:29:24+10:00  (29 Jun  21:06)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jun  21:06)
-,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Endeavour Group - retail liquor site in  →    (29 Jun  21:06)"
-,,
-~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
-,End Of Determination Period,15 Jul 2026  →  21 Jul 2026  (29 Jun  21:06)
-,Last Modified Accc,2026-06-11T10:02:59+10:00  →  2026-06-29T15:41:02+10:00  (29 Jun  21:06)
-,Decisions Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   (29 Jun  21:06)"
-,,
-~ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
-,Last Modified Accc,2026-06-22T15:37:14+10:00  →  2026-06-29T15:30:33+10:00  (30 Jun  13:57)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  13:57)
-,Consultation Docs,"[{'date': '22 Jun 2026', 'description': 'Questionnaire - Genea - Care Fertility   →    (30 Jun  13:57)"
-,,
-~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
-,Acquirers,E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617  →  ADBRI PTY LIMITED; 15 007 596 018  (30 Jun  13:57)
-,Other Parties,ADBRI PTY LIMITED; 15 007 596 018; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 07  →  INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRE  (30 Jun  13:57)
-,Last Modified Accc,2026-06-25T16:25:39+10:00  →  2026-06-30T11:02:38+10:00  (30 Jun  13:57)
-,,
-~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
-,Last Modified Accc,2026-06-24T16:09:49+10:00  →  2026-06-30T16:17:51+10:00  (30 Jun  19:43)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jun  19:43)
-,Consultation Docs,"[{'date': '19 Jun 2026', 'description': 'Autodesk - MaintainX - Questionnaire',   →    (30 Jun  19:43)"
-,,
-~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
-,Last Modified Accc,2026-06-23T16:51:53+10:00  →  2026-06-30T13:51:17+10:00  (30 Jun  19:43)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (30 Jun  19:43)
-,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Regis Resources – Vault Minerals - Thir  →    (30 Jun  19:43)"
-,,
-~ Sony Music - Recognition Music,MN-20023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sony-music-recognition-music
-,Acquisition Status,Under assessment  →  Assessment completed  (30 Jun  19:43)
-,End Of Determination Period,15 Jul 2026  →    (30 Jun  19:43)
-,Accc Determination,  →  Approved  (30 Jun  19:43)
-,Determination Publication Date,  →  30 June 2026  (30 Jun  19:43)
-,Acquirers,Orion BidCo LLC; DDC - 10608976; Sony Music Publishing (US) LLC; DDC - 2558200;   →  SMG-Three LLC; DDC - 10277876; Sony Music Publishing (US) LLC; DDC - 2558200; Or  (30 Jun  19:43)
-,Other Parties,"Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Nationa  →  Blackstone Inc; DDC - 4315990; SESAC Holdings, Inc; NY DOS ID - 1652738; Candle   (30 Jun  19:43)"
-,Last Modified Accc,2026-06-10T17:15:56+10:00  →  2026-06-30T14:15:39+10:00  (30 Jun  19:43)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (30 Jun  19:43)
-,Decisions Docs,"  →  [{'date': '30 Jun 2026', 'description': 'Sony Music - Recognition Music - Phase   (30 Jun  19:43)"
-,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074  (30 Jun  19:43)
-,Anzsic Codes,  →  0911 Gravel and Sand Quarrying; 0919 Other Construction Material Mining; 1709 Ot  (30 Jun  19:43)
-,Last Modified Accc,2026-06-15T09:42:20+10:00  →  2026-06-30T17:31:23+10:00  (30 Jun  19:43)
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to t  (30 Jun  19:43)"
-,Consultation Docs,"  →  [{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Constr  (30 Jun  19:43)"
+"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
+~ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
+,Last Modified Accc,2026-06-23T17:10:58+10:00  →  2026-07-01T12:56:15+10:00  (01 Jul  14:12)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (01 Jul  14:12)
+,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (01 Jul  14:12)"
 ,,
 ~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,End Of Determination Period,2 Jul 2026  →  6 Nov 2026  (30 Jun  19:43)
-,Other Parties,EQT Fund Management S.à r.l.; Registration number B167972; IPAC SOLUTIONS PTY LT  →  TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust;   (30 Jun  19:43)
-,Last Modified Accc,2026-06-22T13:23:22+10:00  →  2026-06-30T16:55:54+10:00  (30 Jun  19:43)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (30 Jun  19:43)
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (30 Jun  19:43)"
 ,Other Parties,TRESCAL HOLDING PTY LTD; 35 633 411 391; The Trustee for ASG Exical Unit Trust;   →  The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES P  (01 Jul  14:12)
 ,Last Modified Accc,2026-06-30T16:55:54+10:00  →  2026-07-01T10:15:46+10:00  (01 Jul  14:12)
 ,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (01 Jul  14:12)"
@@ -131,11 +77,6 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 ,Other Parties,The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES P  →  IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 5  (03 Jul  13:34)
 ,Last Modified Accc,2026-07-01T10:15:46+10:00  →  2026-07-03T13:31:12+10:00  (03 Jul  13:34)
 ,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days –   (03 Jul  13:34)"
-,,
-~ Coles – supermarket site in Coffs Harbour (NSW),MN-70022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw
-,Last Modified Accc,2026-06-23T17:10:58+10:00  →  2026-07-01T12:56:15+10:00  (01 Jul  14:12)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (01 Jul  14:12)
-,Consultation Docs,"[{'date': '23 Jun 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (01 Jul  14:12)"
 ,,
 "~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
 ,Acquisition Status,Under assessment  →  Assessment completed  (01 Jul  14:12)
@@ -231,6 +172,22 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-22T11:49:49+10:00  →  2026-07-03T11:57:58+10:00  (03 Jul  19:23)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (03 Jul  19:23)
 ,Decisions Docs,"  →  [{'date': '3 Jul 2026', 'description': 'Service Stream - RiE Group - Phase 1 det  (03 Jul  19:23)"
+,,
+~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
+,Title,WSP / GEOTECHNICAL TESTING AND INTERPRETATION  →  WSP - Geotechnical Testing and Interpretation  (06 Jul  20:43)
+,Other Parties,WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395; RICARDO AUSTRALIA PTY LTD; 17 62  →  RICARDO AUSTRALIA PTY LTD; 17 625 088 646; WSP AUSTRALIA HOLDINGS PTY LTD; 90 16  (06 Jul  20:43)
+,Last Modified Accc,2026-06-29T16:38:51+10:00  →  2026-07-06T11:23:24+10:00  (06 Jul  20:43)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Jul  20:43)
+,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Questionnaire – WSP - Geotechnical Test  →    (06 Jul  20:43)"
+,,
+~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
+,Acquisition Status,Under assessment  →  Assessment completed  (06 Jul  20:43)
+,End Of Determination Period,21 Jul 2026  →    (06 Jul  20:43)
+,Accc Determination,  →  Approved  (06 Jul  20:43)
+,Determination Publication Date,  →  6 July 2026  (06 Jul  20:43)
+,Last Modified Accc,2026-06-18T11:37:08+10:00  →  2026-07-06T15:46:57+10:00  (06 Jul  20:43)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (06 Jul  20:43)
+,Decisions Docs,"  →  [{'date': '6 Jul 2026', 'description': 'Equans - CV Services Group', 'url': 'htt  (06 Jul  20:43)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Saipem - Subsea7,,03 Jul  13:34
