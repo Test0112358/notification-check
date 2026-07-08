@@ -1,104 +1,234 @@
 {
-  "run_utc": "2026-07-07T09:48:13.109480Z",
-  "new_count": 3,
-  "changed_count": 3,
+  "run_utc": "2026-07-08T08:34:03.238762Z",
+  "new_count": 4,
+  "changed_count": 8,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "vsa-sprayline",
-      "title": "VSA - SprayLine",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline"
+      "slug": "blackstone-%E2%80%93-acacium-group",
+      "title": "Blackstone – Acacium Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-%E2%80%93-acacium-group"
     },
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd",
-      "title": "Australian Venue Co – assets of Café Kinetic, Flinders Lane Melbourne CBD",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-caf%C3%A9-kinetic-flinders-lane-melbourne-cbd"
+      "slug": "sas-trustee-corporation-%E2%80%93-australia-pacific-airport-corporation",
+      "title": "SAS Trustee Corporation – Australia Pacific Airport Corporation",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sas-trustee-corporation-%E2%80%93-australia-pacific-airport-corporation"
     },
     {
-      "slug": "ltm-%E2%80%93-randstad-digital-entities-including-finxl",
-      "title": "LTM – Randstad Digital entities including FinXL",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ltm-%E2%80%93-randstad-digital-entities-including-finxl"
+      "slug": "mitsui-%E2%80%93-rhodes-ridge-joint-venture",
+      "title": "Mitsui – Rhodes Ridge Joint Venture",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mitsui-%E2%80%93-rhodes-ridge-joint-venture"
+    },
+    {
+      "slug": "oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw",
+      "title": "Oscars Group – South Terrace Hotel in Bankstown, NSW",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw"
     }
   ],
   "changed_entries": [
     {
-      "slug": "amazon-%E2%80%93-globalstar",
-      "title": "Amazon – Globalstar",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
+      "slug": "hewitt-%E2%80%93-nolan-meats",
+      "title": "Hewitt – Nolan Meats",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats",
       "changes": [
         {
+          "field": "acquirers",
+          "old": "Dawson Land Investments Company Pty Ltd as trustee for the Dawson Land Trust; 600 506 778; SAPPHIRE CATTLE COMPANY PTY LTD; 14 600 389 286",
+          "new": "SAPPHIRE CATTLE COMPANY PTY LTD; 14 600 389 286; Dawson Land Investments Company Pty Ltd as trustee for the Dawson Land Trust; 600 506 778"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-06-30T10:38:51+10:00",
-          "new": "2026-07-07T14:01:06+10:00"
+          "old": "2026-07-01T16:35:10+10:00",
+          "new": "2026-07-08T16:04:13+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 7 July 2026 via email to mergers@accc.gov.au with the title Submission re: Amazon - Globalstar. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jun 2026 Questionnaire - Amazon-Globalstar Attachment 113.23 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 8 July 2026 via email to mergers@accc.gov.au with the title Hewitt – Nolan Meats. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 1 Jul 2026 Hewitt - Nolan Meats - Questionnaire Attachment 60.74 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '30 Jun 2026', 'description': 'Questionnaire - Amazon-Globalstar', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Amazon-Globalstar%20-%20Phase%201%20questionnaire.docx'}]",
+          "old": "[{'date': '1 Jul 2026', 'description': 'Hewitt - Nolan Meats - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Hewitt%20-%20Nolan%20-%20third-party%20questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "midea-residentia-group",
-      "title": "Midea - Residentia Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group",
+      "slug": "symal-group-shamrock-engineering-and-equipment",
+      "title": "Symal Group - Shamrock Engineering and Equipment",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment",
       "changes": [
         {
+          "field": "notification_date",
+          "old": "",
+          "new": "1 July 2026"
+        },
+        {
+          "field": "end_of_determination_period",
+          "old": "",
+          "new": "12 Aug 2026"
+        },
+        {
+          "field": "targets",
+          "old": "SHAMROCK CIVIL ENGINEERING PTY. LTD.; 68 066 655 856; SHAMROCK EQUIPMENT PTY LTD; 32 631 585 718; PHOENIX INVESTMENTS QUEENSLAND PTY LTD; 85 615 285 937",
+          "new": "PHOENIX INVESTMENTS QUEENSLAND PTY LTD; 85 615 285 937; SHAMROCK CIVIL ENGINEERING PTY. LTD.; 68 066 655 856; SHAMROCK EQUIPMENT PTY LTD; 32 631 585 718"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-06-29T13:28:30+10:00",
-          "new": "2026-07-07T14:55:36+10:00"
+          "old": "2026-07-01T16:35:28+10:00",
+          "new": "2026-07-08T15:54:56+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 July 2026 via email to mergers@accc.gov.au with the title Submission re: Midea – Residentia Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jun 2026 Midea - Residentia - Questionnaire Attachment 116.95 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 8 July 2026 via email to mergers@accc.gov.au with the title Symal Group – Shamrock Engineering and Equipment. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 1 Jul 2026 Symal Group - Shamrock Engineering and Equipment - Questionnaire Attachment 61.4 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '29 Jun 2026', 'description': 'Midea - Residentia - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Midea-Residentia%20-%20Questionnaire%20-%2017%20June%202026.docx'}]",
+          "old": "[{'date': '1 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and Equipment - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Symal%20Group%20-%20Shamrock%20Engineering%20and%20Equipment%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "csr-complete-plaster",
-      "title": "CSR - Complete Plaster",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/csr-complete-plaster",
+      "slug": "slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio",
+      "title": "SLB – S&P Global’s Geoscience Software Portfolio",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "7 July 2026"
+          "field": "acquirers",
+          "old": "Schlumberger Canada Limited; 2025732419; Schlumberger Technology Corporation; EIN - 22-1692661; SLB N.V. (SLB Limited); EIN - 52-0684746; Geoquest Systems BV; KVK - 27176644",
+          "new": "Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-0684746; Schlumberger Technology Corporation; EIN - 22-1692661; Geoquest Systems BV; KVK - 27176644"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-23T16:17:33+10:00",
-          "new": "2026-07-07T16:25:19+10:00"
+          "old": "2026-07-01T15:08:09+10:00",
+          "new": "2026-07-08T16:06:06+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 8 July 2026 via email to mergers@accc.gov.au with the title SLB – S&P Global’s Geoscience Software Portfolio. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more SLB - S&P Global's Geoscience Software Portfolio - Questionnaire Attachment 61.75 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "spacex-anysphere",
+      "title": "SpaceX - Anysphere",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere",
+      "changes": [
+        {
+          "field": "other_parties",
+          "old": "X.AI Corp.; Nevada Entity Number - E28915122023-8; STARLINK AUSTRALIA PTY LTD; 68 636 841 533; X ASIA PACIFIC INTERNET PTE. LTD.; 97 712 692 946; X Internet Unlimited Company; Ireland Registered Number - 503351; STARLINK INTERNET SERVICES PTE. LTD.; 44 658 489 582; X Global LLC; Delaware File Number - 6028653",
+          "new": "X Global LLC; Delaware File Number - 6028653; X ASIA PACIFIC INTERNET PTE. LTD.; 97 712 692 946; STARLINK AUSTRALIA PTY LTD; 68 636 841 533; X.AI Corp.; Nevada Entity Number - E28915122023-8; X Internet Unlimited Company; Ireland Registered Number - 503351; STARLINK INTERNET SERVICES PTE. LTD.; 44 658 489 582"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-01T09:16:16+10:00",
+          "new": "2026-07-08T16:05:52+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 8 July 2026 via email to mergers@accc.gov.au with the title Submission re: SpaceX - Anysphere. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 1 Jul 2026 Questionnaire - SpaceX-Anysphere Attachment 113.19 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '1 Jul 2026', 'description': 'Questionnaire - SpaceX-Anysphere', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/SpaceX-Cursor%20-%20Phase%201%20questionnaire.docx'}]",
           "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "hapag-lloyd-zim",
+      "title": "Hapag-Lloyd - ZIM",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-30T16:31:34+10:00",
+          "new": "2026-07-08T07:54:35+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 7 July 2026 via email to mergers@accc.gov.au with the title Submission re: Hapag-Lloyd-ZIM. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jun 2026 Questionnaire - Hapag-Lloyd - ZIM Attachment 116.05 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '30 Jun 2026', 'description': 'Questionnaire - Hapag-Lloyd - ZIM', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Hapag-Lloyd%20-%20ZIM.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "innio-group-%E2%80%93-enerflex-0",
+      "title": "INNIO Group – Enerflex",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-29T14:58:40+10:00",
+          "new": "2026-07-08T09:51:40+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 July 2026 via email to mergers@accc.gov.au with the title Submission re: INNIO Group – Enerflex Aftermarket Services. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jun 2026 INNIO Group - Enerflex Aftermarket Services - Questionnaire Attachment 116.72 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '29 Jun 2026', 'description': 'INNIO Group - Enerflex Aftermarket Services - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/INNIO-Enerflex%20-%20Questionnaire%20-%2016%20June%202026.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "saipem-spa-subsea7-sa",
+      "title": "Saipem S.p.A - Subsea7 S.A.",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+      "changes": [
+        {
+          "field": "stage",
+          "old": "Phase 1 - initial assessment",
+          "new": "Phase 2 - detailed assessment"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-03T10:24:14+10:00",
+          "new": "2026-07-08T08:17:10+10:00"
+        }
+      ]
+    },
+    {
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "changes": [
+        {
+          "field": "targets",
+          "old": "RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805",
+          "new": "RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-26T16:38:32+10:00",
+          "new": "2026-07-08T17:33:41+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has concluded.",
+          "new": "On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would include On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would include behavioural commitments in relation to competitiveness and benchmarking provisions in the Distribution Agreement and in relation to the acquisition of smash repair services (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 22 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: IAG – RACI – Remedy offer. read more 8 Jul 2026 Remedy Offer - 1 July 2026 - IAG - RACI Attachment 166.09 KB 8 Jul 2026 Remedy Offer Questionnaire - IAG - RACI Attachment 118.87 KB"
+        },
+        {
+          "field": "consultation_docs",
+          "old": "",
+          "new": "[{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Remedy%20Offer%20%281%20July%202026%29_1.pdf'}, {'date': '8 Jul 2026', 'description': 'Remedy Offer Questionnaire - IAG - RACI', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Questionnaire%20-%20Remedy%20Offer%20%281%20July%202026%29_1.docx'}]"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '7 Jul 2026', 'description': 'CSR - Complete Plaster - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/CSR%20-%20Complete%20Plaster%20-%20Phase%201%20determination.pdf'}]"
+          "old": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_0.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}]",
+          "new": "[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': ''}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_2.pdf'}, {'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_3.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by business days - following request for further information', 'url': ''}]"
         }
       ]
     }

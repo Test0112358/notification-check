@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-07-07T09:48:13.109480Z",
+  "run_utc": "2026-07-08T08:34:03.238762Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "vsa-sprayline",
-      "title": "VSA - SprayLine",
-      "case_number": "MN-30022",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline",
-      "date": "7 Jul 2026",
-      "description": "Questionnaire - VSA–SprayLine",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/VSA-Sprayline%20-%20Third%20party%20questionnaire_0.docx",
-      "local_path": "data/consultation_docs/VSA-Sprayline - Third party questionnaire_0.docx",
-      "filename": "VSA-Sprayline - Third party questionnaire_0.docx",
-      "size_kb": 117.2
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "case_number": "MN-65005",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "date": "8 Jul 2026",
+      "description": "Remedy Offer Questionnaire - IAG - RACI",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Questionnaire%20-%20Remedy%20Offer%20%281%20July%202026%29_1.docx",
+      "local_path": "data/consultation_docs/IAG RACI - Questionnaire - Remedy Offer _1 July 2026__1.docx",
+      "filename": "IAG RACI - Questionnaire - Remedy Offer _1 July 2026__1.docx",
+      "size_kb": 118.9
     }
   ]
 }
