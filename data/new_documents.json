@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-07-08T08:34:03.238762Z",
+  "run_utc": "2026-07-09T03:36:21.042697Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "case_number": "MN-65005",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
-      "date": "8 Jul 2026",
-      "description": "Remedy Offer Questionnaire - IAG - RACI",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Questionnaire%20-%20Remedy%20Offer%20%281%20July%202026%29_1.docx",
-      "local_path": "data/consultation_docs/IAG RACI - Questionnaire - Remedy Offer _1 July 2026__1.docx",
-      "filename": "IAG RACI - Questionnaire - Remedy Offer _1 July 2026__1.docx",
-      "size_kb": 118.9
+      "slug": "coles-paydock",
+      "title": "Coles - Paydock",
+      "case_number": "MN-65028",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock",
+      "date": "9 Jul 2026",
+      "description": "Questionnaire - Coles - Paydock",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Coles%20-%20Paydock.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Coles - Paydock.docx",
+      "filename": "Questionnaire - Coles - Paydock.docx",
+      "size_kb": 116.1
     }
   ]
 }

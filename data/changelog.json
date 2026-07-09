@@ -22874,5 +22874,108 @@
         "new": "[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': ''}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_2.pdf'}, {'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_3.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by business days - following request for further information', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-09T03:36:21.042697Z",
+    "slug": "coles-paydock",
+    "title": "Coles - Paydock",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-09T03:36:21.042697Z",
+    "slug": "motorola-solutions-d-fend-solutions",
+    "title": "Motorola Solutions - D-Fend Solutions",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-09T03:36:21.042697Z",
+    "slug": "kinetic-dysons-bus-services",
+    "title": "KINETIC - DYSONS BUS SERVICES",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; KACM 3A PTY LTD; 24 674 151 118; KOCM 3 PTY LTD; 60 679 737 510; DYSONS MZF (ASSETCO) PTY LTD; 18 680 323 291; DYSONS MZF PTY LTD; 16 680 323 282; KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KINETIC ASSETCO (MELBOURNE) PTY LTD; 72 644 633 303",
+        "new": "KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; DYSONS MZF (ASSETCO) PTY LTD; 18 680 323 291; SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; DYSONS MZF PTY LTD; 16 680 323 282; KOCM 3 PTY LTD; 60 679 737 510; KINETIC ASSETCO (MELBOURNE) PTY LTD; 72 644 633 303"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-01T10:31:27+10:00",
+        "new": "2026-07-08T15:51:12+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 8 July 2026 via email to mergers@accc.gov.au with the title Submission re: Kinetic - Dysons Bus Services. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 1 Jul 2026 Questionnaire - Kinetic - Dysons Attachment 115.91 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '1 Jul 2026', 'description': 'Questionnaire - Kinetic - Dysons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Kinetic%20-%20Dysons.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-09T03:36:21.042697Z",
+    "slug": "stonepeak-led-consortium-estia-health",
+    "title": "Stonepeak-led consortium - Estia Health",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Stonepeak Partners LP; 4958360; Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Aura Australia Holdings Pty Ltd; 41 614 139 589; Wisdom TopCo Pty Ltd; 696 888 552; Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 99 000 341 533",
+        "new": "Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonepeak Partners LP; 4958360; Wisdom TopCo Pty Ltd; 696 888 552; Aura Australia Holdings Pty Ltd; 41 614 139 589; Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 99 000 341 533"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-30T20:43:33+10:00",
+        "new": "2026-07-09T09:21:42+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 7 July 2026 via email to mergers@accc.gov.au with the title Submission re: Stonepeak led consortium – Estia Health. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jun 2026 Questionnaire - Stonepeak led consortium - Estia Health Attachment 116.12 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '30 Jun 2026', 'description': 'Questionnaire - Stonepeak led consortium - Estia Health', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak%20-%20Estia%20Health%20-%20third-party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-09T03:36:21.042697Z",
+    "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699",
+        "new": "MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-30T17:31:23+10:00",
+        "new": "2026-07-08T16:13:37+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form of undertakings pursuant to s87B of the Competition and Consumer Act 2010 (Cth On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form of undertakings pursuant to s87B of the Competition and Consumer Act 2010 (Cth), to divest its Blackwater RMX plant, its Yalkara hard rock quarry, its North Wollongong RMX plant, and its Bass Point RMX plant (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 7 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: HMA – MAAS – Remedy offer. read more 29 Jun 2026 Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer Attachment 3.26 MB 29 Jun 2026 Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer Attachment 110.25 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Remedy%20Offer%20-%2029%20June%202026_0.pdf'}, {'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA%20MAAS%20-%20Questionnaire%20re%3A%20Remedy%20Offer%20%2829%20June%202026%29_0.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

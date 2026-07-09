@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-08 08:34:03.238762,
-Last scrape run (AEST),08 Jul 2026  18:34,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-09 03:36:21.042697,
+Last scrape run (AEST),09 Jul 2026  13:36,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,428,
-New entries this run,4,
-Changed entries this run,8,
+Total entries monitored,430,
+New entries this run,2,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,68 +13,33 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Blackstone – Acacium Group,WA-95029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-%E2%80%93-acacium-group
-+ SAS Trustee Corporation – Australia Pacific Airport Corporation,WA-90023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sas-trustee-corporation-%E2%80%93-australia-pacific-airport-corporation
-+ Mitsui – Rhodes Ridge Joint Venture,WA-70025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mitsui-%E2%80%93-rhodes-ridge-joint-venture
-"+ Oscars Group – South Terrace Hotel in Bankstown, NSW",WA-25031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw
+NEW ENTRIES (2),Case Number,URL
++ Coles - Paydock,MN-65028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock
++ Motorola Solutions - D-Fend Solutions,MN-05032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions
 ,,
-CHANGED ENTRIES (8),Field changed,Old value  →  New value
-~ Hewitt – Nolan Meats,MN-35018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats
-,Acquirers,Dawson Land Investments Company Pty Ltd as trustee for the Dawson Land Trust; 600 506 778; SAPPHIRE   →  SAPPHIRE CATTLE COMPANY PTY LTD; 14 600 389 286; Dawson Land Investments Company Pty Ltd as trustee 
-,Last Modified Accc,2026-07-01T16:35:10+10:00  →  2026-07-08T16:04:13+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Hewitt - Nolan Meats - Questionnaire', 'url': 'https://www.a  →  "
-,,
-~ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
-,Notification Date,  →  1 July 2026
-,End Of Determination Period,  →  12 Aug 2026
-,Targets,SHAMROCK CIVIL ENGINEERING PTY. LTD.; 68 066 655 856; SHAMROCK EQUIPMENT PTY LTD; 32 631 585 718; PH  →  PHOENIX INVESTMENTS QUEENSLAND PTY LTD; 85 615 285 937; SHAMROCK CIVIL ENGINEERING PTY. LTD.; 68 066
-,Last Modified Accc,2026-07-01T16:35:28+10:00  →  2026-07-08T15:54:56+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and Equipment - Questionn  →  "
-,,
-~ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio
-,Acquirers,Schlumberger Canada Limited; 2025732419; Schlumberger Technology Corporation; EIN - 22-1692661; SLB   →  Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-0684746; Schlumberger Tech
-,Last Modified Accc,2026-07-01T15:08:09+10:00  →  2026-07-08T16:06:06+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,,
-~ SpaceX - Anysphere,MN-85036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere
-,Other Parties,X.AI Corp.; Nevada Entity Number - E28915122023-8; STARLINK AUSTRALIA PTY LTD; 68 636 841 533; X ASI  →  X Global LLC; Delaware File Number - 6028653; X ASIA PACIFIC INTERNET PTE. LTD.; 97 712 692 946; STA
-,Last Modified Accc,2026-07-01T09:16:16+10:00  →  2026-07-08T16:05:52+10:00
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
+,Other Parties,SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; KACM 3A PT  →  KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOUR
+,Last Modified Accc,2026-07-01T10:31:27+10:00  →  2026-07-08T15:51:12+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Questionnaire - SpaceX-Anysphere', 'url': 'https://www.accc.  →  "
+,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Questionnaire - Kinetic - Dysons', 'url': 'https://www.accc.  →  "
 ,,
-~ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
-,Last Modified Accc,2026-06-30T16:31:34+10:00  →  2026-07-08T07:54:35+10:00
+~ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
+,Other Parties,Stonepeak Partners LP; 4958360; Perpetual Corporate Trust Limited as trustee for Volarae Living (Aus  →  Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonep
+,Last Modified Accc,2026-06-30T20:43:33+10:00  →  2026-07-09T09:21:42+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '30 Jun 2026', 'description': 'Questionnaire - Hapag-Lloyd - ZIM', 'url': 'https://www.acc  →  "
+,Consultation Docs,"[{'date': '30 Jun 2026', 'description': 'Questionnaire - Stonepeak led consortium - Estia Health', '  →  "
 ,,
-~ INNIO Group – Enerflex,MN-80021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0
-,Last Modified Accc,2026-06-29T14:58:40+10:00  →  2026-07-08T09:51:40+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'INNIO Group - Enerflex Aftermarket Services - Questionnaire  →  "
-,,
-~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
-,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment
-,Last Modified Accc,2026-07-03T10:24:14+10:00  →  2026-07-08T08:17:10+10:00
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Targets,RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  →  RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882
-,Last Modified Accc,2026-06-26T16:38:32+10:00  →  2026-07-08T17:33:41+10:00
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Phase 2 Notice has con  →  On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable unde"
-,Consultation Docs,"  →  [{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI', 'url': 'https://ww"
-,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w  →  [{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': ''}, {'d"
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Targets,MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE   →  MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REG
+,Last Modified Accc,2026-06-30T17:31:23+10:00  →  2026-07-08T16:13:37+10:00
+,Consultation Text,"On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form   →  "
+,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials bus  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (21),Case Number,Detected (AEST)
-+ Hewitt – Nolan Meats,MN-35018,01 Jul  19:54
-+ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,01 Jul  19:54
-+ Count – Oracle Group,WA-45018,01 Jul  19:54
-+ Warburg Pincus – Commercial Credit Holdings Limited,WA-25030,01 Jul  19:54
-+ Symal Group - Shamrock Engineering and Equipment,MN-50030,01 Jul  19:54
+NEW ENTRIES (20),Case Number,Detected (AEST)
 + Vets Central – Hills Veterinary Centre,MN-40017,02 Jul  16:11
 + CVC Capital Partners and Groupe Bruxelles Lambert – Recordati,WA-70024,02 Jul  19:17
 + Saipem S.p.A - Subsea7 S.A.,MN-01072,03 Jul  13:34
@@ -91,18 +56,12 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 + VSA - SprayLine,MN-30022,07 Jul  19:48
 "+ Australian Venue Co – assets of Café Kinetic, Flinders Lane Melbourne CBD",WA-65024,07 Jul  19:48
 + LTM – Randstad Digital entities including FinXL,WA-15026,07 Jul  19:48
++ Blackstone – Acacium Group,WA-95029,08 Jul  18:34
++ SAS Trustee Corporation – Australia Pacific Airport Corporation,WA-90023,08 Jul  18:34
++ Mitsui – Rhodes Ridge Joint Venture,WA-70025,08 Jul  18:34
+"+ Oscars Group – South Terrace Hotel in Bankstown, NSW",WA-25031,08 Jul  18:34
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-06-26T08:59:43+10:00  →  2026-07-01T16:46:07+10:00  (01 Jul  19:54)
-,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →  On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  (01 Jul  19:54)"
-,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Microstar Konvoy - Remedy offer', 'url'  →    (01 Jul  19:54)"
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  (01 Jul  19:54)"
-,,
-"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,Last Modified Accc,2026-06-30T19:55:07+10:00  →  2026-07-01T18:32:20+10:00  (01 Jul  19:54)
-,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of Reas  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of re  (01 Jul  19:54)"
-,,
+"CHANGED ENTRIES (24 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 "~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
 ,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  13:53)
 ,End Of Determination Period,21 Jul 2026  →    (02 Jul  13:53)
@@ -220,6 +179,52 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-23T16:17:33+10:00  →  2026-07-07T16:25:19+10:00  (07 Jul  19:48)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (07 Jul  19:48)
 ,Decisions Docs,"  →  [{'date': '7 Jul 2026', 'description': 'CSR - Complete Plaster - Phase 1 determi  (07 Jul  19:48)"
+,,
+~ Hewitt – Nolan Meats,MN-35018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats
+,Acquirers,Dawson Land Investments Company Pty Ltd as trustee for the Dawson Land Trust; 60  →  SAPPHIRE CATTLE COMPANY PTY LTD; 14 600 389 286; Dawson Land Investments Company  (08 Jul  18:34)
+,Last Modified Accc,2026-07-01T16:35:10+10:00  →  2026-07-08T16:04:13+10:00  (08 Jul  18:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (08 Jul  18:34)
+,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Hewitt - Nolan Meats - Questionnaire', '  →    (08 Jul  18:34)"
+,,
+~ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
+,Notification Date,  →  1 July 2026  (08 Jul  18:34)
+,End Of Determination Period,  →  12 Aug 2026  (08 Jul  18:34)
+,Targets,SHAMROCK CIVIL ENGINEERING PTY. LTD.; 68 066 655 856; SHAMROCK EQUIPMENT PTY LTD  →  PHOENIX INVESTMENTS QUEENSLAND PTY LTD; 85 615 285 937; SHAMROCK CIVIL ENGINEERI  (08 Jul  18:34)
+,Last Modified Accc,2026-07-01T16:35:28+10:00  →  2026-07-08T15:54:56+10:00  (08 Jul  18:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (08 Jul  18:34)
+,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and E  →    (08 Jul  18:34)"
+,,
+~ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio
+,Acquirers,Schlumberger Canada Limited; 2025732419; Schlumberger Technology Corporation; EI  →  Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-068474  (08 Jul  18:34)
+,Last Modified Accc,2026-07-01T15:08:09+10:00  →  2026-07-08T16:06:06+10:00  (08 Jul  18:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (08 Jul  18:34)
+,,
+~ SpaceX - Anysphere,MN-85036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere
+,Other Parties,X.AI Corp.; Nevada Entity Number - E28915122023-8; STARLINK AUSTRALIA PTY LTD; 6  →  X Global LLC; Delaware File Number - 6028653; X ASIA PACIFIC INTERNET PTE. LTD.;  (08 Jul  18:34)
+,Last Modified Accc,2026-07-01T09:16:16+10:00  →  2026-07-08T16:05:52+10:00  (08 Jul  18:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (08 Jul  18:34)
+,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Questionnaire - SpaceX-Anysphere', 'url'  →    (08 Jul  18:34)"
+,,
+~ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
+,Last Modified Accc,2026-06-30T16:31:34+10:00  →  2026-07-08T07:54:35+10:00  (08 Jul  18:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (08 Jul  18:34)
+,Consultation Docs,"[{'date': '30 Jun 2026', 'description': 'Questionnaire - Hapag-Lloyd - ZIM', 'ur  →    (08 Jul  18:34)"
+,,
+~ INNIO Group – Enerflex,MN-80021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0
+,Last Modified Accc,2026-06-29T14:58:40+10:00  →  2026-07-08T09:51:40+10:00  (08 Jul  18:34)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (08 Jul  18:34)
+,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'INNIO Group - Enerflex Aftermarket Serv  →    (08 Jul  18:34)"
+,,
+~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (08 Jul  18:34)
+,Last Modified Accc,2026-07-03T10:24:14+10:00  →  2026-07-08T08:17:10+10:00  (08 Jul  18:34)
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Targets,RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  →  RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  (08 Jul  18:34)
+,Last Modified Accc,2026-06-26T16:38:32+10:00  →  2026-07-08T17:33:41+10:00  (08 Jul  18:34)
+,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a co  (08 Jul  18:34)"
+,Consultation Docs,"  →  [{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI'  (08 Jul  18:34)"
+,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concer  (08 Jul  18:34)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Saipem - Subsea7,,03 Jul  13:34
