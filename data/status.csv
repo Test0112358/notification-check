@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-09 03:36:21.042697,
-Last scrape run (AEST),09 Jul 2026  13:36,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-09 09:45:36.896386,
+Last scrape run (AEST),09 Jul 2026  19:45,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,430,
-New entries this run,2,
+Total entries monitored,431,
+New entries this run,1,
 Changed entries this run,3,
 Removed entries this run,0,
 ,,
@@ -13,35 +13,37 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Coles - Paydock,MN-65028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock
-+ Motorola Solutions - D-Fend Solutions,MN-05032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions
+NEW ENTRIES (1),Case Number,URL
++ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
 ,,
 CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
-,Other Parties,SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; KACM 3A PT  →  KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOUR
-,Last Modified Accc,2026-07-01T10:31:27+10:00  →  2026-07-08T15:51:12+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Questionnaire - Kinetic - Dysons', 'url': 'https://www.accc.  →  "
-,,
-~ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
-,Other Parties,Stonepeak Partners LP; 4958360; Perpetual Corporate Trust Limited as trustee for Volarae Living (Aus  →  Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonep
-,Last Modified Accc,2026-06-30T20:43:33+10:00  →  2026-07-09T09:21:42+10:00
+~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
+,Last Modified Accc,2026-07-02T15:50:42+10:00  →  2026-07-09T12:19:37+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '30 Jun 2026', 'description': 'Questionnaire - Stonepeak led consortium - Estia Health', '  →  "
+,Consultation Docs,"[{'date': '2 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
 ,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Targets,MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE   →  MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REG
-,Last Modified Accc,2026-06-30T17:31:23+10:00  →  2026-07-08T16:13:37+10:00
-,Consultation Text,"On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form   →  "
-,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials bus  →  "
+~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  9 July 2026
+,Other Parties,INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008  →  HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070
+,Last Modified Accc,2026-06-30T11:02:38+10:00  →  2026-07-09T17:23:03+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'ht"
+,,
+~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  9 July 2026
+,Other Parties,KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 36  →  AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 68
+,Last Modified Accc,2026-06-25T09:32:12+10:00  →  2026-07-09T16:44:29+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1 determination', 'url"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (20),Case Number,Detected (AEST)
-+ Vets Central – Hills Veterinary Centre,MN-40017,02 Jul  16:11
-+ CVC Capital Partners and Groupe Bruxelles Lambert – Recordati,WA-70024,02 Jul  19:17
 + Saipem S.p.A - Subsea7 S.A.,MN-01072,03 Jul  13:34
 + Allianz – certain assets of nib’s Australian travel insurance business,MN-80024,03 Jul  19:23
 + Partnered Health - Ryan Plaza Medical Services,MN-15027,03 Jul  19:23
@@ -60,52 +62,10 @@ NEW ENTRIES (20),Case Number,Detected (AEST)
 + SAS Trustee Corporation – Australia Pacific Airport Corporation,WA-90023,08 Jul  18:34
 + Mitsui – Rhodes Ridge Joint Venture,WA-70025,08 Jul  18:34
 "+ Oscars Group – South Terrace Hotel in Bankstown, NSW",WA-25031,08 Jul  18:34
++ Coles - Paydock,MN-65028,09 Jul  13:36
++ Motorola Solutions - D-Fend Solutions,MN-05032,09 Jul  13:36
 ,,
-"CHANGED ENTRIES (24 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
-"~ Coles – supermarket site in Minto, NSW",MN-25029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-minto-nsw
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  13:53)
-,End Of Determination Period,21 Jul 2026  →    (02 Jul  13:53)
-,Accc Determination,  →  Approved  (02 Jul  13:53)
-,Last Modified Accc,2026-06-16T10:34:54+10:00  →  2026-07-01T17:52:03+10:00  (02 Jul  13:53)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  13:53)
-,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Minto - Phase 1 determination', 'u  (02 Jul  13:53)"
-,,
-~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  13:53)
-,End Of Determination Period,17 Jul 2026  →    (02 Jul  13:53)
-,Accc Determination,  →  Approved  (02 Jul  13:53)
-,Determination Publication Date,  →  1 July 2026  (02 Jul  13:53)
-,Last Modified Accc,2026-06-15T11:08:11+10:00  →  2026-07-01T17:59:10+10:00  (02 Jul  13:53)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  13:53)
-,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Coles Lidcombe - Phase 1 Determination',  (02 Jul  13:53)"
-,,
-~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  16:11)
-,End Of Determination Period,6 Jul 2026  →    (02 Jul  16:11)
-,Accc Determination,  →  Approved  (02 Jul  16:11)
-,Determination Publication Date,  →  2 July 2026  (02 Jul  16:11)
-,Last Modified Accc,2026-06-01T10:01:15+10:00  →  2026-07-02T13:56:06+10:00  (02 Jul  16:11)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  16:11)
-,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'Logic Technologies - Ace Communication D  (02 Jul  16:11)"
-,,
-~ EBOS - Paringa Pet Foods,MN-30020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ebos-paringa-pet-foods
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  19:17)
-,End Of Determination Period,23 Jul 2026  →    (02 Jul  19:17)
-,Accc Determination,  →  Approved  (02 Jul  19:17)
-,Determination Publication Date,  →  2 July 2026  (02 Jul  19:17)
-,Last Modified Accc,2026-06-19T10:18:09+10:00  →  2026-07-02T16:41:07+10:00  (02 Jul  19:17)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  19:17)
-,Decisions Docs,"  →  [{'date': '2 Jul 2026', 'description': 'EBOS - Paringa Pet Foods - Phase 1 deter  (02 Jul  19:17)"
-,,
-~ Premier Fresh – Domenico Group,MN-40020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/premier-fresh-%E2%80%93-domenico-group
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Jul  19:17)
-,End Of Determination Period,17 Jul 2026  →    (02 Jul  19:17)
-,Accc Determination,  →  Approved  (02 Jul  19:17)
-,Determination Publication Date,  →  1 July 2026  (02 Jul  19:17)
-,Last Modified Accc,2026-06-12T15:49:39+10:00  →  2026-07-02T16:33:10+10:00  (02 Jul  19:17)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (02 Jul  19:17)
-,Decisions Docs,"  →  [{'date': '1 Jul 2026', 'description': 'Premier Fresh - Domenico Group - Phase 1  (02 Jul  19:17)"
-,,
+"CHANGED ENTRIES (22 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
 ~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
 ,Other Parties,AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD  →  U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424;  (03 Jul  13:34)
 ,Last Modified Accc,2026-06-25T14:24:08+10:00  →  2026-07-03T08:27:12+10:00  (03 Jul  13:34)
@@ -225,6 +185,24 @@ NEW ENTRIES (20),Case Number,Detected (AEST)
 ,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a co  (08 Jul  18:34)"
 ,Consultation Docs,"  →  [{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI'  (08 Jul  18:34)"
 ,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concer  (08 Jul  18:34)"
+,,
+~ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
+,Other Parties,SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; KINETIC (MELBOURNE) PTY LTD; 89 644  →  KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 1  (09 Jul  13:36)
+,Last Modified Accc,2026-07-01T10:31:27+10:00  →  2026-07-08T15:51:12+10:00  (09 Jul  13:36)
+,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (09 Jul  13:36)
+,Consultation Docs,"[{'date': '1 Jul 2026', 'description': 'Questionnaire - Kinetic - Dysons', 'url'  →    (09 Jul  13:36)"
+,,
+~ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
+,Other Parties,Stonepeak Partners LP; 4958360; Perpetual Corporate Trust Limited as trustee for  →  Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Hold  (09 Jul  13:36)
+,Last Modified Accc,2026-06-30T20:43:33+10:00  →  2026-07-09T09:21:42+10:00  (09 Jul  13:36)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (09 Jul  13:36)
+,Consultation Docs,"[{'date': '30 Jun 2026', 'description': 'Questionnaire - Stonepeak led consortiu  →    (09 Jul  13:36)"
+,,
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Targets,MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074  →  MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED;  (09 Jul  13:36)
+,Last Modified Accc,2026-06-30T17:31:23+10:00  →  2026-07-08T16:13:37+10:00  (09 Jul  13:36)
+,Consultation Text,"On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to t  →    (09 Jul  13:36)"
+,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Constr  →    (09 Jul  13:36)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Saipem - Subsea7,,03 Jul  13:34

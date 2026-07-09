@@ -1,99 +1,119 @@
 {
-  "run_utc": "2026-07-09T03:36:21.042697Z",
-  "new_count": 2,
+  "run_utc": "2026-07-09T09:45:36.896386Z",
+  "new_count": 1,
   "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "coles-paydock",
-      "title": "Coles - Paydock",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock"
-    },
-    {
-      "slug": "motorola-solutions-d-fend-solutions",
-      "title": "Motorola Solutions - D-Fend Solutions",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions"
+      "slug": "analogic-leidos-ses-business",
+      "title": "Analogic - Leidos SES business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business"
     }
   ],
   "changed_entries": [
     {
-      "slug": "kinetic-dysons-bus-services",
-      "title": "KINETIC - DYSONS BUS SERVICES",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services",
+      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+      "title": "Vets Central – Hills Veterinary Centre",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
       "changes": [
         {
-          "field": "other_parties",
-          "old": "SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; KACM 3A PTY LTD; 24 674 151 118; KOCM 3 PTY LTD; 60 679 737 510; DYSONS MZF (ASSETCO) PTY LTD; 18 680 323 291; DYSONS MZF PTY LTD; 16 680 323 282; KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KINETIC ASSETCO (MELBOURNE) PTY LTD; 72 644 633 303",
-          "new": "KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; DYSONS MZF (ASSETCO) PTY LTD; 18 680 323 291; SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; DYSONS MZF PTY LTD; 16 680 323 282; KOCM 3 PTY LTD; 60 679 737 510; KINETIC ASSETCO (MELBOURNE) PTY LTD; 72 644 633 303"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-01T10:31:27+10:00",
-          "new": "2026-07-08T15:51:12+10:00"
+          "old": "2026-07-02T15:50:42+10:00",
+          "new": "2026-07-09T12:19:37+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 8 July 2026 via email to mergers@accc.gov.au with the title Submission re: Kinetic - Dysons Bus Services. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 1 Jul 2026 Questionnaire - Kinetic - Dysons Attachment 115.91 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 July 2026 via email to mergers@accc.gov.au with the title Vets Central - Hills Veterinary Centre. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 2 Jul 2026 Questionnaire Attachment 107.8 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '1 Jul 2026', 'description': 'Questionnaire - Kinetic - Dysons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Kinetic%20-%20Dysons.docx'}]",
+          "old": "[{'date': '2 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "stonepeak-led-consortium-estia-health",
-      "title": "Stonepeak-led consortium - Estia Health",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health",
+      "slug": "adbri-eureka-concrete",
+      "title": "Adbri - Eureka Concrete",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
       "changes": [
         {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "9 July 2026"
+        },
+        {
           "field": "other_parties",
-          "old": "Stonepeak Partners LP; 4958360; Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Aura Australia Holdings Pty Ltd; 41 614 139 589; Wisdom TopCo Pty Ltd; 696 888 552; Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 99 000 341 533",
-          "new": "Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonepeak Partners LP; 4958360; Wisdom TopCo Pty Ltd; 696 888 552; Aura Australia Holdings Pty Ltd; 41 614 139 589; Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 99 000 341 533"
+          "old": "INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617",
+          "new": "HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-30T20:43:33+10:00",
-          "new": "2026-07-09T09:21:42+10:00"
+          "old": "2026-06-30T11:02:38+10:00",
+          "new": "2026-07-09T17:23:03+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 7 July 2026 via email to mergers@accc.gov.au with the title Submission re: Stonepeak led consortium – Estia Health. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jun 2026 Questionnaire - Stonepeak led consortium - Estia Health Attachment 116.12 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
         },
         {
-          "field": "consultation_docs",
-          "old": "[{'date': '30 Jun 2026', 'description': 'Questionnaire - Stonepeak led consortium - Estia Health', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak%20-%20Estia%20Health%20-%20third-party%20questionnaire.docx'}]",
-          "new": ""
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Adbri-Eureka%3A%20Phase%201%20determination%20-%209%20June%202026.pdf'}]"
         }
       ]
     },
     {
-      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+      "slug": "complete-air-supply-all-air",
+      "title": "Complete Air Supply - All Air",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air",
       "changes": [
         {
-          "field": "targets",
-          "old": "MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699",
-          "new": "MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542"
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "9 July 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 363; HVAC CONSOLIDATED PTY LTD; 26 162 828 971; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 680; AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; QUALITY AIR EQUIPMENT PTY LTD; 42 095 082 689; BEIJER REF AUSTRALIA PTY LTD; 62 133 913 283",
+          "new": "AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 680; TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; HVAC CONSOLIDATED PTY LTD; 26 162 828 971; Australian Airconditioning Distributors Pty Ltd; 43 139 947 363; BEIJER REF AUSTRALIA PTY LTD; 62 133 913 283; QUALITY AIR EQUIPMENT PTY LTD; 42 095 082 689; KIRBY HVAC&R PTY LTD; 42 624 910 041"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-30T17:31:23+10:00",
-          "new": "2026-07-08T16:13:37+10:00"
+          "old": "2026-06-25T09:32:12+10:00",
+          "new": "2026-07-09T16:44:29+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form of undertakings pursuant to s87B of the Competition and Consumer Act 2010 (Cth On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to the ACCC in the form of undertakings pursuant to s87B of the Competition and Consumer Act 2010 (Cth), to divest its Blackwater RMX plant, its Yalkara hard rock quarry, its North Wollongong RMX plant, and its Bass Point RMX plant (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 7 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: HMA – MAAS – Remedy offer. read more 29 Jun 2026 Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer Attachment 3.26 MB 29 Jun 2026 Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer Attachment 110.25 KB",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
-          "field": "consultation_docs",
-          "old": "[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Remedy%20Offer%20-%2029%20June%202026_0.pdf'}, {'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Construction materials business of MAAS - Questionnaire - Remedy offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA%20MAAS%20-%20Questionnaire%20re%3A%20Remedy%20Offer%20%2829%20June%202026%29_0.docx'}]",
-          "new": ""
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Complete%20Air%20Supply%20-%20All%20Air%20-%20Phase%201%20Determination%20-%209%20July%202026.pdf'}]"
         }
       ]
     }
