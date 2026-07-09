@@ -120,9 +120,33 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "mizuho-%E2%80%93-avendus",
-    "title": "Mizuho – Avendus",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mizuho-%E2%80%93-avendus",
+    "slug": "volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+    "title": "Volt Managed Investment Trusts – HMC Energy Transition Platform",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "sembcorp-industries-ltd-alinta-energy",
+    "title": "Sembcorp Industries Ltd - Alinta Energy",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sembcorp-industries-ltd-alinta-energy",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "wipro-mindsprint",
+    "title": "Wipro - Mindsprint",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wipro-mindsprint",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
