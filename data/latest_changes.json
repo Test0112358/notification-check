@@ -1,119 +1,29 @@
 {
-  "run_utc": "2026-07-09T09:45:36.896386Z",
-  "new_count": 1,
-  "changed_count": 3,
+  "run_utc": "2026-07-10T03:37:55.404511Z",
+  "new_count": 0,
+  "changed_count": 1,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "analogic-leidos-ses-business",
-      "title": "Analogic - Leidos SES business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
-    {
-      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "title": "Vets Central – Hills Veterinary Centre",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-02T15:50:42+10:00",
-          "new": "2026-07-09T12:19:37+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 July 2026 via email to mergers@accc.gov.au with the title Vets Central - Hills Veterinary Centre. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 2 Jul 2026 Questionnaire Attachment 107.8 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '2 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Questionnaire.docx'}]",
-          "new": ""
-        }
-      ]
-    },
     {
       "slug": "adbri-eureka-concrete",
       "title": "Adbri - Eureka Concrete",
       "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "9 July 2026"
-        },
-        {
           "field": "other_parties",
-          "old": "INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617",
-          "new": "HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617"
+          "old": "HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617",
+          "new": "E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-30T11:02:38+10:00",
-          "new": "2026-07-09T17:23:03+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "2026-07-09T17:23:03+10:00",
+          "new": "2026-07-10T08:24:45+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Adbri-Eureka%3A%20Phase%201%20determination%20-%209%20June%202026.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "complete-air-supply-all-air",
-      "title": "Complete Air Supply - All Air",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "9 July 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 363; HVAC CONSOLIDATED PTY LTD; 26 162 828 971; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 680; AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; QUALITY AIR EQUIPMENT PTY LTD; 42 095 082 689; BEIJER REF AUSTRALIA PTY LTD; 62 133 913 283",
-          "new": "AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 680; TURNER ENGINEERING W.A. PTY LTD; 43 009 381 373; HVAC CONSOLIDATED PTY LTD; 26 162 828 971; Australian Airconditioning Distributors Pty Ltd; 43 139 947 363; BEIJER REF AUSTRALIA PTY LTD; 62 133 913 283; QUALITY AIR EQUIPMENT PTY LTD; 42 095 082 689; KIRBY HVAC&R PTY LTD; 42 624 910 041"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-25T09:32:12+10:00",
-          "new": "2026-07-09T16:44:29+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Complete%20Air%20Supply%20-%20All%20Air%20-%20Phase%201%20Determination%20-%209%20July%202026.pdf'}]"
+          "old": "[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Adbri-Eureka%3A%20Phase%201%20determination%20-%209%20June%202026.pdf'}]",
+          "new": "[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Adbri-Eureka%3A%20Phase%201%20determination%20-%209%20July%202026.pdf'}]"
         }
       ]
     }

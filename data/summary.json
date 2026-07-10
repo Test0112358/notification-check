@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-09T10:02:08.907926Z",
+  "generated_at_utc": "2026-07-10T03:55:00.697449Z",
   "total_entries": 431,
   "by_acquisition_status": {
     "Under assessment": 41,
@@ -20,5 +20,12 @@
     "Not approved": 15,
     "Approved with conditions": 1
   },
-  "decisions_due_within_10_days": []
+  "decisions_due_within_10_days": [
+    {
+      "slug": "uber-blacklane",
+      "title": "Uber - Blacklane",
+      "end_of_determination_period": "20 Jul 2026",
+      "days_remaining": 10
+    }
+  ]
 }

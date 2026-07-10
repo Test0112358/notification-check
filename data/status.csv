@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-09 09:45:36.896386,
-Last scrape run (AEST),09 Jul 2026  19:45,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-10 03:37:55.404511,
+Last scrape run (AEST),10 Jul 2026  13:37,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,431,
-New entries this run,1,
-Changed entries this run,3,
+New entries this run,0,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,38 +13,16 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
-,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
-,Last Modified Accc,2026-07-02T15:50:42+10:00  →  2026-07-09T12:19:37+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '2 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
-,,
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
 ~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  9 July 2026
-,Other Parties,INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008  →  HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070
-,Last Modified Accc,2026-06-30T11:02:38+10:00  →  2026-07-09T17:23:03+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'ht"
-,,
-~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  9 July 2026
-,Other Parties,KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pty Ltd; 43 139 947 36  →  AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; Quality Air Equipment (W.A) Pty Ltd; 66 145 765 68
-,Last Modified Accc,2026-06-25T09:32:12+10:00  →  2026-07-09T16:44:29+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1 determination', 'url"
+,Other Parties,HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096
+,Last Modified Accc,2026-07-09T17:23:03+10:00  →  2026-07-10T08:24:45+10:00
+,Decisions Docs,"[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'ht  →  [{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'ht"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (20),Case Number,Detected (AEST)
-+ Saipem S.p.A - Subsea7 S.A.,MN-01072,03 Jul  13:34
 + Allianz – certain assets of nib’s Australian travel insurance business,MN-80024,03 Jul  19:23
 + Partnered Health - Ryan Plaza Medical Services,MN-15027,03 Jul  19:23
 + Journey Beyond Kelsian Group Tourism Portfolio,MN-85015,03 Jul  19:23
@@ -64,27 +42,9 @@ NEW ENTRIES (20),Case Number,Detected (AEST)
 "+ Oscars Group – South Terrace Hotel in Bankstown, NSW",WA-25031,08 Jul  18:34
 + Coles - Paydock,MN-65028,09 Jul  13:36
 + Motorola Solutions - D-Fend Solutions,MN-05032,09 Jul  13:36
++ Analogic - Leidos SES business,MN-75029,09 Jul  19:45
 ,,
 "CHANGED ENTRIES (22 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
-~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
-,Other Parties,AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD  →  U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424;  (03 Jul  13:34)
-,Last Modified Accc,2026-06-25T14:24:08+10:00  →  2026-07-03T08:27:12+10:00  (03 Jul  13:34)
-,Consultation Text,The ACCC has prepared a questionnaire on the Transaction. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (03 Jul  13:34)
-,Consultation Docs,"[{'date': '24 Jun 2026', 'description': 'Questionnaire - AkzoNobel-Axalta', 'url  →    (03 Jul  13:34)"
-,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,End Of Determination Period,20 Jul 2026  →  27 Jul 2026  (03 Jul  13:34)
-,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  (03 Jul  13:34)
-,Targets,The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS  →  SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMI  (03 Jul  13:34)
-,Last Modified Accc,2026-06-19T12:17:30+10:00  →  2026-07-03T10:56:23+10:00  (03 Jul  13:34)
-,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  →  [{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  (03 Jul  13:34)"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (03 Jul  13:34)
-,Other Parties,The Trustee for ASG Exical Unit Trust; 57 818 350 085; N.G. BROWN & ASSOCIATES P  →  IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 5  (03 Jul  13:34)
-,Last Modified Accc,2026-07-01T10:15:46+10:00  →  2026-07-03T13:31:12+10:00  (03 Jul  13:34)
-,Decisions Docs,"[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  →  [{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days –   (03 Jul  13:34)"
-,,
 ~ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
 ,Acquirers,"Wave Merger Sub, Inc.; Delaware File Number - 10631976; OpenAI Group PBC; Delawa  →  OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Dela  (03 Jul  19:23)"
 ,Other Parties,Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936  →  OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228  (03 Jul  19:23)
@@ -204,6 +164,26 @@ NEW ENTRIES (20),Case Number,Detected (AEST)
 ,Consultation Text,"On 29 June 2026, Heidelberg Materials Australia made a further remedy offer to t  →    (09 Jul  13:36)"
 ,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Heidelberg Materials Australia - Constr  →    (09 Jul  13:36)"
 ,,
-REMOVED ENTRIES (1),Case Number,Detected (AEST)
-- Saipem - Subsea7,,03 Jul  13:34
+~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
+,Last Modified Accc,2026-07-02T15:50:42+10:00  →  2026-07-09T12:19:37+10:00  (09 Jul  19:45)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (09 Jul  19:45)
+,Consultation Docs,"[{'date': '2 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (09 Jul  19:45)"
+,,
+~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Jul  19:45)
+,Accc Determination,  →  Approved  (09 Jul  19:45)
+,Determination Publication Date,  →  9 July 2026  (09 Jul  19:45)
+,Other Parties,INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRE  →  HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE P  (09 Jul  19:45)
+,Last Modified Accc,2026-06-30T11:02:38+10:00  →  2026-07-09T17:23:03+10:00  (09 Jul  19:45)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jul  19:45)
+,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determ  (09 Jul  19:45)"
+,,
+~ Complete Air Supply - All Air,MN-15018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Jul  19:45)
+,Accc Determination,  →  Approved  (09 Jul  19:45)
+,Determination Publication Date,  →  9 July 2026  (09 Jul  19:45)
+,Other Parties,KIRBY HVAC&R PTY LTD; 42 624 910 041; Australian Airconditioning Distributors Pt  →  AIRCONDITIONING DIRECT PTY. LTD.; 48 100 354 461; Quality Air Equipment (W.A) Pt  (09 Jul  19:45)
+,Last Modified Accc,2026-06-25T09:32:12+10:00  →  2026-07-09T16:44:29+10:00  (09 Jul  19:45)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jul  19:45)
+,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1   (09 Jul  19:45)"
 ,,

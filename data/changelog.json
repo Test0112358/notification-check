@@ -23097,5 +23097,29 @@
         "new": "[{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Complete%20Air%20Supply%20-%20All%20Air%20-%20Phase%201%20Determination%20-%209%20July%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-10T03:37:55.404511Z",
+    "slug": "adbri-eureka-concrete",
+    "title": "Adbri - Eureka Concrete",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617",
+        "new": "E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617; HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; INDEPENDENT CEMENT AND LIME PTY. LIMITED; 49 005 829 550; CENTRAL PRE-MIX CONCRETE PTY. LTD.; 62 008 070 862"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-09T17:23:03+10:00",
+        "new": "2026-07-10T08:24:45+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Adbri-Eureka%3A%20Phase%201%20determination%20-%209%20June%202026.pdf'}]",
+        "new": "[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Adbri-Eureka%3A%20Phase%201%20determination%20-%209%20July%202026.pdf'}]"
+      }
+    ]
   }
 ]

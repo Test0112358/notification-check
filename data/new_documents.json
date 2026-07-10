@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-07-09T09:45:36.896386Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "analogic-leidos-ses-business",
-      "title": "Analogic - Leidos SES business",
-      "case_number": "MN-75029",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business",
-      "date": "9 Jul 2026",
-      "description": "Analogic - Leidos SES business - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Analogic%20-%20Leidos%20SES%20business%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Analogic - Leidos SES business - Questionnaire.docx",
-      "filename": "Analogic - Leidos SES business - Questionnaire.docx",
-      "size_kb": 107.1
-    }
-  ]
+  "run_utc": "2026-07-10T03:37:55.404511Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }
