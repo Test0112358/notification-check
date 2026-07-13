@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "wipro-mindsprint",
-    "title": "Wipro - Mindsprint",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wipro-mindsprint",
+    "slug": "mizuho-%E2%80%93-avendus",
+    "title": "Mizuho – Avendus",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mizuho-%E2%80%93-avendus",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "innio-group-%E2%80%93-enerflex",
-    "title": "INNIO Group – Enerflex",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex",
+    "slug": "fc-group-holdings-corporation-ors-fluent-retail",
+    "title": "FC Group Holdings Corporation & ors - Fluent Retail",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fc-group-holdings-corporation-ors-fluent-retail",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -144,21 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "cleanpeak-energy-holdings-sustainable-energy-infrastructure",
-    "title": "CleanPeak Energy Holdings - Sustainable Energy Infrastructure",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cleanpeak-energy-holdings-sustainable-energy-infrastructure",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "sembcorp-industries-ltd-alinta-energy",
-    "title": "Sembcorp Industries Ltd - Alinta Energy",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sembcorp-industries-ltd-alinta-energy",
+    "slug": "infosys-%E2%80%93-optimum-healthcare-it",
+    "title": "Infosys – Optimum Healthcare IT",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infosys-%E2%80%93-optimum-healthcare-it",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",

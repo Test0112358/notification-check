@@ -1,16 +1,16 @@
 {
-  "run_utc": "2026-07-10T09:56:17.643243Z",
+  "run_utc": "2026-07-13T03:38:58.063088Z",
   "register_entries_checked": 432,
   "layer3_sample_size": 64,
-  "total_issues": 14,
+  "total_issues": 13,
   "errors": 0,
-  "warnings": 14,
+  "warnings": 13,
   "infos": 0,
   "passed": true,
   "issues_by_rule": {
     "COMPLETED_MISSING_PUB_DATE": 9,
     "ANZSIC_NO_CODE_FOUND": 1,
-    "ENTRY_STORED_BUT_NOT_IN_LISTING": 4
+    "ENTRY_STORED_BUT_NOT_IN_LISTING": 3
   },
   "error_entries": []
 }
