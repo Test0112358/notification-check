@@ -1,60 +1,28 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-10 09:40:47.570744,
-Last scrape run (AEST),10 Jul 2026  19:40,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-13 03:20:20.474799,
+Last scrape run (AEST),13 Jul 2026  13:20,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,432,
-New entries this run,2,
-Changed entries this run,4,
-Removed entries this run,1,
+New entries this run,0,
+Changed entries this run,1,
+Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
-+ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972
-,Last Modified Accc,2026-07-03T18:26:40+10:00  →  2026-07-10T16:21:24+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - EAG - Kelsian and Vyscot', 'url': 'https://w  →  "
-,,
-~ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  10 July 2026
-,Acquirers,"Axton Holdings, LLC; CRN: 7039521; Bertelsmann SE & Co. KGaA; HRB 9194  →  Bertelsmann SE & Co. KGaA; HRB 9194; Axton Holdings, LLC; CRN: 7039521"
-,Targets,"BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V.   →  BMG LP [New MusicCo]; BMG Rights Management (US), LLC; 4645458; Alchemy Copyrights LLC; Company Numb"
-,Last Modified Accc,2026-06-26T09:46:48+10:00  →  2026-07-10T15:01:16+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '10 Jul 2026', 'description': 'Bertelsmann Music Group - Concord - Phase 1 Determination',"
-,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,End Of Determination Period,27 Jul 2026  →  17 Aug 2026
-,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705   →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 
-,Last Modified Accc,2026-07-03T10:56:23+10:00  →  2026-07-10T16:36:15+10:00
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s"
-,Consultation Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer - 9 July 2026', 'url"
-,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request b  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy of"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Acquisition Status,Under assessment  →  Assessment ceased
-,Other Parties,IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobil  →  EQT Fund Management S.à r.l.; Registration number B167972; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004
-,Last Modified Accc,2026-07-03T13:31:12+10:00  →  2026-07-10T15:08:46+10:00
-,Decisions Docs,"[{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to  →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by "
-,,
-REMOVED ENTRIES (1),Case Number,
-- Journey Beyond Kelsian Group Tourism Portfolio,MN-85015,
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
+,Last Modified Accc,2026-07-03T14:49:22+10:00  →  2026-07-13T09:11:16+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Plaza', 'url': 'https:  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (13),Case Number,Detected (AEST)
+NEW ENTRIES (15),Case Number,Detected (AEST)
 + Mitsubishi Estate Asia – Eynesbury Properties,WA-35026,06 Jul  20:43
 + Siemens Energy – Camlin Group,WA-60023,06 Jul  20:43
 + Oaktree – Vivax Metrotech,WA-20026,06 Jul  20:43
@@ -68,8 +36,10 @@ NEW ENTRIES (13),Case Number,Detected (AEST)
 + Coles - Paydock,MN-65028,09 Jul  13:36
 + Motorola Solutions - D-Fend Solutions,MN-05032,09 Jul  13:36
 + Analogic - Leidos SES business,MN-75029,09 Jul  19:45
++ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,10 Jul  19:40
++ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,10 Jul  19:40
 ,,
-"CHANGED ENTRIES (19 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (23 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
 ,Title,WSP / GEOTECHNICAL TESTING AND INTERPRETATION  →  WSP - Geotechnical Testing and Interpretation  (06 Jul  20:43)
 ,Other Parties,WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395; RICARDO AUSTRALIA PTY LTD; 17 62  →  RICARDO AUSTRALIA PTY LTD; 17 625 088 646; WSP AUSTRALIA HOLDINGS PTY LTD; 90 16  (06 Jul  20:43)
@@ -193,4 +163,37 @@ NEW ENTRIES (13),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-25T09:32:12+10:00  →  2026-07-09T16:44:29+10:00  (09 Jul  19:45)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (09 Jul  19:45)
 ,Decisions Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Complete Air Supply - All Air - Phase 1   (09 Jul  19:45)"
+,,
+~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
+,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  (10 Jul  19:40)
+,Last Modified Accc,2026-07-03T18:26:40+10:00  →  2026-07-10T16:21:24+10:00  (10 Jul  19:40)
+,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Jul  19:40)
+,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - EAG - Kelsian and Vyscot  →    (10 Jul  19:40)"
+,,
+~ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Jul  19:40)
+,Accc Determination,  →  Approved  (10 Jul  19:40)
+,Determination Publication Date,  →  10 July 2026  (10 Jul  19:40)
+,Acquirers,"Axton Holdings, LLC; CRN: 7039521; Bertelsmann SE & Co. KGaA; HRB 9194  →  Bertelsmann SE & Co. KGaA; HRB 9194; Axton Holdings, LLC; CRN: 7039521  (10 Jul  19:40)"
+,Targets,"BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard   →  BMG LP [New MusicCo]; BMG Rights Management (US), LLC; 4645458; Alchemy Copyrigh  (10 Jul  19:40)"
+,Last Modified Accc,2026-06-26T09:46:48+10:00  →  2026-07-10T15:01:16+10:00  (10 Jul  19:40)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jul  19:40)
+,Decisions Docs,"  →  [{'date': '10 Jul 2026', 'description': 'Bertelsmann Music Group - Concord - Pha  (10 Jul  19:40)"
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,End Of Determination Period,27 Jul 2026  →  17 Aug 2026  (10 Jul  19:40)
+,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  (10 Jul  19:40)
+,Last Modified Accc,2026-07-03T10:56:23+10:00  →  2026-07-10T16:36:15+10:00  (10 Jul  19:40)
+,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable under  (10 Jul  19:40)"
+,Consultation Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer   (10 Jul  19:40)"
+,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  (10 Jul  19:40)"
+,,
+~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
+,Acquisition Status,Under assessment  →  Assessment ceased  (10 Jul  19:40)
+,Other Parties,IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 5  →  EQT Fund Management S.à r.l.; Registration number B167972; N.G. BROWN & ASSOCIAT  (10 Jul  19:40)
+,Last Modified Accc,2026-07-03T13:31:12+10:00  →  2026-07-10T15:08:46+10:00  (10 Jul  19:40)
+,Decisions Docs,"[{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days –   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (10 Jul  19:40)"
+,,
+REMOVED ENTRIES (1),Case Number,Detected (AEST)
+- Journey Beyond Kelsian Group Tourism Portfolio,,10 Jul  19:40
 ,,

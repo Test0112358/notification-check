@@ -1,164 +1,32 @@
 {
-  "run_utc": "2026-07-10T09:40:47.570744Z",
-  "new_count": 2,
-  "changed_count": 4,
-  "removed_count": 1,
-  "new_entries": [
-    {
-      "slug": "energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
-      "title": "Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members"
-    },
-    {
-      "slug": "journey-beyond-kelsian-tourism-portfolio",
-      "title": "Journey Beyond - Kelsian Tourism Portfolio",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio"
-    }
-  ],
+  "run_utc": "2026-07-13T03:20:20.474799Z",
+  "new_count": 0,
+  "changed_count": 1,
+  "removed_count": 0,
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "journey-beyond-sealink-rottnest",
-      "title": "Journey Beyond - SeaLink Rottnest",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
+      "slug": "partnered-health-ryan-plaza-medical-services",
+      "title": "Partnered Health - Ryan Plaza Medical Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
       "changes": [
         {
-          "field": "targets",
-          "old": "VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257",
-          "new": "KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-03T18:26:40+10:00",
-          "new": "2026-07-10T16:21:24+10:00"
+          "old": "2026-07-03T14:49:22+10:00",
+          "new": "2026-07-13T09:11:16+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 10 July 2026 via email to mergers@accc.gov.au with the title Submission re: Journey Beyond Acquisitions. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jul 2026 Questionnaire - EAG - Kelsian and Vyscot Attachment 120.18 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 July 2026 via email to mergers@accc.gov.au with the title Submission re: Partnered Health – Ryan Plaza. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jul 2026 Questionnaire - Partnered Health-Ryan Plaza Attachment 115.89 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '3 Jul 2026', 'description': 'Questionnaire - EAG - Kelsian and Vyscot', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20EAG%20-%20Kelsian%20and%20Vyscot_0.docx'}]",
+          "old": "[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Plaza', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Partnered%20Health-Ryan%20Plaza_1.docx'}]",
           "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "bertelsmann-music-group-concord",
-      "title": "Bertelsmann Music Group - Concord",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "10 July 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "Axton Holdings, LLC; CRN: 7039521; Bertelsmann SE & Co. KGaA; HRB 9194",
-          "new": "Bertelsmann SE & Co. KGaA; HRB 9194; Axton Holdings, LLC; CRN: 7039521"
-        },
-        {
-          "field": "targets",
-          "old": "BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204; BMG Rights Management (US), LLC; 4645458",
-          "new": "BMG LP [New MusicCo]; BMG Rights Management (US), LLC; 4645458; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard Mohn Nederland B.V. (formerly ROW HoldCo B.V.); Company Number: 42027204"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-26T09:46:48+10:00",
-          "new": "2026-07-10T15:01:16+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '10 Jul 2026', 'description': 'Bertelsmann Music Group - Concord - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Concord%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "27 Jul 2026",
-          "new": "17 Aug 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498",
-          "new": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-03T10:56:23+10:00",
-          "new": "2026-07-10T16:36:15+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": "On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which requires that On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which requires that BRG must divest, including by procuring divestiture, either the Northern Road bottle shop, the Royal 99 bottle shop, or both, to an ACCC-approved purchaser before they may complete the Acquisition (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm(AEST) on 17 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Black Rhino – Club Hotel Motel Roma – Remedy offer. read more 9 Jul 2026 Black Rhino - Club Hotel - Remedy Offer - 9 July 2026 Attachment 315.73 KB 10 Jul 2026 Black Rhino - Club Hotel - Remedy Offer Questionnaire Attachment 97.77 KB"
-        },
-        {
-          "field": "consultation_docs",
-          "old": "",
-          "new": "[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer - 9 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Remedy%20Offer%20%289%20July%202026%29_1.pdf'}, {'date': '10 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Questionnaire%20-%20Remedy%20Offer%20%2810%20July%202026%29_2.docx'}]"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]",
-          "new": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]"
-        }
-      ]
-    },
-    {
-      "slug": "trescal-%E2%80%93-tr-calibration",
-      "title": "Trescal – TR Calibration",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment ceased"
-        },
-        {
-          "field": "other_parties",
-          "old": "IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 57 818 350 085; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; EQT Fund Management S.à r.l.; Registration number B167972; TRESCAL HOLDING PTY LTD; 35 633 411 391; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738",
-          "new": "EQT Fund Management S.à r.l.; Registration number B167972; N.G. BROWN & ASSOCIATES PTY. LTD.; 97 004 819 738; IPAC SOLUTIONS PTY LTD; 30 108 845 718; TRESCAL HOLDING PTY LTD; 35 633 411 391; Mobile Test 'n' Cal Australia Pty Ltd; 45 147 991 482; The Trustee for ASG Exical Unit Trust; 57 818 350 085"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-03T13:31:12+10:00",
-          "new": "2026-07-10T15:08:46+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026_0.pdf'}, {'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – following request by parties', 'url': ''}, {'date': '26 May 2026', 'description': 'Timeline extended by 11 business days – following request by parties', 'url': ''}, {'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days – following request to parties for further information', 'url': ''}, {'date': '30 Jun 2026', 'description': 'Trescal - TR Calibration - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Trescal%20-%20TR%20Calibration%20-%20Phase%202%20Notice%20-%2030%20June%202026_2.pdf'}, {'date': '10 Jul 2026', 'description': 'Consideration of Notification ceased – Phase 2 fee not paid by due date', 'url': ''}]"
         }
       ]
     }
   ],
-  "removed_entries": [
-    {
-      "slug": "journey-beyond-kelsian-group-tourism-portfolio",
-      "title": "Journey Beyond Kelsian Group Tourism Portfolio"
-    }
-  ]
+  "removed_entries": []
 }

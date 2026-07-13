@@ -23291,5 +23291,29 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-group-tourism-portfolio",
     "event": "REMOVED",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-13T03:20:20.474799Z",
+    "slug": "partnered-health-ryan-plaza-medical-services",
+    "title": "Partnered Health - Ryan Plaza Medical Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-03T14:49:22+10:00",
+        "new": "2026-07-13T09:11:16+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 July 2026 via email to mergers@accc.gov.au with the title Submission re: Partnered Health – Ryan Plaza. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jul 2026 Questionnaire - Partnered Health-Ryan Plaza Attachment 115.89 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Plaza', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Partnered%20Health-Ryan%20Plaza_1.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-10T09:55:35.777601Z",
+  "generated_at_utc": "2026-07-13T03:38:22.569174Z",
   "total_entries": 432,
   "by_acquisition_status": {
     "Under assessment": 40,
@@ -25,6 +25,18 @@
       "slug": "uber-blacklane",
       "title": "Uber - Blacklane",
       "end_of_determination_period": "20 Jul 2026",
+      "days_remaining": 7
+    },
+    {
+      "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+      "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
+      "end_of_determination_period": "21 Jul 2026",
+      "days_remaining": 8
+    },
+    {
+      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+      "title": "Zoetis – Neogen Genomics Business",
+      "end_of_determination_period": "23 Jul 2026",
       "days_remaining": 10
     }
   ]
