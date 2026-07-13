@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-13 03:20:20.474799,
-Last scrape run (AEST),13 Jul 2026  13:20,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-13 09:33:29.876705,
+Last scrape run (AEST),13 Jul 2026  19:33,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,432,
-New entries this run,0,
-Changed entries this run,1,
+Total entries monitored,440,
+New entries this run,8,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,11 +13,15 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
-,Last Modified Accc,2026-07-03T14:49:22+10:00  →  2026-07-13T09:11:16+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Plaza', 'url': 'https:  →  "
+NEW ENTRIES (8),Case Number,URL
++ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
++ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
++ Origin – Climatech Zero,MN-95030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-climatech-zero
++ Centuria Property Funds No. 2 Limited as the responsible entity of Centuria Sydney CBD Prime Office Fund - 680 George St/50 Goulburn St,WA-50029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/centuria-property-funds-no-2-limited-as-the-responsible-entity-of-centuria-sydney-cbd-prime-office-fund-680-george-st50-goulburn-st
++ Accenture – Whalar Agency,WA-20028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-%E2%80%93-whalar-agency
+"+ Telstra – indefeasible rights over dark fibre on Tabua, Proa and Bulikula subsea cables",WA-40030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/telstra-%E2%80%93-indefeasible-rights-over-dark-fibre-on-tabua-proa-and-bulikula-subsea-cables
++ Google Australia – indefeasible rights to use terrestrial dark fibre from Telstra,WA-95026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-australia-%E2%80%93-indefeasible-rights-to-use-terrestrial-dark-fibre-from-telstra
++ WHP Global and G-III - Marc Jacobs,WA-95027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/whp-global-and-g-iii-marc-jacobs
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -39,7 +43,7 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 + Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,10 Jul  19:40
 + Journey Beyond - Kelsian Tourism Portfolio,MN-85015,10 Jul  19:40
 ,,
-"CHANGED ENTRIES (23 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (24 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
 ~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
 ,Title,WSP / GEOTECHNICAL TESTING AND INTERPRETATION  →  WSP - Geotechnical Testing and Interpretation  (06 Jul  20:43)
 ,Other Parties,WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395; RICARDO AUSTRALIA PTY LTD; 17 62  →  RICARDO AUSTRALIA PTY LTD; 17 625 088 646; WSP AUSTRALIA HOLDINGS PTY LTD; 90 16  (06 Jul  20:43)
@@ -193,6 +197,11 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 ,Other Parties,IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 5  →  EQT Fund Management S.à r.l.; Registration number B167972; N.G. BROWN & ASSOCIAT  (10 Jul  19:40)
 ,Last Modified Accc,2026-07-03T13:31:12+10:00  →  2026-07-10T15:08:46+10:00  (10 Jul  19:40)
 ,Decisions Docs,"[{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days –   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (10 Jul  19:40)"
+,,
+~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
+,Last Modified Accc,2026-07-03T14:49:22+10:00  →  2026-07-13T09:11:16+10:00  (13 Jul  13:20)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Jul  13:20)
+,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Pl  →    (13 Jul  13:20)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Journey Beyond Kelsian Group Tourism Portfolio,,10 Jul  19:40

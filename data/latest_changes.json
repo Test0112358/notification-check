@@ -1,32 +1,50 @@
 {
-  "run_utc": "2026-07-13T03:20:20.474799Z",
-  "new_count": 0,
-  "changed_count": 1,
+  "run_utc": "2026-07-13T09:33:29.876705Z",
+  "new_count": 8,
+  "changed_count": 0,
   "removed_count": 0,
-  "new_entries": [],
-  "changed_entries": [
+  "new_entries": [
     {
-      "slug": "partnered-health-ryan-plaza-medical-services",
-      "title": "Partnered Health - Ryan Plaza Medical Services",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-03T14:49:22+10:00",
-          "new": "2026-07-13T09:11:16+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 July 2026 via email to mergers@accc.gov.au with the title Submission re: Partnered Health – Ryan Plaza. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jul 2026 Questionnaire - Partnered Health-Ryan Plaza Attachment 115.89 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Plaza', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Partnered%20Health-Ryan%20Plaza_1.docx'}]",
-          "new": ""
-        }
-      ]
+      "slug": "amplifon-%E2%80%93-gn-hearing",
+      "title": "Amplifon – GN Hearing",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing"
+    },
+    {
+      "slug": "siemens-mobility-mermec",
+      "title": "Siemens Mobility - MerMec",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec"
+    },
+    {
+      "slug": "origin-%E2%80%93-climatech-zero",
+      "title": "Origin – Climatech Zero",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-climatech-zero"
+    },
+    {
+      "slug": "centuria-property-funds-no-2-limited-as-the-responsible-entity-of-centuria-sydney-cbd-prime-office-fund-680-george-st50-goulburn-st",
+      "title": "Centuria Property Funds No. 2 Limited as the responsible entity of Centuria Sydney CBD Prime Office Fund - 680 George St/50 Goulburn St",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/centuria-property-funds-no-2-limited-as-the-responsible-entity-of-centuria-sydney-cbd-prime-office-fund-680-george-st50-goulburn-st"
+    },
+    {
+      "slug": "accenture-%E2%80%93-whalar-agency",
+      "title": "Accenture – Whalar Agency",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-%E2%80%93-whalar-agency"
+    },
+    {
+      "slug": "telstra-%E2%80%93-indefeasible-rights-over-dark-fibre-on-tabua-proa-and-bulikula-subsea-cables",
+      "title": "Telstra – indefeasible rights over dark fibre on Tabua, Proa and Bulikula subsea cables",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/telstra-%E2%80%93-indefeasible-rights-over-dark-fibre-on-tabua-proa-and-bulikula-subsea-cables"
+    },
+    {
+      "slug": "google-australia-%E2%80%93-indefeasible-rights-to-use-terrestrial-dark-fibre-from-telstra",
+      "title": "Google Australia – indefeasible rights to use terrestrial dark fibre from Telstra",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-australia-%E2%80%93-indefeasible-rights-to-use-terrestrial-dark-fibre-from-telstra"
+    },
+    {
+      "slug": "whp-global-and-g-iii-marc-jacobs",
+      "title": "WHP Global and G-III - Marc Jacobs",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/whp-global-and-g-iii-marc-jacobs"
     }
   ],
+  "changed_entries": [],
   "removed_entries": []
 }
