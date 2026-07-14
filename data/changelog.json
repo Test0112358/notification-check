@@ -23379,5 +23379,52 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/whp-global-and-g-iii-marc-jacobs",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-14T02:44:49.390417Z",
+    "slug": "salesforce-contentful",
+    "title": "Salesforce - Contentful",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-14T02:44:49.390417Z",
+    "slug": "endeavour-group-retail-liquor-site-in-avalon-nsw",
+    "title": "Endeavour Group - retail liquor site in Avalon, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "13 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-29T16:29:24+10:00",
+        "new": "2026-07-13T17:43:16+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Jul 2026', 'description': 'Endeavour Group - retail liquor site in Avalon, NSW', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20-%20retail%20liquor%20site%20in%20Avalon%20%28NSW%29%20-%20Determination%20-%2013%20July%202026.pdf'}]"
+      }
+    ]
   }
 ]

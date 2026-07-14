@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-13 09:33:29.876705,
-Last scrape run (AEST),13 Jul 2026  19:33,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-14 02:44:49.390417,
+Last scrape run (AEST),14 Jul 2026  12:44,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,440,
-New entries this run,8,
-Changed entries this run,0,
+Total entries monitored,441,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,23 +13,22 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (8),Case Number,URL
-+ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
-+ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
-+ Origin – Climatech Zero,MN-95030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-climatech-zero
-+ Centuria Property Funds No. 2 Limited as the responsible entity of Centuria Sydney CBD Prime Office Fund - 680 George St/50 Goulburn St,WA-50029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/centuria-property-funds-no-2-limited-as-the-responsible-entity-of-centuria-sydney-cbd-prime-office-fund-680-george-st50-goulburn-st
-+ Accenture – Whalar Agency,WA-20028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-%E2%80%93-whalar-agency
-"+ Telstra – indefeasible rights over dark fibre on Tabua, Proa and Bulikula subsea cables",WA-40030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/telstra-%E2%80%93-indefeasible-rights-over-dark-fibre-on-tabua-proa-and-bulikula-subsea-cables
-+ Google Australia – indefeasible rights to use terrestrial dark fibre from Telstra,WA-95026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-australia-%E2%80%93-indefeasible-rights-to-use-terrestrial-dark-fibre-from-telstra
-+ WHP Global and G-III - Marc Jacobs,WA-95027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/whp-global-and-g-iii-marc-jacobs
+NEW ENTRIES (1),Case Number,URL
++ Salesforce - Contentful,MN-95025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful
+,,
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+"~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  13 July 2026
+,Last Modified Accc,2026-06-29T16:29:24+10:00  →  2026-07-13T17:43:16+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '13 Jul 2026', 'description': 'Endeavour Group - retail liquor site in Avalon, NSW', 'url'"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (15),Case Number,Detected (AEST)
-+ Mitsubishi Estate Asia – Eynesbury Properties,WA-35026,06 Jul  20:43
-+ Siemens Energy – Camlin Group,WA-60023,06 Jul  20:43
-+ Oaktree – Vivax Metrotech,WA-20026,06 Jul  20:43
+NEW ENTRIES (20),Case Number,Detected (AEST)
 + VSA - SprayLine,MN-30022,07 Jul  19:48
 "+ Australian Venue Co – assets of Café Kinetic, Flinders Lane Melbourne CBD",WA-65024,07 Jul  19:48
 + LTM – Randstad Digital entities including FinXL,WA-15026,07 Jul  19:48
@@ -42,24 +41,16 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 + Analogic - Leidos SES business,MN-75029,09 Jul  19:45
 + Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,10 Jul  19:40
 + Journey Beyond - Kelsian Tourism Portfolio,MN-85015,10 Jul  19:40
++ Amplifon – GN Hearing,MN-20017,13 Jul  19:33
++ Siemens Mobility - MerMec,MN-01105,13 Jul  19:33
++ Origin – Climatech Zero,MN-95030,13 Jul  19:33
++ Centuria Property Funds No. 2 Limited as the responsible entity of Centuria Sydney CBD Prime Office Fund - 680 George St/50 Goulburn St,WA-50029,13 Jul  19:33
++ Accenture – Whalar Agency,WA-20028,13 Jul  19:33
+"+ Telstra – indefeasible rights over dark fibre on Tabua, Proa and Bulikula subsea cables",WA-40030,13 Jul  19:33
++ Google Australia – indefeasible rights to use terrestrial dark fibre from Telstra,WA-95026,13 Jul  19:33
++ WHP Global and G-III - Marc Jacobs,WA-95027,13 Jul  19:33
 ,,
-"CHANGED ENTRIES (24 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
-,Title,WSP / GEOTECHNICAL TESTING AND INTERPRETATION  →  WSP - Geotechnical Testing and Interpretation  (06 Jul  20:43)
-,Other Parties,WSP AUSTRALIA HOLDINGS PTY LTD; 90 169 545 395; RICARDO AUSTRALIA PTY LTD; 17 62  →  RICARDO AUSTRALIA PTY LTD; 17 625 088 646; WSP AUSTRALIA HOLDINGS PTY LTD; 90 16  (06 Jul  20:43)
-,Last Modified Accc,2026-06-29T16:38:51+10:00  →  2026-07-06T11:23:24+10:00  (06 Jul  20:43)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Jul  20:43)
-,Consultation Docs,"[{'date': '29 Jun 2026', 'description': 'Questionnaire – WSP - Geotechnical Test  →    (06 Jul  20:43)"
-,,
-~ Equans - CV Services Group,MN-05025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/equans-cv-services-group
-,Acquisition Status,Under assessment  →  Assessment completed  (06 Jul  20:43)
-,End Of Determination Period,21 Jul 2026  →    (06 Jul  20:43)
-,Accc Determination,  →  Approved  (06 Jul  20:43)
-,Determination Publication Date,  →  6 July 2026  (06 Jul  20:43)
-,Last Modified Accc,2026-06-18T11:37:08+10:00  →  2026-07-06T15:46:57+10:00  (06 Jul  20:43)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (06 Jul  20:43)
-,Decisions Docs,"  →  [{'date': '6 Jul 2026', 'description': 'Equans - CV Services Group', 'url': 'htt  (06 Jul  20:43)"
-,,
+"CHANGED ENTRIES (22 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
 ,Last Modified Accc,2026-06-30T10:38:51+10:00  →  2026-07-07T14:01:06+10:00  (07 Jul  19:48)
 ,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (07 Jul  19:48)

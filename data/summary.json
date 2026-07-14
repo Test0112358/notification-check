@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-07-13T09:49:59.220792Z",
-  "total_entries": 440,
+  "generated_at_utc": "2026-07-14T03:00:31.497414Z",
+  "total_entries": 441,
   "by_acquisition_status": {
     "Under assessment": 43,
-    "Assessment completed": 395,
+    "Assessment completed": 396,
     "Assessment ceased": 2
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 166,
+    "Phase 1 - initial assessment": 167,
     "Waiver application": 267,
     "Phase 2 - detailed assessment": 7
   },
   "by_type": {
-    "Notification": 173,
+    "Notification": 174,
     "Waiver": 267
   },
   "by_accc_determination": {
-    "Approved": 379,
+    "Approved": 380,
     "Not approved": 15,
     "Approved with conditions": 1
   },
@@ -25,19 +25,19 @@
       "slug": "uber-blacklane",
       "title": "Uber - Blacklane",
       "end_of_determination_period": "20 Jul 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
       "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
       "end_of_determination_period": "21 Jul 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "zoetis-%E2%80%93-neogen-genomics-business",
       "title": "Zoetis – Neogen Genomics Business",
       "end_of_determination_period": "23 Jul 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }
