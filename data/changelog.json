@@ -23426,5 +23426,81 @@
         "new": "[{'date': '13 Jul 2026', 'description': 'Endeavour Group - retail liquor site in Avalon, NSW', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20-%20retail%20liquor%20site%20in%20Avalon%20%28NSW%29%20-%20Determination%20-%2013%20July%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-14T08:11:55.796250Z",
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-14T08:11:55.796250Z",
+    "slug": "vsa-sprayline",
+    "title": "VSA - SprayLine",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "COLAS AUSTRALIA GROUP PTY LTD; 11 000 388 161; COLAS CONTRACTING PTY LTD; 88 127 397 899",
+        "new": "COLAS CONTRACTING PTY LTD; 88 127 397 899; COLAS AUSTRALIA GROUP PTY LTD; 11 000 388 161"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-07T16:31:14+10:00",
+        "new": "2026-07-14T17:43:31+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 14 July 2026 via email to mergers@accc.gov.au with the title Submission re: VSA–SprayLine. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 7 Jul 2026 Questionnaire - VSA–SprayLine Attachment 117.18 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '7 Jul 2026', 'description': 'Questionnaire - VSA–SprayLine', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/VSA-Sprayline%20-%20Third%20party%20questionnaire_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-14T08:11:55.796250Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+    "title": "Coles – supermarket site in Coffs Harbour (NSW)",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-coffs-harbour-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "14 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-01T12:56:15+10:00",
+        "new": "2026-07-14T16:15:12+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '14 Jul 2026', 'description': 'Coles - supermarket site in Coffs Harbour (NSW) - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20supermarket%20site%20in%20Coffs%20Harbour%20-%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
   }
 ]
