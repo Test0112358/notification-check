@@ -23502,5 +23502,34 @@
         "new": "[{'date': '14 Jul 2026', 'description': 'Coles - supermarket site in Coffs Harbour (NSW) - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20supermarket%20site%20in%20Coffs%20Harbour%20-%20Phase%201%20Determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-15T02:43:08.101974Z",
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WAKELING HOLDINGS PTY LTD; 41 160 814 040; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598",
+        "new": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-14T17:31:44+10:00",
+        "new": "2026-07-15T11:30:36+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren – Wakeling Automotive. read more 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 119.44 KB",
+        "new": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren — Wakeling Automotive. read more 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 120.88 KB 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB"
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29.pdf'}, {'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_0.docx'}]",
+        "new": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_1.docx'}, {'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf'}]"
+      }
+    ]
   }
 ]
