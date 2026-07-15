@@ -23531,5 +23531,112 @@
         "new": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_1.docx'}, {'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-15T08:19:12.463919Z",
+    "slug": "total-drain-group-pipe-management-australia",
+    "title": "Total Drain Group - Pipe Management Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-15T08:19:12.463919Z",
+    "slug": "kkr-crowe",
+    "title": "KKR - Crowe",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-crowe",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-15T08:19:12.463919Z",
+    "slug": "autodesk-maintainx",
+    "title": "Autodesk - MaintainX",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "15 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-30T16:17:51+10:00",
+        "new": "2026-07-15T15:37:10+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '15 Jul 2026', 'description': 'Autodesk - MaintainX - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Autodesk%20-%20MaintainX%20-%20Determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-15T08:19:12.463919Z",
+    "slug": "blackbird-ventures-%E2%80%93-baseten-labs-0",
+    "title": "Blackbird Ventures – Baseten Labs",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-0",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-15T08:19:12.463919Z",
+    "slug": "uber-blacklane",
+    "title": "Uber - Blacklane",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "15 July 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFIC PTY LTD; 27 622 365 833",
+        "new": "UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFIC PTY LTD; 27 622 365 833; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-16T09:42:18+10:00",
+        "new": "2026-07-15T16:39:05+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '14 Jul 2026', 'description': 'Uber - Blacklane - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
   }
 ]

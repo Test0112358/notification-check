@@ -1,32 +1,26 @@
 {
-  "generated_at_utc": "2026-07-15T03:04:21.143159Z",
-  "total_entries": 442,
+  "generated_at_utc": "2026-07-15T08:37:46.800148Z",
+  "total_entries": 445,
   "by_acquisition_status": {
-    "Under assessment": 43,
-    "Assessment completed": 397,
+    "Under assessment": 42,
+    "Assessment completed": 401,
     "Assessment ceased": 2
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 168,
-    "Waiver application": 267,
+    "Phase 1 - initial assessment": 169,
+    "Waiver application": 269,
     "Phase 2 - detailed assessment": 7
   },
   "by_type": {
-    "Notification": 175,
-    "Waiver": 267
+    "Notification": 176,
+    "Waiver": 269
   },
   "by_accc_determination": {
-    "Approved": 381,
+    "Approved": 385,
     "Not approved": 15,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "uber-blacklane",
-      "title": "Uber - Blacklane",
-      "end_of_determination_period": "20 Jul 2026",
-      "days_remaining": 5
-    },
     {
       "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
       "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",

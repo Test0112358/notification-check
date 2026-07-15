@@ -1,34 +1,102 @@
 {
-  "run_utc": "2026-07-15T02:43:08.101974Z",
-  "new_count": 0,
-  "changed_count": 1,
+  "run_utc": "2026-07-15T08:19:12.463919Z",
+  "new_count": 3,
+  "changed_count": 2,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "total-drain-group-pipe-management-australia",
+      "title": "Total Drain Group - Pipe Management Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia"
+    },
+    {
+      "slug": "kkr-crowe",
+      "title": "KKR - Crowe",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-crowe"
+    },
+    {
+      "slug": "blackbird-ventures-%E2%80%93-baseten-labs-0",
+      "title": "Blackbird Ventures – Baseten Labs",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-0"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "peter-warren-wakeling-automotive-0",
-      "title": "Peter Warren - Wakeling Automotive",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+      "slug": "autodesk-maintainx",
+      "title": "Autodesk - MaintainX",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
       "changes": [
         {
-          "field": "targets",
-          "old": "Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WAKELING HOLDINGS PTY LTD; 41 160 814 040; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598",
-          "new": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598"
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "15 July 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-14T17:31:44+10:00",
-          "new": "2026-07-15T11:30:36+10:00"
+          "old": "2026-06-30T16:17:51+10:00",
+          "new": "2026-07-15T15:37:10+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren – Wakeling Automotive. read more 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 119.44 KB",
-          "new": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren — Wakeling Automotive. read more 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 120.88 KB 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB"
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
         },
         {
-          "field": "consultation_docs",
-          "old": "[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29.pdf'}, {'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_0.docx'}]",
-          "new": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_1.docx'}, {'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf'}]"
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '15 Jul 2026', 'description': 'Autodesk - MaintainX - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Autodesk%20-%20MaintainX%20-%20Determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "uber-blacklane",
+      "title": "Uber - Blacklane",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "15 July 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFIC PTY LTD; 27 622 365 833",
+          "new": "UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFIC PTY LTD; 27 622 365 833; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-06-16T09:42:18+10:00",
+          "new": "2026-07-15T16:39:05+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '14 Jul 2026', 'description': 'Uber - Blacklane - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20Phase%201%20Determination.pdf'}]"
         }
       ]
     }
