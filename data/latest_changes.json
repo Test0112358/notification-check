@@ -1,30 +1,20 @@
 {
-  "run_utc": "2026-07-15T08:19:12.463919Z",
-  "new_count": 3,
-  "changed_count": 2,
+  "run_utc": "2026-07-16T02:49:51.082034Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "total-drain-group-pipe-management-australia",
-      "title": "Total Drain Group - Pipe Management Australia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia"
-    },
-    {
-      "slug": "kkr-crowe",
-      "title": "KKR - Crowe",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-crowe"
-    },
-    {
-      "slug": "blackbird-ventures-%E2%80%93-baseten-labs-0",
-      "title": "Blackbird Ventures – Baseten Labs",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-0"
+      "slug": "laundy-%E2%80%93-woy-woy-hotel-0",
+      "title": "Laundy – Woy Woy Hotel",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0"
     }
   ],
   "changed_entries": [
     {
-      "slug": "autodesk-maintainx",
-      "title": "Autodesk - MaintainX",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx",
+      "slug": "sika-ag-akkim",
+      "title": "Sika AG - Akkim",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim",
       "changes": [
         {
           "field": "acquisition_status",
@@ -39,12 +29,17 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "15 July 2026"
+          "new": "16 July 2026"
+        },
+        {
+          "field": "targets",
+          "old": "Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akkim Europe SRL; Akkim Yapi Kimyasallari Sanayi ve Ticaret Anonim Şirketi; Akfix Kimya Lojistik Hizmetleri Limited Şirketi",
+          "new": "Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akfix Kimya Lojistik Hizmetleri Limited Şirketi; Akkim Europe SRL; Akkim Yapi Kimyasallari Sanayi ve Ticaret Anonim Şirketi"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-30T16:17:51+10:00",
-          "new": "2026-07-15T15:37:10+10:00"
+          "old": "2026-07-03T09:52:30+10:00",
+          "new": "2026-07-16T11:11:32+10:00"
         },
         {
           "field": "consultation_text",
@@ -54,49 +49,7 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '15 Jul 2026', 'description': 'Autodesk - MaintainX - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Autodesk%20-%20MaintainX%20-%20Determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "uber-blacklane",
-      "title": "Uber - Blacklane",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "15 July 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318; RASIER PACIFIC PTY LTD; 27 622 365 833",
-          "new": "UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFIC PTY LTD; 27 622 365 833; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 364 318"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-16T09:42:18+10:00",
-          "new": "2026-07-15T16:39:05+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '14 Jul 2026', 'description': 'Uber - Blacklane - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20Phase%201%20Determination.pdf'}]"
+          "new": "[{'date': '16 Jul 2026', 'description': 'Sika AG - Akkim - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sika%20AG%20-%20Akkim%20-%20%20Phase%201%20determination%20-%2016%20July%202026.pdf'}]"
         }
       ]
     }

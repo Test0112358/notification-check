@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-07-15T08:37:46.800148Z",
-  "total_entries": 445,
+  "generated_at_utc": "2026-07-16T03:08:36.322868Z",
+  "total_entries": 446,
   "by_acquisition_status": {
     "Under assessment": 42,
-    "Assessment completed": 401,
+    "Assessment completed": 402,
     "Assessment ceased": 2
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 169,
+    "Phase 1 - initial assessment": 170,
     "Waiver application": 269,
     "Phase 2 - detailed assessment": 7
   },
   "by_type": {
-    "Notification": 176,
+    "Notification": 177,
     "Waiver": 269
   },
   "by_accc_determination": {
-    "Approved": 385,
+    "Approved": 386,
     "Not approved": 15,
     "Approved with conditions": 1
   },
@@ -25,13 +25,13 @@
       "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
       "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
       "end_of_determination_period": "21 Jul 2026",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "slug": "zoetis-%E2%80%93-neogen-genomics-business",
       "title": "Zoetis – Neogen Genomics Business",
       "end_of_determination_period": "23 Jul 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     }
   ]
 }

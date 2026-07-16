@@ -23638,5 +23638,57 @@
         "new": "[{'date': '14 Jul 2026', 'description': 'Uber - Blacklane - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Uber-Blacklane%20-%20Phase%201%20Determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-16T02:49:51.082034Z",
+    "slug": "laundy-%E2%80%93-woy-woy-hotel-0",
+    "title": "Laundy – Woy Woy Hotel",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-16T02:49:51.082034Z",
+    "slug": "sika-ag-akkim",
+    "title": "Sika AG - Akkim",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "16 July 2026"
+      },
+      {
+        "field": "targets",
+        "old": "Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akkim Europe SRL; Akkim Yapi Kimyasallari Sanayi ve Ticaret Anonim Şirketi; Akfix Kimya Lojistik Hizmetleri Limited Şirketi",
+        "new": "Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akfix Kimya Lojistik Hizmetleri Limited Şirketi; Akkim Europe SRL; Akkim Yapi Kimyasallari Sanayi ve Ticaret Anonim Şirketi"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-03T09:52:30+10:00",
+        "new": "2026-07-16T11:11:32+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '16 Jul 2026', 'description': 'Sika AG - Akkim - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sika%20AG%20-%20Akkim%20-%20%20Phase%201%20determination%20-%2016%20July%202026.pdf'}]"
+      }
+    ]
   }
 ]
