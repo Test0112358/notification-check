@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
-    "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa",
+    "title": "National Dental Care – business assets comprising the Cambridge Dental Centre clinic, Perth, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "news-corp-%E2%80%93-acquisition-of-20-of-national-distribution-services",
-    "title": "News Corp – acquisition of 20% of National Distribution Services",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/news-corp-%E2%80%93-acquisition-of-20-of-national-distribution-services",
+    "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers",
+    "title": "Herron Todd White – CJA Lee Property Valuers",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -144,9 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "cvc-capital-partners-%E2%80%93-marathon-asset-management",
-    "title": "CVC Capital Partners – Marathon Asset Management",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-marathon-asset-management",
+    "slug": "kk-group-invest-powercon",
+    "title": "KK Group Invest - PowerCon",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
