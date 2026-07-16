@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa",
-    "title": "National Dental Care – business assets comprising the Cambridge Dental Centre clinic, Perth, WA",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-cambridge-dental-centre-clinic-perth-wa",
+    "slug": "anz-banking-group-worldline-australia",
+    "title": "ANZ Banking Group - Worldline Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-banking-group-worldline-australia",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers",
-    "title": "Herron Todd White – CJA Lee Property Valuers",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers",
+    "slug": "anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+    "title": "ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -144,9 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "kk-group-invest-powercon",
-    "title": "KK Group Invest - PowerCon",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kk-group-invest-powercon",
+    "slug": "australian-food-fibre-%E2%80%93-western-lands-lease-conversion",
+    "title": "Australian Food & Fibre – Western Lands Lease Conversion",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-food-fibre-%E2%80%93-western-lands-lease-conversion",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
