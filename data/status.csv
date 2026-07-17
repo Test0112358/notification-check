@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-17 02:52:17.964370,
-Last scrape run (AEST),17 Jul 2026  12:52,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-17 08:14:24.843217,
+Last scrape run (AEST),17 Jul 2026  18:14,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,453,
-New entries this run,1,
-Changed entries this run,2,
+Total entries monitored,459,
+New entries this run,6,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,27 +13,24 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
+NEW ENTRIES (6),Case Number,URL
++ Apollo Capital – Curia,WA-10020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-%E2%80%93-curia
++ IFM Fiduciary – PM Fresh,WA-95031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifm-fiduciary-%E2%80%93-pm-fresh
++ HupCo – AMES Australasia,WA-05029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hupco-%E2%80%93-ames-australasia
++ Sandvik – Diemme Filtration S.r.l.,WA-65025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sandvik-%E2%80%93-diemme-filtration-srl
+"+ National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",WA-15029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland
++ Vets Central – Willunga & Aldinga Veterinary Services,WA-45020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-willunga-aldinga-veterinary-services
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
-,Acquirers,"Leidos, Inc.; EFN - 901386; AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449  →  AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386"
-,Other Parties,"Leidos Holdings, Inc.; EFN - 4014717; Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Compan  →  Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160; Leidos Holdings"
-,Last Modified Accc,2026-07-09T14:01:45+10:00  →  2026-07-17T10:12:46+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Analogic - Leidos SES business - Questionnaire', 'url': 'htt  →  "
-,,
-~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
-,Acquisition Status,Under assessment  →  Assessment ceased
-,Last Modified Accc,2026-06-30T13:51:17+10:00  →  2026-07-16T19:36:41+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased - following written re"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,Last Modified Accc,2026-06-15T15:05:04+10:00  →  2026-07-17T15:58:34+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (22),Case Number,Detected (AEST)
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,10 Jul  19:40
 + Journey Beyond - Kelsian Tourism Portfolio,MN-85015,10 Jul  19:40
 + Amplifon – GN Hearing,MN-20017,13 Jul  19:33
@@ -56,13 +53,9 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 + Summit Partners – Keyfactor,WA-75032,16 Jul  18:19
 + Kennards Hire - Skylift Hire & Rentals,WA-65027,16 Jul  18:19
 + Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund,WA-55027,16 Jul  18:19
++ Acrow - Ausgroup Industrial Services,MN-60025,17 Jul  12:52
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Adbri - Eureka Concrete,MN-50021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adbri-eureka-concrete
-,Other Parties,HY-TEC INDUSTRIES (VICTORIA) PTY LTD; 43 096 310 520; CENTRAL PRE-MIX CONCRETE P  →  E.B. MAWSON & SONS PROPRIETARY LIMITED; 14 004 519 617; HY-TEC INDUSTRIES (VICTO  (10 Jul  13:37)
-,Last Modified Accc,2026-07-09T17:23:03+10:00  →  2026-07-10T08:24:45+10:00  (10 Jul  13:37)
-,Decisions Docs,"[{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determ  →  [{'date': '9 Jul 2026', 'description': 'Adbri - Eureka Concrete - Phase 1 determ  (10 Jul  13:37)"
-,,
+"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
 ,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  (10 Jul  19:40)
 ,Last Modified Accc,2026-07-03T18:26:40+10:00  →  2026-07-10T16:21:24+10:00  (10 Jul  19:40)
@@ -181,6 +174,19 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 ,Other Parties,Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and severa  →  Jason Ireland (as joint and several receivers); Keith Crawford (as joint and sev  (16 Jul  18:19)
 ,Last Modified Accc,2026-06-25T09:55:33+10:00  →  2026-07-16T17:15:05+10:00  (16 Jul  18:19)
 ,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Timeline extended by 30 business days –  (16 Jul  18:19)"
+,,
+~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
+,Acquirers,"Leidos, Inc.; EFN - 901386; AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporatio  →  AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, In  (17 Jul  12:52)"
+,Other Parties,"Leidos Holdings, Inc.; EFN - 4014717; Altaris Partners, LLC; EFN - 4261614; ANLG  →  Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831  (17 Jul  12:52)"
+,Last Modified Accc,2026-07-09T14:01:45+10:00  →  2026-07-17T10:12:46+10:00  (17 Jul  12:52)
+,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Jul  12:52)
+,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Analogic - Leidos SES business - Questio  →    (17 Jul  12:52)"
+,,
+~ Regis Resources - Vault Minerals,MN-65020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals
+,Acquisition Status,Under assessment  →  Assessment ceased  (17 Jul  12:52)
+,Last Modified Accc,2026-06-30T13:51:17+10:00  →  2026-07-16T19:36:41+10:00  (17 Jul  12:52)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (17 Jul  12:52)
+,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased -   (17 Jul  12:52)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Journey Beyond Kelsian Group Tourism Portfolio,,10 Jul  19:40

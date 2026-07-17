@@ -23954,5 +23954,77 @@
         "new": "[{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased - following written request from notifying party', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "apollo-capital-%E2%80%93-curia",
+    "title": "Apollo Capital – Curia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-%E2%80%93-curia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "ifm-fiduciary-%E2%80%93-pm-fresh",
+    "title": "IFM Fiduciary – PM Fresh",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifm-fiduciary-%E2%80%93-pm-fresh",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "hupco-%E2%80%93-ames-australasia",
+    "title": "HupCo – AMES Australasia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hupco-%E2%80%93-ames-australasia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "sandvik-%E2%80%93-diemme-filtration-srl",
+    "title": "Sandvik – Diemme Filtration S.r.l.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sandvik-%E2%80%93-diemme-filtration-srl",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland",
+    "title": "National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "vets-central-%E2%80%93-willunga-aldinga-veterinary-services",
+    "title": "Vets Central – Willunga & Aldinga Veterinary Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-willunga-aldinga-veterinary-services",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T08:14:24.843217Z",
+    "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+    "title": "Zoetis – Neogen Genomics Business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-15T15:05:04+10:00",
+        "new": "2026-07-17T15:58:34+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]",
+        "new": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}, {'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026.pdf'}]"
+      }
+    ]
   }
 ]

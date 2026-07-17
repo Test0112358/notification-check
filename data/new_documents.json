@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-07-17T02:52:17.964370Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "acrow-ausgroup-industrial-services",
-      "title": "Acrow - Ausgroup Industrial Services",
-      "case_number": "MN-60025",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
-      "date": "17 Jul 2026",
-      "description": "Acrow - Ausgroup Industrial Services - Phase 1 Quesionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Acrow%20-%20Ausgroup%20Industrial%20Services%20-%20Phase%201%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Acrow - Ausgroup Industrial Services - Phase 1 Questionnaire.docx",
-      "filename": "Acrow - Ausgroup Industrial Services - Phase 1 Questionnaire.docx",
-      "size_kb": 116.5
-    }
-  ]
+  "run_utc": "2026-07-17T08:14:24.843217Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

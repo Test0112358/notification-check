@@ -1,72 +1,60 @@
 {
-  "run_utc": "2026-07-17T02:52:17.964370Z",
-  "new_count": 1,
-  "changed_count": 2,
+  "run_utc": "2026-07-17T08:14:24.843217Z",
+  "new_count": 6,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "acrow-ausgroup-industrial-services",
-      "title": "Acrow - Ausgroup Industrial Services",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services"
+      "slug": "apollo-capital-%E2%80%93-curia",
+      "title": "Apollo Capital – Curia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-%E2%80%93-curia"
+    },
+    {
+      "slug": "ifm-fiduciary-%E2%80%93-pm-fresh",
+      "title": "IFM Fiduciary – PM Fresh",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifm-fiduciary-%E2%80%93-pm-fresh"
+    },
+    {
+      "slug": "hupco-%E2%80%93-ames-australasia",
+      "title": "HupCo – AMES Australasia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hupco-%E2%80%93-ames-australasia"
+    },
+    {
+      "slug": "sandvik-%E2%80%93-diemme-filtration-srl",
+      "title": "Sandvik – Diemme Filtration S.r.l.",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sandvik-%E2%80%93-diemme-filtration-srl"
+    },
+    {
+      "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland",
+      "title": "National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland"
+    },
+    {
+      "slug": "vets-central-%E2%80%93-willunga-aldinga-veterinary-services",
+      "title": "Vets Central – Willunga & Aldinga Veterinary Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-willunga-aldinga-veterinary-services"
     }
   ],
   "changed_entries": [
     {
-      "slug": "analogic-leidos-ses-business",
-      "title": "Analogic - Leidos SES business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business",
+      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+      "title": "Zoetis – Neogen Genomics Business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "Leidos, Inc.; EFN - 901386; AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449",
-          "new": "AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386"
-        },
-        {
-          "field": "other_parties",
-          "old": "Leidos Holdings, Inc.; EFN - 4014717; Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160",
-          "new": "Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160; Leidos Holdings, Inc.; EFN - 4014717"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-09T14:01:45+10:00",
-          "new": "2026-07-17T10:12:46+10:00"
+          "old": "2026-06-15T15:05:04+10:00",
+          "new": "2026-07-17T15:58:34+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 16 July 2026 via email to mergers@accc.gov.au with the title Submission re: Analogic – Leidos SES business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jul 2026 Analogic - Leidos SES business - Questionnaire Attachment 107.14 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '9 Jul 2026', 'description': 'Analogic - Leidos SES business - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Analogic%20-%20Leidos%20SES%20business%20-%20Questionnaire.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "regis-resources-vault-minerals",
-      "title": "Regis Resources - Vault Minerals",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment ceased"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-30T13:51:17+10:00",
-          "new": "2026-07-16T19:36:41+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased - following written request from notifying party', 'url': ''}]"
+          "old": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]",
+          "new": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}, {'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026.pdf'}]"
         }
       ]
     }
