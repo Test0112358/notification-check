@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "tasmea-maxim",
-    "title": "Tasmea - Maxim",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tasmea-maxim",
+    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
+    "title": "Envest Group – MA Insurance Brokers",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
-    "title": "ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+    "slug": "respect-group-jallarah-homes",
+    "title": "Respect Group - Jallarah Homes",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/respect-group-jallarah-homes",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "stonepeak-%E2%80%93-castrol",
+    "title": "Stonepeak – Castrol",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
