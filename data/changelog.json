@@ -23883,5 +23883,76 @@
         "new": "[{'date': '16 Jul 2026', 'description': 'Timeline extended by 30 business days – following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-17T02:52:17.964370Z",
+    "slug": "acrow-ausgroup-industrial-services",
+    "title": "Acrow - Ausgroup Industrial Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-17T02:52:17.964370Z",
+    "slug": "analogic-leidos-ses-business",
+    "title": "Analogic - Leidos SES business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Leidos, Inc.; EFN - 901386; AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449",
+        "new": "AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386"
+      },
+      {
+        "field": "other_parties",
+        "old": "Leidos Holdings, Inc.; EFN - 4014717; Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160",
+        "new": "Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160; Leidos Holdings, Inc.; EFN - 4014717"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-09T14:01:45+10:00",
+        "new": "2026-07-17T10:12:46+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 16 July 2026 via email to mergers@accc.gov.au with the title Submission re: Analogic – Leidos SES business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jul 2026 Analogic - Leidos SES business - Questionnaire Attachment 107.14 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '9 Jul 2026', 'description': 'Analogic - Leidos SES business - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Analogic%20-%20Leidos%20SES%20business%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-17T02:52:17.964370Z",
+    "slug": "regis-resources-vault-minerals",
+    "title": "Regis Resources - Vault Minerals",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment ceased"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-30T13:51:17+10:00",
+        "new": "2026-07-16T19:36:41+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased - following written request from notifying party', 'url': ''}]"
+      }
+    ]
   }
 ]

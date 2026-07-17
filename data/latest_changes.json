@@ -1,173 +1,72 @@
 {
-  "run_utc": "2026-07-16T08:19:02.755917Z",
-  "new_count": 6,
-  "changed_count": 5,
+  "run_utc": "2026-07-17T02:52:17.964370Z",
+  "new_count": 1,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
-      "title": "UPM-Kymmene – Sappi joint venture",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture"
-    },
-    {
-      "slug": "parker-hannifin-%E2%80%93-circor-ad",
-      "title": "Parker-Hannifin – CIRCOR A&D",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad"
-    },
-    {
-      "slug": "national-reconstruction-fund-corporation-southernlaunchspace-pty-ltd",
-      "title": "National Reconstruction Fund Corporation / SOUTHERNLAUNCH.SPACE PTY LTD",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-reconstruction-fund-corporation-southernlaunchspace-pty-ltd"
-    },
-    {
-      "slug": "summit-partners-%E2%80%93-keyfactor",
-      "title": "Summit Partners – Keyfactor",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/summit-partners-%E2%80%93-keyfactor"
-    },
-    {
-      "slug": "kennards-hire-skylift-hire-rentals",
-      "title": "Kennards Hire - Skylift Hire & Rentals",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kennards-hire-skylift-hire-rentals"
-    },
-    {
-      "slug": "sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
-      "title": "Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sumitomo-mitsui-trust-bank-smtb-anz-debt-fund"
+      "slug": "acrow-ausgroup-industrial-services",
+      "title": "Acrow - Ausgroup Industrial Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services"
     }
   ],
   "changed_entries": [
     {
-      "slug": "total-drain-group-pipe-management-australia",
-      "title": "Total Drain Group - Pipe Management Australia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia",
+      "slug": "analogic-leidos-ses-business",
+      "title": "Analogic - Leidos SES business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business",
       "changes": [
+        {
+          "field": "acquirers",
+          "old": "Leidos, Inc.; EFN - 901386; AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449",
+          "new": "AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386"
+        },
         {
           "field": "other_parties",
-          "old": "QPE NO. 6GP PTY LIMITED & QPE NO. 6LP PTY LIMITED & RYANBRIDGE PTY LTD; 82 296 675 934",
-          "new": "QUADRANT PRIVATE EQUITY NO.6A PTY LIMITED; 622 297 750"
+          "old": "Leidos Holdings, Inc.; EFN - 4014717; Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160",
+          "new": "Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831160; Leidos Holdings, Inc.; EFN - 4014717"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-15T16:39:10+10:00",
-          "new": "2026-07-16T17:58:01+10:00"
-        }
-      ]
-    },
-    {
-      "slug": "coles-paydock",
-      "title": "Coles - Paydock",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock",
-      "changes": [
-        {
-          "field": "targets",
-          "old": "Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd",
-          "new": "Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limited; 31 607 215 163"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-09T13:03:20+10:00",
-          "new": "2026-07-16T09:43:11+10:00"
+          "old": "2026-07-09T14:01:45+10:00",
+          "new": "2026-07-17T10:12:46+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 16 July 2026 via email to mergers@accc.gov.au with the title Submission re: Coles – Paydock. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jul 2026 Questionnaire - Coles - Paydock Attachment 116.14 KB",
+          "old": "The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared a questionnaire on the acquisition. Submissions or information in response to the questionnaire should be provided by 16 July 2026 via email to mergers@accc.gov.au with the title Submission re: Analogic – Leidos SES business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 9 Jul 2026 Analogic - Leidos SES business - Questionnaire Attachment 107.14 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '9 Jul 2026', 'description': 'Questionnaire - Coles - Paydock', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Coles%20-%20Paydock.docx'}]",
+          "old": "[{'date': '9 Jul 2026', 'description': 'Analogic - Leidos SES business - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Analogic%20-%20Leidos%20SES%20business%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "motorola-solutions-d-fend-solutions",
-      "title": "Motorola Solutions - D-Fend Solutions",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-09T09:39:06+10:00",
-          "new": "2026-07-16T16:38:50+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 16 July 2026 via email to mergers@accc.gov.au with the title Submission re: Motorola Solutions - D-Fend Solutions. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Motorola Solutions - D-Fend Solutions - Questionnaire Attachment 116 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
-      "title": "Discovery Holiday Parks – four Breeze Holiday Parks",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks",
+      "slug": "regis-resources-vault-minerals",
+      "title": "Regis Resources - Vault Minerals",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regis-resources-vault-minerals",
       "changes": [
         {
           "field": "acquisition_status",
           "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "16 July 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "Beston Parks Land Co Pty Ltd atf Beston Accommodation Parks Trust; 111 783 423; DISCOVERY HOLIDAY PARKS PTY LIMITED; 50 111 782 846",
-          "new": "DISCOVERY HOLIDAY PARKS PTY LIMITED; 50 111 782 846; Beston Parks Land Co Pty Ltd atf Beston Accommodation Parks Trust; 111 783 423"
+          "new": "Assessment ceased"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-06-26T09:51:32+10:00",
-          "new": "2026-07-16T16:05:08+10:00"
+          "old": "2026-06-30T13:51:17+10:00",
+          "new": "2026-07-16T19:36:41+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '16 Jul 2026', 'description': 'Discovery Holiday Parks - four Breeze Holiday Parks - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Discovery%20Holiday%20Parks%20-%20four%20Breeze%20Holiday%20Parks%20-%20Phase%201%20determination%20-%2016%20July%202026.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "calvary-hobart-private-hospital",
-      "title": "Calvary - Hobart Private Hospital",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital",
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "28 Jul 2026",
-          "new": "8 Sep 2026"
-        },
-        {
-          "field": "targets",
-          "old": "HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274",
-          "new": "HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ HOSPITALS PTY LTD; 14 631 014 938"
-        },
-        {
-          "field": "other_parties",
-          "old": "Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and several receivers); Keith Crawford (as joint and several receivers); Matthew Caddy (as joint and several receivers)",
-          "new": "Jason Ireland (as joint and several receivers); Keith Crawford (as joint and several receivers); Matthew Caddy (as joint and several receivers); Kathy Sozou (as joint and several receivers)"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-06-25T09:55:33+10:00",
-          "new": "2026-07-16T17:15:05+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '16 Jul 2026', 'description': 'Timeline extended by 30 business days – following request by parties', 'url': ''}]"
+          "new": "[{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased - following written request from notifying party', 'url': ''}]"
         }
       ]
     }

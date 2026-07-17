@@ -1,30 +1,18 @@
 {
-  "run_utc": "2026-07-16T08:19:02.755917Z",
-  "questionnaire_count": 2,
+  "run_utc": "2026-07-17T02:52:17.964370Z",
+  "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
-      "title": "UPM-Kymmene – Sappi joint venture",
-      "case_number": "MN-30023",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture",
-      "date": "16 Jul 2026",
-      "description": "UPM-Kymmene – Sappi joint venture – Phase 1 questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/UPM-Sappi%20-%20Phase%201%20questionnaire.docx",
-      "local_path": "data/consultation_docs/UPM-Sappi - Phase 1 questionnaire.docx",
-      "filename": "UPM-Sappi - Phase 1 questionnaire.docx",
-      "size_kb": 116.3
-    },
-    {
-      "slug": "parker-hannifin-%E2%80%93-circor-ad",
-      "title": "Parker-Hannifin – CIRCOR A&D",
-      "case_number": "MN-70026",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad",
-      "date": "16 Jul 2026",
-      "description": "Questionnaire - Parker-Hannifin – CIRCOR A&D",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Parker-Hannifin%20%E2%80%93%20CIRCOR%20A%26D%20-%2016%20July%202026.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Parker-Hannifin _ CIRCOR A_D - 16 July 2026.docx",
-      "filename": "Questionnaire - Parker-Hannifin _ CIRCOR A_D - 16 July 2026.docx",
-      "size_kb": 107.5
+      "slug": "acrow-ausgroup-industrial-services",
+      "title": "Acrow - Ausgroup Industrial Services",
+      "case_number": "MN-60025",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+      "date": "17 Jul 2026",
+      "description": "Acrow - Ausgroup Industrial Services - Phase 1 Quesionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Acrow%20-%20Ausgroup%20Industrial%20Services%20-%20Phase%201%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Acrow - Ausgroup Industrial Services - Phase 1 Questionnaire.docx",
+      "filename": "Acrow - Ausgroup Industrial Services - Phase 1 Questionnaire.docx",
+      "size_kb": 116.5
     }
   ]
 }
