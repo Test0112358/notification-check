@@ -1,24 +1,62 @@
 {
-  "run_utc": "2026-07-20T03:28:32.975317Z",
-  "new_count": 0,
-  "changed_count": 1,
+  "run_utc": "2026-07-20T09:20:13.239730Z",
+  "new_count": 2,
+  "changed_count": 2,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
+      "title": "Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation"
+    },
+    {
+      "slug": "hillhouse-%E2%80%93-lrqa-group",
+      "title": "Hillhouse – LRQA Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-%E2%80%93-lrqa-group"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
-      "title": "Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
+      "slug": "siemens-mobility-mermec",
+      "title": "Siemens Mobility - MerMec",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec",
       "changes": [
         {
+          "field": "other_parties",
+          "old": "Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LTD.; 39 625 304 556; MERMEC AUSTRALIA PTY LTD; 42 619 285 988; Siemens Mobility GmbH; LEI - 529900LT6G2TUO3TZB94; Angelo Holding S.r.l.; LEI - 815600BFD5004E85D746",
+          "new": "Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LTD.; 39 625 304 556; Siemens Mobility GmbH; LEI - 529900LT6G2TUO3TZB94; Angelo Holding S.r.l.; LEI - 815600BFD5004E85D746; MERMEC AUSTRALIA PTY LTD; 42 619 285 988"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-07-10T15:26:25+10:00",
-          "new": "2026-07-20T12:07:39+10:00"
+          "old": "2026-07-13T13:59:36+10:00",
+          "new": "2026-07-20T17:55:52+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 July 2026 via email to mergers@accc.gov.au with the title Submission re: Energy Bay – Centuria Capital. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Energy Bay - Centuria Capital third-party questionnaire Attachment 116.13 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 July 2026 via email to mergers@accc.gov.au with the title Submission re: Siemens Mobility - MerMec. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Siemens Mobility - MerMec - Questionnaire Attachment 117.44 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "origin-%E2%80%93-climatech-zero",
+      "title": "Origin – Climatech Zero",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-climatech-zero",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-13T17:30:11+10:00",
+          "new": "2026-07-20T16:37:44+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 July 2026 via email to mergers@accc.gov.au with the title Submission re: Origin - Climatech Zero. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 13 Jul 2026 Questionnaire Attachment 61.54 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '13 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-95030%20-%20Questionnaire%20-%2013%20July%202026.docx'}]",
+          "new": ""
         }
       ]
     }

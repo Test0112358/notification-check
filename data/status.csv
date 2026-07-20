@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-20 03:28:32.975317,
-Last scrape run (AEST),20 Jul 2026  13:28,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-20 09:20:13.239730,
+Last scrape run (AEST),20 Jul 2026  19:20,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,459,
-New entries this run,0,
-Changed entries this run,1,
+Total entries monitored,461,
+New entries this run,2,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,10 +13,20 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
-,Last Modified Accc,2026-07-10T15:26:25+10:00  →  2026-07-20T12:07:39+10:00
+NEW ENTRIES (2),Case Number,URL
++ Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation
++ Hillhouse – LRQA Group,WA-01113,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-%E2%80%93-lrqa-group
+,,
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
+,Other Parties,Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LTD.; 39 625 304 556;   →  Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LTD.; 39 625 304 556; 
+,Last Modified Accc,2026-07-13T13:59:36+10:00  →  2026-07-20T17:55:52+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,,
+~ Origin – Climatech Zero,MN-95030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/origin-%E2%80%93-climatech-zero
+,Last Modified Accc,2026-07-13T17:30:11+10:00  →  2026-07-20T16:37:44+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '13 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -50,7 +60,7 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 "+ National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",WA-15029,17 Jul  18:14
 + Vets Central – Willunga & Aldinga Veterinary Services,WA-45020,17 Jul  18:14
 ,,
-"CHANGED ENTRIES (15 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (16 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 "~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
 ,Acquisition Status,Under assessment  →  Assessment completed  (14 Jul  12:44)
 ,Accc Determination,  →  Approved  (14 Jul  12:44)
@@ -152,4 +162,8 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-15T15:05:04+10:00  →  2026-07-17T15:58:34+10:00  (17 Jul  18:14)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jul  18:14)
 ,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  (17 Jul  18:14)"
+,,
+~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
+,Last Modified Accc,2026-07-10T15:26:25+10:00  →  2026-07-20T12:07:39+10:00  (20 Jul  13:28)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 Jul  13:28)
 ,,
