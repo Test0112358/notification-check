@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-17T08:34:26.498449Z",
+  "generated_at_utc": "2026-07-20T03:45:36.590912Z",
   "total_entries": 459,
   "by_acquisition_status": {
     "Under assessment": 43,
@@ -25,13 +25,19 @@
       "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
       "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
       "end_of_determination_period": "21 Jul 2026",
-      "days_remaining": 4
+      "days_remaining": 1
     },
     {
       "slug": "zoetis-%E2%80%93-neogen-genomics-business",
       "title": "Zoetis – Neogen Genomics Business",
       "end_of_determination_period": "23 Jul 2026",
-      "days_remaining": 6
+      "days_remaining": 3
+    },
+    {
+      "slug": "transocean-valaris",
+      "title": "Transocean - Valaris",
+      "end_of_determination_period": "28 Jul 2026",
+      "days_remaining": 8
     }
   ]
 }

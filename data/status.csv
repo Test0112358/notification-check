@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-17 08:14:24.843217,
-Last scrape run (AEST),17 Jul 2026  18:14,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-20 03:28:32.975317,
+Last scrape run (AEST),20 Jul 2026  13:28,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,459,
-New entries this run,6,
+New entries this run,0,
 Changed entries this run,1,
 Removed entries this run,0,
 ,,
@@ -13,26 +13,15 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (6),Case Number,URL
-+ Apollo Capital – Curia,WA-10020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-%E2%80%93-curia
-+ IFM Fiduciary – PM Fresh,WA-95031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifm-fiduciary-%E2%80%93-pm-fresh
-+ HupCo – AMES Australasia,WA-05029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hupco-%E2%80%93-ames-australasia
-+ Sandvik – Diemme Filtration S.r.l.,WA-65025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sandvik-%E2%80%93-diemme-filtration-srl
-"+ National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",WA-15029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland
-+ Vets Central – Willunga & Aldinga Veterinary Services,WA-45020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-willunga-aldinga-veterinary-services
-,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,Last Modified Accc,2026-06-15T15:05:04+10:00  →  2026-07-17T15:58:34+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b"
+~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
+,Last Modified Accc,2026-07-10T15:26:25+10:00  →  2026-07-20T12:07:39+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (23),Case Number,Detected (AEST)
-+ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,10 Jul  19:40
-+ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,10 Jul  19:40
+NEW ENTRIES (27),Case Number,Detected (AEST)
 + Amplifon – GN Hearing,MN-20017,13 Jul  19:33
 + Siemens Mobility - MerMec,MN-01105,13 Jul  19:33
 + Origin – Climatech Zero,MN-95030,13 Jul  19:33
@@ -54,43 +43,14 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 + Kennards Hire - Skylift Hire & Rentals,WA-65027,16 Jul  18:19
 + Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund,WA-55027,16 Jul  18:19
 + Acrow - Ausgroup Industrial Services,MN-60025,17 Jul  12:52
++ Apollo Capital – Curia,WA-10020,17 Jul  18:14
++ IFM Fiduciary – PM Fresh,WA-95031,17 Jul  18:14
++ HupCo – AMES Australasia,WA-05029,17 Jul  18:14
++ Sandvik – Diemme Filtration S.r.l.,WA-65025,17 Jul  18:14
+"+ National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",WA-15029,17 Jul  18:14
++ Vets Central – Willunga & Aldinga Veterinary Services,WA-45020,17 Jul  18:14
 ,,
-"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  (10 Jul  19:40)
-,Last Modified Accc,2026-07-03T18:26:40+10:00  →  2026-07-10T16:21:24+10:00  (10 Jul  19:40)
-,Consultation Text,The ACCC has prepared a questionnaire on the acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Jul  19:40)
-,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - EAG - Kelsian and Vyscot  →    (10 Jul  19:40)"
-,,
-~ Bertelsmann Music Group - Concord,MN-75023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bertelsmann-music-group-concord
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Jul  19:40)
-,Accc Determination,  →  Approved  (10 Jul  19:40)
-,Determination Publication Date,  →  10 July 2026  (10 Jul  19:40)
-,Acquirers,"Axton Holdings, LLC; CRN: 7039521; Bertelsmann SE & Co. KGaA; HRB 9194  →  Bertelsmann SE & Co. KGaA; HRB 9194; Axton Holdings, LLC; CRN: 7039521  (10 Jul  19:40)"
-,Targets,"BMG LP [New MusicCo]; Alchemy Copyrights LLC; Company Number: 5614268; Reinhard   →  BMG LP [New MusicCo]; BMG Rights Management (US), LLC; 4645458; Alchemy Copyrigh  (10 Jul  19:40)"
-,Last Modified Accc,2026-06-26T09:46:48+10:00  →  2026-07-10T15:01:16+10:00  (10 Jul  19:40)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Jul  19:40)
-,Decisions Docs,"  →  [{'date': '10 Jul 2026', 'description': 'Bertelsmann Music Group - Concord - Pha  (10 Jul  19:40)"
-,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,End Of Determination Period,27 Jul 2026  →  17 Aug 2026  (10 Jul  19:40)
-,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  (10 Jul  19:40)
-,Last Modified Accc,2026-07-03T10:56:23+10:00  →  2026-07-10T16:36:15+10:00  (10 Jul  19:40)
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable under  (10 Jul  19:40)"
-,Consultation Docs,"  →  [{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer   (10 Jul  19:40)"
-,Decisions Docs,"[{'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days –  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  (10 Jul  19:40)"
-,,
-~ Trescal – TR Calibration,MN-90009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/trescal-%E2%80%93-tr-calibration
-,Acquisition Status,Under assessment  →  Assessment ceased  (10 Jul  19:40)
-,Other Parties,IPAC SOLUTIONS PTY LTD; 30 108 845 718; The Trustee for ASG Exical Unit Trust; 5  →  EQT Fund Management S.à r.l.; Registration number B167972; N.G. BROWN & ASSOCIAT  (10 Jul  19:40)
-,Last Modified Accc,2026-07-03T13:31:12+10:00  →  2026-07-10T15:08:46+10:00  (10 Jul  19:40)
-,Decisions Docs,"[{'date': '22 Jun 2026', 'description': 'Timeline extended by 5 business days –   →  [{'date': '4 May 2026', 'description': 'Timeline extended by 8 business days – f  (10 Jul  19:40)"
-,,
-~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
-,Last Modified Accc,2026-07-03T14:49:22+10:00  →  2026-07-13T09:11:16+10:00  (13 Jul  13:20)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Jul  13:20)
-,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Questionnaire - Partnered Health-Ryan Pl  →    (13 Jul  13:20)"
-,,
+"CHANGED ENTRIES (15 entries, 15 change events)",Field changed,Old value  →  New value  (AEST)
 "~ Endeavour Group - retail liquor site in Avalon, NSW",MN-50027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-avalon-nsw
 ,Acquisition Status,Under assessment  →  Assessment completed  (14 Jul  12:44)
 ,Accc Determination,  →  Approved  (14 Jul  12:44)
@@ -188,6 +148,8 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (17 Jul  12:52)
 ,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Consideration of Notification ceased -   (17 Jul  12:52)"
 ,,
-REMOVED ENTRIES (1),Case Number,Detected (AEST)
-- Journey Beyond Kelsian Group Tourism Portfolio,,10 Jul  19:40
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,Last Modified Accc,2026-06-15T15:05:04+10:00  →  2026-07-17T15:58:34+10:00  (17 Jul  18:14)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jul  18:14)
+,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  (17 Jul  18:14)"
 ,,

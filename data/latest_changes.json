@@ -1,60 +1,24 @@
 {
-  "run_utc": "2026-07-17T08:14:24.843217Z",
-  "new_count": 6,
+  "run_utc": "2026-07-20T03:28:32.975317Z",
+  "new_count": 0,
   "changed_count": 1,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "apollo-capital-%E2%80%93-curia",
-      "title": "Apollo Capital – Curia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-%E2%80%93-curia"
-    },
-    {
-      "slug": "ifm-fiduciary-%E2%80%93-pm-fresh",
-      "title": "IFM Fiduciary – PM Fresh",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ifm-fiduciary-%E2%80%93-pm-fresh"
-    },
-    {
-      "slug": "hupco-%E2%80%93-ames-australasia",
-      "title": "HupCo – AMES Australasia",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hupco-%E2%80%93-ames-australasia"
-    },
-    {
-      "slug": "sandvik-%E2%80%93-diemme-filtration-srl",
-      "title": "Sandvik – Diemme Filtration S.r.l.",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sandvik-%E2%80%93-diemme-filtration-srl"
-    },
-    {
-      "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland",
-      "title": "National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-bdf-dental-clinic-beaudesert-queensland"
-    },
-    {
-      "slug": "vets-central-%E2%80%93-willunga-aldinga-veterinary-services",
-      "title": "Vets Central – Willunga & Aldinga Veterinary Services",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-willunga-aldinga-veterinary-services"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
-      "title": "Zoetis – Neogen Genomics Business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+      "slug": "energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
+      "title": "Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
       "changes": [
         {
           "field": "last_modified_accc",
-          "old": "2026-06-15T15:05:04+10:00",
-          "new": "2026-07-17T15:58:34+10:00"
+          "old": "2026-07-10T15:26:25+10:00",
+          "new": "2026-07-20T12:07:39+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]",
-          "new": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}, {'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026.pdf'}]"
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 July 2026 via email to mergers@accc.gov.au with the title Submission re: Energy Bay – Centuria Capital. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Energy Bay - Centuria Capital third-party questionnaire Attachment 116.13 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         }
       ]
     }
