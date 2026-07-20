@@ -120,33 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
-    "title": "Envest Group – MA Insurance Brokers",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "respect-group-jallarah-homes",
-    "title": "Respect Group - Jallarah Homes",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/respect-group-jallarah-homes",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "stonepeak-%E2%80%93-castrol",
-    "title": "Stonepeak – Castrol",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+    "slug": "black-rhino-club-hotel-motel-roma",
+    "title": "Black Rhino - Club Hotel Motel Roma",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
