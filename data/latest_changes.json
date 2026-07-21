@@ -1,64 +1,30 @@
 {
-  "run_utc": "2026-07-21T02:55:00.279890Z",
-  "new_count": 1,
-  "changed_count": 3,
+  "run_utc": "2026-07-21T08:33:47.503391Z",
+  "new_count": 3,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "expedia-cartrawler",
-      "title": "Expedia - CarTrawler",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler"
+      "slug": "l-catterton-europe-%E2%80%93-hyrox",
+      "title": "L Catterton Europe – HYROX",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l-catterton-europe-%E2%80%93-hyrox"
+    },
+    {
+      "slug": "new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral",
+      "title": "New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral"
+    },
+    {
+      "slug": "centerbridge-partners-%E2%80%93-ebury-partners-limited",
+      "title": "Centerbridge Partners – Ebury Partners Limited",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/centerbridge-partners-%E2%80%93-ebury-partners-limited"
     }
   ],
   "changed_entries": [
     {
-      "slug": "amplifon-%E2%80%93-gn-hearing",
-      "title": "Amplifon – GN Hearing",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-13T17:30:50+10:00",
-          "new": "2026-07-20T10:39:30+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 July 2026 via email to mergers@accc.gov.au with the title Submission re: Amplifon – GN Hearing. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 13 Jul 2026 Questionnaire - Amplifon - GN Hearing Attachment 116.21 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '13 Jul 2026', 'description': 'Questionnaire - Amplifon - GN Hearing', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Amplifon%20-%20GN%20Hearing.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "salesforce-contentful",
-      "title": "Salesforce - Contentful",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-14T11:20:05+10:00",
-          "new": "2026-07-20T11:29:32+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 July 2026 via email to mergers@accc.gov.au with the title Submission re Salesforce-Contentful. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 14 Jul 2026 Questionnaire - Salesforce Contentful Attachment 113.2 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Salesforce Contentful', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Salesforce%20-%20Contentful.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
-      "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+      "slug": "amazon-%E2%80%93-globalstar",
+      "title": "Amazon – Globalstar",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
       "changes": [
         {
           "field": "acquisition_status",
@@ -76,9 +42,14 @@
           "new": "21 July 2026"
         },
         {
+          "field": "acquirers",
+          "old": "Grapefruit Acquisition Sub II, LLC; 10440021; Amazon.com, Inc.; 2620453",
+          "new": "Amazon.com, Inc.; 2620453; Grapefruit Acquisition Sub II, LLC; 10440021"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-06-29T15:41:02+10:00",
-          "new": "2026-07-21T12:17:29+10:00"
+          "old": "2026-07-07T14:01:06+10:00",
+          "new": "2026-07-21T13:35:41+10:00"
         },
         {
           "field": "consultation_text",
@@ -87,8 +58,45 @@
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by parties', 'url': ''}, {'date': '21 Jul 2026', 'description': 'CVS Group - Paws at Prospect and Eyes at Prospect - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/CVS%20Group%20-%20Paws%20at%20Prospect%20and%20Eyes%20at%20Prospect%20-%20Phase%201%20determination%20-%2021%20July%202026.pdf'}]"
+          "old": "",
+          "new": "[{'date': '21 Jul 2026', 'description': 'Amazon - Globalstar - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Amazon%20-%20Globalstar%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "black-rhino-club-hotel-motel-roma",
+      "title": "Black Rhino - Club Hotel Motel Roma",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187",
+          "new": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498"
+        },
+        {
+          "field": "targets",
+          "old": "SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845",
+          "new": "The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330 255"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-10T16:36:15+10:00",
+          "new": "2026-07-21T16:04:53+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which requires that On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which requires that BRG must divest, including by procuring divestiture, either the Northern Road bottle shop, the Royal 99 bottle shop, or both, to an ACCC-approved purchaser before they may complete the Acquisition (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm(AEST) on 17 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Black Rhino – Club Hotel Motel Roma – Remedy offer. read more 9 Jul 2026 Black Rhino - Club Hotel - Remedy Offer - 9 July 2026 Attachment 315.73 KB 10 Jul 2026 Black Rhino - Club Hotel - Remedy Offer Questionnaire Attachment 97.77 KB",
+          "new": ""
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer - 9 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Remedy%20Offer%20%289%20July%202026%29_1.pdf'}, {'date': '10 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Questionnaire%20-%20Remedy%20Offer%20%2810%20July%202026%29_2.docx'}]",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]",
+          "new": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
         }
       ]
     }
