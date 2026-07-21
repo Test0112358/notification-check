@@ -120,21 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "australiansuper-ifm-global-infrastructure-australia-trust",
-    "title": "AustralianSuper - IFM Global Infrastructure (Australia) Trust",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australiansuper-ifm-global-infrastructure-australia-trust",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "logic-technologies-ace-communication-distributors",
-    "title": "Logic Technologies - Ace Communication Distributors",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+    "slug": "bupa-%E2%80%93-barings-australian-private-credit-fund",
+    "title": "Bupa – Barings Australian Private Credit Fund",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bupa-%E2%80%93-barings-australian-private-credit-fund",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
