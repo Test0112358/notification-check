@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-07-20T09:20:13.239730Z",
+  "run_utc": "2026-07-21T02:55:00.279890Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
-      "title": "Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation",
-      "case_number": "MN-01109",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
-      "date": "20 Jul 2026",
-      "description": "Questionnaire - Sygnenta Crop Protection and Dümmen Orange JV",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/MN-01109%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/MN-01109 - Questionnaire.docx",
-      "filename": "MN-01109 - Questionnaire.docx",
-      "size_kb": 60.1
+      "slug": "expedia-cartrawler",
+      "title": "Expedia - CarTrawler",
+      "case_number": "MN-90022",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler",
+      "date": "21 Jul 2026",
+      "description": "Questionnaire - Expedia-CarTrawler",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Expedia%20-%20CarTrawler%20-%20third-party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Expedia - CarTrawler - third-party questionnaire.docx",
+      "filename": "Expedia - CarTrawler - third-party questionnaire.docx",
+      "size_kb": 117.4
     }
   ]
 }

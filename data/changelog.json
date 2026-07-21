@@ -24109,5 +24109,100 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hillhouse-%E2%80%93-lrqa-group",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-21T02:55:00.279890Z",
+    "slug": "expedia-cartrawler",
+    "title": "Expedia - CarTrawler",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-21T02:55:00.279890Z",
+    "slug": "amplifon-%E2%80%93-gn-hearing",
+    "title": "Amplifon – GN Hearing",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-13T17:30:50+10:00",
+        "new": "2026-07-20T10:39:30+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 July 2026 via email to mergers@accc.gov.au with the title Submission re: Amplifon – GN Hearing. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 13 Jul 2026 Questionnaire - Amplifon - GN Hearing Attachment 116.21 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '13 Jul 2026', 'description': 'Questionnaire - Amplifon - GN Hearing', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Amplifon%20-%20GN%20Hearing.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-21T02:55:00.279890Z",
+    "slug": "salesforce-contentful",
+    "title": "Salesforce - Contentful",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-14T11:20:05+10:00",
+        "new": "2026-07-20T11:29:32+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 July 2026 via email to mergers@accc.gov.au with the title Submission re Salesforce-Contentful. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 14 Jul 2026 Questionnaire - Salesforce Contentful Attachment 113.2 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Salesforce Contentful', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Salesforce%20-%20Contentful.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-21T02:55:00.279890Z",
+    "slug": "cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+    "title": "CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-29T15:41:02+10:00",
+        "new": "2026-07-21T12:17:29+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days – following request by parties', 'url': ''}, {'date': '21 Jul 2026', 'description': 'CVS Group - Paws at Prospect and Eyes at Prospect - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/CVS%20Group%20-%20Paws%20at%20Prospect%20and%20Eyes%20at%20Prospect%20-%20Phase%201%20determination%20-%2021%20July%202026.pdf'}]"
+      }
+    ]
   }
 ]
