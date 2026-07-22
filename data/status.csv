@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-22 02:52:51.448754,
-Last scrape run (AEST),22 Jul 2026  12:52,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-22 08:33:30.938721,
+Last scrape run (AEST),22 Jul 2026  18:33,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,467,
-New entries this run,2,
-Changed entries this run,4,
+Total entries monitored,471,
+New entries this run,4,
+Changed entries this run,6,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,48 +13,65 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist
-+ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
+NEW ENTRIES (4),Case Number,URL
++ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
++ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
++ KKR - FYihealth group,WA-01110,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-fyihealth-group
+"+ Coles - supermarket site in Palmwoods, QLD",WA-75030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-supermarket-site-in-palmwoods-qld
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0
-,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin  →  HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nom
-,Last Modified Accc,2026-07-15T11:30:36+10:00  →  2026-07-22T10:40:25+10:00
-,Consultation Text,"On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforcea  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire "
-,Consultation Docs,"[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url':  →  [{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July"
+CHANGED ENTRIES (6),Field changed,Old value  →  New value
+~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
+,Targets,UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527; HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646  →  HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646; UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527
+,Last Modified Accc,2026-07-16T17:58:01+10:00  →  2026-07-22T17:00:29+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '15 Jul 2026', 'description': 'Questionnaire - Total Drain Group - Pipe Management Austral  →  "
 ,,
-~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
-,End Of Determination Period,12 Aug 2026  →  19 Aug 2026
-,Last Modified Accc,2026-07-09T12:19:37+10:00  →  2026-07-21T16:34:31+10:00
-,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by"
+~ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  22 July 2026
+,Last Modified Accc,2026-07-08T15:54:56+10:00  →  2026-07-22T16:46:38+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and Equipment - Phase 1 "
 ,,
-~ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
+~ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  22 July 2026
+,Acquirers,Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-0684746; Schlumberger Tech  →  Geoquest Systems BV; KVK - 27176644; Schlumberger Canada Limited; 2025732419; Schlumberger Technolog
+,Last Modified Accc,2026-07-08T16:06:06+10:00  →  2026-07-22T13:55:15+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': ""SLB - S&P Global's geoscience software portfolio - Phase 1 "
+,,
+~ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  21 July 2026
-,Acquirers,"OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7  →  Wave Merger Sub II, LLC; Delaware File Number - 7007085; OpenAI Group PBC; Delaware File Number - 10"
-,Other Parties,OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228  →  Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936
-,Last Modified Accc,2026-07-03T16:02:23+10:00  →  2026-07-21T13:33:29+10:00
+,Last Modified Accc,2026-07-08T07:54:35+10:00  →  2026-07-22T14:51:05+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'OpenAI-Ona - Phase 1 determination', 'url': 'https://www.ac"
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Hapag-Lloyd - ZIM - Phase 1 determination', 'url': 'https:/"
 ,,
-~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
+~ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  21 July 2026
-,Other Parties,U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYST  →  AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; AKZO NOBEL PTY LIMITED; 59 000 119 424; U-
-,Last Modified Accc,2026-07-03T08:27:12+10:00  →  2026-07-22T09:53:19+10:00
+,Determination Publication Date,  →  22 July 2026
+,Other Parties,Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonep  →  Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 9
+,Last Modified Accc,2026-07-09T09:21:42+10:00  →  2026-07-22T16:23:06+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determination', 'url': 'https:"
+,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': 'Stonepeak - Estia Health - Phase 1 Determination', 'url': '"
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Targets,RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  →  RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805
+,Other Parties,THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877  →  RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120
+,Last Modified Accc,2026-07-08T17:33:41+10:00  →  2026-07-22T16:46:45+10:00
+,Consultation Text,"On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable unde  →  "
+,Consultation Docs,"[{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI', 'url': 'https://ww  →  "
+,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': ''}, {'d  →  [{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request f"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (23),Case Number,Detected (AEST)
-+ Total Drain Group - Pipe Management Australia,MN-15028,15 Jul  18:19
-+ KKR - Crowe,WA-90025,15 Jul  18:19
-+ Blackbird Ventures – Baseten Labs,WA-45019,15 Jul  18:19
+NEW ENTRIES (22),Case Number,Detected (AEST)
 + Laundy – Woy Woy Hotel,MN-40029,16 Jul  12:49
 + UPM-Kymmene – Sappi joint venture,MN-30023,16 Jul  18:19
 + Parker-Hannifin – CIRCOR A&D,MN-70026,16 Jul  18:19
@@ -75,25 +92,10 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 + L Catterton Europe – HYROX,WA-25036,21 Jul  18:33
 + New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral,WA-50031,21 Jul  18:33
 + Centerbridge Partners – Ebury Partners Limited,WA-30024,21 Jul  18:33
++ L'Oréal - Innovist,MN-35029,22 Jul  12:52
++ Vertex – Crinetics,MN-05036,22 Jul  12:52
 ,,
-"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
-,Acquisition Status,Under assessment  →  Assessment completed  (15 Jul  18:19)
-,Accc Determination,  →  Approved  (15 Jul  18:19)
-,Determination Publication Date,  →  15 July 2026  (15 Jul  18:19)
-,Last Modified Accc,2026-06-30T16:17:51+10:00  →  2026-07-15T15:37:10+10:00  (15 Jul  18:19)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (15 Jul  18:19)
-,Decisions Docs,"  →  [{'date': '15 Jul 2026', 'description': 'Autodesk - MaintainX - Phase 1 Determin  (15 Jul  18:19)"
-,,
-~ Uber - Blacklane,MN-20018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/uber-blacklane
-,Acquisition Status,Under assessment  →  Assessment completed  (15 Jul  18:19)
-,Accc Determination,  →  Approved  (15 Jul  18:19)
-,Determination Publication Date,  →  15 July 2026  (15 Jul  18:19)
-,Other Parties,UBER PACIFIC PTY LTD; 96 622 366 116; UBER AUSTRALIA HOLDINGS PTY LTD; 54 622 36  →  UBER PACIFIC PTY LTD; 96 622 366 116; RASIER PACIFIC PTY LTD; 27 622 365 833; UB  (15 Jul  18:19)
-,Last Modified Accc,2026-06-16T09:42:18+10:00  →  2026-07-15T16:39:05+10:00  (15 Jul  18:19)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (15 Jul  18:19)
-,Decisions Docs,"  →  [{'date': '14 Jul 2026', 'description': 'Uber - Blacklane - Phase 1 Determinatio  (15 Jul  18:19)"
-,,
+"CHANGED ENTRIES (21 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Sika AG - Akkim,MN-40027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim
 ,Acquisition Status,Under assessment  →  Assessment completed  (16 Jul  12:49)
 ,Accc Determination,  →  Approved  (16 Jul  12:49)
@@ -199,4 +201,34 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,Consultation Text,"On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable under  →    (21 Jul  18:33)"
 ,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer   →    (21 Jul  18:33)"
 ,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  (21 Jul  18:33)"
+,,
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trus  →  HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 5  (22 Jul  12:52)
+,Last Modified Accc,2026-07-15T11:30:36+10:00  →  2026-07-22T10:40:25+10:00  (22 Jul  12:52)
+,Consultation Text,"On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would prov  →  The period for providing submissions or information in response to the ACCC’s Ph  (22 Jul  12:52)"
+,Consultation Docs,"[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling  →  [{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Re  (22 Jul  12:52)"
+,,
+~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
+,End Of Determination Period,12 Aug 2026  →  19 Aug 2026  (22 Jul  12:52)
+,Last Modified Accc,2026-07-09T12:19:37+10:00  →  2026-07-21T16:34:31+10:00  (22 Jul  12:52)
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days –   (22 Jul  12:52)"
+,,
+~ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  12:52)
+,Accc Determination,  →  Approved  (22 Jul  12:52)
+,Determination Publication Date,  →  21 July 2026  (22 Jul  12:52)
+,Acquirers,"OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Dela  →  Wave Merger Sub II, LLC; Delaware File Number - 7007085; OpenAI Group PBC; Delaw  (22 Jul  12:52)"
+,Other Parties,OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228  →  Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936  (22 Jul  12:52)
+,Last Modified Accc,2026-07-03T16:02:23+10:00  →  2026-07-21T13:33:29+10:00  (22 Jul  12:52)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  12:52)
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'OpenAI-Ona - Phase 1 determination', 'u  (22 Jul  12:52)"
+,,
+~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  12:52)
+,Accc Determination,  →  Approved  (22 Jul  12:52)
+,Determination Publication Date,  →  21 July 2026  (22 Jul  12:52)
+,Other Parties,U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424;  →  AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; AKZO NOBEL PTY LIMITED  (22 Jul  12:52)
+,Last Modified Accc,2026-07-03T08:27:12+10:00  →  2026-07-22T09:53:19+10:00  (22 Jul  12:52)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  12:52)
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determinat  (22 Jul  12:52)"
 ,,

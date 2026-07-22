@@ -1,30 +1,18 @@
 {
-  "run_utc": "2026-07-22T02:52:51.448754Z",
-  "questionnaire_count": 2,
+  "run_utc": "2026-07-22T08:33:30.938721Z",
+  "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "lor%C3%A9al-innovist",
-      "title": "L'Oréal - Innovist",
-      "case_number": "MN-35029",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist",
+      "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
+      "title": "Sanad Services and Tikehau Capital – Revima",
+      "case_number": "MN-25037",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima",
       "date": "22 Jul 2026",
-      "description": "L'Oréal - Innovist - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/L%27oreal%20-%20Innovist%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/L_oreal - Innovist - Questionnaire.docx",
-      "filename": "L_oreal - Innovist - Questionnaire.docx",
-      "size_kb": 116.1
-    },
-    {
-      "slug": "vertex-%E2%80%93-crinetics",
-      "title": "Vertex – Crinetics",
-      "case_number": "MN-05036",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics",
-      "date": "22 Jul 2026",
-      "description": "Vertex - Crinetics - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Vertex%20-%20Crinetics%20-%20Questionnaire%20-%2022%20July%202026.docx",
-      "local_path": "data/consultation_docs/Vertex - Crinetics - Questionnaire - 22 July 2026.docx",
-      "filename": "Vertex - Crinetics - Questionnaire - 22 July 2026.docx",
-      "size_kb": 116.1
+      "description": "Sanad and Tikehau-Revima - Third party questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Sanad%20and%20Tikehau-Revima%20-%20Third%20party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Sanad and Tikehau-Revima - Third party questionnaire.docx",
+      "filename": "Sanad and Tikehau-Revima - Third party questionnaire.docx",
+      "size_kb": 116.4
     }
   ]
 }

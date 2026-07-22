@@ -1,74 +1,62 @@
 {
-  "run_utc": "2026-07-22T02:52:51.448754Z",
-  "new_count": 2,
-  "changed_count": 4,
+  "run_utc": "2026-07-22T08:33:30.938721Z",
+  "new_count": 4,
+  "changed_count": 6,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "lor%C3%A9al-innovist",
-      "title": "L'Oréal - Innovist",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist"
+      "slug": "mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+      "title": "McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company"
     },
     {
-      "slug": "vertex-%E2%80%93-crinetics",
-      "title": "Vertex – Crinetics",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics"
+      "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
+      "title": "Sanad Services and Tikehau Capital – Revima",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima"
+    },
+    {
+      "slug": "kkr-fyihealth-group",
+      "title": "KKR - FYihealth group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-fyihealth-group"
+    },
+    {
+      "slug": "coles-supermarket-site-in-palmwoods-qld",
+      "title": "Coles - supermarket site in Palmwoods, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-supermarket-site-in-palmwoods-qld"
     }
   ],
   "changed_entries": [
     {
-      "slug": "peter-warren-wakeling-automotive-0",
-      "title": "Peter Warren - Wakeling Automotive",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+      "slug": "total-drain-group-pipe-management-australia",
+      "title": "Total Drain Group - Pipe Management Australia",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia",
       "changes": [
         {
           "field": "targets",
-          "old": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598",
-          "new": "HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768"
+          "old": "UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527; HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646",
+          "new": "HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646; UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-15T11:30:36+10:00",
-          "new": "2026-07-22T10:40:25+10:00"
+          "old": "2026-07-16T17:58:01+10:00",
+          "new": "2026-07-22T17:00:29+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren — Wakeling Automotive. read more 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 120.88 KB 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded. 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB"
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 22 July 2026 via email to mergers@accc.gov.au with the title Submission re: Total Drain Group — Pipe Management Australia. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 15 Jul 2026 Questionnaire - Total Drain Group - Pipe Management Australia Attachment 116.03 KB",
+          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_1.docx'}, {'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf'}]",
-          "new": "[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf'}]"
+          "old": "[{'date': '15 Jul 2026', 'description': 'Questionnaire - Total Drain Group - Pipe Management Australia', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/TDG%20-%20PMA%20-%20Questionnaire.docx'}]",
+          "new": ""
         }
       ]
     },
     {
-      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "title": "Vets Central – Hills Veterinary Centre",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "12 Aug 2026",
-          "new": "19 Aug 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-09T12:19:37+10:00",
-          "new": "2026-07-21T16:34:31+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]"
-        }
-      ]
-    },
-    {
-      "slug": "openai-ona",
-      "title": "OpenAI - Ona",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona",
+      "slug": "symal-group-shamrock-engineering-and-equipment",
+      "title": "Symal Group - Shamrock Engineering and Equipment",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment",
       "changes": [
         {
           "field": "acquisition_status",
@@ -83,22 +71,54 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "21 July 2026"
+          "new": "22 July 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-08T15:54:56+10:00",
+          "new": "2026-07-22T16:46:38+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '22 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and Equipment - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Symal%20Group%20-%20Shamrock%20Engineering%20and%20Equipment%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio",
+      "title": "SLB – S&P Global’s Geoscience Software Portfolio",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "22 July 2026"
         },
         {
           "field": "acquirers",
-          "old": "OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7007085; Wave Merger Sub, Inc.; Delaware File Number - 10631976",
-          "new": "Wave Merger Sub II, LLC; Delaware File Number - 7007085; OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub, Inc.; Delaware File Number - 10631976"
-        },
-        {
-          "field": "other_parties",
-          "old": "OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228",
-          "new": "Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936"
+          "old": "Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-0684746; Schlumberger Technology Corporation; EIN - 22-1692661; Geoquest Systems BV; KVK - 27176644",
+          "new": "Geoquest Systems BV; KVK - 27176644; Schlumberger Canada Limited; 2025732419; Schlumberger Technology Corporation; EIN - 22-1692661; SLB N.V. (SLB Limited); EIN - 52-0684746"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-03T16:02:23+10:00",
-          "new": "2026-07-21T13:33:29+10:00"
+          "old": "2026-07-08T16:06:06+10:00",
+          "new": "2026-07-22T13:55:15+10:00"
         },
         {
           "field": "consultation_text",
@@ -108,14 +128,14 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '21 Jul 2026', 'description': 'OpenAI-Ona - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/OpenAI%20-%20Ona%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '22 Jul 2026', 'description': \"SLB - S&P Global's geoscience software portfolio - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/SLB%20-%20S%26P%20Global%27s%20geoscience%20software%20portfolio%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     },
     {
-      "slug": "akzonobel-axalta",
-      "title": "AkzoNobel - Axalta",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta",
+      "slug": "hapag-lloyd-zim",
+      "title": "Hapag-Lloyd - ZIM",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim",
       "changes": [
         {
           "field": "acquisition_status",
@@ -133,14 +153,9 @@
           "new": "21 July 2026"
         },
         {
-          "field": "other_parties",
-          "old": "U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; REFINISH IMPORTS PTY LIMITED; 15 626 896 142",
-          "new": "AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; AKZO NOBEL PTY LIMITED; 59 000 119 424; U-POL AUSTRALIA PTY LTD; 12 633 592 819; REFINISH IMPORTS PTY LIMITED; 15 626 896 142"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-03T08:27:12+10:00",
-          "new": "2026-07-22T09:53:19+10:00"
+          "old": "2026-07-08T07:54:35+10:00",
+          "new": "2026-07-22T14:51:05+10:00"
         },
         {
           "field": "consultation_text",
@@ -150,7 +165,86 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/AkzoNobel%20-%20Axalta%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '21 Jul 2026', 'description': 'Hapag-Lloyd - ZIM - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Hapag-Lloyd%20-%20ZIM%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "stonepeak-led-consortium-estia-health",
+      "title": "Stonepeak-led consortium - Estia Health",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "22 July 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonepeak Partners LP; 4958360; Wisdom TopCo Pty Ltd; 696 888 552; Aura Australia Holdings Pty Ltd; 41 614 139 589; Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 99 000 341 533",
+          "new": "Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 99 000 341 533; Stonepeak Partners LP; 4958360; Aura Australia Holdings Pty Ltd; 41 614 139 589; Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Wisdom TopCo Pty Ltd; 696 888 552"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-09T09:21:42+10:00",
+          "new": "2026-07-22T16:23:06+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '22 Jul 2026', 'description': 'Stonepeak - Estia Health - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Stonepeak-Estia%20Health%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "changes": [
+        {
+          "field": "targets",
+          "old": "RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882",
+          "new": "RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805"
+        },
+        {
+          "field": "other_parties",
+          "old": "THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877",
+          "new": "RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-08T17:33:41+10:00",
+          "new": "2026-07-22T16:46:45+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would include On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would include behavioural commitments in relation to competitiveness and benchmarking provisions in the Distribution Agreement and in relation to the acquisition of smash repair services (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 22 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: IAG – RACI – Remedy offer. read more 8 Jul 2026 Remedy Offer - 1 July 2026 - IAG - RACI Attachment 166.09 KB 8 Jul 2026 Remedy Offer Questionnaire - IAG - RACI Attachment 118.87 KB",
+          "new": ""
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Remedy%20Offer%20%281%20July%202026%29_1.pdf'}, {'date': '8 Jul 2026', 'description': 'Remedy Offer Questionnaire - IAG - RACI', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Questionnaire%20-%20Remedy%20Offer%20%281%20July%202026%29_1.docx'}]",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': ''}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_2.pdf'}, {'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_3.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by business days - following request for further information', 'url': ''}]",
+          "new": "[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_2.pdf'}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}]"
         }
       ]
     }
