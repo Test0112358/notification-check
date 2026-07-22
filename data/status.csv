@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-21 08:33:47.503391,
-Last scrape run (AEST),21 Jul 2026  18:33,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-22 02:52:51.448754,
+Last scrape run (AEST),22 Jul 2026  12:52,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,465,
-New entries this run,3,
-Changed entries this run,2,
+Total entries monitored,467,
+New entries this run,2,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,33 +13,45 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ L Catterton Europe – HYROX,WA-25036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l-catterton-europe-%E2%80%93-hyrox
-+ New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral,WA-50031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral
-+ Centerbridge Partners – Ebury Partners Limited,WA-30024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/centerbridge-partners-%E2%80%93-ebury-partners-limited
+NEW ENTRIES (2),Case Number,URL
++ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist
++ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin  →  HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nom
+,Last Modified Accc,2026-07-15T11:30:36+10:00  →  2026-07-22T10:40:25+10:00
+,Consultation Text,"On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforcea  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire "
+,Consultation Docs,"[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url':  →  [{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July"
+,,
+~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
+,End Of Determination Period,12 Aug 2026  →  19 Aug 2026
+,Last Modified Accc,2026-07-09T12:19:37+10:00  →  2026-07-21T16:34:31+10:00
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by"
+,,
+~ OpenAI - Ona,MN-90020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  21 July 2026
-,Acquirers,"Grapefruit Acquisition Sub II, LLC; 10440021; Amazon.com, Inc.; 2620453  →  Amazon.com, Inc.; 2620453; Grapefruit Acquisition Sub II, LLC; 10440021"
-,Last Modified Accc,2026-07-07T14:01:06+10:00  →  2026-07-21T13:35:41+10:00
+,Acquirers,"OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7  →  Wave Merger Sub II, LLC; Delaware File Number - 7007085; OpenAI Group PBC; Delaware File Number - 10"
+,Other Parties,OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228  →  Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936
+,Last Modified Accc,2026-07-03T16:02:23+10:00  →  2026-07-21T13:33:29+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Amazon - Globalstar - Phase 1 determination', 'url': 'https"
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'OpenAI-Ona - Phase 1 determination', 'url': 'https://www.ac"
 ,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693   →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 
-,Targets,SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126  →  The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330
-,Last Modified Accc,2026-07-10T16:36:15+10:00  →  2026-07-21T16:04:53+10:00
-,Consultation Text,"On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s  →  "
-,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer - 9 July 2026', 'url  →  "
-,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy of  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy of"
+~ AkzoNobel - Axalta,MN-50024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  21 July 2026
+,Other Parties,U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYST  →  AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; AKZO NOBEL PTY LIMITED; 59 000 119 424; U-
+,Last Modified Accc,2026-07-03T08:27:12+10:00  →  2026-07-22T09:53:19+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determination', 'url': 'https:"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (20),Case Number,Detected (AEST)
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + Total Drain Group - Pipe Management Australia,MN-15028,15 Jul  18:19
 + KKR - Crowe,WA-90025,15 Jul  18:19
 + Blackbird Ventures – Baseten Labs,WA-45019,15 Jul  18:19
@@ -60,14 +72,11 @@ NEW ENTRIES (20),Case Number,Detected (AEST)
 + Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,20 Jul  19:20
 + Hillhouse – LRQA Group,WA-01113,20 Jul  19:20
 + Expedia - CarTrawler,MN-90022,21 Jul  12:55
++ L Catterton Europe – HYROX,WA-25036,21 Jul  18:33
++ New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral,WA-50031,21 Jul  18:33
++ Centerbridge Partners – Ebury Partners Limited,WA-30024,21 Jul  18:33
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0
-,Targets,Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Wa  →  WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trus  (15 Jul  12:43)
-,Last Modified Accc,2026-07-14T17:31:44+10:00  →  2026-07-15T11:30:36+10:00  (15 Jul  12:43)
-,Consultation Text,"On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would prov  →  On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would prov  (15 Jul  12:43)"
-,Consultation Docs,"[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Re  →  [{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling  (15 Jul  12:43)"
-,,
+"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Autodesk - MaintainX,MN-60022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autodesk-maintainx
 ,Acquisition Status,Under assessment  →  Assessment completed  (15 Jul  18:19)
 ,Accc Determination,  →  Approved  (15 Jul  18:19)
@@ -173,4 +182,21 @@ NEW ENTRIES (20),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-29T15:41:02+10:00  →  2026-07-21T12:17:29+10:00  (21 Jul  12:55)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (21 Jul  12:55)
 ,Decisions Docs,"[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   (21 Jul  12:55)"
+,,
+~ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
+,Acquisition Status,Under assessment  →  Assessment completed  (21 Jul  18:33)
+,Accc Determination,  →  Approved  (21 Jul  18:33)
+,Determination Publication Date,  →  21 July 2026  (21 Jul  18:33)
+,Acquirers,"Grapefruit Acquisition Sub II, LLC; 10440021; Amazon.com, Inc.; 2620453  →  Amazon.com, Inc.; 2620453; Grapefruit Acquisition Sub II, LLC; 10440021  (21 Jul  18:33)"
+,Last Modified Accc,2026-07-07T14:01:06+10:00  →  2026-07-21T13:35:41+10:00  (21 Jul  18:33)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (21 Jul  18:33)
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Amazon - Globalstar - Phase 1 determina  (21 Jul  18:33)"
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  (21 Jul  18:33)
+,Targets,SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMI  →  The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS  (21 Jul  18:33)
+,Last Modified Accc,2026-07-10T16:36:15+10:00  →  2026-07-21T16:04:53+10:00  (21 Jul  18:33)
+,Consultation Text,"On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable under  →    (21 Jul  18:33)"
+,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer   →    (21 Jul  18:33)"
+,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  (21 Jul  18:33)"
 ,,

@@ -24311,5 +24311,167 @@
         "new": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-22T02:52:51.448754Z",
+    "slug": "lor%C3%A9al-innovist",
+    "title": "L'Oréal - Innovist",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-22T02:52:51.448754Z",
+    "slug": "vertex-%E2%80%93-crinetics",
+    "title": "Vertex – Crinetics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-22T02:52:51.448754Z",
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598",
+        "new": "HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-15T11:30:36+10:00",
+        "new": "2026-07-22T10:40:25+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren — Wakeling Automotive. read more 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 120.88 KB 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded. 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB"
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_1.docx'}, {'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf'}]",
+        "new": "[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-22T02:52:51.448754Z",
+    "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "title": "Vets Central – Hills Veterinary Centre",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "12 Aug 2026",
+        "new": "19 Aug 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-09T12:19:37+10:00",
+        "new": "2026-07-21T16:34:31+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-22T02:52:51.448754Z",
+    "slug": "openai-ona",
+    "title": "OpenAI - Ona",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 July 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7007085; Wave Merger Sub, Inc.; Delaware File Number - 10631976",
+        "new": "Wave Merger Sub II, LLC; Delaware File Number - 7007085; OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub, Inc.; Delaware File Number - 10631976"
+      },
+      {
+        "field": "other_parties",
+        "old": "OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228",
+        "new": "Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-03T16:02:23+10:00",
+        "new": "2026-07-21T13:33:29+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 Jul 2026', 'description': 'OpenAI-Ona - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/OpenAI%20-%20Ona%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-22T02:52:51.448754Z",
+    "slug": "akzonobel-axalta",
+    "title": "AkzoNobel - Axalta",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 July 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; REFINISH IMPORTS PTY LIMITED; 15 626 896 142",
+        "new": "AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; AKZO NOBEL PTY LIMITED; 59 000 119 424; U-POL AUSTRALIA PTY LTD; 12 633 592 819; REFINISH IMPORTS PTY LIMITED; 15 626 896 142"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-03T08:27:12+10:00",
+        "new": "2026-07-22T09:53:19+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/AkzoNobel%20-%20Axalta%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]

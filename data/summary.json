@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-07-21T08:50:43.388069Z",
-  "total_entries": 465,
+  "generated_at_utc": "2026-07-22T03:09:13.178828Z",
+  "total_entries": 467,
   "by_acquisition_status": {
     "Under assessment": 43,
-    "Assessment completed": 419,
+    "Assessment completed": 421,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 175,
+    "Phase 1 - initial assessment": 177,
     "Waiver application": 283,
     "Phase 2 - detailed assessment": 7
   },
   "by_type": {
-    "Notification": 182,
+    "Notification": 184,
     "Waiver": 283
   },
   "by_accc_determination": {
-    "Approved": 403,
+    "Approved": 405,
     "Not approved": 15,
     "Approved with conditions": 1
   },
@@ -25,19 +25,19 @@
       "slug": "zoetis-%E2%80%93-neogen-genomics-business",
       "title": "Zoetis – Neogen Genomics Business",
       "end_of_determination_period": "23 Jul 2026",
-      "days_remaining": 2
+      "days_remaining": 1
     },
     {
       "slug": "transocean-valaris",
       "title": "Transocean - Valaris",
       "end_of_determination_period": "28 Jul 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "genea-care-fertility-greenslopes",
       "title": "Genea - Care Fertility Greenslopes",
       "end_of_determination_period": "31 Jul 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }

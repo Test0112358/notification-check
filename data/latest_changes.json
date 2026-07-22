@@ -1,30 +1,74 @@
 {
-  "run_utc": "2026-07-21T08:33:47.503391Z",
-  "new_count": 3,
-  "changed_count": 2,
+  "run_utc": "2026-07-22T02:52:51.448754Z",
+  "new_count": 2,
+  "changed_count": 4,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "l-catterton-europe-%E2%80%93-hyrox",
-      "title": "L Catterton Europe – HYROX",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/l-catterton-europe-%E2%80%93-hyrox"
+      "slug": "lor%C3%A9al-innovist",
+      "title": "L'Oréal - Innovist",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist"
     },
     {
-      "slug": "new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral",
-      "title": "New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral"
-    },
-    {
-      "slug": "centerbridge-partners-%E2%80%93-ebury-partners-limited",
-      "title": "Centerbridge Partners – Ebury Partners Limited",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/centerbridge-partners-%E2%80%93-ebury-partners-limited"
+      "slug": "vertex-%E2%80%93-crinetics",
+      "title": "Vertex – Crinetics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics"
     }
   ],
   "changed_entries": [
     {
-      "slug": "amazon-%E2%80%93-globalstar",
-      "title": "Amazon – Globalstar",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
+      "slug": "peter-warren-wakeling-automotive-0",
+      "title": "Peter Warren - Wakeling Automotive",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+      "changes": [
+        {
+          "field": "targets",
+          "old": "WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598",
+          "new": "HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-15T11:30:36+10:00",
+          "new": "2026-07-22T10:40:25+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the On 13 July 2026, Peter Warren made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Peter Warren to divest eight dealerships across two locations in the Macarthur region to an ACCC-approved purchaser (the Remedy Offer). Submissions or comments about the Acquisition and/or the Remedy Offer should be provided by 21 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Peter Warren — Wakeling Automotive. read more 14 Jul 2026 Questionnaire - Peter Warren - Wakeling Automotive Attachment 120.88 KB 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded. 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB"
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '14 Jul 2026', 'description': 'Questionnaire - Peter Warren - Wakeling Automotive', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Peter%20Warren%20-%20Wakeling%20Automotive_1.docx'}, {'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf'}]",
+          "new": "[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+      "title": "Vets Central – Hills Veterinary Centre",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
+      "changes": [
+        {
+          "field": "end_of_determination_period",
+          "old": "12 Aug 2026",
+          "new": "19 Aug 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-09T12:19:37+10:00",
+          "new": "2026-07-21T16:34:31+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]"
+        }
+      ]
+    },
+    {
+      "slug": "openai-ona",
+      "title": "OpenAI - Ona",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/openai-ona",
       "changes": [
         {
           "field": "acquisition_status",
@@ -43,13 +87,18 @@
         },
         {
           "field": "acquirers",
-          "old": "Grapefruit Acquisition Sub II, LLC; 10440021; Amazon.com, Inc.; 2620453",
-          "new": "Amazon.com, Inc.; 2620453; Grapefruit Acquisition Sub II, LLC; 10440021"
+          "old": "OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub II, LLC; Delaware File Number - 7007085; Wave Merger Sub, Inc.; Delaware File Number - 10631976",
+          "new": "Wave Merger Sub II, LLC; Delaware File Number - 7007085; OpenAI Group PBC; Delaware File Number - 10381551; Wave Merger Sub, Inc.; Delaware File Number - 10631976"
+        },
+        {
+          "field": "other_parties",
+          "old": "OpenAI Foundation; Delaware File Number - 5902936; Gitpod GmbH; HRB - 22228",
+          "new": "Gitpod GmbH; HRB - 22228; OpenAI Foundation; Delaware File Number - 5902936"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-07T14:01:06+10:00",
-          "new": "2026-07-21T13:35:41+10:00"
+          "old": "2026-07-03T16:02:23+10:00",
+          "new": "2026-07-21T13:33:29+10:00"
         },
         {
           "field": "consultation_text",
@@ -59,44 +108,49 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '21 Jul 2026', 'description': 'Amazon - Globalstar - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Amazon%20-%20Globalstar%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '21 Jul 2026', 'description': 'OpenAI-Ona - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/OpenAI%20-%20Ona%20Phase%201%20determination.pdf'}]"
         }
       ]
     },
     {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+      "slug": "akzonobel-axalta",
+      "title": "AkzoNobel - Axalta",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/akzonobel-axalta",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187",
-          "new": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498"
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
         },
         {
-          "field": "targets",
-          "old": "SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845",
-          "new": "The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330 255"
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "21 July 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "U-POL AUSTRALIA PTY LTD; 12 633 592 819; AKZO NOBEL PTY LIMITED; 59 000 119 424; AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; REFINISH IMPORTS PTY LIMITED; 15 626 896 142",
+          "new": "AXALTA COATING SYSTEMS AUSTRALIA PTY LTD; 53 158 497 655; AKZO NOBEL PTY LIMITED; 59 000 119 424; U-POL AUSTRALIA PTY LTD; 12 633 592 819; REFINISH IMPORTS PTY LIMITED; 15 626 896 142"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-10T16:36:15+10:00",
-          "new": "2026-07-21T16:04:53+10:00"
+          "old": "2026-07-03T08:27:12+10:00",
+          "new": "2026-07-22T09:53:19+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which requires that On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which requires that BRG must divest, including by procuring divestiture, either the Northern Road bottle shop, the Royal 99 bottle shop, or both, to an ACCC-approved purchaser before they may complete the Acquisition (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm(AEST) on 17 July 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: Black Rhino – Club Hotel Motel Roma – Remedy offer. read more 9 Jul 2026 Black Rhino - Club Hotel - Remedy Offer - 9 July 2026 Attachment 315.73 KB 10 Jul 2026 Black Rhino - Club Hotel - Remedy Offer Questionnaire Attachment 97.77 KB",
-          "new": ""
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer - 9 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Remedy%20Offer%20%289%20July%202026%29_1.pdf'}, {'date': '10 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Questionnaire%20-%20Remedy%20Offer%20%2810%20July%202026%29_2.docx'}]",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]",
-          "new": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
+          "old": "",
+          "new": "[{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/AkzoNobel%20-%20Axalta%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }
