@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "hexagon-waygate-technologies",
-    "title": "Hexagon - Waygate Technologies",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hexagon-waygate-technologies",
+    "slug": "telstra-%E2%80%93-infosys-technologies",
+    "title": "Telstra – Infosys Technologies",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/telstra-%E2%80%93-infosys-technologies",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "atkinsr%C3%A9alis-wga",
-    "title": "AtkinsRéalis - WGA",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atkinsr%C3%A9alis-wga",
+    "slug": "xylem-trios",
+    "title": "Xylem - TriOS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/xylem-trios",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -144,9 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
-    "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+    "slug": "american-industrial-partners-avanos-medical",
+    "title": "American Industrial Partners - Avanos Medical",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/american-industrial-partners-avanos-medical",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -156,9 +156,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "sika-ag-akkim",
-    "title": "Sika AG - Akkim",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim",
+    "slug": "axdi-minority-interest-in-la-trobe-financial",
+    "title": "AXDI - minority interest in La Trobe Financial",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -168,9 +168,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "vets-central-claremont-veterinary-surgery",
-    "title": "Vets Central - Claremont Veterinary Surgery",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-claremont-veterinary-surgery",
+    "slug": "mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
+    "title": "Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -180,9 +180,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "kfw-%E2%80%93-knds-nv",
-    "title": "KfW – KNDS N.V.",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
+    "slug": "quanta-psd",
+    "title": "Quanta - PSD",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/quanta-psd",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -192,9 +192,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "platinum-equity-group-lmpg",
-    "title": "Platinum Equity Group - LMPG",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/platinum-equity-group-lmpg",
+    "slug": "online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
+    "title": "Online Education Services – South Australian Institute of Business and Technology",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "novartis-excellergy",
+    "title": "Novartis - Excellergy",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
