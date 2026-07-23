@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-07-23T03:14:09.180856Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
-      "title": "Ambrose Construct Group – Major Loss Builders",
-      "case_number": "MN-10021",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
-      "date": "23 Jul 2026",
-      "description": "Ambrose Construct Group - Major Loss Builders - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Ambrose%20Construct%20Group%20-%20Major%20Loss%20Builders%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Ambrose Construct Group - Major Loss Builders - Questionnaire.docx",
-      "filename": "Ambrose Construct Group - Major Loss Builders - Questionnaire.docx",
-      "size_kb": 116.3
-    }
-  ]
+  "run_utc": "2026-07-23T08:34:44.357247Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

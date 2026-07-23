@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-23 03:14:09.180856,
-Last scrape run (AEST),23 Jul 2026  13:14,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-23 08:34:44.357247,
+Last scrape run (AEST),23 Jul 2026  18:34,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,472,
-New entries this run,1,
-Changed entries this run,1,
+New entries this run,0,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,28 +13,26 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
+,Acquirers,Sappi Limited; Registration number - 1936/008963/06; UPM-Kymmene Corporation; Finnish Business ID -   →  UPM-Kymmene Corporation; Finnish Business ID - 1041090-0; Sappi Limited; Registration number - 1936/
+,Other Parties,SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Commun  →  SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYM
+,Last Modified Accc,2026-07-16T17:58:57+10:00  →  2026-07-23T16:22:52+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '16 Jul 2026', 'description': 'UPM-Kymmene – Sappi joint venture – Phase 1 questionnaire',  →  "
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
+~ Genea - Care Fertility Greenslopes,MN-01104,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  23 July 2026
-,Last Modified Accc,2026-07-06T11:23:24+10:00  →  2026-07-23T09:32:43+10:00
+,Last Modified Accc,2026-06-29T15:30:33+10:00  →  2026-07-23T12:29:08+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '23 Jul 2026', 'description': 'WSP-Geotechnical Testing and Interpretation - Phase 1 deter"
+,Decisions Docs,"  →  [{'date': '23 Jul 2026', 'description': 'Genea - Care Fertility Greenslopes - Phase 1 Determination'"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
-+ UPM-Kymmene – Sappi joint venture,MN-30023,16 Jul  18:19
-+ Parker-Hannifin – CIRCOR A&D,MN-70026,16 Jul  18:19
-+ National Reconstruction Fund Corporation / SOUTHERNLAUNCH.SPACE PTY LTD,WA-80023,16 Jul  18:19
-+ Summit Partners – Keyfactor,WA-75032,16 Jul  18:19
-+ Kennards Hire - Skylift Hire & Rentals,WA-65027,16 Jul  18:19
-+ Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund,WA-55027,16 Jul  18:19
+NEW ENTRIES (20),Case Number,Detected (AEST)
 + Acrow - Ausgroup Industrial Services,MN-60025,17 Jul  12:52
 + Apollo Capital – Curia,WA-10020,17 Jul  18:14
 + IFM Fiduciary – PM Fresh,WA-95031,17 Jul  18:14
@@ -54,42 +52,9 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Sanad Services and Tikehau Capital – Revima,MN-25037,22 Jul  18:33
 + KKR - FYihealth group,WA-01110,22 Jul  18:33
 "+ Coles - supermarket site in Palmwoods, QLD",WA-75030,22 Jul  18:33
++ Ambrose Construct Group – Major Loss Builders,MN-10021,23 Jul  13:14
 ,,
-"CHANGED ENTRIES (25 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
-~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
-,Other Parties,QPE NO. 6GP PTY LIMITED & QPE NO. 6LP PTY LIMITED & RYANBRIDGE PTY LTD; 82 296 6  →  QUADRANT PRIVATE EQUITY NO.6A PTY LIMITED; 622 297 750  (16 Jul  18:19)
-,Last Modified Accc,2026-07-15T16:39:10+10:00  →  2026-07-16T17:58:01+10:00  (16 Jul  18:19)
-,Targets,UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527; HEADWORKS AUSTRALIA PTY LTD; 3  →  HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646; UTILITY MANAGEMENT GROUP PTY LTD; 3  (22 Jul  18:33)
-,Last Modified Accc,2026-07-16T17:58:01+10:00  →  2026-07-22T17:00:29+10:00  (22 Jul  18:33)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 Jul  18:33)
-,Consultation Docs,"[{'date': '15 Jul 2026', 'description': 'Questionnaire - Total Drain Group - Pip  →    (22 Jul  18:33)"
-,,
-~ Coles - Paydock,MN-65028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock
-,Targets,Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 2  →  Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limi  (16 Jul  18:19)
-,Last Modified Accc,2026-07-09T13:03:20+10:00  →  2026-07-16T09:43:11+10:00  (16 Jul  18:19)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jul  18:19)
-,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Questionnaire - Coles - Paydock', 'url':  →    (16 Jul  18:19)"
-,,
-~ Motorola Solutions - D-Fend Solutions,MN-05032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions
-,Last Modified Accc,2026-07-09T09:39:06+10:00  →  2026-07-16T16:38:50+10:00  (16 Jul  18:19)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (16 Jul  18:19)
-,,
-~ Discovery Holiday Parks – four Breeze Holiday Parks,MN-01103,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/discovery-holiday-parks-%E2%80%93-four-breeze-holiday-parks
-,Acquisition Status,Under assessment  →  Assessment completed  (16 Jul  18:19)
-,Accc Determination,  →  Approved  (16 Jul  18:19)
-,Determination Publication Date,  →  16 July 2026  (16 Jul  18:19)
-,Acquirers,Beston Parks Land Co Pty Ltd atf Beston Accommodation Parks Trust; 111 783 423;   →  DISCOVERY HOLIDAY PARKS PTY LIMITED; 50 111 782 846; Beston Parks Land Co Pty Lt  (16 Jul  18:19)
-,Last Modified Accc,2026-06-26T09:51:32+10:00  →  2026-07-16T16:05:08+10:00  (16 Jul  18:19)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (16 Jul  18:19)
-,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Discovery Holiday Parks - four Breeze H  (16 Jul  18:19)"
-,,
-~ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/calvary-hobart-private-hospital
-,End Of Determination Period,28 Jul 2026  →  8 Sep 2026  (16 Jul  18:19)
-,Targets,HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE OPERATIONS PTY LTD;   →  HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE NEWCO PTY LTD; 80 09  (16 Jul  18:19)
-,Other Parties,Kathy Sozou (as joint and several receivers); Jason Ireland (as joint and severa  →  Jason Ireland (as joint and several receivers); Keith Crawford (as joint and sev  (16 Jul  18:19)
-,Last Modified Accc,2026-06-25T09:55:33+10:00  →  2026-07-16T17:15:05+10:00  (16 Jul  18:19)
-,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Timeline extended by 30 business days –  (16 Jul  18:19)"
-,,
+"CHANGED ENTRIES (22 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
 ,Acquirers,"Leidos, Inc.; EFN - 901386; AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporatio  →  AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, In  (17 Jul  12:52)"
 ,Other Parties,"Leidos Holdings, Inc.; EFN - 4014717; Altaris Partners, LLC; EFN - 4261614; ANLG  →  Altaris Partners, LLC; EFN - 4261614; ANLG Intermediate Company, LLC; EFN - 6831  (17 Jul  12:52)"
@@ -187,6 +152,12 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  12:52)
 ,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determinat  (22 Jul  12:52)"
 ,,
+~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
+,Targets,UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527; HEADWORKS AUSTRALIA PTY LTD; 3  →  HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646; UTILITY MANAGEMENT GROUP PTY LTD; 3  (22 Jul  18:33)
+,Last Modified Accc,2026-07-16T17:58:01+10:00  →  2026-07-22T17:00:29+10:00  (22 Jul  18:33)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 Jul  18:33)
+,Consultation Docs,"[{'date': '15 Jul 2026', 'description': 'Questionnaire - Total Drain Group - Pip  →    (22 Jul  18:33)"
+,,
 ~ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
 ,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  18:33)
 ,Accc Determination,  →  Approved  (22 Jul  18:33)
@@ -228,4 +199,12 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Consultation Text,"On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a co  →    (22 Jul  18:33)"
 ,Consultation Docs,"[{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI'  →    (22 Jul  18:33)"
 ,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days -  (22 Jul  18:33)"
+,,
+~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
+,Acquisition Status,Under assessment  →  Assessment completed  (23 Jul  13:14)
+,Accc Determination,  →  Approved  (23 Jul  13:14)
+,Determination Publication Date,  →  23 July 2026  (23 Jul  13:14)
+,Last Modified Accc,2026-07-06T11:23:24+10:00  →  2026-07-23T09:32:43+10:00  (23 Jul  13:14)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (23 Jul  13:14)
+,Decisions Docs,"  →  [{'date': '23 Jul 2026', 'description': 'WSP-Geotechnical Testing and Interpreta  (23 Jul  13:14)"
 ,,

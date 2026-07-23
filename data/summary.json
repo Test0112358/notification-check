@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-07-23T03:34:57.767558Z",
+  "generated_at_utc": "2026-07-23T08:54:07.869468Z",
   "total_entries": 472,
   "by_acquisition_status": {
-    "Under assessment": 41,
-    "Assessment completed": 428,
+    "Under assessment": 40,
+    "Assessment completed": 429,
     "Assessment ceased": 3
   },
   "by_stage": {
@@ -16,7 +16,7 @@
     "Waiver": 285
   },
   "by_accc_determination": {
-    "Approved": 412,
+    "Approved": 413,
     "Not approved": 15,
     "Approved with conditions": 1
   },
@@ -32,12 +32,6 @@
       "title": "Transocean - Valaris",
       "end_of_determination_period": "28 Jul 2026",
       "days_remaining": 5
-    },
-    {
-      "slug": "genea-care-fertility-greenslopes",
-      "title": "Genea - Care Fertility Greenslopes",
-      "end_of_determination_period": "31 Jul 2026",
-      "days_remaining": 8
     }
   ]
 }

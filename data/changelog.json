@@ -24786,5 +24786,78 @@
         "new": "[{'date': '23 Jul 2026', 'description': 'WSP-Geotechnical Testing and Interpretation - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/WSP-Geotechnical%20Testing%20and%20Interpretation%20-%20Phase%201%20Determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-23T08:34:44.357247Z",
+    "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
+    "title": "UPM-Kymmene – Sappi joint venture",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Sappi Limited; Registration number - 1936/008963/06; UPM-Kymmene Corporation; Finnish Business ID - 1041090-0",
+        "new": "UPM-Kymmene Corporation; Finnish Business ID - 1041090-0; Sappi Limited; Registration number - 1936/008963/06"
+      },
+      {
+        "field": "other_parties",
+        "old": "SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6",
+        "new": "SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYMMENE PTY LTD; 99 001 255 661"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-16T17:58:57+10:00",
+        "new": "2026-07-23T16:22:52+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 July 2026 via email to mergers@accc.gov.au with the title Submission re: UPM-Kymmene – Sappi joint venture. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 16 Jul 2026 UPM-Kymmene – Sappi joint venture – Phase 1 questionnaire Attachment 116.31 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '16 Jul 2026', 'description': 'UPM-Kymmene – Sappi joint venture – Phase 1 questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/UPM-Sappi%20-%20Phase%201%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-23T08:34:44.357247Z",
+    "slug": "genea-care-fertility-greenslopes",
+    "title": "Genea - Care Fertility Greenslopes",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/genea-care-fertility-greenslopes",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "23 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-29T15:30:33+10:00",
+        "new": "2026-07-23T12:29:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '23 Jul 2026', 'description': 'Genea - Care Fertility Greenslopes - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Genea%20-%20Care%20Fertility%20Greenslopes%20-%20Phase%201%20determination%20-%2023%20July%202026.pdf'}]"
+      }
+    ]
   }
 ]
