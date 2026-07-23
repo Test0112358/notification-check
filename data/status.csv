@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-22 08:33:30.938721,
-Last scrape run (AEST),22 Jul 2026  18:33,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-23 03:14:09.180856,
+Last scrape run (AEST),23 Jul 2026  13:14,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,471,
-New entries this run,4,
-Changed entries this run,6,
+Total entries monitored,472,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,66 +13,22 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
-+ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
-+ KKR - FYihealth group,WA-01110,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kkr-fyihealth-group
-"+ Coles - supermarket site in Palmwoods, QLD",WA-75030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-supermarket-site-in-palmwoods-qld
+NEW ENTRIES (1),Case Number,URL
++ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
 ,,
-CHANGED ENTRIES (6),Field changed,Old value  →  New value
-~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
-,Targets,UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527; HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646  →  HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646; UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527
-,Last Modified Accc,2026-07-16T17:58:01+10:00  →  2026-07-22T17:00:29+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '15 Jul 2026', 'description': 'Questionnaire - Total Drain Group - Pipe Management Austral  →  "
-,,
-~ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  22 July 2026
-,Last Modified Accc,2026-07-08T15:54:56+10:00  →  2026-07-22T16:46:38+10:00
+,Determination Publication Date,  →  23 July 2026
+,Last Modified Accc,2026-07-06T11:23:24+10:00  →  2026-07-23T09:32:43+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and Equipment - Phase 1 "
-,,
-~ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  22 July 2026
-,Acquirers,Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-0684746; Schlumberger Tech  →  Geoquest Systems BV; KVK - 27176644; Schlumberger Canada Limited; 2025732419; Schlumberger Technolog
-,Last Modified Accc,2026-07-08T16:06:06+10:00  →  2026-07-22T13:55:15+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': ""SLB - S&P Global's geoscience software portfolio - Phase 1 "
-,,
-~ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  21 July 2026
-,Last Modified Accc,2026-07-08T07:54:35+10:00  →  2026-07-22T14:51:05+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Hapag-Lloyd - ZIM - Phase 1 determination', 'url': 'https:/"
-,,
-~ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  22 July 2026
-,Other Parties,Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Holdings 2 Trust; Stonep  →  Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia) Holdings 2 Trust; 9
-,Last Modified Accc,2026-07-09T09:21:42+10:00  →  2026-07-22T16:23:06+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': 'Stonepeak - Estia Health - Phase 1 Determination', 'url': '"
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Targets,RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  →  RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805
-,Other Parties,THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877  →  RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120
-,Last Modified Accc,2026-07-08T17:33:41+10:00  →  2026-07-22T16:46:45+10:00
-,Consultation Text,"On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a court-enforceable unde  →  "
-,Consultation Docs,"[{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI', 'url': 'https://ww  →  "
-,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': ''}, {'d  →  [{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request f"
+,Decisions Docs,"  →  [{'date': '23 Jul 2026', 'description': 'WSP-Geotechnical Testing and Interpretation - Phase 1 deter"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (22),Case Number,Detected (AEST)
-+ Laundy – Woy Woy Hotel,MN-40029,16 Jul  12:49
+NEW ENTRIES (25),Case Number,Detected (AEST)
 + UPM-Kymmene – Sappi joint venture,MN-30023,16 Jul  18:19
 + Parker-Hannifin – CIRCOR A&D,MN-70026,16 Jul  18:19
 + National Reconstruction Fund Corporation / SOUTHERNLAUNCH.SPACE PTY LTD,WA-80023,16 Jul  18:19
@@ -94,20 +50,19 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 + Centerbridge Partners – Ebury Partners Limited,WA-30024,21 Jul  18:33
 + L'Oréal - Innovist,MN-35029,22 Jul  12:52
 + Vertex – Crinetics,MN-05036,22 Jul  12:52
++ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,22 Jul  18:33
++ Sanad Services and Tikehau Capital – Revima,MN-25037,22 Jul  18:33
++ KKR - FYihealth group,WA-01110,22 Jul  18:33
+"+ Coles - supermarket site in Palmwoods, QLD",WA-75030,22 Jul  18:33
 ,,
-"CHANGED ENTRIES (21 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
-~ Sika AG - Akkim,MN-40027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sika-ag-akkim
-,Acquisition Status,Under assessment  →  Assessment completed  (16 Jul  12:49)
-,Accc Determination,  →  Approved  (16 Jul  12:49)
-,Determination Publication Date,  →  16 July 2026  (16 Jul  12:49)
-,Targets,Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akkim Europe SRL; Akkim Yapi Kimyas  →  Akde Kimya Sanayi ve Ticaret Anonim Şirketi; Akfix Kimya Lojistik Hizmetleri Lim  (16 Jul  12:49)
-,Last Modified Accc,2026-07-03T09:52:30+10:00  →  2026-07-16T11:11:32+10:00  (16 Jul  12:49)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (16 Jul  12:49)
-,Decisions Docs,"  →  [{'date': '16 Jul 2026', 'description': 'Sika AG - Akkim - Phase 1 determination  (16 Jul  12:49)"
-,,
+"CHANGED ENTRIES (25 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
 ,Other Parties,QPE NO. 6GP PTY LIMITED & QPE NO. 6LP PTY LIMITED & RYANBRIDGE PTY LTD; 82 296 6  →  QUADRANT PRIVATE EQUITY NO.6A PTY LIMITED; 622 297 750  (16 Jul  18:19)
 ,Last Modified Accc,2026-07-15T16:39:10+10:00  →  2026-07-16T17:58:01+10:00  (16 Jul  18:19)
+,Targets,UTILITY MANAGEMENT GROUP PTY LTD; 39 644 190 527; HEADWORKS AUSTRALIA PTY LTD; 3  →  HEADWORKS AUSTRALIA PTY LTD; 39 637 942 646; UTILITY MANAGEMENT GROUP PTY LTD; 3  (22 Jul  18:33)
+,Last Modified Accc,2026-07-16T17:58:01+10:00  →  2026-07-22T17:00:29+10:00  (22 Jul  18:33)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (22 Jul  18:33)
+,Consultation Docs,"[{'date': '15 Jul 2026', 'description': 'Questionnaire - Total Drain Group - Pip  →    (22 Jul  18:33)"
 ,,
 ~ Coles - Paydock,MN-65028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock
 ,Targets,Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 2  →  Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limi  (16 Jul  18:19)
@@ -231,4 +186,46 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-03T08:27:12+10:00  →  2026-07-22T09:53:19+10:00  (22 Jul  12:52)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  12:52)
 ,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'AkzoNobel - Axalta - Phase 1 determinat  (22 Jul  12:52)"
+,,
+~ Symal Group - Shamrock Engineering and Equipment,MN-50030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  18:33)
+,Accc Determination,  →  Approved  (22 Jul  18:33)
+,Determination Publication Date,  →  22 July 2026  (22 Jul  18:33)
+,Last Modified Accc,2026-07-08T15:54:56+10:00  →  2026-07-22T16:46:38+10:00  (22 Jul  18:33)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  18:33)
+,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': 'Symal Group - Shamrock Engineering and   (22 Jul  18:33)"
+,,
+~ SLB – S&P Global’s Geoscience Software Portfolio,MN-75027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/slb-%E2%80%93-sp-global%E2%80%99s-geoscience-software-portfolio
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  18:33)
+,Accc Determination,  →  Approved  (22 Jul  18:33)
+,Determination Publication Date,  →  22 July 2026  (22 Jul  18:33)
+,Acquirers,Schlumberger Canada Limited; 2025732419; SLB N.V. (SLB Limited); EIN - 52-068474  →  Geoquest Systems BV; KVK - 27176644; Schlumberger Canada Limited; 2025732419; Sc  (22 Jul  18:33)
+,Last Modified Accc,2026-07-08T16:06:06+10:00  →  2026-07-22T13:55:15+10:00  (22 Jul  18:33)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  18:33)
+,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': ""SLB - S&P Global's geoscience software   (22 Jul  18:33)"
+,,
+~ Hapag-Lloyd - ZIM,MN-65022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  18:33)
+,Accc Determination,  →  Approved  (22 Jul  18:33)
+,Determination Publication Date,  →  21 July 2026  (22 Jul  18:33)
+,Last Modified Accc,2026-07-08T07:54:35+10:00  →  2026-07-22T14:51:05+10:00  (22 Jul  18:33)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  18:33)
+,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Hapag-Lloyd - ZIM - Phase 1 determinati  (22 Jul  18:33)"
+,,
+~ Stonepeak-led consortium - Estia Health,MN-50026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-led-consortium-estia-health
+,Acquisition Status,Under assessment  →  Assessment completed  (22 Jul  18:33)
+,Accc Determination,  →  Approved  (22 Jul  18:33)
+,Determination Publication Date,  →  22 July 2026  (22 Jul  18:33)
+,Other Parties,Perpetual Corporate Trust Limited as trustee for Volarae Living (Australia) Hold  →  Wisdom MIT; Perpetual Corporate Trust Limited as trustee for SP-Plus (Australia)  (22 Jul  18:33)
+,Last Modified Accc,2026-07-09T09:21:42+10:00  →  2026-07-22T16:23:06+10:00  (22 Jul  18:33)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (22 Jul  18:33)
+,Decisions Docs,"  →  [{'date': '22 Jul 2026', 'description': 'Stonepeak - Estia Health - Phase 1 Dete  (22 Jul  18:33)"
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Targets,RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  →  RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  (22 Jul  18:33)
+,Other Parties,THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60   →  RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33   (22 Jul  18:33)
+,Last Modified Accc,2026-07-08T17:33:41+10:00  →  2026-07-22T16:46:45+10:00  (22 Jul  18:33)
+,Consultation Text,"On 1 July 2026, IAG made a remedy offer to the ACCC that they would provide a co  →    (22 Jul  18:33)"
+,Consultation Docs,"[{'date': '8 Jul 2026', 'description': 'Remedy Offer - 1 July 2026 - IAG - RACI'  →    (22 Jul  18:33)"
+,Decisions Docs,"[{'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days -  (22 Jul  18:33)"
 ,,

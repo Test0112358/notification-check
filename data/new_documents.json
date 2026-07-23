@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-07-22T08:33:30.938721Z",
+  "run_utc": "2026-07-23T03:14:09.180856Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
-      "title": "Sanad Services and Tikehau Capital – Revima",
-      "case_number": "MN-25037",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima",
-      "date": "22 Jul 2026",
-      "description": "Sanad and Tikehau-Revima - Third party questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Sanad%20and%20Tikehau-Revima%20-%20Third%20party%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Sanad and Tikehau-Revima - Third party questionnaire.docx",
-      "filename": "Sanad and Tikehau-Revima - Third party questionnaire.docx",
-      "size_kb": 116.4
+      "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
+      "title": "Ambrose Construct Group – Major Loss Builders",
+      "case_number": "MN-10021",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
+      "date": "23 Jul 2026",
+      "description": "Ambrose Construct Group - Major Loss Builders - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Ambrose%20Construct%20Group%20-%20Major%20Loss%20Builders%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Ambrose Construct Group - Major Loss Builders - Questionnaire.docx",
+      "filename": "Ambrose Construct Group - Major Loss Builders - Questionnaire.docx",
+      "size_kb": 116.3
     }
   ]
 }

@@ -24739,5 +24739,52 @@
         "new": "[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_2.pdf'}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-23T03:14:09.180856Z",
+    "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
+    "title": "Ambrose Construct Group – Major Loss Builders",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-23T03:14:09.180856Z",
+    "slug": "wsp-geotechnical-testing-and-interpretation",
+    "title": "WSP - Geotechnical Testing and Interpretation",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "23 July 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-06T11:23:24+10:00",
+        "new": "2026-07-23T09:32:43+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '23 Jul 2026', 'description': 'WSP-Geotechnical Testing and Interpretation - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/WSP-Geotechnical%20Testing%20and%20Interpretation%20-%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
   }
 ]
