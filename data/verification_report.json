@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "brookfield-%E2%80%93-world-freight-company",
-    "title": "Brookfield – World Freight Company",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brookfield-%E2%80%93-world-freight-company",
+    "slug": "redwood-services-group-%E2%80%93-newtrend-it-specialists",
+    "title": "Redwood Services Group – Newtrend I.T. Specialists",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,57 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "ey-australia-australian-ey-fusion-business",
-    "title": "EY Australia - Australian EY Fusion business",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ey-australia-australian-ey-fusion-business",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "life-without-barriers-%E2%80%93-mallacoota-district-health-support-service",
-    "title": "Life Without Barriers – Mallacoota District Health & Support Service",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/life-without-barriers-%E2%80%93-mallacoota-district-health-support-service",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "kfw-%E2%80%93-knds-nv",
-    "title": "KfW – KNDS N.V.",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "novartis-excellergy",
-    "title": "Novartis - Excellergy",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/novartis-excellergy",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "axdi-minority-interest-in-la-trobe-financial",
-    "title": "AXDI - minority interest in La Trobe Financial",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
+    "slug": "mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
+    "title": "Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
