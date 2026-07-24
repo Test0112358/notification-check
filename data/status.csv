@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-24 02:53:35.144789,
-Last scrape run (AEST),24 Jul 2026  12:53,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-24 08:31:22.355982,
+Last scrape run (AEST),24 Jul 2026  18:31,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,472,
-New entries this run,0,
+Total entries monitored,477,
+New entries this run,5,
 Changed entries this run,3,
 Removed entries this run,0,
 ,,
@@ -13,32 +13,41 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
+NEW ENTRIES (5),Case Number,URL
++ Petalite – Envu,MN-90024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/petalite-%E2%80%93-envu
+"+ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
++ Sonnel Hospitality Group – Peakhurst Inn Hotel,WA-75033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sonnel-hospitality-group-%E2%80%93-peakhurst-inn-hotel
++ Tasmea – JPS Holdings,WA-25039,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tasmea-%E2%80%93-jps-holdings
++ Tata Motors - Iveco,WA-85037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tata-motors-iveco
+,,
 CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
-,Last Modified Accc,2026-07-16T09:30:16+10:00  →  2026-07-24T10:18:54+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+~ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
+,Last Modified Accc,2026-07-17T10:32:27+10:00  →  2026-07-24T17:29:34+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '17 Jul 2026', 'description': 'Acrow - Ausgroup Industrial Services - Phase 1 Quesionnaire  →  "
 ,,
-~ Parker-Hannifin – CIRCOR A&D,MN-70026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad
-,Last Modified Accc,2026-07-16T17:05:46+10:00  →  2026-07-23T19:06:58+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '16 Jul 2026', 'description': 'Questionnaire - Parker-Hannifin – CIRCOR A&D', 'url': 'http  →  "
+~ Allianz – certain assets of nib’s Australian travel insurance business,MN-80024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  24 July 2026
+,Other Parties,Suresave Pty Ltd; 82 137 885 262; nib Travel Services (Australia) Pty Ltd; 81 115 932 173; nib Trave  →  nib Travel Insurance Distribution Pty Ltd; 40 129 262 175; AWP Australia Holdings Pty Ltd; 75 097 22
+,Last Modified Accc,2026-07-03T16:44:06+10:00  →  2026-07-24T17:07:29+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  
+,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Allianz – certain assets of nib’s Australian travel insuranc  →  "
+,Decisions Docs,"  →  [{'date': '24 Jul 2026', 'description': 'Allianz - certain assets of nib’s Australian travel insuran"
 ,,
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment
-,End Of Determination Period,23 Jul 2026  →  27 Nov 2026
-,Last Modified Accc,2026-07-17T15:58:34+10:00  →  2026-07-24T09:22:59+10:00
-,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request b  →  [{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url':"
+~ Midea - Residentia Group,MN-01106,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  24 July 2026
+,Last Modified Accc,2026-07-07T14:55:36+10:00  →  2026-07-24T17:03:54+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '24 Jul 2026', 'description': 'Midea - Residentia Group - Phase 1 determination', 'url': '"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (19),Case Number,Detected (AEST)
-+ Apollo Capital – Curia,WA-10020,17 Jul  18:14
-+ IFM Fiduciary – PM Fresh,WA-95031,17 Jul  18:14
-+ HupCo – AMES Australasia,WA-05029,17 Jul  18:14
-+ Sandvik – Diemme Filtration S.r.l.,WA-65025,17 Jul  18:14
-"+ National Dental Care – business assets comprising the BDF Dental clinic, Beaudesert, Queensland",WA-15029,17 Jul  18:14
-+ Vets Central – Willunga & Aldinga Veterinary Services,WA-45020,17 Jul  18:14
+NEW ENTRIES (13),Case Number,Detected (AEST)
 + Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,20 Jul  19:20
 + Hillhouse – LRQA Group,WA-01113,20 Jul  19:20
 + Expedia - CarTrawler,MN-90022,21 Jul  12:55
@@ -53,12 +62,7 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 "+ Coles - supermarket site in Palmwoods, QLD",WA-75030,22 Jul  18:33
 + Ambrose Construct Group – Major Loss Builders,MN-10021,23 Jul  13:14
 ,,
-"CHANGED ENTRIES (22 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,Last Modified Accc,2026-06-15T15:05:04+10:00  →  2026-07-17T15:58:34+10:00  (17 Jul  18:14)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (17 Jul  18:14)
-,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  (17 Jul  18:14)"
-,,
+"CHANGED ENTRIES (24 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
 ,Last Modified Accc,2026-07-10T15:26:25+10:00  →  2026-07-20T12:07:39+10:00  (20 Jul  13:28)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (20 Jul  13:28)
@@ -208,4 +212,19 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-29T15:30:33+10:00  →  2026-07-23T12:29:08+10:00  (23 Jul  18:34)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (23 Jul  18:34)
 ,Decisions Docs,"  →  [{'date': '23 Jul 2026', 'description': 'Genea - Care Fertility Greenslopes - Ph  (23 Jul  18:34)"
+,,
+~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
+,Last Modified Accc,2026-07-16T09:30:16+10:00  →  2026-07-24T10:18:54+10:00  (24 Jul  12:53)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (24 Jul  12:53)
+,,
+~ Parker-Hannifin – CIRCOR A&D,MN-70026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad
+,Last Modified Accc,2026-07-16T17:05:46+10:00  →  2026-07-23T19:06:58+10:00  (24 Jul  12:53)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (24 Jul  12:53)
+,Consultation Docs,"[{'date': '16 Jul 2026', 'description': 'Questionnaire - Parker-Hannifin – CIRCO  →    (24 Jul  12:53)"
+,,
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment  (24 Jul  12:53)
+,End Of Determination Period,23 Jul 2026  →  27 Nov 2026  (24 Jul  12:53)
+,Last Modified Accc,2026-07-17T15:58:34+10:00  →  2026-07-24T09:22:59+10:00  (24 Jul  12:53)
+,Decisions Docs,"[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Pha  (24 Jul  12:53)"
 ,,
