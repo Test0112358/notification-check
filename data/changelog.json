@@ -24859,5 +24859,77 @@
         "new": "[{'date': '23 Jul 2026', 'description': 'Genea - Care Fertility Greenslopes - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Genea%20-%20Care%20Fertility%20Greenslopes%20-%20Phase%201%20determination%20-%2023%20July%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-24T02:53:35.144789Z",
+    "slug": "laundy-%E2%80%93-woy-woy-hotel-0",
+    "title": "Laundy – Woy Woy Hotel",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-16T09:30:16+10:00",
+        "new": "2026-07-24T10:18:54+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 July 2026 via email to mergers@accc.gov.au with the title Submission re: Laundy – Woy Woy Hotel. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more Laundy-Woy Woy Hotel Third-party questionnaire Attachment 119.04 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-24T02:53:35.144789Z",
+    "slug": "parker-hannifin-%E2%80%93-circor-ad",
+    "title": "Parker-Hannifin – CIRCOR A&D",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-16T17:05:46+10:00",
+        "new": "2026-07-23T19:06:58+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 July 2026 via email to mergers@accc.gov.au with the title Submission re: Parker-Hannifin – CIRCOR A&D. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 16 Jul 2026 Questionnaire - Parker-Hannifin – CIRCOR A&D Attachment 107.5 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '16 Jul 2026', 'description': 'Questionnaire - Parker-Hannifin – CIRCOR A&D', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Parker-Hannifin%20%E2%80%93%20CIRCOR%20A%26D%20-%2016%20July%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-24T02:53:35.144789Z",
+    "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+    "title": "Zoetis – Neogen Genomics Business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "stage",
+        "old": "Phase 1 - initial assessment",
+        "new": "Phase 2 - detailed assessment"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "23 Jul 2026",
+        "new": "27 Nov 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-17T15:58:34+10:00",
+        "new": "2026-07-24T09:22:59+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}, {'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026.pdf'}]",
+        "new": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': ''}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
+      }
+    ]
   }
 ]

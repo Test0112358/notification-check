@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-23T08:54:07.869468Z",
+  "generated_at_utc": "2026-07-24T03:16:15.968634Z",
   "total_entries": 472,
   "by_acquisition_status": {
     "Under assessment": 40,
@@ -7,9 +7,9 @@
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 180,
+    "Phase 1 - initial assessment": 179,
     "Waiver application": 285,
-    "Phase 2 - detailed assessment": 7
+    "Phase 2 - detailed assessment": 8
   },
   "by_type": {
     "Notification": 187,
@@ -22,16 +22,16 @@
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
-      "title": "Zoetis – Neogen Genomics Business",
-      "end_of_determination_period": "23 Jul 2026",
-      "days_remaining": 0
-    },
-    {
       "slug": "transocean-valaris",
       "title": "Transocean - Valaris",
       "end_of_determination_period": "28 Jul 2026",
-      "days_remaining": 5
+      "days_remaining": 4
+    },
+    {
+      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+      "end_of_determination_period": "3 Aug 2026",
+      "days_remaining": 10
     }
   ]
 }
