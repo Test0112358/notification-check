@@ -120,9 +120,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "redwood-services-group-%E2%80%93-newtrend-it-specialists",
-    "title": "Redwood Services Group – Newtrend I.T. Specialists",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists",
+    "slug": "metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
+    "title": "Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +132,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
-    "title": "Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
+    "slug": "hapag-lloyd-zim",
+    "title": "Hapag-Lloyd - ZIM",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
