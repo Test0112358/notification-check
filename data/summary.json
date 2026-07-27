@@ -1,36 +1,36 @@
 {
-  "generated_at_utc": "2026-07-24T08:50:16.826862Z",
-  "total_entries": 477,
+  "generated_at_utc": "2026-07-27T03:50:46.412080Z",
+  "total_entries": 478,
   "by_acquisition_status": {
     "Under assessment": 40,
-    "Assessment completed": 434,
+    "Assessment completed": 435,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 181,
+    "Phase 1 - initial assessment": 182,
     "Waiver application": 288,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 189,
+    "Notification": 190,
     "Waiver": 288
   },
   "by_accc_determination": {
-    "Approved": 418,
+    "Approved": 419,
     "Not approved": 15,
     "Approved with conditions": 1
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "transocean-valaris",
-      "title": "Transocean - Valaris",
-      "end_of_determination_period": "28 Jul 2026",
-      "days_remaining": 4
-    },
-    {
       "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
       "title": "Heidelberg Materials Australia – construction materials business of MAAS",
       "end_of_determination_period": "3 Aug 2026",
+      "days_remaining": 7
+    },
+    {
+      "slug": "innio-group-%E2%80%93-enerflex-0",
+      "title": "INNIO Group – Enerflex",
+      "end_of_determination_period": "6 Aug 2026",
       "days_remaining": 10
     }
   ]

@@ -25083,5 +25083,47 @@
         "new": "[{'date': '24 Jul 2026', 'description': 'Midea - Residentia Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Midea%20-%20Residentia%20Group%20-%20Phase%201%20determination%20-%2024%20July%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-27T03:28:02.327287Z",
+    "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "title": "Estia Health – AnglicareSA residential aged care business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-27T03:28:02.327287Z",
+    "slug": "transocean-valaris",
+    "title": "Transocean - Valaris",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-06-23T16:00:02+10:00",
+        "new": "2026-07-27T09:59:26+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '27 Jul 2026', 'description': 'Transocean - Valaris - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Transocean%20-%20Valaris%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]

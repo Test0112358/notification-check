@@ -1,62 +1,20 @@
 {
-  "run_utc": "2026-07-24T08:31:22.355982Z",
-  "new_count": 5,
-  "changed_count": 3,
+  "run_utc": "2026-07-27T03:28:02.327287Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "petalite-%E2%80%93-envu",
-      "title": "Petalite – Envu",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/petalite-%E2%80%93-envu"
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
-      "title": "Coles – supermarket site in Upper Swan, WA",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa"
-    },
-    {
-      "slug": "sonnel-hospitality-group-%E2%80%93-peakhurst-inn-hotel",
-      "title": "Sonnel Hospitality Group – Peakhurst Inn Hotel",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sonnel-hospitality-group-%E2%80%93-peakhurst-inn-hotel"
-    },
-    {
-      "slug": "tasmea-%E2%80%93-jps-holdings",
-      "title": "Tasmea – JPS Holdings",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tasmea-%E2%80%93-jps-holdings"
-    },
-    {
-      "slug": "tata-motors-iveco",
-      "title": "Tata Motors - Iveco",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/tata-motors-iveco"
+      "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+      "title": "Estia Health – AnglicareSA residential aged care business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business"
     }
   ],
   "changed_entries": [
     {
-      "slug": "acrow-ausgroup-industrial-services",
-      "title": "Acrow - Ausgroup Industrial Services",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-17T10:32:27+10:00",
-          "new": "2026-07-24T17:29:34+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 24 July 2026 via email to mergers@accc.gov.au with the title Submission re: Acrow - Ausgroup Industrial Services. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 17 Jul 2026 Acrow - Ausgroup Industrial Services - Phase 1 Quesionnaire Attachment 116.55 KB",
-          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '17 Jul 2026', 'description': 'Acrow - Ausgroup Industrial Services - Phase 1 Quesionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Acrow%20-%20Ausgroup%20Industrial%20Services%20-%20Phase%201%20Questionnaire.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business",
-      "title": "Allianz – certain assets of nib’s Australian travel insurance business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business",
+      "slug": "transocean-valaris",
+      "title": "Transocean - Valaris",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris",
       "changes": [
         {
           "field": "acquisition_status",
@@ -69,61 +27,9 @@
           "new": "Approved"
         },
         {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "24 July 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "Suresave Pty Ltd; 82 137 885 262; nib Travel Services (Australia) Pty Ltd; 81 115 932 173; nib Travel Insurance Distribution Pty Ltd; 40 129 262 175; nib International Assistance Pty Ltd; 72 164 763 884; AWP Australia Holdings Pty Ltd; 75 097 227 211; nib Holdings Ltd; 51 125 633 856; Travel Insurance Direct Pty Ltd; 30 121 659 470",
-          "new": "nib Travel Insurance Distribution Pty Ltd; 40 129 262 175; AWP Australia Holdings Pty Ltd; 75 097 227 211; Suresave Pty Ltd; 82 137 885 262; nib Holdings Ltd; 51 125 633 856; nib Travel Services (Australia) Pty Ltd; 81 115 932 173; Travel Insurance Direct Pty Ltd; 30 121 659 470; nib International Assistance Pty Ltd; 72 164 763 884"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-03T16:44:06+10:00",
-          "new": "2026-07-24T17:07:29+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 July 2026 via email to mergers@accc.gov.au with the title Submission re: Allianz – certain assets of nib’s Australian travel insurance business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Jul 2026 Allianz – certain assets of nib’s Australian travel insurance business - Questionnaire Attachment 116.05 KB",
-          "new": ""
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '3 Jul 2026', 'description': 'Allianz – certain assets of nib’s Australian travel insurance business - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Allianz%20%E2%80%93%20certain%20assets%20of%20nib%E2%80%99s%20Australian%20travel%20insurance%20business%20-%20Questionnaire.docx'}]",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '24 Jul 2026', 'description': 'Allianz - certain assets of nib’s Australian travel insurance business - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Allianz%20-%20certain%20assets%20of%20nib%E2%80%99s%20Australian%20travel%20insurance%20business%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "midea-residentia-group",
-      "title": "Midea - Residentia Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "24 July 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-07T14:55:36+10:00",
-          "new": "2026-07-24T17:03:54+10:00"
+          "old": "2026-06-23T16:00:02+10:00",
+          "new": "2026-07-27T09:59:26+10:00"
         },
         {
           "field": "consultation_text",
@@ -133,7 +39,7 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '24 Jul 2026', 'description': 'Midea - Residentia Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Midea%20-%20Residentia%20Group%20-%20Phase%201%20determination%20-%2024%20July%202026.pdf'}]"
+          "new": "[{'date': '27 Jul 2026', 'description': 'Transocean - Valaris - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Transocean%20-%20Valaris%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }
