@@ -132,9 +132,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "airtree-%E2%80%93-hotdoc-0",
-    "title": "Airtree – HotDoc",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
+    "slug": "fc-group-holdings-corporation-ors-fluent-retail",
+    "title": "FC Group Holdings Corporation & ors - Fluent Retail",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fc-group-holdings-corporation-ors-fluent-retail",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -144,9 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
-    "title": "Regional Australia Bank – South West Slopes Credit Union",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
+    "slug": "mizuho-%E2%80%93-avendus",
+    "title": "Mizuho – Avendus",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mizuho-%E2%80%93-avendus",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
