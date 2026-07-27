@@ -1,5 +1,17 @@
 [
   {
+    "slug": "transocean-valaris",
+    "title": "Transocean - Valaris",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "service-stream-%E2%80%93-rie",
     "title": "Service Stream – RiE",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/service-stream-%E2%80%93-rie",
@@ -120,9 +132,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
-    "title": "Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
+    "slug": "airtree-%E2%80%93-hotdoc-0",
+    "title": "Airtree – HotDoc",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -132,9 +144,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "hapag-lloyd-zim",
-    "title": "Hapag-Lloyd - ZIM",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hapag-lloyd-zim",
+    "slug": "regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
+    "title": "Regional Australia Bank – South West Slopes Credit Union",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
