@@ -1,5 +1,17 @@
 [
   {
+    "slug": "innio-group-%E2%80%93-enerflex-0",
+    "title": "INNIO Group – Enerflex",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "transocean-valaris",
     "title": "Transocean - Valaris",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris",
@@ -132,21 +144,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "fc-group-holdings-corporation-ors-fluent-retail",
-    "title": "FC Group Holdings Corporation & ors - Fluent Retail",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fc-group-holdings-corporation-ors-fluent-retail",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "mizuho-%E2%80%93-avendus",
-    "title": "Mizuho – Avendus",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mizuho-%E2%80%93-avendus",
+    "slug": "delinea-tpg-strongdm",
+    "title": "Delinea (TPG) - StrongDM",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/delinea-tpg-strongdm",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
