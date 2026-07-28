@@ -25318,5 +25318,124 @@
         "new": "[{'date': '27 Jul 2026', 'description': 'Kinetic - Dysons - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Kinetic%20-%20Dysons%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "protech-activaterail",
+    "title": "Protech - ActivateRail",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/protech-activaterail",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "publicis-groupe-liveramp",
+    "title": "Publicis Groupe - LiveRamp",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-groupe-liveramp",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "abbvie-apogee",
+    "title": "AbbVie - Apogee",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "expedia-cartrawler",
+    "title": "Expedia - CarTrawler",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-21T10:26:30+10:00",
+        "new": "2026-07-28T17:05:03+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 28 July 2026 via email to mergers@accc.gov.au with the title Submission re: Expedia – CarTrawler. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 Jul 2026 Questionnaire - Expedia-CarTrawler Attachment 117.43 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '21 Jul 2026', 'description': 'Questionnaire - Expedia-CarTrawler', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Expedia%20-%20CarTrawler%20-%20third-party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "black-kite-partners-led-consortium-dr2",
+    "title": "Black Kite Partners led consortium - DR2",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-kite-partners-led-consortium-dr2",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "innio-group-%E2%80%93-enerflex-0",
+    "title": "INNIO Group – Enerflex",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "targets",
+        "old": "ENERFLEX SERVICE PTY LIMITED; 85 063 267 238; ENERFLEX SERVICE PTY LIMITED; 85 063 267 238",
+        "new": "ENERFLEX SERVICE PTY LIMITED; 85 063 267 238"
+      },
+      {
+        "field": "other_parties",
+        "old": "Enerflex Ltd; 774811-6; Enerflex Ltd; 774811-6",
+        "new": "Enerflex Ltd; 774811-6"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-08T09:51:40+10:00",
+        "new": "2026-07-27T14:32:51+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '27 Jul 2026', 'description': 'INNIO Group – Enerflex - Phase 1 Determination - 27 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Enerflex%20-%20Phase%201%20Determination%20-%2027%20July%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-28T08:38:59.344553Z",
+    "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+    "title": "Zoetis – Neogen Genomics Business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-24T09:22:59+10:00",
+        "new": "2026-07-28T12:48:30+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': ''}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]",
+        "new": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
+      }
+    ]
   }
 ]

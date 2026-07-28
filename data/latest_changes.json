@@ -1,62 +1,57 @@
 {
-  "run_utc": "2026-07-27T09:57:08.679961Z",
+  "run_utc": "2026-07-28T08:38:59.344553Z",
   "new_count": 4,
-  "changed_count": 4,
+  "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "obayashi-corporation-%E2%80%93-multiplex",
-      "title": "Obayashi Corporation – Multiplex",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex"
+      "slug": "protech-activaterail",
+      "title": "Protech - ActivateRail",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/protech-activaterail"
     },
     {
-      "slug": "state-swim-%E2%80%93-swim-plus",
-      "title": "State Swim – Swim Plus",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/state-swim-%E2%80%93-swim-plus"
+      "slug": "publicis-groupe-liveramp",
+      "title": "Publicis Groupe - LiveRamp",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-groupe-liveramp"
     },
     {
-      "slug": "cvc-capital-partners-%E2%80%93-chesscom",
-      "title": "CVC Capital Partners – Chess.com",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom"
+      "slug": "abbvie-apogee",
+      "title": "AbbVie - Apogee",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee"
     },
     {
-      "slug": "state-swim-%E2%80%93-in2swim",
-      "title": "State Swim – In2Swim",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/state-swim-%E2%80%93-in2swim"
+      "slug": "black-kite-partners-led-consortium-dr2",
+      "title": "Black Kite Partners led consortium - DR2",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-kite-partners-led-consortium-dr2"
     }
   ],
   "changed_entries": [
     {
-      "slug": "syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
-      "title": "Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
+      "slug": "expedia-cartrawler",
+      "title": "Expedia - CarTrawler",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler",
       "changes": [
         {
-          "field": "other_parties",
-          "old": "Sinochem Holdings Corporation Ltd; USCC - 91133100MA0GBL5F38; Stichting Administratiekantoor Casper Holdco; KVK - 93565348",
-          "new": "Stichting Administratiekantoor Casper Holdco; KVK - 93565348; Sinochem Holdings Corporation Ltd; USCC - 91133100MA0GBL5F38"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-20T14:07:26+10:00",
-          "new": "2026-07-27T16:09:19+10:00"
+          "old": "2026-07-21T10:26:30+10:00",
+          "new": "2026-07-28T17:05:03+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 27 July 2026 via email to mergers@accc.gov.au with the title Syngenta Crop Protection – Dümmen Orange. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 20 Jul 2026 Questionnaire - Sygnenta Crop Protection and Dümmen Orange JV Attachment 60.08 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 28 July 2026 via email to mergers@accc.gov.au with the title Submission re: Expedia – CarTrawler. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 21 Jul 2026 Questionnaire - Expedia-CarTrawler Attachment 117.43 KB",
+          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '20 Jul 2026', 'description': 'Questionnaire - Sygnenta Crop Protection and Dümmen Orange JV', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-01109%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '21 Jul 2026', 'description': 'Questionnaire - Expedia-CarTrawler', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Expedia%20-%20CarTrawler%20-%20third-party%20questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "hewitt-%E2%80%93-nolan-meats",
-      "title": "Hewitt – Nolan Meats",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats",
+      "slug": "innio-group-%E2%80%93-enerflex-0",
+      "title": "INNIO Group – Enerflex",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0",
       "changes": [
         {
           "field": "acquisition_status",
@@ -67,21 +62,21 @@
           "field": "accc_determination",
           "old": "",
           "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 July 2026"
         },
         {
           "field": "targets",
-          "old": "Tolobex Pty Ltd as trustee for Tolobex Unit Trust; 081 765 228; NOLAN MEATS PTY. LTD.; 81 096 869 304",
-          "new": "NOLAN MEATS PTY. LTD.; 81 096 869 304; Tolobex Pty Ltd as trustee for Tolobex Unit Trust; 081 765 228"
+          "old": "ENERFLEX SERVICE PTY LIMITED; 85 063 267 238; ENERFLEX SERVICE PTY LIMITED; 85 063 267 238",
+          "new": "ENERFLEX SERVICE PTY LIMITED; 85 063 267 238"
+        },
+        {
+          "field": "other_parties",
+          "old": "Enerflex Ltd; 774811-6; Enerflex Ltd; 774811-6",
+          "new": "Enerflex Ltd; 774811-6"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-08T16:04:13+10:00",
-          "new": "2026-07-27T13:36:25+10:00"
+          "old": "2026-07-08T09:51:40+10:00",
+          "new": "2026-07-27T14:32:51+10:00"
         },
         {
           "field": "consultation_text",
@@ -91,91 +86,24 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '27 Jul 2026', 'description': 'Hewitt - Nolan Meats - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Hewitt%20-%20Nolan%20Meats%20-%20%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '27 Jul 2026', 'description': 'INNIO Group – Enerflex - Phase 1 Determination - 27 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Enerflex%20-%20Phase%201%20Determination%20-%2027%20July%202026.pdf'}]"
         }
       ]
     },
     {
-      "slug": "spacex-anysphere",
-      "title": "SpaceX - Anysphere",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere",
+      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+      "title": "Zoetis – Neogen Genomics Business",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 July 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "X Global LLC; Delaware File Number - 6028653; X ASIA PACIFIC INTERNET PTE. LTD.; 97 712 692 946; STARLINK AUSTRALIA PTY LTD; 68 636 841 533; X.AI Corp.; Nevada Entity Number - E28915122023-8; X Internet Unlimited Company; Ireland Registered Number - 503351; STARLINK INTERNET SERVICES PTE. LTD.; 44 658 489 582",
-          "new": "STARLINK AUSTRALIA PTY LTD; 68 636 841 533; STARLINK INTERNET SERVICES PTE. LTD.; 44 658 489 582; X Global LLC; Delaware File Number - 6028653; X.AI Corp.; Nevada Entity Number - E28915122023-8; X Internet Unlimited Company; Ireland Registered Number - 503351; X ASIA PACIFIC INTERNET PTE. LTD.; 97 712 692 946"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-08T16:05:52+10:00",
-          "new": "2026-07-27T16:14:02+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "2026-07-24T09:22:59+10:00",
+          "new": "2026-07-28T12:48:30+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '27 Jul 2026', 'description': 'SpaceX-Anysphere - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/SpaceX-Anysphere%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "kinetic-dysons-bus-services",
-      "title": "KINETIC - DYSONS BUS SERVICES",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 July 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; DYSONS MZF (ASSETCO) PTY LTD; 18 680 323 291; SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; DYSONS MZF PTY LTD; 16 680 323 282; KOCM 3 PTY LTD; 60 679 737 510; KINETIC ASSETCO (MELBOURNE) PTY LTD; 72 644 633 303",
-          "new": "KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; DYSONS MZF PTY LTD; 16 680 323 282; SURFSIDE BUSLINES PTY. LTD.; 25 010 957 552; KOCM 3 PTY LTD; 60 679 737 510; DYSONS MZF (ASSETCO) PTY LTD; 18 680 323 291; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KINETIC ASSETCO (MELBOURNE) PTY LTD; 72 644 633 303"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-08T15:51:12+10:00",
-          "new": "2026-07-27T17:01:58+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '27 Jul 2026', 'description': 'Kinetic - Dysons - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Kinetic%20-%20Dysons%20-%20Phase%201%20determination.pdf'}]"
+          "old": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': ''}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]",
+          "new": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-27 09:57:08.679961,
-Last scrape run (AEST),27 Jul 2026  19:57,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-28 08:38:59.344553,
+Last scrape run (AEST),28 Jul 2026  18:38,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,482,
+Total entries monitored,486,
 New entries this run,4,
-Changed entries this run,4,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,53 +14,34 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (4),Case Number,URL
-+ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
-+ State Swim – Swim Plus,WA-95032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/state-swim-%E2%80%93-swim-plus
-+ CVC Capital Partners – Chess.com,WA-05033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom
-+ State Swim – In2Swim,WA-01112,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/state-swim-%E2%80%93-in2swim
++ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/protech-activaterail
++ Publicis Groupe - LiveRamp,MN-60026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-groupe-liveramp
++ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee
++ Black Kite Partners led consortium - DR2,WA-80025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-kite-partners-led-consortium-dr2
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation
-,Other Parties,Sinochem Holdings Corporation Ltd; USCC - 91133100MA0GBL5F38; Stichting Administratiekantoor Casper   →  Stichting Administratiekantoor Casper Holdco; KVK - 93565348; Sinochem Holdings Corporation Ltd; USC
-,Last Modified Accc,2026-07-20T14:07:26+10:00  →  2026-07-27T16:09:19+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '20 Jul 2026', 'description': 'Questionnaire - Sygnenta Crop Protection and Dümmen Orange   →  "
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Expedia - CarTrawler,MN-90022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler
+,Last Modified Accc,2026-07-21T10:26:30+10:00  →  2026-07-28T17:05:03+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '21 Jul 2026', 'description': 'Questionnaire - Expedia-CarTrawler', 'url': 'https://www.ac  →  "
 ,,
-~ Hewitt – Nolan Meats,MN-35018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats
+~ INNIO Group – Enerflex,MN-80021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  27 July 2026
-,Targets,Tolobex Pty Ltd as trustee for Tolobex Unit Trust; 081 765 228; NOLAN MEATS PTY. LTD.; 81 096 869 30  →  NOLAN MEATS PTY. LTD.; 81 096 869 304; Tolobex Pty Ltd as trustee for Tolobex Unit Trust; 081 765 22
-,Last Modified Accc,2026-07-08T16:04:13+10:00  →  2026-07-27T13:36:25+10:00
+,Targets,ENERFLEX SERVICE PTY LIMITED; 85 063 267 238; ENERFLEX SERVICE PTY LIMITED; 85 063 267 238  →  ENERFLEX SERVICE PTY LIMITED; 85 063 267 238
+,Other Parties,Enerflex Ltd; 774811-6; Enerflex Ltd; 774811-6  →  Enerflex Ltd; 774811-6
+,Last Modified Accc,2026-07-08T09:51:40+10:00  →  2026-07-27T14:32:51+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'Hewitt - Nolan Meats - Phase 1 determination', 'url': 'http"
+,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'INNIO Group – Enerflex - Phase 1 Determination - 27 July 20"
 ,,
-~ SpaceX - Anysphere,MN-85036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  27 July 2026
-,Other Parties,X Global LLC; Delaware File Number - 6028653; X ASIA PACIFIC INTERNET PTE. LTD.; 97 712 692 946; STA  →  STARLINK AUSTRALIA PTY LTD; 68 636 841 533; STARLINK INTERNET SERVICES PTE. LTD.; 44 658 489 582; X 
-,Last Modified Accc,2026-07-08T16:05:52+10:00  →  2026-07-27T16:14:02+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'SpaceX-Anysphere - Phase 1 determination', 'url': 'https://"
-,,
-~ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  27 July 2026
-,Other Parties,KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 118; KINETIC (MELBOUR  →  KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; DYSONS MZF PTY LTD; 16 680 323 282; SURFSIDE BUSLINES P
-,Last Modified Accc,2026-07-08T15:51:12+10:00  →  2026-07-27T17:01:58+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'Kinetic - Dysons - Phase 1 determination', 'url': 'https://"
+~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
+,Last Modified Accc,2026-07-24T09:22:59+10:00  →  2026-07-28T12:48:30+10:00
+,Decisions Docs,"[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url':  →  [{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url':"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Expedia - CarTrawler,MN-90022,21 Jul  12:55
-+ L Catterton Europe – HYROX,WA-25036,21 Jul  18:33
-+ New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral,WA-50031,21 Jul  18:33
-+ Centerbridge Partners – Ebury Partners Limited,WA-30024,21 Jul  18:33
 + L'Oréal - Innovist,MN-35029,22 Jul  12:52
 + Vertex – Crinetics,MN-05036,22 Jul  12:52
 + McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,22 Jul  18:33
@@ -74,43 +55,12 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Tasmea – JPS Holdings,WA-25039,24 Jul  18:31
 + Tata Motors - Iveco,WA-85037,24 Jul  18:31
 + Estia Health – AnglicareSA residential aged care business,MN-55029,27 Jul  13:28
++ Obayashi Corporation – Multiplex,MN-05031,27 Jul  19:57
++ State Swim – Swim Plus,WA-95032,27 Jul  19:57
++ CVC Capital Partners – Chess.com,WA-05033,27 Jul  19:57
++ State Swim – In2Swim,WA-01112,27 Jul  19:57
 ,,
-"CHANGED ENTRIES (25 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
-,Last Modified Accc,2026-07-13T17:30:50+10:00  →  2026-07-20T10:39:30+10:00  (21 Jul  12:55)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (21 Jul  12:55)
-,Consultation Docs,"[{'date': '13 Jul 2026', 'description': 'Questionnaire - Amplifon - GN Hearing',  →    (21 Jul  12:55)"
-,,
-~ Salesforce - Contentful,MN-95025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful
-,Last Modified Accc,2026-07-14T11:20:05+10:00  →  2026-07-20T11:29:32+10:00  (21 Jul  12:55)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (21 Jul  12:55)
-,Consultation Docs,"[{'date': '14 Jul 2026', 'description': 'Questionnaire - Salesforce Contentful',  →    (21 Jul  12:55)"
-,,
-~ CVS Group – Paws at Prospect Vet and Eyes at Prospect Vet,MN-70020,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvs-group-%E2%80%93-paws-at-prospect-vet-and-eyes-at-prospect-vet
-,Acquisition Status,Under assessment  →  Assessment completed  (21 Jul  12:55)
-,Accc Determination,  →  Approved  (21 Jul  12:55)
-,Determination Publication Date,  →  21 July 2026  (21 Jul  12:55)
-,Last Modified Accc,2026-06-29T15:41:02+10:00  →  2026-07-21T12:17:29+10:00  (21 Jul  12:55)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (21 Jul  12:55)
-,Decisions Docs,"[{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   →  [{'date': '29 Jun 2026', 'description': 'Timeline extended by 4 business days –   (21 Jul  12:55)"
-,,
-~ Amazon – Globalstar,MN-50025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amazon-%E2%80%93-globalstar
-,Acquisition Status,Under assessment  →  Assessment completed  (21 Jul  18:33)
-,Accc Determination,  →  Approved  (21 Jul  18:33)
-,Determination Publication Date,  →  21 July 2026  (21 Jul  18:33)
-,Acquirers,"Grapefruit Acquisition Sub II, LLC; 10440021; Amazon.com, Inc.; 2620453  →  Amazon.com, Inc.; 2620453; Grapefruit Acquisition Sub II, LLC; 10440021  (21 Jul  18:33)"
-,Last Modified Accc,2026-07-07T14:01:06+10:00  →  2026-07-21T13:35:41+10:00  (21 Jul  18:33)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (21 Jul  18:33)
-,Decisions Docs,"  →  [{'date': '21 Jul 2026', 'description': 'Amazon - Globalstar - Phase 1 determina  (21 Jul  18:33)"
-,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  (21 Jul  18:33)
-,Targets,SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMI  →  The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS  (21 Jul  18:33)
-,Last Modified Accc,2026-07-10T16:36:15+10:00  →  2026-07-21T16:04:53+10:00  (21 Jul  18:33)
-,Consultation Text,"On 9 July 2026, BRG made a remedy offer to the ACCC of a court-enforceable under  →    (21 Jul  18:33)"
-,Consultation Docs,"[{'date': '9 Jul 2026', 'description': 'Black Rhino - Club Hotel - Remedy Offer   →    (21 Jul  18:33)"
-,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  (21 Jul  18:33)"
-,,
+"CHANGED ENTRIES (24 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/peter-warren-wakeling-automotive-0
 ,Targets,WAKELING HOLDINGS PTY LTD; 41 160 814 040; S A Wakeling Nominees Pty Ltd as trus  →  HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 5  (22 Jul  12:52)
 ,Last Modified Accc,2026-07-15T11:30:36+10:00  →  2026-07-22T10:40:25+10:00  (22 Jul  12:52)
@@ -256,4 +206,37 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-06-23T16:00:02+10:00  →  2026-07-27T09:59:26+10:00  (27 Jul  13:28)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (27 Jul  13:28)
 ,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'Transocean - Valaris - Phase 1 determin  (27 Jul  13:28)"
+,,
+~ Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation
+,Other Parties,Sinochem Holdings Corporation Ltd; USCC - 91133100MA0GBL5F38; Stichting Administ  →  Stichting Administratiekantoor Casper Holdco; KVK - 93565348; Sinochem Holdings   (27 Jul  19:57)
+,Last Modified Accc,2026-07-20T14:07:26+10:00  →  2026-07-27T16:09:19+10:00  (27 Jul  19:57)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (27 Jul  19:57)
+,Consultation Docs,"[{'date': '20 Jul 2026', 'description': 'Questionnaire - Sygnenta Crop Protectio  →    (27 Jul  19:57)"
+,,
+~ Hewitt – Nolan Meats,MN-35018,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hewitt-%E2%80%93-nolan-meats
+,Acquisition Status,Under assessment  →  Assessment completed  (27 Jul  19:57)
+,Accc Determination,  →  Approved  (27 Jul  19:57)
+,Determination Publication Date,  →  27 July 2026  (27 Jul  19:57)
+,Targets,Tolobex Pty Ltd as trustee for Tolobex Unit Trust; 081 765 228; NOLAN MEATS PTY.  →  NOLAN MEATS PTY. LTD.; 81 096 869 304; Tolobex Pty Ltd as trustee for Tolobex Un  (27 Jul  19:57)
+,Last Modified Accc,2026-07-08T16:04:13+10:00  →  2026-07-27T13:36:25+10:00  (27 Jul  19:57)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (27 Jul  19:57)
+,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'Hewitt - Nolan Meats - Phase 1 determin  (27 Jul  19:57)"
+,,
+~ SpaceX - Anysphere,MN-85036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/spacex-anysphere
+,Acquisition Status,Under assessment  →  Assessment completed  (27 Jul  19:57)
+,Accc Determination,  →  Approved  (27 Jul  19:57)
+,Determination Publication Date,  →  27 July 2026  (27 Jul  19:57)
+,Other Parties,X Global LLC; Delaware File Number - 6028653; X ASIA PACIFIC INTERNET PTE. LTD.;  →  STARLINK AUSTRALIA PTY LTD; 68 636 841 533; STARLINK INTERNET SERVICES PTE. LTD.  (27 Jul  19:57)
+,Last Modified Accc,2026-07-08T16:05:52+10:00  →  2026-07-27T16:14:02+10:00  (27 Jul  19:57)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (27 Jul  19:57)
+,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'SpaceX-Anysphere - Phase 1 determinatio  (27 Jul  19:57)"
+,,
+~ KINETIC - DYSONS BUS SERVICES,MN-35017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kinetic-dysons-bus-services
+,Acquisition Status,Under assessment  →  Assessment completed  (27 Jul  19:57)
+,Accc Determination,  →  Approved  (27 Jul  19:57)
+,Determination Publication Date,  →  27 July 2026  (27 Jul  19:57)
+,Other Parties,KINETIC (MELBOURNE URBAN) PTY LTD; 88 632 522 233; KACM 3A PTY LTD; 24 674 151 1  →  KINETIC (MELBOURNE) PTY LTD; 89 644 690 522; DYSONS MZF PTY LTD; 16 680 323 282;  (27 Jul  19:57)
+,Last Modified Accc,2026-07-08T15:51:12+10:00  →  2026-07-27T17:01:58+10:00  (27 Jul  19:57)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (27 Jul  19:57)
+,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'Kinetic - Dysons - Phase 1 determinatio  (27 Jul  19:57)"
 ,,
