@@ -1,15 +1,80 @@
 {
-  "run_utc": "2026-07-29T02:52:14.776546Z",
-  "new_count": 1,
-  "changed_count": 0,
+  "run_utc": "2026-07-29T08:45:16.324117Z",
+  "new_count": 3,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "kimberly-clark-corporation-kenvue-inc",
-      "title": "Kimberly-Clark Corporation - Kenvue Inc.",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc"
+      "slug": "salesforce-intercom",
+      "title": "Salesforce - Intercom",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom"
+    },
+    {
+      "slug": "kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets",
+      "title": "Kalari – De Gunst’s Gracemere Assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets"
+    },
+    {
+      "slug": "abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
+      "title": "Abu Dhabi Investment Authority – Barings Darling Square Holding Trust",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust"
     }
   ],
-  "changed_entries": [],
+  "changed_entries": [
+    {
+      "slug": "lor%C3%A9al-innovist",
+      "title": "L'Oréal - Innovist",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-22T11:14:11+10:00",
+          "new": "2026-07-29T17:06:36+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title L'Oréal – Innovist. read more 22 Jul 2026 L'Oréal - Innovist - Questionnaire Attachment 116.09 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+        },
+        {
+          "field": "consultation_docs",
+          "old": "[{'date': '22 Jul 2026', 'description': \"L'Oréal - Innovist - Questionnaire\", 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/L%27oreal%20-%20Innovist%20-%20Questionnaire.docx'}]",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "slug": "motorola-solutions-d-fend-solutions",
+      "title": "Motorola Solutions - D-Fend Solutions",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-16T16:38:50+10:00",
+          "new": "2026-07-29T14:44:27+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '29 Jul 2026', 'description': 'Motorola Solutions - D-Fend Solutions - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Motorola%20Solutions%20-%20D-Fend%20Solutions%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    }
+  ],
   "removed_entries": []
 }
