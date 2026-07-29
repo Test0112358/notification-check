@@ -144,9 +144,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "delinea-tpg-strongdm",
-    "title": "Delinea (TPG) - StrongDM",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/delinea-tpg-strongdm",
+    "slug": "oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw",
+    "title": "Oscars Group – South Terrace Hotel in Bankstown, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "intrepid-travel-%E2%80%93-wild-bush-luxury",
+    "title": "Intrepid Travel – Wild Bush Luxury",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/intrepid-travel-%E2%80%93-wild-bush-luxury",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
