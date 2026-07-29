@@ -25437,5 +25437,13 @@
         "new": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-07-29T02:52:14.776546Z",
+    "slug": "kimberly-clark-corporation-kenvue-inc",
+    "title": "Kimberly-Clark Corporation - Kenvue Inc.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
