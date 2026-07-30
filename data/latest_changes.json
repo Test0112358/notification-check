@@ -1,62 +1,141 @@
 {
-  "run_utc": "2026-07-30T02:37:10.436010Z",
-  "new_count": 1,
-  "changed_count": 2,
+  "run_utc": "2026-07-30T08:31:49.381873Z",
+  "new_count": 7,
+  "changed_count": 4,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "mm-security-%E2%80%93-micron-security-products",
-      "title": "MM Security – Micron Security Products",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products"
+      "slug": "accenture-dragos",
+      "title": "Accenture - Dragos",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos"
+    },
+    {
+      "slug": "accenture-runzero",
+      "title": "Accenture - runZero",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero"
+    },
+    {
+      "slug": "eqt-fund-management-s%C3%A0-rl-%E2%80%93-orikan-group",
+      "title": "EQT Fund Management S.à r.l. – Orikan Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-s%C3%A0-rl-%E2%80%93-orikan-group"
+    },
+    {
+      "slug": "pt-ap-investment-%E2%80%93-vitrinite",
+      "title": "PT AP Investment – Vitrinite",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-ap-investment-%E2%80%93-vitrinite"
+    },
+    {
+      "slug": "australiansuper-%E2%80%93-advanced-navigation",
+      "title": "AustralianSuper – Advanced Navigation",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australiansuper-%E2%80%93-advanced-navigation"
+    },
+    {
+      "slug": "hb-land-and-satterley-%E2%80%93-elimbah-land-joint-venture",
+      "title": "HB Land and Satterley – Elimbah Land Joint Venture",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hb-land-and-satterley-%E2%80%93-elimbah-land-joint-venture"
+    },
+    {
+      "slug": "anglogold-ashanti-australia-%E2%80%93-matsa-lake-carey-tenements",
+      "title": "AngloGold Ashanti Australia – Matsa Lake Carey tenements",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anglogold-ashanti-australia-%E2%80%93-matsa-lake-carey-tenements"
     }
   ],
   "changed_entries": [
     {
-      "slug": "vertex-%E2%80%93-crinetics",
-      "title": "Vertex – Crinetics",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics",
+      "slug": "mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+      "title": "McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
       "changes": [
         {
+          "field": "acquirers",
+          "old": "MAG SOUTH COAST PTY LTD; 70 683 627 590; MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306",
+          "new": "MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306; MAG SOUTH COAST PTY LTD; 70 683 627 590"
+        },
+        {
+          "field": "targets",
+          "old": "COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; KINGHORN MOTORS PTY LTD; 33 000 220 557; KJO PROPERTY PTY LTD; 33 169 760 178; Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust",
+          "new": "Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust; COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; KJO PROPERTY PTY LTD; 33 169 760 178; KINGHORN MOTORS PTY LTD; 33 000 220 557"
+        },
+        {
+          "field": "other_parties",
+          "old": "MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD; 60 003 411 210; MAG BODY CORP PTY LTD; 93 676 724 495",
+          "new": "MAG BODY CORP PTY LTD; 93 676 724 495; MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD; 60 003 411 210"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-07-22T11:26:33+10:00",
-          "new": "2026-07-29T21:21:06+10:00"
+          "old": "2026-07-22T16:59:59+10:00",
+          "new": "2026-07-30T11:56:12+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: Vertex - Crinetics. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jul 2026 Vertex - Crinetics - Questionnaire Attachment 116.09 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: McCarroll's - Kinghorn Motors and Country Motors. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more McCarroll's - Kinghorn Motors and Country Motors - Questionnaire Attachment 117.59 KB",
+          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
+      "title": "Ambrose Construct Group – Major Loss Builders",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-23T11:29:49+10:00",
+          "new": "2026-07-30T15:04:59+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 30 July 2026 via email to mergers@accc.gov.au with the title Submission re: Ambrose Construct Group – Major Loss Builders. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 23 Jul 2026 Ambrose Construct Group - Major Loss Builders - Questionnaire Attachment 116.31 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vertex%20-%20Crinetics%20-%20Questionnaire%20-%2022%20July%202026.docx'}]",
+          "old": "[{'date': '23 Jul 2026', 'description': 'Ambrose Construct Group - Major Loss Builders - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Ambrose%20Construct%20Group%20-%20Major%20Loss%20Builders%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
-      "title": "Sanad Services and Tikehau Capital – Revima",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima",
+      "slug": "journey-beyond-sealink-rottnest",
+      "title": "Journey Beyond - SeaLink Rottnest",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
       "changes": [
         {
-          "field": "other_parties",
-          "old": "Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Tikehau Capital SCA; RCS Paris - 477 599 104; Mubadala Investment Company PJSC; CN‑2302788; Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812",
-          "new": "Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812; Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Mubadala Investment Company PJSC; CN‑2302788; Tikehau Capital SCA; RCS Paris - 477 599 104"
+          "field": "targets",
+          "old": "KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972",
+          "new": "VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-22T14:47:16+10:00",
-          "new": "2026-07-30T11:48:51+10:00"
+          "old": "2026-07-10T16:21:24+10:00",
+          "new": "2026-07-30T17:49:13+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: Sanad Services and Tikehau Capital – Revima. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jul 2026 Sanad and Tikehau-Revima - Third party questionnaire Attachment 116.42 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": "On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural commitments in relation to service levels, pricing, investment in the ferry fleet, the forfeiture of berthing slots, and the monitoring of their compliance with the obligations in the undertaking (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 4 August 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title submission re: Journey Beyond (EAG) / SeaLink Rottnest. read more"
+        }
+      ]
+    },
+    {
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-22T16:46:45+10:00",
+          "new": "2026-07-30T16:35:41+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "",
+          "new": "On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth) with respect to its remedy offer of 1 July 2026. On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth) with respect to its remedy offer of 1 July 2026. Submissions or comments about the draft undertaking should be provided by 5:00pm AEST on 6 August 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: IAG – RACI – Draft undertaking. read more 28 Jul 2026 Draft s87B Undertaking - 28 July 2026 - IAG - RACI Attachment 551.76 KB"
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sanad%20and%20Tikehau-Revima%20-%20Third%20party%20questionnaire.docx'}]",
-          "new": ""
+          "old": "",
+          "new": "[{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 - IAG - RACI', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Draft%20s87B%20Undertaking%20-%2028%20July%202026%20-%20IAG%20-%20RACI.pdf'}]"
         }
       ]
     }

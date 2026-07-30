@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-30 02:37:10.436010,
-Last scrape run (AEST),30 Jul 2026  12:37,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-30 08:31:49.381873,
+Last scrape run (AEST),30 Jul 2026  18:31,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,491,
-New entries this run,1,
-Changed entries this run,2,
+Total entries monitored,498,
+New entries this run,7,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,26 +13,42 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
+NEW ENTRIES (7),Case Number,URL
++ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos
++ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero
++ EQT Fund Management S.à r.l. – Orikan Group,WA-60028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-s%C3%A0-rl-%E2%80%93-orikan-group
++ PT AP Investment – Vitrinite,WA-60029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/pt-ap-investment-%E2%80%93-vitrinite
++ AustralianSuper – Advanced Navigation,WA-35032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australiansuper-%E2%80%93-advanced-navigation
++ HB Land and Satterley – Elimbah Land Joint Venture,WA-35024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hb-land-and-satterley-%E2%80%93-elimbah-land-joint-venture
++ AngloGold Ashanti Australia – Matsa Lake Carey tenements,WA-80028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/anglogold-ashanti-australia-%E2%80%93-matsa-lake-carey-tenements
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
-,Last Modified Accc,2026-07-22T11:26:33+10:00  →  2026-07-29T21:21:06+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'url': 'https://www.ac  →  "
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
+,Acquirers,MAG SOUTH COAST PTY LTD; 70 683 627 590; MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306  →  MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306; MAG SOUTH COAST PTY LTD; 70 683 627 590
+,Targets,COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; KINGHORN MOTORS PTY LTD; 33 000 220 557; KJO PROPERTY  →  Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust; COUNTRY MOTOR COMPANY PT
+,Other Parties,MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD; 60 003 411 210; MAG   →  MAG BODY CORP PTY LTD; 93 676 724 495; MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF 
+,Last Modified Accc,2026-07-22T16:59:59+10:00  →  2026-07-30T11:56:12+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
 ,,
-~ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
-,Other Parties,Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.;  →  Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137
-,Last Modified Accc,2026-07-22T14:47:16+10:00  →  2026-07-30T11:48:51+10:00
+~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
+,Last Modified Accc,2026-07-23T11:29:49+10:00  →  2026-07-30T15:04:59+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party questionnaire', 'url  →  "
+,Consultation Docs,"[{'date': '23 Jul 2026', 'description': 'Ambrose Construct Group - Major Loss Builders - Questionnai  →  "
+,,
+~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
+,Targets,KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  →  VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257
+,Last Modified Accc,2026-07-10T16:21:24+10:00  →  2026-07-30T17:49:13+10:00
+,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to secti"
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Last Modified Accc,2026-07-22T16:46:45+10:00  →  2026-07-30T16:35:41+10:00
+,Consultation Text,"  →  On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Competition and Consumer A"
+,Consultation Docs,"  →  [{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 - IAG - RACI', 'url':"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (19),Case Number,Detected (AEST)
-+ Ambrose Construct Group – Major Loss Builders,MN-10021,23 Jul  13:14
 + Petalite – Envu,MN-90024,24 Jul  18:31
 "+ Coles – supermarket site in Upper Swan, WA",MN-05030,24 Jul  18:31
 + Sonnel Hospitality Group – Peakhurst Inn Hotel,WA-75033,24 Jul  18:31
@@ -51,16 +67,9 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 + Salesforce - Intercom,MN-40031,29 Jul  18:45
 + Kalari – De Gunst’s Gracemere Assets,WA-70028,29 Jul  18:45
 + Abu Dhabi Investment Authority – Barings Darling Square Holding Trust,WA-90026,29 Jul  18:45
++ MM Security – Micron Security Products,MN-01115,30 Jul  12:37
 ,,
-"CHANGED ENTRIES (18 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
-,Acquisition Status,Under assessment  →  Assessment completed  (23 Jul  13:14)
-,Accc Determination,  →  Approved  (23 Jul  13:14)
-,Determination Publication Date,  →  23 July 2026  (23 Jul  13:14)
-,Last Modified Accc,2026-07-06T11:23:24+10:00  →  2026-07-23T09:32:43+10:00  (23 Jul  13:14)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (23 Jul  13:14)
-,Decisions Docs,"  →  [{'date': '23 Jul 2026', 'description': 'WSP-Geotechnical Testing and Interpreta  (23 Jul  13:14)"
-,,
+"CHANGED ENTRIES (19 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
 ,Acquirers,Sappi Limited; Registration number - 1936/008963/06; UPM-Kymmene Corporation; Fi  →  UPM-Kymmene Corporation; Finnish Business ID - 1041090-0; Sappi Limited; Registr  (23 Jul  18:34)
 ,Other Parties,SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM-KYMMENE PTY LTD; 99 001  →  SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy  (23 Jul  18:34)
@@ -181,4 +190,15 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-16T16:38:50+10:00  →  2026-07-29T14:44:27+10:00  (29 Jul  18:45)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (29 Jul  18:45)
 ,Decisions Docs,"  →  [{'date': '29 Jul 2026', 'description': 'Motorola Solutions - D-Fend Solutions -  (29 Jul  18:45)"
+,,
+~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
+,Last Modified Accc,2026-07-22T11:26:33+10:00  →  2026-07-29T21:21:06+10:00  (30 Jul  12:37)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jul  12:37)
+,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'u  →    (30 Jul  12:37)"
+,,
+~ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
+,Other Parties,Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Pr  →  Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS;  (30 Jul  12:37)
+,Last Modified Accc,2026-07-22T14:47:16+10:00  →  2026-07-30T11:48:51+10:00  (30 Jul  12:37)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jul  12:37)
+,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party   →    (30 Jul  12:37)"
 ,,
