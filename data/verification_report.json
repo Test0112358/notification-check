@@ -156,9 +156,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "apax-partners-llp-%E2%80%93-sedex-information-exchange-limited",
-    "title": "Apax Partners LLP – Sedex Information Exchange Limited",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apax-partners-llp-%E2%80%93-sedex-information-exchange-limited",
+    "slug": "symal-group-shamrock-engineering-and-equipment",
+    "title": "Symal Group - Shamrock Engineering and Equipment",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
