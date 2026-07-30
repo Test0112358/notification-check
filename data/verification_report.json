@@ -156,9 +156,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "symal-group-shamrock-engineering-and-equipment",
-    "title": "Symal Group - Shamrock Engineering and Equipment",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/symal-group-shamrock-engineering-and-equipment",
+    "slug": "jardines-i-med",
+    "title": "Jardines - I-MED",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/jardines-i-med",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
+    "title": "Autopact - Freehold interest in commercial land in Dubbo, NSW",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
