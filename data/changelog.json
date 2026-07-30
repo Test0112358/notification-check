@@ -25527,5 +25527,66 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-30T02:37:10.436010Z",
+    "slug": "mm-security-%E2%80%93-micron-security-products",
+    "title": "MM Security – Micron Security Products",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-07-30T02:37:10.436010Z",
+    "slug": "vertex-%E2%80%93-crinetics",
+    "title": "Vertex – Crinetics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-22T11:26:33+10:00",
+        "new": "2026-07-29T21:21:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: Vertex - Crinetics. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jul 2026 Vertex - Crinetics - Questionnaire Attachment 116.09 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vertex%20-%20Crinetics%20-%20Questionnaire%20-%2022%20July%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-07-30T02:37:10.436010Z",
+    "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
+    "title": "Sanad Services and Tikehau Capital – Revima",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Tikehau Capital SCA; RCS Paris - 477 599 104; Mubadala Investment Company PJSC; CN‑2302788; Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812",
+        "new": "Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812; Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Mubadala Investment Company PJSC; CN‑2302788; Tikehau Capital SCA; RCS Paris - 477 599 104"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-22T14:47:16+10:00",
+        "new": "2026-07-30T11:48:51+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: Sanad Services and Tikehau Capital – Revima. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jul 2026 Sanad and Tikehau-Revima - Third party questionnaire Attachment 116.42 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sanad%20and%20Tikehau-Revima%20-%20Third%20party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

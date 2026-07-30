@@ -1,77 +1,62 @@
 {
-  "run_utc": "2026-07-29T08:45:16.324117Z",
-  "new_count": 3,
+  "run_utc": "2026-07-30T02:37:10.436010Z",
+  "new_count": 1,
   "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "salesforce-intercom",
-      "title": "Salesforce - Intercom",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom"
-    },
-    {
-      "slug": "kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets",
-      "title": "Kalari – De Gunst’s Gracemere Assets",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets"
-    },
-    {
-      "slug": "abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
-      "title": "Abu Dhabi Investment Authority – Barings Darling Square Holding Trust",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust"
+      "slug": "mm-security-%E2%80%93-micron-security-products",
+      "title": "MM Security – Micron Security Products",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products"
     }
   ],
   "changed_entries": [
     {
-      "slug": "lor%C3%A9al-innovist",
-      "title": "L'Oréal - Innovist",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist",
+      "slug": "vertex-%E2%80%93-crinetics",
+      "title": "Vertex – Crinetics",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics",
       "changes": [
         {
           "field": "last_modified_accc",
-          "old": "2026-07-22T11:14:11+10:00",
-          "new": "2026-07-29T17:06:36+10:00"
+          "old": "2026-07-22T11:26:33+10:00",
+          "new": "2026-07-29T21:21:06+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title L'Oréal – Innovist. read more 22 Jul 2026 L'Oréal - Innovist - Questionnaire Attachment 116.09 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: Vertex - Crinetics. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jul 2026 Vertex - Crinetics - Questionnaire Attachment 116.09 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '22 Jul 2026', 'description': \"L'Oréal - Innovist - Questionnaire\", 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/L%27oreal%20-%20Innovist%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vertex%20-%20Crinetics%20-%20Questionnaire%20-%2022%20July%202026.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "motorola-solutions-d-fend-solutions",
-      "title": "Motorola Solutions - D-Fend Solutions",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
+      "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
+      "title": "Sanad Services and Tikehau Capital – Revima",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
+          "field": "other_parties",
+          "old": "Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Tikehau Capital SCA; RCS Paris - 477 599 104; Mubadala Investment Company PJSC; CN‑2302788; Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812",
+          "new": "Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812; Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Mubadala Investment Company PJSC; CN‑2302788; Tikehau Capital SCA; RCS Paris - 477 599 104"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-16T16:38:50+10:00",
-          "new": "2026-07-29T14:44:27+10:00"
+          "old": "2026-07-22T14:47:16+10:00",
+          "new": "2026-07-30T11:48:51+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 July 2026 via email to mergers@accc.gov.au with the title Submission re: Sanad Services and Tikehau Capital – Revima. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 22 Jul 2026 Sanad and Tikehau-Revima - Third party questionnaire Attachment 116.42 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '29 Jul 2026', 'description': 'Motorola Solutions - D-Fend Solutions - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Motorola%20Solutions%20-%20D-Fend%20Solutions%20-%20Phase%201%20determination.pdf'}]"
+          "field": "consultation_docs",
+          "old": "[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sanad%20and%20Tikehau-Revima%20-%20Third%20party%20questionnaire.docx'}]",
+          "new": ""
         }
       ]
     }

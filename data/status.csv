@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-29 08:45:16.324117,
-Last scrape run (AEST),29 Jul 2026  18:45,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-30 02:37:10.436010,
+Last scrape run (AEST),30 Jul 2026  12:37,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,490,
-New entries this run,3,
+Total entries monitored,491,
+New entries this run,1,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,28 +13,25 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom
-+ Kalari – De Gunst’s Gracemere Assets,WA-70028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets
-+ Abu Dhabi Investment Authority – Barings Darling Square Holding Trust,WA-90026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust
+NEW ENTRIES (1),Case Number,URL
++ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist
-,Last Modified Accc,2026-07-22T11:14:11+10:00  →  2026-07-29T17:06:36+10:00
+~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
+,Last Modified Accc,2026-07-22T11:26:33+10:00  →  2026-07-29T21:21:06+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '22 Jul 2026', 'description': ""L'Oréal - Innovist - Questionnaire"", 'url': 'https://www.ac  →  "
+,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'url': 'https://www.ac  →  "
 ,,
-~ Motorola Solutions - D-Fend Solutions,MN-05032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-07-16T16:38:50+10:00  →  2026-07-29T14:44:27+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '29 Jul 2026', 'description': 'Motorola Solutions - D-Fend Solutions - Phase 1 determinati"
+~ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
+,Other Parties,Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.;  →  Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137
+,Last Modified Accc,2026-07-22T14:47:16+10:00  →  2026-07-30T11:48:51+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party questionnaire', 'url  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (16),Case Number,Detected (AEST)
+NEW ENTRIES (19),Case Number,Detected (AEST)
 + Ambrose Construct Group – Major Loss Builders,MN-10021,23 Jul  13:14
 + Petalite – Envu,MN-90024,24 Jul  18:31
 "+ Coles – supermarket site in Upper Swan, WA",MN-05030,24 Jul  18:31
@@ -51,8 +48,11 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 + AbbVie - Apogee,MN-90027,28 Jul  18:38
 + Black Kite Partners led consortium - DR2,WA-80025,28 Jul  18:38
 + Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,29 Jul  12:52
++ Salesforce - Intercom,MN-40031,29 Jul  18:45
++ Kalari – De Gunst’s Gracemere Assets,WA-70028,29 Jul  18:45
++ Abu Dhabi Investment Authority – Barings Darling Square Holding Trust,WA-90026,29 Jul  18:45
 ,,
-"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (18 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ WSP - Geotechnical Testing and Interpretation,MN-01107,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wsp-geotechnical-testing-and-interpretation
 ,Acquisition Status,Under assessment  →  Assessment completed  (23 Jul  13:14)
 ,Accc Determination,  →  Approved  (23 Jul  13:14)
@@ -169,4 +169,16 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-08T09:51:40+10:00  →  2026-07-27T14:32:51+10:00  (28 Jul  18:38)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (28 Jul  18:38)
 ,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'INNIO Group – Enerflex - Phase 1 Determ  (28 Jul  18:38)"
+,,
+~ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist
+,Last Modified Accc,2026-07-22T11:14:11+10:00  →  2026-07-29T17:06:36+10:00  (29 Jul  18:45)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jul  18:45)
+,Consultation Docs,"[{'date': '22 Jul 2026', 'description': ""L'Oréal - Innovist - Questionnaire"", 'u  →    (29 Jul  18:45)"
+,,
+~ Motorola Solutions - D-Fend Solutions,MN-05032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions
+,Acquisition Status,Under assessment  →  Assessment completed  (29 Jul  18:45)
+,Accc Determination,  →  Approved  (29 Jul  18:45)
+,Last Modified Accc,2026-07-16T16:38:50+10:00  →  2026-07-29T14:44:27+10:00  (29 Jul  18:45)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (29 Jul  18:45)
+,Decisions Docs,"  →  [{'date': '29 Jul 2026', 'description': 'Motorola Solutions - D-Fend Solutions -  (29 Jul  18:45)"
 ,,
