@@ -1,42 +1,5 @@
 {
-  "run_utc": "2026-07-31T03:18:13.610865Z",
-  "questionnaire_count": 3,
-  "questionnaires": [
-    {
-      "slug": "m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
-      "title": "M Resources and Golden Energy and Resources – Tahmoor Coal Mine",
-      "case_number": "MN-10022",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
-      "date": "31 Jul 2026",
-      "description": "M Resources and Golden Energy and Resources - Tahmoor Coal Mine - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/M%20Resources%20and%20Golden%20Energy%20and%20Resources%20%E2%80%93%20Tahmoor%20Coal%20Mine%20-%20Questionnaire_0.docx",
-      "local_path": "data/consultation_docs/M Resources and Golden Energy and Resources _ Tahmoor Coal Mine - Questionnaire_0.docx",
-      "filename": "M Resources and Golden Energy and Resources _ Tahmoor Coal Mine - Questionnaire_0.docx",
-      "size_kb": 117.1
-    },
-    {
-      "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
-      "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
-      "case_number": "MN-70027",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
-      "date": "31 Jul 2026",
-      "description": "Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Global%20Infrastructure%20Management%20and%20EQT%20led%20consortium%20-%20AES%20Corporation%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire.docx",
-      "filename": "Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire.docx",
-      "size_kb": 116.5
-    },
-    {
-      "slug": "journey-beyond-sealink-rottnest",
-      "title": "Journey Beyond - SeaLink Rottnest",
-      "case_number": "MN-50011",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
-      "date": "30 Jul 2026",
-      "description": "Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Journey%20Beyond%20-%20SeaLink%20Rottnest%20-%2029%20July%202026%20-%20Remedy%20Offer.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer.docx",
-      "filename": "Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer.docx",
-      "size_kb": 117.8
-    }
-  ]
+  "run_utc": "2026-07-31T08:53:46.722856Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

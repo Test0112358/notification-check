@@ -1,18 +1,13 @@
 {
-  "run_utc": "2026-07-31T03:18:13.610865Z",
-  "new_count": 2,
-  "changed_count": 2,
+  "run_utc": "2026-07-31T08:53:46.722856Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
-      "title": "M Resources and Golden Energy and Resources – Tahmoor Coal Mine",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine"
-    },
-    {
-      "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
-      "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation"
+      "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+      "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets"
     }
   ],
   "changed_entries": [
@@ -22,61 +17,19 @@
       "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
       "changes": [
         {
-          "field": "targets",
-          "old": "VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257",
-          "new": "KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972"
+          "field": "end_of_determination_period",
+          "old": "12 Aug 2026",
+          "new": "2 Sep 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-30T17:49:13+10:00",
-          "new": "2026-07-31T10:05:05+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural commitments in relation to service levels, pricing, investment in the ferry fleet, the forfeiture of berthing slots, and the monitoring of their compliance with the obligations in the undertaking (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 4 August 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title submission re: Journey Beyond (EAG) / SeaLink Rottnest. read more",
-          "new": "On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural commitments in relation to service levels, pricing, investment in the ferry fleet, the forfeiture of berthing slots, and the monitoring of their compliance with the obligations in the undertaking (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 4 August 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title submission re: Journey Beyond (EAG) / SeaLink Rottnest. read more 30 Jul 2026 Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer Attachment 117.8 KB 30 Jul 2026 Remedy offer - 29 July 2026 - Journey Beyond (EAG) - SeaLink Rottnest Attachment 374.17 KB"
-        },
-        {
-          "field": "consultation_docs",
-          "old": "",
-          "new": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Journey%20Beyond%20-%20SeaLink%20Rottnest%20-%2029%20July%202026%20-%20Remedy%20Offer.docx'}, {'date': '30 Jul 2026', 'description': 'Remedy offer - 29 July 2026 - Journey Beyond (EAG) - SeaLink Rottnest', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Remedy%20offer%20-%2029%20July%202026%20-%20Journey%20Beyond%20%28EAG%29%20-%20SeaLink%20Rottnest.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved with conditions"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "30 July 2026"
-        },
-        {
-          "field": "targets",
-          "old": "MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542",
-          "new": "MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MACHINERY SALES PTY LIMITED; 13 074 358 277"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-08T16:13:37+10:00",
-          "new": "2026-07-31T09:18:21+10:00"
+          "old": "2026-07-31T10:05:05+10:00",
+          "new": "2026-07-31T16:32:01+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]",
-          "new": "[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}, {'date': '30 Jul 2026', 'description': 'Heidelberg Materials Australia - construction materials business of MAAS - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA-MAAS%20Phase%201%20determination%20and%20statement%20of%20reasons_0.pdf'}]"
+          "old": "",
+          "new": "[{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]"
         }
       ]
     }

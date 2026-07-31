@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-31 03:18:13.610865,
-Last scrape run (AEST),31 Jul 2026  13:18,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-07-31 08:53:46.722856,
+Last scrape run (AEST),31 Jul 2026  18:53,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,500,
-New entries this run,2,
-Changed entries this run,2,
+Total entries monitored,501,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,34 +13,19 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
-+ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
+NEW ENTRIES (1),Case Number,URL
++ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
 ~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972
-,Last Modified Accc,2026-07-30T17:49:13+10:00  →  2026-07-31T10:05:05+10:00
-,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to secti  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to secti"
-,Consultation Docs,"  →  [{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July"
-,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved with conditions
-,Determination Publication Date,  →  30 July 2026
-,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; REG  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; REG
-,Last Modified Accc,2026-07-08T16:13:37+10:00  →  2026-07-31T09:18:21+10:00
-,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy of  →  [{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy of"
+,End Of Determination Period,12 Aug 2026  →  2 Sep 2026
+,Last Modified Accc,2026-07-31T10:05:05+10:00  →  2026-07-31T16:32:01+10:00
+,Decisions Docs,"  →  [{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days – following remedy of"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (26),Case Number,Detected (AEST)
-+ Petalite – Envu,MN-90024,24 Jul  18:31
-"+ Coles – supermarket site in Upper Swan, WA",MN-05030,24 Jul  18:31
-+ Sonnel Hospitality Group – Peakhurst Inn Hotel,WA-75033,24 Jul  18:31
-+ Tasmea – JPS Holdings,WA-25039,24 Jul  18:31
-+ Tata Motors - Iveco,WA-85037,24 Jul  18:31
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + Estia Health – AnglicareSA residential aged care business,MN-55029,27 Jul  13:28
 + Obayashi Corporation – Multiplex,MN-05031,27 Jul  19:57
 + State Swim – Swim Plus,WA-95032,27 Jul  19:57
@@ -62,31 +47,10 @@ NEW ENTRIES (26),Case Number,Detected (AEST)
 + AustralianSuper – Advanced Navigation,WA-35032,30 Jul  18:31
 + HB Land and Satterley – Elimbah Land Joint Venture,WA-35024,30 Jul  18:31
 + AngloGold Ashanti Australia – Matsa Lake Carey tenements,WA-80028,30 Jul  18:31
++ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,31 Jul  13:18
++ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,31 Jul  13:18
 ,,
-"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
-,Last Modified Accc,2026-07-17T10:32:27+10:00  →  2026-07-24T17:29:34+10:00  (24 Jul  18:31)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (24 Jul  18:31)
-,Consultation Docs,"[{'date': '17 Jul 2026', 'description': 'Acrow - Ausgroup Industrial Services -   →    (24 Jul  18:31)"
-,,
-~ Allianz – certain assets of nib’s Australian travel insurance business,MN-80024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/allianz-%E2%80%93-certain-assets-of-nib%E2%80%99s-australian-travel-insurance-business
-,Acquisition Status,Under assessment  →  Assessment completed  (24 Jul  18:31)
-,Accc Determination,  →  Approved  (24 Jul  18:31)
-,Determination Publication Date,  →  24 July 2026  (24 Jul  18:31)
-,Other Parties,Suresave Pty Ltd; 82 137 885 262; nib Travel Services (Australia) Pty Ltd; 81 11  →  nib Travel Insurance Distribution Pty Ltd; 40 129 262 175; AWP Australia Holding  (24 Jul  18:31)
-,Last Modified Accc,2026-07-03T16:44:06+10:00  →  2026-07-24T17:07:29+10:00  (24 Jul  18:31)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →    (24 Jul  18:31)
-,Consultation Docs,"[{'date': '3 Jul 2026', 'description': 'Allianz – certain assets of nib’s Austra  →    (24 Jul  18:31)"
-,Decisions Docs,"  →  [{'date': '24 Jul 2026', 'description': 'Allianz - certain assets of nib’s Austr  (24 Jul  18:31)"
-,,
-~ Midea - Residentia Group,MN-01106,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/midea-residentia-group
-,Acquisition Status,Under assessment  →  Assessment completed  (24 Jul  18:31)
-,Accc Determination,  →  Approved  (24 Jul  18:31)
-,Determination Publication Date,  →  24 July 2026  (24 Jul  18:31)
-,Last Modified Accc,2026-07-07T14:55:36+10:00  →  2026-07-24T17:03:54+10:00  (24 Jul  18:31)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (24 Jul  18:31)
-,Decisions Docs,"  →  [{'date': '24 Jul 2026', 'description': 'Midea - Residentia Group - Phase 1 dete  (24 Jul  18:31)"
-,,
+"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
 ,Acquisition Status,Under assessment  →  Assessment completed  (27 Jul  13:28)
 ,Accc Determination,  →  Approved  (27 Jul  13:28)
@@ -184,9 +148,21 @@ NEW ENTRIES (26),Case Number,Detected (AEST)
 ,Targets,KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  →  VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  (30 Jul  18:31)
 ,Last Modified Accc,2026-07-10T16:21:24+10:00  →  2026-07-30T17:49:13+10:00  (30 Jul  18:31)
 ,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  (30 Jul  18:31)"
+,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  (31 Jul  13:18)
+,Last Modified Accc,2026-07-30T17:49:13+10:00  →  2026-07-31T10:05:05+10:00  (31 Jul  13:18)
+,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  (31 Jul  13:18)"
+,Consultation Docs,"  →  [{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  (31 Jul  13:18)"
 ,,
 ~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
 ,Last Modified Accc,2026-07-22T16:46:45+10:00  →  2026-07-30T16:35:41+10:00  (30 Jul  18:31)
 ,Consultation Text,"  →  On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Compet  (30 Jul  18:31)"
 ,Consultation Docs,"  →  [{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 -  (30 Jul  18:31)"
+,,
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Acquisition Status,Under assessment  →  Assessment completed  (31 Jul  13:18)
+,Accc Determination,  →  Approved with conditions  (31 Jul  13:18)
+,Determination Publication Date,  →  30 July 2026  (31 Jul  13:18)
+,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED;  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED;  (31 Jul  13:18)
+,Last Modified Accc,2026-07-08T16:13:37+10:00  →  2026-07-31T09:18:21+10:00  (31 Jul  13:18)
+,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  →  [{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  13:18)"
 ,,
