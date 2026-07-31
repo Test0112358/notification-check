@@ -1,31 +1,24 @@
 {
-  "generated_at_utc": "2026-07-30T08:48:54.607401Z",
-  "total_entries": 498,
+  "generated_at_utc": "2026-07-31T03:37:46.462337Z",
+  "total_entries": 500,
   "by_acquisition_status": {
-    "Under assessment": 44,
-    "Assessment completed": 451,
+    "Under assessment": 45,
+    "Assessment completed": 452,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 191,
+    "Phase 1 - initial assessment": 193,
     "Waiver application": 299,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 199,
+    "Notification": 201,
     "Waiver": 299
   },
   "by_accc_determination": {
     "Approved": 435,
-    "Not approved": 15,
-    "Approved with conditions": 1
+    "Approved with conditions": 2,
+    "Not approved": 15
   },
-  "decisions_due_within_10_days": [
-    {
-      "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
-      "title": "Heidelberg Materials Australia – construction materials business of MAAS",
-      "end_of_determination_period": "3 Aug 2026",
-      "days_remaining": 4
-    }
-  ]
+  "decisions_due_within_10_days": []
 }
