@@ -156,9 +156,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "jardines-i-med",
-    "title": "Jardines - I-MED",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/jardines-i-med",
+    "slug": "mitsubishi-estate-asia-%E2%80%93-eynesbury-properties",
+    "title": "Mitsubishi Estate Asia – Eynesbury Properties",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mitsubishi-estate-asia-%E2%80%93-eynesbury-properties",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -168,9 +168,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
-    "title": "Autopact - Freehold interest in commercial land in Dubbo, NSW",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
+    "slug": "cvc-capital-partners-%E2%80%93-chesscom",
+    "title": "CVC Capital Partners – Chess.com",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
