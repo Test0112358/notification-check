@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-03 03:18:56.665410,
-Last scrape run (AEST),03 Aug 2026  13:18,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-03 09:51:35.416474,
+Last scrape run (AEST),03 Aug 2026  19:51,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,501,
-New entries this run,0,
+Total entries monitored,509,
+New entries this run,8,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,22 +13,36 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
-,Last Modified Accc,2026-07-31T16:45:12+10:00  →  2026-08-03T10:30:43+10:00
-,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
-,Consultation Docs,"  →  [{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bul"
+NEW ENTRIES (8),Case Number,URL
++ IKEA Australia – IP rights from Inter IKEA under new franchise agreement package,WA-80030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ikea-australia-%E2%80%93-ip-rights-from-inter-ikea-under-new-franchise-agreement-package
++ Vets Central – Lava Street Veterinary Clinic and Doggy Kinder,WA-40032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-lava-street-veterinary-clinic-and-doggy-kinder
+"+ Impression Dental Group – Kingston Beach Dental, TAS",WA-20029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-%E2%80%93-kingston-beach-dental-tas
++ NPM Capital – AmbaFlex Group,WA-80029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/npm-capital-%E2%80%93-ambaflex-group
++ EQT Fund Management – Exolaunch,WA-01114,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-%E2%80%93-exolaunch
++ Infoblox – Kentik Technologies,WA-10023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infoblox-%E2%80%93-kentik-technologies
+"+ Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",WA-80026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa
++ McDonald’s Australia – McDonald’s Restaurants in North West Sydney,WA-45021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-north-west-sydney
 ,,
-"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
-,Last Modified Accc,2026-07-24T15:52:13+10:00  →  2026-08-03T10:40:08+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '24 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
+,Acquirers,Obayashi Corporation; 86 002 932 756; Obayashi UK Holdings Limited; UK Company No.17229281  →  Obayashi UK Holdings Limited; UK Company No.17229281; Obayashi Corporation; 86 002 932 756
+,Last Modified Accc,2026-07-27T17:10:42+10:00  →  2026-08-03T18:19:05+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '27 Jul 2026', 'description': 'Questionnaire - Obayashi Corporation - Multiplex', 'url': '  →  "
+,,
+~ Coles - Paydock,MN-65028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  3 August 2026
+,Targets,Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limited; 31 607 215 163  →  Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd
+,Last Modified Accc,2026-07-16T09:43:11+10:00  →  2026-08-03T16:25:57+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '3 Aug 2026', 'description': 'Coles - Paydock - Phase 1 determination', 'url': 'https://ww"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (24),Case Number,Detected (AEST)
-+ Estia Health – AnglicareSA residential aged care business,MN-55029,27 Jul  13:28
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + Obayashi Corporation – Multiplex,MN-05031,27 Jul  19:57
 + State Swim – Swim Plus,WA-95032,27 Jul  19:57
 + CVC Capital Partners – Chess.com,WA-05033,27 Jul  19:57
@@ -53,14 +67,7 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,31 Jul  13:18
 + Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,31 Jul  18:53
 ,,
-"CHANGED ENTRIES (17 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
-,Acquisition Status,Under assessment  →  Assessment completed  (27 Jul  13:28)
-,Accc Determination,  →  Approved  (27 Jul  13:28)
-,Last Modified Accc,2026-06-23T16:00:02+10:00  →  2026-07-27T09:59:26+10:00  (27 Jul  13:28)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (27 Jul  13:28)
-,Decisions Docs,"  →  [{'date': '27 Jul 2026', 'description': 'Transocean - Valaris - Phase 1 determin  (27 Jul  13:28)"
-,,
+"CHANGED ENTRIES (18 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation
 ,Other Parties,Sinochem Holdings Corporation Ltd; USCC - 91133100MA0GBL5F38; Stichting Administ  →  Stichting Administratiekantoor Casper Holdco; KVK - 93565348; Sinochem Holdings   (27 Jul  19:57)
 ,Last Modified Accc,2026-07-20T14:07:26+10:00  →  2026-07-27T16:09:19+10:00  (27 Jul  19:57)
@@ -171,4 +178,14 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED;  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED;  (31 Jul  13:18)
 ,Last Modified Accc,2026-07-08T16:13:37+10:00  →  2026-07-31T09:18:21+10:00  (31 Jul  13:18)
 ,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  →  [{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  13:18)"
+,,
+~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+,Last Modified Accc,2026-07-31T16:45:12+10:00  →  2026-08-03T10:30:43+10:00  (03 Aug  13:18)
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (03 Aug  13:18)
+,Consultation Docs,"  →  [{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics   (03 Aug  13:18)"
+,,
+"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
+,Last Modified Accc,2026-07-24T15:52:13+10:00  →  2026-08-03T10:40:08+10:00  (03 Aug  13:18)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (03 Aug  13:18)
+,Consultation Docs,"[{'date': '24 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (03 Aug  13:18)"
 ,,

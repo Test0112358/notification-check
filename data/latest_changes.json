@@ -1,51 +1,117 @@
 {
-  "run_utc": "2026-08-03T03:18:56.665410Z",
-  "new_count": 0,
+  "run_utc": "2026-08-03T09:51:35.416474Z",
+  "new_count": 8,
   "changed_count": 2,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "ikea-australia-%E2%80%93-ip-rights-from-inter-ikea-under-new-franchise-agreement-package",
+      "title": "IKEA Australia – IP rights from Inter IKEA under new franchise agreement package",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ikea-australia-%E2%80%93-ip-rights-from-inter-ikea-under-new-franchise-agreement-package"
+    },
+    {
+      "slug": "vets-central-%E2%80%93-lava-street-veterinary-clinic-and-doggy-kinder",
+      "title": "Vets Central – Lava Street Veterinary Clinic and Doggy Kinder",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-lava-street-veterinary-clinic-and-doggy-kinder"
+    },
+    {
+      "slug": "impression-dental-group-%E2%80%93-kingston-beach-dental-tas",
+      "title": "Impression Dental Group – Kingston Beach Dental, TAS",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-%E2%80%93-kingston-beach-dental-tas"
+    },
+    {
+      "slug": "npm-capital-%E2%80%93-ambaflex-group",
+      "title": "NPM Capital – AmbaFlex Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/npm-capital-%E2%80%93-ambaflex-group"
+    },
+    {
+      "slug": "eqt-fund-management-%E2%80%93-exolaunch",
+      "title": "EQT Fund Management – Exolaunch",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-%E2%80%93-exolaunch"
+    },
+    {
+      "slug": "infoblox-%E2%80%93-kentik-technologies",
+      "title": "Infoblox – Kentik Technologies",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infoblox-%E2%80%93-kentik-technologies"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
+      "title": "Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa"
+    },
+    {
+      "slug": "mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-north-west-sydney",
+      "title": "McDonald’s Australia – McDonald’s Restaurants in North West Sydney",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-north-west-sydney"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
-      "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+      "slug": "obayashi-corporation-%E2%80%93-multiplex",
+      "title": "Obayashi Corporation – Multiplex",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex",
       "changes": [
         {
+          "field": "acquirers",
+          "old": "Obayashi Corporation; 86 002 932 756; Obayashi UK Holdings Limited; UK Company No.17229281",
+          "new": "Obayashi UK Holdings Limited; UK Company No.17229281; Obayashi Corporation; 86 002 932 756"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-07-31T16:45:12+10:00",
-          "new": "2026-08-03T10:30:43+10:00"
+          "old": "2026-07-27T17:10:42+10:00",
+          "new": "2026-08-03T18:19:05+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "",
-          "new": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 August 2026 via email to mergers@accc.gov.au with the title Submission re: Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Aug 2026 Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets Attachment 116.83 KB"
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 3 August 2026 via email to mergers@accc.gov.au with the title Submission re: Obayashi Corporation - Multiplex. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 27 Jul 2026 Questionnaire - Obayashi Corporation - Multiplex Attachment 116.03 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "",
-          "new": "[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Silk%20Contract%20Logistics%20%E2%80%93%20Toll%20Transport%20bulk%20logistics%20%28glass%20and%20plastic%29%20assets_0.docx'}]"
+          "old": "[{'date': '27 Jul 2026', 'description': 'Questionnaire - Obayashi Corporation - Multiplex', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Obayashi-Multiplex%20-%20Phase%201%20questionnaire.docx'}]",
+          "new": ""
         }
       ]
     },
     {
-      "slug": "coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
-      "title": "Coles – supermarket site in Upper Swan, WA",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+      "slug": "coles-paydock",
+      "title": "Coles - Paydock",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock",
       "changes": [
         {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "3 August 2026"
+        },
+        {
+          "field": "targets",
+          "old": "Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limited; 31 607 215 163",
+          "new": "Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-07-24T15:52:13+10:00",
-          "new": "2026-08-03T10:40:08+10:00"
+          "old": "2026-07-16T09:43:11+10:00",
+          "new": "2026-08-03T16:25:57+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 31 July 2026 via email to mergers@accc.gov.au with the title Coles – supermarket site in Upper Swan, WA. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 24 Jul 2026 Questionnaire Attachment 60.47 KB",
-          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
         },
         {
-          "field": "consultation_docs",
-          "old": "[{'date': '24 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Upper%20Swan%20%28WA%29%20-%20Questionnaire%20-%20July%202026.docx'}]",
-          "new": ""
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '3 Aug 2026', 'description': 'Coles - Paydock - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20-%20Paydock%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }

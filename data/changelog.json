@@ -25914,5 +25914,142 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "obayashi-corporation-%E2%80%93-multiplex",
+    "title": "Obayashi Corporation – Multiplex",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Obayashi Corporation; 86 002 932 756; Obayashi UK Holdings Limited; UK Company No.17229281",
+        "new": "Obayashi UK Holdings Limited; UK Company No.17229281; Obayashi Corporation; 86 002 932 756"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-27T17:10:42+10:00",
+        "new": "2026-08-03T18:19:05+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 3 August 2026 via email to mergers@accc.gov.au with the title Submission re: Obayashi Corporation - Multiplex. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 27 Jul 2026 Questionnaire - Obayashi Corporation - Multiplex Attachment 116.03 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '27 Jul 2026', 'description': 'Questionnaire - Obayashi Corporation - Multiplex', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Obayashi-Multiplex%20-%20Phase%201%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "ikea-australia-%E2%80%93-ip-rights-from-inter-ikea-under-new-franchise-agreement-package",
+    "title": "IKEA Australia – IP rights from Inter IKEA under new franchise agreement package",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ikea-australia-%E2%80%93-ip-rights-from-inter-ikea-under-new-franchise-agreement-package",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "vets-central-%E2%80%93-lava-street-veterinary-clinic-and-doggy-kinder",
+    "title": "Vets Central – Lava Street Veterinary Clinic and Doggy Kinder",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-%E2%80%93-lava-street-veterinary-clinic-and-doggy-kinder",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "impression-dental-group-%E2%80%93-kingston-beach-dental-tas",
+    "title": "Impression Dental Group – Kingston Beach Dental, TAS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-%E2%80%93-kingston-beach-dental-tas",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "npm-capital-%E2%80%93-ambaflex-group",
+    "title": "NPM Capital – AmbaFlex Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/npm-capital-%E2%80%93-ambaflex-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "coles-paydock",
+    "title": "Coles - Paydock",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "3 August 2026"
+      },
+      {
+        "field": "targets",
+        "old": "Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limited; 31 607 215 163",
+        "new": "Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-16T09:43:11+10:00",
+        "new": "2026-08-03T16:25:57+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '3 Aug 2026', 'description': 'Coles - Paydock - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20-%20Paydock%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "eqt-fund-management-%E2%80%93-exolaunch",
+    "title": "EQT Fund Management – Exolaunch",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-%E2%80%93-exolaunch",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "infoblox-%E2%80%93-kentik-technologies",
+    "title": "Infoblox – Kentik Technologies",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/infoblox-%E2%80%93-kentik-technologies",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
+    "title": "Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-03T09:51:35.416474Z",
+    "slug": "mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-north-west-sydney",
+    "title": "McDonald’s Australia – McDonald’s Restaurants in North West Sydney",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-north-west-sydney",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
