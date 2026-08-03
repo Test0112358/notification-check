@@ -12,6 +12,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
+    "title": "Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "innio-group-%E2%80%93-enerflex-0",
     "title": "INNIO Group – Enerflex",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0",
@@ -63,18 +75,6 @@
     "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
     "title": "Smile Partners Australia – Mehta Orthodontics",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
-    "slug": "stonepeak-%E2%80%93-castrol",
-    "title": "Stonepeak – Castrol",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
     "layer": 1,
     "rule": "COMPLETED_MISSING_PUB_DATE",
     "severity": "WARNING",
@@ -156,9 +156,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "cvc-capital-partners-%E2%80%93-chesscom",
-    "title": "CVC Capital Partners – Chess.com",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom",
+    "slug": "stonepeak-%E2%80%93-castrol",
+    "title": "Stonepeak – Castrol",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "stonepeak-%E2%80%93-castrol",
+    "title": "Stonepeak – Castrol",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/stonepeak-%E2%80%93-castrol",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -168,21 +180,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "siemens-energy-%E2%80%93-camlin-group",
-    "title": "Siemens Energy – Camlin Group",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-energy-%E2%80%93-camlin-group",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "apollo-capital-management-%E2%80%93-questex-holdings-group",
-    "title": "Apollo Capital Management – Questex Holdings Group",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-management-%E2%80%93-questex-holdings-group",
+    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
+    "title": "Envest Group – MA Insurance Brokers",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
