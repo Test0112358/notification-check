@@ -156,9 +156,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic",
-    "title": "Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic",
+    "slug": "cvc-capital-partners-%E2%80%93-chesscom",
+    "title": "CVC Capital Partners – Chess.com",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -168,9 +168,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bain-capital-%E2%80%93-perpetual-wealth-management-group",
-    "title": "Bain Capital – Perpetual Wealth Management Group",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-perpetual-wealth-management-group",
+    "slug": "siemens-energy-%E2%80%93-camlin-group",
+    "title": "Siemens Energy – Camlin Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-energy-%E2%80%93-camlin-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -180,33 +180,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "ampol-%E2%80%93-freehold-land-acquisition-in-chelsea-heights-victoria",
-    "title": "Ampol – Freehold land acquisition in Chelsea Heights, Victoria",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-freehold-land-acquisition-in-chelsea-heights-victoria",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
-    "title": "Autopact - Freehold interest in commercial land in Dubbo, NSW",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
-    "title": "Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
+    "slug": "apollo-capital-management-%E2%80%93-questex-holdings-group",
+    "title": "Apollo Capital Management – Questex Holdings Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-capital-management-%E2%80%93-questex-holdings-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
