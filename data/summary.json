@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-31T09:12:47.946686Z",
+  "generated_at_utc": "2026-08-03T03:38:54.414705Z",
   "total_entries": 501,
   "by_acquisition_status": {
     "Under assessment": 46,
@@ -20,5 +20,12 @@
     "Approved with conditions": 2,
     "Not approved": 15
   },
-  "decisions_due_within_10_days": []
+  "decisions_due_within_10_days": [
+    {
+      "slug": "journey-beyond-kelsian-tourism-portfolio",
+      "title": "Journey Beyond - Kelsian Tourism Portfolio",
+      "end_of_determination_period": "12 Aug 2026",
+      "days_remaining": 9
+    }
+  ]
 }

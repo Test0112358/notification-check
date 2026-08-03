@@ -25866,5 +25866,53 @@
         "new": "[{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T03:18:56.665410Z",
+    "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-31T16:45:12+10:00",
+        "new": "2026-08-03T10:30:43+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "",
+        "new": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 August 2026 via email to mergers@accc.gov.au with the title Submission re: Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Aug 2026 Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets Attachment 116.83 KB"
+      },
+      {
+        "field": "consultation_docs",
+        "old": "",
+        "new": "[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Silk%20Contract%20Logistics%20%E2%80%93%20Toll%20Transport%20bulk%20logistics%20%28glass%20and%20plastic%29%20assets_0.docx'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T03:18:56.665410Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "title": "Coles – supermarket site in Upper Swan, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-24T15:52:13+10:00",
+        "new": "2026-08-03T10:40:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 31 July 2026 via email to mergers@accc.gov.au with the title Coles – supermarket site in Upper Swan, WA. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 24 Jul 2026 Questionnaire Attachment 60.47 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '24 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Upper%20Swan%20%28WA%29%20-%20Questionnaire%20-%20July%202026.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

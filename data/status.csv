@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-07-31 08:53:46.722856,
-Last scrape run (AEST),31 Jul 2026  18:53,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-03 03:18:56.665410,
+Last scrape run (AEST),03 Aug 2026  13:18,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,501,
-New entries this run,1,
-Changed entries this run,1,
+New entries this run,0,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,19 +13,21 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+,Last Modified Accc,2026-07-31T16:45:12+10:00  →  2026-08-03T10:30:43+10:00
+,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t
+,Consultation Docs,"  →  [{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bul"
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,End Of Determination Period,12 Aug 2026  →  2 Sep 2026
-,Last Modified Accc,2026-07-31T10:05:05+10:00  →  2026-07-31T16:32:01+10:00
-,Decisions Docs,"  →  [{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days – following remedy of"
+"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
+,Last Modified Accc,2026-07-24T15:52:13+10:00  →  2026-08-03T10:40:08+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '24 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (23),Case Number,Detected (AEST)
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + Estia Health – AnglicareSA residential aged care business,MN-55029,27 Jul  13:28
 + Obayashi Corporation – Multiplex,MN-05031,27 Jul  19:57
 + State Swim – Swim Plus,WA-95032,27 Jul  19:57
@@ -49,8 +51,9 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 + AngloGold Ashanti Australia – Matsa Lake Carey tenements,WA-80028,30 Jul  18:31
 + M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,31 Jul  13:18
 + Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,31 Jul  13:18
++ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,31 Jul  18:53
 ,,
-"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (17 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Transocean - Valaris,MN-25019,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/transocean-valaris
 ,Acquisition Status,Under assessment  →  Assessment completed  (27 Jul  13:28)
 ,Accc Determination,  →  Approved  (27 Jul  13:28)
@@ -152,6 +155,9 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-30T17:49:13+10:00  →  2026-07-31T10:05:05+10:00  (31 Jul  13:18)
 ,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  (31 Jul  13:18)"
 ,Consultation Docs,"  →  [{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  (31 Jul  13:18)"
+,End Of Determination Period,12 Aug 2026  →  2 Sep 2026  (31 Jul  18:53)
+,Last Modified Accc,2026-07-31T10:05:05+10:00  →  2026-07-31T16:32:01+10:00  (31 Jul  18:53)
+,Decisions Docs,"  →  [{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  18:53)"
 ,,
 ~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
 ,Last Modified Accc,2026-07-22T16:46:45+10:00  →  2026-07-30T16:35:41+10:00  (30 Jul  18:31)
