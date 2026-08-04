@@ -1,99 +1,109 @@
 {
-  "run_utc": "2026-08-04T02:48:03.492463Z",
-  "new_count": 2,
+  "run_utc": "2026-08-04T08:41:42.054205Z",
+  "new_count": 7,
   "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "hammondcare-anglican-community-services-support-at-home-business",
-      "title": "HammondCare - Anglican Community Services' Support at Home business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business"
+      "slug": "karmosimplr",
+      "title": "Karmo/Simplr",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr"
     },
     {
-      "slug": "bain-capital-everllence",
-      "title": "Bain Capital - Everllence",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-everllence"
+      "slug": "baupost-%E2%80%93-mcdermott",
+      "title": "Baupost – McDermott",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/baupost-%E2%80%93-mcdermott"
+    },
+    {
+      "slug": "crh-arcosa",
+      "title": "CRH - Arcosa",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/crh-arcosa"
+    },
+    {
+      "slug": "aub-%E2%80%93-further-interest-in-sura-technology",
+      "title": "AUB – further interest in Sura Technology",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aub-%E2%80%93-further-interest-in-sura-technology"
+    },
+    {
+      "slug": "kanda-healthcare-%E2%80%93-live-your-way-qld",
+      "title": "Kanda Healthcare – Live Your Way, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kanda-healthcare-%E2%80%93-live-your-way-qld"
+    },
+    {
+      "slug": "community-enterprise-queensland-island-cape-community-stores-aurukun-hope-vale-badu",
+      "title": "Community Enterprise Queensland - Island & Cape Community Stores (Aurukun, Hope Vale & Badu)",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/community-enterprise-queensland-island-cape-community-stores-aurukun-hope-vale-badu"
+    },
+    {
+      "slug": "count-%E2%80%93-o%E2%80%99brien-accountants-advisors",
+      "title": "Count – O’Brien Accountants & Advisors",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/count-%E2%80%93-o%E2%80%99brien-accountants-advisors"
     }
   ],
   "changed_entries": [
     {
-      "slug": "petalite-%E2%80%93-envu",
-      "title": "Petalite – Envu",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/petalite-%E2%80%93-envu",
+      "slug": "publicis-groupe-liveramp",
+      "title": "Publicis Groupe - LiveRamp",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-groupe-liveramp",
       "changes": [
         {
           "field": "last_modified_accc",
-          "old": "2026-07-24T15:11:32+10:00",
-          "new": "2026-08-03T09:18:06+10:00"
+          "old": "2026-07-28T15:16:43+10:00",
+          "new": "2026-08-04T16:23:30+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 31 July 2026 via email to mergers@accc.gov.au with the title Submission re: Petalite - Envu. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 24 Jul 2026 GIC / Petalite - Envu - Questionnaire Attachment 116.09 KB",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '24 Jul 2026', 'description': 'GIC / Petalite - Envu - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Petalite%20-%20Envu%20-%20third%20party%20questionnaire%20-%20July%202026_1.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
-      "title": "Estia Health – AnglicareSA residential aged care business",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-27T11:10:27+10:00",
-          "new": "2026-08-04T11:18:24+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 3 August 2026 via email to mergers@accc.gov.au with the title Submission re: Estia Health - Anglicare SA. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 27 Jul 2026 Questionnaire - Estia Health - Anglicare SA Attachment 117.75 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the Questionnaire should be provided by 4 August 2026 via email to mergers@accc.gov.au with the title Submission re: Publicis Groupe - LiveRamp. read more 28 Jul 2026 Publicis Groupe - LiveRamp - Questionnaire Attachment 108.29 KB",
           "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '27 Jul 2026', 'description': 'Questionnaire - Estia Health - Anglicare SA', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Estia%20Health-AnglicareSA%20-%20third-party%20questionnaire.docx'}]",
+          "old": "[{'date': '28 Jul 2026', 'description': 'Publicis Groupe - LiveRamp - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Publicis%20-%20LiveRamp%20-%20third-party%20questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "salesforce-contentful",
-      "title": "Salesforce - Contentful",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful",
+      "slug": "australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
+      "title": "Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa",
       "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "4 August 2026"
+          "new": "3 August 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-20T11:29:32+10:00",
-          "new": "2026-08-04T11:31:45+10:00"
+          "old": "2026-08-03T16:42:49+10:00",
+          "new": "2026-08-04T17:28:38+10:00"
+        }
+      ]
+    },
+    {
+      "slug": "coles-supermarket-site-in-palmwoods-qld",
+      "title": "Coles - supermarket site in Palmwoods, QLD",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-supermarket-site-in-palmwoods-qld",
+      "changes": [
+        {
+          "field": "determination_publication_date",
+          "old": "21 July 2026",
+          "new": "22 July 2026"
         },
         {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
+          "field": "other_parties",
+          "old": "Coles Group Limited; 11 004 089 936",
+          "new": "COLES GROUP LIMITED; 11 004 089 936"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-22T16:38:22+10:00",
+          "new": "2026-08-04T17:17:55+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '4 Aug 2026', 'description': 'Salesforce - Contentful - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Salesforce%20-%20Contentful%20-%20Phase%201%20determination.pdf'}]"
+          "old": "[{'date': '21 Jul 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20-%20supermarket%20site%20in%20Palmwoods%2C%20QLD%20%28WA-75030%29%20-%20Notification%20waiver%20determination%20-%2021%20July%202026.pdf'}]",
+          "new": "[{'date': '22 Jul 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20-%20supermarket%20site%20in%20Palmwoods%2C%20QLD%20%28WA-75030%29%20-%20Notification%20waiver%20determination%20-%2021%20July%202026.pdf'}]"
         }
       ]
     }

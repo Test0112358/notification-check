@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-08-04T02:48:03.492463Z",
+  "run_utc": "2026-08-04T08:41:42.054205Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "hammondcare-anglican-community-services-support-at-home-business",
-      "title": "HammondCare - Anglican Community Services' Support at Home business",
-      "case_number": "MN-85038",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
+      "slug": "karmosimplr",
+      "title": "Karmo/Simplr",
+      "case_number": "MN-15030",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr",
       "date": "4 Aug 2026",
-      "description": "Questionnaire - HammondCare - Anglican Community Services' Support at Home business",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/HammondCare%20-%20ACS%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/HammondCare - ACS - Questionnaire.docx",
-      "filename": "HammondCare - ACS - Questionnaire.docx",
-      "size_kb": 116.3
+      "description": "Questionnaire - Karmo/Simplr",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Simplr%20-%20Questionnaire_1.docx",
+      "local_path": "data/consultation_docs/Simplr - Questionnaire_1.docx",
+      "filename": "Simplr - Questionnaire_1.docx",
+      "size_kb": 61.7
     }
   ]
 }
