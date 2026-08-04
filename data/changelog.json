@@ -26051,5 +26051,108 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-north-west-sydney",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-04T02:48:03.492463Z",
+    "slug": "hammondcare-anglican-community-services-support-at-home-business",
+    "title": "HammondCare - Anglican Community Services' Support at Home business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-04T02:48:03.492463Z",
+    "slug": "petalite-%E2%80%93-envu",
+    "title": "Petalite – Envu",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/petalite-%E2%80%93-envu",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-24T15:11:32+10:00",
+        "new": "2026-08-03T09:18:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 31 July 2026 via email to mergers@accc.gov.au with the title Submission re: Petalite - Envu. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 24 Jul 2026 GIC / Petalite - Envu - Questionnaire Attachment 116.09 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '24 Jul 2026', 'description': 'GIC / Petalite - Envu - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Petalite%20-%20Envu%20-%20third%20party%20questionnaire%20-%20July%202026_1.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-04T02:48:03.492463Z",
+    "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "title": "Estia Health – AnglicareSA residential aged care business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-27T11:10:27+10:00",
+        "new": "2026-08-04T11:18:24+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 3 August 2026 via email to mergers@accc.gov.au with the title Submission re: Estia Health - Anglicare SA. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 27 Jul 2026 Questionnaire - Estia Health - Anglicare SA Attachment 117.75 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '27 Jul 2026', 'description': 'Questionnaire - Estia Health - Anglicare SA', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Estia%20Health-AnglicareSA%20-%20third-party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-04T02:48:03.492463Z",
+    "slug": "bain-capital-everllence",
+    "title": "Bain Capital - Everllence",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-everllence",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-04T02:48:03.492463Z",
+    "slug": "salesforce-contentful",
+    "title": "Salesforce - Contentful",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "4 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-20T11:29:32+10:00",
+        "new": "2026-08-04T11:31:45+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '4 Aug 2026', 'description': 'Salesforce - Contentful - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Salesforce%20-%20Contentful%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]
