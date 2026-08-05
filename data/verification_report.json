@@ -120,6 +120,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "google-wiz",
+    "title": "Google - Wiz",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-wiz",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "ampol-%E2%80%93-eg-australia",
     "title": "Ampol – EG Australia",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ampol-%E2%80%93-eg-australia",
@@ -144,21 +156,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "google-wiz",
-    "title": "Google - Wiz",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-wiz",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
-    "slug": "google-wiz",
-    "title": "Google - Wiz",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/google-wiz",
+    "slug": "xylem-trios",
+    "title": "Xylem - TriOS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/xylem-trios",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -168,57 +168,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "kfw-%E2%80%93-knds-nv",
-    "title": "KfW – KNDS N.V.",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "vets-central-claremont-veterinary-surgery",
-    "title": "Vets Central - Claremont Veterinary Surgery",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vets-central-claremont-veterinary-surgery",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "eagers-audi-melbourne-and-audi-richmond",
-    "title": "Eagers - Audi Melbourne and Audi Richmond",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eagers-audi-melbourne-and-audi-richmond",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "francisco-partners-blackline-safety",
-    "title": "Francisco Partners - Blackline Safety",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/francisco-partners-blackline-safety",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "platinum-equity-group-lmpg",
-    "title": "Platinum Equity Group - LMPG",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/platinum-equity-group-lmpg",
+    "slug": "argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
+    "title": "Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
