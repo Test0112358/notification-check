@@ -26332,5 +26332,97 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-05T08:40:06.806582Z",
+    "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
+    "title": "Johns Lyng Group – C&M Build Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-05T08:40:06.806582Z",
+    "slug": "hitech-group-australia-hudson-global-resources",
+    "title": "HiTech Group Australia - Hudson Global Resources",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-05T08:40:06.806582Z",
+    "slug": "salesforce-intercom",
+    "title": "Salesforce - Intercom",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesforce, Inc.; 0001108524",
+        "new": "Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce Holdings LLC; 5673469"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-29T17:06:29+10:00",
+        "new": "2026-08-05T15:54:01+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 5 August 2026 via email to mergers@accc.gov.au with the title Submission re: Salesforce - Intercom. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 29 Jul 2026 Questionnaire - Salesforce - Intercom Attachment 115.98 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '29 Jul 2026', 'description': 'Questionnaire - Salesforce - Intercom', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Salesforce%20-%20Intercom%20-%20Third-party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-05T08:40:06.806582Z",
+    "slug": "energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
+    "title": "Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "5 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-20T12:07:39+10:00",
+        "new": "2026-08-05T12:51:47+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '5 Aug 2026', 'description': 'Energy Bay - Centuria Capital - Phase 1 determination without conditions', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Energy%20Bay%20-%20Centuria%20Capital%20-%20Phase%201%20determination%20without%20conditions%20-%205%20August%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-05T08:40:06.806582Z",
+    "slug": "the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
+    "title": "The State of Western Australia – Mount Lawley Hospital",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

@@ -1,30 +1,30 @@
 {
-  "run_utc": "2026-08-05T02:45:29.746646Z",
+  "run_utc": "2026-08-05T08:40:06.806582Z",
   "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "bp-bp-gateway",
-      "title": "bp - bp Gateway",
-      "case_number": "MN-95033",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway",
+      "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
+      "title": "Johns Lyng Group – C&M Build Group",
+      "case_number": "MN-75035",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
       "date": "5 Aug 2026",
-      "description": "Questionnaire - bp - bp Gateway",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20bp%20-%20bp%20Gateway.docx",
-      "local_path": "data/consultation_docs/Questionnaire - bp - bp Gateway.docx",
-      "filename": "Questionnaire - bp - bp Gateway.docx",
-      "size_kb": 116.1
+      "description": "Questionnaire - Johns Lyng Group - C&M Build Group",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Johns%20Lyng%20Group%20-%20C%26M%20Build%20Group.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Johns Lyng Group - C_M Build Group.docx",
+      "filename": "Questionnaire - Johns Lyng Group - C_M Build Group.docx",
+      "size_kb": 116.3
     },
     {
-      "slug": "merivale-%E2%80%93-the-sackville-hotel",
-      "title": "MERIVALE – THE SACKVILLE HOTEL",
-      "case_number": "MN-35033",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+      "slug": "hitech-group-australia-hudson-global-resources",
+      "title": "HiTech Group Australia - Hudson Global Resources",
+      "case_number": "MN-95038",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
       "date": "5 Aug 2026",
-      "description": "Merivale - The Sackville Hotel - Third-party questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Merivale%20-%20The%20Sackville%20Hotel%20-%20Third-party%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Merivale - The Sackville Hotel - Third-party questionnaire.docx",
-      "filename": "Merivale - The Sackville Hotel - Third-party questionnaire.docx",
-      "size_kb": 116.7
+      "description": "Questionnaire HiTech Group Australia - Hudson Global Resources",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%3A%20HiTech%20Group%20Australia%20-%20Hudson%20Global%20Resources_0.docx",
+      "local_path": "data/consultation_docs/Questionnaire_ HiTech Group Australia - Hudson Global Resources_0.docx",
+      "filename": "Questionnaire_ HiTech Group Australia - Hudson Global Resources_0.docx",
+      "size_kb": 116.6
     }
   ]
 }

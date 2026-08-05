@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-05 02:45:29.746646,
-Last scrape run (AEST),05 Aug 2026  12:45,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-05 08:40:06.806582,
+Last scrape run (AEST),05 Aug 2026  18:40,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,520,
-New entries this run,2,
-Changed entries this run,1,
+Total entries monitored,523,
+New entries this run,3,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,23 +13,30 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway
-+ MERIVALE – THE SACKVILLE HOTEL,MN-35033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
+NEW ENTRIES (3),Case Number,URL
++ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
++ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
++ The State of Western Australia – Mount Lawley Hospital,WA-05037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-state-of-western-australia-%E2%80%93-mount-lawley-hospital
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee
-,Acquirers,AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC;  →  Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 10659200; AbbVie Inc.
-,Targets,"Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corporation; EIN - 33-208  →  Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutics, Inc.; EIN - 93495"
-,Last Modified Accc,2026-07-28T17:17:36+10:00  →  2026-08-05T10:38:01+10:00
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom
+,Other Parties,"Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesforce, Inc.; 00011085  →  Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce Holdings LLC; 56734"
+,Last Modified Accc,2026-07-29T17:06:29+10:00  →  2026-08-05T15:54:01+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'AbbVie - Apogee - Questionnaire', 'url': 'https://www.accc.  →  "
+,Consultation Docs,"[{'date': '29 Jul 2026', 'description': 'Questionnaire - Salesforce - Intercom', 'url': 'https://www  →  "
+,,
+~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  5 August 2026
+,Last Modified Accc,2026-07-20T12:07:39+10:00  →  2026-08-05T12:51:47+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '5 Aug 2026', 'description': 'Energy Bay - Centuria Capital - Phase 1 determination withou"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (32),Case Number,Detected (AEST)
-+ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,29 Jul  12:52
+NEW ENTRIES (33),Case Number,Detected (AEST)
 + Salesforce - Intercom,MN-40031,29 Jul  18:45
 + Kalari – De Gunst’s Gracemere Assets,WA-70028,29 Jul  18:45
 + Abu Dhabi Investment Authority – Barings Darling Square Holding Trust,WA-90026,29 Jul  18:45
@@ -61,8 +68,10 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 "+ Kanda Healthcare – Live Your Way, QLD",WA-75034,04 Aug  18:41
 "+ Community Enterprise Queensland - Island & Cape Community Stores (Aurukun, Hope Vale & Badu)",WA-95034,04 Aug  18:41
 + Count – O’Brien Accountants & Advisors,WA-30026,04 Aug  18:41
++ bp - bp Gateway,MN-95033,05 Aug  12:45
++ MERIVALE – THE SACKVILLE HOTEL,MN-35033,05 Aug  12:45
 ,,
-"CHANGED ENTRIES (19 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (20 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
 ~ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist
 ,Last Modified Accc,2026-07-22T11:14:11+10:00  →  2026-07-29T17:06:36+10:00  (29 Jul  18:45)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jul  18:45)
@@ -180,4 +189,11 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,Other Parties,Coles Group Limited; 11 004 089 936  →  COLES GROUP LIMITED; 11 004 089 936  (04 Aug  18:41)
 ,Last Modified Accc,2026-07-22T16:38:22+10:00  →  2026-08-04T17:17:55+10:00  (04 Aug  18:41)
 ,Decisions Docs,"[{'date': '21 Jul 2026', 'description': 'Notification waiver determination publi  →  [{'date': '22 Jul 2026', 'description': 'Notification waiver determination publi  (04 Aug  18:41)"
+,,
+~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee
+,Acquirers,AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor Merger Co.; DELAWARE FILE NO. -   →  Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 1  (05 Aug  12:45)
+,Targets,"Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corpo  →  Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutic  (05 Aug  12:45)"
+,Last Modified Accc,2026-07-28T17:17:36+10:00  →  2026-08-05T10:38:01+10:00  (05 Aug  12:45)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Aug  12:45)
+,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'AbbVie - Apogee - Questionnaire', 'url'  →    (05 Aug  12:45)"
 ,,
