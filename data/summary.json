@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-08-04T08:59:31.268702Z",
-  "total_entries": 518,
+  "generated_at_utc": "2026-08-05T03:07:44.819577Z",
+  "total_entries": 520,
   "by_acquisition_status": {
-    "Under assessment": 46,
+    "Under assessment": 48,
     "Assessment completed": 469,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 196,
+    "Phase 1 - initial assessment": 198,
     "Waiver application": 314,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 204,
+    "Notification": 206,
     "Waiver": 314
   },
   "by_accc_determination": {
@@ -25,13 +25,13 @@
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "12 Aug 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "partnered-health-ryan-plaza-medical-services",
       "title": "Partnered Health - Ryan Plaza Medical Services",
       "end_of_determination_period": "14 Aug 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }

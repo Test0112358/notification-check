@@ -1,18 +1,30 @@
 {
-  "run_utc": "2026-08-04T08:41:42.054205Z",
-  "questionnaire_count": 1,
+  "run_utc": "2026-08-05T02:45:29.746646Z",
+  "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "karmosimplr",
-      "title": "Karmo/Simplr",
-      "case_number": "MN-15030",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr",
-      "date": "4 Aug 2026",
-      "description": "Questionnaire - Karmo/Simplr",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Simplr%20-%20Questionnaire_1.docx",
-      "local_path": "data/consultation_docs/Simplr - Questionnaire_1.docx",
-      "filename": "Simplr - Questionnaire_1.docx",
-      "size_kb": 61.7
+      "slug": "bp-bp-gateway",
+      "title": "bp - bp Gateway",
+      "case_number": "MN-95033",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway",
+      "date": "5 Aug 2026",
+      "description": "Questionnaire - bp - bp Gateway",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20bp%20-%20bp%20Gateway.docx",
+      "local_path": "data/consultation_docs/Questionnaire - bp - bp Gateway.docx",
+      "filename": "Questionnaire - bp - bp Gateway.docx",
+      "size_kb": 116.1
+    },
+    {
+      "slug": "merivale-%E2%80%93-the-sackville-hotel",
+      "title": "MERIVALE – THE SACKVILLE HOTEL",
+      "case_number": "MN-35033",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+      "date": "5 Aug 2026",
+      "description": "Merivale - The Sackville Hotel - Third-party questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Merivale%20-%20The%20Sackville%20Hotel%20-%20Third-party%20questionnaire.docx",
+      "local_path": "data/consultation_docs/Merivale - The Sackville Hotel - Third-party questionnaire.docx",
+      "filename": "Merivale - The Sackville Hotel - Third-party questionnaire.docx",
+      "size_kb": 116.7
     }
   ]
 }

@@ -26282,5 +26282,55 @@
         "new": "[{'date': '22 Jul 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20-%20supermarket%20site%20in%20Palmwoods%2C%20QLD%20%28WA-75030%29%20-%20Notification%20waiver%20determination%20-%2021%20July%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-05T02:45:29.746646Z",
+    "slug": "bp-bp-gateway",
+    "title": "bp - bp Gateway",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-05T02:45:29.746646Z",
+    "slug": "merivale-%E2%80%93-the-sackville-hotel",
+    "title": "MERIVALE – THE SACKVILLE HOTEL",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-05T02:45:29.746646Z",
+    "slug": "abbvie-apogee",
+    "title": "AbbVie - Apogee",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 10659200",
+        "new": "Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 10659200; AbbVie Inc.; DELAWARE FILE NO. - 5126809"
+      },
+      {
+        "field": "targets",
+        "old": "Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corporation; EIN - 33-2083626",
+        "new": "Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutics, Inc.; EIN - 934958665"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-28T17:17:36+10:00",
+        "new": "2026-08-05T10:38:01+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 04 August 2026 via email to mergers@accc.gov.au with the title Submission re: AbbVie - Apogee. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 28 Jul 2026 AbbVie - Apogee - Questionnaire Attachment 119.97 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '28 Jul 2026', 'description': 'AbbVie - Apogee - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/AbbVie%20-%20Apogee%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]
