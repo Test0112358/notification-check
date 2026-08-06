@@ -154,53 +154,5 @@
     "field": "anzsic_codes",
     "stored_value": "121 Beverage Manufacturing; 67 Property Operators and Real Estate Services",
     "expected_or_found": "at least one 4-digit code"
-  },
-  {
-    "slug": "fujifilm-%E2%80%93-endoscopy-distribution-business-in-australia",
-    "title": "Fujifilm – endoscopy distribution business in Australia",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fujifilm-%E2%80%93-endoscopy-distribution-business-in-australia",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "permira-and-warburg-pincus-clearwater-analytics",
-    "title": "Permira and Warburg Pincus - Clearwater Analytics",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/permira-and-warburg-pincus-clearwater-analytics",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "brookfield-%E2%80%93-world-freight-company",
-    "title": "Brookfield – World Freight Company",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brookfield-%E2%80%93-world-freight-company",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "northstar-%E2%80%93-business-assets-of-mildura-mazda",
-    "title": "Northstar – business assets of Mildura Mazda",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/northstar-%E2%80%93-business-assets-of-mildura-mazda",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
   }
 ]

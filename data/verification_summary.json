@@ -1,16 +1,15 @@
 {
-  "run_utc": "2026-08-06T03:09:58.491239Z",
-  "register_entries_checked": 525,
-  "layer3_sample_size": 78,
-  "total_issues": 17,
+  "run_utc": "2026-08-06T09:02:27.460035Z",
+  "register_entries_checked": 527,
+  "layer3_sample_size": 79,
+  "total_issues": 13,
   "errors": 0,
-  "warnings": 17,
+  "warnings": 13,
   "infos": 0,
   "passed": true,
   "issues_by_rule": {
     "COMPLETED_MISSING_PUB_DATE": 12,
-    "ANZSIC_NO_CODE_FOUND": 1,
-    "ENTRY_STORED_BUT_NOT_IN_LISTING": 4
+    "ANZSIC_NO_CODE_FOUND": 1
   },
   "error_entries": []
 }
