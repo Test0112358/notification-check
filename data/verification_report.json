@@ -156,9 +156,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "xylem-trios",
-    "title": "Xylem - TriOS",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/xylem-trios",
+    "slug": "fujifilm-%E2%80%93-endoscopy-distribution-business-in-australia",
+    "title": "Fujifilm – endoscopy distribution business in Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/fujifilm-%E2%80%93-endoscopy-distribution-business-in-australia",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -168,9 +168,33 @@
     "expected_or_found": ""
   },
   {
-    "slug": "argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
-    "title": "Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
+    "slug": "permira-and-warburg-pincus-clearwater-analytics",
+    "title": "Permira and Warburg Pincus - Clearwater Analytics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/permira-and-warburg-pincus-clearwater-analytics",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "brookfield-%E2%80%93-world-freight-company",
+    "title": "Brookfield – World Freight Company",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/brookfield-%E2%80%93-world-freight-company",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "northstar-%E2%80%93-business-assets-of-mildura-mazda",
+    "title": "Northstar – business assets of Mildura Mazda",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/northstar-%E2%80%93-business-assets-of-mildura-mazda",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
