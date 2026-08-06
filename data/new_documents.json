@@ -1,30 +1,30 @@
 {
-  "run_utc": "2026-08-06T02:48:10.358946Z",
+  "run_utc": "2026-08-06T08:41:13.593505Z",
   "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "danaher-leica-biosystems-statlab",
-      "title": "Danaher (Leica Biosystems) - StatLab",
-      "case_number": "MN-15031",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab",
+      "slug": "eli-lilly-and-company-ataibeckley-inc",
+      "title": "Eli Lilly and Company / AtaiBeckley Inc.",
+      "case_number": "MN-30030",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc",
       "date": "6 Aug 2026",
-      "description": "Questionnaire - Danaher (Leica Biosystems) - StatLab",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Danaher%20%28Leica%20Biosystems%29%20-%20StatLab.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Danaher _Leica Biosystems_ - StatLab.docx",
-      "filename": "Questionnaire - Danaher _Leica Biosystems_ - StatLab.docx",
+      "description": "Questionnaire - Eli Lilly - AtaiBeckley",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Eli%20Lilly%20and%20Company%20-%20AtaiBeckley%20Inc..docx",
+      "local_path": "data/consultation_docs/Questionnaire - Eli Lilly and Company - AtaiBeckley Inc..docx",
+      "filename": "Questionnaire - Eli Lilly and Company - AtaiBeckley Inc..docx",
       "size_kb": 116.3
     },
     {
-      "slug": "danone-%E2%80%93-made",
-      "title": "Danone – MADE",
-      "case_number": "MN-55031",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made",
+      "slug": "modaxo-conduent",
+      "title": "Modaxo - Conduent",
+      "case_number": "MN-25040",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent",
       "date": "6 Aug 2026",
-      "description": "Questionnaire - Danone - MADE",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Danone%20-%20MADE.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Danone - MADE.docx",
-      "filename": "Questionnaire - Danone - MADE.docx",
-      "size_kb": 116.0
+      "description": "Modaxo Conduent - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Modaxo%20Conduent%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Modaxo Conduent - Questionnaire.docx",
+      "filename": "Modaxo Conduent - Questionnaire.docx",
+      "size_kb": 116.3
     }
   ]
 }

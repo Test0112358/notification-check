@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-06 02:48:10.358946,
-Last scrape run (AEST),06 Aug 2026  12:48,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-06 08:41:13.593505,
+Last scrape run (AEST),06 Aug 2026  18:41,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,525,
+Total entries monitored,527,
 New entries this run,2,
-Changed entries this run,1,
+Changed entries this run,5,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,25 +14,42 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (2),Case Number,URL
-+ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab
-+ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made
++ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc
++ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
-,Last Modified Accc,2026-07-29T12:36:34+10:00  →  2026-08-05T15:02:02+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. The ACCC has prepared  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+CHANGED ENTRIES (5),Field changed,Old value  →  New value
+~ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
+,Last Modified Accc,2026-07-30T10:11:56+10:00  →  2026-08-06T14:27:48+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - MM Security - Mircon Security Products', 'u  →  "
+,,
+~ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/protech-activaterail
+,Last Modified Accc,2026-07-28T18:10:08+10:00  →  2026-08-06T12:54:28+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'Questionnaire - Protech - ActivateRail', 'url': 'https://ww  →  "
+,,
+~ Parker-Hannifin – CIRCOR A&D,MN-70026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  6 August 2026
+,Last Modified Accc,2026-07-23T19:06:58+10:00  →  2026-08-06T17:14:51+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '6 Aug 2026', 'description': 'Parker-Hannifin–CIRCOR A&D - Phase 1 determination', 'url': "
+,,
+~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
+,Last Modified Accc,2026-07-31T16:32:01+10:00  →  2026-08-06T17:21:19+10:00
+,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to secti  →  "
+,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July  →  "
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Last Modified Accc,2026-07-30T16:35:41+10:00  →  2026-08-06T16:47:45+10:00
+,Consultation Text,"On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Competition and Consumer A  →  "
+,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 - IAG - RACI', 'url':  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (32),Case Number,Detected (AEST)
-+ Accenture - Dragos,MN-50032,30 Jul  18:31
-+ Accenture - runZero,MN-60031,30 Jul  18:31
-+ EQT Fund Management S.à r.l. – Orikan Group,WA-60028,30 Jul  18:31
-+ PT AP Investment – Vitrinite,WA-60029,30 Jul  18:31
-+ AustralianSuper – Advanced Navigation,WA-35032,30 Jul  18:31
-+ HB Land and Satterley – Elimbah Land Joint Venture,WA-35024,30 Jul  18:31
-+ AngloGold Ashanti Australia – Matsa Lake Carey tenements,WA-80028,30 Jul  18:31
+NEW ENTRIES (27),Case Number,Detected (AEST)
 + M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,31 Jul  13:18
 + Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,31 Jul  13:18
 + Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,31 Jul  18:53
@@ -58,24 +75,11 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 + Johns Lyng Group – C&M Build Group,MN-75035,05 Aug  18:40
 + HiTech Group Australia - Hudson Global Resources,MN-95038,05 Aug  18:40
 + The State of Western Australia – Mount Lawley Hospital,WA-05037,05 Aug  18:40
++ Danaher (Leica Biosystems) - StatLab,MN-15031,06 Aug  12:48
++ Danone – MADE,MN-55031,06 Aug  12:48
 ,,
-"CHANGED ENTRIES (18 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
-~ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
-,Acquirers,MAG SOUTH COAST PTY LTD; 70 683 627 590; MCCARROLL PROPERTY HOLDINGS PTY LTD; 64  →  MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306; MAG SOUTH COAST PTY LTD; 70  (30 Jul  18:31)
-,Targets,COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; KINGHORN MOTORS PTY LTD; 33 000 2  →  Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust; COUN  (30 Jul  18:31)
-,Other Parties,MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD;   →  MAG BODY CORP PTY LTD; 93 676 724 495; MAG NORTHERN BEACHES PTY LTD; 21 659 209   (30 Jul  18:31)
-,Last Modified Accc,2026-07-22T16:59:59+10:00  →  2026-07-30T11:56:12+10:00  (30 Jul  18:31)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (30 Jul  18:31)
-,,
-~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
-,Last Modified Accc,2026-07-23T11:29:49+10:00  →  2026-07-30T15:04:59+10:00  (30 Jul  18:31)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jul  18:31)
-,Consultation Docs,"[{'date': '23 Jul 2026', 'description': 'Ambrose Construct Group - Major Loss Bu  →    (30 Jul  18:31)"
-,,
+"CHANGED ENTRIES (16 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,Targets,KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  →  VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  (30 Jul  18:31)
-,Last Modified Accc,2026-07-10T16:21:24+10:00  →  2026-07-30T17:49:13+10:00  (30 Jul  18:31)
-,Consultation Text,"The period for providing submissions or information in response to the ACCC’s Ph  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  (30 Jul  18:31)"
 ,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  (31 Jul  13:18)
 ,Last Modified Accc,2026-07-30T17:49:13+10:00  →  2026-07-31T10:05:05+10:00  (31 Jul  13:18)
 ,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  (31 Jul  13:18)"
@@ -83,11 +87,6 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,End Of Determination Period,12 Aug 2026  →  2 Sep 2026  (31 Jul  18:53)
 ,Last Modified Accc,2026-07-31T10:05:05+10:00  →  2026-07-31T16:32:01+10:00  (31 Jul  18:53)
 ,Decisions Docs,"  →  [{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  18:53)"
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Last Modified Accc,2026-07-22T16:46:45+10:00  →  2026-07-30T16:35:41+10:00  (30 Jul  18:31)
-,Consultation Text,"  →  On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Compet  (30 Jul  18:31)"
-,Consultation Docs,"  →  [{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 -  (30 Jul  18:31)"
 ,,
 ~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
 ,Acquisition Status,Under assessment  →  Assessment completed  (31 Jul  13:18)
@@ -175,4 +174,8 @@ NEW ENTRIES (32),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-20T12:07:39+10:00  →  2026-08-05T12:51:47+10:00  (05 Aug  18:40)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (05 Aug  18:40)
 ,Decisions Docs,"  →  [{'date': '5 Aug 2026', 'description': 'Energy Bay - Centuria Capital - Phase 1   (05 Aug  18:40)"
+,,
+~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
+,Last Modified Accc,2026-07-29T12:36:34+10:00  →  2026-08-05T15:02:02+10:00  (06 Aug  12:48)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. T  →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Aug  12:48)
 ,,
