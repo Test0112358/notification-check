@@ -1,30 +1,30 @@
 {
-  "run_utc": "2026-08-05T08:40:06.806582Z",
+  "run_utc": "2026-08-06T02:48:10.358946Z",
   "questionnaire_count": 2,
   "questionnaires": [
     {
-      "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
-      "title": "Johns Lyng Group – C&M Build Group",
-      "case_number": "MN-75035",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
-      "date": "5 Aug 2026",
-      "description": "Questionnaire - Johns Lyng Group - C&M Build Group",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Johns%20Lyng%20Group%20-%20C%26M%20Build%20Group.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Johns Lyng Group - C_M Build Group.docx",
-      "filename": "Questionnaire - Johns Lyng Group - C_M Build Group.docx",
+      "slug": "danaher-leica-biosystems-statlab",
+      "title": "Danaher (Leica Biosystems) - StatLab",
+      "case_number": "MN-15031",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab",
+      "date": "6 Aug 2026",
+      "description": "Questionnaire - Danaher (Leica Biosystems) - StatLab",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Danaher%20%28Leica%20Biosystems%29%20-%20StatLab.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Danaher _Leica Biosystems_ - StatLab.docx",
+      "filename": "Questionnaire - Danaher _Leica Biosystems_ - StatLab.docx",
       "size_kb": 116.3
     },
     {
-      "slug": "hitech-group-australia-hudson-global-resources",
-      "title": "HiTech Group Australia - Hudson Global Resources",
-      "case_number": "MN-95038",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
-      "date": "5 Aug 2026",
-      "description": "Questionnaire HiTech Group Australia - Hudson Global Resources",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%3A%20HiTech%20Group%20Australia%20-%20Hudson%20Global%20Resources_0.docx",
-      "local_path": "data/consultation_docs/Questionnaire_ HiTech Group Australia - Hudson Global Resources_0.docx",
-      "filename": "Questionnaire_ HiTech Group Australia - Hudson Global Resources_0.docx",
-      "size_kb": 116.6
+      "slug": "danone-%E2%80%93-made",
+      "title": "Danone – MADE",
+      "case_number": "MN-55031",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made",
+      "date": "6 Aug 2026",
+      "description": "Questionnaire - Danone - MADE",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Danone%20-%20MADE.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Danone - MADE.docx",
+      "filename": "Questionnaire - Danone - MADE.docx",
+      "size_kb": 116.0
     }
   ]
 }

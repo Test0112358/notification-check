@@ -26424,5 +26424,40 @@
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-06T02:48:10.358946Z",
+    "slug": "danaher-leica-biosystems-statlab",
+    "title": "Danaher (Leica Biosystems) - StatLab",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-06T02:48:10.358946Z",
+    "slug": "danone-%E2%80%93-made",
+    "title": "Danone – MADE",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-06T02:48:10.358946Z",
+    "slug": "kimberly-clark-corporation-kenvue-inc",
+    "title": "Kimberly-Clark Corporation - Kenvue Inc.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-29T12:36:34+10:00",
+        "new": "2026-08-05T15:02:02+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. Submissions or information in response to the questionnaire should be provided by 5 August 2026 via email to mergers@accc.gov.au and mergersru@accc.gov.au with the title Submission re: Kimberly-Clark-Kenvue. read more Kimberly-Clark - Kenvue - Questionnaire Attachment 110.45 KB Remedy offer - Kimberly-Clark - Kenvue - 28 July 2026 Attachment 689.96 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      }
+    ]
   }
 ]

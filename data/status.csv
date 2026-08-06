@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-05 08:40:06.806582,
-Last scrape run (AEST),05 Aug 2026  18:40,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-06 02:48:10.358946,
+Last scrape run (AEST),06 Aug 2026  12:48,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,523,
-New entries this run,3,
-Changed entries this run,2,
+Total entries monitored,525,
+New entries this run,2,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,34 +13,19 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
-+ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
-+ The State of Western Australia – Mount Lawley Hospital,WA-05037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-state-of-western-australia-%E2%80%93-mount-lawley-hospital
+NEW ENTRIES (2),Case Number,URL
++ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab
++ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom
-,Other Parties,"Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesforce, Inc.; 00011085  →  Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce Holdings LLC; 56734"
-,Last Modified Accc,2026-07-29T17:06:29+10:00  →  2026-08-05T15:54:01+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '29 Jul 2026', 'description': 'Questionnaire - Salesforce - Intercom', 'url': 'https://www  →  "
-,,
-~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  5 August 2026
-,Last Modified Accc,2026-07-20T12:07:39+10:00  →  2026-08-05T12:51:47+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '5 Aug 2026', 'description': 'Energy Bay - Centuria Capital - Phase 1 determination withou"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
+,Last Modified Accc,2026-07-29T12:36:34+10:00  →  2026-08-05T15:02:02+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. The ACCC has prepared  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (33),Case Number,Detected (AEST)
-+ Salesforce - Intercom,MN-40031,29 Jul  18:45
-+ Kalari – De Gunst’s Gracemere Assets,WA-70028,29 Jul  18:45
-+ Abu Dhabi Investment Authority – Barings Darling Square Holding Trust,WA-90026,29 Jul  18:45
-+ MM Security – Micron Security Products,MN-01115,30 Jul  12:37
+NEW ENTRIES (32),Case Number,Detected (AEST)
 + Accenture - Dragos,MN-50032,30 Jul  18:31
 + Accenture - runZero,MN-60031,30 Jul  18:31
 + EQT Fund Management S.à r.l. – Orikan Group,WA-60028,30 Jul  18:31
@@ -70,31 +55,11 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 + Count – O’Brien Accountants & Advisors,WA-30026,04 Aug  18:41
 + bp - bp Gateway,MN-95033,05 Aug  12:45
 + MERIVALE – THE SACKVILLE HOTEL,MN-35033,05 Aug  12:45
++ Johns Lyng Group – C&M Build Group,MN-75035,05 Aug  18:40
++ HiTech Group Australia - Hudson Global Resources,MN-95038,05 Aug  18:40
++ The State of Western Australia – Mount Lawley Hospital,WA-05037,05 Aug  18:40
 ,,
-"CHANGED ENTRIES (20 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
-~ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lor%C3%A9al-innovist
-,Last Modified Accc,2026-07-22T11:14:11+10:00  →  2026-07-29T17:06:36+10:00  (29 Jul  18:45)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (29 Jul  18:45)
-,Consultation Docs,"[{'date': '22 Jul 2026', 'description': ""L'Oréal - Innovist - Questionnaire"", 'u  →    (29 Jul  18:45)"
-,,
-~ Motorola Solutions - D-Fend Solutions,MN-05032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/motorola-solutions-d-fend-solutions
-,Acquisition Status,Under assessment  →  Assessment completed  (29 Jul  18:45)
-,Accc Determination,  →  Approved  (29 Jul  18:45)
-,Last Modified Accc,2026-07-16T16:38:50+10:00  →  2026-07-29T14:44:27+10:00  (29 Jul  18:45)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (29 Jul  18:45)
-,Decisions Docs,"  →  [{'date': '29 Jul 2026', 'description': 'Motorola Solutions - D-Fend Solutions -  (29 Jul  18:45)"
-,,
-~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
-,Last Modified Accc,2026-07-22T11:26:33+10:00  →  2026-07-29T21:21:06+10:00  (30 Jul  12:37)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jul  12:37)
-,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Vertex - Crinetics - Questionnaire', 'u  →    (30 Jul  12:37)"
-,,
-~ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
-,Other Parties,Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Pr  →  Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS;  (30 Jul  12:37)
-,Last Modified Accc,2026-07-22T14:47:16+10:00  →  2026-07-30T11:48:51+10:00  (30 Jul  12:37)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (30 Jul  12:37)
-,Consultation Docs,"[{'date': '22 Jul 2026', 'description': 'Sanad and Tikehau-Revima - Third party   →    (30 Jul  12:37)"
-,,
+"CHANGED ENTRIES (18 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
 ,Acquirers,MAG SOUTH COAST PTY LTD; 70 683 627 590; MCCARROLL PROPERTY HOLDINGS PTY LTD; 64  →  MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306; MAG SOUTH COAST PTY LTD; 70  (30 Jul  18:31)
 ,Targets,COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; KINGHORN MOTORS PTY LTD; 33 000 2  →  Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust; COUN  (30 Jul  18:31)
@@ -196,4 +161,18 @@ NEW ENTRIES (33),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-28T17:17:36+10:00  →  2026-08-05T10:38:01+10:00  (05 Aug  12:45)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Aug  12:45)
 ,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'AbbVie - Apogee - Questionnaire', 'url'  →    (05 Aug  12:45)"
+,,
+~ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom
+,Other Parties,"Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesf  →  Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce  (05 Aug  18:40)"
+,Last Modified Accc,2026-07-29T17:06:29+10:00  →  2026-08-05T15:54:01+10:00  (05 Aug  18:40)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Aug  18:40)
+,Consultation Docs,"[{'date': '29 Jul 2026', 'description': 'Questionnaire - Salesforce - Intercom',  →    (05 Aug  18:40)"
+,,
+~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
+,Acquisition Status,Under assessment  →  Assessment completed  (05 Aug  18:40)
+,Accc Determination,  →  Approved  (05 Aug  18:40)
+,Determination Publication Date,  →  5 August 2026  (05 Aug  18:40)
+,Last Modified Accc,2026-07-20T12:07:39+10:00  →  2026-08-05T12:51:47+10:00  (05 Aug  18:40)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (05 Aug  18:40)
+,Decisions Docs,"  →  [{'date': '5 Aug 2026', 'description': 'Energy Bay - Centuria Capital - Phase 1   (05 Aug  18:40)"
 ,,
