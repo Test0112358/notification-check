@@ -156,9 +156,45 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "airtree-%E2%80%93-hotdoc-0",
-    "title": "Airtree – HotDoc",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
+    "slug": "metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
+    "title": "Metro Petroleum – Retail sites part of divestiture remedy from Ampol-EG acquisition",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metro-petroleum-%E2%80%93-retail-sites-part-of-divestiture-remedy-from-ampol-eg-acquisition",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "impression-dental-group-%E2%80%93-kingston-beach-dental-tas",
+    "title": "Impression Dental Group – Kingston Beach Dental, TAS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/impression-dental-group-%E2%80%93-kingston-beach-dental-tas",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+    "title": "Volt Managed Investment Trusts – HMC Energy Transition Platform",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/volt-managed-investment-trusts-%E2%80%93-hmc-energy-transition-platform",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "metcash-foodland-flagstaff-hill-south-australia",
+    "title": "Metcash - Foodland Flagstaff Hill, South Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metcash-foodland-flagstaff-hill-south-australia",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
