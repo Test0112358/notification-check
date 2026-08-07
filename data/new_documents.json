@@ -1,30 +1,18 @@
 {
-  "run_utc": "2026-08-06T08:41:13.593505Z",
-  "questionnaire_count": 2,
+  "run_utc": "2026-08-07T02:47:56.353055Z",
+  "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "eli-lilly-and-company-ataibeckley-inc",
-      "title": "Eli Lilly and Company / AtaiBeckley Inc.",
-      "case_number": "MN-30030",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc",
-      "date": "6 Aug 2026",
-      "description": "Questionnaire - Eli Lilly - AtaiBeckley",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Eli%20Lilly%20and%20Company%20-%20AtaiBeckley%20Inc..docx",
-      "local_path": "data/consultation_docs/Questionnaire - Eli Lilly and Company - AtaiBeckley Inc..docx",
-      "filename": "Questionnaire - Eli Lilly and Company - AtaiBeckley Inc..docx",
-      "size_kb": 116.3
-    },
-    {
-      "slug": "modaxo-conduent",
-      "title": "Modaxo - Conduent",
-      "case_number": "MN-25040",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent",
-      "date": "6 Aug 2026",
-      "description": "Modaxo Conduent - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Modaxo%20Conduent%20-%20Questionnaire.docx",
-      "local_path": "data/consultation_docs/Modaxo Conduent - Questionnaire.docx",
-      "filename": "Modaxo Conduent - Questionnaire.docx",
-      "size_kb": 116.3
+      "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+      "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+      "case_number": "MN-65021",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+      "date": "7 Aug 2026",
+      "description": "Questionnaire - Wesfarmers and Built Group – Built Living Joint Venture",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Wesfarmers%20and%20Built%20Group%20%E2%80%93%20Built%20Living%20Joint%20Venture.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Wesfarmers and Built Group _ Built Living Joint Venture.docx",
+      "filename": "Questionnaire - Wesfarmers and Built Group _ Built Living Joint Venture.docx",
+      "size_kb": 116.4
     }
   ]
 }

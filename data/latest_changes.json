@@ -1,142 +1,71 @@
 {
-  "run_utc": "2026-08-06T08:41:13.593505Z",
-  "new_count": 2,
-  "changed_count": 5,
+  "run_utc": "2026-08-07T02:47:56.353055Z",
+  "new_count": 1,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "eli-lilly-and-company-ataibeckley-inc",
-      "title": "Eli Lilly and Company / AtaiBeckley Inc.",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc"
-    },
-    {
-      "slug": "modaxo-conduent",
-      "title": "Modaxo - Conduent",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent"
+      "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+      "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture"
     }
   ],
   "changed_entries": [
     {
-      "slug": "mm-security-%E2%80%93-micron-security-products",
-      "title": "MM Security – Micron Security Products",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products",
+      "slug": "accenture-dragos",
+      "title": "Accenture - Dragos",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos",
       "changes": [
         {
+          "field": "targets",
+          "old": "Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 10549306; PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616",
+          "new": "PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616; Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 10549306"
+        },
+        {
+          "field": "other_parties",
+          "old": "Accenture plc; Ireland registered number - 471706; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328",
+          "new": "ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; Accenture plc; Ireland registered number - 471706"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-07-30T10:11:56+10:00",
-          "new": "2026-08-06T14:27:48+10:00"
+          "old": "2026-07-30T15:34:40+10:00",
+          "new": "2026-08-06T15:23:43+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 August 2026 via email to mergers@accc.gov.au with the title Submission re: MM Security – Micron Security Products. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jul 2026 Questionnaire - MM Security - Mircon Security Products Attachment 116.25 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 August 2026 via email to mergers@accc.gov.au with the title Submission re: Accenture– Acquisitions. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jul 2026 Questionnaire - Accenture - Acquisitions Attachment 117.07 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - MM Security - Mircon Security Products', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20MM%20Security%20-%20Micron%20Security%20Products.docx'}]",
+          "old": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisitions', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Accenture%20-%20Acquisitions.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "protech-activaterail",
-      "title": "Protech - ActivateRail",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/protech-activaterail",
+      "slug": "accenture-runzero",
+      "title": "Accenture - runZero",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero",
       "changes": [
         {
+          "field": "other_parties",
+          "old": "CYBERCX PTY LTD; 90 629 363 328; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; Accenture Inc.; Delaware registered number - 3387477; Accenture plc; Ireland registered number - 471706",
+          "new": "CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; Accenture plc; Ireland registered number - 471706"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-07-28T18:10:08+10:00",
-          "new": "2026-08-06T12:54:28+10:00"
+          "old": "2026-07-30T15:35:29+10:00",
+          "new": "2026-08-06T15:27:35+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 5 August 2026 via email to mergers@accc.gov.au with the title Submission re: Protech - ActivateRail. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 28 Jul 2026 Questionnaire - Protech - ActivateRail Attachment 116.1 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 August 2026 via email to mergers@accc.gov.au with the title Submission re: Accenture– Acquisitions. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jul 2026 Questionnaire - Accenture - Acquisitions Attachment 117.07 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '28 Jul 2026', 'description': 'Questionnaire - Protech - ActivateRail', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Protech%20-%20ActivateRail%20-%20third%20party%20questionnaire%20-%2028%20July%202026.docx'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "parker-hannifin-%E2%80%93-circor-ad",
-      "title": "Parker-Hannifin – CIRCOR A&D",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "6 August 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-23T19:06:58+10:00",
-          "new": "2026-08-06T17:14:51+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '6 Aug 2026', 'description': 'Parker-Hannifin–CIRCOR A&D - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Parker-Hannifin%E2%80%93CIRCOR%20A%26D%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "journey-beyond-sealink-rottnest",
-      "title": "Journey Beyond - SeaLink Rottnest",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-31T16:32:01+10:00",
-          "new": "2026-08-06T17:21:19+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaking pursuant to section 87B of the Competition and Consumer Act 2010 (Cth), which would include behavioural commitments in relation to service levels, pricing, investment in the ferry fleet, the forfeiture of berthing slots, and the monitoring of their compliance with the obligations in the undertaking (the remedy offer). Submissions or comments about this remedy offer should be provided by 5:00pm AEST on 4 August 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title submission re: Journey Beyond (EAG) / SeaLink Rottnest. read more 30 Jul 2026 Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer Attachment 117.8 KB 30 Jul 2026 Remedy offer - 29 July 2026 - Journey Beyond (EAG) - SeaLink Rottnest Attachment 374.17 KB",
-          "new": ""
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLink Rottnest - 29 July 2026 - Remedy Offer', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Journey%20Beyond%20-%20SeaLink%20Rottnest%20-%2029%20July%202026%20-%20Remedy%20Offer.docx'}, {'date': '30 Jul 2026', 'description': 'Remedy offer - 29 July 2026 - Journey Beyond (EAG) - SeaLink Rottnest', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Remedy%20offer%20-%2029%20July%202026%20-%20Journey%20Beyond%20%28EAG%29%20-%20SeaLink%20Rottnest.pdf'}]",
-          "new": ""
-        }
-      ]
-    },
-    {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-30T16:35:41+10:00",
-          "new": "2026-08-06T16:47:45+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth) with respect to its remedy offer of 1 July 2026. On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth) with respect to its remedy offer of 1 July 2026. Submissions or comments about the draft undertaking should be provided by 5:00pm AEST on 6 August 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au with the title submission re: IAG – RACI – Draft undertaking. read more 28 Jul 2026 Draft s87B Undertaking - 28 July 2026 - IAG - RACI Attachment 551.76 KB",
-          "new": ""
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 - IAG - RACI', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Draft%20s87B%20Undertaking%20-%2028%20July%202026%20-%20IAG%20-%20RACI.pdf'}]",
+          "old": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisitions', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Accenture%20-%20Acquisitions_0.docx'}]",
           "new": ""
         }
       ]

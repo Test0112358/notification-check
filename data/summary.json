@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-08-06T09:01:48.338467Z",
-  "total_entries": 527,
+  "generated_at_utc": "2026-08-07T03:12:21.565575Z",
+  "total_entries": 528,
   "by_acquisition_status": {
-    "Under assessment": 52,
+    "Under assessment": 53,
     "Assessment completed": 472,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 204,
+    "Phase 1 - initial assessment": 205,
     "Waiver application": 315,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 212,
+    "Notification": 213,
     "Waiver": 315
   },
   "by_accc_determination": {
@@ -25,13 +25,31 @@
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "12 Aug 2026",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "slug": "partnered-health-ryan-plaza-medical-services",
       "title": "Partnered Health - Ryan Plaza Medical Services",
       "end_of_determination_period": "14 Aug 2026",
-      "days_remaining": 8
+      "days_remaining": 7
+    },
+    {
+      "slug": "vsa-sprayline",
+      "title": "VSA - SprayLine",
+      "end_of_determination_period": "17 Aug 2026",
+      "days_remaining": 10
+    },
+    {
+      "slug": "black-rhino-club-hotel-motel-roma",
+      "title": "Black Rhino - Club Hotel Motel Roma",
+      "end_of_determination_period": "17 Aug 2026",
+      "days_remaining": 10
+    },
+    {
+      "slug": "microstar-logistics-konvoy",
+      "title": "MicroStar Logistics - Konvoy",
+      "end_of_determination_period": "17 Aug 2026",
+      "days_remaining": 10
     }
   ]
 }

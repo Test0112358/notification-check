@@ -26610,5 +26610,76 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-07T02:47:56.353055Z",
+    "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+    "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-07T02:47:56.353055Z",
+    "slug": "accenture-dragos",
+    "title": "Accenture - Dragos",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 10549306; PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616",
+        "new": "PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616; Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 10549306"
+      },
+      {
+        "field": "other_parties",
+        "old": "Accenture plc; Ireland registered number - 471706; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328",
+        "new": "ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; Accenture plc; Ireland registered number - 471706"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-30T15:34:40+10:00",
+        "new": "2026-08-06T15:23:43+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 August 2026 via email to mergers@accc.gov.au with the title Submission re: Accenture– Acquisitions. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jul 2026 Questionnaire - Accenture - Acquisitions Attachment 117.07 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisitions', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Accenture%20-%20Acquisitions.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-07T02:47:56.353055Z",
+    "slug": "accenture-runzero",
+    "title": "Accenture - runZero",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "CYBERCX PTY LTD; 90 629 363 328; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; Accenture Inc.; Delaware registered number - 3387477; Accenture plc; Ireland registered number - 471706",
+        "new": "CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; Accenture plc; Ireland registered number - 471706"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-30T15:35:29+10:00",
+        "new": "2026-08-06T15:27:35+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 August 2026 via email to mergers@accc.gov.au with the title Submission re: Accenture– Acquisitions. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 30 Jul 2026 Questionnaire - Accenture - Acquisitions Attachment 117.07 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisitions', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Accenture%20-%20Acquisitions_0.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]
