@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-07 02:47:56.353055,
-Last scrape run (AEST),07 Aug 2026  12:47,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-07 07:20:14.708382,
+Last scrape run (AEST),07 Aug 2026  17:20,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,528,
-New entries this run,1,
+Total entries monitored,530,
+New entries this run,2,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,29 +13,30 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+NEW ENTRIES (2),Case Number,URL
+"+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
++ Alter Domus - MSC Group,WA-05035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/alter-domus-msc-group
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos
-,Targets,"Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 105493  →  PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616; Dragos, Inc.; De"
-,Other Parties,Accenture plc; Ireland registered number - 471706; Accenture Inc.; Delaware registered number - 3387  →  ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; De
-,Last Modified Accc,2026-07-30T15:34:40+10:00  →  2026-08-06T15:23:43+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisitions', 'url': 'https://  →  "
+~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
+,Acquirers,M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Ene  →  Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 1995
+,Targets,Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd (In Liquidation); 97  →  Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd (In Liquidation); 34
+,Last Modified Accc,2026-07-31T10:20:15+10:00  →  2026-08-07T15:56:51+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'M Resources and Golden Energy and Resources - Tahmoor Coal   →  "
 ,,
-~ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero
-,Other Parties,CYBERCX PTY LTD; 90 629 363 328; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; Accenture Inc.; De  →  CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUS
-,Last Modified Accc,2026-07-30T15:35:29+10:00  →  2026-08-06T15:27:35+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisitions', 'url': 'https://  →  "
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Not approved
+,Determination Publication Date,  →  7 August 2026
+,Last Modified Accc,2026-07-01T16:46:07+10:00  →  2026-08-07T14:41:45+10:00
+,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s  →  "
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination', 'url': 'https://w"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (29),Case Number,Detected (AEST)
-+ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,31 Jul  13:18
-+ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,31 Jul  13:18
+NEW ENTRIES (28),Case Number,Detected (AEST)
 + Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,31 Jul  18:53
 + IKEA Australia – IP rights from Inter IKEA under new franchise agreement package,WA-80030,03 Aug  19:51
 + Vets Central – Lava Street Veterinary Clinic and Doggy Kinder,WA-40032,03 Aug  19:51
@@ -63,27 +64,16 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 + Danone – MADE,MN-55031,06 Aug  12:48
 + Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,06 Aug  18:41
 + Modaxo - Conduent,MN-25040,06 Aug  18:41
++ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,07 Aug  12:47
 ,,
-"CHANGED ENTRIES (20 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (21 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,Targets,VYSCOT PTY. LIMITED; 25 009 241 972; KELSIAN GROUP LIMITED; 49 109 078 257  →  KELSIAN GROUP LIMITED; 49 109 078 257; VYSCOT PTY. LIMITED; 25 009 241 972  (31 Jul  13:18)
-,Last Modified Accc,2026-07-30T17:49:13+10:00  →  2026-07-31T10:05:05+10:00  (31 Jul  13:18)
-,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →  On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  (31 Jul  13:18)"
-,Consultation Docs,"  →  [{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  (31 Jul  13:18)"
 ,End Of Determination Period,12 Aug 2026  →  2 Sep 2026  (31 Jul  18:53)
 ,Last Modified Accc,2026-07-31T10:05:05+10:00  →  2026-07-31T16:32:01+10:00  (31 Jul  18:53)
 ,Decisions Docs,"  →  [{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  18:53)"
 ,Last Modified Accc,2026-07-31T16:32:01+10:00  →  2026-08-06T17:21:19+10:00  (06 Aug  18:41)
 ,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →    (06 Aug  18:41)"
 ,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  →    (06 Aug  18:41)"
-,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Acquisition Status,Under assessment  →  Assessment completed  (31 Jul  13:18)
-,Accc Determination,  →  Approved with conditions  (31 Jul  13:18)
-,Determination Publication Date,  →  30 July 2026  (31 Jul  13:18)
-,Targets,MACHINERY SALES PTY LIMITED; 13 074 358 277; MACQUARIE GEOTECHNICAL PTY LIMITED;  →  MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED;  (31 Jul  13:18)
-,Last Modified Accc,2026-07-08T16:13:37+10:00  →  2026-07-31T09:18:21+10:00  (31 Jul  13:18)
-,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  →  [{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  13:18)"
 ,,
 ~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
 ,Last Modified Accc,2026-07-31T16:45:12+10:00  →  2026-08-03T10:30:43+10:00  (03 Aug  13:18)
@@ -190,4 +180,17 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-30T16:35:41+10:00  →  2026-08-06T16:47:45+10:00  (06 Aug  18:41)
 ,Consultation Text,"On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Compet  →    (06 Aug  18:41)"
 ,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 -  →    (06 Aug  18:41)"
+,,
+~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos
+,Targets,"Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware   →  PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 6  (07 Aug  12:47)"
+,Other Parties,Accenture plc; Ireland registered number - 471706; Accenture Inc.; Delaware regi  →  ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328  (07 Aug  12:47)
+,Last Modified Accc,2026-07-30T15:34:40+10:00  →  2026-08-06T15:23:43+10:00  (07 Aug  12:47)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (07 Aug  12:47)
+,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisition  →    (07 Aug  12:47)"
+,,
+~ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero
+,Other Parties,CYBERCX PTY LTD; 90 629 363 328; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895  →  CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 33  (07 Aug  12:47)
+,Last Modified Accc,2026-07-30T15:35:29+10:00  →  2026-08-06T15:27:35+10:00  (07 Aug  12:47)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (07 Aug  12:47)
+,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisition  →    (07 Aug  12:47)"
 ,,

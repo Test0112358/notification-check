@@ -1,18 +1,18 @@
 {
-  "run_utc": "2026-08-07T02:47:56.353055Z",
+  "run_utc": "2026-08-07T07:20:14.708382Z",
   "questionnaire_count": 1,
   "questionnaires": [
     {
-      "slug": "wesfarmers-and-built-group-built-living-joint-venture",
-      "title": "Wesfarmers and Built Group - Built Living Joint Venture",
-      "case_number": "MN-65021",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+      "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
+      "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
+      "case_number": "MN-15034",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
       "date": "7 Aug 2026",
-      "description": "Questionnaire - Wesfarmers and Built Group – Built Living Joint Venture",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Wesfarmers%20and%20Built%20Group%20%E2%80%93%20Built%20Living%20Joint%20Venture.docx",
-      "local_path": "data/consultation_docs/Questionnaire - Wesfarmers and Built Group _ Built Living Joint Venture.docx",
-      "filename": "Questionnaire - Wesfarmers and Built Group _ Built Living Joint Venture.docx",
-      "size_kb": 116.4
+      "description": "Questionnaire - Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20AVC%20assets%20of%20Black%20Nugget%20Hotel%20Motel%2C%20Bartletts%20Tavern%20and%20all%20associated%20detached%20bottle%20shops.docx",
+      "local_path": "data/consultation_docs/Questionnaire - AVC assets of Black Nugget Hotel Motel_ Bartletts Tavern and all associated detached bottle shops.docx",
+      "filename": "Questionnaire - AVC assets of Black Nugget Hotel Motel_ Bartletts Tavern and all associated detached bottle shops.docx",
+      "size_kb": 116.2
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-08-07T03:12:21.565575Z",
-  "total_entries": 528,
+  "generated_at_utc": "2026-08-07T07:43:38.780819Z",
+  "total_entries": 530,
   "by_acquisition_status": {
     "Under assessment": 53,
-    "Assessment completed": 472,
+    "Assessment completed": 474,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 205,
-    "Waiver application": 315,
+    "Phase 1 - initial assessment": 206,
+    "Waiver application": 316,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 213,
-    "Waiver": 315
+    "Notification": 214,
+    "Waiver": 316
   },
   "by_accc_determination": {
-    "Approved": 455,
+    "Approved": 456,
     "Approved with conditions": 2,
-    "Not approved": 15
+    "Not approved": 16
   },
   "decisions_due_within_10_days": [
     {
@@ -42,12 +42,6 @@
     {
       "slug": "black-rhino-club-hotel-motel-roma",
       "title": "Black Rhino - Club Hotel Motel Roma",
-      "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 10
-    },
-    {
-      "slug": "microstar-logistics-konvoy",
-      "title": "MicroStar Logistics - Konvoy",
       "end_of_determination_period": "17 Aug 2026",
       "days_remaining": 10
     }
