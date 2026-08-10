@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-07 07:20:14.708382,
-Last scrape run (AEST),07 Aug 2026  17:20,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-10 02:01:39.901952,
+Last scrape run (AEST),10 Aug 2026  12:01,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,530,
-New entries this run,2,
+Total entries monitored,531,
+New entries this run,1,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,31 +13,28 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-"+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
-+ Alter Domus - MSC Group,WA-05035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/alter-domus-msc-group
+NEW ENTRIES (1),Case Number,URL
++ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
-,Acquirers,M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Ene  →  Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 1995
-,Targets,Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd (In Liquidation); 97  →  Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd (In Liquidation); 34
-,Last Modified Accc,2026-07-31T10:20:15+10:00  →  2026-08-07T15:56:51+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'M Resources and Golden Energy and Resources - Tahmoor Coal   →  "
+~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
+,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone TopCo, LP; EIN 41-439  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Horizon Parent, L.P.; E"
+,Last Modified Accc,2026-07-31T10:33:02+10:00  →  2026-08-10T10:12:26+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'Global Infrastructure Management and EQT led consortium - A  →  "
 ,,
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
 ,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Not approved
-,Determination Publication Date,  →  7 August 2026
-,Last Modified Accc,2026-07-01T16:46:07+10:00  →  2026-08-07T14:41:45+10:00
-,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s  →  "
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination', 'url': 'https://w"
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  8 August 2026
+,Last Modified Accc,2026-07-13T09:11:16+10:00  →  2026-08-10T09:20:51+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Services', 'url': 'htt"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (28),Case Number,Detected (AEST)
-+ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,31 Jul  18:53
+NEW ENTRIES (29),Case Number,Detected (AEST)
 + IKEA Australia – IP rights from Inter IKEA under new franchise agreement package,WA-80030,03 Aug  19:51
 + Vets Central – Lava Street Veterinary Clinic and Doggy Kinder,WA-40032,03 Aug  19:51
 "+ Impression Dental Group – Kingston Beach Dental, TAS",WA-20029,03 Aug  19:51
@@ -65,16 +62,10 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 + Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,06 Aug  18:41
 + Modaxo - Conduent,MN-25040,06 Aug  18:41
 + Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,07 Aug  12:47
+"+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,07 Aug  17:20
++ Alter Domus - MSC Group,WA-05035,07 Aug  17:20
 ,,
-"CHANGED ENTRIES (21 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
-~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,End Of Determination Period,12 Aug 2026  →  2 Sep 2026  (31 Jul  18:53)
-,Last Modified Accc,2026-07-31T10:05:05+10:00  →  2026-07-31T16:32:01+10:00  (31 Jul  18:53)
-,Decisions Docs,"  →  [{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days –  (31 Jul  18:53)"
-,Last Modified Accc,2026-07-31T16:32:01+10:00  →  2026-08-06T17:21:19+10:00  (06 Aug  18:41)
-,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →    (06 Aug  18:41)"
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  →    (06 Aug  18:41)"
-,,
+"CHANGED ENTRIES (23 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
 ,Last Modified Accc,2026-07-31T16:45:12+10:00  →  2026-08-03T10:30:43+10:00  (03 Aug  13:18)
 ,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (03 Aug  13:18)
@@ -176,6 +167,11 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (06 Aug  18:41)
 ,Decisions Docs,"  →  [{'date': '6 Aug 2026', 'description': 'Parker-Hannifin–CIRCOR A&D - Phase 1 det  (06 Aug  18:41)"
 ,,
+~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
+,Last Modified Accc,2026-07-31T16:32:01+10:00  →  2026-08-06T17:21:19+10:00  (06 Aug  18:41)
+,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →    (06 Aug  18:41)"
+,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  →    (06 Aug  18:41)"
+,,
 ~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
 ,Last Modified Accc,2026-07-30T16:35:41+10:00  →  2026-08-06T16:47:45+10:00  (06 Aug  18:41)
 ,Consultation Text,"On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Compet  →    (06 Aug  18:41)"
@@ -193,4 +189,19 @@ NEW ENTRIES (28),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-30T15:35:29+10:00  →  2026-08-06T15:27:35+10:00  (07 Aug  12:47)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (07 Aug  12:47)
 ,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisition  →    (07 Aug  12:47)"
+,,
+~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
+,Acquirers,M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697  →  Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources  (07 Aug  17:20)
+,Targets,Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd   →  Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd   (07 Aug  17:20)
+,Last Modified Accc,2026-07-31T10:20:15+10:00  →  2026-08-07T15:56:51+10:00  (07 Aug  17:20)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (07 Aug  17:20)
+,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'M Resources and Golden Energy and Resou  →    (07 Aug  17:20)"
+,,
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Acquisition Status,Under assessment  →  Assessment completed  (07 Aug  17:20)
+,Accc Determination,  →  Not approved  (07 Aug  17:20)
+,Determination Publication Date,  →  7 August 2026  (07 Aug  17:20)
+,Last Modified Accc,2026-07-01T16:46:07+10:00  →  2026-08-07T14:41:45+10:00  (07 Aug  17:20)
+,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →    (07 Aug  17:20)"
+,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  (07 Aug  17:20)"
 ,,

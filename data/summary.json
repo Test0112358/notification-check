@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-07T07:43:38.780819Z",
-  "total_entries": 530,
+  "generated_at_utc": "2026-08-10T02:26:15.643032Z",
+  "total_entries": 531,
   "by_acquisition_status": {
     "Under assessment": 53,
-    "Assessment completed": 474,
+    "Assessment completed": 475,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 206,
+    "Phase 1 - initial assessment": 207,
     "Waiver application": 316,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 214,
+    "Notification": 215,
     "Waiver": 316
   },
   "by_accc_determination": {
-    "Approved": 456,
+    "Approved": 457,
     "Approved with conditions": 2,
     "Not approved": 16
   },
@@ -25,25 +25,31 @@
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "12 Aug 2026",
-      "days_remaining": 5
-    },
-    {
-      "slug": "partnered-health-ryan-plaza-medical-services",
-      "title": "Partnered Health - Ryan Plaza Medical Services",
-      "end_of_determination_period": "14 Aug 2026",
-      "days_remaining": 7
+      "days_remaining": 2
     },
     {
       "slug": "vsa-sprayline",
       "title": "VSA - SprayLine",
       "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 10
+      "days_remaining": 7
     },
     {
       "slug": "black-rhino-club-hotel-motel-roma",
       "title": "Black Rhino - Club Hotel Motel Roma",
       "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 10
+      "days_remaining": 7
+    },
+    {
+      "slug": "analogic-leidos-ses-business",
+      "title": "Analogic - Leidos SES business",
+      "end_of_determination_period": "19 Aug 2026",
+      "days_remaining": 9
+    },
+    {
+      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+      "title": "Vets Central – Hills Veterinary Centre",
+      "end_of_determination_period": "19 Aug 2026",
+      "days_remaining": 9
     }
   ]
 }

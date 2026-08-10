@@ -1,57 +1,47 @@
 {
-  "run_utc": "2026-08-07T07:20:14.708382Z",
-  "new_count": 2,
+  "run_utc": "2026-08-10T02:01:39.901952Z",
+  "new_count": 1,
   "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
-      "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops"
-    },
-    {
-      "slug": "alter-domus-msc-group",
-      "title": "Alter Domus - MSC Group",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/alter-domus-msc-group"
+      "slug": "osmoflo-water-management-guidera-oconnor",
+      "title": "Osmoflo Water Management - Guidera O'Connor",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor"
     }
   ],
   "changed_entries": [
     {
-      "slug": "m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
-      "title": "M Resources and Golden Energy and Resources – Tahmoor Coal Mine",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
+      "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+      "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
       "changes": [
         {
           "field": "acquirers",
-          "old": "M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 199508589E",
-          "new": "Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 199508589E; M Resources Pty Ltd; 67 151 351 790"
-        },
-        {
-          "field": "targets",
-          "old": "Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968",
-          "new": "Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276"
+          "old": "QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone TopCo, LP; EIN 41-4395672; Qatar Holding LLC; CIK: 0001539025, Qatar Financial Centre no. 00004; Horizon Parent, L.P.; EIN 414485659; GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number)",
+          "new": "GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Horizon Parent, L.P.; EIN 414485659; EQT Keystone TopCo, LP; EIN 41-4395672; QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; Qatar Holding LLC; CIK: 0001539025, Qatar Financial Centre no. 00004"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-31T10:20:15+10:00",
-          "new": "2026-08-07T15:56:51+10:00"
+          "old": "2026-07-31T10:33:02+10:00",
+          "new": "2026-08-10T10:12:26+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the Questionnaire should be provided by 7 August 2026 via email to mergers@accc.gov.au with the title Submission re: M Resources and Golden Energy and Resources – Tahmoor Coal Mine. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 31 Jul 2026 M Resources and Golden Energy and Resources - Tahmoor Coal Mine - Questionnaire Attachment 117.15 KB",
-          "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 7 August 2026 via email to mergers@accc.gov.au with the title Submission re: Global Infrastructure Management and EQT led consortium - AES Corporation. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 31 Jul 2026 Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire Attachment 116.46 KB",
+          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '31 Jul 2026', 'description': 'M Resources and Golden Energy and Resources - Tahmoor Coal Mine - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/M%20Resources%20and%20Golden%20Energy%20and%20Resources%20%E2%80%93%20Tahmoor%20Coal%20Mine%20-%20Questionnaire_0.docx'}]",
+          "old": "[{'date': '31 Jul 2026', 'description': 'Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Global%20Infrastructure%20Management%20and%20EQT%20led%20consortium%20-%20AES%20Corporation%20-%20Questionnaire.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "microstar-logistics-konvoy",
-      "title": "MicroStar Logistics - Konvoy",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy",
+      "slug": "partnered-health-ryan-plaza-medical-services",
+      "title": "Partnered Health - Ryan Plaza Medical Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
       "changes": [
         {
           "field": "acquisition_status",
@@ -61,27 +51,27 @@
         {
           "field": "accc_determination",
           "old": "",
-          "new": "Not approved"
+          "new": "Approved"
         },
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "7 August 2026"
+          "new": "8 August 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-07-01T16:46:07+10:00",
-          "new": "2026-08-07T14:41:45+10:00"
+          "old": "2026-07-13T09:11:16+10:00",
+          "new": "2026-08-10T09:20:51+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Ke On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an undertaking pursuant to s87B of the Competition and Consumer Act 2010 (Cth), which places obligations on Kegstar to not enforce exclusivity provisions for a period of time, offer existing Konvoy customers Kegstar contracts on specified terms if requested, provide customers the option to purchase kegs in certain circumstances, and incorporate key performance indicators into all Customer Contracts (the remedy offer). The period for providing submissions or information in response to the ACCC's remedy offer questionnaire has concluded. read more",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_2.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]",
-          "new": "[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Phase%202%20Determination%20AR%20version%20-%207%20August%202026_0.pdf'}, {'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar_Konvoy%20-%20Final%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%207%20August%202026_0.pdf'}, {'date': '13 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_1.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026_0.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
+          "old": "",
+          "new": "[{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Services', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Partnered%20Health-Ryan%20Plaza%20Medical%20Services%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }
