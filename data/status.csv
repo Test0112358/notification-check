@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-10 02:01:39.901952,
-Last scrape run (AEST),10 Aug 2026  12:01,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-10 07:46:40.079043,
+Last scrape run (AEST),10 Aug 2026  17:46,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,531,
-New entries this run,1,
-Changed entries this run,2,
+Total entries monitored,533,
+New entries this run,2,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,28 +13,37 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
+NEW ENTRIES (2),Case Number,URL
++ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
++ Apollo - Bayer Asset Management,WA-70029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-bayer-asset-management
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
-,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone TopCo, LP; EIN 41-439  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Horizon Parent, L.P.; E"
-,Last Modified Accc,2026-07-31T10:33:02+10:00  →  2026-08-10T10:12:26+10:00
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+,Last Modified Accc,2026-08-03T10:30:43+10:00  →  2026-08-10T16:40:54+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'Global Infrastructure Management and EQT led consortium - A  →  "
+,Consultation Docs,"[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bul  →  "
 ,,
-~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
+~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
+,End Of Determination Period,27 Aug 2026  →  10 Sep 2026
+,Other Parties,SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYM  →  UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAPPI TRADING AUSTRALIA
+,Last Modified Accc,2026-07-23T16:22:52+10:00  →  2026-08-10T13:12:13+10:00
+,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request b"
+,,
+~ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  8 August 2026
-,Last Modified Accc,2026-07-13T09:11:16+10:00  →  2026-08-10T09:20:51+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Services', 'url': 'htt"
+,Last Modified Accc,2026-07-24T17:29:34+10:00  →  2026-08-10T16:40:55+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Acrow - Ausgroup Industrial Services - Phase 1 Determinatio"
+,,
+~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+,Last Modified Accc,2026-07-08T08:17:10+10:00  →  2026-08-10T16:02:39+10:00
+,Decisions Docs,"[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'ur  →  [{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (29),Case Number,Detected (AEST)
+NEW ENTRIES (30),Case Number,Detected (AEST)
 + IKEA Australia – IP rights from Inter IKEA under new franchise agreement package,WA-80030,03 Aug  19:51
 + Vets Central – Lava Street Veterinary Clinic and Doggy Kinder,WA-40032,03 Aug  19:51
 "+ Impression Dental Group – Kingston Beach Dental, TAS",WA-20029,03 Aug  19:51
@@ -64,18 +73,9 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 + Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,07 Aug  12:47
 "+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,07 Aug  17:20
 + Alter Domus - MSC Group,WA-05035,07 Aug  17:20
++ Osmoflo Water Management - Guidera O'Connor,MN-35031,10 Aug  12:01
 ,,
 "CHANGED ENTRIES (23 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
-~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
-,Last Modified Accc,2026-07-31T16:45:12+10:00  →  2026-08-03T10:30:43+10:00  (03 Aug  13:18)
-,Consultation Text,  →  The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   (03 Aug  13:18)
-,Consultation Docs,"  →  [{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics   (03 Aug  13:18)"
-,,
-"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
-,Last Modified Accc,2026-07-24T15:52:13+10:00  →  2026-08-03T10:40:08+10:00  (03 Aug  13:18)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (03 Aug  13:18)
-,Consultation Docs,"[{'date': '24 Jul 2026', 'description': 'Questionnaire', 'url': 'https://www.acc  →    (03 Aug  13:18)"
-,,
 ~ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
 ,Acquirers,Obayashi Corporation; 86 002 932 756; Obayashi UK Holdings Limited; UK Company N  →  Obayashi UK Holdings Limited; UK Company No.17229281; Obayashi Corporation; 86 0  (03 Aug  19:51)
 ,Last Modified Accc,2026-07-27T17:10:42+10:00  →  2026-08-03T18:19:05+10:00  (03 Aug  19:51)
@@ -204,4 +204,18 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-01T16:46:07+10:00  →  2026-08-07T14:41:45+10:00  (07 Aug  17:20)
 ,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →    (07 Aug  17:20)"
 ,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  (07 Aug  17:20)"
+,,
+~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
+,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone T  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Hor  (10 Aug  12:01)"
+,Last Modified Accc,2026-07-31T10:33:02+10:00  →  2026-08-10T10:12:26+10:00  (10 Aug  12:01)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Aug  12:01)
+,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'Global Infrastructure Management and EQ  →    (10 Aug  12:01)"
+,,
+~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Aug  12:01)
+,Accc Determination,  →  Approved  (10 Aug  12:01)
+,Determination Publication Date,  →  8 August 2026  (10 Aug  12:01)
+,Last Modified Accc,2026-07-13T09:11:16+10:00  →  2026-08-10T09:20:51+10:00  (10 Aug  12:01)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Aug  12:01)
+,Decisions Docs,"  →  [{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Se  (10 Aug  12:01)"
 ,,

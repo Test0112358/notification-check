@@ -26846,5 +26846,127 @@
         "new": "[{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Services', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Partnered%20Health-Ryan%20Plaza%20Medical%20Services%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-10T07:46:40.079043Z",
+    "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-10T07:46:40.079043Z",
+    "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-03T10:30:43+10:00",
+        "new": "2026-08-10T16:40:54+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 August 2026 via email to mergers@accc.gov.au with the title Submission re: Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Aug 2026 Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets Attachment 116.83 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Silk%20Contract%20Logistics%20%E2%80%93%20Toll%20Transport%20bulk%20logistics%20%28glass%20and%20plastic%29%20assets_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-10T07:46:40.079043Z",
+    "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
+    "title": "UPM-Kymmene – Sappi joint venture",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "27 Aug 2026",
+        "new": "10 Sep 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYMMENE PTY LTD; 99 001 255 661",
+        "new": "UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-23T16:22:52+10:00",
+        "new": "2026-08-10T13:12:13+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-10T07:46:40.079043Z",
+    "slug": "acrow-ausgroup-industrial-services",
+    "title": "Acrow - Ausgroup Industrial Services",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-24T17:29:34+10:00",
+        "new": "2026-08-10T16:40:55+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '10 Aug 2026', 'description': 'Acrow - Ausgroup Industrial Services - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Acrow%20-%20Ausgroup%20Industrial%20Service%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-10T07:46:40.079043Z",
+    "slug": "apollo-bayer-asset-management",
+    "title": "Apollo - Bayer Asset Management",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-bayer-asset-management",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-10T07:46:40.079043Z",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem S.p.A - Subsea7 S.A.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-08T08:17:10+10:00",
+        "new": "2026-08-10T16:02:39+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Decision%20Acquisition%20is%20to%20be%20subject%20to%20Phase%202%20review.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns_0.pdf'}, {'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Decision%20Acquisition%20is%20to%20be%20subject%20to%20Phase%202%20review_1.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]

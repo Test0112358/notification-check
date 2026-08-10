@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-08-10T02:01:39.901952Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "osmoflo-water-management-guidera-oconnor",
-      "title": "Osmoflo Water Management - Guidera O'Connor",
-      "case_number": "MN-35031",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor",
-      "date": "10 Aug 2026",
-      "description": "Osmoflo - Guidera O'Connor - Questionnaire",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Osmoflo%20-%20Guidera%20O%27Connor%20-%20questionnaire.docx",
-      "local_path": "data/consultation_docs/Osmoflo - Guidera O_Connor - questionnaire.docx",
-      "filename": "Osmoflo - Guidera O_Connor - questionnaire.docx",
-      "size_kb": 118.0
-    }
-  ]
+  "run_utc": "2026-08-10T07:46:40.079043Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

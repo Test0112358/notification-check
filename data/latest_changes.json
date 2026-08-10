@@ -1,47 +1,74 @@
 {
-  "run_utc": "2026-08-10T02:01:39.901952Z",
-  "new_count": 1,
-  "changed_count": 2,
+  "run_utc": "2026-08-10T07:46:40.079043Z",
+  "new_count": 2,
+  "changed_count": 4,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "osmoflo-water-management-guidera-oconnor",
-      "title": "Osmoflo Water Management - Guidera O'Connor",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor"
+      "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+      "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group"
+    },
+    {
+      "slug": "apollo-bayer-asset-management",
+      "title": "Apollo - Bayer Asset Management",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-bayer-asset-management"
     }
   ],
   "changed_entries": [
     {
-      "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
-      "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+      "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+      "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
       "changes": [
         {
-          "field": "acquirers",
-          "old": "QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone TopCo, LP; EIN 41-4395672; Qatar Holding LLC; CIK: 0001539025, Qatar Financial Centre no. 00004; Horizon Parent, L.P.; EIN 414485659; GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number)",
-          "new": "GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Horizon Parent, L.P.; EIN 414485659; EQT Keystone TopCo, LP; EIN 41-4395672; QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; Qatar Holding LLC; CIK: 0001539025, Qatar Financial Centre no. 00004"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-31T10:33:02+10:00",
-          "new": "2026-08-10T10:12:26+10:00"
+          "old": "2026-08-03T10:30:43+10:00",
+          "new": "2026-08-10T16:40:54+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 7 August 2026 via email to mergers@accc.gov.au with the title Submission re: Global Infrastructure Management and EQT led consortium - AES Corporation. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 31 Jul 2026 Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire Attachment 116.46 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 August 2026 via email to mergers@accc.gov.au with the title Submission re: Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 3 Aug 2026 Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets Attachment 116.83 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
         },
         {
           "field": "consultation_docs",
-          "old": "[{'date': '31 Jul 2026', 'description': 'Global Infrastructure Management and EQT led consortium - AES Corporation - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Global%20Infrastructure%20Management%20and%20EQT%20led%20consortium%20-%20AES%20Corporation%20-%20Questionnaire.docx'}]",
+          "old": "[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Silk%20Contract%20Logistics%20%E2%80%93%20Toll%20Transport%20bulk%20logistics%20%28glass%20and%20plastic%29%20assets_0.docx'}]",
           "new": ""
         }
       ]
     },
     {
-      "slug": "partnered-health-ryan-plaza-medical-services",
-      "title": "Partnered Health - Ryan Plaza Medical Services",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services",
+      "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
+      "title": "UPM-Kymmene – Sappi joint venture",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture",
+      "changes": [
+        {
+          "field": "end_of_determination_period",
+          "old": "27 Aug 2026",
+          "new": "10 Sep 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYMMENE PTY LTD; 99 001 255 661",
+          "new": "UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-23T16:22:52+10:00",
+          "new": "2026-08-10T13:12:13+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
+        }
+      ]
+    },
+    {
+      "slug": "acrow-ausgroup-industrial-services",
+      "title": "Acrow - Ausgroup Industrial Services",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
       "changes": [
         {
           "field": "acquisition_status",
@@ -54,24 +81,36 @@
           "new": "Approved"
         },
         {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "8 August 2026"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-07-13T09:11:16+10:00",
-          "new": "2026-08-10T09:20:51+10:00"
+          "old": "2026-07-24T17:29:34+10:00",
+          "new": "2026-08-10T16:40:55+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Services', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Partnered%20Health-Ryan%20Plaza%20Medical%20Services%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '10 Aug 2026', 'description': 'Acrow - Ausgroup Industrial Services - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Acrow%20-%20Ausgroup%20Industrial%20Service%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "saipem-spa-subsea7-sa",
+      "title": "Saipem S.p.A - Subsea7 S.A.",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-08T08:17:10+10:00",
+          "new": "2026-08-10T16:02:39+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Decision%20Acquisition%20is%20to%20be%20subject%20to%20Phase%202%20review.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]",
+          "new": "[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns_0.pdf'}, {'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Decision%20Acquisition%20is%20to%20be%20subject%20to%20Phase%202%20review_1.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]"
         }
       ]
     }
