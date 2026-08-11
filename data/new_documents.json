@@ -1,18 +1,5 @@
 {
-  "run_utc": "2026-08-11T01:56:49.469233Z",
-  "questionnaire_count": 1,
-  "questionnaires": [
-    {
-      "slug": "holcim-australia-%E2%80%93-burdetts-group",
-      "title": "Holcim Australia – Burdetts Group",
-      "case_number": "MN-05044",
-      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
-      "date": "10 Aug 2026",
-      "description": "Questionnaire - Holcim Australia - Burdetts Group",
-      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Holcim%20Australia%20-%20Burdetts%20Group%20-%20third-party%20questionnaire%20-%2010%20August%202026_0.docx",
-      "local_path": "data/consultation_docs/Holcim Australia - Burdetts Group - third-party questionnaire - 10 August 2026_0.docx",
-      "filename": "Holcim Australia - Burdetts Group - third-party questionnaire - 10 August 2026_0.docx",
-      "size_kb": 116.7
-    }
-  ]
+  "run_utc": "2026-08-11T07:12:23.533739Z",
+  "questionnaire_count": 0,
+  "questionnaires": []
 }

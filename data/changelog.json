@@ -26995,5 +26995,27 @@
         "new": "[{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar_Konvoy%20-%20PUBLIC%20VERSION%20Phase%202%20Reasons%20for%20Determination%20-%20updated%2010%20August%202026_1.pdf'}, {'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar_Konvoy%20-%20Final%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%207%20August%202026_1.pdf'}, {'date': '7 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Phase%202%20Determination%20AR%20version%20-%207%20August%202026_4.pdf'}, {'date': '13 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20MicroStar%20Konvoy%20-%20Notice%20of%20Competition%20Concerns%20%28summary%29%20-%2013%20May%202026_4.pdf'}, {'date': '1 Apr 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/MN-30003%20Microstar%20Konvoy%20-%20UPDATED%20Phase%202%20notice%20-%201%20April%202026_3.pdf'}, {'date': '20 Feb 2026', 'description': 'On 20 February 2026, MicroStar gave the ACCC additional information and documents in response to the ACCC’s decision under s 51ABY of the CCA. Accordingly, the effective notification date is 20 February 2026.', 'url': ''}, {'date': '13 Feb 2026', 'description': 'In accordance with s 51ABZ of the Competition and Consumer Act 2010, on 13 February 2026, the ACCC decided that the notification submitted on 6 February 2026 should be taken to not have an effective notification date because it is materially incomplete.', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-11T07:12:23.533739Z",
+    "slug": "triton-%E2%80%93-flender",
+    "title": "Triton – Flender",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/triton-%E2%80%93-flender",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-11T07:12:23.533739Z",
+    "slug": "journey-beyond-kelsian-tourism-portfolio",
+    "title": "Journey Beyond - Kelsian Tourism Portfolio",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-10T16:26:27+10:00",
+        "new": "2026-08-11T13:52:58+10:00"
+      }
+    ]
   }
 ]

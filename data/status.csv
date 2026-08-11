@@ -1,9 +1,9 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-11 01:56:49.469233,
-Last scrape run (AEST),11 Aug 2026  11:56,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-11 07:12:23.533739,
+Last scrape run (AEST),11 Aug 2026  17:12,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,534,
+Total entries monitored,535,
 New entries this run,1,
 Changed entries this run,1,
 Removed entries this run,0,
@@ -14,19 +14,16 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (1),Case Number,URL
-+ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
++ Triton – Flender,WA-10024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/triton-%E2%80%93-flender
 ,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00
-,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination', 'url': 'https://w  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of Reasons', 'url': 'h"
+~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
+,Last Modified Accc,2026-07-10T16:26:27+10:00  →  2026-08-11T13:52:58+10:00
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (24),Case Number,Detected (AEST)
-+ HammondCare - Anglican Community Services' Support at Home business,MN-85038,04 Aug  12:48
-+ Bain Capital - Everllence,WA-40033,04 Aug  12:48
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + Karmo/Simplr,MN-15030,04 Aug  18:41
 + Baupost – McDermott,WA-20030,04 Aug  18:41
 + CRH - Arcosa,WA-55030,04 Aug  18:41
@@ -49,26 +46,9 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + Osmoflo Water Management - Guidera O'Connor,MN-35031,10 Aug  12:01
 + The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
 + Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
++ Holcim Australia – Burdetts Group,MN-05044,11 Aug  11:56
 ,,
-"CHANGED ENTRIES (25 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Petalite – Envu,MN-90024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/petalite-%E2%80%93-envu
-,Last Modified Accc,2026-07-24T15:11:32+10:00  →  2026-08-03T09:18:06+10:00  (04 Aug  12:48)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Aug  12:48)
-,Consultation Docs,"[{'date': '24 Jul 2026', 'description': 'GIC / Petalite - Envu - Questionnaire',  →    (04 Aug  12:48)"
-,,
-~ Estia Health – AnglicareSA residential aged care business,MN-55029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business
-,Last Modified Accc,2026-07-27T11:10:27+10:00  →  2026-08-04T11:18:24+10:00  (04 Aug  12:48)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (04 Aug  12:48)
-,Consultation Docs,"[{'date': '27 Jul 2026', 'description': 'Questionnaire - Estia Health - Anglicar  →    (04 Aug  12:48)"
-,,
-~ Salesforce - Contentful,MN-95025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-contentful
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Aug  12:48)
-,Accc Determination,  →  Approved  (04 Aug  12:48)
-,Determination Publication Date,  →  4 August 2026  (04 Aug  12:48)
-,Last Modified Accc,2026-07-20T11:29:32+10:00  →  2026-08-04T11:31:45+10:00  (04 Aug  12:48)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (04 Aug  12:48)
-,Decisions Docs,"  →  [{'date': '4 Aug 2026', 'description': 'Salesforce - Contentful - Phase 1 determ  (04 Aug  12:48)"
-,,
+"CHANGED ENTRIES (22 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Publicis Groupe - LiveRamp,MN-60026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-groupe-liveramp
 ,Last Modified Accc,2026-07-28T15:16:43+10:00  →  2026-08-04T16:23:30+10:00  (04 Aug  18:41)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (04 Aug  18:41)
@@ -164,6 +144,8 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-01T16:46:07+10:00  →  2026-08-07T14:41:45+10:00  (07 Aug  17:20)
 ,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →    (07 Aug  17:20)"
 ,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  (07 Aug  17:20)"
+,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00  (11 Aug  11:56)
+,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of  (11 Aug  11:56)"
 ,,
 ~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
 ,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone T  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Hor  (10 Aug  12:01)"
