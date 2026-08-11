@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-08-10T08:16:25.045319Z",
-  "total_entries": 533,
+  "generated_at_utc": "2026-08-11T02:28:23.843151Z",
+  "total_entries": 534,
   "by_acquisition_status": {
-    "Under assessment": 53,
+    "Under assessment": 54,
     "Assessment completed": 477,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 208,
+    "Phase 1 - initial assessment": 209,
     "Waiver application": 317,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 216,
+    "Notification": 217,
     "Waiver": 317
   },
   "by_accc_determination": {
@@ -25,31 +25,43 @@
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "12 Aug 2026",
-      "days_remaining": 2
+      "days_remaining": 1
     },
     {
       "slug": "vsa-sprayline",
       "title": "VSA - SprayLine",
       "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "black-rhino-club-hotel-motel-roma",
       "title": "Black Rhino - Club Hotel Motel Roma",
       "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "analogic-leidos-ses-business",
       "title": "Analogic - Leidos SES business",
       "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 9
+      "days_remaining": 8
     },
     {
       "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
       "title": "Vets Central – Hills Veterinary Centre",
       "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 9
+      "days_remaining": 8
+    },
+    {
+      "slug": "siemens-mobility-mermec",
+      "title": "Siemens Mobility - MerMec",
+      "end_of_determination_period": "21 Aug 2026",
+      "days_remaining": 10
+    },
+    {
+      "slug": "origin-%E2%80%93-climatech-zero",
+      "title": "Origin – Climatech Zero",
+      "end_of_determination_period": "21 Aug 2026",
+      "days_remaining": 10
     }
   ]
 }

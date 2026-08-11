@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-10 07:46:40.079043,
-Last scrape run (AEST),10 Aug 2026  17:46,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-11 01:56:49.469233,
+Last scrape run (AEST),11 Aug 2026  11:56,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,533,
-New entries this run,2,
-Changed entries this run,4,
+Total entries monitored,534,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,45 +13,18 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
-+ Apollo - Bayer Asset Management,WA-70029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/apollo-bayer-asset-management
+NEW ENTRIES (1),Case Number,URL
++ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
-,Last Modified Accc,2026-08-03T10:30:43+10:00  →  2026-08-10T16:40:54+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics – Toll Transport bul  →  "
-,,
-~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
-,End Of Determination Period,27 Aug 2026  →  10 Sep 2026
-,Other Parties,SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYM  →  UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAPPI TRADING AUSTRALIA
-,Last Modified Accc,2026-07-23T16:22:52+10:00  →  2026-08-10T13:12:13+10:00
-,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request b"
-,,
-~ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-07-24T17:29:34+10:00  →  2026-08-10T16:40:55+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Acrow - Ausgroup Industrial Services - Phase 1 Determinatio"
-,,
-~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
-,Last Modified Accc,2026-07-08T08:17:10+10:00  →  2026-08-10T16:02:39+10:00
-,Decisions Docs,"[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'ur  →  [{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00
+,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination', 'url': 'https://w  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of Reasons', 'url': 'h"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (30),Case Number,Detected (AEST)
-+ IKEA Australia – IP rights from Inter IKEA under new franchise agreement package,WA-80030,03 Aug  19:51
-+ Vets Central – Lava Street Veterinary Clinic and Doggy Kinder,WA-40032,03 Aug  19:51
-"+ Impression Dental Group – Kingston Beach Dental, TAS",WA-20029,03 Aug  19:51
-+ NPM Capital – AmbaFlex Group,WA-80029,03 Aug  19:51
-+ EQT Fund Management – Exolaunch,WA-01114,03 Aug  19:51
-+ Infoblox – Kentik Technologies,WA-10023,03 Aug  19:51
-"+ Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",WA-80026,03 Aug  19:51
-+ McDonald’s Australia – McDonald’s Restaurants in North West Sydney,WA-45021,03 Aug  19:51
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + HammondCare - Anglican Community Services' Support at Home business,MN-85038,04 Aug  12:48
 + Bain Capital - Everllence,WA-40033,04 Aug  12:48
 + Karmo/Simplr,MN-15030,04 Aug  18:41
@@ -74,23 +47,10 @@ NEW ENTRIES (30),Case Number,Detected (AEST)
 "+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,07 Aug  17:20
 + Alter Domus - MSC Group,WA-05035,07 Aug  17:20
 + Osmoflo Water Management - Guidera O'Connor,MN-35031,10 Aug  12:01
++ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
++ Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
 ,,
-"CHANGED ENTRIES (23 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
-~ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
-,Acquirers,Obayashi Corporation; 86 002 932 756; Obayashi UK Holdings Limited; UK Company N  →  Obayashi UK Holdings Limited; UK Company No.17229281; Obayashi Corporation; 86 0  (03 Aug  19:51)
-,Last Modified Accc,2026-07-27T17:10:42+10:00  →  2026-08-03T18:19:05+10:00  (03 Aug  19:51)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (03 Aug  19:51)
-,Consultation Docs,"[{'date': '27 Jul 2026', 'description': 'Questionnaire - Obayashi Corporation -   →    (03 Aug  19:51)"
-,,
-~ Coles - Paydock,MN-65028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-paydock
-,Acquisition Status,Under assessment  →  Assessment completed  (03 Aug  19:51)
-,Accc Determination,  →  Approved  (03 Aug  19:51)
-,Determination Publication Date,  →  3 August 2026  (03 Aug  19:51)
-,Targets,Paydock AUNZ Pty Limited; 96 607 219 116; Paydock Ltd; Paydock Holdings Pty Limi  →  Paydock Holdings Pty Limited; 31 607 215 163; Paydock AUNZ Pty Limited; 96 607 2  (03 Aug  19:51)
-,Last Modified Accc,2026-07-16T09:43:11+10:00  →  2026-08-03T16:25:57+10:00  (03 Aug  19:51)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (03 Aug  19:51)
-,Decisions Docs,"  →  [{'date': '3 Aug 2026', 'description': 'Coles - Paydock - Phase 1 determination'  (03 Aug  19:51)"
-,,
+"CHANGED ENTRIES (25 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Petalite – Envu,MN-90024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/petalite-%E2%80%93-envu
 ,Last Modified Accc,2026-07-24T15:11:32+10:00  →  2026-08-03T09:18:06+10:00  (04 Aug  12:48)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (04 Aug  12:48)
@@ -218,4 +178,26 @@ NEW ENTRIES (30),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-13T09:11:16+10:00  →  2026-08-10T09:20:51+10:00  (10 Aug  12:01)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Aug  12:01)
 ,Decisions Docs,"  →  [{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Se  (10 Aug  12:01)"
+,,
+~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+,Last Modified Accc,2026-08-03T10:30:43+10:00  →  2026-08-10T16:40:54+10:00  (10 Aug  17:46)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Aug  17:46)
+,Consultation Docs,"[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics   →    (10 Aug  17:46)"
+,,
+~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
+,End Of Determination Period,27 Aug 2026  →  10 Sep 2026  (10 Aug  17:46)
+,Other Parties,SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy  →  UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAP  (10 Aug  17:46)
+,Last Modified Accc,2026-07-23T16:22:52+10:00  →  2026-08-10T13:12:13+10:00  (10 Aug  17:46)
+,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days –  (10 Aug  17:46)"
+,,
+~ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Aug  17:46)
+,Accc Determination,  →  Approved  (10 Aug  17:46)
+,Last Modified Accc,2026-07-24T17:29:34+10:00  →  2026-08-10T16:40:55+10:00  (10 Aug  17:46)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (10 Aug  17:46)
+,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Acrow - Ausgroup Industrial Services -   (10 Aug  17:46)"
+,,
+~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
+,Last Modified Accc,2026-07-08T08:17:10+10:00  →  2026-08-10T16:02:39+10:00  (10 Aug  17:46)
+,Decisions Docs,"[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to   →  [{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  (10 Aug  17:46)"
 ,,
