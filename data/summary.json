@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-12T02:30:53.734250Z",
-  "total_entries": 538,
+  "generated_at_utc": "2026-08-12T07:56:44.592112Z",
+  "total_entries": 541,
   "by_acquisition_status": {
-    "Under assessment": 54,
-    "Assessment completed": 481,
+    "Under assessment": 52,
+    "Assessment completed": 486,
     "Assessment ceased": 3
   },
   "by_stage": {
     "Phase 1 - initial assessment": 211,
-    "Waiver application": 319,
+    "Waiver application": 322,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
     "Notification": 219,
-    "Waiver": 319
+    "Waiver": 322
   },
   "by_accc_determination": {
-    "Approved": 462,
+    "Approved": 467,
     "Approved with conditions": 3,
     "Not approved": 16
   },
@@ -32,12 +32,6 @@
       "title": "Vets Central – Hills Veterinary Centre",
       "end_of_determination_period": "19 Aug 2026",
       "days_remaining": 7
-    },
-    {
-      "slug": "siemens-mobility-mermec",
-      "title": "Siemens Mobility - MerMec",
-      "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 9
     },
     {
       "slug": "origin-%E2%80%93-climatech-zero",

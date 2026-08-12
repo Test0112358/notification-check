@@ -1,9 +1,9 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-12 02:09:19.738039,
-Last scrape run (AEST),12 Aug 2026  12:09,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-12 07:36:58.827811,
+Last scrape run (AEST),12 Aug 2026  17:36,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,538,
+Total entries monitored,541,
 New entries this run,3,
 Changed entries this run,5,
 Removed entries this run,0,
@@ -14,51 +14,48 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (3),Case Number,URL
-+ Supagas – Heeson Medical,MN-80027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical
-+ Aware Super – Increased interest in Keyton,MN-70030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton
-+ Koch – additional interest in Victoria PLC,WA-50033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/koch-%E2%80%93-additional-interest-in-victoria-plc
++ EQT Fund Management – Corza Biosurgery,WA-70033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-%E2%80%93-corza-biosurgery
++ MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw
++ Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/iris-capital-%E2%80%93-revesby-pacific-hotel-and-crown-hotel
 ,,
 CHANGED ENTRIES (5),Field changed,Old value  →  New value
-~ KARMO/SIMPLR,MN-15030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr
-,Title,Karmo/Simplr  →  KARMO/SIMPLR
-,Targets,SUBMO PTY LTD; 19 637 015 457; EAGERS AUTOMOTIVE LIMITED; 87 009 680 013  →  EAGERS AUTOMOTIVE LIMITED; 87 009 680 013; SUBMO PTY LTD; 19 637 015 457
-,Last Modified Accc,2026-08-04T17:47:29+10:00  →  2026-08-11T17:18:46+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '4 Aug 2026', 'description': 'Questionnaire - Karmo/Simplr', 'url': 'https://www.accc.gov.  →  "
+~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
+,Targets,C&M Central Pty Ltd; 649 711 053; C&M Central Unit Trust; 47 351 736 164  →  C&M Central Unit Trust; 47 351 736 164; C&M Central Pty Ltd; 649 711 053
+,Other Parties,JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103  →  SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248
+,Last Modified Accc,2026-08-05T15:03:33+10:00  →  2026-08-12T17:06:34+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - Johns Lyng Group - C&M Build Group', 'url':   →  "
 ,,
-~ HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS,MN-85038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
-,Title,HammondCare - Anglican Community Services' Support at Home business  →  HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS
-,Last Modified Accc,2026-08-04T11:40:36+10:00  →  2026-08-12T10:58:01+10:00
+~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway
+,Other Parties,BP plc; UK company number: 00102498; BP Australia Investments Pty Ltd; 66 102 991 551  →  BP Australia Investments Pty Ltd; 66 102 991 551; BP plc; UK company number: 00102498
+,Last Modified Accc,2026-08-05T12:32:12+10:00  →  2026-08-12T15:17:56+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '4 Aug 2026', 'description': ""Questionnaire - HammondCare - Anglican Community Services' S  →  "
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - bp - bp Gateway', 'url': 'https://www.accc.g  →  "
 ,,
-~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
+~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  11 August 2026
-,Acquirers,"AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386  →  Leidos, Inc.; EFN - 901386; Analogic Corporation; EFN - 5450449; AHP-ANLG IV, LLC; EFN - 6840942"
-,Last Modified Accc,2026-07-17T10:12:46+10:00  →  2026-08-12T08:22:52+10:00
+,Last Modified Accc,2026-07-30T15:04:59+10:00  →  2026-08-12T16:23:42+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '11 Aug 2026', 'description': 'Analogic - Leidos SES business - Phase 1 determination', 'u"
+,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Ambrose Construct Group - Major Loss Builders - Phase 1 det"
 ,,
-~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,End Of Determination Period,12 Aug 2026  →  2 Sep 2026
-,Last Modified Accc,2026-08-11T13:52:58+10:00  →  2026-08-11T17:49:46+10:00
+~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
+,End Of Determination Period,24 Aug 2026  →  9 Sep 2026
+,Last Modified Accc,2026-07-20T10:39:30+10:00  →  2026-08-12T16:20:59+10:00
+,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days – following request b"
 ,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+~ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
 ,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved with conditions
-,Determination Publication Date,  →  11 August 2026
-,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705   →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 
-,Last Modified Accc,2026-07-21T16:04:53+10:00  →  2026-08-12T09:46:14+10:00
-,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy of  →  [{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination"
+,Accc Determination,  →  Approved
+,Other Parties,Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LTD.; 39 625 304 556;   →  Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; MERMEC AUSTRALIA PTY LTD; 42 619 285 988; SI
+,Last Modified Accc,2026-07-20T17:55:52+10:00  →  2026-08-12T16:11:32+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Phase 1 determination', 'url': 'https://www.accc.gov.au/sys"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
-+ bp - bp Gateway,MN-95033,05 Aug  12:45
-+ MERIVALE – THE SACKVILLE HOTEL,MN-35033,05 Aug  12:45
+NEW ENTRIES (18),Case Number,Detected (AEST)
 + Johns Lyng Group – C&M Build Group,MN-75035,05 Aug  18:40
 + HiTech Group Australia - Hudson Global Resources,MN-95038,05 Aug  18:40
 + The State of Western Australia – Mount Lawley Hospital,WA-05037,05 Aug  18:40
@@ -74,15 +71,11 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
 + Holcim Australia – Burdetts Group,MN-05044,11 Aug  11:56
 + Triton – Flender,WA-10024,11 Aug  17:12
++ Supagas – Heeson Medical,MN-80027,12 Aug  12:09
++ Aware Super – Increased interest in Keyton,MN-70030,12 Aug  12:09
++ Koch – additional interest in Victoria PLC,WA-50033,12 Aug  12:09
 ,,
-"CHANGED ENTRIES (20 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
-~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee
-,Acquirers,AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor Merger Co.; DELAWARE FILE NO. -   →  Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 1  (05 Aug  12:45)
-,Targets,"Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corpo  →  Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutic  (05 Aug  12:45)"
-,Last Modified Accc,2026-07-28T17:17:36+10:00  →  2026-08-05T10:38:01+10:00  (05 Aug  12:45)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Aug  12:45)
-,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'AbbVie - Apogee - Questionnaire', 'url'  →    (05 Aug  12:45)"
-,,
+"CHANGED ENTRIES (23 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom
 ,Other Parties,"Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesf  →  Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce  (05 Aug  18:40)"
 ,Last Modified Accc,2026-07-29T17:06:29+10:00  →  2026-08-05T15:54:01+10:00  (05 Aug  18:40)
@@ -197,4 +190,36 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,,
 ~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
 ,Last Modified Accc,2026-07-10T16:26:27+10:00  →  2026-08-11T13:52:58+10:00  (11 Aug  17:12)
+,End Of Determination Period,12 Aug 2026  →  2 Sep 2026  (12 Aug  12:09)
+,Last Modified Accc,2026-08-11T13:52:58+10:00  →  2026-08-11T17:49:46+10:00  (12 Aug  12:09)
+,,
+~ KARMO/SIMPLR,MN-15030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr
+,Title,Karmo/Simplr  →  KARMO/SIMPLR  (12 Aug  12:09)
+,Targets,SUBMO PTY LTD; 19 637 015 457; EAGERS AUTOMOTIVE LIMITED; 87 009 680 013  →  EAGERS AUTOMOTIVE LIMITED; 87 009 680 013; SUBMO PTY LTD; 19 637 015 457  (12 Aug  12:09)
+,Last Modified Accc,2026-08-04T17:47:29+10:00  →  2026-08-11T17:18:46+10:00  (12 Aug  12:09)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Aug  12:09)
+,Consultation Docs,"[{'date': '4 Aug 2026', 'description': 'Questionnaire - Karmo/Simplr', 'url': 'h  →    (12 Aug  12:09)"
+,,
+~ HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS,MN-85038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
+,Title,HammondCare - Anglican Community Services' Support at Home business  →  HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS  (12 Aug  12:09)
+,Last Modified Accc,2026-08-04T11:40:36+10:00  →  2026-08-12T10:58:01+10:00  (12 Aug  12:09)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Aug  12:09)
+,Consultation Docs,"[{'date': '4 Aug 2026', 'description': ""Questionnaire - HammondCare - Anglican C  →    (12 Aug  12:09)"
+,,
+~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
+,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  12:09)
+,Accc Determination,  →  Approved  (12 Aug  12:09)
+,Determination Publication Date,  →  11 August 2026  (12 Aug  12:09)
+,Acquirers,"AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, In  →  Leidos, Inc.; EFN - 901386; Analogic Corporation; EFN - 5450449; AHP-ANLG IV, LL  (12 Aug  12:09)"
+,Last Modified Accc,2026-07-17T10:12:46+10:00  →  2026-08-12T08:22:52+10:00  (12 Aug  12:09)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  12:09)
+,Decisions Docs,"  →  [{'date': '11 Aug 2026', 'description': 'Analogic - Leidos SES business - Phase   (12 Aug  12:09)"
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  12:09)
+,Accc Determination,  →  Approved with conditions  (12 Aug  12:09)
+,Determination Publication Date,  →  11 August 2026  (12 Aug  12:09)
+,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  (12 Aug  12:09)
+,Last Modified Accc,2026-07-21T16:04:53+10:00  →  2026-08-12T09:46:14+10:00  (12 Aug  12:09)
+,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - P  (12 Aug  12:09)"
 ,,
