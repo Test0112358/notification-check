@@ -1,67 +1,49 @@
 {
-  "generated_at_utc": "2026-08-11T07:40:40.715361Z",
-  "total_entries": 535,
+  "generated_at_utc": "2026-08-12T02:30:53.734250Z",
+  "total_entries": 538,
   "by_acquisition_status": {
     "Under assessment": 54,
-    "Assessment completed": 478,
+    "Assessment completed": 481,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 209,
-    "Waiver application": 318,
+    "Phase 1 - initial assessment": 211,
+    "Waiver application": 319,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 217,
-    "Waiver": 318
+    "Notification": 219,
+    "Waiver": 319
   },
   "by_accc_determination": {
-    "Approved": 460,
-    "Approved with conditions": 2,
+    "Approved": 462,
+    "Approved with conditions": 3,
     "Not approved": 16
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "journey-beyond-kelsian-tourism-portfolio",
-      "title": "Journey Beyond - Kelsian Tourism Portfolio",
-      "end_of_determination_period": "12 Aug 2026",
-      "days_remaining": 1
-    },
-    {
       "slug": "vsa-sprayline",
       "title": "VSA - SprayLine",
       "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 6
-    },
-    {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 6
-    },
-    {
-      "slug": "analogic-leidos-ses-business",
-      "title": "Analogic - Leidos SES business",
-      "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 8
+      "days_remaining": 5
     },
     {
       "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
       "title": "Vets Central – Hills Veterinary Centre",
       "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "siemens-mobility-mermec",
       "title": "Siemens Mobility - MerMec",
       "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     },
     {
       "slug": "origin-%E2%80%93-climatech-zero",
       "title": "Origin – Climatech Zero",
       "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }

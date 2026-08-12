@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-11 07:12:23.533739,
-Last scrape run (AEST),11 Aug 2026  17:12,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-12 02:09:19.738039,
+Last scrape run (AEST),12 Aug 2026  12:09,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,535,
-New entries this run,1,
-Changed entries this run,1,
+Total entries monitored,538,
+New entries this run,3,
+Changed entries this run,5,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,24 +13,50 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Triton – Flender,WA-10024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/triton-%E2%80%93-flender
+NEW ENTRIES (3),Case Number,URL
++ Supagas – Heeson Medical,MN-80027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical
++ Aware Super – Increased interest in Keyton,MN-70030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton
++ Koch – additional interest in Victoria PLC,WA-50033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/koch-%E2%80%93-additional-interest-in-victoria-plc
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
+CHANGED ENTRIES (5),Field changed,Old value  →  New value
+~ KARMO/SIMPLR,MN-15030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr
+,Title,Karmo/Simplr  →  KARMO/SIMPLR
+,Targets,SUBMO PTY LTD; 19 637 015 457; EAGERS AUTOMOTIVE LIMITED; 87 009 680 013  →  EAGERS AUTOMOTIVE LIMITED; 87 009 680 013; SUBMO PTY LTD; 19 637 015 457
+,Last Modified Accc,2026-08-04T17:47:29+10:00  →  2026-08-11T17:18:46+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '4 Aug 2026', 'description': 'Questionnaire - Karmo/Simplr', 'url': 'https://www.accc.gov.  →  "
+,,
+~ HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS,MN-85038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
+,Title,HammondCare - Anglican Community Services' Support at Home business  →  HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS
+,Last Modified Accc,2026-08-04T11:40:36+10:00  →  2026-08-12T10:58:01+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '4 Aug 2026', 'description': ""Questionnaire - HammondCare - Anglican Community Services' S  →  "
+,,
+~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  11 August 2026
+,Acquirers,"AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386  →  Leidos, Inc.; EFN - 901386; Analogic Corporation; EFN - 5450449; AHP-ANLG IV, LLC; EFN - 6840942"
+,Last Modified Accc,2026-07-17T10:12:46+10:00  →  2026-08-12T08:22:52+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '11 Aug 2026', 'description': 'Analogic - Leidos SES business - Phase 1 determination', 'u"
+,,
 ~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,Last Modified Accc,2026-07-10T16:26:27+10:00  →  2026-08-11T13:52:58+10:00
+,End Of Determination Period,12 Aug 2026  →  2 Sep 2026
+,Last Modified Accc,2026-08-11T13:52:58+10:00  →  2026-08-11T17:49:46+10:00
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved with conditions
+,Determination Publication Date,  →  11 August 2026
+,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705   →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 
+,Last Modified Accc,2026-07-21T16:04:53+10:00  →  2026-08-12T09:46:14+10:00
+,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy of  →  [{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (23),Case Number,Detected (AEST)
-+ Karmo/Simplr,MN-15030,04 Aug  18:41
-+ Baupost – McDermott,WA-20030,04 Aug  18:41
-+ CRH - Arcosa,WA-55030,04 Aug  18:41
-+ AUB – further interest in Sura Technology,WA-05038,04 Aug  18:41
-"+ Kanda Healthcare – Live Your Way, QLD",WA-75034,04 Aug  18:41
-"+ Community Enterprise Queensland - Island & Cape Community Stores (Aurukun, Hope Vale & Badu)",WA-95034,04 Aug  18:41
-+ Count – O’Brien Accountants & Advisors,WA-30026,04 Aug  18:41
+NEW ENTRIES (17),Case Number,Detected (AEST)
 + bp - bp Gateway,MN-95033,05 Aug  12:45
 + MERIVALE – THE SACKVILLE HOTEL,MN-35033,05 Aug  12:45
 + Johns Lyng Group – C&M Build Group,MN-75035,05 Aug  18:40
@@ -47,23 +73,9 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 + The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
 + Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
 + Holcim Australia – Burdetts Group,MN-05044,11 Aug  11:56
++ Triton – Flender,WA-10024,11 Aug  17:12
 ,,
-"CHANGED ENTRIES (22 entries, 23 change events)",Field changed,Old value  →  New value  (AEST)
-~ Publicis Groupe - LiveRamp,MN-60026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/publicis-groupe-liveramp
-,Last Modified Accc,2026-07-28T15:16:43+10:00  →  2026-08-04T16:23:30+10:00  (04 Aug  18:41)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (04 Aug  18:41)
-,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'Publicis Groupe - LiveRamp - Questionna  →    (04 Aug  18:41)"
-,,
-"~ Australian Venue Co – assets of Chequers Hotel, Bullsbrook WA",WA-80026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-chequers-hotel-bullsbrook-wa
-,Determination Publication Date,  →  3 August 2026  (04 Aug  18:41)
-,Last Modified Accc,2026-08-03T16:42:49+10:00  →  2026-08-04T17:28:38+10:00  (04 Aug  18:41)
-,,
-"~ Coles - supermarket site in Palmwoods, QLD",WA-75030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-supermarket-site-in-palmwoods-qld
-,Determination Publication Date,21 July 2026  →  22 July 2026  (04 Aug  18:41)
-,Other Parties,Coles Group Limited; 11 004 089 936  →  COLES GROUP LIMITED; 11 004 089 936  (04 Aug  18:41)
-,Last Modified Accc,2026-07-22T16:38:22+10:00  →  2026-08-04T17:17:55+10:00  (04 Aug  18:41)
-,Decisions Docs,"[{'date': '21 Jul 2026', 'description': 'Notification waiver determination publi  →  [{'date': '22 Jul 2026', 'description': 'Notification waiver determination publi  (04 Aug  18:41)"
-,,
+"CHANGED ENTRIES (20 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
 ~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/abbvie-apogee
 ,Acquirers,AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor Merger Co.; DELAWARE FILE NO. -   →  Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 1  (05 Aug  12:45)
 ,Targets,"Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corpo  →  Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutic  (05 Aug  12:45)"
@@ -182,4 +194,7 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
 ,Last Modified Accc,2026-07-08T08:17:10+10:00  →  2026-08-10T16:02:39+10:00  (10 Aug  17:46)
 ,Decisions Docs,"[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to   →  [{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  (10 Aug  17:46)"
+,,
+~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
+,Last Modified Accc,2026-07-10T16:26:27+10:00  →  2026-08-11T13:52:58+10:00  (11 Aug  17:12)
 ,,

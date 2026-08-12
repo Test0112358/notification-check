@@ -1,5 +1,30 @@
 {
-  "run_utc": "2026-08-11T07:12:23.533739Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-08-12T02:09:19.738039Z",
+  "questionnaire_count": 2,
+  "questionnaires": [
+    {
+      "slug": "supagas-%E2%80%93-heeson-medical",
+      "title": "Supagas – Heeson Medical",
+      "case_number": "MN-80027",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
+      "date": "12 Aug 2026",
+      "description": "Questionnaire - Supagas - Heeson Medical",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Supagas%20-%20Heeson%20Medical.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Supagas - Heeson Medical.docx",
+      "filename": "Questionnaire - Supagas - Heeson Medical.docx",
+      "size_kb": 115.8
+    },
+    {
+      "slug": "aware-super-%E2%80%93-increased-interest-in-keyton",
+      "title": "Aware Super – Increased interest in Keyton",
+      "case_number": "MN-70030",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton",
+      "date": "11 Aug 2026",
+      "description": "Questionnaire - Aware Super / increased interest in Keyton",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/%20increased%20interest%20in%20Keyton.docx",
+      "local_path": "data/consultation_docs/ increased interest in Keyton.docx",
+      "filename": " increased interest in Keyton.docx",
+      "size_kb": 114.3
+    }
+  ]
 }

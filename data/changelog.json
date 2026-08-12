@@ -27017,5 +27017,194 @@
         "new": "2026-08-11T13:52:58+10:00"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "supagas-%E2%80%93-heeson-medical",
+    "title": "Supagas – Heeson Medical",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "aware-super-%E2%80%93-increased-interest-in-keyton",
+    "title": "Aware Super – Increased interest in Keyton",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "karmosimplr",
+    "title": "KARMO/SIMPLR",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "title",
+        "old": "Karmo/Simplr",
+        "new": "KARMO/SIMPLR"
+      },
+      {
+        "field": "targets",
+        "old": "SUBMO PTY LTD; 19 637 015 457; EAGERS AUTOMOTIVE LIMITED; 87 009 680 013",
+        "new": "EAGERS AUTOMOTIVE LIMITED; 87 009 680 013; SUBMO PTY LTD; 19 637 015 457"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-04T17:47:29+10:00",
+        "new": "2026-08-11T17:18:46+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 August 2026 via email to mergers@accc.gov.au with the title Karmo-Simplr. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 4 Aug 2026 Questionnaire - Karmo/Simplr Attachment 61.71 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '4 Aug 2026', 'description': 'Questionnaire - Karmo/Simplr', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Simplr%20-%20Questionnaire_1.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "hammondcare-anglican-community-services-support-at-home-business",
+    "title": "HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "title",
+        "old": "HammondCare - Anglican Community Services' Support at Home business",
+        "new": "HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-04T11:40:36+10:00",
+        "new": "2026-08-12T10:58:01+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 August 2026 via email to mergers@accc.gov.au with the title Submission re: HammondCare – Anglican Community Services' Support at Home Business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 4 Aug 2026 Questionnaire - HammondCare - Anglican Community Services' Support at Home business Attachment 116.35 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '4 Aug 2026', 'description': \"Questionnaire - HammondCare - Anglican Community Services' Support at Home business\", 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HammondCare%20-%20ACS%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "koch-%E2%80%93-additional-interest-in-victoria-plc",
+    "title": "Koch – additional interest in Victoria PLC",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/koch-%E2%80%93-additional-interest-in-victoria-plc",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "analogic-leidos-ses-business",
+    "title": "Analogic - Leidos SES business",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "11 August 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, Inc.; EFN - 901386",
+        "new": "Leidos, Inc.; EFN - 901386; Analogic Corporation; EFN - 5450449; AHP-ANLG IV, LLC; EFN - 6840942"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-17T10:12:46+10:00",
+        "new": "2026-08-12T08:22:52+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '11 Aug 2026', 'description': 'Analogic - Leidos SES business - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Analogic%20-%20Leidos%20SES%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "journey-beyond-kelsian-tourism-portfolio",
+    "title": "Journey Beyond - Kelsian Tourism Portfolio",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "12 Aug 2026",
+        "new": "2 Sep 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-11T13:52:58+10:00",
+        "new": "2026-08-11T17:49:46+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-12T02:09:19.738039Z",
+    "slug": "black-rhino-club-hotel-motel-roma",
+    "title": "Black Rhino - Club Hotel Motel Roma",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved with conditions"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "11 August 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498",
+        "new": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-21T16:04:53+10:00",
+        "new": "2026-08-12T09:46:14+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Club%20Hotel%20Motel%20Roma%20-%20Phase%201%20Determination%20With%20Conditions%20-%20FINAL_0.pdf'}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]
