@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-12T07:56:44.592112Z",
+  "generated_at_utc": "2026-08-13T02:32:18.418100Z",
   "total_entries": 541,
   "by_acquisition_status": {
     "Under assessment": 52,
@@ -25,19 +25,19 @@
       "slug": "vsa-sprayline",
       "title": "VSA - SprayLine",
       "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 5
+      "days_remaining": 4
     },
     {
       "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
       "title": "Vets Central – Hills Veterinary Centre",
       "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "origin-%E2%80%93-climatech-zero",
       "title": "Origin – Climatech Zero",
       "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 9
+      "days_remaining": 8
     }
   ]
 }

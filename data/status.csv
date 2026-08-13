@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-12 07:36:58.827811,
-Last scrape run (AEST),12 Aug 2026  17:36,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-13 02:11:37.615860,
+Last scrape run (AEST),13 Aug 2026  12:11,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,541,
-New entries this run,3,
-Changed entries this run,5,
+New entries this run,0,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,52 +13,33 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ EQT Fund Management – Corza Biosurgery,WA-70033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eqt-fund-management-%E2%80%93-corza-biosurgery
-+ MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw
-+ Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/iris-capital-%E2%80%93-revesby-pacific-hotel-and-crown-hotel
-,,
-CHANGED ENTRIES (5),Field changed,Old value  →  New value
-~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
-,Targets,C&M Central Pty Ltd; 649 711 053; C&M Central Unit Trust; 47 351 736 164  →  C&M Central Unit Trust; 47 351 736 164; C&M Central Pty Ltd; 649 711 053
-,Other Parties,JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103  →  SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248
-,Last Modified Accc,2026-08-05T15:03:33+10:00  →  2026-08-12T17:06:34+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - Johns Lyng Group - C&M Build Group', 'url':   →  "
-,,
-~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway
-,Other Parties,BP plc; UK company number: 00102498; BP Australia Investments Pty Ltd; 66 102 991 551  →  BP Australia Investments Pty Ltd; 66 102 991 551; BP plc; UK company number: 00102498
-,Last Modified Accc,2026-08-05T12:32:12+10:00  →  2026-08-12T15:17:56+10:00
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc
+,Last Modified Accc,2026-08-06T13:20:38+10:00  →  2026-08-13T09:17:42+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - bp - bp Gateway', 'url': 'https://www.accc.g  →  "
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Eli Lilly - AtaiBeckley', 'url': 'https://ww  →  "
 ,,
-~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-07-30T15:04:59+10:00  →  2026-08-12T16:23:42+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Ambrose Construct Group - Major Loss Builders - Phase 1 det"
+~ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent
+,Acquirers,"Modaxo France Holdings SAS; Modaxo Group, Inc; Modaxo USA Holdings, Inc  →  Modaxo Group, Inc; Modaxo USA Holdings, Inc; Modaxo France Holdings SAS"
+,Targets,"CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; Conduent Business Services, LLC; CONDUEN  →  CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS"
+,Last Modified Accc,2026-08-06T13:25:53+10:00  →  2026-08-13T10:16:07+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Modaxo Conduent - Questionnaire', 'url': 'https://www.accc.g  →  "
 ,,
-~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
-,End Of Determination Period,24 Aug 2026  →  9 Sep 2026
-,Last Modified Accc,2026-07-20T10:39:30+10:00  →  2026-08-12T16:20:59+10:00
-,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days – following request b"
+~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
+,Last Modified Accc,2026-08-05T16:35:42+10:00  →  2026-08-13T09:17:09+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire HiTech Group Australia - Hudson Global Resourc  →  "
 ,,
-~ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Other Parties,Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LTD.; 39 625 304 556;   →  Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; MERMEC AUSTRALIA PTY LTD; 42 619 285 988; SI
-,Last Modified Accc,2026-07-20T17:55:52+10:00  →  2026-08-12T16:11:32+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Phase 1 determination', 'url': 'https://www.accc.gov.au/sys"
+~ MERIVALE – THE SACKVILLE HOTEL,MN-35033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
+,Last Modified Accc,2026-08-05T12:43:56+10:00  →  2026-08-13T10:32:57+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Third-party questionnaire',  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (18),Case Number,Detected (AEST)
-+ Johns Lyng Group – C&M Build Group,MN-75035,05 Aug  18:40
-+ HiTech Group Australia - Hudson Global Resources,MN-95038,05 Aug  18:40
-+ The State of Western Australia – Mount Lawley Hospital,WA-05037,05 Aug  18:40
 + Danaher (Leica Biosystems) - StatLab,MN-15031,06 Aug  12:48
 + Danone – MADE,MN-55031,06 Aug  12:48
 + Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,06 Aug  18:41
@@ -74,22 +55,11 @@ NEW ENTRIES (18),Case Number,Detected (AEST)
 + Supagas – Heeson Medical,MN-80027,12 Aug  12:09
 + Aware Super – Increased interest in Keyton,MN-70030,12 Aug  12:09
 + Koch – additional interest in Victoria PLC,WA-50033,12 Aug  12:09
++ EQT Fund Management – Corza Biosurgery,WA-70033,12 Aug  17:36
++ MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,12 Aug  17:36
++ Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,12 Aug  17:36
 ,,
-"CHANGED ENTRIES (23 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/salesforce-intercom
-,Other Parties,"Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesf  →  Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce  (05 Aug  18:40)"
-,Last Modified Accc,2026-07-29T17:06:29+10:00  →  2026-08-05T15:54:01+10:00  (05 Aug  18:40)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (05 Aug  18:40)
-,Consultation Docs,"[{'date': '29 Jul 2026', 'description': 'Questionnaire - Salesforce - Intercom',  →    (05 Aug  18:40)"
-,,
-~ Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members,MN-65023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members
-,Acquisition Status,Under assessment  →  Assessment completed  (05 Aug  18:40)
-,Accc Determination,  →  Approved  (05 Aug  18:40)
-,Determination Publication Date,  →  5 August 2026  (05 Aug  18:40)
-,Last Modified Accc,2026-07-20T12:07:39+10:00  →  2026-08-05T12:51:47+10:00  (05 Aug  18:40)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (05 Aug  18:40)
-,Decisions Docs,"  →  [{'date': '5 Aug 2026', 'description': 'Energy Bay - Centuria Capital - Phase 1   (05 Aug  18:40)"
-,,
+"CHANGED ENTRIES (26 entries, 28 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
 ,Last Modified Accc,2026-07-29T12:36:34+10:00  →  2026-08-05T15:02:02+10:00  (06 Aug  12:48)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. T  →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Aug  12:48)
@@ -222,4 +192,37 @@ NEW ENTRIES (18),Case Number,Detected (AEST)
 ,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  (12 Aug  12:09)
 ,Last Modified Accc,2026-07-21T16:04:53+10:00  →  2026-08-12T09:46:14+10:00  (12 Aug  12:09)
 ,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - P  (12 Aug  12:09)"
+,,
+~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
+,Targets,C&M Central Pty Ltd; 649 711 053; C&M Central Unit Trust; 47 351 736 164  →  C&M Central Unit Trust; 47 351 736 164; C&M Central Pty Ltd; 649 711 053  (12 Aug  17:36)
+,Other Parties,JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103  →  SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248  (12 Aug  17:36)
+,Last Modified Accc,2026-08-05T15:03:33+10:00  →  2026-08-12T17:06:34+10:00  (12 Aug  17:36)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (12 Aug  17:36)
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - Johns Lyng Group - C&M B  →    (12 Aug  17:36)"
+,,
+~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway
+,Other Parties,BP plc; UK company number: 00102498; BP Australia Investments Pty Ltd; 66 102 99  →  BP Australia Investments Pty Ltd; 66 102 991 551; BP plc; UK company number: 001  (12 Aug  17:36)
+,Last Modified Accc,2026-08-05T12:32:12+10:00  →  2026-08-12T15:17:56+10:00  (12 Aug  17:36)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Aug  17:36)
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - bp - bp Gateway', 'url':  →    (12 Aug  17:36)"
+,,
+~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
+,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  17:36)
+,Accc Determination,  →  Approved  (12 Aug  17:36)
+,Last Modified Accc,2026-07-30T15:04:59+10:00  →  2026-08-12T16:23:42+10:00  (12 Aug  17:36)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  17:36)
+,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Ambrose Construct Group - Major Loss Bu  (12 Aug  17:36)"
+,,
+~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
+,End Of Determination Period,24 Aug 2026  →  9 Sep 2026  (12 Aug  17:36)
+,Last Modified Accc,2026-07-20T10:39:30+10:00  →  2026-08-12T16:20:59+10:00  (12 Aug  17:36)
+,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days –  (12 Aug  17:36)"
+,,
+~ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
+,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  17:36)
+,Accc Determination,  →  Approved  (12 Aug  17:36)
+,Other Parties,Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LT  →  Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; MERMEC AUSTRALIA PTY LTD  (12 Aug  17:36)
+,Last Modified Accc,2026-07-20T17:55:52+10:00  →  2026-08-12T16:11:32+10:00  (12 Aug  17:36)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  17:36)
+,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Phase 1 determination', 'url': 'https:/  (12 Aug  17:36)"
 ,,

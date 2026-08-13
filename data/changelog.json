@@ -27390,5 +27390,111 @@
         "new": "[{'date': '12 Aug 2026', 'description': 'Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Siemens%20Mobility%20-%20MerMec%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T02:11:37.615860Z",
+    "slug": "eli-lilly-and-company-ataibeckley-inc",
+    "title": "Eli Lilly and Company / AtaiBeckley Inc.",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-06T13:20:38+10:00",
+        "new": "2026-08-13T09:17:42+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 August 2026 via email to mergers@accc.gov.au with the title Submission re: Eli Lilly - AtaiBeckley. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 6 Aug 2026 Questionnaire - Eli Lilly - AtaiBeckley Attachment 116.28 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '6 Aug 2026', 'description': 'Questionnaire - Eli Lilly - AtaiBeckley', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Eli%20Lilly%20and%20Company%20-%20AtaiBeckley%20Inc..docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T02:11:37.615860Z",
+    "slug": "modaxo-conduent",
+    "title": "Modaxo - Conduent",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Modaxo France Holdings SAS; Modaxo Group, Inc; Modaxo USA Holdings, Inc",
+        "new": "Modaxo Group, Inc; Modaxo USA Holdings, Inc; Modaxo France Holdings SAS"
+      },
+      {
+        "field": "targets",
+        "old": "CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; Conduent Business Services, LLC; CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; 58 136 828 914; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS; 20 251 484 486",
+        "new": "CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS; 20 251 484 486; CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; 58 136 828 914; Conduent Business Services, LLC"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-06T13:25:53+10:00",
+        "new": "2026-08-13T10:16:07+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the Questionnaire should be provided by 12 August 2026 via email to mergers@accc.gov.au with the title Submission re: Modaxo - Conduent. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 6 Aug 2026 Modaxo Conduent - Questionnaire Attachment 116.26 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '6 Aug 2026', 'description': 'Modaxo Conduent - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Modaxo%20Conduent%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T02:11:37.615860Z",
+    "slug": "hitech-group-australia-hudson-global-resources",
+    "title": "HiTech Group Australia - Hudson Global Resources",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-05T16:35:42+10:00",
+        "new": "2026-08-13T09:17:09+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 August 2026 via email to mergers@accc.gov.au with the title Submission re: HiTech Group Australia - Hudson Global Resources. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 5 Aug 2026 Questionnaire HiTech Group Australia - Hudson Global Resources Attachment 116.56 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '5 Aug 2026', 'description': 'Questionnaire HiTech Group Australia - Hudson Global Resources', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%3A%20HiTech%20Group%20Australia%20-%20Hudson%20Global%20Resources_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T02:11:37.615860Z",
+    "slug": "merivale-%E2%80%93-the-sackville-hotel",
+    "title": "MERIVALE – THE SACKVILLE HOTEL",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-05T12:43:56+10:00",
+        "new": "2026-08-13T10:32:57+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 August 2026 via email to mergers@accc.gov.au with the title Submission re: Merivale – The Sackville Hotel. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 5 Aug 2026 Merivale - The Sackville Hotel - Third-party questionnaire Attachment 116.65 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '5 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Third-party questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Merivale%20-%20The%20Sackville%20Hotel%20-%20Third-party%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]
