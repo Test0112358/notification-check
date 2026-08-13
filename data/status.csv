@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-13 02:11:37.615860,
-Last scrape run (AEST),13 Aug 2026  12:11,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-13 07:38:24.370433,
+Last scrape run (AEST),13 Aug 2026  17:38,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,541,
 New entries this run,0,
-Changed entries this run,4,
+Changed entries this run,5,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,35 +13,49 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc
-,Last Modified Accc,2026-08-06T13:20:38+10:00  →  2026-08-13T09:17:42+10:00
+CHANGED ENTRIES (5),Field changed,Old value  →  New value
+~ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made
+,Targets,Made (MJV) Pte Ltd; UEN 202321698C; TUCKER HOLDCO PTY LTD; 85 644 211 772  →  TUCKER HOLDCO PTY LTD; 85 644 211 772; Made (MJV) Pte Ltd; UEN 202321698C
+,Other Parties,Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales d’Évian S.A.; SIREN   →  DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; NUTRICIA AUSTRALIA PTY LIMITED; 99 076 246 75
+,Last Modified Accc,2026-08-06T11:00:12+10:00  →  2026-08-13T10:17:32+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Eli Lilly - AtaiBeckley', 'url': 'https://ww  →  "
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danone - MADE', 'url': 'https://www.accc.gov  →  "
 ,,
-~ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent
-,Acquirers,"Modaxo France Holdings SAS; Modaxo Group, Inc; Modaxo USA Holdings, Inc  →  Modaxo Group, Inc; Modaxo USA Holdings, Inc; Modaxo France Holdings SAS"
-,Targets,"CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; Conduent Business Services, LLC; CONDUEN  →  CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS"
-,Last Modified Accc,2026-08-06T13:25:53+10:00  →  2026-08-13T10:16:07+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Modaxo Conduent - Questionnaire', 'url': 'https://www.accc.g  →  "
+~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  13 August 2026
+,Last Modified Accc,2026-07-29T21:21:06+10:00  →  2026-08-13T15:38:06+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Vertex - Crinetics - Phase 1 determination', 'url': 'https:"
 ,,
-~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
-,Last Modified Accc,2026-08-05T16:35:42+10:00  →  2026-08-13T09:17:09+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire HiTech Group Australia - Hudson Global Resourc  →  "
+~ Expedia - CarTrawler,MN-90022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Acquirers,"Expedia Group, Inc.; I.R.S. Employer Identification No.-20-2705720; Expedia Group International Hold  →  Expedia Group International Holdings II, LLC; Delaware Secretary of State-7172515 I.R.S Employer Ide"
+,Last Modified Accc,2026-07-28T17:05:03+10:00  →  2026-08-13T16:51:55+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Expedia - CarTrawler - Phase 1 determination', 'url': 'http"
 ,,
-~ MERIVALE – THE SACKVILLE HOTEL,MN-35033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
-,Last Modified Accc,2026-08-05T12:43:56+10:00  →  2026-08-13T10:32:57+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Third-party questionnaire',  →  "
+~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Last Modified Accc,2026-07-22T17:00:29+10:00  →  2026-08-13T14:58:54+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Total Drain Group - Pipe Management Australia - Phase 1 det"
+,,
+~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  13 August 2026
+,Last Modified Accc,2026-07-24T10:18:54+10:00  →  2026-08-13T14:47:04+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Laundy - Woy Woy Hotel - Phase 1 determination', 'url': 'ht"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (18),Case Number,Detected (AEST)
-+ Danaher (Leica Biosystems) - StatLab,MN-15031,06 Aug  12:48
-+ Danone – MADE,MN-55031,06 Aug  12:48
+NEW ENTRIES (16),Case Number,Detected (AEST)
 + Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,06 Aug  18:41
 + Modaxo - Conduent,MN-25040,06 Aug  18:41
 + Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,07 Aug  12:47
@@ -59,11 +73,7 @@ NEW ENTRIES (18),Case Number,Detected (AEST)
 + MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,12 Aug  17:36
 + Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,12 Aug  17:36
 ,,
-"CHANGED ENTRIES (26 entries, 28 change events)",Field changed,Old value  →  New value  (AEST)
-~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
-,Last Modified Accc,2026-07-29T12:36:34+10:00  →  2026-08-05T15:02:02+10:00  (06 Aug  12:48)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition and the Remedy Offer. T  →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Aug  12:48)
-,,
+"CHANGED ENTRIES (29 entries, 31 change events)",Field changed,Old value  →  New value  (AEST)
 ~ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
 ,Last Modified Accc,2026-07-30T10:11:56+10:00  →  2026-08-06T14:27:48+10:00  (06 Aug  18:41)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Aug  18:41)
@@ -225,4 +235,26 @@ NEW ENTRIES (18),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-20T17:55:52+10:00  →  2026-08-12T16:11:32+10:00  (12 Aug  17:36)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  17:36)
 ,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Phase 1 determination', 'url': 'https:/  (12 Aug  17:36)"
+,,
+~ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc
+,Last Modified Accc,2026-08-06T13:20:38+10:00  →  2026-08-13T09:17:42+10:00  (13 Aug  12:11)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Eli Lilly - AtaiBeckley'  →    (13 Aug  12:11)"
+,,
+~ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent
+,Acquirers,"Modaxo France Holdings SAS; Modaxo Group, Inc; Modaxo USA Holdings, Inc  →  Modaxo Group, Inc; Modaxo USA Holdings, Inc; Modaxo France Holdings SAS  (13 Aug  12:11)"
+,Targets,CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; Conduent Business Se  →  CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SO  (13 Aug  12:11)
+,Last Modified Accc,2026-08-06T13:25:53+10:00  →  2026-08-13T10:16:07+10:00  (13 Aug  12:11)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Modaxo Conduent - Questionnaire', 'url':  →    (13 Aug  12:11)"
+,,
+~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
+,Last Modified Accc,2026-08-05T16:35:42+10:00  →  2026-08-13T09:17:09+10:00  (13 Aug  12:11)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire HiTech Group Australia - H  →    (13 Aug  12:11)"
+,,
+~ MERIVALE – THE SACKVILLE HOTEL,MN-35033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
+,Last Modified Accc,2026-08-05T12:43:56+10:00  →  2026-08-13T10:32:57+10:00  (13 Aug  12:11)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
+,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Third-p  →    (13 Aug  12:11)"
 ,,

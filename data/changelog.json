@@ -27496,5 +27496,190 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T07:38:24.370433Z",
+    "slug": "danone-%E2%80%93-made",
+    "title": "Danone – MADE",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Made (MJV) Pte Ltd; UEN 202321698C; TUCKER HOLDCO PTY LTD; 85 644 211 772",
+        "new": "TUCKER HOLDCO PTY LTD; 85 644 211 772; Made (MJV) Pte Ltd; UEN 202321698C"
+      },
+      {
+        "field": "other_parties",
+        "old": "Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales d’Évian S.A.; SIREN 797 080 850; NUTRICIA AUSTRALIA PTY LIMITED; 99 076 246 752; DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; Made Brands Pte Ltd; UEN 202239762W; Minogue HoldCo; Danone S.A.; SIREN 552 032 534",
+        "new": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; NUTRICIA AUSTRALIA PTY LIMITED; 99 076 246 752; Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales d’Évian S.A.; SIREN 797 080 850; Danone S.A.; SIREN 552 032 534; Made Brands Pte Ltd; UEN 202239762W; Minogue HoldCo"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-06T11:00:12+10:00",
+        "new": "2026-08-13T10:17:32+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 13 August 2026 via email to mergers@accc.gov.au with the title Submission re: Danone – MADE. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited read more 6 Aug 2026 Questionnaire - Danone - MADE Attachment 116.02 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danone - MADE', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Danone%20-%20MADE.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T07:38:24.370433Z",
+    "slug": "vertex-%E2%80%93-crinetics",
+    "title": "Vertex – Crinetics",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "13 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-29T21:21:06+10:00",
+        "new": "2026-08-13T15:38:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Aug 2026', 'description': 'Vertex - Crinetics - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vertex%20-%20Crinetics%20-%20Phase%201%20determination%20-%2013%20August%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T07:38:24.370433Z",
+    "slug": "expedia-cartrawler",
+    "title": "Expedia - CarTrawler",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "acquirers",
+        "old": "Expedia Group, Inc.; I.R.S. Employer Identification No.-20-2705720; Expedia Group International Holdings II, LLC; Delaware Secretary of State-7172515 I.R.S Employer Identification No.-83-2737894",
+        "new": "Expedia Group International Holdings II, LLC; Delaware Secretary of State-7172515 I.R.S Employer Identification No.-83-2737894; Expedia Group, Inc.; I.R.S. Employer Identification No.-20-2705720"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-28T17:05:03+10:00",
+        "new": "2026-08-13T16:51:55+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Aug 2026', 'description': 'Expedia - CarTrawler - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Expedia%20-%20CarTrawler%20-%20Phase%201%20determination%20without%20conditions%20-%2013%20August%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T07:38:24.370433Z",
+    "slug": "total-drain-group-pipe-management-australia",
+    "title": "Total Drain Group - Pipe Management Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-22T17:00:29+10:00",
+        "new": "2026-08-13T14:58:54+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Aug 2026', 'description': 'Total Drain Group - Pipe Management Australia - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Total%20Drain%20Group%20-%20Pipe%20Management%20Australia%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-13T07:38:24.370433Z",
+    "slug": "laundy-%E2%80%93-woy-woy-hotel-0",
+    "title": "Laundy – Woy Woy Hotel",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "13 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-24T10:18:54+10:00",
+        "new": "2026-08-13T14:47:04+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Aug 2026', 'description': 'Laundy - Woy Woy Hotel - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Laundy-Woy%20Woy%20Hotel%20-%20Phase%201%20determination%20-%2013%20August%202026.pdf'}]"
+      }
+    ]
   }
 ]
