@@ -12,9 +12,33 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "expedia-cartrawler",
+    "title": "Expedia - CarTrawler",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "acrow-ausgroup-industrial-services",
     "title": "Acrow - Ausgroup Industrial Services",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "total-drain-group-pipe-management-australia",
+    "title": "Total Drain Group - Pipe Management Australia",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia",
     "layer": 1,
     "rule": "COMPLETED_MISSING_PUB_DATE",
     "severity": "WARNING",
@@ -190,5 +214,17 @@
     "field": "anzsic_codes",
     "stored_value": "121 Beverage Manufacturing; 67 Property Operators and Real Estate Services",
     "expected_or_found": "at least one 4-digit code"
+  },
+  {
+    "slug": "eiffel-and-eurazeo-%E2%80%93-segula",
+    "title": "Eiffel and Eurazeo – Segula",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eiffel-and-eurazeo-%E2%80%93-segula",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
   }
 ]
