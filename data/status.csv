@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-14 02:09:24.394577,
-Last scrape run (AEST),14 Aug 2026  12:09,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-14 07:36:29.653643,
+Last scrape run (AEST),14 Aug 2026  17:36,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,543,
+Total entries monitored,545,
 New entries this run,2,
-Changed entries this run,3,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,32 +14,20 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (2),Case Number,URL
-+ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adobe-topaz-labs
-"+ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
++ Bain Capital – Kakaku.com,WA-60034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-kakakucom
++ Vitamin Well - EMPWR Nutrition Group,WA-05040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vitamin-well-empwr-nutrition-group
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
-,Last Modified Accc,2026-08-07T15:59:28+10:00  →  2026-08-14T09:31:25+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Australian Venue Co – assets of Black Nugget  →  "
-,,
-~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab
-,Last Modified Accc,2026-08-06T10:40:57+10:00  →  2026-08-13T09:20:09+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danaher (Leica Biosystems) - StatLab', 'url'  →  "
-,,
-~ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline
-,End Of Determination Period,17 Aug 2026  →  25 Aug 2026
-,Last Modified Accc,2026-07-14T17:43:31+10:00  →  2026-08-13T18:17:47+10:00
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days - following request by"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Determination Publication Date,30 July 2026  →  31 July 2026
+,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; REG  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL G
+,Last Modified Accc,2026-07-31T09:18:21+10:00  →  2026-08-14T11:18:13+10:00
+,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy of  →  [{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawarra', 'url': 'https:"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (14),Case Number,Detected (AEST)
-+ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,07 Aug  12:47
-"+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,07 Aug  17:20
-+ Alter Domus - MSC Group,WA-05035,07 Aug  17:20
+NEW ENTRIES (13),Case Number,Detected (AEST)
 + Osmoflo Water Management - Guidera O'Connor,MN-35031,10 Aug  12:01
 + The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
 + Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
@@ -51,38 +39,10 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 + EQT Fund Management – Corza Biosurgery,WA-70033,12 Aug  17:36
 + MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,12 Aug  17:36
 + Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,12 Aug  17:36
++ Adobe - Topaz Labs,MN-30028,14 Aug  12:09
+"+ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,14 Aug  12:09
 ,,
-"CHANGED ENTRIES (29 entries, 31 change events)",Field changed,Old value  →  New value  (AEST)
-~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos
-,Targets,"Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware   →  PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 6  (07 Aug  12:47)"
-,Other Parties,Accenture plc; Ireland registered number - 471706; Accenture Inc.; Delaware regi  →  ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328  (07 Aug  12:47)
-,Last Modified Accc,2026-07-30T15:34:40+10:00  →  2026-08-06T15:23:43+10:00  (07 Aug  12:47)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (07 Aug  12:47)
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisition  →    (07 Aug  12:47)"
-,,
-~ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-runzero
-,Other Parties,CYBERCX PTY LTD; 90 629 363 328; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895  →  CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 33  (07 Aug  12:47)
-,Last Modified Accc,2026-07-30T15:35:29+10:00  →  2026-08-06T15:27:35+10:00  (07 Aug  12:47)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (07 Aug  12:47)
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Accenture - Acquisition  →    (07 Aug  12:47)"
-,,
-~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
-,Acquirers,M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697  →  Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources  (07 Aug  17:20)
-,Targets,Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd   →  Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd   (07 Aug  17:20)
-,Last Modified Accc,2026-07-31T10:20:15+10:00  →  2026-08-07T15:56:51+10:00  (07 Aug  17:20)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (07 Aug  17:20)
-,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'M Resources and Golden Energy and Resou  →    (07 Aug  17:20)"
-,,
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Acquisition Status,Under assessment  →  Assessment completed  (07 Aug  17:20)
-,Accc Determination,  →  Not approved  (07 Aug  17:20)
-,Determination Publication Date,  →  7 August 2026  (07 Aug  17:20)
-,Last Modified Accc,2026-07-01T16:46:07+10:00  →  2026-08-07T14:41:45+10:00  (07 Aug  17:20)
-,Consultation Text,"On 17 June 2026, Kegstar made a remedy offer to the ACCC in the form of an under  →    (07 Aug  17:20)"
-,Decisions Docs,"[{'date': '14 May 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  (07 Aug  17:20)"
-,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00  (11 Aug  11:56)
-,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of  (11 Aug  11:56)"
-,,
+"CHANGED ENTRIES (29 entries, 30 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
 ,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone T  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Hor  (10 Aug  12:01)"
 ,Last Modified Accc,2026-07-31T10:33:02+10:00  →  2026-08-10T10:12:26+10:00  (10 Aug  12:01)
@@ -118,6 +78,10 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 ~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
 ,Last Modified Accc,2026-07-08T08:17:10+10:00  →  2026-08-10T16:02:39+10:00  (10 Aug  17:46)
 ,Decisions Docs,"[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to   →  [{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  (10 Aug  17:46)"
+,,
+~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
+,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00  (11 Aug  11:56)
+,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of  (11 Aug  11:56)"
 ,,
 ~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
 ,Last Modified Accc,2026-07-10T16:26:27+10:00  →  2026-08-11T13:52:58+10:00  (11 Aug  17:12)
@@ -246,4 +210,19 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-24T10:18:54+10:00  →  2026-08-13T14:47:04+10:00  (13 Aug  17:38)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (13 Aug  17:38)
 ,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Laundy - Woy Woy Hotel - Phase 1 determ  (13 Aug  17:38)"
+,,
+"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
+,Last Modified Accc,2026-08-07T15:59:28+10:00  →  2026-08-14T09:31:25+10:00  (14 Aug  12:09)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (14 Aug  12:09)
+,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Australian Venue Co – as  →    (14 Aug  12:09)"
+,,
+~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab
+,Last Modified Accc,2026-08-06T10:40:57+10:00  →  2026-08-13T09:20:09+10:00  (14 Aug  12:09)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (14 Aug  12:09)
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danaher (Leica Biosystem  →    (14 Aug  12:09)"
+,,
+~ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline
+,End Of Determination Period,17 Aug 2026  →  25 Aug 2026  (14 Aug  12:09)
+,Last Modified Accc,2026-07-14T17:43:31+10:00  →  2026-08-13T18:17:47+10:00  (14 Aug  12:09)
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days -   (14 Aug  12:09)"
 ,,

@@ -27769,5 +27769,50 @@
         "new": "[{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days - following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-14T07:36:29.653643Z",
+    "slug": "bain-capital-%E2%80%93-kakakucom",
+    "title": "Bain Capital – Kakaku.com",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-kakakucom",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-14T07:36:29.653643Z",
+    "slug": "vitamin-well-empwr-nutrition-group",
+    "title": "Vitamin Well - EMPWR Nutrition Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vitamin-well-empwr-nutrition-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-14T07:36:29.653643Z",
+    "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "determination_publication_date",
+        "old": "30 July 2026",
+        "new": "31 July 2026"
+      },
+      {
+        "field": "targets",
+        "old": "MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MACHINERY SALES PTY LIMITED; 13 074 358 277",
+        "new": "MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL GROUP AUSTRALIA PTY LIMITED; 21 634 578 699; MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-31T09:18:21+10:00",
+        "new": "2026-08-14T11:18:13+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}, {'date': '30 Jul 2026', 'description': 'Heidelberg Materials Australia - construction materials business of MAAS - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA-MAAS%20Phase%201%20determination%20and%20statement%20of%20reasons_0.pdf'}]",
+        "new": "[{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawarra', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20-%20s87B%20Undertaking%20-%20Illawarra%20-%20public%20version.pdf'}, {'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Yalkara', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20-%20s87B%20Undertaking%20-%20Yalkara%20-%20public%20version.pdf'}, {'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Blackwater', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20-%20s87B%20Undertaking%20-%20Blackwater%20-%20public%20version.pdf'}, {'date': '30 Jul 2026', 'description': 'Heidelberg Materials Australia - construction materials business of MAAS - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA-MAAS%20Phase%201%20determination%20and%20statement%20of%20reasons_2.pdf'}, {'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]"
+      }
+    ]
   }
 ]
