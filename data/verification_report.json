@@ -216,9 +216,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "eiffel-and-eurazeo-%E2%80%93-segula",
-    "title": "Eiffel and Eurazeo – Segula",
-    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eiffel-and-eurazeo-%E2%80%93-segula",
+    "slug": "complete-air-supply-all-air",
+    "title": "Complete Air Supply - All Air",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/complete-air-supply-all-air",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
