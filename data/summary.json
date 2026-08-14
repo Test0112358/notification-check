@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-08-13T07:58:38.761277Z",
-  "total_entries": 541,
+  "generated_at_utc": "2026-08-14T02:32:16.455002Z",
+  "total_entries": 543,
   "by_acquisition_status": {
-    "Under assessment": 48,
+    "Under assessment": 50,
     "Assessment completed": 490,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 211,
+    "Phase 1 - initial assessment": 213,
     "Waiver application": 322,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
-    "Notification": 219,
+    "Notification": 221,
     "Waiver": 322
   },
   "by_accc_determination": {
@@ -22,22 +22,22 @@
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "vsa-sprayline",
-      "title": "VSA - SprayLine",
-      "end_of_determination_period": "17 Aug 2026",
-      "days_remaining": 4
-    },
-    {
       "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
       "title": "Vets Central – Hills Veterinary Centre",
       "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "slug": "origin-%E2%80%93-climatech-zero",
       "title": "Origin – Climatech Zero",
       "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 8
+      "days_remaining": 7
+    },
+    {
+      "slug": "peter-warren-wakeling-automotive-0",
+      "title": "Peter Warren - Wakeling Automotive",
+      "end_of_determination_period": "24 Aug 2026",
+      "days_remaining": 10
     }
   ]
 }

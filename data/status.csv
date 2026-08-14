@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-13 07:38:24.370433,
-Last scrape run (AEST),13 Aug 2026  17:38,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-14 02:09:24.394577,
+Last scrape run (AEST),14 Aug 2026  12:09,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,541,
-New entries this run,0,
-Changed entries this run,5,
+Total entries monitored,543,
+New entries this run,2,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,51 +13,30 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (5),Field changed,Old value  →  New value
-~ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made
-,Targets,Made (MJV) Pte Ltd; UEN 202321698C; TUCKER HOLDCO PTY LTD; 85 644 211 772  →  TUCKER HOLDCO PTY LTD; 85 644 211 772; Made (MJV) Pte Ltd; UEN 202321698C
-,Other Parties,Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales d’Évian S.A.; SIREN   →  DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; NUTRICIA AUSTRALIA PTY LIMITED; 99 076 246 75
-,Last Modified Accc,2026-08-06T11:00:12+10:00  →  2026-08-13T10:17:32+10:00
+NEW ENTRIES (2),Case Number,URL
++ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adobe-topaz-labs
+"+ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
+,,
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
+,Last Modified Accc,2026-08-07T15:59:28+10:00  →  2026-08-14T09:31:25+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danone - MADE', 'url': 'https://www.accc.gov  →  "
+,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Australian Venue Co – assets of Black Nugget  →  "
 ,,
-~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  13 August 2026
-,Last Modified Accc,2026-07-29T21:21:06+10:00  →  2026-08-13T15:38:06+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Vertex - Crinetics - Phase 1 determination', 'url': 'https:"
+~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab
+,Last Modified Accc,2026-08-06T10:40:57+10:00  →  2026-08-13T09:20:09+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danaher (Leica Biosystems) - StatLab', 'url'  →  "
 ,,
-~ Expedia - CarTrawler,MN-90022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Acquirers,"Expedia Group, Inc.; I.R.S. Employer Identification No.-20-2705720; Expedia Group International Hold  →  Expedia Group International Holdings II, LLC; Delaware Secretary of State-7172515 I.R.S Employer Ide"
-,Last Modified Accc,2026-07-28T17:05:03+10:00  →  2026-08-13T16:51:55+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Expedia - CarTrawler - Phase 1 determination', 'url': 'http"
-,,
-~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-07-22T17:00:29+10:00  →  2026-08-13T14:58:54+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Total Drain Group - Pipe Management Australia - Phase 1 det"
-,,
-~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  13 August 2026
-,Last Modified Accc,2026-07-24T10:18:54+10:00  →  2026-08-13T14:47:04+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Laundy - Woy Woy Hotel - Phase 1 determination', 'url': 'ht"
+~ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline
+,End Of Determination Period,17 Aug 2026  →  25 Aug 2026
+,Last Modified Accc,2026-07-14T17:43:31+10:00  →  2026-08-13T18:17:47+10:00
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days - following request by"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (16),Case Number,Detected (AEST)
-+ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,06 Aug  18:41
-+ Modaxo - Conduent,MN-25040,06 Aug  18:41
+NEW ENTRIES (14),Case Number,Detected (AEST)
 + Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,07 Aug  12:47
 "+ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,07 Aug  17:20
 + Alter Domus - MSC Group,WA-05035,07 Aug  17:20
@@ -74,34 +53,6 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 + Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,12 Aug  17:36
 ,,
 "CHANGED ENTRIES (29 entries, 31 change events)",Field changed,Old value  →  New value  (AEST)
-~ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
-,Last Modified Accc,2026-07-30T10:11:56+10:00  →  2026-08-06T14:27:48+10:00  (06 Aug  18:41)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Aug  18:41)
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - MM Security - Mircon Se  →    (06 Aug  18:41)"
-,,
-~ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/protech-activaterail
-,Last Modified Accc,2026-07-28T18:10:08+10:00  →  2026-08-06T12:54:28+10:00  (06 Aug  18:41)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (06 Aug  18:41)
-,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'Questionnaire - Protech - ActivateRail'  →    (06 Aug  18:41)"
-,,
-~ Parker-Hannifin – CIRCOR A&D,MN-70026,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/parker-hannifin-%E2%80%93-circor-ad
-,Acquisition Status,Under assessment  →  Assessment completed  (06 Aug  18:41)
-,Accc Determination,  →  Approved  (06 Aug  18:41)
-,Determination Publication Date,  →  6 August 2026  (06 Aug  18:41)
-,Last Modified Accc,2026-07-23T19:06:58+10:00  →  2026-08-06T17:14:51+10:00  (06 Aug  18:41)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (06 Aug  18:41)
-,Decisions Docs,"  →  [{'date': '6 Aug 2026', 'description': 'Parker-Hannifin–CIRCOR A&D - Phase 1 det  (06 Aug  18:41)"
-,,
-~ Journey Beyond - SeaLink Rottnest,MN-50011,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-sealink-rottnest
-,Last Modified Accc,2026-07-31T16:32:01+10:00  →  2026-08-06T17:21:19+10:00  (06 Aug  18:41)
-,Consultation Text,"On 29 July 2026, EAG made a remedy offer to the ACCC in the form of an undertaki  →    (06 Aug  18:41)"
-,Consultation Docs,"[{'date': '30 Jul 2026', 'description': 'Questionnaire - Journey Beyond - SeaLin  →    (06 Aug  18:41)"
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Last Modified Accc,2026-07-30T16:35:41+10:00  →  2026-08-06T16:47:45+10:00  (06 Aug  18:41)
-,Consultation Text,"On 28 July 2026, IAG provided a draft undertaking pursuant to s87B of the Compet  →    (06 Aug  18:41)"
-,Consultation Docs,"[{'date': '28 Jul 2026', 'description': 'Draft s87B Undertaking - 28 July 2026 -  →    (06 Aug  18:41)"
-,,
 ~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/accenture-dragos
 ,Targets,"Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware   →  PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 6  (07 Aug  12:47)"
 ,Other Parties,Accenture plc; Ireland registered number - 471706; Accenture Inc.; Delaware regi  →  ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328  (07 Aug  12:47)
@@ -257,4 +208,42 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-05T12:43:56+10:00  →  2026-08-13T10:32:57+10:00  (13 Aug  12:11)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
 ,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Third-p  →    (13 Aug  12:11)"
+,,
+~ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made
+,Targets,Made (MJV) Pte Ltd; UEN 202321698C; TUCKER HOLDCO PTY LTD; 85 644 211 772  →  TUCKER HOLDCO PTY LTD; 85 644 211 772; Made (MJV) Pte Ltd; UEN 202321698C  (13 Aug  17:38)
+,Other Parties,Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales   →  DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; NUTRICIA AUSTRALIA PTY LI  (13 Aug  17:38)
+,Last Modified Accc,2026-08-06T11:00:12+10:00  →  2026-08-13T10:17:32+10:00  (13 Aug  17:38)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  17:38)
+,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danone - MADE', 'url': '  →    (13 Aug  17:38)"
+,,
+~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
+,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
+,Accc Determination,  →  Approved  (13 Aug  17:38)
+,Determination Publication Date,  →  13 August 2026  (13 Aug  17:38)
+,Last Modified Accc,2026-07-29T21:21:06+10:00  →  2026-08-13T15:38:06+10:00  (13 Aug  17:38)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (13 Aug  17:38)
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Vertex - Crinetics - Phase 1 determinat  (13 Aug  17:38)"
+,,
+~ Expedia - CarTrawler,MN-90022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler
+,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
+,Accc Determination,  →  Approved  (13 Aug  17:38)
+,Acquirers,"Expedia Group, Inc.; I.R.S. Employer Identification No.-20-2705720; Expedia Grou  →  Expedia Group International Holdings II, LLC; Delaware Secretary of State-717251  (13 Aug  17:38)"
+,Last Modified Accc,2026-07-28T17:05:03+10:00  →  2026-08-13T16:51:55+10:00  (13 Aug  17:38)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (13 Aug  17:38)
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Expedia - CarTrawler - Phase 1 determin  (13 Aug  17:38)"
+,,
+~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
+,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
+,Accc Determination,  →  Approved  (13 Aug  17:38)
+,Last Modified Accc,2026-07-22T17:00:29+10:00  →  2026-08-13T14:58:54+10:00  (13 Aug  17:38)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (13 Aug  17:38)
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Total Drain Group - Pipe Management Aus  (13 Aug  17:38)"
+,,
+~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
+,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
+,Accc Determination,  →  Approved  (13 Aug  17:38)
+,Determination Publication Date,  →  13 August 2026  (13 Aug  17:38)
+,Last Modified Accc,2026-07-24T10:18:54+10:00  →  2026-08-13T14:47:04+10:00  (13 Aug  17:38)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (13 Aug  17:38)
+,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Laundy - Woy Woy Hotel - Phase 1 determ  (13 Aug  17:38)"
 ,,

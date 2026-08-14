@@ -1,5 +1,30 @@
 {
-  "run_utc": "2026-08-13T07:38:24.370433Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-08-14T02:09:24.394577Z",
+  "questionnaire_count": 2,
+  "questionnaires": [
+    {
+      "slug": "adobe-topaz-labs",
+      "title": "Adobe - Topaz Labs",
+      "case_number": "MN-30028",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/adobe-topaz-labs",
+      "date": "14 Aug 2026",
+      "description": "Questionnaire - Adobe - Topaz Labs",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Adobe%20-%20Topaz%20Labs.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Adobe - Topaz Labs.docx",
+      "filename": "Questionnaire - Adobe - Topaz Labs.docx",
+      "size_kb": 117.0
+    },
+    {
+      "slug": "opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+      "title": "Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",
+      "case_number": "MN-50035",
+      "accc_url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+      "date": "13 Aug 2026",
+      "description": "Opal HealthCare - Canberra Nursing Home - Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Opal%20-%20Canberra%20Nursing%20Home%20-%20Third-Party%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Opal - Canberra Nursing Home - Third-Party Questionnaire.docx",
+      "filename": "Opal - Canberra Nursing Home - Third-Party Questionnaire.docx",
+      "size_kb": 116.2
+    }
+  ]
 }
