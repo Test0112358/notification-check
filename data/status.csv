@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-17 01:24:53.718240,
-Last scrape run (AEST),17 Aug 2026  11:24,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-17 07:00:43.952457,
+Last scrape run (AEST),17 Aug 2026  17:00,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,546,
-New entries this run,1,
+Total entries monitored,550,
+New entries this run,4,
 Changed entries this run,1,
 Removed entries this run,0,
 ,,
@@ -13,21 +13,23 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Incubeta - Datisan,MN-05043,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/incubeta-datisan
+NEW ENTRIES (4),Case Number,URL
++ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oeconnection-epyx
++ Metal Manufactures - BayWa Solar Systems,MN-65031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metal-manufactures-baywa-solar-systems
+"+ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
++ Lockheed Martin – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lockheed-martin-%E2%80%93-ultra-maritime
 ,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
-,Other Parties,Wesfarmers Holdings Pty Ltd; 23 094 800 665; Wesfarmers Limited; 28 008 984 049; Built Group Holding  →  Wesfarmers Limited; 28 008 984 049; Wesfarmers Holdings Pty Ltd; 23 094 800 665; Built Group Holding
-,Last Modified Accc,2026-08-07T09:45:31+10:00  →  2026-08-14T09:00:10+10:00
+~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
+,Targets,Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 20246241415  →  Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Side
+,Other Parties,ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B214433; LOV Group Invest  →  K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest
+,Last Modified Accc,2026-08-10T13:42:05+10:00  →  2026-08-17T11:16:39+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Group – Built Living Jo  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (15),Case Number,Detected (AEST)
-+ Osmoflo Water Management - Guidera O'Connor,MN-35031,10 Aug  12:01
 + The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
 + Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
 + Holcim Australia – Burdetts Group,MN-05044,11 Aug  11:56
@@ -42,22 +44,9 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 "+ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,14 Aug  12:09
 + Bain Capital – Kakaku.com,WA-60034,14 Aug  17:36
 + Vitamin Well - EMPWR Nutrition Group,WA-05040,14 Aug  17:36
++ Incubeta - Datisan,MN-05043,17 Aug  11:24
 ,,
-"CHANGED ENTRIES (30 entries, 31 change events)",Field changed,Old value  →  New value  (AEST)
-~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
-,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone T  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Hor  (10 Aug  12:01)"
-,Last Modified Accc,2026-07-31T10:33:02+10:00  →  2026-08-10T10:12:26+10:00  (10 Aug  12:01)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Aug  12:01)
-,Consultation Docs,"[{'date': '31 Jul 2026', 'description': 'Global Infrastructure Management and EQ  →    (10 Aug  12:01)"
-,,
-~ Partnered Health - Ryan Plaza Medical Services,MN-15027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/partnered-health-ryan-plaza-medical-services
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Aug  12:01)
-,Accc Determination,  →  Approved  (10 Aug  12:01)
-,Determination Publication Date,  →  8 August 2026  (10 Aug  12:01)
-,Last Modified Accc,2026-07-13T09:11:16+10:00  →  2026-08-10T09:20:51+10:00  (10 Aug  12:01)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (10 Aug  12:01)
-,Decisions Docs,"  →  [{'date': '8 Aug 2026', 'description': 'Partnered Health - Ryan Plaza Medical Se  (10 Aug  12:01)"
-,,
+"CHANGED ENTRIES (29 entries, 30 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
 ,Last Modified Accc,2026-08-03T10:30:43+10:00  →  2026-08-10T16:40:54+10:00  (10 Aug  17:46)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Aug  17:46)
@@ -232,4 +221,10 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 ,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED;  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074  (14 Aug  17:36)
 ,Last Modified Accc,2026-07-31T09:18:21+10:00  →  2026-08-14T11:18:13+10:00  (14 Aug  17:36)
 ,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  →  [{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawa  (14 Aug  17:36)"
+,,
+~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+,Other Parties,Wesfarmers Holdings Pty Ltd; 23 094 800 665; Wesfarmers Limited; 28 008 984 049;  →  Wesfarmers Limited; 28 008 984 049; Wesfarmers Holdings Pty Ltd; 23 094 800 665;  (17 Aug  11:24)
+,Last Modified Accc,2026-08-07T09:45:31+10:00  →  2026-08-14T09:00:10+10:00  (17 Aug  11:24)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Aug  11:24)
+,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Gro  →    (17 Aug  11:24)"
 ,,

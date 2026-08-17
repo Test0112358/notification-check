@@ -1,40 +1,55 @@
 {
-  "run_utc": "2026-08-17T01:24:53.718240Z",
-  "new_count": 1,
+  "run_utc": "2026-08-17T07:00:43.952457Z",
+  "new_count": 4,
   "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "incubeta-datisan",
-      "title": "Incubeta - Datisan",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/incubeta-datisan"
+      "slug": "oeconnection-epyx",
+      "title": "OEConnection - Epyx",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oeconnection-epyx"
+    },
+    {
+      "slug": "metal-manufactures-baywa-solar-systems",
+      "title": "Metal Manufactures - BayWa Solar Systems",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metal-manufactures-baywa-solar-systems"
+    },
+    {
+      "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
+      "title": "Endeavour Group – retail liquor site in Horsham, VIC",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic"
+    },
+    {
+      "slug": "lockheed-martin-%E2%80%93-ultra-maritime",
+      "title": "Lockheed Martin – Ultra Maritime",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lockheed-martin-%E2%80%93-ultra-maritime"
     }
   ],
   "changed_entries": [
     {
-      "slug": "wesfarmers-and-built-group-built-living-joint-venture",
-      "title": "Wesfarmers and Built Group - Built Living Joint Venture",
-      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+      "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+      "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+      "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
       "changes": [
         {
+          "field": "targets",
+          "old": "Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150; Sidepiece LLC; Identifying number - 5134914; Division 7 LLC; Identifying number - 7088711; Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477",
+          "new": "Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Sidepiece LLC; Identifying number - 5134914; Division 7 LLC; Identifying number - 7088711; Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150"
+        },
+        {
           "field": "other_parties",
-          "old": "Wesfarmers Holdings Pty Ltd; 23 094 800 665; Wesfarmers Limited; 28 008 984 049; Built Group Holdings Pty Limited; 88 163 462 637",
-          "new": "Wesfarmers Limited; 28 008 984 049; Wesfarmers Holdings Pty Ltd; 23 094 800 665; Built Group Holdings Pty Limited; 88 163 462 637"
+          "old": "ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B214433; LOV Group Invest; Identifying number - 494 031 008; TowerBrook Capital Partners L.P.; Identifying number - 3922576",
+          "new": "K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest; Identifying number - 494 031 008; TowerBrook Capital Partners L.P.; Identifying number - 3922576"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-07T09:45:31+10:00",
-          "new": "2026-08-14T09:00:10+10:00"
+          "old": "2026-08-10T13:42:05+10:00",
+          "new": "2026-08-17T11:16:39+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 14 August 2026 via email to mergers@accc.gov.au with the title Submission re: Wesfarmers and Built Group – Built Living Joint Venture. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 7 Aug 2026 Questionnaire - Wesfarmers and Built Group – Built Living Joint Venture Attachment 116.42 KB",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 August 2026 via email to mergers@accc.gov.au with the title Submission re: The Independents Group – acquisition of entities within the Smuggler Group. read more The Independents Group – acquisition of entities within the Smuggler Group - Questionnaire Attachment 61.06 KB",
           "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Group – Built Living Joint Venture', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Wesfarmers%20and%20Built%20Group%20%E2%80%93%20Built%20Living%20Joint%20Venture.docx'}]",
-          "new": ""
         }
       ]
     }

@@ -27851,5 +27851,66 @@
         "new": ""
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-17T07:00:43.952457Z",
+    "slug": "oeconnection-epyx",
+    "title": "OEConnection - Epyx",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oeconnection-epyx",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-17T07:00:43.952457Z",
+    "slug": "metal-manufactures-baywa-solar-systems",
+    "title": "Metal Manufactures - BayWa Solar Systems",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metal-manufactures-baywa-solar-systems",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-17T07:00:43.952457Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
+    "title": "Endeavour Group – retail liquor site in Horsham, VIC",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-17T07:00:43.952457Z",
+    "slug": "lockheed-martin-%E2%80%93-ultra-maritime",
+    "title": "Lockheed Martin – Ultra Maritime",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lockheed-martin-%E2%80%93-ultra-maritime",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-17T07:00:43.952457Z",
+    "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150; Sidepiece LLC; Identifying number - 5134914; Division 7 LLC; Identifying number - 7088711; Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477",
+        "new": "Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Sidepiece LLC; Identifying number - 5134914; Division 7 LLC; Identifying number - 7088711; Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150"
+      },
+      {
+        "field": "other_parties",
+        "old": "ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B214433; LOV Group Invest; Identifying number - 494 031 008; TowerBrook Capital Partners L.P.; Identifying number - 3922576",
+        "new": "K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest; Identifying number - 494 031 008; TowerBrook Capital Partners L.P.; Identifying number - 3922576"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-10T13:42:05+10:00",
+        "new": "2026-08-17T11:16:39+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 August 2026 via email to mergers@accc.gov.au with the title Submission re: The Independents Group – acquisition of entities within the Smuggler Group. read more The Independents Group – acquisition of entities within the Smuggler Group - Questionnaire Attachment 61.06 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      }
+    ]
   }
 ]
