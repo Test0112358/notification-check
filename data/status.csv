@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-14 07:36:29.653643,
-Last scrape run (AEST),14 Aug 2026  17:36,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-17 01:24:53.718240,
+Last scrape run (AEST),17 Aug 2026  11:24,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,545,
-New entries this run,2,
+Total entries monitored,546,
+New entries this run,1,
 Changed entries this run,1,
 Removed entries this run,0,
 ,,
@@ -13,21 +13,20 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Bain Capital – Kakaku.com,WA-60034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bain-capital-%E2%80%93-kakakucom
-+ Vitamin Well - EMPWR Nutrition Group,WA-05040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vitamin-well-empwr-nutrition-group
+NEW ENTRIES (1),Case Number,URL
++ Incubeta - Datisan,MN-05043,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/incubeta-datisan
 ,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Determination Publication Date,30 July 2026  →  31 July 2026
-,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; REG  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074 358 277; REGIONAL G
-,Last Modified Accc,2026-07-31T09:18:21+10:00  →  2026-08-14T11:18:13+10:00
-,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy of  →  [{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawarra', 'url': 'https:"
+~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+,Other Parties,Wesfarmers Holdings Pty Ltd; 23 094 800 665; Wesfarmers Limited; 28 008 984 049; Built Group Holding  →  Wesfarmers Limited; 28 008 984 049; Wesfarmers Holdings Pty Ltd; 23 094 800 665; Built Group Holding
+,Last Modified Accc,2026-08-07T09:45:31+10:00  →  2026-08-14T09:00:10+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Group – Built Living Jo  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (13),Case Number,Detected (AEST)
+NEW ENTRIES (15),Case Number,Detected (AEST)
 + Osmoflo Water Management - Guidera O'Connor,MN-35031,10 Aug  12:01
 + The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
 + Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
@@ -41,8 +40,10 @@ NEW ENTRIES (13),Case Number,Detected (AEST)
 + Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,12 Aug  17:36
 + Adobe - Topaz Labs,MN-30028,14 Aug  12:09
 "+ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,14 Aug  12:09
++ Bain Capital – Kakaku.com,WA-60034,14 Aug  17:36
++ Vitamin Well - EMPWR Nutrition Group,WA-05040,14 Aug  17:36
 ,,
-"CHANGED ENTRIES (29 entries, 30 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (30 entries, 31 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
 ,Acquirers,"QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; EQT Keystone T  →  GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Hor  (10 Aug  12:01)"
 ,Last Modified Accc,2026-07-31T10:33:02+10:00  →  2026-08-10T10:12:26+10:00  (10 Aug  12:01)
@@ -225,4 +226,10 @@ NEW ENTRIES (13),Case Number,Detected (AEST)
 ,End Of Determination Period,17 Aug 2026  →  25 Aug 2026  (14 Aug  12:09)
 ,Last Modified Accc,2026-07-14T17:43:31+10:00  →  2026-08-13T18:17:47+10:00  (14 Aug  12:09)
 ,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days -   (14 Aug  12:09)"
+,,
+~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
+,Determination Publication Date,30 July 2026  →  31 July 2026  (14 Aug  17:36)
+,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED;  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074  (14 Aug  17:36)
+,Last Modified Accc,2026-07-31T09:18:21+10:00  →  2026-08-14T11:18:13+10:00  (14 Aug  17:36)
+,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  →  [{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawa  (14 Aug  17:36)"
 ,,

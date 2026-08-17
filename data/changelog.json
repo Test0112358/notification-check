@@ -27814,5 +27814,42 @@
         "new": "[{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawarra', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20-%20s87B%20Undertaking%20-%20Illawarra%20-%20public%20version.pdf'}, {'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Yalkara', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20-%20s87B%20Undertaking%20-%20Yalkara%20-%20public%20version.pdf'}, {'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Blackwater', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20-%20s87B%20Undertaking%20-%20Blackwater%20-%20public%20version.pdf'}, {'date': '30 Jul 2026', 'description': 'Heidelberg Materials Australia - construction materials business of MAAS - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/HMA-MAAS%20Phase%201%20determination%20and%20statement%20of%20reasons_2.pdf'}, {'date': '29 May 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-17T01:24:53.718240Z",
+    "slug": "incubeta-datisan",
+    "title": "Incubeta - Datisan",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/incubeta-datisan",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-17T01:24:53.718240Z",
+    "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+    "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Wesfarmers Holdings Pty Ltd; 23 094 800 665; Wesfarmers Limited; 28 008 984 049; Built Group Holdings Pty Limited; 88 163 462 637",
+        "new": "Wesfarmers Limited; 28 008 984 049; Wesfarmers Holdings Pty Ltd; 23 094 800 665; Built Group Holdings Pty Limited; 88 163 462 637"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-07T09:45:31+10:00",
+        "new": "2026-08-14T09:00:10+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 14 August 2026 via email to mergers@accc.gov.au with the title Submission re: Wesfarmers and Built Group – Built Living Joint Venture. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 7 Aug 2026 Questionnaire - Wesfarmers and Built Group – Built Living Joint Venture Attachment 116.42 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Group – Built Living Joint Venture', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Wesfarmers%20and%20Built%20Group%20%E2%80%93%20Built%20Living%20Joint%20Venture.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]
