@@ -1,5 +1,17 @@
 [
   {
+    "slug": "coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "title": "Coles – supermarket site in Upper Swan, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
     "title": "Ambrose Construct Group – Major Loss Builders",
     "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
