@@ -27912,5 +27912,168 @@
         "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "osmoflo-water-management-guidera-oconnor",
+    "title": "Osmoflo Water Management - Guidera O'Connor",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Iain Harvey Wood; Anthony Mark Guidera; Laszlo Richard Bachmayer; GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Straight Talking Pty Ltd; 008 068 308; WILLCAM NOMINEES PTY LTD; 93 063 325 146",
+        "new": "WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308; Anthony Mark Guidera; GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Iain Harvey Wood"
+      },
+      {
+        "field": "other_parties",
+        "old": "Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Michael William O'Connor; Stephen Michael Palyga",
+        "new": "Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Stephen Michael Palyga"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-10T11:00:01+10:00",
+        "new": "2026-08-17T16:48:34+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 August 2026 via email to mergers@accc.gov.au with the title Submission re: Osmoflo — Guidera O'Connor. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. read more 10 Aug 2026 Osmoflo - Guidera O'Connor - Questionnaire Attachment 118.03 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '10 Aug 2026', 'description': \"Osmoflo - Guidera O'Connor - Questionnaire\", 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Osmoflo%20-%20Guidera%20O%27Connor%20-%20questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "blackstone-darkvision-technologies",
+    "title": "Blackstone - DarkVision Technologies",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-darkvision-technologies",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances",
+    "title": "Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "title": "Coles – supermarket site in Upper Swan, WA",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-03T10:40:08+10:00",
+        "new": "2026-08-17T17:33:45+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '17 Aug 2026', 'description': 'Coles – supermarket site in Upper Swan, WA - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20%E2%80%93%20supermarket%20site%20in%20Upper%20Swan%2C%20WA%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "sanad-services-and-tikehau-capital-%E2%80%93-revima",
+    "title": "Sanad Services and Tikehau Capital – Revima",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "17 August 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812; Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483; Mubadala Investment Company PJSC; CN‑2302788; Tikehau Capital SCA; RCS Paris - 477 599 104",
+        "new": "Tikehau Capital SCA; RCS Paris - 477 599 104; Mubadala Investment Company PJSC; CN‑2302788; Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137 812; Sanad Services Group owned by One Hundred and Seven Investment RSC LTD – Sole Proprietorship L.L.C.; CN-2969483"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-30T11:48:51+10:00",
+        "new": "2026-08-17T19:24:25+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '17 Aug 2026', 'description': 'Sanad Services and Tikehau Capital–Revima - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Sanad%20Services%20%26%20Tikehau%20Capital-Revima%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "atlas-holdings-and-kps-%E2%80%93-shares-in-joint-venture-and-interest-in-cd-technologies",
+    "title": "Atlas Holdings and KPS – shares in joint venture and interest in C&D Technologies",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atlas-holdings-and-kps-%E2%80%93-shares-in-joint-venture-and-interest-in-cd-technologies",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "efex-onplatinum",
+    "title": "efex - OnPlatinum",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/efex-onplatinum",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-18T01:22:03.171323Z",
+    "slug": "journey-beyond-kelsian-tourism-portfolio",
+    "title": "Journey Beyond - Kelsian Tourism Portfolio",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-11T17:49:46+10:00",
+        "new": "2026-08-17T16:33:52+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]

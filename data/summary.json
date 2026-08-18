@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-17T07:23:47.387057Z",
-  "total_entries": 550,
+  "generated_at_utc": "2026-08-18T01:44:06.873908Z",
+  "total_entries": 554,
   "by_acquisition_status": {
-    "Under assessment": 55,
-    "Assessment completed": 492,
+    "Under assessment": 53,
+    "Assessment completed": 498,
     "Assessment ceased": 3
   },
   "by_stage": {
     "Phase 1 - initial assessment": 218,
-    "Waiver application": 324,
+    "Waiver application": 328,
     "Phase 2 - detailed assessment": 8
   },
   "by_type": {
     "Notification": 226,
-    "Waiver": 324
+    "Waiver": 328
   },
   "by_accc_determination": {
-    "Approved": 473,
+    "Approved": 479,
     "Approved with conditions": 3,
     "Not approved": 16
   },
@@ -25,25 +25,31 @@
       "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
       "title": "Vets Central – Hills Veterinary Centre",
       "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 2
+      "days_remaining": 1
     },
     {
       "slug": "origin-%E2%80%93-climatech-zero",
       "title": "Origin – Climatech Zero",
       "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 4
+      "days_remaining": 3
     },
     {
       "slug": "peter-warren-wakeling-automotive-0",
       "title": "Peter Warren - Wakeling Automotive",
       "end_of_determination_period": "24 Aug 2026",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "slug": "vsa-sprayline",
       "title": "VSA - SprayLine",
       "end_of_determination_period": "25 Aug 2026",
-      "days_remaining": 8
+      "days_remaining": 7
+    },
+    {
+      "slug": "syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
+      "title": "Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation",
+      "end_of_determination_period": "28 Aug 2026",
+      "days_remaining": 10
     }
   ]
 }

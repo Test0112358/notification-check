@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-17 07:00:43.952457,
-Last scrape run (AEST),17 Aug 2026  17:00,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-18 01:22:03.171323,
+Last scrape run (AEST),18 Aug 2026  11:22,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,550,
+Total entries monitored,554,
 New entries this run,4,
-Changed entries this run,1,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,24 +14,43 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (4),Case Number,URL
-+ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/oeconnection-epyx
-+ Metal Manufactures - BayWa Solar Systems,MN-65031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/metal-manufactures-baywa-solar-systems
-"+ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
-+ Lockheed Martin – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lockheed-martin-%E2%80%93-ultra-maritime
++ Blackstone - DarkVision Technologies,WA-75040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-darkvision-technologies
++ Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances,WA-20032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances
++ Atlas Holdings and KPS – shares in joint venture and interest in C&D Technologies,WA-60032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atlas-holdings-and-kps-%E2%80%93-shares-in-joint-venture-and-interest-in-cd-technologies
++ efex - OnPlatinum,WA-35028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/efex-onplatinum
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
-,Targets,Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 20246241415  →  Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Side
-,Other Parties,ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B214433; LOV Group Invest  →  K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest
-,Last Modified Accc,2026-08-10T13:42:05+10:00  →  2026-08-17T11:16:39+10:00
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
+,Targets,Iain Harvey Wood; Anthony Mark Guidera; Laszlo Richard Bachmayer; GUIDERA O'CONNOR PTY LTD; 71 099 0  →  WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308; Anthony Mark Guider
+,Other Parties,Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Michael William O'Connor; Stephen Michael Pa  →  Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Stephen Michael Pa
+,Last Modified Accc,2026-08-10T11:00:01+10:00  →  2026-08-17T16:48:34+10:00
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '10 Aug 2026', 'description': ""Osmoflo - Guidera O'Connor - Questionnaire"", 'url': 'https:  →  "
+,,
+"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Last Modified Accc,2026-08-03T10:40:08+10:00  →  2026-08-17T17:33:45+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '17 Aug 2026', 'description': 'Coles – supermarket site in Upper Swan, WA - Phase 1 determ"
+,,
+~ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  17 August 2026
+,Other Parties,Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137  →  Tikehau Capital SCA; RCS Paris - 477 599 104; Mubadala Investment Company PJSC; CN‑2302788; Ace Aéro
+,Last Modified Accc,2026-07-30T11:48:51+10:00  →  2026-08-17T19:24:25+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '17 Aug 2026', 'description': 'Sanad Services and Tikehau Capital–Revima - Phase 1 determi"
+,,
+~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
+,Last Modified Accc,2026-08-11T17:49:46+10:00  →  2026-08-17T16:33:52+10:00
+,Decisions Docs,"  →  [{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request b"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (15),Case Number,Detected (AEST)
-+ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,10 Aug  17:46
-+ Apollo - Bayer Asset Management,WA-70029,10 Aug  17:46
+NEW ENTRIES (17),Case Number,Detected (AEST)
 + Holcim Australia – Burdetts Group,MN-05044,11 Aug  11:56
 + Triton – Flender,WA-10024,11 Aug  17:12
 + Supagas – Heeson Medical,MN-80027,12 Aug  12:09
@@ -45,30 +64,12 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 + Bain Capital – Kakaku.com,WA-60034,14 Aug  17:36
 + Vitamin Well - EMPWR Nutrition Group,WA-05040,14 Aug  17:36
 + Incubeta - Datisan,MN-05043,17 Aug  11:24
++ OEConnection - Epyx,MN-45024,17 Aug  17:00
++ Metal Manufactures - BayWa Solar Systems,MN-65031,17 Aug  17:00
+"+ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,17 Aug  17:00
++ Lockheed Martin – Ultra Maritime,MN-75041,17 Aug  17:00
 ,,
-"CHANGED ENTRIES (29 entries, 30 change events)",Field changed,Old value  →  New value  (AEST)
-~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
-,Last Modified Accc,2026-08-03T10:30:43+10:00  →  2026-08-10T16:40:54+10:00  (10 Aug  17:46)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (10 Aug  17:46)
-,Consultation Docs,"[{'date': '3 Aug 2026', 'description': 'Questionnaire - Silk Contract Logistics   →    (10 Aug  17:46)"
-,,
-~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
-,End Of Determination Period,27 Aug 2026  →  10 Sep 2026  (10 Aug  17:46)
-,Other Parties,SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy  →  UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAP  (10 Aug  17:46)
-,Last Modified Accc,2026-07-23T16:22:52+10:00  →  2026-08-10T13:12:13+10:00  (10 Aug  17:46)
-,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days –  (10 Aug  17:46)"
-,,
-~ Acrow - Ausgroup Industrial Services,MN-60025,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/acrow-ausgroup-industrial-services
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Aug  17:46)
-,Accc Determination,  →  Approved  (10 Aug  17:46)
-,Last Modified Accc,2026-07-24T17:29:34+10:00  →  2026-08-10T16:40:55+10:00  (10 Aug  17:46)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (10 Aug  17:46)
-,Decisions Docs,"  →  [{'date': '10 Aug 2026', 'description': 'Acrow - Ausgroup Industrial Services -   (10 Aug  17:46)"
-,,
-~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/saipem-spa-subsea7-sa
-,Last Modified Accc,2026-07-08T08:17:10+10:00  →  2026-08-10T16:02:39+10:00  (10 Aug  17:46)
-,Decisions Docs,"[{'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to   →  [{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  (10 Aug  17:46)"
-,,
+"CHANGED ENTRIES (26 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
 ~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
 ,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00  (11 Aug  11:56)
 ,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of  (11 Aug  11:56)"
@@ -227,4 +228,10 @@ NEW ENTRIES (15),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-07T09:45:31+10:00  →  2026-08-14T09:00:10+10:00  (17 Aug  11:24)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Aug  11:24)
 ,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Gro  →    (17 Aug  11:24)"
+,,
+~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
+,Targets,Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying   →  Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying num  (17 Aug  17:00)
+,Other Parties,ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B2144  →  K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B2094  (17 Aug  17:00)
+,Last Modified Accc,2026-08-10T13:42:05+10:00  →  2026-08-17T11:16:39+10:00  (17 Aug  17:00)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Aug  17:00)
 ,,
