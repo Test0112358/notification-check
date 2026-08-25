@@ -28075,5 +28075,1465 @@
         "new": "[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "novonesis-%E2%80%93-microbiogen",
+    "title": "Novonesis – Microbiogen",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "lone-star-funds-contitech",
+    "title": "Lone Star Funds - ContiTech",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "mccormick-unilever-foods-business",
+    "title": "McCormick - Unilever Foods Business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "bloomberg-canoe-intelligence",
+    "title": "Bloomberg - Canoe Intelligence",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "tencent-%E2%80%93-happibits",
+    "title": "Tencent – Happibits",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+    "title": "L'Oréal – Gucci Beauty Licence",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "coles-supermarket-site-in-kirkwood-qld",
+    "title": "Coles - supermarket site in Kirkwood (QLD)",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture",
+    "title": "Bunnings – Intellihub – Zelora Joint Venture",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "chevron-woodside-asset-swap",
+    "title": "Chevron - Woodside asset swap",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/chevron-woodside-asset-swap",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "saint-gobain-xypex",
+    "title": "Saint-Gobain - Xypex",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "oeconnection-epyx",
+    "title": "OEConnection - Epyx",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "Francisco Partners Management, LP.; SEC reference number - 801-73955; OEConnection, LLC; 1196674",
+        "new": "OEConnection, LLC; 1196674; Francisco Partners Management, LP.; SEC reference number - 801-73955"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-17T12:29:29+10:00",
+        "new": "2026-08-21T10:51:28+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 24 August 2026 via email to mergers@accc.gov.au with the title Submission re: OEConnection – Epyx. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 17 Aug 2026 Questionnaire - OEConnection - Epyx Attachment 116.17 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '17 Aug 2026', 'description': 'Questionnaire - OEConnection - Epyx', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20OEConnection%20-%20Epyx_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "metal-manufactures-baywa-solar-systems",
+    "title": "Metal Manufactures - BayWa Solar Systems",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-17T15:23:40+10:00",
+        "new": "2026-08-21T16:09:06+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 24 August 2026 via email to mergers@accc.gov.au with the title Submission re: Metal Manufactures - BayWa Solar Systems. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 17 Aug 2026 Questionnaire - Metal Manufactures - BayWa Solar Systems Attachment 116.25 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '17 Aug 2026', 'description': 'Questionnaire - Metal Manufactures - BayWa Solar Systems', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Metal%20Manufactures%20-%20BayWa%20Solar%20Systems%20-%20third-party%20questionnaire%20-%2017%20August%202026_1.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "lockheed-martin-corporation-%E2%80%93-ultra-maritime",
+    "title": "Lockheed Martin Corporation – Ultra Maritime",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
+    "title": "Endeavour Group – retail liquor site in Horsham, VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-17T16:33:56+10:00",
+        "new": "2026-08-25T14:32:02+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "17 Aug 2026 Questionnaire Attachment 116.35 KB",
+        "new": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '17 Aug 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Endeavour%20Group%20%E2%80%93%20retail%20liquor%20site%20in%20Horsham%2C%20Vic%20%20%E2%80%93%20Questionnaire%20%20%E2%80%93%2017%20August%202026.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "adobe-topaz-labs",
+    "title": "Adobe - Topaz Labs",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 21 August 2026 via email to mergers@accc.gov.au with the title Submission re: Adobe – Topaz Labs. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 14 Aug 2026 Questionnaire - Adobe - Topaz Labs Attachment 116.97 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 Aug 2026', 'description': 'Questionnaire - Adobe - Topaz Labs', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Adobe%20-%20Topaz%20Labs.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "incubeta-datisan",
+    "title": "Incubeta - Datisan",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-14T17:47:01+10:00",
+        "new": "2026-08-21T10:44:46+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 21 August 2026 via email to mergers@accc.gov.au with the title Submission re: Incubeta - Datisan. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 14 Aug 2026 Incubeta - Datisan - Questionnaire Attachment 116.07 KB",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 Aug 2026', 'description': 'Incubeta - Datisan - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Incubeta%20-%20Datisan%20-%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+    "title": "Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "DPG SERVICES PTY LTD; 38 090 007 999; DPG SERVICES PTY LTD; 38 090 007 999; OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477",
+        "new": "OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477; DPG SERVICES PTY LTD; 38 090 007 999"
+      },
+      {
+        "field": "targets",
+        "old": "CLENDON CARE PTY LTD; 65 001 584 827; CLENDON CARE PTY LTD; 65 001 584 827; Michael Mooney; Lynne Mooney; Michael Mooney; Lynne Mooney",
+        "new": "Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-13T18:47:59+10:00",
+        "new": "2026-08-19T17:35:22+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided 20 August 2026 via email to mergers@accc.gov.au with the title Submission re: Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW). The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 13 Aug 2026 Opal HealthCare - Canberra Nursing Home - Questionnaire Attachment 116.23 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '13 Aug 2026', 'description': 'Opal HealthCare - Canberra Nursing Home - Questionnaire', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Opal%20-%20Canberra%20Nursing%20Home%20-%20Third-Party%20Questionnaire.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "supagas-%E2%80%93-heeson-medical",
+    "title": "Supagas – Heeson Medical",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Jacobba Pty Ltd; 20 088 038 340; Heeson Medical Pty Ltd; 14 088 038 313",
+        "new": "Heeson Medical Pty Ltd; 14 088 038 313; Jacobba Pty Ltd; 20 088 038 340"
+      },
+      {
+        "field": "other_parties",
+        "old": "NSC (Australia) Pty Ltd; 71 607 111 268; Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY57; Coregas Pty Ltd; 32 001 255 312",
+        "new": "Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY57; Coregas Pty Ltd; 32 001 255 312; NSC (Australia) Pty Ltd; 71 607 111 268"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-12T09:37:57+10:00",
+        "new": "2026-08-19T09:37:07+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 August 2026 via email to mergers@accc.gov.au with the title Submission re: Supagas – Heeson Medical. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 12 Aug 2026 Questionnaire - Supagas - Heeson Medical Attachment 115.84 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '12 Aug 2026', 'description': 'Questionnaire - Supagas - Heeson Medical', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Supagas%20-%20Heeson%20Medical.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "aware-super-%E2%80%93-increased-interest-in-keyton",
+    "title": "Aware Super – Increased interest in Keyton",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 August 2026 via email to mergers@accc.gov.au with the title Submission re: Aware Super - Keyton. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. read more 11 Aug 2026 Questionnaire - Aware Super / increased interest in Keyton Attachment 114.28 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '11 Aug 2026', 'description': 'Questionnaire - Aware Super / increased interest in Keyton', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20increased%20interest%20in%20Keyton.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "holcim-australia-%E2%80%93-burdetts-group",
+    "title": "Holcim Australia – Burdetts Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 August 2026 via email to mergers@accc.gov.au with the title Submission re: Holcim Australia – Burdetts Group. read more 10 Aug 2026 Questionnaire - Holcim Australia - Burdetts Group Attachment 116.68 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '10 Aug 2026', 'description': 'Questionnaire - Holcim Australia - Burdetts Group', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Holcim%20Australia%20-%20Burdetts%20Group%20-%20third-party%20questionnaire%20-%2010%20August%202026_0.docx'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "acclime-corporate-services-australia-%E2%80%93-polar-993-group",
+    "title": "Acclime Corporate Services Australia – Polar 993 Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acclime-corporate-services-australia-%E2%80%93-polar-993-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "cinven-%E2%80%93-salsify",
+    "title": "Cinven – Salsify",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cinven-%E2%80%93-salsify",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
+    "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+    "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "osmoflo-water-management-guidera-oconnor",
+    "title": "Osmoflo Water Management - Guidera O'Connor",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "eli-lilly-and-company-ataibeckley-inc",
+    "title": "Eli Lilly and Company / AtaiBeckley Inc.",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "modaxo-conduent",
+    "title": "Modaxo - Conduent",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/modaxo-conduent",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "danone-%E2%80%93-made",
+    "title": "Danone – MADE",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danone-%E2%80%93-made",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "danaher-leica-biosystems-statlab",
+    "title": "Danaher (Leica Biosystems) - StatLab",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danaher-leica-biosystems-statlab",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
+    "title": "Johns Lyng Group – C&M Build Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "bp-bp-gateway",
+    "title": "bp - bp Gateway",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "merivale-%E2%80%93-the-sackville-hotel",
+    "title": "MERIVALE – THE SACKVILLE HOTEL",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "hitech-group-australia-hudson-global-resources",
+    "title": "HiTech Group Australia - Hudson Global Resources",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "karmosimplr",
+    "title": "KARMO/SIMPLR",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmosimplr",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "hammondcare-anglican-community-services-support-at-home-business",
+    "title": "HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "title": "Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "pine-australia-evolution-business-systems",
+    "title": "Pine Australia - Evolution Business Systems",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "ironbark-paris-group",
+    "title": "Ironbark - Paris Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
+    "title": "M Resources and Golden Energy and Resources – Tahmoor Coal Mine",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 August 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 199508589E; M Resources Pty Ltd; 67 151 351 790",
+        "new": "M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 199508589E"
+      },
+      {
+        "field": "targets",
+        "old": "Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276",
+        "new": "Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968"
+      },
+      {
+        "field": "other_parties",
+        "old": "Shaun Fraser; Jonathan Henry",
+        "new": "Jonathan Henry; Shaun Fraser"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-07T15:56:51+10:00",
+        "new": "2026-08-21T17:19:14+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 Aug 2026', 'description': 'M Resources and Golden Energy and Resources - Tahmoor Coal Mine - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/M%20Resources%20and%20Golden%20Energy%20and%20Resources%20-%20Tahmoor%20Coal%20Mine%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+    "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-10T16:40:54+10:00",
+        "new": "2026-08-25T14:40:03+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Aug 2026', 'description': 'Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Silk%20Contract%20Logistics%20%E2%80%93%20Toll%20Transport%20bulk%20logistics%20%28glass%20and%20plastic%29%20assets%20-%20Determination%20-%2025%20August%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
+    "title": "Accent Group – The Athlete’s Foot in Karrinyup, WA",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "accenture-runzero",
+    "title": "Accenture - runZero",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-runzero",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "accenture-dragos",
+    "title": "Accenture - Dragos",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-dragos",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "mm-security-%E2%80%93-micron-security-products",
+    "title": "MM Security – Micron Security Products",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "24 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-06T14:27:48+10:00",
+        "new": "2026-08-25T10:37:51+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '24 Aug 2026', 'description': 'MM Security - Micron Security Products - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/MM%20Security%20-%20Micron%20Security%20Products%20-%20Phase%201%20determination_0.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "blackstone-%E2%80%93-dresser-utility-solutions",
+    "title": "Blackstone – Dresser Utility Solutions",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-dresser-utility-solutions",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "salesforce-intercom",
+    "title": "Salesforce - Intercom",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/salesforce-intercom",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 August 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce Holdings LLC; 5673469",
+        "new": "Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesforce, Inc.; 0001108524"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-05T15:54:01+10:00",
+        "new": "2026-08-21T15:40:33+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 Aug 2026', 'description': 'Salesforce - Intercom - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Salesforce%20-%20Intercom%20-%20Phase%201%20determination%20without%20conditions.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north",
+    "title": "Aurizon – transactions related to the relocation of a rail corridor at Moranbah North",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "cvc-capital-partners-%E2%80%93-irca-group",
+    "title": "CVC Capital Partners – IRCA Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "kimberly-clark-corporation-kenvue-inc",
+    "title": "Kimberly-Clark Corporation - Kenvue Inc.",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "protech-activaterail",
+    "title": "Protech - ActivateRail",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "australian-retirement-trust-%E2%80%93-westfield-mt-gravatt",
+    "title": "Australian Retirement Trust – Westfield Mt Gravatt",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-westfield-mt-gravatt",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
+    "title": "Atmos – specific BayWa r.e. renewable energy projects",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "title": "Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "abbvie-apogee",
+    "title": "AbbVie - Apogee",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abbvie-apogee",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "19 August 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 10659200; AbbVie Inc.; DELAWARE FILE NO. - 5126809",
+        "new": "AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor LLC; DELAWARE FILE NO. - 10659200; Andor Merger Co.; DELAWARE FILE NO. - 10659205"
+      },
+      {
+        "field": "targets",
+        "old": "Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutics, Inc.; EIN - 934958665",
+        "new": "Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corporation; EIN - 33-2083626"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-05T10:38:01+10:00",
+        "new": "2026-08-19T15:52:32+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '19 Aug 2026', 'description': 'AbbVie - Apogee - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/AbbVie%20-%20Apogee%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "publicis-groupe-liveramp",
+    "title": "Publicis Groupe - LiveRamp",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/publicis-groupe-liveramp",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "obayashi-corporation-%E2%80%93-multiplex",
+    "title": "Obayashi Corporation – Multiplex",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-03T18:19:05+10:00",
+        "new": "2026-08-19T10:14:15+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Aug 2026', 'description': 'Obayashi Corporation - Multiplex - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Obayashi%20Corporation-Multiplex%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "armira-and-ta-associates-%E2%80%93-intersurgical-aktiengesellschaft-ag",
+    "title": "Armira and TA Associates – Intersurgical Aktiengesellschaft AG",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/armira-and-ta-associates-%E2%80%93-intersurgical-aktiengesellschaft-ag",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "apax-funds-%E2%80%93-techoraco-limited-and-institutional-investor-llc",
+    "title": "Apax Funds – Techoraco Limited and Institutional Investor LLC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apax-funds-%E2%80%93-techoraco-limited-and-institutional-investor-llc",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "cvc-capital-partners-%E2%80%93-distrokid",
+    "title": "CVC Capital Partners – DistroKid",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-distrokid",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "crowdstrike-%E2%80%93-intellectual-property-and-associated-technology-assets-of-xm-cyber",
+    "title": "CrowdStrike – intellectual property and associated technology assets of XM Cyber",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/crowdstrike-%E2%80%93-intellectual-property-and-associated-technology-assets-of-xm-cyber",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "jungheinrich-australia-all-lift",
+    "title": "Jungheinrich Australia - All Lift",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "petalite-%E2%80%93-envu",
+    "title": "Petalite – Envu",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/petalite-%E2%80%93-envu",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "title": "Estia Health – AnglicareSA residential aged care business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-04T11:18:24+10:00",
+        "new": "2026-08-19T14:51:28+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Aug 2026', 'description': 'Estia Health-AnglicareSA residential aged care business - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Estia%20Health-AnglicareSA%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "igneo-infrastructure-partners-%E2%80%93-green-squares-energy",
+    "title": "Igneo Infrastructure Partners – Green Squares Energy",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/igneo-infrastructure-partners-%E2%80%93-green-squares-energy",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
+    "title": "CVC Capital Partners – IFF’s Food Ingredients business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "australian-motors-group-%E2%80%93-mudgee-toyota",
+    "title": "Australian Motors Group – Mudgee Toyota",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-motors-group-%E2%80%93-mudgee-toyota",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+    "title": "McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "acquirers",
+        "old": "MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306; MAG SOUTH COAST PTY LTD; 70 683 627 590",
+        "new": "MAG SOUTH COAST PTY LTD; 70 683 627 590; MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306"
+      },
+      {
+        "field": "targets",
+        "old": "Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust; COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; KJO PROPERTY PTY LTD; 33 169 760 178; KINGHORN MOTORS PTY LTD; 33 000 220 557",
+        "new": "Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; 33 169 760 178; KINGHORN MOTORS PTY LTD; 33 000 220 557; COUNTRY MOTOR COMPANY PTY LTD; 11 002 189 228; Glenn Ype Buikstra Family Will Trust"
+      },
+      {
+        "field": "other_parties",
+        "old": "MAG BODY CORP PTY LTD; 93 676 724 495; MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD; 60 003 411 210",
+        "new": "MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD; 60 003 411 210; MAG BODY CORP PTY LTD; 93 676 724 495"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-30T11:56:12+10:00",
+        "new": "2026-08-21T09:33:36+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '20 Aug 2026', 'description': \"McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/McCarroll%27s%20Automotive%20Group%20-%20Kinghorn%20Motor%20Group%20%26%20Country%20Motor%20Company%20-%20Phase%201%20determination_2.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "pemba-hewison-private-wealth",
+    "title": "Pemba - Hewison Private Wealth",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-hewison-private-wealth",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "lor%C3%A9al-innovist",
+    "title": "L'Oréal - Innovist",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-innovist",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-29T17:06:36+10:00",
+        "new": "2026-08-18T12:10:19+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Aug 2026', 'description': \"L'Oreal - Innovist - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/L%27oreal%20-%20Innovist%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
+    "title": "Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "20 August 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-27T16:09:19+10:00",
+        "new": "2026-08-20T16:17:18+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '20 Aug 2026', 'description': 'Syngenta Crop Protection and Dümmen Orange - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Dummen%20Orange%20-%20Phase%201%20determination%20-%2020%20August%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
+    "title": "UPM-Kymmene – Sappi joint venture",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "24 Aug 2026",
+        "new": "4 Sep 2026"
+      },
+      {
+        "field": "targets",
+        "old": "HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; Wakeling South Coast Pty Ltd; 636 298 970; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768",
+        "new": "Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WAKELING HOLDINGS PTY LTD; 41 160 814 040; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-22T10:40:25+10:00",
+        "new": "2026-08-19T17:17:46+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded. 14 Jul 2026 Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026 Attachment 395.62 KB",
+        "new": ""
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July 2026', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf'}]",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "amplifon-%E2%80%93-gn-hearing",
+    "title": "Amplifon – GN Hearing",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "origin-%E2%80%93-climatech-zero",
+    "title": "Origin – Climatech Zero",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/origin-%E2%80%93-climatech-zero",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 August 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "ORIGIN ENERGY LIMITED; 30 000 051 696; ORIGIN ZERO INVESTMENTS PTY LTD; 52 079 089 231",
+        "new": "ORIGIN ZERO INVESTMENTS PTY LTD; 52 079 089 231; ORIGIN ENERGY LIMITED; 30 000 051 696"
+      },
+      {
+        "field": "targets",
+        "old": "CLIMATECH ZERO PTY LTD; 70 623 828 508; CLIMATECH ZERO HOLDINGS PTY LTD; 35 623 827 930",
+        "new": "CLIMATECH ZERO HOLDINGS PTY LTD; 35 623 827 930; CLIMATECH ZERO PTY LTD; 70 623 828 508"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-20T16:37:44+10:00",
+        "new": "2026-08-18T16:38:08+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Aug 2026', 'description': 'Origin - Climatech Zero - phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Climatech%20Zero%20-%20Phase%201%20determination%20-%2018%20August%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "vsa-sprayline",
+    "title": "VSA - SprayLine",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "20 August 2026"
+      },
+      {
+        "field": "other_parties",
+        "old": "COLAS CONTRACTING PTY LTD; 88 127 397 899; COLAS AUSTRALIA GROUP PTY LTD; 11 000 388 161",
+        "new": "COLAS AUSTRALIA GROUP PTY LTD; 11 000 388 161; COLAS CONTRACTING PTY LTD; 88 127 397 899"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-13T18:17:47+10:00",
+        "new": "2026-08-20T13:17:41+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days - following request by parties', 'url': ''}]",
+        "new": "[{'date': '20 Aug 2026', 'description': 'VSA–SprayLine - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/VSA%20-%20Sprayline%20-%20Phase%201%20determination.pdf'}, {'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days - following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "title": "Vets Central – Hills Veterinary Centre",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "stage",
+        "old": "Phase 1 - initial assessment",
+        "new": "Phase 2 - detailed assessment"
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "19 Aug 2026",
+        "new": "12 Jan 2027"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-07-21T16:34:31+10:00",
+        "new": "2026-08-19T18:19:18+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Phase%202%20notice%20-%2018%20August%202026%20%28INTERNAL%20VERSION%29.pdf'}, {'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "journey-beyond-kelsian-tourism-portfolio",
+    "title": "Journey Beyond - Kelsian Tourism Portfolio",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "calvary-hobart-private-hospital",
+    "title": "Calvary - Hobart Private Hospital",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-hobart-private-hospital",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "black-rhino-club-hotel-motel-roma",
+    "title": "Black Rhino - Club Hotel Motel Roma",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187",
+        "new": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-12T09:46:14+10:00",
+        "new": "2026-08-24T14:11:51+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Club%20Hotel%20Motel%20Roma%20-%20Phase%201%20Determination%20With%20Conditions%20-%20FINAL_0.pdf'}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}, {'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]",
+        "new": "[{'date': '19 Aug 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Black%20Rhino%20Group%20%E2%80%93%20s87B%20Undertaking%20%E2%80%93%20Public%20version_2.pdf'}, {'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Black%20Rhino%20-%20Club%20Hotel%20Motel%20Roma%20-%20Phase%201%20Determination%20With%20Conditions%20-%20FINAL_0.pdf'}, {'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-25T06:52:25.078434Z",
+    "slug": "lockheed-martin-%E2%80%93-ultra-maritime",
+    "title": "Lockheed Martin – Ultra Maritime",
+    "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/lockheed-martin-%E2%80%93-ultra-maritime",
+    "event": "REMOVED",
+    "changes": []
   }
 ]

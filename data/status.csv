@@ -1,237 +1,307 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-18 01:22:03.171323,
-Last scrape run (AEST),18 Aug 2026  11:22,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-25 06:52:25.078434,
+Last scrape run (AEST),25 Aug 2026  16:52,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,554,
-New entries this run,4,
-Changed entries this run,4,
-Removed entries this run,0,
+Total entries monitored,585,
+New entries this run,32,
+Changed entries this run,49,
+Removed entries this run,1,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Blackstone - DarkVision Technologies,WA-75040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/blackstone-darkvision-technologies
-+ Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances,WA-20032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances
-+ Atlas Holdings and KPS – shares in joint venture and interest in C&D Technologies,WA-60032,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/atlas-holdings-and-kps-%E2%80%93-shares-in-joint-venture-and-interest-in-cd-technologies
-+ efex - OnPlatinum,WA-35028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/efex-onplatinum
+NEW ENTRIES (32),Case Number,URL
++ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
++ Lone Star Funds - ContiTech,MN-85043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech
++ McCormick - Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
++ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
++ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
++ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
++ Coles - supermarket site in Kirkwood (QLD),MN-05046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld
++ Bunnings – Intellihub – Zelora Joint Venture,MN-90029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture
++ Chevron - Woodside asset swap,MN-20034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/chevron-woodside-asset-swap
++ Saint-Gobain - Xypex,MN-80035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex
++ Lockheed Martin Corporation – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime
++ Acclime Corporate Services Australia – Polar 993 Group,WA-45025,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acclime-corporate-services-australia-%E2%80%93-polar-993-group
++ Cinven – Salsify,WA-15038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cinven-%E2%80%93-salsify
+"+ Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",WA-65032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic
++ Pine Australia - Evolution Business Systems,WA-45023,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems
++ Ironbark - Paris Group,WA-75039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group
+"+ Accent Group – The Athlete’s Foot in Karrinyup, WA",WA-01118,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa
++ Blackstone – Dresser Utility Solutions,WA-30031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-dresser-utility-solutions
++ Aurizon – transactions related to the relocation of a rail corridor at Moranbah North,WA-05034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north
++ CVC Capital Partners – IRCA Group,WA-35037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group
++ Australian Retirement Trust – Westfield Mt Gravatt,WA-80034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-westfield-mt-gravatt
++ Atmos – specific BayWa r.e. renewable energy projects,WA-20031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects
+"+ Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",WA-15035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt
++ Armira and TA Associates – Intersurgical Aktiengesellschaft AG,WA-15033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/armira-and-ta-associates-%E2%80%93-intersurgical-aktiengesellschaft-ag
++ Apax Funds – Techoraco Limited and Institutional Investor LLC,WA-30027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apax-funds-%E2%80%93-techoraco-limited-and-institutional-investor-llc
++ CVC Capital Partners – DistroKid,WA-25041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-distrokid
++ CrowdStrike – intellectual property and associated technology assets of XM Cyber,WA-35036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/crowdstrike-%E2%80%93-intellectual-property-and-associated-technology-assets-of-xm-cyber
++ Jungheinrich Australia - All Lift,WA-80033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift
++ Igneo Infrastructure Partners – Green Squares Energy,WA-95035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/igneo-infrastructure-partners-%E2%80%93-green-squares-energy
++ CVC Capital Partners – IFF’s Food Ingredients business,WA-65030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business
++ Australian Motors Group – Mudgee Toyota,WA-45022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-motors-group-%E2%80%93-mudgee-toyota
++ Pemba - Hewison Private Wealth,WA-05041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-hewison-private-wealth
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
-,Targets,Iain Harvey Wood; Anthony Mark Guidera; Laszlo Richard Bachmayer; GUIDERA O'CONNOR PTY LTD; 71 099 0  →  WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308; Anthony Mark Guider
-,Other Parties,Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Michael William O'Connor; Stephen Michael Pa  →  Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Stephen Michael Pa
-,Last Modified Accc,2026-08-10T11:00:01+10:00  →  2026-08-17T16:48:34+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire 
-,Consultation Docs,"[{'date': '10 Aug 2026', 'description': ""Osmoflo - Guidera O'Connor - Questionnaire"", 'url': 'https:  →  "
+CHANGED ENTRIES (49),Field changed,Old value  →  New value
+~ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx
+,Other Parties,"Francisco Partners Management, LP.; SEC reference number - 801-73955; OEConnection, LLC; 1196674  →  OEConnection, LLC; 1196674; Francisco Partners Management, LP.; SEC reference number - 801-73955"
+,Last Modified Accc,2026-08-17T12:29:29+10:00  →  2026-08-21T10:51:28+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,Consultation Docs,"[{'date': '17 Aug 2026', 'description': 'Questionnaire - OEConnection - Epyx', 'url': 'https://www.a  →  "
 ,,
-"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-08-03T10:40:08+10:00  →  2026-08-17T17:33:45+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '17 Aug 2026', 'description': 'Coles – supermarket site in Upper Swan, WA - Phase 1 determ"
+~ Metal Manufactures - BayWa Solar Systems,MN-65031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems
+,Last Modified Accc,2026-08-17T15:23:40+10:00  →  2026-08-21T16:09:06+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,Consultation Docs,"[{'date': '17 Aug 2026', 'description': 'Questionnaire - Metal Manufactures - BayWa Solar Systems',   →  "
 ,,
-~ Sanad Services and Tikehau Capital – Revima,MN-25037,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/sanad-services-and-tikehau-capital-%E2%80%93-revima
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  17 August 2026
-,Other Parties,Ace Aéro Partenaires II S.L.P. represented by Tikehau Investment Management SAS; RCS Paris - 982 137  →  Tikehau Capital SCA; RCS Paris - 477 599 104; Mubadala Investment Company PJSC; CN‑2302788; Ace Aéro
-,Last Modified Accc,2026-07-30T11:48:51+10:00  →  2026-08-17T19:24:25+10:00
+"~ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
+,Last Modified Accc,2026-08-17T16:33:56+10:00  →  2026-08-25T14:32:02+10:00
+,Consultation Text,17 Aug 2026 Questionnaire Attachment 116.35 KB  →  The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire 
+,Consultation Docs,"[{'date': '17 Aug 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/file  →  "
+,,
+~ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  
+,Consultation Docs,"[{'date': '14 Aug 2026', 'description': 'Questionnaire - Adobe - Topaz Labs', 'url': 'https://www.ac  →  "
+,,
+~ Incubeta - Datisan,MN-05043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan
+,Last Modified Accc,2026-08-14T17:47:01+10:00  →  2026-08-21T10:44:46+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,Consultation Docs,"[{'date': '14 Aug 2026', 'description': 'Incubeta - Datisan - Questionnaire', 'url': 'https://www.ac  →  "
+,,
+"~ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
+,Acquirers,DPG SERVICES PTY LTD; 38 090 007 999; DPG SERVICES PTY LTD; 38 090 007 999; OHCA PROPERTY HOLDINGS P  →  OHCA PROPERTY HOLDINGS PTY LTD; 70 675 807 477; DPG SERVICES PTY LTD; 38 090 007 999
+,Targets,CLENDON CARE PTY LTD; 65 001 584 827; CLENDON CARE PTY LTD; 65 001 584 827; Michael Mooney; Lynne Mo  →  Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827
+,Last Modified Accc,2026-08-13T18:47:59+10:00  →  2026-08-19T17:35:22+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  
+,Consultation Docs,"[{'date': '13 Aug 2026', 'description': 'Opal HealthCare - Canberra Nursing Home - Questionnaire', '  →  "
+,,
+~ Supagas – Heeson Medical,MN-80027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical
+,Targets,Jacobba Pty Ltd; 20 088 038 340; Heeson Medical Pty Ltd; 14 088 038 313  →  Heeson Medical Pty Ltd; 14 088 038 313; Jacobba Pty Ltd; 20 088 038 340
+,Other Parties,NSC (Australia) Pty Ltd; 71 607 111 268; Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY  →  Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY57; Coregas Pty Ltd; 32 001 255 312; NSC 
+,Last Modified Accc,2026-08-12T09:37:57+10:00  →  2026-08-19T09:37:07+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  
+,Consultation Docs,"[{'date': '12 Aug 2026', 'description': 'Questionnaire - Supagas - Heeson Medical', 'url': 'https://  →  "
+,,
+~ Aware Super – Increased interest in Keyton,MN-70030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  
+,Consultation Docs,"[{'date': '11 Aug 2026', 'description': 'Questionnaire - Aware Super / increased interest in Keyton'  →  "
+,,
+~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared a questionnaire on t  →  
+,Consultation Docs,"[{'date': '10 Aug 2026', 'description': 'Questionnaire - Holcim Australia - Burdetts Group', 'url':   →  "
+,,
+~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '17 Aug 2026', 'description': 'Sanad Services and Tikehau Capital–Revima - Phase 1 determi"
 ,,
-~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,Last Modified Accc,2026-08-11T17:49:46+10:00  →  2026-08-17T16:33:52+10:00
-,Decisions Docs,"  →  [{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request b"
+"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/modaxo-conduent
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danone-%E2%80%93-made
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danaher-leica-biosystems-statlab
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,,
+~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ MERIVALE – THE SACKVILLE HOTEL,MN-35033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ KARMO/SIMPLR,MN-15030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmosimplr
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS,MN-85038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  21 August 2026
+,Acquirers,Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Energy and Resources Pte Ltd; UEN - 1995  →  M Resources Pty Ltd; 67 151 351 790; Golden M Tahmoor Coal Holdings Pty Ltd; 697 956 791; Golden Ene
+,Targets,Tahmoor Coal Pty Ltd (In Liquidation); 97 076 663 968; Bargo Collieries Pty Ltd (In Liquidation); 34  →  Bargo Collieries Pty Ltd (In Liquidation); 34 000 970 276; Tahmoor Coal Pty Ltd (In Liquidation); 97
+,Other Parties,Shaun Fraser; Jonathan Henry  →  Jonathan Henry; Shaun Fraser
+,Last Modified Accc,2026-08-07T15:56:51+10:00  →  2026-08-21T17:19:14+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '21 Aug 2026', 'description': 'M Resources and Golden Energy and Resources - Tahmoor Coal "
+,,
+~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  25 August 2026
+,Last Modified Accc,2026-08-10T16:40:54+10:00  →  2026-08-25T14:40:03+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '25 Aug 2026', 'description': 'Silk Contract Logistics – Toll Transport bulk logistics (gl"
+,,
+~ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-runzero
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-dragos
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  24 August 2026
+,Last Modified Accc,2026-08-06T14:27:48+10:00  →  2026-08-25T10:37:51+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '24 Aug 2026', 'description': 'MM Security - Micron Security Products - Phase 1 determinat"
+,,
+~ Salesforce - Intercom,MN-40031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/salesforce-intercom
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  21 August 2026
+,Other Parties,"Intercom R&D Unlimited Company; 538158; Salesforce, Inc.; 0001108524; Salesforce Holdings LLC; 56734  →  Intercom R&D Unlimited Company; 538158; Salesforce Holdings LLC; 5673469; Salesforce, Inc.; 00011085"
+,Last Modified Accc,2026-08-05T15:54:01+10:00  →  2026-08-21T15:40:33+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '21 Aug 2026', 'description': 'Salesforce - Intercom - Phase 1 determination', 'url': 'htt"
+,,
+~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abbvie-apogee
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  19 August 2026
+,Acquirers,Andor Merger Co.; DELAWARE FILE NO. - 10659205; Andor LLC; DELAWARE FILE NO. - 10659200; AbbVie Inc.  →  AbbVie Inc.; DELAWARE FILE NO. - 5126809; Andor LLC; DELAWARE FILE NO. - 10659200; Andor Merger Co.;
+,Targets,"Apogee Therapeutics Securities Corporation; EIN - 33-2083626; Apogee Therapeutics, Inc.; EIN - 93495  →  Apogee Therapeutics, Inc.; EIN - 934958665; Apogee Therapeutics Securities Corporation; EIN - 33-208"
+,Last Modified Accc,2026-08-05T10:38:01+10:00  →  2026-08-19T15:52:32+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '19 Aug 2026', 'description': 'AbbVie - Apogee - Phase 1 determination', 'url': 'https://w"
+,,
+~ Publicis Groupe - LiveRamp,MN-60026,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/publicis-groupe-liveramp
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,,
+~ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  18 August 2026
+,Last Modified Accc,2026-08-03T18:19:05+10:00  →  2026-08-19T10:14:15+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '18 Aug 2026', 'description': 'Obayashi Corporation - Multiplex - Phase 1 determination', "
+,,
+~ Petalite – Envu,MN-90024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/petalite-%E2%80%93-envu
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Estia Health – AnglicareSA residential aged care business,MN-55029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  18 August 2026
+,Last Modified Accc,2026-08-04T11:18:24+10:00  →  2026-08-19T14:51:28+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '18 Aug 2026', 'description': 'Estia Health-AnglicareSA residential aged care business - P"
+,,
+~ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Acquirers,MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306; MAG SOUTH COAST PTY LTD; 70 683 627 590  →  MAG SOUTH COAST PTY LTD; 70 683 627 590; MCCARROLL PROPERTY HOLDINGS PTY LTD; 64 676 724 306
+,Targets,Glenn Ype Buikstra Family Will Trust; Donna Lea Buikstra Family Will Trust; COUNTRY MOTOR COMPANY PT  →  Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; 33 169 760 178; KINGHORN MOTORS PTY LTD;
+,Other Parties,MAG BODY CORP PTY LTD; 93 676 724 495; MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF   →  MAG NORTHERN BEACHES PTY LTD; 21 659 209 051; MCCARROLL'S OF MOSS VALE PTY LTD; 60 003 411 210; MAG 
+,Last Modified Accc,2026-07-30T11:56:12+10:00  →  2026-08-21T09:33:36+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '20 Aug 2026', 'description': ""McCarroll's Automotive Group - Kinghorn Motor Group & Count"
+,,
+~ L'Oréal - Innovist,MN-35029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-innovist
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  18 August 2026
+,Last Modified Accc,2026-07-29T17:06:36+10:00  →  2026-08-18T12:10:19+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '18 Aug 2026', 'description': ""L'Oreal - Innovist - Phase 1 determination"", 'url': 'https:"
+,,
+~ Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation,MN-01109,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  20 August 2026
+,Last Modified Accc,2026-07-27T16:09:19+10:00  →  2026-08-20T16:17:18+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '20 Aug 2026', 'description': 'Syngenta Crop Protection and Dümmen Orange - Phase 1 determ"
+,,
+~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,End Of Determination Period,24 Aug 2026  →  4 Sep 2026
+,Targets,HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; S A Wakeling Nom  →  Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin
+,Last Modified Accc,2026-07-22T10:40:25+10:00  →  2026-08-19T17:17:46+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Consultation Docs,"[{'date': '14 Jul 2026', 'description': 'Peter Warren - Wakeling Automotive - Remedy Offer - 13 July  →  "
+,Decisions Docs,"  →  [{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy off"
+,,
+~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Origin – Climatech Zero,MN-95030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/origin-%E2%80%93-climatech-zero
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  18 August 2026
+,Acquirers,ORIGIN ENERGY LIMITED; 30 000 051 696; ORIGIN ZERO INVESTMENTS PTY LTD; 52 079 089 231  →  ORIGIN ZERO INVESTMENTS PTY LTD; 52 079 089 231; ORIGIN ENERGY LIMITED; 30 000 051 696
+,Targets,CLIMATECH ZERO PTY LTD; 70 623 828 508; CLIMATECH ZERO HOLDINGS PTY LTD; 35 623 827 930  →  CLIMATECH ZERO HOLDINGS PTY LTD; 35 623 827 930; CLIMATECH ZERO PTY LTD; 70 623 828 508
+,Last Modified Accc,2026-07-20T16:37:44+10:00  →  2026-08-18T16:38:08+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '18 Aug 2026', 'description': 'Origin - Climatech Zero - phase 1 determination', 'url': 'h"
+,,
+~ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  20 August 2026
+,Other Parties,COLAS CONTRACTING PTY LTD; 88 127 397 899; COLAS AUSTRALIA GROUP PTY LTD; 11 000 388 161  →  COLAS AUSTRALIA GROUP PTY LTD; 11 000 388 161; COLAS CONTRACTING PTY LTD; 88 127 397 899
+,Last Modified Accc,2026-08-13T18:17:47+10:00  →  2026-08-20T13:17:41+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"[{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days - following request by  →  [{'date': '20 Aug 2026', 'description': 'VSA–SprayLine - Phase 1 determination', 'url': 'https://www"
+,,
+~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
+,Stage,Phase 1 - initial assessment  →  Phase 2 - detailed assessment
+,End Of Determination Period,19 Aug 2026  →  12 Jan 2027
+,Last Modified Accc,2026-07-21T16:34:31+10:00  →  2026-08-19T18:19:18+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,Decisions Docs,"[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by  →  [{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', '"
+,,
+~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,,
+~ Calvary - Hobart Private Hospital,MN-40013,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-hobart-private-hospital
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire   →  
+,,
+~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
+,Acquirers,The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693   →  BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 
+,Last Modified Accc,2026-08-12T09:46:14+10:00  →  2026-08-24T14:11:51+10:00
+,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination  →  [{'date': '19 Aug 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.g"
+,,
+REMOVED ENTRIES (1),Case Number,
+- Lockheed Martin – Ultra Maritime,MN-75041,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Holcim Australia – Burdetts Group,MN-05044,11 Aug  11:56
-+ Triton – Flender,WA-10024,11 Aug  17:12
-+ Supagas – Heeson Medical,MN-80027,12 Aug  12:09
-+ Aware Super – Increased interest in Keyton,MN-70030,12 Aug  12:09
-+ Koch – additional interest in Victoria PLC,WA-50033,12 Aug  12:09
-+ EQT Fund Management – Corza Biosurgery,WA-70033,12 Aug  17:36
-+ MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,12 Aug  17:36
-+ Iris Capital – Revesby Pacific Hotel and Crown Hotel,WA-85039,12 Aug  17:36
-+ Adobe - Topaz Labs,MN-30028,14 Aug  12:09
-"+ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,14 Aug  12:09
-+ Bain Capital – Kakaku.com,WA-60034,14 Aug  17:36
-+ Vitamin Well - EMPWR Nutrition Group,WA-05040,14 Aug  17:36
-+ Incubeta - Datisan,MN-05043,17 Aug  11:24
-+ OEConnection - Epyx,MN-45024,17 Aug  17:00
-+ Metal Manufactures - BayWa Solar Systems,MN-65031,17 Aug  17:00
-"+ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,17 Aug  17:00
-+ Lockheed Martin – Ultra Maritime,MN-75041,17 Aug  17:00
-,,
-"CHANGED ENTRIES (26 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
-~ MicroStar Logistics - Konvoy,MN-30003,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/microstar-logistics-konvoy
-,Last Modified Accc,2026-08-07T14:41:45+10:00  →  2026-08-10T18:23:56+10:00  (11 Aug  11:56)
-,Decisions Docs,"[{'date': '7 Aug 2026', 'description': 'Microstar-Konvoy - Phase 2 determination  →  [{'date': '10 Aug 2026', 'description': 'MicroStar-Konvoy - Phase 2 Statement of  (11 Aug  11:56)"
-,,
-~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,Last Modified Accc,2026-07-10T16:26:27+10:00  →  2026-08-11T13:52:58+10:00  (11 Aug  17:12)
-,End Of Determination Period,12 Aug 2026  →  2 Sep 2026  (12 Aug  12:09)
-,Last Modified Accc,2026-08-11T13:52:58+10:00  →  2026-08-11T17:49:46+10:00  (12 Aug  12:09)
-,,
-~ KARMO/SIMPLR,MN-15030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/karmosimplr
-,Title,Karmo/Simplr  →  KARMO/SIMPLR  (12 Aug  12:09)
-,Targets,SUBMO PTY LTD; 19 637 015 457; EAGERS AUTOMOTIVE LIMITED; 87 009 680 013  →  EAGERS AUTOMOTIVE LIMITED; 87 009 680 013; SUBMO PTY LTD; 19 637 015 457  (12 Aug  12:09)
-,Last Modified Accc,2026-08-04T17:47:29+10:00  →  2026-08-11T17:18:46+10:00  (12 Aug  12:09)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Aug  12:09)
-,Consultation Docs,"[{'date': '4 Aug 2026', 'description': 'Questionnaire - Karmo/Simplr', 'url': 'h  →    (12 Aug  12:09)"
-,,
-~ HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS,MN-85038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
-,Title,HammondCare - Anglican Community Services' Support at Home business  →  HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS  (12 Aug  12:09)
-,Last Modified Accc,2026-08-04T11:40:36+10:00  →  2026-08-12T10:58:01+10:00  (12 Aug  12:09)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Aug  12:09)
-,Consultation Docs,"[{'date': '4 Aug 2026', 'description': ""Questionnaire - HammondCare - Anglican C  →    (12 Aug  12:09)"
-,,
-~ Analogic - Leidos SES business,MN-75029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/analogic-leidos-ses-business
-,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  12:09)
-,Accc Determination,  →  Approved  (12 Aug  12:09)
-,Determination Publication Date,  →  11 August 2026  (12 Aug  12:09)
-,Acquirers,"AHP-ANLG IV, LLC; EFN - 6840942; Analogic Corporation; EFN - 5450449; Leidos, In  →  Leidos, Inc.; EFN - 901386; Analogic Corporation; EFN - 5450449; AHP-ANLG IV, LL  (12 Aug  12:09)"
-,Last Modified Accc,2026-07-17T10:12:46+10:00  →  2026-08-12T08:22:52+10:00  (12 Aug  12:09)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  12:09)
-,Decisions Docs,"  →  [{'date': '11 Aug 2026', 'description': 'Analogic - Leidos SES business - Phase   (12 Aug  12:09)"
-,,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  12:09)
-,Accc Determination,  →  Approved with conditions  (12 Aug  12:09)
-,Determination Publication Date,  →  11 August 2026  (12 Aug  12:09)
-,Acquirers,BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (  →  The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB RO  (12 Aug  12:09)
-,Last Modified Accc,2026-07-21T16:04:53+10:00  →  2026-08-12T09:46:14+10:00  (12 Aug  12:09)
-,Decisions Docs,"[{'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - P  (12 Aug  12:09)"
-,,
-~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
-,Targets,C&M Central Pty Ltd; 649 711 053; C&M Central Unit Trust; 47 351 736 164  →  C&M Central Unit Trust; 47 351 736 164; C&M Central Pty Ltd; 649 711 053  (12 Aug  17:36)
-,Other Parties,JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103  →  SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248  (12 Aug  17:36)
-,Last Modified Accc,2026-08-05T15:03:33+10:00  →  2026-08-12T17:06:34+10:00  (12 Aug  17:36)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC's Ph  (12 Aug  17:36)
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - Johns Lyng Group - C&M B  →    (12 Aug  17:36)"
-,,
-~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/bp-bp-gateway
-,Other Parties,BP plc; UK company number: 00102498; BP Australia Investments Pty Ltd; 66 102 99  →  BP Australia Investments Pty Ltd; 66 102 991 551; BP plc; UK company number: 001  (12 Aug  17:36)
-,Last Modified Accc,2026-08-05T12:32:12+10:00  →  2026-08-12T15:17:56+10:00  (12 Aug  17:36)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (12 Aug  17:36)
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire - bp - bp Gateway', 'url':  →    (12 Aug  17:36)"
-,,
-~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
-,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  17:36)
-,Accc Determination,  →  Approved  (12 Aug  17:36)
-,Last Modified Accc,2026-07-30T15:04:59+10:00  →  2026-08-12T16:23:42+10:00  (12 Aug  17:36)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  17:36)
-,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Ambrose Construct Group - Major Loss Bu  (12 Aug  17:36)"
-,,
-~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
-,End Of Determination Period,24 Aug 2026  →  9 Sep 2026  (12 Aug  17:36)
-,Last Modified Accc,2026-07-20T10:39:30+10:00  →  2026-08-12T16:20:59+10:00  (12 Aug  17:36)
-,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days –  (12 Aug  17:36)"
-,,
-~ Siemens Mobility - MerMec,MN-01105,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/siemens-mobility-mermec
-,Acquisition Status,Under assessment  →  Assessment completed  (12 Aug  17:36)
-,Accc Determination,  →  Approved  (12 Aug  17:36)
-,Other Parties,Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; SIEMENS MOBILITY PTY. LT  →  Siemens Aktiengesellschaft; LEI - W38RGI023J3WT1HWRP32; MERMEC AUSTRALIA PTY LTD  (12 Aug  17:36)
-,Last Modified Accc,2026-07-20T17:55:52+10:00  →  2026-08-12T16:11:32+10:00  (12 Aug  17:36)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (12 Aug  17:36)
-,Decisions Docs,"  →  [{'date': '12 Aug 2026', 'description': 'Phase 1 determination', 'url': 'https:/  (12 Aug  17:36)"
-,,
-~ Eli Lilly and Company / AtaiBeckley Inc.,MN-30030,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/eli-lilly-and-company-ataibeckley-inc
-,Last Modified Accc,2026-08-06T13:20:38+10:00  →  2026-08-13T09:17:42+10:00  (13 Aug  12:11)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Eli Lilly - AtaiBeckley'  →    (13 Aug  12:11)"
-,,
-~ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/modaxo-conduent
-,Acquirers,"Modaxo France Holdings SAS; Modaxo Group, Inc; Modaxo USA Holdings, Inc  →  Modaxo Group, Inc; Modaxo USA Holdings, Inc; Modaxo France Holdings SAS  (13 Aug  12:11)"
-,Targets,CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; Conduent Business Se  →  CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SO  (13 Aug  12:11)
-,Last Modified Accc,2026-08-06T13:25:53+10:00  →  2026-08-13T10:16:07+10:00  (13 Aug  12:11)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Modaxo Conduent - Questionnaire', 'url':  →    (13 Aug  12:11)"
-,,
-~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
-,Last Modified Accc,2026-08-05T16:35:42+10:00  →  2026-08-13T09:17:09+10:00  (13 Aug  12:11)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Questionnaire HiTech Group Australia - H  →    (13 Aug  12:11)"
-,,
-~ MERIVALE – THE SACKVILLE HOTEL,MN-35033,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
-,Last Modified Accc,2026-08-05T12:43:56+10:00  →  2026-08-13T10:32:57+10:00  (13 Aug  12:11)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  12:11)
-,Consultation Docs,"[{'date': '5 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Third-p  →    (13 Aug  12:11)"
-,,
-~ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danone-%E2%80%93-made
-,Targets,Made (MJV) Pte Ltd; UEN 202321698C; TUCKER HOLDCO PTY LTD; 85 644 211 772  →  TUCKER HOLDCO PTY LTD; 85 644 211 772; Made (MJV) Pte Ltd; UEN 202321698C  (13 Aug  17:38)
-,Other Parties,Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales   →  DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; NUTRICIA AUSTRALIA PTY LI  (13 Aug  17:38)
-,Last Modified Accc,2026-08-06T11:00:12+10:00  →  2026-08-13T10:17:32+10:00  (13 Aug  17:38)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (13 Aug  17:38)
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danone - MADE', 'url': '  →    (13 Aug  17:38)"
-,,
-~ Vertex – Crinetics,MN-05036,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vertex-%E2%80%93-crinetics
-,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
-,Accc Determination,  →  Approved  (13 Aug  17:38)
-,Determination Publication Date,  →  13 August 2026  (13 Aug  17:38)
-,Last Modified Accc,2026-07-29T21:21:06+10:00  →  2026-08-13T15:38:06+10:00  (13 Aug  17:38)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (13 Aug  17:38)
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Vertex - Crinetics - Phase 1 determinat  (13 Aug  17:38)"
-,,
-~ Expedia - CarTrawler,MN-90022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/expedia-cartrawler
-,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
-,Accc Determination,  →  Approved  (13 Aug  17:38)
-,Acquirers,"Expedia Group, Inc.; I.R.S. Employer Identification No.-20-2705720; Expedia Grou  →  Expedia Group International Holdings II, LLC; Delaware Secretary of State-717251  (13 Aug  17:38)"
-,Last Modified Accc,2026-07-28T17:05:03+10:00  →  2026-08-13T16:51:55+10:00  (13 Aug  17:38)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (13 Aug  17:38)
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Expedia - CarTrawler - Phase 1 determin  (13 Aug  17:38)"
-,,
-~ Total Drain Group - Pipe Management Australia,MN-15028,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/total-drain-group-pipe-management-australia
-,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
-,Accc Determination,  →  Approved  (13 Aug  17:38)
-,Last Modified Accc,2026-07-22T17:00:29+10:00  →  2026-08-13T14:58:54+10:00  (13 Aug  17:38)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (13 Aug  17:38)
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Total Drain Group - Pipe Management Aus  (13 Aug  17:38)"
-,,
-~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
-,Acquisition Status,Under assessment  →  Assessment completed  (13 Aug  17:38)
-,Accc Determination,  →  Approved  (13 Aug  17:38)
-,Determination Publication Date,  →  13 August 2026  (13 Aug  17:38)
-,Last Modified Accc,2026-07-24T10:18:54+10:00  →  2026-08-13T14:47:04+10:00  (13 Aug  17:38)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (13 Aug  17:38)
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Laundy - Woy Woy Hotel - Phase 1 determ  (13 Aug  17:38)"
-,,
-"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
-,Last Modified Accc,2026-08-07T15:59:28+10:00  →  2026-08-14T09:31:25+10:00  (14 Aug  12:09)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (14 Aug  12:09)
-,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Australian Venue Co – as  →    (14 Aug  12:09)"
-,,
-~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/danaher-leica-biosystems-statlab
-,Last Modified Accc,2026-08-06T10:40:57+10:00  →  2026-08-13T09:20:09+10:00  (14 Aug  12:09)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (14 Aug  12:09)
-,Consultation Docs,"[{'date': '6 Aug 2026', 'description': 'Questionnaire - Danaher (Leica Biosystem  →    (14 Aug  12:09)"
-,,
-~ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/vsa-sprayline
-,End Of Determination Period,17 Aug 2026  →  25 Aug 2026  (14 Aug  12:09)
-,Last Modified Accc,2026-07-14T17:43:31+10:00  →  2026-08-13T18:17:47+10:00  (14 Aug  12:09)
-,Decisions Docs,"  →  [{'date': '13 Aug 2026', 'description': 'Timeline extended by 6 business days -   (14 Aug  12:09)"
-,,
-~ Heidelberg Materials Australia – construction materials business of MAAS,MN-50009,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas
-,Determination Publication Date,30 July 2026  →  31 July 2026  (14 Aug  17:36)
-,Targets,MACQUARIE GEOTECHNICAL PTY LIMITED; 73 102 691 056; MAAS GROUP HOLDINGS LIMITED;  →  MAAS GROUP HOLDINGS LIMITED; 84 632 994 542; MACHINERY SALES PTY LIMITED; 13 074  (14 Aug  17:36)
-,Last Modified Accc,2026-07-31T09:18:21+10:00  →  2026-08-14T11:18:13+10:00  (14 Aug  17:36)
-,Decisions Docs,"[{'date': '29 May 2026', 'description': 'Timeline extended by 15 business days –  →  [{'date': '13 Aug 2026', 'description': 'ACCC accepted s87B undertaking - Illawa  (14 Aug  17:36)"
-,,
-~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
-,Other Parties,Wesfarmers Holdings Pty Ltd; 23 094 800 665; Wesfarmers Limited; 28 008 984 049;  →  Wesfarmers Limited; 28 008 984 049; Wesfarmers Holdings Pty Ltd; 23 094 800 665;  (17 Aug  11:24)
-,Last Modified Accc,2026-08-07T09:45:31+10:00  →  2026-08-14T09:00:10+10:00  (17 Aug  11:24)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Aug  11:24)
-,Consultation Docs,"[{'date': '7 Aug 2026', 'description': 'Questionnaire - Wesfarmers and Built Gro  →    (17 Aug  11:24)"
-,,
-~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
-,Targets,Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying   →  Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying num  (17 Aug  17:00)
-,Other Parties,ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B2144  →  K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B2094  (17 Aug  17:00)
-,Last Modified Accc,2026-08-10T13:42:05+10:00  →  2026-08-17T11:16:39+10:00  (17 Aug  17:00)
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. The ACCC has prepared   →  The period for providing submissions or information in response to the ACCC’s Ph  (17 Aug  17:00)
+No changes recorded in the last 7 days.,,
 ,,

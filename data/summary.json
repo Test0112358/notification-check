@@ -1,54 +1,48 @@
 {
-  "generated_at_utc": "2026-08-18T01:44:06.873908Z",
-  "total_entries": 554,
+  "generated_at_utc": "2026-08-25T07:25:14.729565Z",
+  "total_entries": 585,
   "by_acquisition_status": {
-    "Under assessment": 53,
-    "Assessment completed": 498,
+    "Under assessment": 51,
+    "Assessment completed": 531,
     "Assessment ceased": 3
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 218,
-    "Waiver application": 328,
-    "Phase 2 - detailed assessment": 8
+    "Phase 1 - initial assessment": 227,
+    "Waiver application": 349,
+    "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 226,
-    "Waiver": 328
+    "Notification": 236,
+    "Waiver": 349
   },
   "by_accc_determination": {
-    "Approved": 479,
+    "Approved": 512,
     "Approved with conditions": 3,
     "Not approved": 16
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "title": "Vets Central – Hills Veterinary Centre",
-      "end_of_determination_period": "19 Aug 2026",
-      "days_remaining": 1
+      "slug": "journey-beyond-sealink-rottnest",
+      "title": "Journey Beyond - SeaLink Rottnest",
+      "end_of_determination_period": "2 Sep 2026",
+      "days_remaining": 8
     },
     {
-      "slug": "origin-%E2%80%93-climatech-zero",
-      "title": "Origin – Climatech Zero",
-      "end_of_determination_period": "21 Aug 2026",
-      "days_remaining": 3
+      "slug": "journey-beyond-kelsian-tourism-portfolio",
+      "title": "Journey Beyond - Kelsian Tourism Portfolio",
+      "end_of_determination_period": "2 Sep 2026",
+      "days_remaining": 8
+    },
+    {
+      "slug": "petalite-%E2%80%93-envu",
+      "title": "Petalite – Envu",
+      "end_of_determination_period": "4 Sep 2026",
+      "days_remaining": 10
     },
     {
       "slug": "peter-warren-wakeling-automotive-0",
       "title": "Peter Warren - Wakeling Automotive",
-      "end_of_determination_period": "24 Aug 2026",
-      "days_remaining": 6
-    },
-    {
-      "slug": "vsa-sprayline",
-      "title": "VSA - SprayLine",
-      "end_of_determination_period": "25 Aug 2026",
-      "days_remaining": 7
-    },
-    {
-      "slug": "syngenta-crop-protection-and-d%C3%BCmmen-orange-%E2%80%93-joint-venture-formation",
-      "title": "Syngenta Crop Protection and Dümmen Orange – Joint Venture Formation",
-      "end_of_determination_period": "28 Aug 2026",
+      "end_of_determination_period": "4 Sep 2026",
       "days_remaining": 10
     }
   ]
