@@ -50,8 +50,10 @@ from bs4 import BeautifulSoup
 # Configuration
 # ---------------------------------------------------------------------------
 BASE_URL = "https://www.accc.gov.au"
-REGISTER_PATH = "/public-registers/mergers-and-acquisitions-registers/acquisitions-register"
+# ACCC swapped this segment to "acquisitions-and-mergers-registers" (Aug 2026).
+REGISTER_PATH = "/public-registers/acquisitions-and-mergers-registers/acquisitions-register"
 REGISTER_URL = BASE_URL + REGISTER_PATH
+CASE_PATH_MARKER = "/acquisitions-register/"
 
 DATA_DIR = "data"
 REGISTER_JSON = os.path.join(DATA_DIR, "register.json")
@@ -601,11 +603,10 @@ def parse_listing_for_verification(soup):
     Returns a dict keyed by slug.
     """
     results = {}
-    REGISTER_SUBPATH = REGISTER_PATH + "/"
 
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if not href.startswith(REGISTER_SUBPATH):
+        if CASE_PATH_MARKER not in href:
             continue
         if "?" in href or "#" in href:
             continue
