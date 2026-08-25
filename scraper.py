@@ -38,8 +38,15 @@ import pandas as pd
 # Configuration
 # ---------------------------------------------------------------------------
 BASE_URL = "https://www.accc.gov.au"
-REGISTER_PATH = "/public-registers/mergers-and-acquisitions-registers/acquisitions-register"
+# NOTE: the ACCC swapped this segment from "mergers-and-acquisitions-registers"
+# to "acquisitions-and-mergers-registers" in Aug 2026. The old path still
+# 301-redirects, but listing card hrefs now use the new ordering.
+REGISTER_PATH = "/public-registers/acquisitions-and-mergers-registers/acquisitions-register"
 REGISTER_URL = BASE_URL + REGISTER_PATH
+
+# Stable segment used to identify individual case pages, independent of the
+# parent path ordering (guards against future ACCC path reshuffles).
+CASE_PATH_MARKER = "/acquisitions-register/"
 
 DATA_DIR = "data"
 REGISTER_JSON = os.path.join(DATA_DIR, "register.json")
@@ -320,8 +327,10 @@ def parse_card(a_tag):
     """
     href = a_tag.get("href", "")
 
-    # Must be an individual case page (not the register index or a filter link)
-    if not href.startswith(REGISTER_PATH + "/"):
+    # Must be an individual case page (not the register index or a filter link).
+    # Match on the stable register segment so a change to the parent path
+    # ordering (as happened Aug 2026) does not silently drop every card.
+    if CASE_PATH_MARKER not in href:
         return None
     if "?" in href or "#" in href:
         return None
@@ -1312,7 +1321,7 @@ def run():
         if not entry.get("end_of_determination_period") and prev.get("end_of_determination_period"):
             entry["end_of_determination_period"] = prev["end_of_determination_period"]
 
-        # ── Calculated day fields ──────────────────────────────��───────────
+        # ── Calculated day fields ──────────────────────────────  ───────────
         notif_date = entry.get("notification_date", "")
         end_det = entry.get("end_of_determination_period", "")
         det_pub = entry.get("determination_publication_date", "")
