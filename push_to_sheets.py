@@ -168,7 +168,7 @@ def push_summary(sh):
     
     rows.append([
         "Register URL",
-        "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register",
+        "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register",
         "", "",
     ])
 
