@@ -36,6 +36,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "petalite-%E2%80%93-envu",
+    "title": "Petalite – Envu",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/petalite-%E2%80%93-envu",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
     "title": "Ambrose Construct Group – Major Loss Builders",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
@@ -63,18 +75,6 @@
     "slug": "expedia-cartrawler",
     "title": "Expedia - CarTrawler",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/expedia-cartrawler",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
-    "slug": "acrow-ausgroup-industrial-services",
-    "title": "Acrow - Ausgroup Industrial Services",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
     "layer": 1,
     "rule": "COMPLETED_MISSING_PUB_DATE",
     "severity": "WARNING",
@@ -264,9 +264,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "zendesk-%E2%80%93-forethought",
-    "title": "Zendesk – Forethought",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zendesk-%E2%80%93-forethought",
+    "slug": "acrow-ausgroup-industrial-services",
+    "title": "Acrow - Ausgroup Industrial Services",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -276,9 +288,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "airtree-%E2%80%93-hotdoc",
-    "title": "Airtree – HotDoc",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc",
+    "slug": "bain-capital-%E2%80%93-fdh",
+    "title": "Bain Capital – FDH",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-fdh",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -288,33 +300,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "turner-family-entities-pedal-group",
-    "title": "Turner Family Entities - Pedal Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/turner-family-entities-pedal-group",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "shape-australia-%E2%80%93-australian-professional-shopfitters",
-    "title": "Shape Australia – Australian Professional Shopfitters",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/shape-australia-%E2%80%93-australian-professional-shopfitters",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "ge-healthcare-%E2%80%93-intelerad",
-    "title": "GE Healthcare – Intelerad",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ge-healthcare-%E2%80%93-intelerad",
+    "slug": "acrow-ausgroup-industrial-services",
+    "title": "Acrow - Ausgroup Industrial Services",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
