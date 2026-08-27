@@ -1,49 +1,37 @@
 {
-  "generated_at_utc": "2026-08-26T07:23:46.300300Z",
-  "total_entries": 587,
+  "generated_at_utc": "2026-08-27T08:49:50.087716Z",
+  "total_entries": 596,
   "by_acquisition_status": {
-    "Under assessment": 48,
-    "Assessment completed": 536,
-    "Assessment ceased": 3
+    "Under assessment": 39,
+    "Assessment completed": 553,
+    "Assessment ceased": 4
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 228,
-    "Waiver application": 350,
+    "Phase 1 - initial assessment": 229,
+    "Waiver application": 358,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 237,
-    "Waiver": 350
+    "Notification": 238,
+    "Waiver": 358
   },
   "by_accc_determination": {
-    "Approved": 517,
-    "Approved with conditions": 3,
-    "Not approved": 16
+    "Approved": 533,
+    "Not approved": 17,
+    "Approved with conditions": 3
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "journey-beyond-sealink-rottnest",
-      "title": "Journey Beyond - SeaLink Rottnest",
-      "end_of_determination_period": "2 Sep 2026",
-      "days_remaining": 7
-    },
     {
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "2 Sep 2026",
-      "days_remaining": 7
-    },
-    {
-      "slug": "petalite-%E2%80%93-envu",
-      "title": "Petalite – Envu",
-      "end_of_determination_period": "4 Sep 2026",
-      "days_remaining": 9
+      "days_remaining": 6
     },
     {
       "slug": "peter-warren-wakeling-automotive-0",
       "title": "Peter Warren - Wakeling Automotive",
       "end_of_determination_period": "4 Sep 2026",
-      "days_remaining": 9
+      "days_remaining": 8
     }
   ]
 }
