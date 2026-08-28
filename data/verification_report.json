@@ -84,6 +84,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "acrow-ausgroup-industrial-services",
+    "title": "Acrow - Ausgroup Industrial Services",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "total-drain-group-pipe-management-australia",
     "title": "Total Drain Group - Pipe Management Australia",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/total-drain-group-pipe-management-australia",
@@ -264,21 +276,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "acrow-ausgroup-industrial-services",
-    "title": "Acrow - Ausgroup Industrial Services",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
-    "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
-    "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "slug": "pine-australia-evolution-business-systems",
+    "title": "Pine Australia - Evolution Business Systems",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -288,9 +288,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bain-capital-%E2%80%93-fdh",
-    "title": "Bain Capital – FDH",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-fdh",
+    "slug": "opal-healthcare-bethel-aged-care",
+    "title": "Opal HealthCare - Bethel Aged Care",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,9 +300,81 @@
     "expected_or_found": ""
   },
   {
-    "slug": "acrow-ausgroup-industrial-services",
-    "title": "Acrow - Ausgroup Industrial Services",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
+    "slug": "autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic",
+    "title": "Autopact - Freehold interest in commercial land in Ferntree Gully, VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-ferntree-gully-vic",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "baupost-%E2%80%93-mcdermott",
+    "title": "Baupost – McDermott",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/baupost-%E2%80%93-mcdermott",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "cvc-capital-partners-%E2%80%93-chesscom",
+    "title": "CVC Capital Partners – Chess.com",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "jardines-i-med",
+    "title": "Jardines - I-MED",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jardines-i-med",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
+    "title": "Autopact - Freehold interest in commercial land in Dubbo, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/autopact-freehold-interest-in-commercial-land-in-dubbo-nsw",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "tasmea-%E2%80%93-jps-holdings",
+    "title": "Tasmea – JPS Holdings",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tasmea-%E2%80%93-jps-holdings",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "banijay-entertainment-%E2%80%93-all3media",
+    "title": "Banijay Entertainment – All3Media",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
