@@ -1,113 +1,50 @@
 {
-  "run_utc": "2026-08-27T08:17:42.726008Z",
-  "new_count": 10,
-  "changed_count": 15,
-  "removed_count": 1,
+  "run_utc": "2026-08-28T10:19:16.846650Z",
+  "new_count": 7,
+  "changed_count": 3,
+  "removed_count": 0,
   "new_entries": [
     {
-      "slug": "wsp-e2m",
-      "title": "WSP - e2m",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m"
+      "slug": "blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+      "title": "Blackstone funds and Perpetual Trustees – HSBC loan portfolio",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio"
     },
     {
-      "slug": "respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
-      "title": "Respect Group – McLean Care residential aged care homes and independent living units",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units"
+      "slug": "ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
+      "title": "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw"
     },
     {
-      "slug": "eldridge-%E2%80%93-ausenco",
-      "title": "Eldridge – Ausenco",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eldridge-%E2%80%93-ausenco"
+      "slug": "respect-group-%E2%80%93-proserpine-nursing-home",
+      "title": "Respect Group – Proserpine Nursing Home",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home"
     },
     {
-      "slug": "eli-lilly-ataibeckley-inc",
-      "title": "Eli Lilly - AtaiBeckley Inc.",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-ataibeckley-inc"
+      "slug": "monadelphous-tyden-power",
+      "title": "Monadelphous - Tyden Power",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power"
     },
     {
-      "slug": "regis-%E2%80%93-home-care-business-of-royal-freemasons",
-      "title": "Regis – Home Care Business of Royal Freemasons",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regis-%E2%80%93-home-care-business-of-royal-freemasons"
+      "slug": "redirect-holdings-echo-solve",
+      "title": "ReDirect Holdings - Echo Solve",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve"
     },
     {
-      "slug": "rct-solutions-gmbh-w%C3%A4rtsil%C3%A4-energy-storage-finland-oy",
-      "title": "RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rct-solutions-gmbh-w%C3%A4rtsil%C3%A4-energy-storage-finland-oy"
+      "slug": "scm-financial-group-strategic-wealth-services-group",
+      "title": "SCM Financial Group - Strategic Wealth Services Group",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group"
     },
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
-      "title": "Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly"
-    },
-    {
-      "slug": "genesis-minerals-%E2%80%93-vault-minerals",
-      "title": "Genesis Minerals – Vault Minerals",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals"
-    },
-    {
-      "slug": "grafton-motor-group-%E2%80%93-grafton-mazda",
-      "title": "Grafton Motor Group – Grafton Mazda",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/grafton-motor-group-%E2%80%93-grafton-mazda"
-    },
-    {
-      "slug": "movac-%E2%80%93-advanced-navigation",
-      "title": "Movac – Advanced Navigation",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/movac-%E2%80%93-advanced-navigation"
+      "slug": "verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange",
+      "title": "Verlinvest – up to 60% interest in HomeExchange",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange"
     }
   ],
   "changed_entries": [
     {
-      "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
-      "title": "L'Oréal – Gucci Beauty Licence",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by 26 August 2026 via email to mergers@accc.gov.au with the title Submission re: L'Oréal – Gucci Beauty Licence. Open date 19 Aug 2026 Closing date 26 Aug 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "coles-supermarket-site-in-kirkwood-qld",
-      "title": "Coles - supermarket site in Kirkwood (QLD)",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC invites you to provide submissions or information in response to the questions below by 26 August 2026 via email to mergers@accc.gov.au with the title Submission re: Coles – supermarket site in Kirkwood (QLD). The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 21 Aug 2026 Closing date 26 Aug 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture",
-      "title": "Bunnings – Intellihub – Zelora Joint Venture",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Proposed Transactions. Submissions or information in response to the questionnaire should be provided by 26 August 2026 via email to mergers@accc.gov.au with the title Bunnings - Intellihub - Zelora Joint Venture. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 19 Aug 2026 Closing date 26 Aug 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "chevron-woodside-asset-swap",
-      "title": "Chevron - Woodside asset swap",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/chevron-woodside-asset-swap",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Proposed Transactions. Submissions or information in response to the questionnaire should be provided by 26 August 2026 via email to mergers@accc.gov.au with the title re: Chevron - Woodside asset swap. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 19 Aug 2026 Closing date 26 Aug 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "danone-%E2%80%93-made",
-      "title": "Danone – MADE",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danone-%E2%80%93-made",
+      "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+      "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
       "changes": [
         {
           "field": "acquisition_status",
@@ -122,35 +59,40 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "26 August 2026"
+          "new": "28 August 2026"
         },
         {
           "field": "targets",
-          "old": "TUCKER HOLDCO PTY LTD; 85 644 211 772; Made (MJV) Pte Ltd; UEN 202321698C",
-          "new": "Made (MJV) Pte Ltd; UEN 202321698C; TUCKER HOLDCO PTY LTD; 85 644 211 772"
+          "old": "Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Sidepiece LLC; Identifying number - 5134914; Division 7 LLC; Identifying number - 7088711; Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150",
+          "new": "Smuggler LLC; Identifying number - 6877804; Sidepiece LLC; Identifying number - 5134914; Smuggler London Ltd; Identifying number - 06806477; Division 7 LLC; Identifying number - 7088711; Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150"
         },
         {
           "field": "other_parties",
-          "old": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; NUTRICIA AUSTRALIA PTY LIMITED; 99 076 246 752; Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales d’Évian S.A.; SIREN 797 080 850; Danone S.A.; SIREN 552 032 534; Made Brands Pte Ltd; UEN 202239762W; Minogue HoldCo",
-          "new": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; 32 143 172 258; Compagnie Gervais Danone; SIREN 552 067 092; Société Anonyme des Eaux Minérales d’Évian S.A.; SIREN 797 080 850; NUTRICIA AUSTRALIA PTY LIMITED; 99 076 246 752; Made Brands Pte Ltd; UEN 202239762W; Danone S.A.; SIREN 552 032 534; Minogue HoldCo"
+          "old": "K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest; Identifying number - 494 031 008; TowerBrook Capital Partners L.P.; Identifying number - 3922576",
+          "new": "TowerBrook Capital Partners L.P.; Identifying number - 3922576; ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B214433; LOV Group Invest; Identifying number - 494 031 008"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-13T10:17:32+10:00",
-          "new": "2026-08-27T11:31:18+10:00"
+          "old": "2026-08-17T11:16:39+10:00",
+          "new": "2026-08-28T15:39:25+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '26 Aug 2026', 'description': 'Danone - MADE - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Danone%20-%20MADE%20-%20Phase%201%20determination_1.pdf'}]"
+          "new": "[{'date': '28 Aug 2026', 'description': 'The Independents Group – acquisition of entities within the Smuggler Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/The%20Independents%20Group%20%E2%80%93%20acquisition%20of%20entities%20within%20the%20Smuggler%20Group%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     },
     {
-      "slug": "modaxo-conduent",
-      "title": "Modaxo - Conduent",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/modaxo-conduent",
+      "slug": "hammondcare-anglican-community-services-support-at-home-business",
+      "title": "Hammondcare - Anglican Community Services' Support at Home business",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
       "changes": [
+        {
+          "field": "title",
+          "old": "HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS",
+          "new": "Hammondcare - Anglican Community Services' Support at Home business"
+        },
         {
           "field": "acquisition_status",
           "old": "Under assessment",
@@ -164,229 +106,24 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "27 August 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "Modaxo Group, Inc; Modaxo USA Holdings, Inc; Modaxo France Holdings SAS",
-          "new": "Modaxo USA Holdings, Inc; Modaxo France Holdings SAS; Modaxo Group, Inc"
-        },
-        {
-          "field": "targets",
-          "old": "CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS; 20 251 484 486; CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; 58 136 828 914; Conduent Business Services, LLC",
-          "new": "CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; 58 136 828 914; CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS; 20 251 484 486; Conduent Business Services, LLC"
-        },
-        {
-          "field": "other_parties",
-          "old": "TRAPEZE GROUP ASIA PACIFIC PTY LTD; 16 010 832 318; CONSTELLATION SOFTWARE AUSTRALIA PTY LTD; 50 141 627 232; MODAXO GROUP AUSTRALIA PTY LTD; 44 166 272 724; Constellation Software Inc; LEI 549300B6PYHMCTDWQV29; TRAPEZE MANAGEMENT HOLDINGS PTY LTD; 97 120 264 913",
-          "new": "Constellation Software Inc; LEI 549300B6PYHMCTDWQV29; TRAPEZE GROUP ASIA PACIFIC PTY LTD; 16 010 832 318; MODAXO GROUP AUSTRALIA PTY LTD; 44 166 272 724; TRAPEZE MANAGEMENT HOLDINGS PTY LTD; 97 120 264 913; CONSTELLATION SOFTWARE AUSTRALIA PTY LTD; 50 141 627 232"
+          "new": "28 August 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-13T10:16:07+10:00",
-          "new": "2026-08-27T13:57:33+10:00"
+          "old": "2026-08-12T10:58:01+10:00",
+          "new": "2026-08-28T13:54:09+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '26 Aug 2026', 'description': 'Modaxo - Conduent - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Modaxo%20-%20Conduent%20%20-%20Phase%201%20Determination.pdf'}]"
+          "new": "[{'date': '28 Aug 2026', 'description': \"HammondCare – Anglican Community Services' Support at Home business - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/HammondCare%20-%20Anglican%20Community%20Services%27%20Support%20at%20Home%20business%20-%20Determination.pdf'}]"
         }
       ]
     },
     {
-      "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
-      "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "26 August 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); Horizon Parent, L.P.; EIN 414485659; EQT Keystone TopCo, LP; EIN 41-4395672; QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821; Qatar Holding LLC; CIK: 0001539025, Qatar Financial Centre no. 00004",
-          "new": "Horizon Parent, L.P.; EIN 414485659; EQT Keystone TopCo, LP; EIN 41-4395672; Qatar Holding LLC; CIK: 0001539025, Qatar Financial Centre no. 00004; GIP Granite Co-Underwrite, L.P.; 10651649 (Corporation registration number); QIA Infrastructure Holding LLC; Qatar Financial Centre no. 01821"
-        },
-        {
-          "field": "other_parties",
-          "old": "Fluence Energy Pty Ltd; 87-1304612 (I.R.S. Employer Identification No.); 5B HOLDINGS PTY. LTD.; 97 606 402 699",
-          "new": "5B HOLDINGS PTY. LTD.; 97 606 402 699; Fluence Energy Pty Ltd; 87-1304612 (I.R.S. Employer Identification No.)"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-10T10:12:26+10:00",
-          "new": "2026-08-27T11:37:18+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '26 Aug 2026', 'description': 'Global Infrastructure Management and EQT led consortium - AES Corporation - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Global%20Infrastructure%20Management%20and%20EQT%20led%20consortium%20-%20AES%20Corporation%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "accenture-dragos",
-      "title": "Accenture - Dragos",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-dragos",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 August 2026"
-        },
-        {
-          "field": "targets",
-          "old": "PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616; Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 10549306",
-          "new": "Dragos, Inc.; Delaware file number - 6028773; Phosphorus Security LLC; Delaware file number - 10549306; PHOSPHORUS (AUS) PTY LTD; 58 678 218 356; DRAGOS AUSTRALIA PTY LTD; 62 638 810 616"
-        },
-        {
-          "field": "other_parties",
-          "old": "ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; Accenture plc; Ireland registered number - 471706",
-          "new": "Accenture plc; Ireland registered number - 471706; CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-06T15:23:43+10:00",
-          "new": "2026-08-27T09:51:04+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '26 Aug 2026', 'description': 'Accenture - Dragos - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Accenture%20-%20Dragos%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "accenture-runzero",
-      "title": "Accenture - runZero",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-runzero",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 August 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "CYBERCX PTY LTD; 90 629 363 328; Accenture Inc.; Delaware registered number - 3387477; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895; Accenture plc; Ireland registered number - 471706",
-          "new": "Accenture Inc.; Delaware registered number - 3387477; Accenture plc; Ireland registered number - 471706; CYBERCX PTY LTD; 90 629 363 328; ACCENTURE AUSTRALIA PTY LIMITED; 49 096 776 895"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-06T15:27:35+10:00",
-          "new": "2026-08-27T09:56:09+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '26 Aug 2026', 'description': 'Accenture - runZero - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Accenture%20-%20runZero%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "publicis-groupe-liveramp",
-      "title": "Publicis Groupe - LiveRamp",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/publicis-groupe-liveramp",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 August 2026"
-        },
-        {
-          "field": "other_parties",
-          "old": "Covey Merger Sub, Inc.; Delaware ID 10622331; Publicis Groupe S.A.; Paris Trade and Companies Registry no. 542 080 601",
-          "new": "Publicis Groupe S.A.; Paris Trade and Companies Registry no. 542 080 601; Covey Merger Sub, Inc.; Delaware ID 10622331"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-04T16:23:30+10:00",
-          "new": "2026-08-27T10:42:49+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '27 Aug 2026', 'description': 'Publicis – LiveRamp – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Publicis%20%E2%80%93%20LiveRamp%20%E2%80%93%20Phase%201%20determination%20%E2%80%93%2027%20August%202026.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "petalite-%E2%80%93-envu",
-      "title": "Petalite – Envu",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/petalite-%E2%80%93-envu",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "other_parties",
-          "old": "Envu Group; GIC Pte. Ltd; Singapore Unique Identifier - 198102265N",
-          "new": "GIC Pte. Ltd; Singapore Unique Identifier - 198102265N; Envu Group"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-03T09:18:06+10:00",
-          "new": "2026-08-27T10:46:46+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '26 Aug 2026', 'description': 'Petalite - Envu - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Petalite%20-%20Envu%20-%20Phase%201%20determination%20-%2026%20August%202026_0.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "journey-beyond-sealink-rottnest",
-      "title": "Journey Beyond - SeaLink Rottnest",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-sealink-rottnest",
+      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+      "title": "Vets Central – Hills Veterinary Centre",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
       "changes": [
         {
           "field": "acquisition_status",
@@ -395,107 +132,16 @@
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-06T17:21:19+10:00",
-          "new": "2026-08-26T17:22:45+10:00"
+          "old": "2026-08-19T18:19:18+10:00",
+          "new": "2026-08-28T16:11:26+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}]",
-          "new": "[{'date': '31 Jul 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}, {'date': '26 Aug 2026', 'description': 'Consideration of Notification ceased – following written request from notifying party', 'url': ''}]"
-        }
-      ]
-    },
-    {
-      "slug": "calvary-hobart-private-hospital",
-      "title": "Calvary - Hobart Private Hospital",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-hobart-private-hospital",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "27 August 2026"
-        },
-        {
-          "field": "targets",
-          "old": "HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274; HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ HOSPITALS PTY LTD; 14 631 014 938",
-          "new": "HEALTHSCOPE OPERATIONS PTY LTD; 85 006 405 152; ANZ HOSPITALS PTY LTD; 14 631 014 938; HEALTHSCOPE NEWCO PTY LTD; 80 092 450 274; HEALTHSCOPE MANAGEMENT PTY LTD; 80 146 342 814"
-        },
-        {
-          "field": "other_parties",
-          "old": "Jason Ireland (as joint and several receivers); Keith Crawford (as joint and several receivers); Matthew Caddy (as joint and several receivers); Kathy Sozou (as joint and several receivers)",
-          "new": "Kathy Sozou (as joint and several receivers); Keith Crawford (as joint and several receivers); Jason Ireland (as joint and several receivers); Matthew Caddy (as joint and several receivers)"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-16T17:15:05+10:00",
-          "new": "2026-08-27T13:04:12+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '16 Jul 2026', 'description': 'Timeline extended by 30 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '16 Jul 2026', 'description': 'Timeline extended by 30 business days – following request by parties', 'url': ''}, {'date': '27 Aug 2026', 'description': 'Calvary - Hobart Private Hospital - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Calvary%20-%20Hobart%20Private%20Hospital%20-%20Phase%201%20determination%20-%2027%20August%202026.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187; The Trustee for Light Them Up (Roma) Trust; 17 705 523 498",
-          "new": "The Trustee for Light Them Up (Roma) Trust; 17 705 523 498; BLACK RHINO (CLUB ROMA) PTY LTD; 21 693 060 187"
-        },
-        {
-          "field": "targets",
-          "old": "The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845; SPEEDY COCKTAILS PTY LTD; 99 619 330 255",
-          "new": "SPEEDY COCKTAILS PTY LTD; 99 619 330 255; The Trustee for THE BARRY WALDRON FAMILY TRUST; 95 506 126 845"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-24T14:11:51+10:00",
-          "new": "2026-08-27T11:23:10+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '19 Aug 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Black%20Rhino%20Group%20%E2%80%93%20s87B%20Undertaking%20%E2%80%93%20Public%20version_2.pdf'}, {'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Black%20Rhino%20-%20Club%20Hotel%20Motel%20Roma%20-%20Phase%201%20Determination%20With%20Conditions%20-%20FINAL_0.pdf'}, {'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
-          "new": "[{'date': '19 Aug 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Black%20Rhino%20Group%20%E2%80%93%20s87B%20Undertaking%20%E2%80%93%20Public%20version_3.pdf'}, {'date': '11 Aug 2026', 'description': 'Black Rhino - Club Hotel Motel Roma - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Black%20Rhino%20-%20Club%20Hotel%20Motel%20Roma%20-%20Phase%201%20Determination%20With%20Conditions%20-%20FINAL_1.pdf'}, {'date': '10 Jul 2026', 'description': 'Timeline extended by 15 business days - following remedy offered by parties', 'url': ''}, {'date': '3 Jul 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '19 Jun 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
-        }
-      ]
-    },
-    {
-      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
-      "title": "Zoetis – Neogen Genomics Business",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-28T12:48:30+10:00",
-          "new": "2026-08-27T15:54:57+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]",
-          "new": "[{'date': '27 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Zoetis%20-%20Neogen%20Genomics%20Business%20-%20Summary%20of%20NOCC%20-%2027%20August%202026.pdf'}, {'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Zoetis-Neogen%20-%20Phase%202%20decision%20-%2017%20July%202026_0.pdf'}, {'date': '15 Jun 2026', 'description': 'Timeline extended by 20 business days - following request by notifying party', 'url': ''}]"
+          "old": "[{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Phase%202%20notice%20-%2018%20August%202026%20%28INTERNAL%20VERSION%29.pdf'}, {'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
+          "new": "[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}, {'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Phase%202%20Notice.pdf'}, {'date': '28 Aug 2026', 'description': 'Consideration of Notification ceased – Phase 2 fee not paid by due date', 'url': ''}]"
         }
       ]
     }
   ],
-  "removed_entries": [
-    {
-      "slug": "eli-lilly-and-company-ataibeckley-inc",
-      "title": "Eli Lilly and Company / AtaiBeckley Inc."
-    }
-  ]
+  "removed_entries": []
 }
