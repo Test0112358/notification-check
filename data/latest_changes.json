@@ -1,50 +1,62 @@
 {
-  "run_utc": "2026-08-28T10:19:16.846650Z",
-  "new_count": 7,
-  "changed_count": 3,
+  "run_utc": "2026-08-31T04:32:41.372668Z",
+  "new_count": 0,
+  "changed_count": 5,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
-      "title": "Blackstone funds and Perpetual Trustees – HSBC loan portfolio",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio"
-    },
-    {
-      "slug": "ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
-      "title": "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw"
-    },
-    {
-      "slug": "respect-group-%E2%80%93-proserpine-nursing-home",
-      "title": "Respect Group – Proserpine Nursing Home",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home"
-    },
-    {
-      "slug": "monadelphous-tyden-power",
-      "title": "Monadelphous - Tyden Power",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power"
-    },
-    {
-      "slug": "redirect-holdings-echo-solve",
-      "title": "ReDirect Holdings - Echo Solve",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve"
-    },
-    {
-      "slug": "scm-financial-group-strategic-wealth-services-group",
-      "title": "SCM Financial Group - Strategic Wealth Services Group",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group"
-    },
-    {
-      "slug": "verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange",
-      "title": "Verlinvest – up to 60% interest in HomeExchange",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
-      "title": "The Independents Group – acquisition of entities within the Smuggler Group",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+      "slug": "lone-star-funds-contitech",
+      "title": "Lone Star Funds - ContiTech",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 28 August 2026 via email to mergers@accc.gov.au with the title Submission re: Lone Star Funds - ContiTech. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 21 Aug 2026 Closing date 28 Aug 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "mccormick-unilever-foods-business",
+      "title": "McCormick - Unilever Foods Business",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by dd month year via email to mergers@accc.gov.au with the title McCormick - Unilever Foods Business. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 21 Aug 2026 Closing date 28 Aug 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "tencent-%E2%80%93-happibits",
+      "title": "Tencent – Happibits",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 28 August 2026 via email to mergers@accc.gov.au with the title Submission re: Tencent - Happibits. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 21 Aug 2026 Closing date 28 Aug 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "bloomberg-canoe-intelligence",
+      "title": "Bloomberg - Canoe Intelligence",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 28 August 2026 via email to mergers@accc.gov.au with the title Submission re: Bloomberg - Canoe Intelligence. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 21 Aug 2026 Closing date 28 Aug 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
+      "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
       "changes": [
         {
           "field": "acquisition_status",
@@ -57,88 +69,14 @@
           "new": "Approved"
         },
         {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "28 August 2026"
-        },
-        {
-          "field": "targets",
-          "old": "Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Sidepiece LLC; Identifying number - 5134914; Division 7 LLC; Identifying number - 7088711; Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150",
-          "new": "Smuggler LLC; Identifying number - 6877804; Sidepiece LLC; Identifying number - 5134914; Smuggler London Ltd; Identifying number - 06806477; Division 7 LLC; Identifying number - 7088711; Smuggler Experience LLC (including shell subsidiary Lux a Deo LLC); Identifying number - 202462414150"
-        },
-        {
-          "field": "other_parties",
-          "old": "K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest; Identifying number - 494 031 008; TowerBrook Capital Partners L.P.; Identifying number - 3922576",
-          "new": "TowerBrook Capital Partners L.P.; Identifying number - 3922576; ELOCGA; Identifying number - B209477; K10 Holding SA; Identifying number - B214433; LOV Group Invest; Identifying number - 494 031 008"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-08-17T11:16:39+10:00",
-          "new": "2026-08-28T15:39:25+10:00"
+          "old": "2026-08-14T09:31:25+10:00",
+          "new": "2026-08-31T11:50:32+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '28 Aug 2026', 'description': 'The Independents Group – acquisition of entities within the Smuggler Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/The%20Independents%20Group%20%E2%80%93%20acquisition%20of%20entities%20within%20the%20Smuggler%20Group%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "hammondcare-anglican-community-services-support-at-home-business",
-      "title": "Hammondcare - Anglican Community Services' Support at Home business",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
-      "changes": [
-        {
-          "field": "title",
-          "old": "HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS",
-          "new": "Hammondcare - Anglican Community Services' Support at Home business"
-        },
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "28 August 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-12T10:58:01+10:00",
-          "new": "2026-08-28T13:54:09+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '28 Aug 2026', 'description': \"HammondCare – Anglican Community Services' Support at Home business - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/HammondCare%20-%20Anglican%20Community%20Services%27%20Support%20at%20Home%20business%20-%20Determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "title": "Vets Central – Hills Veterinary Centre",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment ceased"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-19T18:19:18+10:00",
-          "new": "2026-08-28T16:11:26+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Phase%202%20notice%20-%2018%20August%202026%20%28INTERNAL%20VERSION%29.pdf'}, {'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}, {'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Vets%20Central%20-%20Hills%20Veterinary%20Centre%20-%20Phase%202%20Notice.pdf'}, {'date': '28 Aug 2026', 'description': 'Consideration of Notification ceased – Phase 2 fee not paid by due date', 'url': ''}]"
+          "new": "[{'date': '31 Aug 2026', 'description': 'Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/AVC%20Black%20Nugget%20-%20Phase%201%20Determination.pdf'}]"
         }
       ]
     }

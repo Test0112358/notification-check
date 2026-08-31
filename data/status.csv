@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-28 10:19:16.846650,
-Last scrape run (AEST),28 Aug 2026  20:19,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-31 04:32:41.372668,
+Last scrape run (AEST),31 Aug 2026  14:32,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,603,
-New entries this run,7,
-Changed entries this run,3,
+New entries this run,0,
+Changed entries this run,5,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,42 +13,29 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
-"+ Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",WA-25045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw
-+ Respect Group – Proserpine Nursing Home,WA-50036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home
-+ Monadelphous - Tyden Power,WA-15037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power
-+ ReDirect Holdings - Echo Solve,WA-20033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve
-+ SCM Financial Group - Strategic Wealth Services Group,WA-40035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group
-+ Verlinvest – up to 60% interest in HomeExchange,WA-60033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange
+CHANGED ENTRIES (5),Field changed,Old value  →  New value
+~ Lone Star Funds - ContiTech,MN-85043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
+~ McCormick - Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  28 August 2026
-,Targets,Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying number - 06806477; Side  →  Smuggler LLC; Identifying number - 6877804; Sidepiece LLC; Identifying number - 5134914; Smuggler Lo
-,Other Parties,K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B209477; LOV Group Invest  →  TowerBrook Capital Partners L.P.; Identifying number - 3922576; ELOCGA; Identifying number - B209477
-,Last Modified Accc,2026-08-17T11:16:39+10:00  →  2026-08-28T15:39:25+10:00
-,Decisions Docs,"  →  [{'date': '28 Aug 2026', 'description': 'The Independents Group – acquisition of entities within the"
-,,
-~ Hammondcare - Anglican Community Services' Support at Home business,MN-85038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
-,Title,HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS  →  Hammondcare - Anglican Community Services' Support at Home business
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  28 August 2026
-,Last Modified Accc,2026-08-12T10:58:01+10:00  →  2026-08-28T13:54:09+10:00
-,Decisions Docs,"  →  [{'date': '28 Aug 2026', 'description': ""HammondCare – Anglican Community Services' Support at Home "
-,,
-~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
-,Acquisition Status,Under assessment  →  Assessment ceased
-,Last Modified Accc,2026-08-19T18:19:18+10:00  →  2026-08-28T16:11:26+10:00
-,Decisions Docs,"[{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre - Phase 2 Notice', '  →  [{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days – following request by"
+,Last Modified Accc,2026-08-14T09:31:25+10:00  →  2026-08-31T11:50:32+10:00
+,Decisions Docs,"  →  [{'date': '31 Aug 2026', 'description': 'Australian Venue Co – assets of Black Nugget Hotel Motel, B"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (44),Case Number,Detected (AEST)
+NEW ENTRIES (51),Case Number,Detected (AEST)
 + Novonesis – Microbiogen,MN-10030,25 Aug  16:52
 + Lone Star Funds - ContiTech,MN-85043,25 Aug  16:52
 + McCormick - Unilever Foods Business,MN-75044,25 Aug  16:52
@@ -93,8 +80,15 @@ NEW ENTRIES (44),Case Number,Detected (AEST)
 + Genesis Minerals – Vault Minerals,WA-40036,27 Aug  18:17
 + Grafton Motor Group – Grafton Mazda,WA-05045,27 Aug  18:17
 + Movac – Advanced Navigation,WA-70032,27 Aug  18:17
++ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,28 Aug  20:19
+"+ Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",WA-25045,28 Aug  20:19
++ Respect Group – Proserpine Nursing Home,WA-50036,28 Aug  20:19
++ Monadelphous - Tyden Power,WA-15037,28 Aug  20:19
++ ReDirect Holdings - Echo Solve,WA-20033,28 Aug  20:19
++ SCM Financial Group - Strategic Wealth Services Group,WA-40035,28 Aug  20:19
++ Verlinvest – up to 60% interest in HomeExchange,WA-60033,28 Aug  20:19
 ,,
-"CHANGED ENTRIES (56 entries, 69 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (56 entries, 72 change events)",Field changed,Old value  →  New value  (AEST)
 ~ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx
 ,Other Parties,"Francisco Partners Management, LP.; SEC reference number - 801-73955; OEConnecti  →  OEConnection, LLC; 1196674; Francisco Partners Management, LP.; SEC reference nu  (25 Aug  16:52)"
 ,Last Modified Accc,2026-08-17T12:29:29+10:00  →  2026-08-21T10:51:28+10:00  (25 Aug  16:52)
@@ -144,6 +138,13 @@ NEW ENTRIES (44),Case Number,Detected (AEST)
 ,,
 ~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Aug  16:52)
+,Acquisition Status,Under assessment  →  Assessment completed  (28 Aug  20:19)
+,Accc Determination,  →  Approved  (28 Aug  20:19)
+,Determination Publication Date,  →  28 August 2026  (28 Aug  20:19)
+,Targets,Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying num  →  Smuggler LLC; Identifying number - 6877804; Sidepiece LLC; Identifying number -   (28 Aug  20:19)
+,Other Parties,K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B2094  →  TowerBrook Capital Partners L.P.; Identifying number - 3922576; ELOCGA; Identify  (28 Aug  20:19)
+,Last Modified Accc,2026-08-17T11:16:39+10:00  →  2026-08-28T15:39:25+10:00  (28 Aug  20:19)
+,Decisions Docs,"  →  [{'date': '28 Aug 2026', 'description': 'The Independents Group – acquisition of  (28 Aug  20:19)"
 ,,
 "~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Aug  16:52)
@@ -213,6 +214,12 @@ NEW ENTRIES (44),Case Number,Detected (AEST)
 ,,
 ~ HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS,MN-85038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Aug  16:52)
+,Title,HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS  →  Hammondcare - Anglican Community Services' Support at Home business  (28 Aug  20:19)
+,Acquisition Status,Under assessment  →  Assessment completed  (28 Aug  20:19)
+,Accc Determination,  →  Approved  (28 Aug  20:19)
+,Determination Publication Date,  →  28 August 2026  (28 Aug  20:19)
+,Last Modified Accc,2026-08-12T10:58:01+10:00  →  2026-08-28T13:54:09+10:00  (28 Aug  20:19)
+,Decisions Docs,"  →  [{'date': '28 Aug 2026', 'description': ""HammondCare – Anglican Community Servic  (28 Aug  20:19)"
 ,,
 ~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
 ,Acquisition Status,Under assessment  →  Assessment completed  (25 Aug  16:52)
@@ -397,6 +404,9 @@ NEW ENTRIES (44),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-07-21T16:34:31+10:00  →  2026-08-19T18:19:18+10:00  (25 Aug  16:52)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Aug  16:52)
 ,Decisions Docs,"[{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days –   →  [{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre   (25 Aug  16:52)"
+,Acquisition Status,Under assessment  →  Assessment ceased  (28 Aug  20:19)
+,Last Modified Accc,2026-08-19T18:19:18+10:00  →  2026-08-28T16:11:26+10:00  (28 Aug  20:19)
+,Decisions Docs,"[{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre   →  [{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days –   (28 Aug  20:19)"
 ,,
 ~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
 ,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (25 Aug  16:52)
