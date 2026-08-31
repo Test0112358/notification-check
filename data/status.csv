@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-31 04:32:41.372668,
-Last scrape run (AEST),31 Aug 2026  14:32,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-08-31 13:04:58.227829,
+Last scrape run (AEST),31 Aug 2026  23:04,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,603,
-New entries this run,0,
-Changed entries this run,5,
+Total entries monitored,609,
+New entries this run,6,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,24 +13,17 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (5),Field changed,Old value  →  New value
-~ Lone Star Funds - ContiTech,MN-85043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+NEW ENTRIES (6),Case Number,URL
++ Platinum Equity Group – Nestlé Waters,WA-75048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-nestl%C3%A9-waters
++ Blackstone - Technology Service Corporation,WA-95039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation
++ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology
++ Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre
++ Francisco Partners – Majority interest in Command Alkon,WA-90033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon
++ Aware Real Estate – 100 Market Street,WA-60037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street
 ,,
-~ McCormick - Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
 ~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-08-14T09:31:25+10:00  →  2026-08-31T11:50:32+10:00
-,Decisions Docs,"  →  [{'date': '31 Aug 2026', 'description': 'Australian Venue Co – assets of Black Nugget Hotel Motel, B"
+,Last Modified Accc,2026-08-21T12:19:19+10:00  →  2026-08-31T12:22:26+10:00
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -88,7 +81,7 @@ NEW ENTRIES (51),Case Number,Detected (AEST)
 + SCM Financial Group - Strategic Wealth Services Group,WA-40035,28 Aug  20:19
 + Verlinvest – up to 60% interest in HomeExchange,WA-60033,28 Aug  20:19
 ,,
-"CHANGED ENTRIES (56 entries, 72 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (60 entries, 77 change events)",Field changed,Old value  →  New value  (AEST)
 ~ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx
 ,Other Parties,"Francisco Partners Management, LP.; SEC reference number - 801-73955; OEConnecti  →  OEConnection, LLC; 1196674; Francisco Partners Management, LP.; SEC reference nu  (25 Aug  16:52)"
 ,Last Modified Accc,2026-08-17T12:29:29+10:00  →  2026-08-21T10:51:28+10:00  (25 Aug  16:52)
@@ -148,6 +141,10 @@ NEW ENTRIES (51),Case Number,Detected (AEST)
 ,,
 "~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Aug  16:52)
+,Acquisition Status,Under assessment  →  Assessment completed  (31 Aug  14:32)
+,Accc Determination,  →  Approved  (31 Aug  14:32)
+,Last Modified Accc,2026-08-14T09:31:25+10:00  →  2026-08-31T11:50:32+10:00  (31 Aug  14:32)
+,Decisions Docs,"  →  [{'date': '31 Aug 2026', 'description': 'Australian Venue Co – assets of Black N  (31 Aug  14:32)"
 ,,
 ~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (25 Aug  16:52)
@@ -453,6 +450,18 @@ NEW ENTRIES (51),Case Number,Detected (AEST)
 ~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
 ,Last Modified Accc,2026-07-28T12:48:30+10:00  →  2026-08-27T15:54:57+10:00  (27 Aug  18:17)
 ,Decisions Docs,"[{'date': '17 Jul 2026', 'description': 'Zoetis - Neogen Genomics Business - Pha  →  [{'date': '27 Aug 2026', 'description': 'Summary of Notice of Competition Concer  (27 Aug  18:17)"
+,,
+~ Lone Star Funds - ContiTech,MN-85043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (31 Aug  14:32)
+,,
+~ McCormick - Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (31 Aug  14:32)
+,,
+~ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (31 Aug  14:32)
+,,
+~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (31 Aug  14:32)
 ,,
 REMOVED ENTRIES (2),Case Number,Detected (AEST)
 - Lockheed Martin – Ultra Maritime,,25 Aug  16:52

@@ -30497,5 +30497,67 @@
         "new": "[{'date': '31 Aug 2026', 'description': 'Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/AVC%20Black%20Nugget%20-%20Phase%201%20Determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "bloomberg-canoe-intelligence",
+    "title": "Bloomberg - Canoe Intelligence",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-21T12:19:19+10:00",
+        "new": "2026-08-31T12:22:26+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "platinum-equity-group-%E2%80%93-nestl%C3%A9-waters",
+    "title": "Platinum Equity Group – Nestlé Waters",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-nestl%C3%A9-waters",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "blackstone-technology-service-corporation",
+    "title": "Blackstone - Technology Service Corporation",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology",
+    "title": "SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre",
+    "title": "Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
+    "title": "Francisco Partners – Majority interest in Command Alkon",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-08-31T13:04:58.227829Z",
+    "slug": "aware-real-estate-%E2%80%93-100-market-street",
+    "title": "Aware Real Estate – 100 Market Street",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
