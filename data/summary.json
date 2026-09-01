@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-09-01T04:37:28.891833Z",
-  "total_entries": 609,
+  "generated_at_utc": "2026-09-01T11:49:43.787870Z",
+  "total_entries": 610,
   "by_acquisition_status": {
-    "Under assessment": 36,
+    "Under assessment": 37,
     "Assessment completed": 568,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 230,
+    "Phase 1 - initial assessment": 231,
     "Waiver application": 370,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 239,
+    "Notification": 240,
     "Waiver": 370
   },
   "by_accc_determination": {
@@ -21,12 +21,6 @@
     "Approved with conditions": 3
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "journey-beyond-kelsian-tourism-portfolio",
-      "title": "Journey Beyond - Kelsian Tourism Portfolio",
-      "end_of_determination_period": "2 Sep 2026",
-      "days_remaining": 1
-    },
     {
       "slug": "peter-warren-wakeling-automotive-0",
       "title": "Peter Warren - Wakeling Automotive",
@@ -42,6 +36,12 @@
     {
       "slug": "amplifon-%E2%80%93-gn-hearing",
       "title": "Amplifon – GN Hearing",
+      "end_of_determination_period": "9 Sep 2026",
+      "days_remaining": 8
+    },
+    {
+      "slug": "journey-beyond-kelsian-tourism-portfolio",
+      "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "9 Sep 2026",
       "days_remaining": 8
     },

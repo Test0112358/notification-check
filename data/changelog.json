@@ -30573,5 +30573,32 @@
         "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-01T11:20:07.482676Z",
+    "slug": "mufg-pension-market-services-grow-technology-services",
+    "title": "MUFG Pension & Market Services - Grow Technology Services",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-01T11:20:07.482676Z",
+    "slug": "journey-beyond-kelsian-tourism-portfolio",
+    "title": "Journey Beyond - Kelsian Tourism Portfolio",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "2 Sep 2026",
+        "new": "9 Sep 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-17T16:33:52+10:00",
+        "new": "2026-09-01T19:24:15+10:00"
+      }
+    ]
   }
 ]
