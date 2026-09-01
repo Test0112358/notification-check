@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-08-31 13:04:58.227829,
-Last scrape run (AEST),31 Aug 2026  23:04,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-01 04:15:00.991185,
+Last scrape run (AEST),01 Sep 2026  14:15,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,609,
-New entries this run,6,
+New entries this run,0,
 Changed entries this run,1,
 Removed entries this run,0,
 ,,
@@ -13,22 +13,14 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (6),Case Number,URL
-+ Platinum Equity Group – Nestlé Waters,WA-75048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-nestl%C3%A9-waters
-+ Blackstone - Technology Service Corporation,WA-95039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation
-+ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology
-+ Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre
-+ Francisco Partners – Majority interest in Command Alkon,WA-90033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon
-+ Aware Real Estate – 100 Market Street,WA-60037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street
-,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
-,Last Modified Accc,2026-08-21T12:19:19+10:00  →  2026-08-31T12:22:26+10:00
+~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (51),Case Number,Detected (AEST)
+NEW ENTRIES (57),Case Number,Detected (AEST)
 + Novonesis – Microbiogen,MN-10030,25 Aug  16:52
 + Lone Star Funds - ContiTech,MN-85043,25 Aug  16:52
 + McCormick - Unilever Foods Business,MN-75044,25 Aug  16:52
@@ -80,8 +72,14 @@ NEW ENTRIES (51),Case Number,Detected (AEST)
 + ReDirect Holdings - Echo Solve,WA-20033,28 Aug  20:19
 + SCM Financial Group - Strategic Wealth Services Group,WA-40035,28 Aug  20:19
 + Verlinvest – up to 60% interest in HomeExchange,WA-60033,28 Aug  20:19
++ Platinum Equity Group – Nestlé Waters,WA-75048,31 Aug  23:04
++ Blackstone - Technology Service Corporation,WA-95039,31 Aug  23:04
++ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,31 Aug  23:04
++ Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,31 Aug  23:04
++ Francisco Partners – Majority interest in Command Alkon,WA-90033,31 Aug  23:04
++ Aware Real Estate – 100 Market Street,WA-60037,31 Aug  23:04
 ,,
-"CHANGED ENTRIES (60 entries, 77 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (60 entries, 78 change events)",Field changed,Old value  →  New value  (AEST)
 ~ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx
 ,Other Parties,"Francisco Partners Management, LP.; SEC reference number - 801-73955; OEConnecti  →  OEConnection, LLC; 1196674; Francisco Partners Management, LP.; SEC reference nu  (25 Aug  16:52)"
 ,Last Modified Accc,2026-08-17T12:29:29+10:00  →  2026-08-21T10:51:28+10:00  (25 Aug  16:52)
@@ -462,6 +460,7 @@ NEW ENTRIES (51),Case Number,Detected (AEST)
 ,,
 ~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (31 Aug  14:32)
+,Last Modified Accc,2026-08-21T12:19:19+10:00  →  2026-08-31T12:22:26+10:00  (31 Aug  23:04)
 ,,
 REMOVED ENTRIES (2),Case Number,Detected (AEST)
 - Lockheed Martin – Ultra Maritime,,25 Aug  16:52

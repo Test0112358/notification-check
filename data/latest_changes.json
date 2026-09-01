@@ -1,50 +1,19 @@
 {
-  "run_utc": "2026-08-31T13:04:58.227829Z",
-  "new_count": 6,
+  "run_utc": "2026-09-01T04:15:00.991185Z",
+  "new_count": 0,
   "changed_count": 1,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "platinum-equity-group-%E2%80%93-nestl%C3%A9-waters",
-      "title": "Platinum Equity Group – Nestlé Waters",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-nestl%C3%A9-waters"
-    },
-    {
-      "slug": "blackstone-technology-service-corporation",
-      "title": "Blackstone - Technology Service Corporation",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation"
-    },
-    {
-      "slug": "slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology",
-      "title": "SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology"
-    },
-    {
-      "slug": "volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre",
-      "title": "Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre"
-    },
-    {
-      "slug": "francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
-      "title": "Francisco Partners – Majority interest in Command Alkon",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon"
-    },
-    {
-      "slug": "aware-real-estate-%E2%80%93-100-market-street",
-      "title": "Aware Real Estate – 100 Market Street",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "bloomberg-canoe-intelligence",
-      "title": "Bloomberg - Canoe Intelligence",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence",
+      "slug": "novonesis-%E2%80%93-microbiogen",
+      "title": "Novonesis – Microbiogen",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
       "changes": [
         {
-          "field": "last_modified_accc",
-          "old": "2026-08-21T12:19:19+10:00",
-          "new": "2026-08-31T12:22:26+10:00"
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 31 August 2026 via email to mergers@accc.gov.au with the title Submission re: Novonesis – Microbiogen. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 24 Aug 2026 Closing date 31 Aug 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
         }
       ]
     }

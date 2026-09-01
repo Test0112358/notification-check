@@ -30559,5 +30559,19 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-01T04:15:00.991185Z",
+    "slug": "novonesis-%E2%80%93-microbiogen",
+    "title": "Novonesis – Microbiogen",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 31 August 2026 via email to mergers@accc.gov.au with the title Submission re: Novonesis – Microbiogen. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 24 Aug 2026 Closing date 31 Aug 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
   }
 ]
