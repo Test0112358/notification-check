@@ -288,9 +288,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "ares-bolt-spa-%E2%80%93-investment-in-plenitude",
-    "title": "Ares (Bolt S.p.A.) – Investment in Plenitude",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ares-bolt-spa-%E2%80%93-investment-in-plenitude",
+    "slug": "respect-group-jallarah-homes",
+    "title": "Respect Group - Jallarah Homes",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-jallarah-homes",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,9 +300,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "respect-group-jallarah-homes",
-    "title": "Respect Group - Jallarah Homes",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-jallarah-homes",
+    "slug": "ares-bolt-spa-%E2%80%93-investment-in-plenitude",
+    "title": "Ares (Bolt S.p.A.) – Investment in Plenitude",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ares-bolt-spa-%E2%80%93-investment-in-plenitude",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
