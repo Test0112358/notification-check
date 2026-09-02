@@ -300,9 +300,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "australian-motors-group-%E2%80%93-mudgee-toyota",
-    "title": "Australian Motors Group – Mudgee Toyota",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-motors-group-%E2%80%93-mudgee-toyota",
+    "slug": "autodesk-maintainx",
+    "title": "Autodesk - MaintainX",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/autodesk-maintainx",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -312,21 +312,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "infoblox-%E2%80%93-kentik-technologies",
-    "title": "Infoblox – Kentik Technologies",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/infoblox-%E2%80%93-kentik-technologies",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
-    "title": "Envest Group – MA Insurance Brokers",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
+    "slug": "sonnel-hospitality-group-%E2%80%93-peakhurst-inn-hotel",
+    "title": "Sonnel Hospitality Group – Peakhurst Inn Hotel",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sonnel-hospitality-group-%E2%80%93-peakhurst-inn-hotel",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
