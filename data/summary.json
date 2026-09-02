@@ -1,55 +1,49 @@
 {
-  "generated_at_utc": "2026-09-01T11:49:43.787870Z",
-  "total_entries": 610,
+  "generated_at_utc": "2026-09-02T11:28:56.486180Z",
+  "total_entries": 612,
   "by_acquisition_status": {
-    "Under assessment": 37,
-    "Assessment completed": 568,
+    "Under assessment": 34,
+    "Assessment completed": 573,
     "Assessment ceased": 5
   },
   "by_stage": {
     "Phase 1 - initial assessment": 231,
-    "Waiver application": 370,
+    "Waiver application": 372,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
     "Notification": 240,
-    "Waiver": 370
+    "Waiver": 372
   },
   "by_accc_determination": {
-    "Approved": 547,
+    "Approved": 551,
     "Not approved": 18,
-    "Approved with conditions": 3
+    "Approved with conditions": 4
   },
   "decisions_due_within_10_days": [
     {
       "slug": "peter-warren-wakeling-automotive-0",
       "title": "Peter Warren - Wakeling Automotive",
       "end_of_determination_period": "4 Sep 2026",
-      "days_remaining": 3
-    },
-    {
-      "slug": "kimberly-clark-corporation-kenvue-inc",
-      "title": "Kimberly-Clark Corporation - Kenvue Inc.",
-      "end_of_determination_period": "8 Sep 2026",
-      "days_remaining": 7
+      "days_remaining": 2
     },
     {
       "slug": "amplifon-%E2%80%93-gn-hearing",
       "title": "Amplifon – GN Hearing",
       "end_of_determination_period": "9 Sep 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "9 Sep 2026",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
       "title": "UPM-Kymmene – Sappi joint venture",
       "end_of_determination_period": "10 Sep 2026",
-      "days_remaining": 9
+      "days_remaining": 8
     }
   ]
 }

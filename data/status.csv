@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-01 11:20:07.482676,
-Last scrape run (AEST),01 Sep 2026  21:20,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-02 10:54:22.512040,
+Last scrape run (AEST),02 Sep 2026  20:54,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,610,
-New entries this run,1,
-Changed entries this run,1,
+Total entries monitored,612,
+New entries this run,2,
+Changed entries this run,4,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,20 +13,42 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
+NEW ENTRIES (2),Case Number,URL
+"+ Coles – supermarket site in Byron Bay, NSW",WA-30035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw
++ KKR – global print business of Thomson Reuters Corporation,WA-30034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kkr-%E2%80%93-global-print-business-of-thomson-reuters-corporation
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  2 September 2026
+,Targets,WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308; Anthony Mark Guider  →  GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Anthony Mark Guidera; Straight T
+,Other Parties,Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Stephen Michael Pa  →  Stephen Michael Palyga; OSMOFLO PTY LTD; 39 050 952 175; Kanadevia Corporation; Michael William O'Co
+,Last Modified Accc,2026-08-17T16:48:34+10:00  →  2026-09-02T16:26:11+10:00
+,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': ""Osmoflo - Guidera O'Connor - Phase 1 determination"", 'url': "
+,,
+~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  2 September 2026
+,Last Modified Accc,2026-08-14T09:00:10+10:00  →  2026-09-02T11:48:48+10:00
+,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': 'Wesfarmers and Built Group - Built Living Joint Venture - Ph"
+,,
+~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved with conditions
+,Determination Publication Date,  →  1 September 2026
+,Last Modified Accc,2026-08-05T15:02:02+10:00  →  2026-09-02T09:52:28+10:00
+,Decisions Docs,"  →  [{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determination', 'url': 'ht"
+,,
 ~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,End Of Determination Period,2 Sep 2026  →  9 Sep 2026
-,Last Modified Accc,2026-08-17T16:33:52+10:00  →  2026-09-01T19:24:15+10:00
+,Last Modified Accc,2026-09-01T19:24:15+10:00  →  2026-09-02T16:24:26+10:00
+,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request b  →  [{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request b"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
-+ Herron Todd White – CJA Lee Property Valuers,MN-75036,26 Aug  16:54
-+ AGS Financial Group - Hartley Financial Group,WA-85041,26 Aug  16:54
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + WSP - e2m,MN-35038,27 Aug  18:17
 + Respect Group – McLean Care residential aged care homes and independent living units,WA-75047,27 Aug  18:17
 + Eldridge – Ausenco,WA-25043,27 Aug  18:17
@@ -50,38 +72,9 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,31 Aug  23:04
 + Francisco Partners – Majority interest in Command Alkon,WA-90033,31 Aug  23:04
 + Aware Real Estate – 100 Market Street,WA-60037,31 Aug  23:04
++ MUFG Pension & Market Services - Grow Technology Services,MN-35030,01 Sep  21:20
 ,,
-"CHANGED ENTRIES (29 entries, 30 change events)",Field changed,Old value  →  New value  (AEST)
-~ Saint-Gobain - Xypex,MN-80035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (26 Aug  16:54)
-,,
-~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
-,Acquisition Status,Under assessment  →  Assessment completed  (26 Aug  16:54)
-,Accc Determination,  →  Approved  (26 Aug  16:54)
-,Determination Publication Date,  →  25 August 2026  (26 Aug  16:54)
-,Last Modified Accc,2026-08-13T09:17:09+10:00  →  2026-08-25T16:37:28+10:00  (26 Aug  16:54)
-,Decisions Docs,"  →  [{'date': '25 Aug 2026', 'description': 'HiTech Group Australia - Hudson Global   (26 Aug  16:54)"
-,,
-~ Merivale – The Sackville Hotel,MN-35033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel
-,Title,MERIVALE – THE SACKVILLE HOTEL  →  Merivale – The Sackville Hotel  (26 Aug  16:54)
-,Acquisition Status,Under assessment  →  Assessment completed  (26 Aug  16:54)
-,Accc Determination,  →  Approved  (26 Aug  16:54)
-,Determination Publication Date,  →  26 August 2026  (26 Aug  16:54)
-,Last Modified Accc,2026-08-13T10:32:57+10:00  →  2026-08-26T10:15:20+10:00  (26 Aug  16:54)
-,Decisions Docs,"  →  [{'date': '25 Aug 2026', 'description': 'Merivale - The Sackville Hotel - Phase   (26 Aug  16:54)"
-,,
-~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway
-,Acquisition Status,Under assessment  →  Assessment completed  (26 Aug  16:54)
-,Accc Determination,  →  Approved  (26 Aug  16:54)
-,Last Modified Accc,2026-08-12T15:17:56+10:00  →  2026-08-26T09:52:06+10:00  (26 Aug  16:54)
-,Decisions Docs,"  →  [{'date': '25 Aug 2026', 'description': 'bp - bp Gateway - Phase 1 determination  (26 Aug  16:54)"
-,,
-~ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail
-,Acquisition Status,Under assessment  →  Assessment completed  (26 Aug  16:54)
-,Accc Determination,  →  Approved  (26 Aug  16:54)
-,Last Modified Accc,2026-08-06T12:54:28+10:00  →  2026-08-25T16:57:43+10:00  (26 Aug  16:54)
-,Decisions Docs,"  →  [{'date': '25 Aug 2026', 'description': 'Protech - ActivateRail - Phase 1 Determ  (26 Aug  16:54)"
-,,
+"CHANGED ENTRIES (25 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
 ~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or informat  →  The period for providing submissions or information in response to the ACCC’s qu  (27 Aug  18:17)
 ,,
@@ -221,6 +214,10 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,,
 ~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (01 Sep  14:15)
+,,
+~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
+,End Of Determination Period,2 Sep 2026  →  9 Sep 2026  (01 Sep  21:20)
+,Last Modified Accc,2026-08-17T16:33:52+10:00  →  2026-09-01T19:24:15+10:00  (01 Sep  21:20)
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Eli Lilly and Company / AtaiBeckley Inc.,,27 Aug  18:17
