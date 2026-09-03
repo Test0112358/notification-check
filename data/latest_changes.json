@@ -1,25 +1,102 @@
 {
-  "run_utc": "2026-09-03T03:37:30.275509Z",
-  "new_count": 1,
-  "changed_count": 1,
+  "run_utc": "2026-09-03T10:53:28.162389Z",
+  "new_count": 8,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "i-squared-capital-%E2%80%93-oohmedia",
-      "title": "I Squared Capital – oOh!media",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia"
+      "slug": "velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific",
+      "title": "Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific"
+    },
+    {
+      "slug": "bbfit-hanes-australasia",
+      "title": "BBFIT - Hanes Australasia",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia"
+    },
+    {
+      "slug": "waymark-hotels-group-%E2%80%93-criterion-hotel-motel-rockhampton-qld",
+      "title": "Waymark Hotels Group – Criterion Hotel Motel, Rockhampton, QLD",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-criterion-hotel-motel-rockhampton-qld"
+    },
+    {
+      "slug": "morgan-stanley-%E2%80%93-amber",
+      "title": "Morgan Stanley – Amber",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-amber"
+    },
+    {
+      "slug": "influence-media-partners-%E2%80%93-assets-from-anthem-entertainment",
+      "title": "Influence Media Partners – assets from Anthem Entertainment",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment"
+    },
+    {
+      "slug": "vista-%E2%80%93-quantios",
+      "title": "Vista – Quantios",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-%E2%80%93-quantios"
+    },
+    {
+      "slug": "morgan-stanley-%E2%80%93-epic-energy",
+      "title": "Morgan Stanley – Epic Energy",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-epic-energy"
+    },
+    {
+      "slug": "redwood-services-group-%E2%80%93-concept-data-and-voice-select",
+      "title": "Redwood Services Group – Concept Data and Voice Select",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-concept-data-and-voice-select"
     }
   ],
   "changed_entries": [
     {
-      "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
-      "title": "Herron Todd White – CJA Lee Property Valuers",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+      "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
+      "title": "Johns Lyng Group – C&M Build Group",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
       "changes": [
         {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 September 2026 via email to mergers@accc.gov.au with the title Herron Todd White – CJA Property Pty Ltd. Open date 26 Aug 2026 Closing date 2 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "3 September 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248",
+          "new": "JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-12T17:06:34+10:00",
+          "new": "2026-09-03T15:22:12+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '3 Sep 2026', 'description': 'Johns Lyng Group - C&M Build Group - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Johns%20Lyng%20Group%20-%20C%26M%20Build%20Group%20-%20Phase%201%20Determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+      "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-07-01T18:32:20+10:00",
+          "new": "2026-09-03T16:56:44+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20PUBLIC%20VERSION%20-%20FINAL%20-%20Phase%202%20-%20Statement%20of%20Reasons%20-%2030%20June%202026.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_1.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_5.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_5.pdf'}]",
+          "new": "[{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Coles%20Kalgoorlie%20-%20PUBLIC%20VERSION%20%20-%20Statement%20of%20Reasons%20-%2030%20June%202026%20-%20corrected%20AR%20Version%20-%203%20September%202026.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Summary of Reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_1.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_5.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_5.pdf'}]"
         }
       ]
     }
