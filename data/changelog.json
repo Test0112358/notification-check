@@ -30747,5 +30747,27 @@
         "new": "[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}, {'date': '28 Aug 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-03T03:37:30.275509Z",
+    "slug": "i-squared-capital-%E2%80%93-oohmedia",
+    "title": "I Squared Capital – oOh!media",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-03T03:37:30.275509Z",
+    "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+    "title": "Herron Todd White – CJA Lee Property Valuers",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 September 2026 via email to mergers@accc.gov.au with the title Herron Todd White – CJA Property Pty Ltd. Open date 26 Aug 2026 Closing date 2 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
   }
 ]

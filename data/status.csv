@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-02 10:54:22.512040,
-Last scrape run (AEST),02 Sep 2026  20:54,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-03 03:37:30.275509,
+Last scrape run (AEST),03 Sep 2026  13:37,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,612,
-New entries this run,2,
-Changed entries this run,4,
+Total entries monitored,613,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,42 +13,17 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-"+ Coles – supermarket site in Byron Bay, NSW",WA-30035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw
-+ KKR – global print business of Thomson Reuters Corporation,WA-30034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kkr-%E2%80%93-global-print-business-of-thomson-reuters-corporation
+NEW ENTRIES (1),Case Number,URL
++ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  2 September 2026
-,Targets,WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308; Anthony Mark Guider  →  GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Anthony Mark Guidera; Straight T
-,Other Parties,Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Stephen Michael Pa  →  Stephen Michael Palyga; OSMOFLO PTY LTD; 39 050 952 175; Kanadevia Corporation; Michael William O'Co
-,Last Modified Accc,2026-08-17T16:48:34+10:00  →  2026-09-02T16:26:11+10:00
-,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': ""Osmoflo - Guidera O'Connor - Phase 1 determination"", 'url': "
-,,
-~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  2 September 2026
-,Last Modified Accc,2026-08-14T09:00:10+10:00  →  2026-09-02T11:48:48+10:00
-,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': 'Wesfarmers and Built Group - Built Living Joint Venture - Ph"
-,,
-~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved with conditions
-,Determination Publication Date,  →  1 September 2026
-,Last Modified Accc,2026-08-05T15:02:02+10:00  →  2026-09-02T09:52:28+10:00
-,Decisions Docs,"  →  [{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determination', 'url': 'ht"
-,,
-~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,Last Modified Accc,2026-09-01T19:24:15+10:00  →  2026-09-02T16:24:26+10:00
-,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request b  →  [{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request b"
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (24),Case Number,Detected (AEST)
+NEW ENTRIES (26),Case Number,Detected (AEST)
 + WSP - e2m,MN-35038,27 Aug  18:17
 + Respect Group – McLean Care residential aged care homes and independent living units,WA-75047,27 Aug  18:17
 + Eldridge – Ausenco,WA-25043,27 Aug  18:17
@@ -73,8 +48,10 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + Francisco Partners – Majority interest in Command Alkon,WA-90033,31 Aug  23:04
 + Aware Real Estate – 100 Market Street,WA-60037,31 Aug  23:04
 + MUFG Pension & Market Services - Grow Technology Services,MN-35030,01 Sep  21:20
+"+ Coles – supermarket site in Byron Bay, NSW",WA-30035,02 Sep  20:54
++ KKR – global print business of Thomson Reuters Corporation,WA-30034,02 Sep  20:54
 ,,
-"CHANGED ENTRIES (25 entries, 26 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (28 entries, 30 change events)",Field changed,Old value  →  New value  (AEST)
 ~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or informat  →  The period for providing submissions or information in response to the ACCC’s qu  (27 Aug  18:17)
 ,,
@@ -218,6 +195,31 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
 ,End Of Determination Period,2 Sep 2026  →  9 Sep 2026  (01 Sep  21:20)
 ,Last Modified Accc,2026-08-17T16:33:52+10:00  →  2026-09-01T19:24:15+10:00  (01 Sep  21:20)
+,Last Modified Accc,2026-09-01T19:24:15+10:00  →  2026-09-02T16:24:26+10:00  (02 Sep  20:54)
+,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  (02 Sep  20:54)"
+,,
+~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Sep  20:54)
+,Accc Determination,  →  Approved  (02 Sep  20:54)
+,Determination Publication Date,  →  2 September 2026  (02 Sep  20:54)
+,Targets,WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308;  →  GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Anthony Mark  (02 Sep  20:54)
+,Other Parties,Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175  →  Stephen Michael Palyga; OSMOFLO PTY LTD; 39 050 952 175; Kanadevia Corporation;   (02 Sep  20:54)
+,Last Modified Accc,2026-08-17T16:48:34+10:00  →  2026-09-02T16:26:11+10:00  (02 Sep  20:54)
+,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': ""Osmoflo - Guidera O'Connor - Phase 1 det  (02 Sep  20:54)"
+,,
+~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Sep  20:54)
+,Accc Determination,  →  Approved  (02 Sep  20:54)
+,Determination Publication Date,  →  2 September 2026  (02 Sep  20:54)
+,Last Modified Accc,2026-08-14T09:00:10+10:00  →  2026-09-02T11:48:48+10:00  (02 Sep  20:54)
+,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': 'Wesfarmers and Built Group - Built Livin  (02 Sep  20:54)"
+,,
+~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Sep  20:54)
+,Accc Determination,  →  Approved with conditions  (02 Sep  20:54)
+,Determination Publication Date,  →  1 September 2026  (02 Sep  20:54)
+,Last Modified Accc,2026-08-05T15:02:02+10:00  →  2026-09-02T09:52:28+10:00  (02 Sep  20:54)
+,Decisions Docs,"  →  [{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  (02 Sep  20:54)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - Eli Lilly and Company / AtaiBeckley Inc.,,27 Aug  18:17

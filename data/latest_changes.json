@@ -1,141 +1,25 @@
 {
-  "run_utc": "2026-09-02T10:54:22.512040Z",
-  "new_count": 2,
-  "changed_count": 4,
+  "run_utc": "2026-09-03T03:37:30.275509Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "coles-%E2%80%93-supermarket-site-in-byron-bay-nsw",
-      "title": "Coles – supermarket site in Byron Bay, NSW",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw"
-    },
-    {
-      "slug": "kkr-%E2%80%93-global-print-business-of-thomson-reuters-corporation",
-      "title": "KKR – global print business of Thomson Reuters Corporation",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kkr-%E2%80%93-global-print-business-of-thomson-reuters-corporation"
+      "slug": "i-squared-capital-%E2%80%93-oohmedia",
+      "title": "I Squared Capital – oOh!media",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia"
     }
   ],
   "changed_entries": [
     {
-      "slug": "osmoflo-water-management-guidera-oconnor",
-      "title": "Osmoflo Water Management - Guidera O'Connor",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor",
+      "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+      "title": "Herron Todd White – CJA Lee Property Valuers",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "2 September 2026"
-        },
-        {
-          "field": "targets",
-          "old": "WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308; Anthony Mark Guidera; GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Iain Harvey Wood",
-          "new": "GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Anthony Mark Guidera; Straight Talking Pty Ltd; 008 068 308; WILLCAM NOMINEES PTY LTD; 93 063 325 146; Iain Harvey Wood"
-        },
-        {
-          "field": "other_parties",
-          "old": "Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175; Stephen Michael Palyga",
-          "new": "Stephen Michael Palyga; OSMOFLO PTY LTD; 39 050 952 175; Kanadevia Corporation; Michael William O'Connor"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-17T16:48:34+10:00",
-          "new": "2026-09-02T16:26:11+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '2 Sep 2026', 'description': \"Osmoflo - Guidera O'Connor - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/Osmoflo%20-%20Guidera%20O%27Connor%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "wesfarmers-and-built-group-built-living-joint-venture",
-      "title": "Wesfarmers and Built Group - Built Living Joint Venture",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "2 September 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-14T09:00:10+10:00",
-          "new": "2026-09-02T11:48:48+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '2 Sep 2026', 'description': 'Wesfarmers and Built Group - Built Living Joint Venture - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Wesfarmers%20and%20Built%20Group%20-%20Built%20Living%20Joint%20Venture%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "kimberly-clark-corporation-kenvue-inc",
-      "title": "Kimberly-Clark Corporation - Kenvue Inc.",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved with conditions"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "1 September 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-05T15:02:02+10:00",
-          "new": "2026-09-02T09:52:28+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Kimberly-Clark%20-%20Kenvue%20-%20Phase%201%20determination%20-%201%20September%202026.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "journey-beyond-kelsian-tourism-portfolio",
-      "title": "Journey Beyond - Kelsian Tourism Portfolio",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-09-01T19:24:15+10:00",
-          "new": "2026-09-02T16:24:26+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}]",
-          "new": "[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}, {'date': '28 Aug 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]"
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 2 September 2026 via email to mergers@accc.gov.au with the title Herron Todd White – CJA Property Pty Ltd. Open date 26 Aug 2026 Closing date 2 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
         }
       ]
     }
