@@ -12,6 +12,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "bp-bp-gateway",
+    "title": "bp - bp Gateway",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "protech-activaterail",
     "title": "Protech - ActivateRail",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail",
@@ -276,21 +288,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "bp-bp-gateway",
-    "title": "bp - bp Gateway",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
-    "slug": "cse-crosscom-%E2%80%93-progility",
-    "title": "CSE Crosscom – Progility",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cse-crosscom-%E2%80%93-progility",
+    "slug": "l-catterton-europe-%E2%80%93-hyrox",
+    "title": "L Catterton Europe – HYROX",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/l-catterton-europe-%E2%80%93-hyrox",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,21 +300,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
-    "title": "Envest Group – MA Insurance Brokers",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "bp-bp-gateway",
-    "title": "bp - bp Gateway",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
+    "slug": "az-next-generation-advisory-%E2%80%93-intend-financial",
+    "title": "AZ Next Generation Advisory – Intend Financial",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/az-next-generation-advisory-%E2%80%93-intend-financial",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
