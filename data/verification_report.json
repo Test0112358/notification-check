@@ -288,9 +288,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "atkinsr%C3%A9alis-wga",
-    "title": "AtkinsRéalis - WGA",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atkinsr%C3%A9alis-wga",
+    "slug": "xylem-trios",
+    "title": "Xylem - TriOS",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-trios",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,9 +300,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "life-without-barriers-%E2%80%93-mallacoota-district-health-support-service",
-    "title": "Life Without Barriers – Mallacoota District Health & Support Service",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/life-without-barriers-%E2%80%93-mallacoota-district-health-support-service",
+    "slug": "yancoal-kestrel-coal-group",
+    "title": "Yancoal - Kestrel Coal Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/yancoal-kestrel-coal-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -312,9 +312,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "vets-central-claremont-veterinary-surgery",
-    "title": "Vets Central - Claremont Veterinary Surgery",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-claremont-veterinary-surgery",
+    "slug": "black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld",
+    "title": "Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -324,21 +324,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "seismic-%E2%80%93-highspot",
-    "title": "Seismic – Highspot",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/seismic-%E2%80%93-highspot",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "openai-tomoro",
-    "title": "OpenAI - Tomoro",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/openai-tomoro",
+    "slug": "redwood-services-group-%E2%80%93-all-it-australia",
+    "title": "Redwood Services Group – All IT Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
