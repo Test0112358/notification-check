@@ -288,45 +288,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "xylem-trios",
-    "title": "Xylem - TriOS",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-trios",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "yancoal-kestrel-coal-group",
-    "title": "Yancoal - Kestrel Coal Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/yancoal-kestrel-coal-group",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld",
-    "title": "Black Rhino Group – Granville Tavern and Motel and Cambridge Street Bottle Shop & Cellars in Granville, QLD",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-group-%E2%80%93-granville-tavern-and-motel-and-cambridge-street-bottle-shop-cellars-in-granville-qld",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "redwood-services-group-%E2%80%93-all-it-australia",
-    "title": "Redwood Services Group – All IT Australia",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia",
+    "slug": "prime-super-additional-interest-in-peninsula-link-project",
+    "title": "Prime Super - Additional interest in Peninsula Link Project",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
