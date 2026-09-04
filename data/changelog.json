@@ -30891,5 +30891,74 @@
         "new": "[{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Coles%20Kalgoorlie%20-%20PUBLIC%20VERSION%20%20-%20Statement%20of%20Reasons%20-%2030%20June%202026%20-%20corrected%20AR%20Version%20-%203%20September%202026.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Summary of Reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_1.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_5.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_5.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-04T03:37:30.595610Z",
+    "slug": "apiam-%E2%80%93-seymour-equine-clinic",
+    "title": "Apiam – Seymour Equine Clinic",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-04T03:37:30.595610Z",
+    "slug": "woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
+    "title": "Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-04T03:37:30.595610Z",
+    "slug": "wsp-e2m",
+    "title": "WSP - e2m",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 3 September 2026 via email to mergers@accc.gov.au with the title Submission re: WSP - e2m. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 27 Aug 2026 Closing date 3 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-04T03:37:30.595610Z",
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved with conditions"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "4 September 2026"
+      },
+      {
+        "field": "targets",
+        "old": "Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WAKELING HOLDINGS PTY LTD; 41 160 814 040; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768",
+        "new": "Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-19T17:17:46+10:00",
+        "new": "2026-09-04T09:15:56+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]",
+        "new": "[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination with conditions', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Peter%20Warren%20-%20Wakeling%20Automotive%20-%20Phase%201%20Determination%20with%20conditions.pdf'}, {'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]"
+      }
+    ]
   }
 ]

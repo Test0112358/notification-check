@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-03 10:53:28.162389,
-Last scrape run (AEST),03 Sep 2026  20:53,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-04 03:37:30.595610,
+Last scrape run (AEST),04 Sep 2026  13:37,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,621,
-New entries this run,8,
+Total entries monitored,623,
+New entries this run,2,
 Changed entries this run,2,
 Removed entries this run,0,
 ,,
@@ -13,33 +13,26 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (8),Case Number,URL
-+ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific
-+ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
-"+ Waymark Hotels Group – Criterion Hotel Motel, Rockhampton, QLD",WA-40040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-criterion-hotel-motel-rockhampton-qld
-+ Morgan Stanley – Amber,WA-85046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-amber
-+ Influence Media Partners – assets from Anthem Entertainment,WA-35043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment
-+ Vista – Quantios,WA-70034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-%E2%80%93-quantios
-+ Morgan Stanley – Epic Energy,WA-30032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-epic-energy
-+ Redwood Services Group – Concept Data and Voice Select,WA-05047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-concept-data-and-voice-select
+NEW ENTRIES (2),Case Number,URL
++ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
+"+ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
 ,,
 CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  3 September 2026
-,Other Parties,SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248  →  JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103
-,Last Modified Accc,2026-08-12T17:06:34+10:00  →  2026-09-03T15:22:12+10:00
-,Decisions Docs,"  →  [{'date': '3 Sep 2026', 'description': 'Johns Lyng Group - C&M Build Group - Phase 1 Determination',"
+~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
-"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,Last Modified Accc,2026-07-01T18:32:20+10:00  →  2026-09-03T16:56:44+10:00
-,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'http  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Reasons', 'url': 'http"
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved with conditions
+,Determination Publication Date,  →  4 September 2026
+,Targets,Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin  →  Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin
+,Last Modified Accc,2026-08-19T17:17:46+10:00  →  2026-09-04T09:15:56+10:00
+,Decisions Docs,"[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy off  →  [{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination w"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
+NEW ENTRIES (25),Case Number,Detected (AEST)
 + Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,28 Aug  20:19
 "+ Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",WA-25045,28 Aug  20:19
 + Respect Group – Proserpine Nursing Home,WA-50036,28 Aug  20:19
@@ -57,8 +50,16 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 "+ Coles – supermarket site in Byron Bay, NSW",WA-30035,02 Sep  20:54
 + KKR – global print business of Thomson Reuters Corporation,WA-30034,02 Sep  20:54
 + I Squared Capital – oOh!media,MN-75054,03 Sep  13:37
++ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,03 Sep  20:53
++ BBFIT - Hanes Australasia,MN-10028,03 Sep  20:53
+"+ Waymark Hotels Group – Criterion Hotel Motel, Rockhampton, QLD",WA-40040,03 Sep  20:53
++ Morgan Stanley – Amber,WA-85046,03 Sep  20:53
++ Influence Media Partners – assets from Anthem Entertainment,WA-35043,03 Sep  20:53
++ Vista – Quantios,WA-70034,03 Sep  20:53
++ Morgan Stanley – Epic Energy,WA-30032,03 Sep  20:53
++ Redwood Services Group – Concept Data and Voice Select,WA-05047,03 Sep  20:53
 ,,
-"CHANGED ENTRIES (14 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
 ,Acquisition Status,Under assessment  →  Assessment completed  (28 Aug  20:19)
 ,Accc Determination,  →  Approved  (28 Aug  20:19)
@@ -134,4 +135,16 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,,
 ~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (03 Sep  13:37)
+,,
+~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
+,Acquisition Status,Under assessment  →  Assessment completed  (03 Sep  20:53)
+,Accc Determination,  →  Approved  (03 Sep  20:53)
+,Determination Publication Date,  →  3 September 2026  (03 Sep  20:53)
+,Other Parties,SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248  →  JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103  (03 Sep  20:53)
+,Last Modified Accc,2026-08-12T17:06:34+10:00  →  2026-09-03T15:22:12+10:00  (03 Sep  20:53)
+,Decisions Docs,"  →  [{'date': '3 Sep 2026', 'description': 'Johns Lyng Group - C&M Build Group - Pha  (03 Sep  20:53)"
+,,
+"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
+,Last Modified Accc,2026-07-01T18:32:20+10:00  →  2026-09-03T16:56:44+10:00  (03 Sep  20:53)
+,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of re  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Re  (03 Sep  20:53)"
 ,,

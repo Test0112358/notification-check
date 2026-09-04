@@ -1,55 +1,37 @@
 {
-  "run_utc": "2026-09-03T10:53:28.162389Z",
-  "new_count": 8,
+  "run_utc": "2026-09-04T03:37:30.595610Z",
+  "new_count": 2,
   "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific",
-      "title": "Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific"
+      "slug": "apiam-%E2%80%93-seymour-equine-clinic",
+      "title": "Apiam – Seymour Equine Clinic",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic"
     },
     {
-      "slug": "bbfit-hanes-australasia",
-      "title": "BBFIT - Hanes Australasia",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia"
-    },
-    {
-      "slug": "waymark-hotels-group-%E2%80%93-criterion-hotel-motel-rockhampton-qld",
-      "title": "Waymark Hotels Group – Criterion Hotel Motel, Rockhampton, QLD",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-criterion-hotel-motel-rockhampton-qld"
-    },
-    {
-      "slug": "morgan-stanley-%E2%80%93-amber",
-      "title": "Morgan Stanley – Amber",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-amber"
-    },
-    {
-      "slug": "influence-media-partners-%E2%80%93-assets-from-anthem-entertainment",
-      "title": "Influence Media Partners – assets from Anthem Entertainment",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment"
-    },
-    {
-      "slug": "vista-%E2%80%93-quantios",
-      "title": "Vista – Quantios",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-%E2%80%93-quantios"
-    },
-    {
-      "slug": "morgan-stanley-%E2%80%93-epic-energy",
-      "title": "Morgan Stanley – Epic Energy",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-epic-energy"
-    },
-    {
-      "slug": "redwood-services-group-%E2%80%93-concept-data-and-voice-select",
-      "title": "Redwood Services Group – Concept Data and Voice Select",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-concept-data-and-voice-select"
+      "slug": "woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
+      "title": "Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw"
     }
   ],
   "changed_entries": [
     {
-      "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
-      "title": "Johns Lyng Group – C&M Build Group",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
+      "slug": "wsp-e2m",
+      "title": "WSP - e2m",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 3 September 2026 via email to mergers@accc.gov.au with the title Submission re: WSP - e2m. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 27 Aug 2026 Closing date 3 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "peter-warren-wakeling-automotive-0",
+      "title": "Peter Warren - Wakeling Automotive",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
       "changes": [
         {
           "field": "acquisition_status",
@@ -59,44 +41,27 @@
         {
           "field": "accc_determination",
           "old": "",
-          "new": "Approved"
+          "new": "Approved with conditions"
         },
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "3 September 2026"
+          "new": "4 September 2026"
         },
         {
-          "field": "other_parties",
-          "old": "SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248",
-          "new": "JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103"
+          "field": "targets",
+          "old": "Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780; WAKELING HOLDINGS PTY LTD; 41 160 814 040; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768",
+          "new": "Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakeling Trust; 119 879 980; HURRIKAYNE PTY LTD; 74 118 744 915; WOLLONGONG CITY MOTORS PTY LTD; 22 002 019 598; WAKELING HOLDINGS PTY LTD; 41 160 814 040; Paul Burgess Nominees Pty Ltd as trustee for Paul Burgess Trust; 119 875 768; Paul Wakeling Motor Group Pty Ltd; 47 119 908 780"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-12T17:06:34+10:00",
-          "new": "2026-09-03T15:22:12+10:00"
+          "old": "2026-08-19T17:17:46+10:00",
+          "new": "2026-09-04T09:15:56+10:00"
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '3 Sep 2026', 'description': 'Johns Lyng Group - C&M Build Group - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Johns%20Lyng%20Group%20-%20C%26M%20Build%20Group%20-%20Phase%201%20Determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
-      "title": "Coles – supermarket and liquor site in Kalgoorlie, WA",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa",
-      "changes": [
-        {
-          "field": "last_modified_accc",
-          "old": "2026-07-01T18:32:20+10:00",
-          "new": "2026-09-03T16:56:44+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20PUBLIC%20VERSION%20-%20FINAL%20-%20Phase%202%20-%20Statement%20of%20Reasons%20-%2030%20June%202026.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_1.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_5.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_5.pdf'}]",
-          "new": "[{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Coles%20Kalgoorlie%20-%20PUBLIC%20VERSION%20%20-%20Statement%20of%20Reasons%20-%2030%20June%202026%20-%20corrected%20AR%20Version%20-%203%20September%202026.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Summary of Reasons', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20Summary%20of%20Reasons%20-%20AR%20version%20-%2030%20June%202026_1.pdf'}, {'date': '30 Jun 2026', 'description': 'Phase 2 Determination', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles%20Kalgoorlie%20-%20FINAL%20-%20Phase%202%20-%20Determination%20-%20AR%20version%20-%2030%20June%202026_0.pdf'}, {'date': '25 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '18 May 2026', 'description': 'Timeline extended by 4 business days – following request for further information', 'url': ''}, {'date': '13 May 2026', 'description': 'Timeline extended by 6 business days – following request for further information', 'url': ''}, {'date': '6 Mar 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Coles_Kalgoorlie%20-%20Final%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%20March%202026_5.pdf'}, {'date': '29 Jan 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/%20Kalgoorlie%20-%20Decision%20to%20Proceed%20to%20Phase%202%20review%20-%2029%20January%202026_5.pdf'}]"
+          "old": "[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]",
+          "new": "[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination with conditions', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Peter%20Warren%20-%20Wakeling%20Automotive%20-%20Phase%201%20Determination%20with%20conditions.pdf'}, {'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]"
         }
       ]
     }
