@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-04 03:37:30.595610,
-Last scrape run (AEST),04 Sep 2026  13:37,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-04 10:52:57.281035,
+Last scrape run (AEST),04 Sep 2026  20:52,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,623,
-New entries this run,2,
-Changed entries this run,2,
+Total entries monitored,624,
+New entries this run,1,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,33 +13,13 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
-"+ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
-,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved with conditions
-,Determination Publication Date,  →  4 September 2026
-,Targets,Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin  →  Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trustee for S.A. Wakelin
-,Last Modified Accc,2026-08-19T17:17:46+10:00  →  2026-09-04T09:15:56+10:00
-,Decisions Docs,"[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy off  →  [{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination w"
+NEW ENTRIES (1),Case Number,URL
+"+ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
-+ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,28 Aug  20:19
-"+ Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",WA-25045,28 Aug  20:19
-+ Respect Group – Proserpine Nursing Home,WA-50036,28 Aug  20:19
-+ Monadelphous - Tyden Power,WA-15037,28 Aug  20:19
-+ ReDirect Holdings - Echo Solve,WA-20033,28 Aug  20:19
-+ SCM Financial Group - Strategic Wealth Services Group,WA-40035,28 Aug  20:19
-+ Verlinvest – up to 60% interest in HomeExchange,WA-60033,28 Aug  20:19
+NEW ENTRIES (20),Case Number,Detected (AEST)
 + Platinum Equity Group – Nestlé Waters,WA-75048,31 Aug  23:04
 + Blackstone - Technology Service Corporation,WA-95039,31 Aug  23:04
 + SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,31 Aug  23:04
@@ -58,30 +38,10 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Vista – Quantios,WA-70034,03 Sep  20:53
 + Morgan Stanley – Epic Energy,WA-30032,03 Sep  20:53
 + Redwood Services Group – Concept Data and Voice Select,WA-05047,03 Sep  20:53
++ Apiam – Seymour Equine Clinic,MN-95040,04 Sep  13:37
+"+ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,04 Sep  13:37
 ,,
-"CHANGED ENTRIES (16 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
-,Acquisition Status,Under assessment  →  Assessment completed  (28 Aug  20:19)
-,Accc Determination,  →  Approved  (28 Aug  20:19)
-,Determination Publication Date,  →  28 August 2026  (28 Aug  20:19)
-,Targets,Smuggler LLC; Identifying number - 6877804; Smuggler London Ltd; Identifying num  →  Smuggler LLC; Identifying number - 6877804; Sidepiece LLC; Identifying number -   (28 Aug  20:19)
-,Other Parties,K10 Holding SA; Identifying number - B214433; ELOCGA; Identifying number - B2094  →  TowerBrook Capital Partners L.P.; Identifying number - 3922576; ELOCGA; Identify  (28 Aug  20:19)
-,Last Modified Accc,2026-08-17T11:16:39+10:00  →  2026-08-28T15:39:25+10:00  (28 Aug  20:19)
-,Decisions Docs,"  →  [{'date': '28 Aug 2026', 'description': 'The Independents Group – acquisition of  (28 Aug  20:19)"
-,,
-~ Hammondcare - Anglican Community Services' Support at Home business,MN-85038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
-,Title,HAMMONDCARE - ANGLICAN COMMUNITY SERVICES' SUPPORT AT HOME BUSINESS  →  Hammondcare - Anglican Community Services' Support at Home business  (28 Aug  20:19)
-,Acquisition Status,Under assessment  →  Assessment completed  (28 Aug  20:19)
-,Accc Determination,  →  Approved  (28 Aug  20:19)
-,Determination Publication Date,  →  28 August 2026  (28 Aug  20:19)
-,Last Modified Accc,2026-08-12T10:58:01+10:00  →  2026-08-28T13:54:09+10:00  (28 Aug  20:19)
-,Decisions Docs,"  →  [{'date': '28 Aug 2026', 'description': ""HammondCare – Anglican Community Servic  (28 Aug  20:19)"
-,,
-~ Vets Central – Hills Veterinary Centre,MN-40017,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0
-,Acquisition Status,Under assessment  →  Assessment ceased  (28 Aug  20:19)
-,Last Modified Accc,2026-08-19T18:19:18+10:00  →  2026-08-28T16:11:26+10:00  (28 Aug  20:19)
-,Decisions Docs,"[{'date': '18 Aug 2026', 'description': 'Vets Central - Hills Veterinary Centre   →  [{'date': '21 Jul 2026', 'description': 'Timeline extended by 5 business days –   (28 Aug  20:19)"
-,,
+"CHANGED ENTRIES (15 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Lone Star Funds - ContiTech,MN-85043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (31 Aug  14:32)
 ,,
@@ -147,4 +107,15 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 "~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
 ,Last Modified Accc,2026-07-01T18:32:20+10:00  →  2026-09-03T16:56:44+10:00  (03 Sep  20:53)
 ,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of re  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Re  (03 Sep  20:53)"
+,,
+~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (04 Sep  13:37)
+,,
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,Acquisition Status,Under assessment  →  Assessment completed  (04 Sep  13:37)
+,Accc Determination,  →  Approved with conditions  (04 Sep  13:37)
+,Determination Publication Date,  →  4 September 2026  (04 Sep  13:37)
+,Targets,Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trus  →  Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trus  (04 Sep  13:37)
+,Last Modified Accc,2026-08-19T17:17:46+10:00  →  2026-09-04T09:15:56+10:00  (04 Sep  13:37)
+,Decisions Docs,"[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days –   →  [{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  (04 Sep  13:37)"
 ,,
