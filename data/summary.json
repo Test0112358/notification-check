@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-09-04T11:24:46.633914Z",
-  "total_entries": 624,
+  "generated_at_utc": "2026-09-07T08:02:15.162616Z",
+  "total_entries": 628,
   "by_acquisition_status": {
     "Under assessment": 37,
-    "Assessment completed": 582,
+    "Assessment completed": 586,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 236,
-    "Waiver application": 379,
+    "Phase 1 - initial assessment": 237,
+    "Waiver application": 382,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 245,
-    "Waiver": 379
+    "Notification": 246,
+    "Waiver": 382
   },
   "by_accc_determination": {
-    "Approved": 559,
+    "Approved": 563,
     "Not approved": 18,
     "Approved with conditions": 5
   },
@@ -25,25 +25,31 @@
       "slug": "amplifon-%E2%80%93-gn-hearing",
       "title": "Amplifon – GN Hearing",
       "end_of_determination_period": "9 Sep 2026",
-      "days_remaining": 5
+      "days_remaining": 2
     },
     {
       "slug": "journey-beyond-kelsian-tourism-portfolio",
       "title": "Journey Beyond - Kelsian Tourism Portfolio",
       "end_of_determination_period": "9 Sep 2026",
-      "days_remaining": 5
+      "days_remaining": 2
     },
     {
       "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
       "title": "UPM-Kymmene – Sappi joint venture",
       "end_of_determination_period": "10 Sep 2026",
-      "days_remaining": 6
+      "days_remaining": 3
     },
     {
       "slug": "karmosimplr",
       "title": "KARMO/SIMPLR",
       "end_of_determination_period": "14 Sep 2026",
-      "days_remaining": 10
+      "days_remaining": 7
+    },
+    {
+      "slug": "danaher-leica-biosystems-statlab",
+      "title": "Danaher (Leica Biosystems) - StatLab",
+      "end_of_determination_period": "16 Sep 2026",
+      "days_remaining": 9
     }
   ]
 }

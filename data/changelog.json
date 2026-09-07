@@ -30968,5 +30968,109 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "flick-%E2%80%93-gc-pest-control",
+    "title": "Flick – GC Pest Control",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+    "title": "Blackstone funds and Perpetual Trustees – HSBC loan portfolio",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 4 September 2026 via email to mergers@accc.gov.au with the title Submission re: Blackstone funds and Perpetual Trustees - HSBC loan portfolio. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 28 Aug 2026 Closing date 4 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "the-procter-gamble-company-thorne",
+    "title": "The Procter & Gamble Company - Thorne",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-procter-gamble-company-thorne",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "triton-%E2%80%93-united-initiators",
+    "title": "Triton – United Initiators",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-%E2%80%93-united-initiators",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+    "title": "Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "7 September 2026"
+      },
+      {
+        "field": "targets",
+        "old": "Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827",
+        "new": "Michael Mooney; CLENDON CARE PTY LTD; 65 001 584 827; Lynne Mooney"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-19T17:35:22+10:00",
+        "new": "2026-09-07T17:27:26+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '7 Sep 2026', 'description': 'Opal HealthCare-Canberra Nursing Home - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Opal-Canberra%20Nursing%20Home%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "netspi-synack",
+    "title": "NetSPI - Synack",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/netspi-synack",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-07T07:35:08.729390Z",
+    "slug": "kimberly-clark-corporation-kenvue-inc",
+    "title": "Kimberly-Clark Corporation - Kenvue Inc.",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-02T09:52:28+10:00",
+        "new": "2026-09-07T12:03:37+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Kimberly-Clark%20-%20Kenvue%20-%20Phase%201%20determination%20-%201%20September%202026.pdf'}]",
+        "new": "[{'date': '3 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Kimberly-Clark%20Corporation%20and%20Kenvue%20Inc.%20-%20s87B%20Undertaking%20-%20Public%20Version.pdf'}, {'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Kimberly-Clark%20-%20Kenvue%20-%20Phase%201%20determination%20-%201%20September%202026_0.pdf'}]"
+      }
+    ]
   }
 ]
