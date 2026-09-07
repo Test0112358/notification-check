@@ -288,9 +288,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
-    "title": "Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "slug": "metcash-foodland-flagstaff-hill-south-australia",
+    "title": "Metcash - Foodland Flagstaff Hill, South Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metcash-foodland-flagstaff-hill-south-australia",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,9 +300,33 @@
     "expected_or_found": ""
   },
   {
-    "slug": "regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
-    "title": "Regional Australia Bank – South West Slopes Credit Union",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
+    "slug": "tdr-and-estoril-%E2%80%93-escode",
+    "title": "TDR and Estoril – Escode",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tdr-and-estoril-%E2%80%93-escode",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "bingo-industries-jlw-services",
+    "title": "Bingo Industries - JLW Services",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bingo-industries-jlw-services",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "airtree-%E2%80%93-hotdoc-0",
+    "title": "Airtree – HotDoc",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
