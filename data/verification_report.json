@@ -288,9 +288,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "prime-super-additional-interest-in-peninsula-link-project",
-    "title": "Prime Super - Additional interest in Peninsula Link Project",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prime-super-additional-interest-in-peninsula-link-project",
+    "slug": "waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "title": "Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
+    "title": "Regional Australia Bank – South West Slopes Credit Union",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
