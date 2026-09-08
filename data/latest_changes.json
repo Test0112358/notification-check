@@ -1,14 +1,50 @@
 {
-  "run_utc": "2026-09-08T03:43:59.517203Z",
-  "new_count": 0,
-  "changed_count": 2,
+  "run_utc": "2026-09-08T10:52:42.923174Z",
+  "new_count": 7,
+  "changed_count": 8,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "hyne-pallets-advance-pallets",
+      "title": "Hyne Pallets - Advance Pallets",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hyne-pallets-advance-pallets"
+    },
+    {
+      "slug": "investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel",
+      "title": "Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel"
+    },
+    {
+      "slug": "shepparton-automotive-group-darryl-twitt-motors-dealerships-in-shepparton-east-victoria",
+      "title": "Shepparton Automotive Group - Darryl Twitt Motors dealerships in Shepparton East, Victoria",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/shepparton-automotive-group-darryl-twitt-motors-dealerships-in-shepparton-east-victoria"
+    },
+    {
+      "slug": "bain-capital-gong-cha",
+      "title": "Bain Capital - Gong cha",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-gong-cha"
+    },
+    {
+      "slug": "vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
+      "title": "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw"
+    },
+    {
+      "slug": "wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
+      "title": "Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions"
+    },
+    {
+      "slug": "jellinbah-group-further-interest-in-lake-vermont-jv",
+      "title": "Jellinbah Group - Further interest in Lake Vermont JV",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jellinbah-group-further-interest-in-lake-vermont-jv"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "adobe-topaz-labs",
-      "title": "Adobe - Topaz Labs",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs",
+      "slug": "bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture",
+      "title": "Bunnings – Intellihub – Zelora Joint Venture",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture",
       "changes": [
         {
           "field": "acquisition_status",
@@ -27,20 +63,25 @@
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-14T11:40:00+10:00",
-          "new": "2026-09-08T11:25:13+10:00"
+          "old": "2026-08-21T10:14:50+10:00",
+          "new": "2026-09-08T16:11:55+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s Phase 1 questionnaire has concluded.",
+          "new": ""
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '8 Sep 2026', 'description': 'Adobe - Topaz Labs - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Adobe%20-%20Topaz%20Labs%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '8 Sep 2026', 'description': 'Bunnings - Intellihub - Zelora - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Bunnings%20-%20Intellihub%20-%20Zelora%20Joint%20Venture%20-%20Phase%201%20determination_0.pdf'}]"
         }
       ]
     },
     {
-      "slug": "upm-kymmene-%E2%80%93-sappi-joint-venture",
-      "title": "UPM-Kymmene – Sappi joint venture",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture",
+      "slug": "chevron-woodside-asset-swap",
+      "title": "Chevron - Woodside asset swap",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/chevron-woodside-asset-swap",
       "changes": [
         {
           "field": "acquisition_status",
@@ -58,24 +99,226 @@
           "new": "8 September 2026"
         },
         {
-          "field": "acquirers",
-          "old": "UPM-Kymmene Corporation; Finnish Business ID - 1041090-0; Sappi Limited; Registration number - 1936/008963/06",
-          "new": "Sappi Limited; Registration number - 1936/008963/06; UPM-Kymmene Corporation; Finnish Business ID - 1041090-0"
-        },
-        {
-          "field": "other_parties",
-          "old": "UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071",
-          "new": "SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYMMENE PTY LTD; 99 001 255 661"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-08-10T13:12:13+10:00",
-          "new": "2026-09-08T10:44:14+10:00"
+          "old": "2026-08-21T09:34:57+10:00",
+          "new": "2026-09-08T17:32:38+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]",
-          "new": "[{'date': '8 Sep 2026', 'description': 'UPM-Kymmene - Sappi joint venture - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/UPM-Kymmene%20-%20Sappi%20joint%20venture%20-%20Phase%201%20determination.pdf'}, {'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request by parties', 'url': ''}]"
+          "old": "",
+          "new": "[{'date': '8 Sep 2026', 'description': 'Chevron – Woodside asset swap – Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Chevron%20%E2%80%93%20Woodside%20asset%20swap%20%E2%80%93%20Phase%201%20Determination%20%E2%80%93%208%20September%202026_0.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "oeconnection-epyx",
+      "title": "OEConnection - Epyx",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-21T10:51:28+10:00",
+          "new": "2026-09-08T14:58:06+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '8 Sep 2026', 'description': 'OEConnection - Epyx - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/OEConnection%20-%20Epyx%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "incubeta-datisan",
+      "title": "Incubeta - Datisan",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "8 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-21T10:44:46+10:00",
+          "new": "2026-09-08T16:52:51+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '8 Sep 2026', 'description': 'Incubeta-Datisan - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Incubeta-Datisan%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "supagas-%E2%80%93-heeson-medical",
+      "title": "Supagas – Heeson Medical",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "8 September 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY57; Coregas Pty Ltd; 32 001 255 312; NSC (Australia) Pty Ltd; 71 607 111 268",
+          "new": "NSC (Australia) Pty Ltd; 71 607 111 268; Coregas Pty Ltd; 32 001 255 312; Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY57"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-19T09:37:07+10:00",
+          "new": "2026-09-08T12:59:14+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '8 Sep 2026', 'description': 'Supagas - Heeson Medical - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Supagas%20-%20Heeson%20Medical%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "aware-super-%E2%80%93-increased-interest-in-keyton",
+      "title": "Aware Super – Increased interest in Keyton",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "8 September 2026"
+        },
+        {
+          "field": "targets",
+          "old": "LENDLEASE CAPITAL SERVICES PTY LTD; 67 000 001 114; LENDLEASE CAPITAL SERVICES RL LTD; 47 615 893 288; Keyton Trust; 44 349 706 307; KEYTON HOLDING PTY LIMITED; 72 613 131 187",
+          "new": "Keyton Trust; 44 349 706 307; LENDLEASE CAPITAL SERVICES PTY LTD; 67 000 001 114; LENDLEASE CAPITAL SERVICES RL LTD; 47 615 893 288; KEYTON HOLDING PTY LIMITED; 72 613 131 187"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-11T17:23:51+10:00",
+          "new": "2026-09-08T15:25:44+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '8 Sep 2026', 'description': 'Aware Super - Increased interest in Keyton - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Aware%20Super%20-%20Increased%20interest%20in%20Keyton%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "amplifon-%E2%80%93-gn-hearing",
+      "title": "Amplifon – GN Hearing",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "8 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-12T16:20:59+10:00",
+          "new": "2026-09-08T17:09:37+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days – following request by parties', 'url': ''}]",
+          "new": "[{'date': '8 Sep 2026', 'description': 'Amplifon - GN Hearing - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Amplifon%20-%20GN%20Hearing%20-%20Phase%201%20Determination_0.pdf'}, {'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days – following request by parties', 'url': ''}]"
+        }
+      ]
+    },
+    {
+      "slug": "journey-beyond-kelsian-tourism-portfolio",
+      "title": "Journey Beyond - Kelsian Tourism Portfolio",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "8 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-02T16:24:26+10:00",
+          "new": "2026-09-08T16:47:55+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}, {'date': '28 Aug 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}]",
+          "new": "[{'date': '8 Sep 2026', 'description': 'Journey Beyond - Kelsian Tourism Portfolio - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/EAG%20-%20Kelsian%20-%20Phase%201%20Determination%20-%208%20Sept%202026.pdf'}, {'date': '28 Aug 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}]"
         }
       ]
     }

@@ -1,38 +1,26 @@
 {
-  "generated_at_utc": "2026-09-08T04:16:09.025630Z",
-  "total_entries": 628,
+  "generated_at_utc": "2026-09-08T11:17:36.536085Z",
+  "total_entries": 635,
   "by_acquisition_status": {
-    "Under assessment": 35,
-    "Assessment completed": 588,
+    "Under assessment": 28,
+    "Assessment completed": 602,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 237,
-    "Waiver application": 382,
+    "Phase 1 - initial assessment": 238,
+    "Waiver application": 388,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 246,
-    "Waiver": 382
+    "Notification": 247,
+    "Waiver": 388
   },
   "by_accc_determination": {
-    "Approved": 565,
-    "Not approved": 18,
+    "Approved": 578,
+    "Not approved": 19,
     "Approved with conditions": 5
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "amplifon-%E2%80%93-gn-hearing",
-      "title": "Amplifon – GN Hearing",
-      "end_of_determination_period": "9 Sep 2026",
-      "days_remaining": 1
-    },
-    {
-      "slug": "journey-beyond-kelsian-tourism-portfolio",
-      "title": "Journey Beyond - Kelsian Tourism Portfolio",
-      "end_of_determination_period": "9 Sep 2026",
-      "days_remaining": 1
-    },
     {
       "slug": "karmosimplr",
       "title": "KARMO/SIMPLR",
