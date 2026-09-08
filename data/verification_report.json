@@ -288,9 +288,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "metcash-foodland-flagstaff-hill-south-australia",
-    "title": "Metcash - Foodland Flagstaff Hill, South Australia",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metcash-foodland-flagstaff-hill-south-australia",
+    "slug": "atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
+    "title": "Atmos – specific BayWa r.e. renewable energy projects",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,9 +300,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "tdr-and-estoril-%E2%80%93-escode",
-    "title": "TDR and Estoril – Escode",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tdr-and-estoril-%E2%80%93-escode",
+    "slug": "kps-%E2%80%93-novacel",
+    "title": "KPS – Novacel",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kps-%E2%80%93-novacel",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -312,9 +312,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bingo-industries-jlw-services",
-    "title": "Bingo Industries - JLW Services",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bingo-industries-jlw-services",
+    "slug": "russell-investment-group-%E2%80%93-zurich-investment-management",
+    "title": "Russell Investment Group – Zurich Investment Management",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/russell-investment-group-%E2%80%93-zurich-investment-management",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -324,9 +324,45 @@
     "expected_or_found": ""
   },
   {
-    "slug": "airtree-%E2%80%93-hotdoc-0",
-    "title": "Airtree – HotDoc",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
+    "slug": "coles-%E2%80%93-supermarket-site-in-new-norfolk-tas",
+    "title": "Coles – supermarket site in New Norfolk (TAS)",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-new-norfolk-tas",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
+    "title": "Smile Partners Australia – Mehta Orthodontics",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "npm-capital-%E2%80%93-ambaflex-group",
+    "title": "NPM Capital – AmbaFlex Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/npm-capital-%E2%80%93-ambaflex-group",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "henkel-%E2%80%93-olaplex",
+    "title": "Henkel – Olaplex",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
