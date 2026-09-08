@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-07 07:35:08.729390,
-Last scrape run (AEST),07 Sep 2026  17:35,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-08 03:43:59.517203,
+Last scrape run (AEST),08 Sep 2026  13:43,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,628,
-New entries this run,4,
-Changed entries this run,3,
+New entries this run,0,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,38 +13,27 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
-+ The Procter & Gamble Company - Thorne,WA-75055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-procter-gamble-company-thorne
-+ Triton – United Initiators,WA-70035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-%E2%80%93-united-initiators
-+ NetSPI - Synack,WA-60039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/netspi-synack
-,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-"~ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  7 September 2026
-,Targets,Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827  →  Michael Mooney; CLENDON CARE PTY LTD; 65 001 584 827; Lynne Mooney
-,Last Modified Accc,2026-08-19T17:35:22+10:00  →  2026-09-07T17:27:26+10:00
-,Decisions Docs,"  →  [{'date': '7 Sep 2026', 'description': 'Opal HealthCare-Canberra Nursing Home - Phase 1 determinatio"
+,Determination Publication Date,  →  8 September 2026
+,Last Modified Accc,2026-08-14T11:40:00+10:00  →  2026-09-08T11:25:13+10:00
+,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Adobe - Topaz Labs - Phase 1 determination', 'url': 'https:/"
 ,,
-~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
-,Last Modified Accc,2026-09-02T09:52:28+10:00  →  2026-09-07T12:03:37+10:00
-,Decisions Docs,"[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determination', 'url': 'ht  →  [{'date': '3 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.go"
+~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  8 September 2026
+,Acquirers,UPM-Kymmene Corporation; Finnish Business ID - 1041090-0; Sappi Limited; Registration number - 1936/  →  Sappi Limited; Registration number - 1936/008963/06; UPM-Kymmene Corporation; Finnish Business ID - 
+,Other Parties,UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAPPI TRADING AUSTRALIA  →  SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy; 2760641-6; UPM-KYM
+,Last Modified Accc,2026-08-10T13:12:13+10:00  →  2026-09-08T10:44:14+10:00
+,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days – following request b  →  [{'date': '8 Sep 2026', 'description': 'UPM-Kymmene - Sappi joint venture - Phase 1 determination', "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (21),Case Number,Detected (AEST)
-+ Platinum Equity Group – Nestlé Waters,WA-75048,31 Aug  23:04
-+ Blackstone - Technology Service Corporation,WA-95039,31 Aug  23:04
-+ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,31 Aug  23:04
-+ Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,31 Aug  23:04
-+ Francisco Partners – Majority interest in Command Alkon,WA-90033,31 Aug  23:04
-+ Aware Real Estate – 100 Market Street,WA-60037,31 Aug  23:04
+NEW ENTRIES (19),Case Number,Detected (AEST)
 + MUFG Pension & Market Services - Grow Technology Services,MN-35030,01 Sep  21:20
 "+ Coles – supermarket site in Byron Bay, NSW",WA-30035,02 Sep  20:54
 + KKR – global print business of Thomson Reuters Corporation,WA-30034,02 Sep  20:54
@@ -60,11 +49,12 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 + Apiam – Seymour Equine Clinic,MN-95040,04 Sep  13:37
 "+ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,04 Sep  13:37
 "+ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,04 Sep  20:52
++ Flick – GC Pest Control,MN-01122,07 Sep  17:35
++ The Procter & Gamble Company - Thorne,WA-75055,07 Sep  17:35
++ Triton – United Initiators,WA-70035,07 Sep  17:35
++ NetSPI - Synack,WA-60039,07 Sep  17:35
 ,,
-"CHANGED ENTRIES (11 entries, 12 change events)",Field changed,Old value  →  New value  (AEST)
-~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
-,Last Modified Accc,2026-08-21T12:19:19+10:00  →  2026-08-31T12:22:26+10:00  (31 Aug  23:04)
-,,
+"CHANGED ENTRIES (12 entries, 14 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (01 Sep  14:15)
 ,,
@@ -96,6 +86,8 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 ,Determination Publication Date,  →  1 September 2026  (02 Sep  20:54)
 ,Last Modified Accc,2026-08-05T15:02:02+10:00  →  2026-09-02T09:52:28+10:00  (02 Sep  20:54)
 ,Decisions Docs,"  →  [{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  (02 Sep  20:54)"
+,Last Modified Accc,2026-09-02T09:52:28+10:00  →  2026-09-07T12:03:37+10:00  (07 Sep  17:35)
+,Decisions Docs,"[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  →  [{'date': '3 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (07 Sep  17:35)"
 ,,
 ~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (03 Sep  13:37)
@@ -122,4 +114,15 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 ,Targets,Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trus  →  Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trus  (04 Sep  13:37)
 ,Last Modified Accc,2026-08-19T17:17:46+10:00  →  2026-09-04T09:15:56+10:00  (04 Sep  13:37)
 ,Decisions Docs,"[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days –   →  [{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  (04 Sep  13:37)"
+,,
+~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (07 Sep  17:35)
+,,
+"~ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
+,Acquisition Status,Under assessment  →  Assessment completed  (07 Sep  17:35)
+,Accc Determination,  →  Approved  (07 Sep  17:35)
+,Determination Publication Date,  →  7 September 2026  (07 Sep  17:35)
+,Targets,Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827  →  Michael Mooney; CLENDON CARE PTY LTD; 65 001 584 827; Lynne Mooney  (07 Sep  17:35)
+,Last Modified Accc,2026-08-19T17:35:22+10:00  →  2026-09-07T17:27:26+10:00  (07 Sep  17:35)
+,Decisions Docs,"  →  [{'date': '7 Sep 2026', 'description': 'Opal HealthCare-Canberra Nursing Home -   (07 Sep  17:35)"
 ,,
