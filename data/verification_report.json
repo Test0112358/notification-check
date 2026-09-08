@@ -1,5 +1,29 @@
 [
   {
+    "slug": "investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel",
+    "title": "Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "oeconnection-epyx",
+    "title": "OEConnection - Epyx",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
     "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
@@ -288,9 +312,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
-    "title": "Atmos – specific BayWa r.e. renewable energy projects",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
+    "slug": "delinea-tpg-strongdm",
+    "title": "Delinea (TPG) - StrongDM",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/delinea-tpg-strongdm",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -300,9 +324,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "kps-%E2%80%93-novacel",
-    "title": "KPS – Novacel",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kps-%E2%80%93-novacel",
+    "slug": "cvc-capital-partners-%E2%80%93-irca-group",
+    "title": "CVC Capital Partners – IRCA Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -312,57 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "russell-investment-group-%E2%80%93-zurich-investment-management",
-    "title": "Russell Investment Group – Zurich Investment Management",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/russell-investment-group-%E2%80%93-zurich-investment-management",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "coles-%E2%80%93-supermarket-site-in-new-norfolk-tas",
-    "title": "Coles – supermarket site in New Norfolk (TAS)",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-new-norfolk-tas",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "smile-partners-australia-%E2%80%93-mehta-orthodontics",
-    "title": "Smile Partners Australia – Mehta Orthodontics",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/smile-partners-australia-%E2%80%93-mehta-orthodontics",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "npm-capital-%E2%80%93-ambaflex-group",
-    "title": "NPM Capital – AmbaFlex Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/npm-capital-%E2%80%93-ambaflex-group",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "henkel-%E2%80%93-olaplex",
-    "title": "Henkel – Olaplex",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/henkel-%E2%80%93-olaplex",
+    "slug": "whp-global-and-g-iii-marc-jacobs",
+    "title": "WHP Global and G-III - Marc Jacobs",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/whp-global-and-g-iii-marc-jacobs",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
