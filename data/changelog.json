@@ -31503,5 +31503,19 @@
         "new": "[{'date': '8 Sep 2026', 'description': 'Journey Beyond - Kelsian Tourism Portfolio - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/EAG%20-%20Kelsian%20-%20Phase%201%20Determination%20-%208%20Sept%202026.pdf'}, {'date': '28 Aug 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days - following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-09T03:48:41.993586Z",
+    "slug": "mufg-pension-market-services-grow-technology-services",
+    "title": "MUFG Pension & Market Services - Grow Technology Services",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to the questionnaire should be provided by Tuesday, 8 September 2026 via email to mergers@accc.gov.au with the title Submission re: MPMS - Grow. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 1 Sep 2026 Closing date 8 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
   }
 ]
