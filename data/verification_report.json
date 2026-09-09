@@ -312,18 +312,6 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "delinea-tpg-strongdm",
-    "title": "Delinea (TPG) - StrongDM",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/delinea-tpg-strongdm",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
     "slug": "cvc-capital-partners-%E2%80%93-irca-group",
     "title": "CVC Capital Partners – IRCA Group",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group",
@@ -336,9 +324,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "whp-global-and-g-iii-marc-jacobs",
-    "title": "WHP Global and G-III - Marc Jacobs",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/whp-global-and-g-iii-marc-jacobs",
+    "slug": "oakley-capital-%E2%80%93-xtel",
+    "title": "Oakley Capital – XTEL",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oakley-capital-%E2%80%93-xtel",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
