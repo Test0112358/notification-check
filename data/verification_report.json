@@ -24,6 +24,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "metal-manufactures-baywa-solar-systems",
+    "title": "Metal Manufactures - BayWa Solar Systems",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
     "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
@@ -312,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "cvc-capital-partners-%E2%80%93-irca-group",
-    "title": "CVC Capital Partners – IRCA Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group",
+    "slug": "new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral",
+    "title": "New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -324,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "oakley-capital-%E2%80%93-xtel",
-    "title": "Oakley Capital – XTEL",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oakley-capital-%E2%80%93-xtel",
+    "slug": "wipro-indeco",
+    "title": "Wipro - Indeco",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wipro-indeco",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
