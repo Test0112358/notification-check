@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-09 03:48:41.993586,
-Last scrape run (AEST),09 Sep 2026  13:48,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-09 10:57:36.062669,
+Last scrape run (AEST),09 Sep 2026  20:57,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,635,
-New entries this run,0,
-Changed entries this run,1,
+Total entries monitored,643,
+New entries this run,8,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,16 +13,43 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or information in response to t  →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+NEW ENTRIES (8),Case Number,URL
++ Danfoss - Alfagomma,MN-75052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma
++ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
++ Brookfield Corporation Ltd – Brookfield Corporation and Brookfield Wealth Solutions Ltd,WA-50039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/brookfield-corporation-ltd-%E2%80%93-brookfield-corporation-and-brookfield-wealth-solutions-ltd
++ Sazerac – Au Vodka,WA-75049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sazerac-%E2%80%93-au-vodka
++ Goldman Sachs - Numantec,WA-60040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/goldman-sachs-numantec
++ Veritas Capital Fund Management – Trinity Consultants,WA-25044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-trinity-consultants
++ Veritas Capital Fund Management – BGIS Group,WA-30036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-bgis-group
+"+ Triton - Bureau Veritas Fuel & Coal Testing, Inspection and Certification Division",WA-01119,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-bureau-veritas-fuel-coal-testing-inspection-and-certification-division
+,,
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Coles - supermarket site in Kirkwood (QLD),MN-05046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  9 September 2026
+,Last Modified Accc,2026-08-21T11:50:05+10:00  →  2026-09-09T16:40:44+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Coles - supermarket site in Kirkwood (QLD) - Phase 1 determi"
+,,
+~ Metal Manufactures - BayWa Solar Systems,MN-65031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Last Modified Accc,2026-08-21T16:09:06+10:00  →  2026-09-09T19:34:28+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Metal Manufactures - BayWa Solar Systems - Phase 1 determina"
+,,
+~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danaher-leica-biosystems-statlab
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  9 September 2026
+,Last Modified Accc,2026-08-13T09:20:09+10:00  →  2026-09-09T15:49:32+10:00
+,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Danaher (Leica Biosystems) - StatLab - Phase 1 determination"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
-"+ Coles – supermarket site in Byron Bay, NSW",WA-30035,02 Sep  20:54
-+ KKR – global print business of Thomson Reuters Corporation,WA-30034,02 Sep  20:54
+NEW ENTRIES (23),Case Number,Detected (AEST)
 + I Squared Capital – oOh!media,MN-75054,03 Sep  13:37
 + Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,03 Sep  20:53
 + BBFIT - Hanes Australasia,MN-10028,03 Sep  20:53
@@ -47,41 +74,7 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 + Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions,WA-10029,08 Sep  20:52
 + Jellinbah Group - Further interest in Lake Vermont JV,WA-55033,08 Sep  20:52
 ,,
-"CHANGED ENTRIES (20 entries, 22 change events)",Field changed,Old value  →  New value  (AEST)
-~ Osmoflo Water Management - Guidera O'Connor,MN-35031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Sep  20:54)
-,Accc Determination,  →  Approved  (02 Sep  20:54)
-,Determination Publication Date,  →  2 September 2026  (02 Sep  20:54)
-,Targets,WILLCAM NOMINEES PTY LTD; 93 063 325 146; Straight Talking Pty Ltd; 008 068 308;  →  GUIDERA O'CONNOR PTY LTD; 71 099 012 870; Laszlo Richard Bachmayer; Anthony Mark  (02 Sep  20:54)
-,Other Parties,Michael William O'Connor; Kanadevia Corporation; OSMOFLO PTY LTD; 39 050 952 175  →  Stephen Michael Palyga; OSMOFLO PTY LTD; 39 050 952 175; Kanadevia Corporation;   (02 Sep  20:54)
-,Last Modified Accc,2026-08-17T16:48:34+10:00  →  2026-09-02T16:26:11+10:00  (02 Sep  20:54)
-,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': ""Osmoflo - Guidera O'Connor - Phase 1 det  (02 Sep  20:54)"
-,,
-~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Sep  20:54)
-,Accc Determination,  →  Approved  (02 Sep  20:54)
-,Determination Publication Date,  →  2 September 2026  (02 Sep  20:54)
-,Last Modified Accc,2026-08-14T09:00:10+10:00  →  2026-09-02T11:48:48+10:00  (02 Sep  20:54)
-,Decisions Docs,"  →  [{'date': '2 Sep 2026', 'description': 'Wesfarmers and Built Group - Built Livin  (02 Sep  20:54)"
-,,
-~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
-,Acquisition Status,Under assessment  →  Assessment completed  (02 Sep  20:54)
-,Accc Determination,  →  Approved with conditions  (02 Sep  20:54)
-,Determination Publication Date,  →  1 September 2026  (02 Sep  20:54)
-,Last Modified Accc,2026-08-05T15:02:02+10:00  →  2026-09-02T09:52:28+10:00  (02 Sep  20:54)
-,Decisions Docs,"  →  [{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  (02 Sep  20:54)"
-,Last Modified Accc,2026-09-02T09:52:28+10:00  →  2026-09-07T12:03:37+10:00  (07 Sep  17:35)
-,Decisions Docs,"[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  →  [{'date': '3 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (07 Sep  17:35)"
-,,
-~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,Last Modified Accc,2026-09-01T19:24:15+10:00  →  2026-09-02T16:24:26+10:00  (02 Sep  20:54)
-,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  (02 Sep  20:54)"
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Last Modified Accc,2026-09-02T16:24:26+10:00  →  2026-09-08T16:47:55+10:00  (08 Sep  20:52)
-,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '8 Sep 2026', 'description': 'Journey Beyond - Kelsian Tourism Portfol  (08 Sep  20:52)"
-,,
+"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (03 Sep  13:37)
 ,,
@@ -118,6 +111,10 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Targets,Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827  →  Michael Mooney; CLENDON CARE PTY LTD; 65 001 584 827; Lynne Mooney  (07 Sep  17:35)
 ,Last Modified Accc,2026-08-19T17:35:22+10:00  →  2026-09-07T17:27:26+10:00  (07 Sep  17:35)
 ,Decisions Docs,"  →  [{'date': '7 Sep 2026', 'description': 'Opal HealthCare-Canberra Nursing Home -   (07 Sep  17:35)"
+,,
+~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
+,Last Modified Accc,2026-09-02T09:52:28+10:00  →  2026-09-07T12:03:37+10:00  (07 Sep  17:35)
+,Decisions Docs,"[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  →  [{'date': '3 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (07 Sep  17:35)"
 ,,
 ~ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs
 ,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  13:43)
@@ -188,4 +185,14 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
 ,Last Modified Accc,2026-08-12T16:20:59+10:00  →  2026-09-08T17:09:37+10:00  (08 Sep  20:52)
 ,Decisions Docs,"[{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days –  →  [{'date': '8 Sep 2026', 'description': 'Amplifon - GN Hearing - Phase 1 Determin  (08 Sep  20:52)"
+,,
+~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
+,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
+,Accc Determination,  →  Approved  (08 Sep  20:52)
+,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
+,Last Modified Accc,2026-09-02T16:24:26+10:00  →  2026-09-08T16:47:55+10:00  (08 Sep  20:52)
+,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '8 Sep 2026', 'description': 'Journey Beyond - Kelsian Tourism Portfol  (08 Sep  20:52)"
+,,
+~ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or informat  →  The period for providing submissions or information in response to the ACCC’s qu  (09 Sep  13:48)
 ,,

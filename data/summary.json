@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-09-09T04:20:57.460122Z",
-  "total_entries": 635,
+  "generated_at_utc": "2026-09-09T11:20:06.810349Z",
+  "total_entries": 643,
   "by_acquisition_status": {
-    "Under assessment": 28,
-    "Assessment completed": 602,
+    "Under assessment": 27,
+    "Assessment completed": 611,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 238,
-    "Waiver application": 388,
+    "Phase 1 - initial assessment": 240,
+    "Waiver application": 394,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 247,
-    "Waiver": 388
+    "Notification": 249,
+    "Waiver": 394
   },
   "by_accc_determination": {
-    "Approved": 578,
+    "Approved": 587,
     "Not approved": 19,
     "Approved with conditions": 5
   },
@@ -26,12 +26,6 @@
       "title": "KARMO/SIMPLR",
       "end_of_determination_period": "14 Sep 2026",
       "days_remaining": 5
-    },
-    {
-      "slug": "danaher-leica-biosystems-statlab",
-      "title": "Danaher (Leica Biosystems) - StatLab",
-      "end_of_determination_period": "16 Sep 2026",
-      "days_remaining": 7
     }
   ]
 }
