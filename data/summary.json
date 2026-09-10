@@ -1,31 +1,24 @@
 {
-  "generated_at_utc": "2026-09-10T04:20:48.625018Z",
-  "total_entries": 645,
+  "generated_at_utc": "2026-09-10T11:21:56.207511Z",
+  "total_entries": 646,
   "by_acquisition_status": {
-    "Under assessment": 28,
-    "Assessment completed": 612,
+    "Under assessment": 26,
+    "Assessment completed": 615,
     "Assessment ceased": 5
   },
   "by_stage": {
     "Phase 1 - initial assessment": 242,
-    "Waiver application": 394,
+    "Waiver application": 395,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
     "Notification": 251,
-    "Waiver": 394
+    "Waiver": 395
   },
   "by_accc_determination": {
-    "Approved": 588,
+    "Approved": 591,
     "Not approved": 19,
     "Approved with conditions": 5
   },
-  "decisions_due_within_10_days": [
-    {
-      "slug": "karmosimplr",
-      "title": "KARMO/SIMPLR",
-      "end_of_determination_period": "14 Sep 2026",
-      "days_remaining": 4
-    }
-  ]
+  "decisions_due_within_10_days": []
 }

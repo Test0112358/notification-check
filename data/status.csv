@@ -1,12 +1,12 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-10 03:47:21.961053,
-Last scrape run (AEST),10 Sep 2026  13:47,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-10 10:54:28.074187,
+Last scrape run (AEST),10 Sep 2026  20:54,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,645,
+Total entries monitored,646,
 New entries this run,2,
-Changed entries this run,1,
-Removed entries this run,0,
+Changed entries this run,2,
+Removed entries this run,1,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
@@ -14,29 +14,30 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (2),Case Number,URL
-+ PSP Investments - AAA Egg Company,MN-55024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company
-+ Merck KGaA / Bio-Techne,MN-25049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne
++ EQT Fund Management – Melbourne Storm,WA-70037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-%E2%80%93-melbourne-storm
++ Karmo - Simplr,MN-15030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmo-simplr
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+"~ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  10 September 2026
-,Last Modified Accc,2026-08-10T18:02:35+10:00  →  2026-09-10T10:28:31+10:00
-,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': ""Holcim - Burdett's - Phase 1 Determination"", 'url': 'https:"
+,Last Modified Accc,2026-08-25T14:32:02+10:00  →  2026-09-10T13:28:37+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
+,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': 'Endeavour - retail liquor site in Horsham - Phase 1 determi"
+,,
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,Determination Publication Date,4 September 2026  →  3 September 2026
+,Last Modified Accc,2026-09-04T09:15:56+10:00  →  2026-09-10T16:44:43+10:00
+,Decisions Docs,"[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination w  →  [{'date': '9 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.go"
+,,
+REMOVED ENTRIES (1),Case Number,
+- KARMO/SIMPLR,MN-15030,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (30),Case Number,Detected (AEST)
-+ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,03 Sep  20:53
-+ BBFIT - Hanes Australasia,MN-10028,03 Sep  20:53
-"+ Waymark Hotels Group – Criterion Hotel Motel, Rockhampton, QLD",WA-40040,03 Sep  20:53
-+ Morgan Stanley – Amber,WA-85046,03 Sep  20:53
-+ Influence Media Partners – assets from Anthem Entertainment,WA-35043,03 Sep  20:53
-+ Vista – Quantios,WA-70034,03 Sep  20:53
-+ Morgan Stanley – Epic Energy,WA-30032,03 Sep  20:53
-+ Redwood Services Group – Concept Data and Voice Select,WA-05047,03 Sep  20:53
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + Apiam – Seymour Equine Clinic,MN-95040,04 Sep  13:37
 "+ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,04 Sep  13:37
 "+ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,04 Sep  20:52
@@ -59,20 +60,10 @@ NEW ENTRIES (30),Case Number,Detected (AEST)
 + Veritas Capital Fund Management – Trinity Consultants,WA-25044,09 Sep  20:57
 + Veritas Capital Fund Management – BGIS Group,WA-30036,09 Sep  20:57
 "+ Triton - Bureau Veritas Fuel & Coal Testing, Inspection and Certification Division",WA-01119,09 Sep  20:57
++ PSP Investments - AAA Egg Company,MN-55024,10 Sep  13:47
++ Merck KGaA / Bio-Techne,MN-25049,10 Sep  13:47
 ,,
-"CHANGED ENTRIES (21 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
-~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
-,Acquisition Status,Under assessment  →  Assessment completed  (03 Sep  20:53)
-,Accc Determination,  →  Approved  (03 Sep  20:53)
-,Determination Publication Date,  →  3 September 2026  (03 Sep  20:53)
-,Other Parties,SHERWOOD TOPCO LTD; 54 688 487 103; JOHNS LYNG GROUP LIMITED; 86 620 466 248  →  JOHNS LYNG GROUP LIMITED; 86 620 466 248; SHERWOOD TOPCO LTD; 54 688 487 103  (03 Sep  20:53)
-,Last Modified Accc,2026-08-12T17:06:34+10:00  →  2026-09-03T15:22:12+10:00  (03 Sep  20:53)
-,Decisions Docs,"  →  [{'date': '3 Sep 2026', 'description': 'Johns Lyng Group - C&M Build Group - Pha  (03 Sep  20:53)"
-,,
-"~ Coles – supermarket and liquor site in Kalgoorlie, WA",MN-01068,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-and-liquor-site-in-kalgoorlie-wa
-,Last Modified Accc,2026-07-01T18:32:20+10:00  →  2026-09-03T16:56:44+10:00  (03 Sep  20:53)
-,Decisions Docs,"[{'date': '30 Jun 2026', 'description': 'Phase 2 determination - Statement of re  →  [{'date': '30 Jun 2026', 'description': 'Phase 2 Determination - Statement of Re  (03 Sep  20:53)"
-,,
+"CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (04 Sep  13:37)
 ,,
@@ -200,4 +191,11 @@ NEW ENTRIES (30),Case Number,Detected (AEST)
 ,Determination Publication Date,  →  9 September 2026  (09 Sep  20:57)
 ,Last Modified Accc,2026-08-13T09:20:09+10:00  →  2026-09-09T15:49:32+10:00  (09 Sep  20:57)
 ,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Danaher (Leica Biosystems) - StatLab - P  (09 Sep  20:57)"
+,,
+~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Sep  13:47)
+,Accc Determination,  →  Approved  (10 Sep  13:47)
+,Determination Publication Date,  →  10 September 2026  (10 Sep  13:47)
+,Last Modified Accc,2026-08-10T18:02:35+10:00  →  2026-09-10T10:28:31+10:00  (10 Sep  13:47)
+,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': ""Holcim - Burdett's - Phase 1 Determinat  (10 Sep  13:47)"
 ,,
