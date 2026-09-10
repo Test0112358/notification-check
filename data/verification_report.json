@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral",
-    "title": "New Forests Australia New Zealand Landscapes and Forestry Fund – Benditi Pastoral",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/new-forests-australia-new-zealand-landscapes-and-forestry-fund-%E2%80%93-benditi-pastoral",
+    "slug": "frasers-group-%E2%80%93-accent-group",
+    "title": "Frasers Group – Accent Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/frasers-group-%E2%80%93-accent-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "wipro-indeco",
-    "title": "Wipro - Indeco",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wipro-indeco",
+    "slug": "centerbridge-partners-%E2%80%93-ebury-partners-limited",
+    "title": "Centerbridge Partners – Ebury Partners Limited",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/centerbridge-partners-%E2%80%93-ebury-partners-limited",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
