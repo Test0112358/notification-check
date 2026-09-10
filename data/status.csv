@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-09 10:57:36.062669,
-Last scrape run (AEST),09 Sep 2026  20:57,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-10 03:47:21.961053,
+Last scrape run (AEST),10 Sep 2026  13:47,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,643,
-New entries this run,8,
-Changed entries this run,3,
+Total entries monitored,645,
+New entries this run,2,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,44 +13,22 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (8),Case Number,URL
-+ Danfoss - Alfagomma,MN-75052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma
-+ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
-+ Brookfield Corporation Ltd – Brookfield Corporation and Brookfield Wealth Solutions Ltd,WA-50039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/brookfield-corporation-ltd-%E2%80%93-brookfield-corporation-and-brookfield-wealth-solutions-ltd
-+ Sazerac – Au Vodka,WA-75049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sazerac-%E2%80%93-au-vodka
-+ Goldman Sachs - Numantec,WA-60040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/goldman-sachs-numantec
-+ Veritas Capital Fund Management – Trinity Consultants,WA-25044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-trinity-consultants
-+ Veritas Capital Fund Management – BGIS Group,WA-30036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-bgis-group
-"+ Triton - Bureau Veritas Fuel & Coal Testing, Inspection and Certification Division",WA-01119,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-bureau-veritas-fuel-coal-testing-inspection-and-certification-division
+NEW ENTRIES (2),Case Number,URL
++ PSP Investments - AAA Egg Company,MN-55024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company
++ Merck KGaA / Bio-Techne,MN-25049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Coles - supermarket site in Kirkwood (QLD),MN-05046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  9 September 2026
-,Last Modified Accc,2026-08-21T11:50:05+10:00  →  2026-09-09T16:40:44+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Coles - supermarket site in Kirkwood (QLD) - Phase 1 determi"
-,,
-~ Metal Manufactures - BayWa Solar Systems,MN-65031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Last Modified Accc,2026-08-21T16:09:06+10:00  →  2026-09-09T19:34:28+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Metal Manufactures - BayWa Solar Systems - Phase 1 determina"
-,,
-~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danaher-leica-biosystems-statlab
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  9 September 2026
-,Last Modified Accc,2026-08-13T09:20:09+10:00  →  2026-09-09T15:49:32+10:00
-,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Danaher (Leica Biosystems) - StatLab - Phase 1 determination"
+,Determination Publication Date,  →  10 September 2026
+,Last Modified Accc,2026-08-10T18:02:35+10:00  →  2026-09-10T10:28:31+10:00
+,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': ""Holcim - Burdett's - Phase 1 Determination"", 'url': 'https:"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (23),Case Number,Detected (AEST)
-+ I Squared Capital – oOh!media,MN-75054,03 Sep  13:37
+NEW ENTRIES (30),Case Number,Detected (AEST)
 + Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,03 Sep  20:53
 + BBFIT - Hanes Australasia,MN-10028,03 Sep  20:53
 "+ Waymark Hotels Group – Criterion Hotel Motel, Rockhampton, QLD",WA-40040,03 Sep  20:53
@@ -73,11 +51,16 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 "+ Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",WA-90034,08 Sep  20:52
 + Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions,WA-10029,08 Sep  20:52
 + Jellinbah Group - Further interest in Lake Vermont JV,WA-55033,08 Sep  20:52
++ Danfoss - Alfagomma,MN-75052,09 Sep  20:57
++ Prysmian - Atkore,MN-01124,09 Sep  20:57
++ Brookfield Corporation Ltd – Brookfield Corporation and Brookfield Wealth Solutions Ltd,WA-50039,09 Sep  20:57
++ Sazerac – Au Vodka,WA-75049,09 Sep  20:57
++ Goldman Sachs - Numantec,WA-60040,09 Sep  20:57
++ Veritas Capital Fund Management – Trinity Consultants,WA-25044,09 Sep  20:57
++ Veritas Capital Fund Management – BGIS Group,WA-30036,09 Sep  20:57
+"+ Triton - Bureau Veritas Fuel & Coal Testing, Inspection and Certification Division",WA-01119,09 Sep  20:57
 ,,
-"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (03 Sep  13:37)
-,,
+"CHANGED ENTRIES (21 entries, 21 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
 ,Acquisition Status,Under assessment  →  Assessment completed  (03 Sep  20:53)
 ,Accc Determination,  →  Approved  (03 Sep  20:53)
@@ -195,4 +178,26 @@ NEW ENTRIES (23),Case Number,Detected (AEST)
 ,,
 ~ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or informat  →  The period for providing submissions or information in response to the ACCC’s qu  (09 Sep  13:48)
+,,
+~ Coles - supermarket site in Kirkwood (QLD),MN-05046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Sep  20:57)
+,Accc Determination,  →  Approved  (09 Sep  20:57)
+,Determination Publication Date,  →  9 September 2026  (09 Sep  20:57)
+,Last Modified Accc,2026-08-21T11:50:05+10:00  →  2026-09-09T16:40:44+10:00  (09 Sep  20:57)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (09 Sep  20:57)
+,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Coles - supermarket site in Kirkwood (QL  (09 Sep  20:57)"
+,,
+~ Metal Manufactures - BayWa Solar Systems,MN-65031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Sep  20:57)
+,Accc Determination,  →  Approved  (09 Sep  20:57)
+,Last Modified Accc,2026-08-21T16:09:06+10:00  →  2026-09-09T19:34:28+10:00  (09 Sep  20:57)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (09 Sep  20:57)
+,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Metal Manufactures - BayWa Solar Systems  (09 Sep  20:57)"
+,,
+~ Danaher (Leica Biosystems) - StatLab,MN-15031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danaher-leica-biosystems-statlab
+,Acquisition Status,Under assessment  →  Assessment completed  (09 Sep  20:57)
+,Accc Determination,  →  Approved  (09 Sep  20:57)
+,Determination Publication Date,  →  9 September 2026  (09 Sep  20:57)
+,Last Modified Accc,2026-08-13T09:20:09+10:00  →  2026-09-09T15:49:32+10:00  (09 Sep  20:57)
+,Decisions Docs,"  →  [{'date': '9 Sep 2026', 'description': 'Danaher (Leica Biosystems) - StatLab - P  (09 Sep  20:57)"
 ,,

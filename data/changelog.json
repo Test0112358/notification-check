@@ -31688,5 +31688,55 @@
         "new": "[{'date': '9 Sep 2026', 'description': 'Danaher (Leica Biosystems) - StatLab - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Danaher%20%28Leica%20Biosystems%29%20-%20StatLab%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-10T03:47:21.961053Z",
+    "slug": "psp-investments-aaa-egg-company",
+    "title": "PSP Investments - AAA Egg Company",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-10T03:47:21.961053Z",
+    "slug": "merck-kgaa-bio-techne",
+    "title": "Merck KGaA / Bio-Techne",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-10T03:47:21.961053Z",
+    "slug": "holcim-australia-%E2%80%93-burdetts-group",
+    "title": "Holcim Australia – Burdetts Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "10 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-10T18:02:35+10:00",
+        "new": "2026-09-10T10:28:31+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '10 Sep 2026', 'description': \"Holcim - Burdett's - Phase 1 Determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/Holcim%20-%20Burdett%27s%20-%20Phase%201%20determination%20without%20conditions%20-%2010%20September%202026_3.pdf'}]"
+      }
+    ]
   }
 ]

@@ -1,55 +1,25 @@
 {
-  "run_utc": "2026-09-09T10:57:36.062669Z",
-  "new_count": 8,
-  "changed_count": 3,
+  "run_utc": "2026-09-10T03:47:21.961053Z",
+  "new_count": 2,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "danfoss-alfagomma",
-      "title": "Danfoss - Alfagomma",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma"
+      "slug": "psp-investments-aaa-egg-company",
+      "title": "PSP Investments - AAA Egg Company",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company"
     },
     {
-      "slug": "prysmian-atkore",
-      "title": "Prysmian - Atkore",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore"
-    },
-    {
-      "slug": "brookfield-corporation-ltd-%E2%80%93-brookfield-corporation-and-brookfield-wealth-solutions-ltd",
-      "title": "Brookfield Corporation Ltd – Brookfield Corporation and Brookfield Wealth Solutions Ltd",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/brookfield-corporation-ltd-%E2%80%93-brookfield-corporation-and-brookfield-wealth-solutions-ltd"
-    },
-    {
-      "slug": "sazerac-%E2%80%93-au-vodka",
-      "title": "Sazerac – Au Vodka",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sazerac-%E2%80%93-au-vodka"
-    },
-    {
-      "slug": "goldman-sachs-numantec",
-      "title": "Goldman Sachs - Numantec",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/goldman-sachs-numantec"
-    },
-    {
-      "slug": "veritas-capital-fund-management-%E2%80%93-trinity-consultants",
-      "title": "Veritas Capital Fund Management – Trinity Consultants",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-trinity-consultants"
-    },
-    {
-      "slug": "veritas-capital-fund-management-%E2%80%93-bgis-group",
-      "title": "Veritas Capital Fund Management – BGIS Group",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-bgis-group"
-    },
-    {
-      "slug": "triton-bureau-veritas-fuel-coal-testing-inspection-and-certification-division",
-      "title": "Triton - Bureau Veritas Fuel & Coal Testing, Inspection and Certification Division",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-bureau-veritas-fuel-coal-testing-inspection-and-certification-division"
+      "slug": "merck-kgaa-bio-techne",
+      "title": "Merck KGaA / Bio-Techne",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne"
     }
   ],
   "changed_entries": [
     {
-      "slug": "coles-supermarket-site-in-kirkwood-qld",
-      "title": "Coles - supermarket site in Kirkwood (QLD)",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld",
+      "slug": "holcim-australia-%E2%80%93-burdetts-group",
+      "title": "Holcim Australia – Burdetts Group",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
       "changes": [
         {
           "field": "acquisition_status",
@@ -64,86 +34,17 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "9 September 2026"
+          "new": "10 September 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-21T11:50:05+10:00",
-          "new": "2026-09-09T16:40:44+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
+          "old": "2026-08-10T18:02:35+10:00",
+          "new": "2026-09-10T10:28:31+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '9 Sep 2026', 'description': 'Coles - supermarket site in Kirkwood (QLD) - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Coles%20-%20supermarket%20site%20in%20Kirkwood%20%28QLD%29%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "metal-manufactures-baywa-solar-systems",
-      "title": "Metal Manufactures - BayWa Solar Systems",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/metal-manufactures-baywa-solar-systems",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-21T16:09:06+10:00",
-          "new": "2026-09-09T19:34:28+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '9 Sep 2026', 'description': 'Metal Manufactures - BayWa Solar Systems - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Metal%20Manufactures%20-%20BayWa%20Solar%20Systems%20-%20determination%20-%209%20September%202026_1.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "danaher-leica-biosystems-statlab",
-      "title": "Danaher (Leica Biosystems) - StatLab",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danaher-leica-biosystems-statlab",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "9 September 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-13T09:20:09+10:00",
-          "new": "2026-09-09T15:49:32+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '9 Sep 2026', 'description': 'Danaher (Leica Biosystems) - StatLab - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Danaher%20%28Leica%20Biosystems%29%20-%20StatLab%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '10 Sep 2026', 'description': \"Holcim - Burdett's - Phase 1 Determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/Holcim%20-%20Burdett%27s%20-%20Phase%201%20determination%20without%20conditions%20-%2010%20September%202026_3.pdf'}]"
         }
       ]
     }
