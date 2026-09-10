@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "frasers-group-%E2%80%93-accent-group",
-    "title": "Frasers Group – Accent Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/frasers-group-%E2%80%93-accent-group",
+    "slug": "general-atlantic-and-cpp-investments-led-consortium-boats-group",
+    "title": "General Atlantic and CPP Investments led consortium - Boats Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/general-atlantic-and-cpp-investments-led-consortium-boats-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,57 @@
     "expected_or_found": ""
   },
   {
-    "slug": "centerbridge-partners-%E2%80%93-ebury-partners-limited",
-    "title": "Centerbridge Partners – Ebury Partners Limited",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/centerbridge-partners-%E2%80%93-ebury-partners-limited",
+    "slug": "bgis-safe-fire-electrical",
+    "title": "BGIS - Safe Fire Electrical",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bgis-safe-fire-electrical",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "bain-capital-%E2%80%93-kakakucom",
+    "title": "Bain Capital – Kakaku.com",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-kakakucom",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "adbri-eureka-concrete",
+    "title": "Adbri - Eureka Concrete",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adbri-eureka-concrete",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "title": "Maas – 50% acquisition of COLAS’ Caloundra asphalt plant and 100% of COLAS’ Tomago asphalt plant",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/maas-%E2%80%93-50-acquisition-of-colas%E2%80%99-caloundra-asphalt-plant-and-100-of-colas%E2%80%99-tomago-asphalt-plant",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "atlas-holdings-and-kps-%E2%80%93-shares-in-joint-venture-and-interest-in-cd-technologies",
+    "title": "Atlas Holdings and KPS – shares in joint venture and interest in C&D Technologies",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atlas-holdings-and-kps-%E2%80%93-shares-in-joint-venture-and-interest-in-cd-technologies",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
