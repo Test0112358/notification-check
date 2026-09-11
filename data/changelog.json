@@ -31930,5 +31930,131 @@
         "new": "[{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saint-Gobain%20-%20Xypex%20-%20Phase%201%20determination_0.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T10:52:07.591834Z",
+    "slug": "bloomberg-canoe-intelligence",
+    "title": "Bloomberg - Canoe Intelligence",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "11 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-31T12:22:26+10:00",
+        "new": "2026-09-11T16:01:54+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '11 Sep 2026', 'description': 'Bloomberg - Canoe Intelligence - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Bloomberg%20-%20Canoe%20Intelligence%20-%20Phase%201%20determination%20-%2011%20September%202026.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T10:52:07.591834Z",
+    "slug": "pacific-investment-management-company-%E2%80%93-ingenico",
+    "title": "Pacific Investment Management Company – Ingenico",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pacific-investment-management-company-%E2%80%93-ingenico",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T10:52:07.591834Z",
+    "slug": "lockheed-martin-corporation-%E2%80%93-ultra-maritime",
+    "title": "Lockheed Martin Corporation – Ultra Maritime",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "11 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-21T13:55:44+10:00",
+        "new": "2026-09-11T14:57:51+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC's questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '11 Sep 2026', 'description': 'Lockheed Martin - Ultra Maritime - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Lockheed%20Martin%20-%20Ultra%20Maritime%20-%20Phase%201%20Determination.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T10:52:07.591834Z",
+    "slug": "impression-dental-group-blackburn-dental-centre-vic",
+    "title": "Impression Dental Group - Blackburn Dental Centre, VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T10:52:07.591834Z",
+    "slug": "alceon-%E2%80%93-engage-squared",
+    "title": "Alceon – Engage Squared",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alceon-%E2%80%93-engage-squared",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T10:52:07.591834Z",
+    "slug": "saipem-spa-subsea7-sa",
+    "title": "Saipem S.p.A - Subsea7 S.A.",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saipem-spa-subsea7-sa",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "10 Nov 2026",
+        "new": "1 Dec 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-10T16:02:39+10:00",
+        "new": "2026-09-11T14:44:47+10:00"
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns_0.pdf'}, {'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Saipem%20-%20Subsea7%20-%20Decision%20Acquisition%20is%20to%20be%20subject%20to%20Phase%202%20review_1.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '11 Sep 2026', 'description': \"Timeline extended by 15 business days – following request by Notifying Party to extend the period to respond to the ACCC's Notice of Competition Concerns\", 'url': ''}, {'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saipem%20-%20Subsea7%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns_1.pdf'}, {'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saipem%20-%20Subsea7%20-%20Determination%20DRAFT_3.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]"
+      }
+    ]
   }
 ]

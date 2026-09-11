@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-11 03:44:34.407492,
-Last scrape run (AEST),11 Sep 2026  13:44,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-11 10:52:07.591834,
+Last scrape run (AEST),11 Sep 2026  20:52,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,649,
+Total entries monitored,652,
 New entries this run,3,
-Changed entries this run,4,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,32 +14,36 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (3),Case Number,URL
-+ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
-+ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
-+ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
++ Pacific Investment Management Company – Ingenico,WA-85045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pacific-investment-management-company-%E2%80%93-ingenico
+"+ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic
++ Alceon – Engage Squared,WA-50037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alceon-%E2%80%93-engage-squared
 ,,
-CHANGED ENTRIES (4),Field changed,Old value  →  New value
-~ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Saint-Gobain - Xypex,MN-80035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  11 September 2026
-,Last Modified Accc,2026-08-21T11:37:35+10:00  →  2026-09-11T11:53:38+10:00
+,Last Modified Accc,2026-08-31T12:22:26+10:00  →  2026-09-11T16:01:54+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determination', 'url': 'http"
+,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Bloomberg - Canoe Intelligence - Phase 1 determination', 'u"
+,,
+~ Lockheed Martin Corporation – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  11 September 2026
+,Last Modified Accc,2026-08-21T13:55:44+10:00  →  2026-09-11T14:57:51+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC's questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Lockheed Martin - Ultra Maritime - Phase 1 determination', "
+,,
+~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saipem-spa-subsea7-sa
+,End Of Determination Period,10 Nov 2026  →  1 Dec 2026
+,Last Modified Accc,2026-08-10T16:02:39+10:00  →  2026-09-11T14:44:47+10:00
+,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '11 Sep 2026', 'description': ""Timeline extended by 15 business days – following request b"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (24),Case Number,Detected (AEST)
+NEW ENTRIES (27),Case Number,Detected (AEST)
 "+ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,04 Sep  20:52
 + Flick – GC Pest Control,MN-01122,07 Sep  17:35
 + The Procter & Gamble Company - Thorne,WA-75055,07 Sep  17:35
@@ -64,8 +68,11 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 + Merck KGaA / Bio-Techne,MN-25049,10 Sep  13:47
 + EQT Fund Management – Melbourne Storm,WA-70037,10 Sep  20:54
 + Karmo - Simplr,MN-15030,10 Sep  20:54
++ ENEOS – Chevron Australia Downstream,MN-65036,11 Sep  13:44
++ Eli Lilly – Merida Biosciences,MN-80042,11 Sep  13:44
++ Alcoa – South32 aluminium assets,MN-25047,11 Sep  13:44
 ,,
-"CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (24 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (07 Sep  17:35)
 ,,
@@ -202,6 +209,23 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Determination Publication Date,4 September 2026  →  3 September 2026  (10 Sep  20:54)
 ,Last Modified Accc,2026-09-04T09:15:56+10:00  →  2026-09-10T16:44:43+10:00  (10 Sep  20:54)
 ,Decisions Docs,"[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  →  [{'date': '9 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (10 Sep  20:54)"
+,,
+~ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (11 Sep  13:44)
+,,
+~ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (11 Sep  13:44)
+,,
+~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (11 Sep  13:44)
+,,
+~ Saint-Gobain - Xypex,MN-80035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex
+,Acquisition Status,Under assessment  →  Assessment completed  (11 Sep  13:44)
+,Accc Determination,  →  Approved  (11 Sep  13:44)
+,Determination Publication Date,  →  11 September 2026  (11 Sep  13:44)
+,Last Modified Accc,2026-08-21T11:37:35+10:00  →  2026-09-11T11:53:38+10:00  (11 Sep  13:44)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (11 Sep  13:44)
+,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determin  (11 Sep  13:44)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - KARMO/SIMPLR,,10 Sep  20:54
