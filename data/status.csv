@@ -1,45 +1,45 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-10 10:54:28.074187,
-Last scrape run (AEST),10 Sep 2026  20:54,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-11 03:44:34.407492,
+Last scrape run (AEST),11 Sep 2026  13:44,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,646,
-New entries this run,2,
-Changed entries this run,2,
-Removed entries this run,1,
+Total entries monitored,649,
+New entries this run,3,
+Changed entries this run,4,
+Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ EQT Fund Management – Melbourne Storm,WA-70037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-%E2%80%93-melbourne-storm
-+ Karmo - Simplr,MN-15030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmo-simplr
+NEW ENTRIES (3),Case Number,URL
++ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
++ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
++ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-"~ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
+CHANGED ENTRIES (4),Field changed,Old value  →  New value
+~ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Saint-Gobain - Xypex,MN-80035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  10 September 2026
-,Last Modified Accc,2026-08-25T14:32:02+10:00  →  2026-09-10T13:28:37+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire   →  
-,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': 'Endeavour - retail liquor site in Horsham - Phase 1 determi"
-,,
-~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
-,Determination Publication Date,4 September 2026  →  3 September 2026
-,Last Modified Accc,2026-09-04T09:15:56+10:00  →  2026-09-10T16:44:43+10:00
-,Decisions Docs,"[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination w  →  [{'date': '9 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.go"
-,,
-REMOVED ENTRIES (1),Case Number,
-- KARMO/SIMPLR,MN-15030,
+,Determination Publication Date,  →  11 September 2026
+,Last Modified Accc,2026-08-21T11:37:35+10:00  →  2026-09-11T11:53:38+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determination', 'url': 'http"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (24),Case Number,Detected (AEST)
-+ Apiam – Seymour Equine Clinic,MN-95040,04 Sep  13:37
-"+ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,04 Sep  13:37
 "+ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,04 Sep  20:52
 + Flick – GC Pest Control,MN-01122,07 Sep  17:35
 + The Procter & Gamble Company - Thorne,WA-75055,07 Sep  17:35
@@ -62,19 +62,10 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 "+ Triton - Bureau Veritas Fuel & Coal Testing, Inspection and Certification Division",WA-01119,09 Sep  20:57
 + PSP Investments - AAA Egg Company,MN-55024,10 Sep  13:47
 + Merck KGaA / Bio-Techne,MN-25049,10 Sep  13:47
++ EQT Fund Management – Melbourne Storm,WA-70037,10 Sep  20:54
++ Karmo - Simplr,MN-15030,10 Sep  20:54
 ,,
 "CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
-~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (04 Sep  13:37)
-,,
-~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
-,Acquisition Status,Under assessment  →  Assessment completed  (04 Sep  13:37)
-,Accc Determination,  →  Approved with conditions  (04 Sep  13:37)
-,Determination Publication Date,  →  4 September 2026  (04 Sep  13:37)
-,Targets,Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trus  →  Wakeling South Coast Pty Ltd; 636 298 970; S A Wakeling Nominees Pty Ltd as trus  (04 Sep  13:37)
-,Last Modified Accc,2026-08-19T17:17:46+10:00  →  2026-09-04T09:15:56+10:00  (04 Sep  13:37)
-,Decisions Docs,"[{'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days –   →  [{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  (04 Sep  13:37)"
-,,
 ~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (07 Sep  17:35)
 ,,
@@ -198,4 +189,20 @@ NEW ENTRIES (24),Case Number,Detected (AEST)
 ,Determination Publication Date,  →  10 September 2026  (10 Sep  13:47)
 ,Last Modified Accc,2026-08-10T18:02:35+10:00  →  2026-09-10T10:28:31+10:00  (10 Sep  13:47)
 ,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': ""Holcim - Burdett's - Phase 1 Determinat  (10 Sep  13:47)"
+,,
+"~ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
+,Acquisition Status,Under assessment  →  Assessment completed  (10 Sep  20:54)
+,Accc Determination,  →  Approved  (10 Sep  20:54)
+,Determination Publication Date,  →  10 September 2026  (10 Sep  20:54)
+,Last Modified Accc,2026-08-25T14:32:02+10:00  →  2026-09-10T13:28:37+10:00  (10 Sep  20:54)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (10 Sep  20:54)
+,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': 'Endeavour - retail liquor site in Horsh  (10 Sep  20:54)"
+,,
+~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
+,Determination Publication Date,4 September 2026  →  3 September 2026  (10 Sep  20:54)
+,Last Modified Accc,2026-09-04T09:15:56+10:00  →  2026-09-10T16:44:43+10:00  (10 Sep  20:54)
+,Decisions Docs,"[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  →  [{'date': '9 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (10 Sep  20:54)"
+,,
+REMOVED ENTRIES (1),Case Number,Detected (AEST)
+- KARMO/SIMPLR,,10 Sep  20:54
 ,,

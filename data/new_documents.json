@@ -1,5 +1,18 @@
 {
-  "run_utc": "2026-09-10T10:54:28.074187Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-09-11T03:44:34.407492Z",
+  "questionnaire_count": 1,
+  "questionnaires": [
+    {
+      "slug": "eli-lilly-%E2%80%93-merida-biosciences",
+      "title": "Eli Lilly – Merida Biosciences",
+      "case_number": "MN-80042",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences",
+      "date": "11 Sep 2026",
+      "description": "Questionnaire - Eli Lilly - Merida Biosciences",
+      "download_url": "https://www.accc.gov.au/system/files/moderated_files/Questionnaire%20-%20Eli%20Lilly%20-%20Merida.docx",
+      "local_path": "data/consultation_docs/Questionnaire - Eli Lilly - Merida.docx",
+      "filename": "Questionnaire - Eli Lilly - Merida.docx",
+      "size_kb": 116.4
+    }
+  ]
 }

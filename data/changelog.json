@@ -31825,5 +31825,110 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmosimplr",
     "event": "REMOVED",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "eneos-%E2%80%93-chevron-australia-downstream",
+    "title": "ENEOS – Chevron Australia Downstream",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "eli-lilly-%E2%80%93-merida-biosciences",
+    "title": "Eli Lilly – Merida Biosciences",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "alcoa-%E2%80%93-south32-aluminium-assets",
+    "title": "Alcoa – South32 aluminium assets",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific",
+    "title": "Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 September 2026 via email to mergers@accc.gov.au with the title Submission re: Velocity Vehicle Group - Fuso assets of Daimler Truck Australia Pacific. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 3 Sep 2026 Closing date 10 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "bbfit-hanes-australasia",
+    "title": "BBFIT - Hanes Australasia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 September 2026 via email to mergers@accc.gov.au with the title Submission re: BBFIT - Hanes Australasia. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 3 Sep 2026 Closing date 10 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "i-squared-capital-%E2%80%93-oohmedia",
+    "title": "I Squared Capital – oOh!media",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 September 2026 via email to mergers@accc.gov.au with the title I Squared Capital – oOh!media. Open date 3 Sep 2026 Closing date 10 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:44:34.407492Z",
+    "slug": "saint-gobain-xypex",
+    "title": "Saint-Gobain - Xypex",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "11 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-21T11:37:35+10:00",
+        "new": "2026-09-11T11:53:38+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saint-Gobain%20-%20Xypex%20-%20Phase%201%20determination_0.pdf'}]"
+      }
+    ]
   }
 ]

@@ -1,25 +1,66 @@
 {
-  "run_utc": "2026-09-10T10:54:28.074187Z",
-  "new_count": 2,
-  "changed_count": 2,
-  "removed_count": 1,
+  "run_utc": "2026-09-11T03:44:34.407492Z",
+  "new_count": 3,
+  "changed_count": 4,
+  "removed_count": 0,
   "new_entries": [
     {
-      "slug": "eqt-fund-management-%E2%80%93-melbourne-storm",
-      "title": "EQT Fund Management – Melbourne Storm",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-%E2%80%93-melbourne-storm"
+      "slug": "eneos-%E2%80%93-chevron-australia-downstream",
+      "title": "ENEOS – Chevron Australia Downstream",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream"
     },
     {
-      "slug": "karmo-simplr",
-      "title": "Karmo - Simplr",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmo-simplr"
+      "slug": "eli-lilly-%E2%80%93-merida-biosciences",
+      "title": "Eli Lilly – Merida Biosciences",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences"
+    },
+    {
+      "slug": "alcoa-%E2%80%93-south32-aluminium-assets",
+      "title": "Alcoa – South32 aluminium assets",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets"
     }
   ],
   "changed_entries": [
     {
-      "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
-      "title": "Endeavour Group – retail liquor site in Horsham, VIC",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic",
+      "slug": "velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific",
+      "title": "Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 September 2026 via email to mergers@accc.gov.au with the title Submission re: Velocity Vehicle Group - Fuso assets of Daimler Truck Australia Pacific. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 3 Sep 2026 Closing date 10 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "bbfit-hanes-australasia",
+      "title": "BBFIT - Hanes Australasia",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 September 2026 via email to mergers@accc.gov.au with the title Submission re: BBFIT - Hanes Australasia. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 3 Sep 2026 Closing date 10 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "i-squared-capital-%E2%80%93-oohmedia",
+      "title": "I Squared Capital – oOh!media",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 September 2026 via email to mergers@accc.gov.au with the title I Squared Capital – oOh!media. Open date 3 Sep 2026 Closing date 10 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "saint-gobain-xypex",
+      "title": "Saint-Gobain - Xypex",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saint-gobain-xypex",
       "changes": [
         {
           "field": "acquisition_status",
@@ -34,52 +75,25 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "10 September 2026"
+          "new": "11 September 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-25T14:32:02+10:00",
-          "new": "2026-09-10T13:28:37+10:00"
+          "old": "2026-08-21T11:37:35+10:00",
+          "new": "2026-09-11T11:53:38+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC's Phase 1 questionnaire has concluded.",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
           "new": ""
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '10 Sep 2026', 'description': 'Endeavour - retail liquor site in Horsham - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Endeavour%20-%20retail%20liquor%20site%20in%20Horsham%20-%20Phase%201%20determination%20-%2010%20September%202026_0.pdf'}]"
-        }
-      ]
-    },
-    {
-      "slug": "peter-warren-wakeling-automotive-0",
-      "title": "Peter Warren - Wakeling Automotive",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
-      "changes": [
-        {
-          "field": "determination_publication_date",
-          "old": "4 September 2026",
-          "new": "3 September 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-09-04T09:15:56+10:00",
-          "new": "2026-09-10T16:44:43+10:00"
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination with conditions', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Peter%20Warren%20-%20Wakeling%20Automotive%20-%20Phase%201%20Determination%20with%20conditions.pdf'}, {'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]",
-          "new": "[{'date': '9 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Peter%20Warren%20-%20s87B%20Undertaking%20-%20%20Public%20version_0.pdf'}, {'date': '3 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Phase 1 determination with conditions', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Peter%20Warren%20-%20Wakeling%20Automotive%20-%20Phase%201%20Determination%20with%20conditions_1.pdf'}, {'date': '19 Aug 2026', 'description': 'Timeline extended by 9 business days – following remedy offered by parties', 'url': ''}]"
+          "new": "[{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saint-Gobain%20-%20Xypex%20-%20Phase%201%20determination_0.pdf'}]"
         }
       ]
     }
   ],
-  "removed_entries": [
-    {
-      "slug": "karmosimplr",
-      "title": "KARMO/SIMPLR"
-    }
-  ]
+  "removed_entries": []
 }
