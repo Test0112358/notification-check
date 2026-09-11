@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-09-10T11:22:31.018503Z",
-  "register_entries_checked": 646,
-  "layer3_sample_size": 96,
+  "run_utc": "2026-09-11T04:19:34.007231Z",
+  "register_entries_checked": 649,
+  "layer3_sample_size": 97,
   "total_issues": 33,
   "errors": 0,
   "warnings": 33,
