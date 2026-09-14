@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "opal-healthcare-bethel-aged-care",
-    "title": "Opal HealthCare - Bethel Aged Care",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
+    "slug": "publicis-%E2%80%93-160over90",
+    "title": "Publicis – 160over90",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/publicis-%E2%80%93-160over90",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "banijay-entertainment-%E2%80%93-all3media",
-    "title": "Banijay Entertainment – All3Media",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
+    "slug": "five-v-capital-ftp-group",
+    "title": "Five V Capital - FTP Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/five-v-capital-ftp-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "eqt-fund-management-%E2%80%93-corza-biosurgery",
-    "title": "EQT Fund Management – Corza Biosurgery",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-%E2%80%93-corza-biosurgery",
+    "slug": "mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd",
+    "title": "MLPL HoldCo – shares in Marinus Link Pty Ltd",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
-    "title": "Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
+    "title": "Envest Group – MA Insurance Brokers",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +372,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
-    "title": "Abu Dhabi Investment Authority – Barings Darling Square Holding Trust",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
+    "slug": "cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati",
+    "title": "CVC Capital Partners and Groupe Bruxelles Lambert – Recordati",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "state-swim-%E2%80%93-swim-plus",
+    "title": "State Swim – Swim Plus",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/state-swim-%E2%80%93-swim-plus",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
