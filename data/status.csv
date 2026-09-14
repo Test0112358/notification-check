@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-11 10:52:07.591834,
-Last scrape run (AEST),11 Sep 2026  20:52,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-14 04:03:26.584549,
+Last scrape run (AEST),14 Sep 2026  14:03,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,652,
-New entries this run,3,
+Total entries monitored,653,
+New entries this run,1,
 Changed entries this run,3,
 Removed entries this run,0,
 ,,
@@ -13,38 +13,29 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Pacific Investment Management Company – Ingenico,WA-85045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pacific-investment-management-company-%E2%80%93-ingenico
-"+ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic
-+ Alceon – Engage Squared,WA-50037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alceon-%E2%80%93-engage-squared
+NEW ENTRIES (1),Case Number,URL
++ Bupa Health Services - Partnered Health,MN-50028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health
 ,,
 CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
+~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+"~ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,Consultation Docs,"[{'date': '4 Sep 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
+,,
+~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  11 September 2026
-,Last Modified Accc,2026-08-31T12:22:26+10:00  →  2026-09-11T16:01:54+10:00
+,Determination Publication Date,  →  14 September 2026
+,Last Modified Accc,2026-08-24T13:02:00+10:00  →  2026-09-14T12:24:29+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Bloomberg - Canoe Intelligence - Phase 1 determination', 'u"
-,,
-~ Lockheed Martin Corporation – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  11 September 2026
-,Last Modified Accc,2026-08-21T13:55:44+10:00  →  2026-09-11T14:57:51+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC's questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Lockheed Martin - Ultra Maritime - Phase 1 determination', "
-,,
-~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saipem-spa-subsea7-sa
-,End Of Determination Period,10 Nov 2026  →  1 Dec 2026
-,Last Modified Accc,2026-08-10T16:02:39+10:00  →  2026-09-11T14:44:47+10:00
-,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https:/  →  [{'date': '11 Sep 2026', 'description': ""Timeline extended by 15 business days – following request b"
+,Decisions Docs,"  →  [{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 determination', 'url': 'h"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (27),Case Number,Detected (AEST)
-"+ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,04 Sep  20:52
+NEW ENTRIES (29),Case Number,Detected (AEST)
 + Flick – GC Pest Control,MN-01122,07 Sep  17:35
 + The Procter & Gamble Company - Thorne,WA-75055,07 Sep  17:35
 + Triton – United Initiators,WA-70035,07 Sep  17:35
@@ -71,8 +62,11 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 + ENEOS – Chevron Australia Downstream,MN-65036,11 Sep  13:44
 + Eli Lilly – Merida Biosciences,MN-80042,11 Sep  13:44
 + Alcoa – South32 aluminium assets,MN-25047,11 Sep  13:44
++ Pacific Investment Management Company – Ingenico,WA-85045,11 Sep  20:52
+"+ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,11 Sep  20:52
++ Alceon – Engage Squared,WA-50037,11 Sep  20:52
 ,,
-"CHANGED ENTRIES (24 entries, 24 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (27 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (07 Sep  17:35)
 ,,
@@ -226,6 +220,27 @@ NEW ENTRIES (27),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-21T11:37:35+10:00  →  2026-09-11T11:53:38+10:00  (11 Sep  13:44)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (11 Sep  13:44)
 ,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Saint-Gobain - Xypex - Phase 1 determin  (11 Sep  13:44)"
+,,
+~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
+,Acquisition Status,Under assessment  →  Assessment completed  (11 Sep  20:52)
+,Accc Determination,  →  Approved  (11 Sep  20:52)
+,Determination Publication Date,  →  11 September 2026  (11 Sep  20:52)
+,Last Modified Accc,2026-08-31T12:22:26+10:00  →  2026-09-11T16:01:54+10:00  (11 Sep  20:52)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (11 Sep  20:52)
+,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Bloomberg - Canoe Intelligence - Phase   (11 Sep  20:52)"
+,,
+~ Lockheed Martin Corporation – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime
+,Acquisition Status,Under assessment  →  Assessment completed  (11 Sep  20:52)
+,Accc Determination,  →  Approved  (11 Sep  20:52)
+,Determination Publication Date,  →  11 September 2026  (11 Sep  20:52)
+,Last Modified Accc,2026-08-21T13:55:44+10:00  →  2026-09-11T14:57:51+10:00  (11 Sep  20:52)
+,Consultation Text,The period for providing submissions or information in response to the ACCC's qu  →    (11 Sep  20:52)
+,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Lockheed Martin - Ultra Maritime - Phas  (11 Sep  20:52)"
+,,
+~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saipem-spa-subsea7-sa
+,End Of Determination Period,10 Nov 2026  →  1 Dec 2026  (11 Sep  20:52)
+,Last Modified Accc,2026-08-10T16:02:39+10:00  →  2026-09-11T14:44:47+10:00  (11 Sep  20:52)
+,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '11 Sep 2026', 'description': ""Timeline extended by 15 business days –  (11 Sep  20:52)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - KARMO/SIMPLR,,10 Sep  20:54

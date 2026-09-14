@@ -32056,5 +32056,85 @@
         "new": "[{'date': '11 Sep 2026', 'description': \"Timeline extended by 15 business days – following request by Notifying Party to extend the period to respond to the ACCC's Notice of Competition Concerns\", 'url': ''}, {'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saipem%20-%20Subsea7%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns_1.pdf'}, {'date': '2 Jul 2026', 'description': 'ACCC decided notification is subject to Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Saipem%20-%20Subsea7%20-%20Determination%20DRAFT_3.pdf'}, {'date': '27 May 2026', 'description': 'Timeline extended by 18 business days – following request by parties', 'url': ''}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-14T04:03:26.584549Z",
+    "slug": "bupa-health-services-partnered-health",
+    "title": "Bupa Health Services - Partnered Health",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-14T04:03:26.584549Z",
+    "slug": "apiam-%E2%80%93-seymour-equine-clinic",
+    "title": "Apiam – Seymour Equine Clinic",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 September 2026 via email to mergers@accc.gov.au with the title Submission re: Apiam - Seymour Equine Clinic. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 4 Sep 2026 Closing date 11 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-14T04:03:26.584549Z",
+    "slug": "woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
+    "title": "Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 September 2026 via email to mergers@accc.gov.au with the title Woolworths – freehold interest in Homestead Rd, Orchard Hills, NSW. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 4 Sep 2026 Closing date 11 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '4 Sep 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Woolworths%20%E2%80%93%20freehold%20interest%20in%20Homestead%20Rd%2C%20Orchard%20Hills%2C%20NSW%20%E2%80%93%20Questionnaire_0.pdf'}]",
+        "new": ""
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-14T04:03:26.584549Z",
+    "slug": "novonesis-%E2%80%93-microbiogen",
+    "title": "Novonesis – Microbiogen",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "14 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-24T13:02:00+10:00",
+        "new": "2026-09-14T12:24:29+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Novonesis%20-%20Microbiogen%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]

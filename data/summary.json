@@ -1,24 +1,31 @@
 {
-  "generated_at_utc": "2026-09-11T11:25:02.813014Z",
-  "total_entries": 652,
+  "generated_at_utc": "2026-09-14T04:35:52.968264Z",
+  "total_entries": 653,
   "by_acquisition_status": {
     "Under assessment": 26,
-    "Assessment completed": 621,
+    "Assessment completed": 622,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 245,
+    "Phase 1 - initial assessment": 246,
     "Waiver application": 398,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 254,
+    "Notification": 255,
     "Waiver": 398
   },
   "by_accc_determination": {
-    "Approved": 597,
+    "Approved": 598,
     "Not approved": 19,
     "Approved with conditions": 5
   },
-  "decisions_due_within_10_days": []
+  "decisions_due_within_10_days": [
+    {
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "end_of_determination_period": "23 Sep 2026",
+      "days_remaining": 9
+    }
+  ]
 }
