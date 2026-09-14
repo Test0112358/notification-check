@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "ironbark-paris-group",
-    "title": "Ironbark - Paris Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group",
+    "slug": "opal-healthcare-bethel-aged-care",
+    "title": "Opal HealthCare - Bethel Aged Care",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
-    "title": "Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
+    "slug": "banijay-entertainment-%E2%80%93-all3media",
+    "title": "Banijay Entertainment – All3Media",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/banijay-entertainment-%E2%80%93-all3media",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "cvc-capital-partners-%E2%80%93-chesscom",
-    "title": "CVC Capital Partners – Chess.com",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-chesscom",
+    "slug": "eqt-fund-management-%E2%80%93-corza-biosurgery",
+    "title": "EQT Fund Management – Corza Biosurgery",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-%E2%80%93-corza-biosurgery",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bain-capital-%E2%80%93-perpetual-wealth-management-group",
-    "title": "Bain Capital – Perpetual Wealth Management Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-perpetual-wealth-management-group",
+    "slug": "coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "title": "Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
+    "title": "Abu Dhabi Investment Authority – Barings Darling Square Holding Trust",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abu-dhabi-investment-authority-%E2%80%93-barings-darling-square-holding-trust",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
