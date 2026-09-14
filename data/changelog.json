@@ -32136,5 +32136,45 @@
         "new": "[{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Novonesis%20-%20Microbiogen%20-%20Phase%201%20determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-14T12:12:29.403166Z",
+    "slug": "eqt-fund-management-intertek",
+    "title": "EQT Fund Management - Intertek",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-14T12:12:29.403166Z",
+    "slug": "challenger-channel-capital-and-fidante",
+    "title": "Challenger - Channel Capital and Fidante",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-14T12:12:29.403166Z",
+    "slug": "amplitude-og-energy-artisan-gas-field",
+    "title": "Amplitude / OG Energy - Artisan Gas Field",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-14T12:12:29.403166Z",
+    "slug": "star-hotels-group-ocean-international-hotel-mackay-qld",
+    "title": "Star Hotels Group - Ocean International Hotel, Mackay QLD",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/star-hotels-group-ocean-international-hotel-mackay-qld",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-14T12:12:29.403166Z",
+    "slug": "blackstone-mrc-dickson-holdings",
+    "title": "Blackstone - MRC Dickson Holdings",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-mrc-dickson-holdings",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

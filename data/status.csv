@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-14 04:03:26.584549,
-Last scrape run (AEST),14 Sep 2026  14:03,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-14 12:12:29.403166,
+Last scrape run (AEST),14 Sep 2026  22:12,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,653,
-New entries this run,1,
-Changed entries this run,3,
+Total entries monitored,658,
+New entries this run,5,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,33 +13,17 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Bupa Health Services - Partnered Health,MN-50028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health
-,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-"~ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,Consultation Docs,"[{'date': '4 Sep 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files  →  "
-,,
-~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  14 September 2026
-,Last Modified Accc,2026-08-24T13:02:00+10:00  →  2026-09-14T12:24:29+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 determination', 'url': 'h"
+NEW ENTRIES (5),Case Number,URL
++ EQT Fund Management - Intertek,MN-75045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek
++ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
++ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
+"+ Star Hotels Group - Ocean International Hotel, Mackay QLD",WA-15041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/star-hotels-group-ocean-international-hotel-mackay-qld
++ Blackstone - MRC Dickson Holdings,WA-60041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-mrc-dickson-holdings
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (29),Case Number,Detected (AEST)
-+ Flick – GC Pest Control,MN-01122,07 Sep  17:35
-+ The Procter & Gamble Company - Thorne,WA-75055,07 Sep  17:35
-+ Triton – United Initiators,WA-70035,07 Sep  17:35
-+ NetSPI - Synack,WA-60039,07 Sep  17:35
+NEW ENTRIES (26),Case Number,Detected (AEST)
 + Hyne Pallets - Advance Pallets,MN-75043,08 Sep  20:52
 "+ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,08 Sep  20:52
 "+ Shepparton Automotive Group - Darryl Twitt Motors dealerships in Shepparton East, Victoria",WA-15040,08 Sep  20:52
@@ -65,23 +49,9 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 + Pacific Investment Management Company – Ingenico,WA-85045,11 Sep  20:52
 "+ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,11 Sep  20:52
 + Alceon – Engage Squared,WA-50037,11 Sep  20:52
++ Bupa Health Services - Partnered Health,MN-50028,14 Sep  14:03
 ,,
 "CHANGED ENTRIES (27 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
-~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (07 Sep  17:35)
-,,
-"~ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
-,Acquisition Status,Under assessment  →  Assessment completed  (07 Sep  17:35)
-,Accc Determination,  →  Approved  (07 Sep  17:35)
-,Determination Publication Date,  →  7 September 2026  (07 Sep  17:35)
-,Targets,Michael Mooney; Lynne Mooney; CLENDON CARE PTY LTD; 65 001 584 827  →  Michael Mooney; CLENDON CARE PTY LTD; 65 001 584 827; Lynne Mooney  (07 Sep  17:35)
-,Last Modified Accc,2026-08-19T17:35:22+10:00  →  2026-09-07T17:27:26+10:00  (07 Sep  17:35)
-,Decisions Docs,"  →  [{'date': '7 Sep 2026', 'description': 'Opal HealthCare-Canberra Nursing Home -   (07 Sep  17:35)"
-,,
-~ Kimberly-Clark Corporation - Kenvue Inc.,MN-80005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc
-,Last Modified Accc,2026-09-02T09:52:28+10:00  →  2026-09-07T12:03:37+10:00  (07 Sep  17:35)
-,Decisions Docs,"[{'date': '1 Sep 2026', 'description': 'Kimberly-Clark - Kenvue - Phase 1 determ  →  [{'date': '3 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (07 Sep  17:35)"
-,,
 ~ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs
 ,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  13:43)
 ,Accc Determination,  →  Approved  (08 Sep  13:43)
@@ -241,6 +211,21 @@ NEW ENTRIES (29),Case Number,Detected (AEST)
 ,End Of Determination Period,10 Nov 2026  →  1 Dec 2026  (11 Sep  20:52)
 ,Last Modified Accc,2026-08-10T16:02:39+10:00  →  2026-09-11T14:44:47+10:00  (11 Sep  20:52)
 ,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '11 Sep 2026', 'description': ""Timeline extended by 15 business days –  (11 Sep  20:52)"
+,,
+~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (14 Sep  14:03)
+,,
+"~ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (14 Sep  14:03)
+,Consultation Docs,"[{'date': '4 Sep 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (14 Sep  14:03)"
+,,
+~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
+,Acquisition Status,Under assessment  →  Assessment completed  (14 Sep  14:03)
+,Accc Determination,  →  Approved  (14 Sep  14:03)
+,Determination Publication Date,  →  14 September 2026  (14 Sep  14:03)
+,Last Modified Accc,2026-08-24T13:02:00+10:00  →  2026-09-14T12:24:29+10:00  (14 Sep  14:03)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (14 Sep  14:03)
+,Decisions Docs,"  →  [{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 deter  (14 Sep  14:03)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - KARMO/SIMPLR,,10 Sep  20:54

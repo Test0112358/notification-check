@@ -1,82 +1,35 @@
 {
-  "run_utc": "2026-09-14T04:03:26.584549Z",
-  "new_count": 1,
-  "changed_count": 3,
+  "run_utc": "2026-09-14T12:12:29.403166Z",
+  "new_count": 5,
+  "changed_count": 0,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "bupa-health-services-partnered-health",
-      "title": "Bupa Health Services - Partnered Health",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health"
-    }
-  ],
-  "changed_entries": [
-    {
-      "slug": "apiam-%E2%80%93-seymour-equine-clinic",
-      "title": "Apiam – Seymour Equine Clinic",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 September 2026 via email to mergers@accc.gov.au with the title Submission re: Apiam - Seymour Equine Clinic. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 4 Sep 2026 Closing date 11 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
+      "slug": "eqt-fund-management-intertek",
+      "title": "EQT Fund Management - Intertek",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek"
     },
     {
-      "slug": "woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
-      "title": "Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 11 September 2026 via email to mergers@accc.gov.au with the title Woolworths – freehold interest in Homestead Rd, Orchard Hills, NSW. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 4 Sep 2026 Closing date 11 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        },
-        {
-          "field": "consultation_docs",
-          "old": "[{'date': '4 Sep 2026', 'description': 'Questionnaire', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Woolworths%20%E2%80%93%20freehold%20interest%20in%20Homestead%20Rd%2C%20Orchard%20Hills%2C%20NSW%20%E2%80%93%20Questionnaire_0.pdf'}]",
-          "new": ""
-        }
-      ]
+      "slug": "challenger-channel-capital-and-fidante",
+      "title": "Challenger - Channel Capital and Fidante",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante"
     },
     {
-      "slug": "novonesis-%E2%80%93-microbiogen",
-      "title": "Novonesis – Microbiogen",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "14 September 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-24T13:02:00+10:00",
-          "new": "2026-09-14T12:24:29+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Novonesis%20-%20Microbiogen%20-%20Phase%201%20determination.pdf'}]"
-        }
-      ]
+      "slug": "amplitude-og-energy-artisan-gas-field",
+      "title": "Amplitude / OG Energy - Artisan Gas Field",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field"
+    },
+    {
+      "slug": "star-hotels-group-ocean-international-hotel-mackay-qld",
+      "title": "Star Hotels Group - Ocean International Hotel, Mackay QLD",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/star-hotels-group-ocean-international-hotel-mackay-qld"
+    },
+    {
+      "slug": "blackstone-mrc-dickson-holdings",
+      "title": "Blackstone - MRC Dickson Holdings",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-mrc-dickson-holdings"
     }
   ],
+  "changed_entries": [],
   "removed_entries": []
 }
