@@ -12,6 +12,30 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+    "title": "Herron Todd White – CJA Lee Property Valuers",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "national-dental-care-grove-village-dental-centre-south-australia",
+    "title": "National Dental Care - Grove Village Dental Centre, South Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "oeconnection-epyx",
     "title": "OEConnection - Epyx",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx",
@@ -324,9 +348,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "publicis-%E2%80%93-160over90",
-    "title": "Publicis – 160over90",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/publicis-%E2%80%93-160over90",
+    "slug": "coles-substation-in-yarrawonga-vic",
+    "title": "Coles - substation in Yarrawonga VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-substation-in-yarrawonga-vic",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "five-v-capital-ftp-group",
-    "title": "Five V Capital - FTP Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/five-v-capital-ftp-group",
+    "slug": "brisbane-airport-corporation-%E2%80%93-interest-in-land-at-brisbane-airport",
+    "title": "Brisbane Airport Corporation – Interest in land at Brisbane Airport",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/brisbane-airport-corporation-%E2%80%93-interest-in-land-at-brisbane-airport",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd",
-    "title": "MLPL HoldCo – shares in Marinus Link Pty Ltd",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mlpl-holdco-%E2%80%93-shares-in-marinus-link-pty-ltd",
+    "slug": "coles-leasehold-interest-in-shopping-centre-on-capricorn-highway-emerald-qld",
+    "title": "Coles - Leasehold interest in shopping centre on Capricorn Highway, Emerald, QLD",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-leasehold-interest-in-shopping-centre-on-capricorn-highway-emerald-qld",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +384,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "envest-group-%E2%80%93-ma-insurance-brokers",
-    "title": "Envest Group – MA Insurance Brokers",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/envest-group-%E2%80%93-ma-insurance-brokers",
+    "slug": "regis-%E2%80%93-home-care-business-of-royal-freemasons",
+    "title": "Regis – Home Care Business of Royal Freemasons",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regis-%E2%80%93-home-care-business-of-royal-freemasons",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +396,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati",
-    "title": "CVC Capital Partners and Groupe Bruxelles Lambert – Recordati",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-and-groupe-bruxelles-lambert-%E2%80%93-recordati",
+    "slug": "waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland",
+    "title": "Waymark Hotels Group – Warrego Hotel Motel Cunnamulla, Queensland",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-warrego-hotel-motel-cunnamulla-queensland",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -384,9 +408,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "state-swim-%E2%80%93-swim-plus",
-    "title": "State Swim – Swim Plus",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/state-swim-%E2%80%93-swim-plus",
+    "slug": "l-catterton-europe-%E2%80%93-hyrox",
+    "title": "L Catterton Europe – HYROX",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/l-catterton-europe-%E2%80%93-hyrox",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
