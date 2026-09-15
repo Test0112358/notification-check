@@ -32176,5 +32176,27 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-mrc-dickson-holdings",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-15T04:02:26.151794Z",
+    "slug": "covetrus-%E2%80%94-mwi",
+    "title": "Covetrus — MWI",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-15T04:02:26.151794Z",
+    "slug": "flick-%E2%80%93-gc-pest-control",
+    "title": "Flick – GC Pest Control",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 14 September 2026 via email to mergers@accc.gov.au with the title Submission re: Flick - GC Pest Control. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 7 Sep 2026 Closing date 14 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
   }
 ]

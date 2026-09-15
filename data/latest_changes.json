@@ -1,35 +1,28 @@
 {
-  "run_utc": "2026-09-14T12:12:29.403166Z",
-  "new_count": 5,
-  "changed_count": 0,
+  "run_utc": "2026-09-15T04:02:26.151794Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "eqt-fund-management-intertek",
-      "title": "EQT Fund Management - Intertek",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek"
-    },
-    {
-      "slug": "challenger-channel-capital-and-fidante",
-      "title": "Challenger - Channel Capital and Fidante",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante"
-    },
-    {
-      "slug": "amplitude-og-energy-artisan-gas-field",
-      "title": "Amplitude / OG Energy - Artisan Gas Field",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field"
-    },
-    {
-      "slug": "star-hotels-group-ocean-international-hotel-mackay-qld",
-      "title": "Star Hotels Group - Ocean International Hotel, Mackay QLD",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/star-hotels-group-ocean-international-hotel-mackay-qld"
-    },
-    {
-      "slug": "blackstone-mrc-dickson-holdings",
-      "title": "Blackstone - MRC Dickson Holdings",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-mrc-dickson-holdings"
+      "slug": "covetrus-%E2%80%94-mwi",
+      "title": "Covetrus — MWI",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi"
     }
   ],
-  "changed_entries": [],
+  "changed_entries": [
+    {
+      "slug": "flick-%E2%80%93-gc-pest-control",
+      "title": "Flick – GC Pest Control",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 14 September 2026 via email to mergers@accc.gov.au with the title Submission re: Flick - GC Pest Control. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 7 Sep 2026 Closing date 14 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    }
+  ],
   "removed_entries": []
 }

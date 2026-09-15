@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-14 12:12:29.403166,
-Last scrape run (AEST),14 Sep 2026  22:12,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-15 04:02:26.151794,
+Last scrape run (AEST),15 Sep 2026  14:02,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,658,
-New entries this run,5,
-Changed entries this run,0,
+Total entries monitored,659,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,17 +13,17 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (5),Case Number,URL
-+ EQT Fund Management - Intertek,MN-75045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek
-+ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
-+ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
-"+ Star Hotels Group - Ocean International Hotel, Mackay QLD",WA-15041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/star-hotels-group-ocean-international-hotel-mackay-qld
-+ Blackstone - MRC Dickson Holdings,WA-60041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-mrc-dickson-holdings
+NEW ENTRIES (1),Case Number,URL
++ Covetrus — MWI,MN-55037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi
+,,
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (26),Case Number,Detected (AEST)
+NEW ENTRIES (31),Case Number,Detected (AEST)
 + Hyne Pallets - Advance Pallets,MN-75043,08 Sep  20:52
 "+ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,08 Sep  20:52
 "+ Shepparton Automotive Group - Darryl Twitt Motors dealerships in Shepparton East, Victoria",WA-15040,08 Sep  20:52
@@ -50,24 +50,13 @@ NEW ENTRIES (26),Case Number,Detected (AEST)
 "+ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,11 Sep  20:52
 + Alceon – Engage Squared,WA-50037,11 Sep  20:52
 + Bupa Health Services - Partnered Health,MN-50028,14 Sep  14:03
++ EQT Fund Management - Intertek,MN-75045,14 Sep  22:12
++ Challenger - Channel Capital and Fidante,MN-65033,14 Sep  22:12
++ Amplitude / OG Energy - Artisan Gas Field,MN-01121,14 Sep  22:12
+"+ Star Hotels Group - Ocean International Hotel, Mackay QLD",WA-15041,14 Sep  22:12
++ Blackstone - MRC Dickson Holdings,WA-60041,14 Sep  22:12
 ,,
-"CHANGED ENTRIES (27 entries, 27 change events)",Field changed,Old value  →  New value  (AEST)
-~ Adobe - Topaz Labs,MN-30028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adobe-topaz-labs
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  13:43)
-,Accc Determination,  →  Approved  (08 Sep  13:43)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  13:43)
-,Last Modified Accc,2026-08-14T11:40:00+10:00  →  2026-09-08T11:25:13+10:00  (08 Sep  13:43)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Adobe - Topaz Labs - Phase 1 determinati  (08 Sep  13:43)"
-,,
-~ UPM-Kymmene – Sappi joint venture,MN-30023,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/upm-kymmene-%E2%80%93-sappi-joint-venture
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  13:43)
-,Accc Determination,  →  Approved  (08 Sep  13:43)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  13:43)
-,Acquirers,UPM-Kymmene Corporation; Finnish Business ID - 1041090-0; Sappi Limited; Registr  →  Sappi Limited; Registration number - 1936/008963/06; UPM-Kymmene Corporation; Fi  (08 Sep  13:43)
-,Other Parties,UPM-KYMMENE PTY LTD; 99 001 255 661; UPM Communication Papers Oy; 2760641-6; SAP  →  SAPPI TRADING AUSTRALIA PTY LIMITED; 17 086 317 071; UPM Communication Papers Oy  (08 Sep  13:43)
-,Last Modified Accc,2026-08-10T13:12:13+10:00  →  2026-09-08T10:44:14+10:00  (08 Sep  13:43)
-,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Timeline extended by 10 business days –  →  [{'date': '8 Sep 2026', 'description': 'UPM-Kymmene - Sappi joint venture - Phas  (08 Sep  13:43)"
-,,
+"CHANGED ENTRIES (25 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Bunnings – Intellihub – Zelora Joint Venture,MN-90029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture
 ,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
 ,Accc Determination,  →  Approved  (08 Sep  20:52)
