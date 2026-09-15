@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-15 04:02:26.151794,
-Last scrape run (AEST),15 Sep 2026  14:02,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-15 11:22:02.976619,
+Last scrape run (AEST),15 Sep 2026  21:22,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,659,
-New entries this run,1,
-Changed entries this run,1,
+Total entries monitored,663,
+New entries this run,4,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,24 +13,43 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Covetrus — MWI,MN-55037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi
+NEW ENTRIES (4),Case Number,URL
+"+ National Dental Care – business assets comprising the Steve King Dental Group, QLD",WA-10036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-steve-king-dental-group-qld
+"+ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia
++ Itochu Corporation – TC Skyward Aviation (Aviation Capital Group),WA-55035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/itochu-corporation-%E2%80%93-tc-skyward-aviation-aviation-capital-group
++ Kirin – Jamieson Wellness,WA-60042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kirin-%E2%80%93-jamieson-wellness
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Targets,C. McMahon Enterprises Pty Ltd; 115 024 854; CJA LEE PROPERTY PARTNERSHIP; 53 968 532 362; CJA Lee P  →  C. McMahon Enterprises Pty Ltd; 115 024 854; T.J. Shaw Pty Ltd; 115 022 930; CJA LEE PROPERTY PARTNE
+,Other Parties,HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962; HERRON TODD WHITE (FINCO) PTY LTD; 98 665 809   →  HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962
+,Last Modified Accc,2026-08-26T11:46:39+10:00  →  2026-09-15T11:25:45+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'Herron Todd White – CJA Lee Property Valuers - Phase 1 dete"
+,,
+~ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  15 September 2026
+,Last Modified Accc,2026-08-21T12:17:01+10:00  →  2026-09-15T15:03:57+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'Tencent - Happibits - Phase 1 Determination', 'url': 'https"
+,,
+~ McCormick / Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
+,Title,McCormick - Unilever Foods Business  →  McCormick / Unilever Foods Business
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  15 September 2026
+,Last Modified Accc,2026-08-21T14:09:24+10:00  →  2026-09-15T16:46:39+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'McCormick - Unilever Foods Business - Phase 1 Determination"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (31),Case Number,Detected (AEST)
-+ Hyne Pallets - Advance Pallets,MN-75043,08 Sep  20:52
-"+ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,08 Sep  20:52
-"+ Shepparton Automotive Group - Darryl Twitt Motors dealerships in Shepparton East, Victoria",WA-15040,08 Sep  20:52
-+ Bain Capital - Gong cha,WA-75051,08 Sep  20:52
-"+ Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",WA-90034,08 Sep  20:52
-+ Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions,WA-10029,08 Sep  20:52
-+ Jellinbah Group - Further interest in Lake Vermont JV,WA-55033,08 Sep  20:52
+NEW ENTRIES (25),Case Number,Detected (AEST)
 + Danfoss - Alfagomma,MN-75052,09 Sep  20:57
 + Prysmian - Atkore,MN-01124,09 Sep  20:57
 + Brookfield Corporation Ltd – Brookfield Corporation and Brookfield Wealth Solutions Ltd,WA-50039,09 Sep  20:57
@@ -55,69 +74,9 @@ NEW ENTRIES (31),Case Number,Detected (AEST)
 + Amplitude / OG Energy - Artisan Gas Field,MN-01121,14 Sep  22:12
 "+ Star Hotels Group - Ocean International Hotel, Mackay QLD",WA-15041,14 Sep  22:12
 + Blackstone - MRC Dickson Holdings,WA-60041,14 Sep  22:12
++ Covetrus — MWI,MN-55037,15 Sep  14:02
 ,,
-"CHANGED ENTRIES (25 entries, 25 change events)",Field changed,Old value  →  New value  (AEST)
-~ Bunnings – Intellihub – Zelora Joint Venture,MN-90029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bunnings-%E2%80%93-intellihub-%E2%80%93-zelora-joint-venture
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Last Modified Accc,2026-08-21T10:14:50+10:00  →  2026-09-08T16:11:55+10:00  (08 Sep  20:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s Ph  →    (08 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Bunnings - Intellihub - Zelora - Phase 1  (08 Sep  20:52)"
-,,
-~ Chevron - Woodside asset swap,MN-20034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/chevron-woodside-asset-swap
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Last Modified Accc,2026-08-21T09:34:57+10:00  →  2026-09-08T17:32:38+10:00  (08 Sep  20:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (08 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Chevron – Woodside asset swap – Phase 1   (08 Sep  20:52)"
-,,
-~ OEConnection - Epyx,MN-45024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Last Modified Accc,2026-08-21T10:51:28+10:00  →  2026-09-08T14:58:06+10:00  (08 Sep  20:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (08 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'OEConnection - Epyx - Phase 1 determinat  (08 Sep  20:52)"
-,,
-~ Incubeta - Datisan,MN-05043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Last Modified Accc,2026-08-21T10:44:46+10:00  →  2026-09-08T16:52:51+10:00  (08 Sep  20:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (08 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Incubeta-Datisan - Phase 1 determination  (08 Sep  20:52)"
-,,
-~ Supagas – Heeson Medical,MN-80027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Other Parties,Nippon Sanso Holdings Corporation; LEI - 353800F1K6653B4VPY57; Coregas Pty Ltd;   →  NSC (Australia) Pty Ltd; 71 607 111 268; Coregas Pty Ltd; 32 001 255 312; Nippon  (08 Sep  20:52)
-,Last Modified Accc,2026-08-19T09:37:07+10:00  →  2026-09-08T12:59:14+10:00  (08 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Supagas - Heeson Medical - Phase 1 deter  (08 Sep  20:52)"
-,,
-~ Aware Super – Increased interest in Keyton,MN-70030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Targets,LENDLEASE CAPITAL SERVICES PTY LTD; 67 000 001 114; LENDLEASE CAPITAL SERVICES R  →  Keyton Trust; 44 349 706 307; LENDLEASE CAPITAL SERVICES PTY LTD; 67 000 001 114  (08 Sep  20:52)
-,Last Modified Accc,2026-08-11T17:23:51+10:00  →  2026-09-08T15:25:44+10:00  (08 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '8 Sep 2026', 'description': 'Aware Super - Increased interest in Keyt  (08 Sep  20:52)"
-,,
-~ Amplifon – GN Hearing,MN-20017,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplifon-%E2%80%93-gn-hearing
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Last Modified Accc,2026-08-12T16:20:59+10:00  →  2026-09-08T17:09:37+10:00  (08 Sep  20:52)
-,Decisions Docs,"[{'date': '12 Aug 2026', 'description': 'Timeline extended by 12 business days –  →  [{'date': '8 Sep 2026', 'description': 'Amplifon - GN Hearing - Phase 1 Determin  (08 Sep  20:52)"
-,,
-~ Journey Beyond - Kelsian Tourism Portfolio,MN-85015,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-kelsian-tourism-portfolio
-,Acquisition Status,Under assessment  →  Assessment completed  (08 Sep  20:52)
-,Accc Determination,  →  Approved  (08 Sep  20:52)
-,Determination Publication Date,  →  8 September 2026  (08 Sep  20:52)
-,Last Modified Accc,2026-09-02T16:24:26+10:00  →  2026-09-08T16:47:55+10:00  (08 Sep  20:52)
-,Decisions Docs,"[{'date': '11 Aug 2026', 'description': 'Timeline extended by 15 business days -  →  [{'date': '8 Sep 2026', 'description': 'Journey Beyond - Kelsian Tourism Portfol  (08 Sep  20:52)"
-,,
+"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or informat  →  The period for providing submissions or information in response to the ACCC’s qu  (09 Sep  13:48)
 ,,
@@ -215,6 +174,9 @@ NEW ENTRIES (31),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-24T13:02:00+10:00  →  2026-09-14T12:24:29+10:00  (14 Sep  14:03)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (14 Sep  14:03)
 ,Decisions Docs,"  →  [{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 deter  (14 Sep  14:03)"
+,,
+~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (15 Sep  14:02)
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - KARMO/SIMPLR,,10 Sep  20:54

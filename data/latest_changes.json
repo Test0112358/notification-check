@@ -1,25 +1,149 @@
 {
-  "run_utc": "2026-09-15T04:02:26.151794Z",
-  "new_count": 1,
-  "changed_count": 1,
+  "run_utc": "2026-09-15T11:22:02.976619Z",
+  "new_count": 4,
+  "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "covetrus-%E2%80%94-mwi",
-      "title": "Covetrus — MWI",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi"
+      "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-steve-king-dental-group-qld",
+      "title": "National Dental Care – business assets comprising the Steve King Dental Group, QLD",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-steve-king-dental-group-qld"
+    },
+    {
+      "slug": "national-dental-care-grove-village-dental-centre-south-australia",
+      "title": "National Dental Care - Grove Village Dental Centre, South Australia",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia"
+    },
+    {
+      "slug": "itochu-corporation-%E2%80%93-tc-skyward-aviation-aviation-capital-group",
+      "title": "Itochu Corporation – TC Skyward Aviation (Aviation Capital Group)",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/itochu-corporation-%E2%80%93-tc-skyward-aviation-aviation-capital-group"
+    },
+    {
+      "slug": "kirin-%E2%80%93-jamieson-wellness",
+      "title": "Kirin – Jamieson Wellness",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kirin-%E2%80%93-jamieson-wellness"
     }
   ],
   "changed_entries": [
     {
-      "slug": "flick-%E2%80%93-gc-pest-control",
-      "title": "Flick – GC Pest Control",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control",
+      "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+      "title": "Herron Todd White – CJA Lee Property Valuers",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
       "changes": [
         {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "targets",
+          "old": "C. McMahon Enterprises Pty Ltd; 115 024 854; CJA LEE PROPERTY PARTNERSHIP; 53 968 532 362; CJA Lee Property Pty Ltd; 113 706 826; T.J. Shaw Pty Ltd; 115 022 930",
+          "new": "C. McMahon Enterprises Pty Ltd; 115 024 854; T.J. Shaw Pty Ltd; 115 022 930; CJA LEE PROPERTY PARTNERSHIP; 53 968 532 362; CJA Lee Property Pty Ltd; 113 706 826"
+        },
+        {
+          "field": "other_parties",
+          "old": "HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962; HERRON TODD WHITE (FINCO) PTY LTD; 98 665 809 325",
+          "new": "HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-26T11:46:39+10:00",
+          "new": "2026-09-15T11:25:45+10:00"
+        },
+        {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 14 September 2026 via email to mergers@accc.gov.au with the title Submission re: Flick - GC Pest Control. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 7 Sep 2026 Closing date 14 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '15 Sep 2026', 'description': 'Herron Todd White – CJA Lee Property Valuers - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Herron%20Todd%20White%20%E2%80%93%20CJA%20Lee%20Property%20Valuers%20-%20Determination%20-%20September%202026.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-%E2%80%93-happibits",
+      "title": "Tencent – Happibits",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "15 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-21T12:17:01+10:00",
+          "new": "2026-09-15T15:03:57+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '15 Sep 2026', 'description': 'Tencent - Happibits - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Tencent%20-%20Happibits%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "mccormick-unilever-foods-business",
+      "title": "McCormick / Unilever Foods Business",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business",
+      "changes": [
+        {
+          "field": "title",
+          "old": "McCormick - Unilever Foods Business",
+          "new": "McCormick / Unilever Foods Business"
+        },
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "15 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-21T14:09:24+10:00",
+          "new": "2026-09-15T16:46:39+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '15 Sep 2026', 'description': 'McCormick - Unilever Foods Business - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/McCormick%20-%20Unilever%20Foods%20Business%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }
