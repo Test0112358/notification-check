@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-15 11:22:02.976619,
-Last scrape run (AEST),15 Sep 2026  21:22,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-16 03:59:47.232929,
+Last scrape run (AEST),16 Sep 2026  13:59,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,663,
-New entries this run,4,
-Changed entries this run,3,
+New entries this run,0,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,43 +13,22 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-"+ National Dental Care – business assets comprising the Steve King Dental Group, QLD",WA-10036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-steve-king-dental-group-qld
-"+ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia
-+ Itochu Corporation – TC Skyward Aviation (Aviation Capital Group),WA-55035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/itochu-corporation-%E2%80%93-tc-skyward-aviation-aviation-capital-group
-+ Kirin – Jamieson Wellness,WA-60042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kirin-%E2%80%93-jamieson-wellness
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Hyne Pallets - Advance Pallets,MN-75043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hyne-pallets-advance-pallets
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
+~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Targets,C. McMahon Enterprises Pty Ltd; 115 024 854; CJA LEE PROPERTY PARTNERSHIP; 53 968 532 362; CJA Lee P  →  C. McMahon Enterprises Pty Ltd; 115 024 854; T.J. Shaw Pty Ltd; 115 022 930; CJA LEE PROPERTY PARTNE
-,Other Parties,HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962; HERRON TODD WHITE (FINCO) PTY LTD; 98 665 809   →  HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962
-,Last Modified Accc,2026-08-26T11:46:39+10:00  →  2026-09-15T11:25:45+10:00
+,Determination Publication Date,  →  16 September 2026
+,Last Modified Accc,2026-08-27T11:58:43+10:00  →  2026-09-16T11:01:40+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'Herron Todd White – CJA Lee Property Valuers - Phase 1 dete"
-,,
-~ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  15 September 2026
-,Last Modified Accc,2026-08-21T12:17:01+10:00  →  2026-09-15T15:03:57+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'Tencent - Happibits - Phase 1 Determination', 'url': 'https"
-,,
-~ McCormick / Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
-,Title,McCormick - Unilever Foods Business  →  McCormick / Unilever Foods Business
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  15 September 2026
-,Last Modified Accc,2026-08-21T14:09:24+10:00  →  2026-09-15T16:46:39+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'McCormick - Unilever Foods Business - Phase 1 Determination"
+,Decisions Docs,"  →  [{'date': '16 Sep 2026', 'description': 'WSP – e2m – Phase 1 determination', 'url': 'https://www.acc"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (25),Case Number,Detected (AEST)
+NEW ENTRIES (29),Case Number,Detected (AEST)
 + Danfoss - Alfagomma,MN-75052,09 Sep  20:57
 + Prysmian - Atkore,MN-01124,09 Sep  20:57
 + Brookfield Corporation Ltd – Brookfield Corporation and Brookfield Wealth Solutions Ltd,WA-50039,09 Sep  20:57
@@ -75,11 +54,12 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 "+ Star Hotels Group - Ocean International Hotel, Mackay QLD",WA-15041,14 Sep  22:12
 + Blackstone - MRC Dickson Holdings,WA-60041,14 Sep  22:12
 + Covetrus — MWI,MN-55037,15 Sep  14:02
+"+ National Dental Care – business assets comprising the Steve King Dental Group, QLD",WA-10036,15 Sep  21:22
+"+ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,15 Sep  21:22
++ Itochu Corporation – TC Skyward Aviation (Aviation Capital Group),WA-55035,15 Sep  21:22
++ Kirin – Jamieson Wellness,WA-60042,15 Sep  21:22
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submission or informat  →  The period for providing submissions or information in response to the ACCC’s qu  (09 Sep  13:48)
-,,
+"CHANGED ENTRIES (20 entries, 20 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Coles - supermarket site in Kirkwood (QLD),MN-05046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-kirkwood-qld
 ,Acquisition Status,Under assessment  →  Assessment completed  (09 Sep  20:57)
 ,Accc Determination,  →  Approved  (09 Sep  20:57)
@@ -177,6 +157,32 @@ NEW ENTRIES (25),Case Number,Detected (AEST)
 ,,
 ~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (15 Sep  14:02)
+,,
+~ Herron Todd White – CJA Lee Property Valuers,MN-75036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0
+,Acquisition Status,Under assessment  →  Assessment completed  (15 Sep  21:22)
+,Accc Determination,  →  Approved  (15 Sep  21:22)
+,Targets,C. McMahon Enterprises Pty Ltd; 115 024 854; CJA LEE PROPERTY PARTNERSHIP; 53 96  →  C. McMahon Enterprises Pty Ltd; 115 024 854; T.J. Shaw Pty Ltd; 115 022 930; CJA  (15 Sep  21:22)
+,Other Parties,HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962; HERRON TODD WHITE (FINCO)   →  HERRON TODD WHITE (HOLDINGS) PTY LTD; 99 665 808 962  (15 Sep  21:22)
+,Last Modified Accc,2026-08-26T11:46:39+10:00  →  2026-09-15T11:25:45+10:00  (15 Sep  21:22)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (15 Sep  21:22)
+,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'Herron Todd White – CJA Lee Property Va  (15 Sep  21:22)"
+,,
+~ Tencent – Happibits,MN-60030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tencent-%E2%80%93-happibits
+,Acquisition Status,Under assessment  →  Assessment completed  (15 Sep  21:22)
+,Accc Determination,  →  Approved  (15 Sep  21:22)
+,Determination Publication Date,  →  15 September 2026  (15 Sep  21:22)
+,Last Modified Accc,2026-08-21T12:17:01+10:00  →  2026-09-15T15:03:57+10:00  (15 Sep  21:22)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (15 Sep  21:22)
+,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'Tencent - Happibits - Phase 1 Determina  (15 Sep  21:22)"
+,,
+~ McCormick / Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
+,Title,McCormick - Unilever Foods Business  →  McCormick / Unilever Foods Business  (15 Sep  21:22)
+,Acquisition Status,Under assessment  →  Assessment completed  (15 Sep  21:22)
+,Accc Determination,  →  Approved  (15 Sep  21:22)
+,Determination Publication Date,  →  15 September 2026  (15 Sep  21:22)
+,Last Modified Accc,2026-08-21T14:09:24+10:00  →  2026-09-15T16:46:39+10:00  (15 Sep  21:22)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (15 Sep  21:22)
+,Decisions Docs,"  →  [{'date': '15 Sep 2026', 'description': 'McCormick - Unilever Foods Business - P  (15 Sep  21:22)"
 ,,
 REMOVED ENTRIES (1),Case Number,Detected (AEST)
 - KARMO/SIMPLR,,10 Sep  20:54

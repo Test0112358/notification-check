@@ -32357,5 +32357,58 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kirin-%E2%80%93-jamieson-wellness",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-16T03:59:47.232929Z",
+    "slug": "hyne-pallets-advance-pallets",
+    "title": "Hyne Pallets - Advance Pallets",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hyne-pallets-advance-pallets",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 15 September 2026 via email to mergers@accc.gov.au with the title ‘Submission re: Hyne Pallets – Advance Pallets’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 8 Sep 2026 Closing date 15 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-16T03:59:47.232929Z",
+    "slug": "wsp-e2m",
+    "title": "WSP - e2m",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "16 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-27T11:58:43+10:00",
+        "new": "2026-09-16T11:01:40+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '16 Sep 2026', 'description': 'WSP – e2m – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/WSP%20%E2%80%93%20e2m%20%E2%80%93%20Phase%201%20determination%20%E2%80%93%2016%20September%202026.pdf'}]"
+      }
+    ]
   }
 ]
