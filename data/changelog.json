@@ -32410,5 +32410,21 @@
         "new": "[{'date': '16 Sep 2026', 'description': 'WSP – e2m – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/WSP%20%E2%80%93%20e2m%20%E2%80%93%20Phase%201%20determination%20%E2%80%93%2016%20September%202026.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-16T11:06:04.845750Z",
+    "slug": "oakley-capital-%E2%80%93-graphwise",
+    "title": "Oakley Capital – Graphwise",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oakley-capital-%E2%80%93-graphwise",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-16T11:06:04.845750Z",
+    "slug": "sims-%E2%80%93-business-assets-of-onestop-metal-recycling-in-tas",
+    "title": "Sims – business assets of OneStop Metal Recycling in TAS",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sims-%E2%80%93-business-assets-of-onestop-metal-recycling-in-tas",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
