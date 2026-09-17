@@ -32464,5 +32464,29 @@
         "new": "2026-09-17T12:19:00+10:00"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-17T11:15:47.353000Z",
+    "slug": "oceanagold-ausgold",
+    "title": "OceanaGold - Ausgold",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oceanagold-ausgold",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-17T11:15:47.353000Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-the-clock-hotel-surry-hills-and-the-bank-hotel-newtown-nsw",
+    "title": "Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-clock-hotel-surry-hills-and-the-bank-hotel-newtown-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-17T11:15:47.353000Z",
+    "slug": "cinven-and-la-caisse-%E2%80%93-optio-group",
+    "title": "Cinven and La Caisse – Optio Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cinven-and-la-caisse-%E2%80%93-optio-group",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

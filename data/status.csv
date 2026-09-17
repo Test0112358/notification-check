@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-17 04:06:08.531427,
-Last scrape run (AEST),17 Sep 2026  14:06,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-17 11:15:47.353000,
+Last scrape run (AEST),17 Sep 2026  21:15,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,665,
-New entries this run,0,
-Changed entries this run,2,
+Total entries monitored,668,
+New entries this run,3,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,21 +13,15 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-"~ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel
-,Determination Publication Date,  →  8 September 2026
-,Targets,Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171  →  Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171; AUSTRALIAN DEFENCE APPAREL P
-,Last Modified Accc,2026-09-08T16:32:17+10:00  →  2026-09-17T12:19:00+10:00
+NEW ENTRIES (3),Case Number,URL
++ OceanaGold - Ausgold,WA-95041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oceanagold-ausgold
+"+ Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",WA-10033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-clock-hotel-surry-hills-and-the-bank-hotel-newtown-nsw
++ Cinven and La Caisse – Optio Group,WA-65034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cinven-and-la-caisse-%E2%80%93-optio-group
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (21),Case Number,Detected (AEST)
-+ EQT Fund Management – Melbourne Storm,WA-70037,10 Sep  20:54
-+ Karmo - Simplr,MN-15030,10 Sep  20:54
+NEW ENTRIES (19),Case Number,Detected (AEST)
 + ENEOS – Chevron Australia Downstream,MN-65036,11 Sep  13:44
 + Eli Lilly – Merida Biosciences,MN-80042,11 Sep  13:44
 + Alcoa – South32 aluminium assets,MN-25047,11 Sep  13:44
@@ -49,19 +43,6 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 + Sims – business assets of OneStop Metal Recycling in TAS,WA-80040,16 Sep  21:06
 ,,
 "CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-"~ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Sep  20:54)
-,Accc Determination,  →  Approved  (10 Sep  20:54)
-,Determination Publication Date,  →  10 September 2026  (10 Sep  20:54)
-,Last Modified Accc,2026-08-25T14:32:02+10:00  →  2026-09-10T13:28:37+10:00  (10 Sep  20:54)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's Ph  →    (10 Sep  20:54)
-,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': 'Endeavour - retail liquor site in Horsh  (10 Sep  20:54)"
-,,
-~ Peter Warren - Wakeling Automotive,MN-90028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0
-,Determination Publication Date,4 September 2026  →  3 September 2026  (10 Sep  20:54)
-,Last Modified Accc,2026-09-04T09:15:56+10:00  →  2026-09-10T16:44:43+10:00  (10 Sep  20:54)
-,Decisions Docs,"[{'date': '4 Sep 2026', 'description': 'Peter Warren - Wakeling Automotive - Pha  →  [{'date': '9 Sep 2026', 'description': 'ACCC accepted s87B undertaking', 'url':   (10 Sep  20:54)"
-,,
 ~ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (11 Sep  13:44)
 ,,
@@ -155,6 +136,11 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (16 Sep  13:59)
 ,Decisions Docs,"  →  [{'date': '16 Sep 2026', 'description': 'WSP – e2m – Phase 1 determination', 'ur  (16 Sep  13:59)"
 ,,
-REMOVED ENTRIES (1),Case Number,Detected (AEST)
-- KARMO/SIMPLR,,10 Sep  20:54
+~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (17 Sep  14:06)
+,,
+"~ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel
+,Determination Publication Date,  →  8 September 2026  (17 Sep  14:06)
+,Targets,Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171  →  Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171; AUSTRALI  (17 Sep  14:06)
+,Last Modified Accc,2026-09-08T16:32:17+10:00  →  2026-09-17T12:19:00+10:00  (17 Sep  14:06)
 ,,
