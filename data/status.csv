@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-16 11:06:04.845750,
-Last scrape run (AEST),16 Sep 2026  21:06,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-17 04:06:08.531427,
+Last scrape run (AEST),17 Sep 2026  14:06,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,665,
-New entries this run,2,
-Changed entries this run,0,
+New entries this run,0,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,16 +13,19 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Oakley Capital – Graphwise,WA-75053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oakley-capital-%E2%80%93-graphwise
-+ Sims – business assets of OneStop Metal Recycling in TAS,WA-80040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sims-%E2%80%93-business-assets-of-onestop-metal-recycling-in-tas
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+"~ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel
+,Determination Publication Date,  →  8 September 2026
+,Targets,Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171  →  Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171; AUSTRALIAN DEFENCE APPAREL P
+,Last Modified Accc,2026-09-08T16:32:17+10:00  →  2026-09-17T12:19:00+10:00
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (21),Case Number,Detected (AEST)
-+ PSP Investments - AAA Egg Company,MN-55024,10 Sep  13:47
-+ Merck KGaA / Bio-Techne,MN-25049,10 Sep  13:47
 + EQT Fund Management – Melbourne Storm,WA-70037,10 Sep  20:54
 + Karmo - Simplr,MN-15030,10 Sep  20:54
 + ENEOS – Chevron Australia Downstream,MN-65036,11 Sep  13:44
@@ -42,15 +45,10 @@ NEW ENTRIES (21),Case Number,Detected (AEST)
 "+ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,15 Sep  21:22
 + Itochu Corporation – TC Skyward Aviation (Aviation Capital Group),WA-55035,15 Sep  21:22
 + Kirin – Jamieson Wellness,WA-60042,15 Sep  21:22
++ Oakley Capital – Graphwise,WA-75053,16 Sep  21:06
++ Sims – business assets of OneStop Metal Recycling in TAS,WA-80040,16 Sep  21:06
 ,,
-"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
-,Acquisition Status,Under assessment  →  Assessment completed  (10 Sep  13:47)
-,Accc Determination,  →  Approved  (10 Sep  13:47)
-,Determination Publication Date,  →  10 September 2026  (10 Sep  13:47)
-,Last Modified Accc,2026-08-10T18:02:35+10:00  →  2026-09-10T10:28:31+10:00  (10 Sep  13:47)
-,Decisions Docs,"  →  [{'date': '10 Sep 2026', 'description': ""Holcim - Burdett's - Phase 1 Determinat  (10 Sep  13:47)"
-,,
+"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 "~ Endeavour Group – retail liquor site in Horsham, VIC",MN-10027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-horsham-vic
 ,Acquisition Status,Under assessment  →  Assessment completed  (10 Sep  20:54)
 ,Accc Determination,  →  Approved  (10 Sep  20:54)

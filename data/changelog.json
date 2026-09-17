@@ -32426,5 +32426,43 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sims-%E2%80%93-business-assets-of-onestop-metal-recycling-in-tas",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-17T04:06:08.531427Z",
+    "slug": "prysmian-atkore",
+    "title": "Prysmian - Atkore",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 16 September 2026 via email to mergers@accc.gov.au with the title ‘Submission re: Prysmian - Atkore’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 9 Sep 2026 Closing date 16 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-17T04:06:08.531427Z",
+    "slug": "investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel",
+    "title": "Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "8 September 2026"
+      },
+      {
+        "field": "targets",
+        "old": "Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171",
+        "new": "Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171; AUSTRALIAN DEFENCE APPAREL PTY LTD; 67 006 898 906"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-08T16:32:17+10:00",
+        "new": "2026-09-17T12:19:00+10:00"
+      }
+    ]
   }
 ]
