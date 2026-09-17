@@ -336,9 +336,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "anglogold-ashanti-australia-%E2%80%93-matsa-lake-carey-tenements",
-    "title": "AngloGold Ashanti Australia – Matsa Lake Carey tenements",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/anglogold-ashanti-australia-%E2%80%93-matsa-lake-carey-tenements",
+    "slug": "atkinsr%C3%A9alis-wga",
+    "title": "AtkinsRéalis - WGA",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atkinsr%C3%A9alis-wga",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
-    "title": "Endeavour Group – retail liquor store in Muswellbrook (NSW)",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-in-muswellbrook-nsw",
+    "slug": "imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
+    "title": "Imagine Education – childcare centres ownership restructure",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "eqt-fund-management-%E2%80%93-kakakucom",
-    "title": "EQT Fund Management – Kakaku.com",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-%E2%80%93-kakakucom",
+    "slug": "openai-tomoro",
+    "title": "OpenAI - Tomoro",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/openai-tomoro",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "uber-blacklane",
-    "title": "Uber - Blacklane",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/uber-blacklane",
+    "slug": "hexagon-waygate-technologies",
+    "title": "Hexagon - Waygate Technologies",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hexagon-waygate-technologies",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -384,9 +384,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets",
-    "title": "Kalari – De Gunst’s Gracemere Assets",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kalari-%E2%80%93-de-gunst%E2%80%99s-gracemere-assets",
+    "slug": "vets-central-drovers-vet-hospital",
+    "title": "Vets Central - Drovers Vet Hospital",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-drovers-vet-hospital",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -396,9 +396,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "tibaldi-south-food-group",
-    "title": "Tibaldi - South Food Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tibaldi-south-food-group",
+    "slug": "seismic-%E2%80%93-highspot",
+    "title": "Seismic – Highspot",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/seismic-%E2%80%93-highspot",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -408,9 +408,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "regis-%E2%80%93-home-care-business-of-royal-freemasons",
-    "title": "Regis – Home Care Business of Royal Freemasons",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regis-%E2%80%93-home-care-business-of-royal-freemasons",
+    "slug": "blackstone-advanced-cooling-technologies",
+    "title": "Blackstone - Advanced Cooling Technologies",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-advanced-cooling-technologies",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
+    "title": "Tony White Group - Sharton Motors dealerships in Maitland, Port Stephens and Cardiff",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tony-white-group-sharton-motors-dealerships-in-maitland-port-stephens-and-cardiff",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
