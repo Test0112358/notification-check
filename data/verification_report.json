@@ -336,9 +336,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "hexagon-waygate-technologies",
-    "title": "Hexagon - Waygate Technologies",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hexagon-waygate-technologies",
+    "slug": "sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
+    "title": "Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "platinum-equity-group-lmpg",
-    "title": "Platinum Equity Group - LMPG",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-lmpg",
+    "slug": "ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
+    "title": "MA Financial (Redcape Fund) – Seven hospitality venues in NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "jungheinrich-australia-all-lift",
-    "title": "Jungheinrich Australia - All Lift",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift",
+    "slug": "triton-%E2%80%93-flender",
+    "title": "Triton – Flender",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-%E2%80%93-flender",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,21 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
-    "title": "Imagine Education – childcare centres ownership restructure",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-childcare-centres-ownership-restructure",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "export-trading-group-australia-%E2%80%93-pulses-and-grains-business-and-facility-in-mount-tyson-qld",
-    "title": "Export Trading Group Australia – pulses and grains business and facility in Mount Tyson, QLD",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/export-trading-group-australia-%E2%80%93-pulses-and-grains-business-and-facility-in-mount-tyson-qld",
+    "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "title": "Estia Health – AnglicareSA residential aged care business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
