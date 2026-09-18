@@ -1,50 +1,20 @@
 {
-  "run_utc": "2026-09-18T03:52:12.795200Z",
-  "new_count": 0,
-  "changed_count": 4,
+  "run_utc": "2026-09-18T10:48:39.076504Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "perun-tpg-zembl",
+      "title": "Perun (TPG) - Zembl",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/perun-tpg-zembl"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "psp-investments-aaa-egg-company",
-      "title": "PSP Investments - AAA Egg Company",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 September 2026 via email to mergers@accc.gov.au with the title Submission re: PSP Investments – AAA Egg Company. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Sep 2026 Closing date 17 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "danfoss-alfagomma",
-      "title": "Danfoss - Alfagomma",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by dd month year via email to mergers@accc.gov.au with the title Submission re: Danfoss–Alfagomma. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 9 Sep 2026 Closing date 17 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "merck-kgaa-bio-techne",
-      "title": "Merck KGaA / Bio-Techne",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 September 2026 via email to mergers@accc.gov.au with the title Submission re: Merck KGaA–Bio-Techne. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Sep 2026 Closing date 17 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "lone-star-funds-contitech",
-      "title": "Lone Star Funds - ContiTech",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech",
+      "slug": "blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+      "title": "Blackstone funds and Perpetual Trustees – HSBC loan portfolio",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
       "changes": [
         {
           "field": "acquisition_status",
@@ -62,9 +32,19 @@
           "new": "18 September 2026"
         },
         {
+          "field": "acquirers",
+          "old": "ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533; VIRGO BIDCO PTY LTD; 89 699 487 119",
+          "new": "VIRGO BIDCO PTY LTD; 89 699 487 119; ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533"
+        },
+        {
+          "field": "targets",
+          "old": "HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust; Lion Series 2020-1 Trust; Lion Series 2023-1 Trust",
+          "new": "HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2023-1 Trust; Lion Series 2020-1 Trust; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-08-21T16:24:49+10:00",
-          "new": "2026-09-18T11:40:26+10:00"
+          "old": "2026-08-28T14:01:49+10:00",
+          "new": "2026-09-18T16:39:49+10:00"
         },
         {
           "field": "consultation_text",
@@ -74,7 +54,7 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '18 Sep 2026', 'description': 'Lone Star Funds - ContiTech - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Lone%20Star%20-%20ContiTech%20-%20Phase%201%20Determination.pdf'}]"
+          "new": "[{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees – HSBC loan portfolio - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Blackstone%20funds%20and%20Perpetual%20Trustees%20%E2%80%93%20HSBC%20loan%20portfolio%20-%20Phase%201%20determination_0.pdf'}]"
         }
       ]
     }

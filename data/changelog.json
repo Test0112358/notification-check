@@ -32569,5 +32569,62 @@
         "new": "[{'date': '18 Sep 2026', 'description': 'Lone Star Funds - ContiTech - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Lone%20Star%20-%20ContiTech%20-%20Phase%201%20Determination.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-18T10:48:39.076504Z",
+    "slug": "blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+    "title": "Blackstone funds and Perpetual Trustees – HSBC loan portfolio",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 September 2026"
+      },
+      {
+        "field": "acquirers",
+        "old": "ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533; VIRGO BIDCO PTY LTD; 89 699 487 119",
+        "new": "VIRGO BIDCO PTY LTD; 89 699 487 119; ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533"
+      },
+      {
+        "field": "targets",
+        "old": "HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust; Lion Series 2020-1 Trust; Lion Series 2023-1 Trust",
+        "new": "HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2023-1 Trust; Lion Series 2020-1 Trust; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-08-28T14:01:49+10:00",
+        "new": "2026-09-18T16:39:49+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees – HSBC loan portfolio - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Blackstone%20funds%20and%20Perpetual%20Trustees%20%E2%80%93%20HSBC%20loan%20portfolio%20-%20Phase%201%20determination_0.pdf'}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-18T10:48:39.076504Z",
+    "slug": "perun-tpg-zembl",
+    "title": "Perun (TPG) - Zembl",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/perun-tpg-zembl",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
