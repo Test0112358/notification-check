@@ -1,25 +1,83 @@
 {
-  "run_utc": "2026-09-17T11:15:47.353000Z",
-  "new_count": 3,
-  "changed_count": 0,
+  "run_utc": "2026-09-18T03:52:12.795200Z",
+  "new_count": 0,
+  "changed_count": 4,
   "removed_count": 0,
-  "new_entries": [
+  "new_entries": [],
+  "changed_entries": [
     {
-      "slug": "oceanagold-ausgold",
-      "title": "OceanaGold - Ausgold",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oceanagold-ausgold"
+      "slug": "psp-investments-aaa-egg-company",
+      "title": "PSP Investments - AAA Egg Company",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 September 2026 via email to mergers@accc.gov.au with the title Submission re: PSP Investments – AAA Egg Company. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Sep 2026 Closing date 17 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
     },
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-the-clock-hotel-surry-hills-and-the-bank-hotel-newtown-nsw",
-      "title": "Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-clock-hotel-surry-hills-and-the-bank-hotel-newtown-nsw"
+      "slug": "danfoss-alfagomma",
+      "title": "Danfoss - Alfagomma",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by dd month year via email to mergers@accc.gov.au with the title Submission re: Danfoss–Alfagomma. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 9 Sep 2026 Closing date 17 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
     },
     {
-      "slug": "cinven-and-la-caisse-%E2%80%93-optio-group",
-      "title": "Cinven and La Caisse – Optio Group",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cinven-and-la-caisse-%E2%80%93-optio-group"
+      "slug": "merck-kgaa-bio-techne",
+      "title": "Merck KGaA / Bio-Techne",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 September 2026 via email to mergers@accc.gov.au with the title Submission re: Merck KGaA–Bio-Techne. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Sep 2026 Closing date 17 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "lone-star-funds-contitech",
+      "title": "Lone Star Funds - ContiTech",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "18 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-08-21T16:24:49+10:00",
+          "new": "2026-09-18T11:40:26+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '18 Sep 2026', 'description': 'Lone Star Funds - ContiTech - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Lone%20Star%20-%20ContiTech%20-%20Phase%201%20Determination.pdf'}]"
+        }
+      ]
     }
   ],
-  "changed_entries": [],
   "removed_entries": []
 }
