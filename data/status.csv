@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-21 04:02:53.665710,
-Last scrape run (AEST),21 Sep 2026  14:02,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-21 12:20:39.242715,
+Last scrape run (AEST),21 Sep 2026  22:20,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,669,
-New entries this run,0,
-Changed entries this run,3,
+Total entries monitored,671,
+New entries this run,2,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,27 +13,14 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,Consultation Docs,"[{'date': '11 Sep 2026', 'description': 'Questionnaire - Eli Lilly - Merida Biosciences', 'url': 'ht  →  "
+NEW ENTRIES (2),Case Number,URL
++ Global Lithium Resources – IGO Nova Operation,WA-60043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-lithium-resources-%E2%80%93-igo-nova-operation
++ Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apax-funds-%E2%80%93-remy-geiser-gmbh-and-gerresheimer-primary-packaging-plastics-gmbh
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Bupa Health Services - Partnered Health,MN-50028,14 Sep  14:03
-+ EQT Fund Management - Intertek,MN-75045,14 Sep  22:12
-+ Challenger - Channel Capital and Fidante,MN-65033,14 Sep  22:12
-+ Amplitude / OG Energy - Artisan Gas Field,MN-01121,14 Sep  22:12
-"+ Star Hotels Group - Ocean International Hotel, Mackay QLD",WA-15041,14 Sep  22:12
-+ Blackstone - MRC Dickson Holdings,WA-60041,14 Sep  22:12
+NEW ENTRIES (11),Case Number,Detected (AEST)
 + Covetrus — MWI,MN-55037,15 Sep  14:02
 "+ National Dental Care – business assets comprising the Steve King Dental Group, QLD",WA-10036,15 Sep  21:22
 "+ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,15 Sep  21:22
@@ -47,21 +34,6 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Perun (TPG) - Zembl,WA-75050,18 Sep  20:48
 ,,
 "CHANGED ENTRIES (16 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
-~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (14 Sep  14:03)
-,,
-"~ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (14 Sep  14:03)
-,Consultation Docs,"[{'date': '4 Sep 2026', 'description': 'Questionnaire', 'url': 'https://www.accc  →    (14 Sep  14:03)"
-,,
-~ Novonesis – Microbiogen,MN-10030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen
-,Acquisition Status,Under assessment  →  Assessment completed  (14 Sep  14:03)
-,Accc Determination,  →  Approved  (14 Sep  14:03)
-,Determination Publication Date,  →  14 September 2026  (14 Sep  14:03)
-,Last Modified Accc,2026-08-24T13:02:00+10:00  →  2026-09-14T12:24:29+10:00  (14 Sep  14:03)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (14 Sep  14:03)
-,Decisions Docs,"  →  [{'date': '14 Sep 2026', 'description': 'Novonesis - Microbiogen - Phase 1 deter  (14 Sep  14:03)"
-,,
 ~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (15 Sep  14:02)
 ,,
@@ -136,4 +108,14 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-28T14:01:49+10:00  →  2026-09-18T16:39:49+10:00  (18 Sep  20:48)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (18 Sep  20:48)
 ,Decisions Docs,"  →  [{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees  (18 Sep  20:48)"
+,,
+~ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
+,,
+~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
+,,
+~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
+,Consultation Docs,"[{'date': '11 Sep 2026', 'description': 'Questionnaire - Eli Lilly - Merida Bios  →    (21 Sep  14:02)"
 ,,
