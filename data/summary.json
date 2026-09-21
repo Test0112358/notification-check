@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-18T11:12:36.625573Z",
+  "generated_at_utc": "2026-09-21T04:37:08.646942Z",
   "total_entries": 669,
   "by_acquisition_status": {
     "Under assessment": 24,
@@ -25,7 +25,13 @@
       "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
       "title": "Insurance Australia Group – RAC Insurance",
       "end_of_determination_period": "23 Sep 2026",
-      "days_remaining": 5
+      "days_remaining": 2
+    },
+    {
+      "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+      "title": "L'Oréal – Gucci Beauty Licence",
+      "end_of_determination_period": "30 Sep 2026",
+      "days_remaining": 9
     }
   ]
 }

@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-18 10:48:39.076504,
-Last scrape run (AEST),18 Sep 2026  20:48,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-21 04:02:53.665710,
+Last scrape run (AEST),21 Sep 2026  14:02,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,669,
-New entries this run,1,
-Changed entries this run,1,
+New entries this run,0,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,27 +13,21 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Perun (TPG) - Zembl,WA-75050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/perun-tpg-zembl
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  18 September 2026
-,Acquirers,ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533; VIRGO BIDCO   →  VIRGO BIDCO PTY LTD; 89 699 487 119; ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST 
-,Targets,HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust; Lio  →  HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2023-1 Trust; Lion Series 2020-1 Trust; Lio
-,Last Modified Accc,2026-08-28T14:01:49+10:00  →  2026-09-18T16:39:49+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees – HSBC loan portfol"
+~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,Consultation Docs,"[{'date': '11 Sep 2026', 'description': 'Questionnaire - Eli Lilly - Merida Biosciences', 'url': 'ht  →  "
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (19),Case Number,Detected (AEST)
-+ Pacific Investment Management Company – Ingenico,WA-85045,11 Sep  20:52
-"+ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,11 Sep  20:52
-+ Alceon – Engage Squared,WA-50037,11 Sep  20:52
+NEW ENTRIES (17),Case Number,Detected (AEST)
 + Bupa Health Services - Partnered Health,MN-50028,14 Sep  14:03
 + EQT Fund Management - Intertek,MN-75045,14 Sep  22:12
 + Challenger - Channel Capital and Fidante,MN-65033,14 Sep  22:12
@@ -50,29 +44,9 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 + OceanaGold - Ausgold,WA-95041,17 Sep  21:15
 "+ Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",WA-10033,17 Sep  21:15
 + Cinven and La Caisse – Optio Group,WA-65034,17 Sep  21:15
++ Perun (TPG) - Zembl,WA-75050,18 Sep  20:48
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Bloomberg - Canoe Intelligence,MN-40039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bloomberg-canoe-intelligence
-,Acquisition Status,Under assessment  →  Assessment completed  (11 Sep  20:52)
-,Accc Determination,  →  Approved  (11 Sep  20:52)
-,Determination Publication Date,  →  11 September 2026  (11 Sep  20:52)
-,Last Modified Accc,2026-08-31T12:22:26+10:00  →  2026-09-11T16:01:54+10:00  (11 Sep  20:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (11 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Bloomberg - Canoe Intelligence - Phase   (11 Sep  20:52)"
-,,
-~ Lockheed Martin Corporation – Ultra Maritime,MN-75041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lockheed-martin-corporation-%E2%80%93-ultra-maritime
-,Acquisition Status,Under assessment  →  Assessment completed  (11 Sep  20:52)
-,Accc Determination,  →  Approved  (11 Sep  20:52)
-,Determination Publication Date,  →  11 September 2026  (11 Sep  20:52)
-,Last Modified Accc,2026-08-21T13:55:44+10:00  →  2026-09-11T14:57:51+10:00  (11 Sep  20:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC's qu  →    (11 Sep  20:52)
-,Decisions Docs,"  →  [{'date': '11 Sep 2026', 'description': 'Lockheed Martin - Ultra Maritime - Phas  (11 Sep  20:52)"
-,,
-~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saipem-spa-subsea7-sa
-,End Of Determination Period,10 Nov 2026  →  1 Dec 2026  (11 Sep  20:52)
-,Last Modified Accc,2026-08-10T16:02:39+10:00  →  2026-09-11T14:44:47+10:00  (11 Sep  20:52)
-,Decisions Docs,"[{'date': '10 Aug 2026', 'description': 'Summary of Notice of Competition Concer  →  [{'date': '11 Sep 2026', 'description': ""Timeline extended by 15 business days –  (11 Sep  20:52)"
-,,
+"CHANGED ENTRIES (16 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (14 Sep  14:03)
 ,,
@@ -152,4 +126,14 @@ NEW ENTRIES (19),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-21T16:24:49+10:00  →  2026-09-18T11:40:26+10:00  (18 Sep  13:52)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (18 Sep  13:52)
 ,Decisions Docs,"  →  [{'date': '18 Sep 2026', 'description': 'Lone Star Funds - ContiTech - Phase 1 d  (18 Sep  13:52)"
+,,
+~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
+,Acquisition Status,Under assessment  →  Assessment completed  (18 Sep  20:48)
+,Accc Determination,  →  Approved  (18 Sep  20:48)
+,Determination Publication Date,  →  18 September 2026  (18 Sep  20:48)
+,Acquirers,ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 3  →  VIRGO BIDCO PTY LTD; 89 699 487 119; ABF Whole Loan Pty Ltd; 699 486 167; PERPET  (18 Sep  20:48)
+,Targets,HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2024-1 Trust; Lion Seri  →  HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2023-1 Trust; Lion Seri  (18 Sep  20:48)
+,Last Modified Accc,2026-08-28T14:01:49+10:00  →  2026-09-18T16:39:49+10:00  (18 Sep  20:48)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (18 Sep  20:48)
+,Decisions Docs,"  →  [{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees  (18 Sep  20:48)"
 ,,

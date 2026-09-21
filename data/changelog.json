@@ -32626,5 +32626,52 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/perun-tpg-zembl",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-21T04:02:53.665710Z",
+    "slug": "alcoa-%E2%80%93-south32-aluminium-assets",
+    "title": "Alcoa – South32 aluminium assets",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 September 2026 via email to mergers@accc.gov.au with the title Submission re: Alcoa - South32's aluminium assets. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Sep 2026 Closing date 18 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-21T04:02:53.665710Z",
+    "slug": "eneos-%E2%80%93-chevron-australia-downstream",
+    "title": "ENEOS – Chevron Australia Downstream",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 September 2026 via email to mergers@accc.gov.au with the title ‘Submission re: ENEOS – Chevron Australia Downstream’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 11 Sep 2026 Closing date 18 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-21T04:02:53.665710Z",
+    "slug": "eli-lilly-%E2%80%93-merida-biosciences",
+    "title": "Eli Lilly – Merida Biosciences",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 September 2026 via email to mergers@accc.gov.au with the title Submission re: Eli Lilly - Merida Biosciences. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 11 Sep 2026 Closing date 18 Sep 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '11 Sep 2026', 'description': 'Questionnaire - Eli Lilly - Merida Biosciences', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Questionnaire%20-%20Eli%20Lilly%20-%20Merida.docx'}]",
+        "new": ""
+      }
+    ]
   }
 ]

@@ -1,60 +1,48 @@
 {
-  "run_utc": "2026-09-18T10:48:39.076504Z",
-  "new_count": 1,
-  "changed_count": 1,
+  "run_utc": "2026-09-21T04:02:53.665710Z",
+  "new_count": 0,
+  "changed_count": 3,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "perun-tpg-zembl",
-      "title": "Perun (TPG) - Zembl",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/perun-tpg-zembl"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
-      "title": "Blackstone funds and Perpetual Trustees – HSBC loan portfolio",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio",
+      "slug": "alcoa-%E2%80%93-south32-aluminium-assets",
+      "title": "Alcoa – South32 aluminium assets",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "18 September 2026"
-        },
-        {
-          "field": "acquirers",
-          "old": "ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533; VIRGO BIDCO PTY LTD; 89 699 487 119",
-          "new": "VIRGO BIDCO PTY LTD; 89 699 487 119; ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 341 533"
-        },
-        {
-          "field": "targets",
-          "old": "HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust; Lion Series 2020-1 Trust; Lion Series 2023-1 Trust",
-          "new": "HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2023-1 Trust; Lion Series 2020-1 Trust; Lion Series 2024-1 Trust; Lion Series 2022-1 Trust"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-08-28T14:01:49+10:00",
-          "new": "2026-09-18T16:39:49+10:00"
-        },
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 September 2026 via email to mergers@accc.gov.au with the title Submission re: Alcoa - South32's aluminium assets. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Sep 2026 Closing date 18 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "eneos-%E2%80%93-chevron-australia-downstream",
+      "title": "ENEOS – Chevron Australia Downstream",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream",
+      "changes": [
         {
           "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 September 2026 via email to mergers@accc.gov.au with the title ‘Submission re: ENEOS – Chevron Australia Downstream’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 11 Sep 2026 Closing date 18 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "eli-lilly-%E2%80%93-merida-biosciences",
+      "title": "Eli Lilly – Merida Biosciences",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 September 2026 via email to mergers@accc.gov.au with the title Submission re: Eli Lilly - Merida Biosciences. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 11 Sep 2026 Closing date 18 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
         },
         {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees – HSBC loan portfolio - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Blackstone%20funds%20and%20Perpetual%20Trustees%20%E2%80%93%20HSBC%20loan%20portfolio%20-%20Phase%201%20determination_0.pdf'}]"
+          "field": "consultation_docs",
+          "old": "[{'date': '11 Sep 2026', 'description': 'Questionnaire - Eli Lilly - Merida Biosciences', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Questionnaire%20-%20Eli%20Lilly%20-%20Merida.docx'}]",
+          "new": ""
         }
       ]
     }
