@@ -336,9 +336,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "jungheinrich-australia-all-lift",
-    "title": "Jungheinrich Australia - All Lift",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift",
+    "slug": "ey-australia-australian-ey-fusion-business",
+    "title": "EY Australia - Australian EY Fusion business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ey-australia-australian-ey-fusion-business",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "coles-paydock",
-    "title": "Coles - Paydock",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-paydock",
+    "slug": "ochre-health-airlie-womens-clinic-vic",
+    "title": "Ochre Health - Airlie Women's Clinic, VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-airlie-womens-clinic-vic",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
-    "title": "McDonald’s Australia – McDonald’s Restaurants in Bankstown and Yagoona, NSW",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
+    "slug": "argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
+    "title": "Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
-    "title": "MA Financial (Redcape Fund) – Seven hospitality venues in NSW",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
+    "slug": "count-%E2%80%93-oracle-group",
+    "title": "Count – Oracle Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/count-%E2%80%93-oracle-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -384,9 +384,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
-    "title": "Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
+    "slug": "online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
+    "title": "Online Education Services – South Australian Institute of Business and Technology",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -396,9 +396,45 @@
     "expected_or_found": ""
   },
   {
-    "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
-    "title": "Estia Health – AnglicareSA residential aged care business",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "slug": "xylem-trios",
+    "title": "Xylem - TriOS",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-trios",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "american-industrial-partners-avanos-medical",
+    "title": "American Industrial Partners - Avanos Medical",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/american-industrial-partners-avanos-medical",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "novartis-excellergy",
+    "title": "Novartis - Excellergy",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novartis-excellergy",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group",
+    "title": "HongShan Capital Group and Temasek – Golden Goose Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
