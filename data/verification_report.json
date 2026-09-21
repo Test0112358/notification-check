@@ -336,9 +336,33 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
-    "title": "Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
+    "slug": "jungheinrich-australia-all-lift",
+    "title": "Jungheinrich Australia - All Lift",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "coles-paydock",
+    "title": "Coles - Paydock",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-paydock",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
+    "title": "McDonald’s Australia – McDonald’s Restaurants in Bankstown and Yagoona, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mcdonald%E2%80%99s-australia-%E2%80%93-mcdonald%E2%80%99s-restaurants-in-bankstown-and-yagoona-nsw",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +384,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "triton-%E2%80%93-flender",
-    "title": "Triton – Flender",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-%E2%80%93-flender",
+    "slug": "sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
+    "title": "Sumitomo Mitsui Trust Bank - SMTB ANZ Debt Fund",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-smtb-anz-debt-fund",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
