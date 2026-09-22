@@ -32795,5 +32795,56 @@
         "new": "[{'date': '22 Sep 2026', 'description': \"L'Oréal – Gucci Beauty Licence - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/L%27Or%C3%A9al%20%E2%80%93%20Gucci%20Beauty%20Licence%20%20-%20Phase%201%20determination_0.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-22T11:11:54.452193Z",
+    "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-integrated-dental-health-clinic-katoomba-nsw",
+    "title": "National Dental Care – business assets comprising the Integrated Dental Health clinic, Katoomba, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-integrated-dental-health-clinic-katoomba-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-22T11:11:54.452193Z",
+    "slug": "advent-%E2%80%93-nzcr-group-holdings",
+    "title": "Advent – NZCR Group Holdings",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-%E2%80%93-nzcr-group-holdings",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-22T11:11:54.452193Z",
+    "slug": "national-dental-care-grove-village-dental-centre-south-australia",
+    "title": "National Dental Care - Grove Village Dental Centre, South Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "15 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-15T16:45:13+10:00",
+        "new": "2026-09-22T15:53:25+10:00"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-22T11:11:54.452193Z",
+    "slug": "rest-%E2%80%93-quinbrook-iii-partnership-and-quinbrook-iii-au-co-investment-trust",
+    "title": "REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-%E2%80%93-quinbrook-iii-partnership-and-quinbrook-iii-au-co-investment-trust",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-22T11:11:54.452193Z",
+    "slug": "steamatic-australia-%E2%80%93-steamatic-epsom-franchisee",
+    "title": "Steamatic Australia – Steamatic Epsom franchisee",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]

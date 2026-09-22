@@ -1,98 +1,45 @@
 {
-  "run_utc": "2026-09-22T04:00:03.299988Z",
-  "new_count": 2,
-  "changed_count": 5,
+  "run_utc": "2026-09-22T11:11:54.452193Z",
+  "new_count": 4,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "calvary-%E2%80%93-southern-cross-care-tasmania",
-      "title": "Calvary – Southern Cross Care (Tasmania)",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania"
+      "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-integrated-dental-health-clinic-katoomba-nsw",
+      "title": "National Dental Care – business assets comprising the Integrated Dental Health clinic, Katoomba, NSW",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-integrated-dental-health-clinic-katoomba-nsw"
     },
     {
-      "slug": "nielsen-doubleverify",
-      "title": "Nielsen - DoubleVerify",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify"
+      "slug": "advent-%E2%80%93-nzcr-group-holdings",
+      "title": "Advent – NZCR Group Holdings",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-%E2%80%93-nzcr-group-holdings"
+    },
+    {
+      "slug": "rest-%E2%80%93-quinbrook-iii-partnership-and-quinbrook-iii-au-co-investment-trust",
+      "title": "REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-%E2%80%93-quinbrook-iii-partnership-and-quinbrook-iii-au-co-investment-trust"
+    },
+    {
+      "slug": "steamatic-australia-%E2%80%93-steamatic-epsom-franchisee",
+      "title": "Steamatic Australia – Steamatic Epsom franchisee",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee"
     }
   ],
   "changed_entries": [
     {
-      "slug": "eqt-fund-management-intertek",
-      "title": "EQT Fund Management - Intertek",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek",
+      "slug": "national-dental-care-grove-village-dental-centre-south-australia",
+      "title": "National Dental Care - Grove Village Dental Centre, South Australia",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia",
       "changes": [
         {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 21 September 2026 via email to mergers@accc.gov.au with the title Submission re: EQT Fund Management - Intertek. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 14 Sep 2026 Closing date 21 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "challenger-channel-capital-and-fidante",
-      "title": "Challenger - Channel Capital and Fidante",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 21 September 2026 via email to mergers@accc.gov.au with the title Submission re: Challenger - Channel Capital and Fidante. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited Open date 14 Sep 2026 Closing date 21 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "amplitude-og-energy-artisan-gas-field",
-      "title": "Amplitude / OG Energy - Artisan Gas Field",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 21 September 2026 via email to mergers@accc.gov.au with the title ‘Submission re: Amplitude / OG Energy – Artisan Gas Field’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 14 Sep 2026 Closing date 21 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "bupa-health-services-partnered-health",
-      "title": "Bupa Health Services - Partnered Health",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 21 September 2026 via email to mergers@accc.gov.au with the title Submission re: Bupa – Partnered Health. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 14 Sep 2026 Closing date 21 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
-      "title": "L'Oréal – Gucci Beauty Licence",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
+          "field": "determination_publication_date",
           "old": "",
-          "new": "Approved"
+          "new": "15 September 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-21T11:36:17+10:00",
-          "new": "2026-09-22T12:51:59+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '22 Sep 2026', 'description': \"L'Oréal – Gucci Beauty Licence - Phase 1 determination\", 'url': 'https://www.accc.gov.au/system/files/moderated_files/L%27Or%C3%A9al%20%E2%80%93%20Gucci%20Beauty%20Licence%20%20-%20Phase%201%20determination_0.pdf'}]"
+          "old": "2026-09-15T16:45:13+10:00",
+          "new": "2026-09-22T15:53:25+10:00"
         }
       ]
     }
