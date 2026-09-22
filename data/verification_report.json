@@ -24,6 +24,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+    "title": "L'Oréal – Gucci Beauty Licence",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "oeconnection-epyx",
     "title": "OEConnection - Epyx",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oeconnection-epyx",
@@ -336,9 +348,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "ey-australia-australian-ey-fusion-business",
-    "title": "EY Australia - Australian EY Fusion business",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ey-australia-australian-ey-fusion-business",
+    "slug": "redwood-services-group-%E2%80%93-newtrend-it-specialists",
+    "title": "Redwood Services Group – Newtrend I.T. Specialists",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "ochre-health-airlie-womens-clinic-vic",
-    "title": "Ochre Health - Airlie Women's Clinic, VIC",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-airlie-womens-clinic-vic",
+    "slug": "egis-projects-asia-pacific-fulton-hogan-egis-om",
+    "title": "Egis Projects Asia Pacific - Fulton Hogan Egis O&M",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/egis-projects-asia-pacific-fulton-hogan-egis-om",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
-    "title": "Argo Bowen 2 – Bowen Coking Coal and certain subsidiaries",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/argo-bowen-2-%E2%80%93-bowen-coking-coal-and-certain-subsidiaries",
+    "slug": "redwood-services-group-%E2%80%93-all-it-australia",
+    "title": "Redwood Services Group – All IT Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +384,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "count-%E2%80%93-oracle-group",
-    "title": "Count – Oracle Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/count-%E2%80%93-oracle-group",
+    "slug": "mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
+    "title": "Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -384,57 +396,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
-    "title": "Online Education Services – South Australian Institute of Business and Technology",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/online-education-services-%E2%80%93-south-australian-institute-of-business-and-technology",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "xylem-trios",
-    "title": "Xylem - TriOS",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-trios",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "american-industrial-partners-avanos-medical",
-    "title": "American Industrial Partners - Avanos Medical",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/american-industrial-partners-avanos-medical",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "novartis-excellergy",
-    "title": "Novartis - Excellergy",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novartis-excellergy",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group",
-    "title": "HongShan Capital Group and Temasek – Golden Goose Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hongshan-capital-group-and-temasek-%E2%80%93-golden-goose-group",
+    "slug": "kfw-%E2%80%93-knds-nv",
+    "title": "KfW – KNDS N.V.",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
