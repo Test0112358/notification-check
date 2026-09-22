@@ -12,18 +12,6 @@
     "expected_or_found": "non-empty"
   },
   {
-    "slug": "national-dental-care-grove-village-dental-centre-south-australia",
-    "title": "National Dental Care - Grove Village Dental Centre, South Australia",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
     "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
     "title": "L'Oréal – Gucci Beauty Licence",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
@@ -348,9 +336,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "redwood-services-group-%E2%80%93-newtrend-it-specialists",
-    "title": "Redwood Services Group – Newtrend I.T. Specialists",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-newtrend-it-specialists",
+    "slug": "regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
+    "title": "Regional Australia Bank – South West Slopes Credit Union",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "egis-projects-asia-pacific-fulton-hogan-egis-om",
-    "title": "Egis Projects Asia Pacific - Fulton Hogan Egis O&M",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/egis-projects-asia-pacific-fulton-hogan-egis-om",
+    "slug": "osmoflo-water-management-guidera-oconnor",
+    "title": "Osmoflo Water Management - Guidera O'Connor",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,33 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "redwood-services-group-%E2%80%93-all-it-australia",
-    "title": "Redwood Services Group – All IT Australia",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-all-it-australia",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
-    "title": "Mercer Investments (Australia) Limited– Stockland Residential Rental Partnership",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mercer-investments-australia-limited%E2%80%93-stockland-residential-rental-partnership",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "kfw-%E2%80%93-knds-nv",
-    "title": "KfW – KNDS N.V.",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kfw-%E2%80%93-knds-nv",
+    "slug": "the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
+    "title": "The State of Western Australia – Mount Lawley Hospital",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
