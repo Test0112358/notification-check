@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-21 12:20:39.242715,
-Last scrape run (AEST),21 Sep 2026  22:20,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-22 04:00:03.299988,
+Last scrape run (AEST),22 Sep 2026  14:00,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,671,
+Total entries monitored,673,
 New entries this run,2,
-Changed entries this run,0,
+Changed entries this run,5,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,13 +14,33 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (2),Case Number,URL
-+ Global Lithium Resources – IGO Nova Operation,WA-60043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-lithium-resources-%E2%80%93-igo-nova-operation
-+ Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apax-funds-%E2%80%93-remy-geiser-gmbh-and-gerresheimer-primary-packaging-plastics-gmbh
++ Calvary – Southern Cross Care (Tasmania),MN-20039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania
++ Nielsen - DoubleVerify,MN-55036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify
+,,
+CHANGED ENTRIES (5),Field changed,Old value  →  New value
+~ EQT Fund Management - Intertek,MN-75045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ Bupa Health Services - Partnered Health,MN-50028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+,,
+~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Last Modified Accc,2026-08-21T11:36:17+10:00  →  2026-09-22T12:51:59+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '22 Sep 2026', 'description': ""L'Oréal – Gucci Beauty Licence - Phase 1 determination"", 'u"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (11),Case Number,Detected (AEST)
+NEW ENTRIES (13),Case Number,Detected (AEST)
 + Covetrus — MWI,MN-55037,15 Sep  14:02
 "+ National Dental Care – business assets comprising the Steve King Dental Group, QLD",WA-10036,15 Sep  21:22
 "+ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,15 Sep  21:22
@@ -32,6 +52,8 @@ NEW ENTRIES (11),Case Number,Detected (AEST)
 "+ Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",WA-10033,17 Sep  21:15
 + Cinven and La Caisse – Optio Group,WA-65034,17 Sep  21:15
 + Perun (TPG) - Zembl,WA-75050,18 Sep  20:48
++ Global Lithium Resources – IGO Nova Operation,WA-60043,21 Sep  22:20
++ Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,21 Sep  22:20
 ,,
 "CHANGED ENTRIES (16 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control

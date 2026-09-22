@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-09-21T12:45:48.743965Z",
-  "total_entries": 671,
+  "generated_at_utc": "2026-09-22T04:32:22.164543Z",
+  "total_entries": 673,
   "by_acquisition_status": {
-    "Under assessment": 24,
-    "Assessment completed": 642,
+    "Under assessment": 25,
+    "Assessment completed": 643,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 250,
+    "Phase 1 - initial assessment": 252,
     "Waiver application": 412,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 259,
+    "Notification": 261,
     "Waiver": 412
   },
   "by_accc_determination": {
-    "Approved": 616,
+    "Approved": 617,
     "Not approved": 21,
     "Approved with conditions": 5
   },
@@ -25,13 +25,7 @@
       "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
       "title": "Insurance Australia Group – RAC Insurance",
       "end_of_determination_period": "23 Sep 2026",
-      "days_remaining": 2
-    },
-    {
-      "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
-      "title": "L'Oréal – Gucci Beauty Licence",
-      "end_of_determination_period": "30 Sep 2026",
-      "days_remaining": 9
+      "days_remaining": 1
     }
   ]
 }
