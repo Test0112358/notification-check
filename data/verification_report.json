@@ -168,18 +168,6 @@
     "expected_or_found": "non-empty"
   },
   {
-    "slug": "siemens-mobility-mermec",
-    "title": "Siemens Mobility - MerMec",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/siemens-mobility-mermec",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
     "slug": "motorola-solutions-d-fend-solutions",
     "title": "Motorola Solutions - D-Fend Solutions",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
@@ -348,9 +336,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "wesfarmers-and-built-group-built-living-joint-venture",
-    "title": "Wesfarmers and Built Group - Built Living Joint Venture",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+    "slug": "siemens-mobility-mermec",
+    "title": "Siemens Mobility - MerMec",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/siemens-mobility-mermec",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "siemens-mobility-mermec",
+    "title": "Siemens Mobility - MerMec",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/siemens-mobility-mermec",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9",
-    "title": "L’Oréal – Kering Beauté",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9",
+    "slug": "amazon-%E2%80%93-globalstar",
+    "title": "Amazon – Globalstar",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amazon-%E2%80%93-globalstar",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital",
-    "title": "International Parking Group – car park at St John of God Murdoch Hospital",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital",
+    "slug": "origin-%E2%80%93-climatech-zero",
+    "title": "Origin – Climatech Zero",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/origin-%E2%80%93-climatech-zero",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -384,9 +384,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "axdi-minority-interest-in-la-trobe-financial",
-    "title": "AXDI - minority interest in La Trobe Financial",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
+    "slug": "energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
+    "title": "Energy Bay - certain assets required to operate embedded networks for Centuria Capital Group members",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/energy-bay-certain-assets-required-to-operate-embedded-networks-for-centuria-capital-group-members",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "austral-resources-australia-%E2%80%93-lady-loretta-mine",
+    "title": "Austral Resources Australia – Lady Loretta mine",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/austral-resources-australia-%E2%80%93-lady-loretta-mine",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
