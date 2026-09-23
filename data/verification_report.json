@@ -300,6 +300,18 @@
     "expected_or_found": "non-empty"
   },
   {
+    "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+    "title": "Insurance Australia Group – RAC Insurance",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
     "slug": "google-wiz",
     "title": "Google - Wiz",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/google-wiz",
@@ -336,9 +348,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
-    "title": "Regional Australia Bank – South West Slopes Credit Union",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regional-australia-bank-%E2%80%93-south-west-slopes-credit-union",
+    "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+    "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "osmoflo-water-management-guidera-oconnor",
-    "title": "Osmoflo Water Management - Guidera O'Connor",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/osmoflo-water-management-guidera-oconnor",
+    "slug": "l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9",
+    "title": "L’Oréal – Kering Beauté",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/l%E2%80%99or%C3%A9al-%E2%80%93-kering-beaut%C3%A9",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +372,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
-    "title": "The State of Western Australia – Mount Lawley Hospital",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-state-of-western-australia-%E2%80%93-mount-lawley-hospital",
+    "slug": "international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital",
+    "title": "International Parking Group – car park at St John of God Murdoch Hospital",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/international-parking-group-%E2%80%93-car-park-at-st-john-of-god-murdoch-hospital",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "axdi-minority-interest-in-la-trobe-financial",
+    "title": "AXDI - minority interest in La Trobe Financial",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/axdi-minority-interest-in-la-trobe-financial",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
