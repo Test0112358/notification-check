@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-23 03:57:21.573234,
-Last scrape run (AEST),23 Sep 2026  13:57,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-23 11:03:28.306259,
+Last scrape run (AEST),23 Sep 2026  21:03,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,677,
 New entries this run,0,
-Changed entries this run,2,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,16 +13,14 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
-~ Covetrus — MWI,MN-55037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
 ,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Not approved
-,Targets,RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  →  RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882
-,Last Modified Accc,2026-08-06T16:47:45+10:00  →  2026-09-23T09:50:30+10:00
-,Decisions Docs,"[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request f  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  23 September 2026
+,Last Modified Accc,2026-09-03T09:46:54+10:00  →  2026-09-23T16:46:03+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1 determination', 'ur"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
@@ -44,17 +42,6 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 + Steamatic Australia – Steamatic Epsom franchisee,WA-35044,22 Sep  21:11
 ,,
 "CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ Hyne Pallets - Advance Pallets,MN-75043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hyne-pallets-advance-pallets
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (16 Sep  13:59)
-,,
-~ WSP - e2m,MN-35038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wsp-e2m
-,Acquisition Status,Under assessment  →  Assessment completed  (16 Sep  13:59)
-,Accc Determination,  →  Approved  (16 Sep  13:59)
-,Determination Publication Date,  →  16 September 2026  (16 Sep  13:59)
-,Last Modified Accc,2026-08-27T11:58:43+10:00  →  2026-09-16T11:01:40+10:00  (16 Sep  13:59)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (16 Sep  13:59)
-,Decisions Docs,"  →  [{'date': '16 Sep 2026', 'description': 'WSP – e2m – Phase 1 determination', 'ur  (16 Sep  13:59)"
-,,
 ~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (17 Sep  14:06)
 ,,
@@ -122,4 +109,14 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 "~ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia
 ,Determination Publication Date,  →  15 September 2026  (22 Sep  21:11)
 ,Last Modified Accc,2026-09-15T16:45:13+10:00  →  2026-09-22T15:53:25+10:00  (22 Sep  21:11)
+,,
+~ Covetrus — MWI,MN-55037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (23 Sep  13:57)
+,,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Acquisition Status,Under assessment  →  Assessment completed  (23 Sep  13:57)
+,Accc Determination,  →  Not approved  (23 Sep  13:57)
+,Targets,RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  →  RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  (23 Sep  13:57)
+,Last Modified Accc,2026-08-06T16:47:45+10:00  →  2026-09-23T09:50:30+10:00  (23 Sep  13:57)
+,Decisions Docs,"[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (23 Sep  13:57)"
 ,,

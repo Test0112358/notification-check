@@ -32894,5 +32894,44 @@
         "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-23T11:03:28.306259Z",
+    "slug": "i-squared-capital-%E2%80%93-oohmedia",
+    "title": "I Squared Capital – oOh!media",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "23 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-03T09:46:54+10:00",
+        "new": "2026-09-23T16:46:03+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/I%20Squared%20Capital%20-%20oOh%21media%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]

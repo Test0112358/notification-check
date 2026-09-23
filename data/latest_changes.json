@@ -1,26 +1,14 @@
 {
-  "run_utc": "2026-09-23T03:57:21.573234Z",
+  "run_utc": "2026-09-23T11:03:28.306259Z",
   "new_count": 0,
-  "changed_count": 2,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [],
   "changed_entries": [
     {
-      "slug": "covetrus-%E2%80%94-mwi",
-      "title": "Covetrus — MWI",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 22 September 2026 via email to mergers@accc.gov.au with the title Submission re: Covetrus - MWI Animal Health. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 15 Sep 2026 Closing date 22 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "slug": "i-squared-capital-%E2%80%93-oohmedia",
+      "title": "I Squared Capital – oOh!media",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia",
       "changes": [
         {
           "field": "acquisition_status",
@@ -30,22 +18,27 @@
         {
           "field": "accc_determination",
           "old": "",
-          "new": "Not approved"
+          "new": "Approved"
         },
         {
-          "field": "targets",
-          "old": "RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805",
-          "new": "RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882"
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "23 September 2026"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-08-06T16:47:45+10:00",
-          "new": "2026-09-23T09:50:30+10:00"
+          "old": "2026-09-03T09:46:54+10:00",
+          "new": "2026-09-23T16:46:03+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_2.pdf'}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}]",
-          "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons.pdf'}]"
+          "old": "",
+          "new": "[{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/I%20Squared%20Capital%20-%20oOh%21media%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }
