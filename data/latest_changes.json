@@ -1,45 +1,51 @@
 {
-  "run_utc": "2026-09-22T11:11:54.452193Z",
-  "new_count": 4,
-  "changed_count": 1,
+  "run_utc": "2026-09-23T03:57:21.573234Z",
+  "new_count": 0,
+  "changed_count": 2,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "national-dental-care-%E2%80%93-business-assets-comprising-the-integrated-dental-health-clinic-katoomba-nsw",
-      "title": "National Dental Care – business assets comprising the Integrated Dental Health clinic, Katoomba, NSW",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-integrated-dental-health-clinic-katoomba-nsw"
-    },
-    {
-      "slug": "advent-%E2%80%93-nzcr-group-holdings",
-      "title": "Advent – NZCR Group Holdings",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-%E2%80%93-nzcr-group-holdings"
-    },
-    {
-      "slug": "rest-%E2%80%93-quinbrook-iii-partnership-and-quinbrook-iii-au-co-investment-trust",
-      "title": "REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-%E2%80%93-quinbrook-iii-partnership-and-quinbrook-iii-au-co-investment-trust"
-    },
-    {
-      "slug": "steamatic-australia-%E2%80%93-steamatic-epsom-franchisee",
-      "title": "Steamatic Australia – Steamatic Epsom franchisee",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "national-dental-care-grove-village-dental-centre-south-australia",
-      "title": "National Dental Care - Grove Village Dental Centre, South Australia",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia",
+      "slug": "covetrus-%E2%80%94-mwi",
+      "title": "Covetrus — MWI",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi",
       "changes": [
         {
-          "field": "determination_publication_date",
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 22 September 2026 via email to mergers@accc.gov.au with the title Submission re: Covetrus - MWI Animal Health. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 15 Sep 2026 Closing date 22 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+      "title": "Insurance Australia Group – RAC Insurance",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
           "old": "",
-          "new": "15 September 2026"
+          "new": "Not approved"
+        },
+        {
+          "field": "targets",
+          "old": "RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805",
+          "new": "RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882"
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-09-15T16:45:13+10:00",
-          "new": "2026-09-22T15:53:25+10:00"
+          "old": "2026-08-06T16:47:45+10:00",
+          "new": "2026-09-23T09:50:30+10:00"
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_2.pdf'}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/public-merger-register/documents/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}]",
+          "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons.pdf'}]"
         }
       ]
     }
