@@ -1,7 +1,7 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-23 11:03:28.306259,
-Last scrape run (AEST),23 Sep 2026  21:03,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-24 03:50:52.202474,
+Last scrape run (AEST),24 Sep 2026  13:50,UTC + 10 hrs (no DST adjustment)
 ,,
 Total entries monitored,677,
 New entries this run,0,
@@ -14,20 +14,13 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 CHANGED ENTRIES (1),Field changed,Old value  →  New value
-~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  23 September 2026
-,Last Modified Accc,2026-09-03T09:46:54+10:00  →  2026-09-23T16:46:03+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1 determination', 'ur"
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (14),Case Number,Detected (AEST)
-+ Oakley Capital – Graphwise,WA-75053,16 Sep  21:06
-+ Sims – business assets of OneStop Metal Recycling in TAS,WA-80040,16 Sep  21:06
+NEW ENTRIES (12),Case Number,Detected (AEST)
 + OceanaGold - Ausgold,WA-95041,17 Sep  21:15
 "+ Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",WA-10033,17 Sep  21:15
 + Cinven and La Caisse – Optio Group,WA-65034,17 Sep  21:15
@@ -41,7 +34,7 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 + REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust,WA-35047,22 Sep  21:11
 + Steamatic Australia – Steamatic Epsom franchisee,WA-35044,22 Sep  21:11
 ,,
-"CHANGED ENTRIES (18 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (17 Sep  14:06)
 ,,
@@ -119,4 +112,12 @@ NEW ENTRIES (14),Case Number,Detected (AEST)
 ,Targets,RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  →  RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  (23 Sep  13:57)
 ,Last Modified Accc,2026-08-06T16:47:45+10:00  →  2026-09-23T09:50:30+10:00  (23 Sep  13:57)
 ,Decisions Docs,"[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (23 Sep  13:57)"
+,,
+~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
+,Acquisition Status,Under assessment  →  Assessment completed  (23 Sep  21:03)
+,Accc Determination,  →  Approved  (23 Sep  21:03)
+,Determination Publication Date,  →  23 September 2026  (23 Sep  21:03)
+,Last Modified Accc,2026-09-03T09:46:54+10:00  →  2026-09-23T16:46:03+10:00  (23 Sep  21:03)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (23 Sep  21:03)
+,Decisions Docs,"  →  [{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1  (23 Sep  21:03)"
 ,,
