@@ -1,19 +1,104 @@
 {
-  "run_utc": "2026-09-24T03:50:52.202474Z",
-  "new_count": 0,
-  "changed_count": 1,
+  "run_utc": "2026-09-24T11:21:19.929798Z",
+  "new_count": 8,
+  "changed_count": 3,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "imagine-education-%E2%80%93-eden-academy",
+      "title": "Imagine Education – Eden Academy",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy"
+    },
+    {
+      "slug": "jaybro-%E2%80%93-fastway-civil-supplies",
+      "title": "Jaybro – Fastway Civil Supplies",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jaybro-%E2%80%93-fastway-civil-supplies"
+    },
+    {
+      "slug": "sumitomo-mitsui-trust-bank-%E2%80%93-morrison",
+      "title": "Sumitomo Mitsui Trust Bank – Morrison",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-%E2%80%93-morrison"
+    },
+    {
+      "slug": "sinopec-%E2%80%93-park-fuels",
+      "title": "Sinopec – Park Fuels",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sinopec-%E2%80%93-park-fuels"
+    },
+    {
+      "slug": "digitalbridge-%E2%80%93-plus-es-smart-metering-division",
+      "title": "DigitalBridge – PLUS ES smart metering division",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/digitalbridge-%E2%80%93-plus-es-smart-metering-division"
+    },
+    {
+      "slug": "partners-group-%E2%80%93-aroma-zone",
+      "title": "Partners Group – Aroma-Zone",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/partners-group-%E2%80%93-aroma-zone"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth",
+      "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth"
+    },
+    {
+      "slug": "the-disability-trust-lead-disability-services",
+      "title": "The Disability Trust - LEAD Disability Services",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-disability-trust-lead-disability-services"
+    }
+  ],
   "changed_entries": [
+    {
+      "slug": "steamatic-australia-%E2%80%93-steamatic-epsom-franchisee",
+      "title": "Steamatic Australia – Steamatic Epsom franchisee",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee",
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-22T16:43:12+10:00",
+          "new": "2026-09-24T15:50:02+10:00"
+        }
+      ]
+    },
+    {
+      "slug": "lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+      "title": "L'Oréal – Gucci Beauty Licence",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence",
+      "changes": [
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "22 September 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-22T12:51:59+10:00",
+          "new": "2026-09-24T17:37:48+10:00"
+        }
+      ]
+    },
     {
       "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
       "title": "Insurance Australia Group – RAC Insurance",
       "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
       "changes": [
         {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "23 September 2026"
+        },
+        {
+          "field": "other_parties",
+          "old": "RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120",
+          "new": "THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-23T09:50:30+10:00",
+          "new": "2026-09-24T15:48:32+10:00"
+        },
+        {
           "field": "decisions_docs",
-          "old": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons.pdf'}]",
-          "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '23 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons_2.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_1.pdf'}, {'date': '23 Sep 2026', 'description': 'IAG-RACI - Phase 2 Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Statement%20of%20Reasons_0.pdf'}, {'date': '23 Sep 2026', 'description': 'IAG-RACI - Phase 2 Annexure A', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Annexure%20A.pdf'}]"
+          "old": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '23 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons_2.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_1.pdf'}, {'date': '23 Sep 2026', 'description': 'IAG-RACI - Phase 2 Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Statement%20of%20Reasons_0.pdf'}, {'date': '23 Sep 2026', 'description': 'IAG-RACI - Phase 2 Annexure A', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Annexure%20A.pdf'}]",
+          "new": "[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_0.pdf'}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_3.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons_5.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Statement%20of%20Reasons_0.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 Annexure A', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Annexure%20A.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination_0.pdf'}]"
         }
       ]
     }

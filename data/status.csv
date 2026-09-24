@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-24 03:50:52.202474,
-Last scrape run (AEST),24 Sep 2026  13:50,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-24 11:21:19.929798,
+Last scrape run (AEST),24 Sep 2026  21:21,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,677,
-New entries this run,0,
-Changed entries this run,1,
+Total entries monitored,685,
+New entries this run,8,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,17 +13,34 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (1),Field changed,Old value  →  New value
+NEW ENTRIES (8),Case Number,URL
++ Imagine Education – Eden Academy,MN-05049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy
++ Jaybro – Fastway Civil Supplies,WA-30040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jaybro-%E2%80%93-fastway-civil-supplies
++ Sumitomo Mitsui Trust Bank – Morrison,WA-20038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-%E2%80%93-morrison
++ Sinopec – Park Fuels,WA-20036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sinopec-%E2%80%93-park-fuels
++ DigitalBridge – PLUS ES smart metering division,WA-10034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/digitalbridge-%E2%80%93-plus-es-smart-metering-division
++ Partners Group – Aroma-Zone,WA-85048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/partners-group-%E2%80%93-aroma-zone
+"+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",WA-70036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth
++ The Disability Trust - LEAD Disability Services,WA-45026,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-disability-trust-lead-disability-services
+,,
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Steamatic Australia – Steamatic Epsom franchisee,WA-35044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee
+,Last Modified Accc,2026-09-22T16:43:12+10:00  →  2026-09-24T15:50:02+10:00
+,,
+~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
+,Determination Publication Date,  →  22 September 2026
+,Last Modified Accc,2026-09-22T12:51:59+10:00  →  2026-09-24T17:37:48+10:00
+,,
 ~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,Determination Publication Date,  →  23 September 2026
+,Other Parties,RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120  →  THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877
+,Last Modified Accc,2026-09-23T09:50:30+10:00  →  2026-09-24T15:48:32+10:00
 ,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (12),Case Number,Detected (AEST)
-+ OceanaGold - Ausgold,WA-95041,17 Sep  21:15
-"+ Australian Venue Co – assets of The Clock Hotel, Surry Hills and The Bank Hotel, Newtown, NSW",WA-10033,17 Sep  21:15
-+ Cinven and La Caisse – Optio Group,WA-65034,17 Sep  21:15
+NEW ENTRIES (9),Case Number,Detected (AEST)
 + Perun (TPG) - Zembl,WA-75050,18 Sep  20:48
 + Global Lithium Resources – IGO Nova Operation,WA-60043,21 Sep  22:20
 + Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,21 Sep  22:20
@@ -34,15 +51,7 @@ NEW ENTRIES (12),Case Number,Detected (AEST)
 + REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust,WA-35047,22 Sep  21:11
 + Steamatic Australia – Steamatic Epsom franchisee,WA-35044,22 Sep  21:11
 ,,
-"CHANGED ENTRIES (19 entries, 19 change events)",Field changed,Old value  →  New value  (AEST)
-~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (17 Sep  14:06)
-,,
-"~ Investissement Québec, Fonds de solidarité des travailleurs et des travailleuses du Québec and Placement Louis Bibeau Inc. – Australian Defence Apparel",WA-20037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/investissement-qu%C3%A9bec-fonds-de-solidarit%C3%A9-des-travailleurs-et-des-travailleuses-du-qu%C3%A9bec-and-placement-louis-bibeau-inc-%E2%80%93-australian-defence-apparel
-,Determination Publication Date,  →  8 September 2026  (17 Sep  14:06)
-,Targets,Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171  →  Logistik Unicorp Holdings Inc.; Québec registration number: 1173823171; AUSTRALI  (17 Sep  14:06)
-,Last Modified Accc,2026-09-08T16:32:17+10:00  →  2026-09-17T12:19:00+10:00  (17 Sep  14:06)
-,,
+"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
 ~ PSP Investments - AAA Egg Company,MN-55024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (18 Sep  13:52)
 ,,
@@ -112,6 +121,7 @@ NEW ENTRIES (12),Case Number,Detected (AEST)
 ,Targets,RAC INSURANCE PTY LIMITED; 59 094 685 882; RACI PTY LIMITED; 40 008 671 805  →  RACI PTY LIMITED; 40 008 671 805; RAC INSURANCE PTY LIMITED; 59 094 685 882  (23 Sep  13:57)
 ,Last Modified Accc,2026-08-06T16:47:45+10:00  →  2026-09-23T09:50:30+10:00  (23 Sep  13:57)
 ,Decisions Docs,"[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (23 Sep  13:57)"
+,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (24 Sep  13:50)"
 ,,
 ~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
 ,Acquisition Status,Under assessment  →  Assessment completed  (23 Sep  21:03)
