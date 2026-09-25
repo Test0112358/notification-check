@@ -1,13 +1,23 @@
 {
-  "run_utc": "2026-09-25T04:06:07.536546Z",
-  "new_count": 1,
+  "run_utc": "2026-09-25T11:26:41.714386Z",
+  "new_count": 3,
   "changed_count": 0,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "visa-biocatch",
-      "title": "Visa - BioCatch",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch"
+      "slug": "blackstone-%E2%80%93-flow-control-holdings",
+      "title": "Blackstone – Flow Control Holdings",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-flow-control-holdings"
+    },
+    {
+      "slug": "geosyntec-consultants-%E2%80%93-wrm-water-environment",
+      "title": "Geosyntec Consultants – WRM Water & Environment",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/geosyntec-consultants-%E2%80%93-wrm-water-environment"
+    },
+    {
+      "slug": "rest-perth-airport",
+      "title": "REST - Perth Airport",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-perth-airport"
     }
   ],
   "changed_entries": [],

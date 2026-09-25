@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-25 04:06:07.536546,
-Last scrape run (AEST),25 Sep 2026  14:06,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-25 11:26:41.714386,
+Last scrape run (AEST),25 Sep 2026  21:26,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,686,
-New entries this run,1,
+Total entries monitored,689,
+New entries this run,3,
 Changed entries this run,0,
 Removed entries this run,0,
 ,,
@@ -13,14 +13,15 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
+NEW ENTRIES (3),Case Number,URL
++ Blackstone – Flow Control Holdings,WA-10037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-flow-control-holdings
++ Geosyntec Consultants – WRM Water & Environment,WA-10035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/geosyntec-consultants-%E2%80%93-wrm-water-environment
++ REST - Perth Airport,WA-80041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-perth-airport
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Perun (TPG) - Zembl,WA-75050,18 Sep  20:48
 + Global Lithium Resources – IGO Nova Operation,WA-60043,21 Sep  22:20
 + Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,21 Sep  22:20
 + Calvary – Southern Cross Care (Tasmania),MN-20039,22 Sep  14:00
@@ -37,18 +38,9 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Partners Group – Aroma-Zone,WA-85048,24 Sep  21:21
 "+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",WA-70036,24 Sep  21:21
 + The Disability Trust - LEAD Disability Services,WA-45026,24 Sep  21:21
++ Visa - BioCatch,MN-75056,25 Sep  14:06
 ,,
-"CHANGED ENTRIES (14 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
-~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
-,Acquisition Status,Under assessment  →  Assessment completed  (18 Sep  20:48)
-,Accc Determination,  →  Approved  (18 Sep  20:48)
-,Determination Publication Date,  →  18 September 2026  (18 Sep  20:48)
-,Acquirers,ABF Whole Loan Pty Ltd; 699 486 167; PERPETUAL CORPORATE TRUST LIMITED; 99 000 3  →  VIRGO BIDCO PTY LTD; 89 699 487 119; ABF Whole Loan Pty Ltd; 699 486 167; PERPET  (18 Sep  20:48)
-,Targets,HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2024-1 Trust; Lion Seri  →  HSBC BANK AUSTRALIA LIMITED; 48 006 434 162; Lion Series 2023-1 Trust; Lion Seri  (18 Sep  20:48)
-,Last Modified Accc,2026-08-28T14:01:49+10:00  →  2026-09-18T16:39:49+10:00  (18 Sep  20:48)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (18 Sep  20:48)
-,Decisions Docs,"  →  [{'date': '18 Sep 2026', 'description': 'Blackstone funds and Perpetual Trustees  (18 Sep  20:48)"
-,,
+"CHANGED ENTRIES (13 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
 ,,
