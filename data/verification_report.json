@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "mastercard-bvnk",
-    "title": "Mastercard - BVNK",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mastercard-bvnk",
+    "slug": "novonesis-%E2%80%93-microbiogen",
+    "title": "Novonesis – Microbiogen",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "holcim-australia-%E2%80%93-burdetts-group",
-    "title": "Holcim Australia – Burdetts Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
+    "slug": "zendesk-%E2%80%93-forethought",
+    "title": "Zendesk – Forethought",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zendesk-%E2%80%93-forethought",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,33 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw",
-    "title": "Oscars Group – South Terrace Hotel in Bankstown, NSW",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oscars-group-%E2%80%93-south-terrace-hotel-in-bankstown-nsw",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "mitsui-%E2%80%93-rhodes-ridge-joint-venture",
-    "title": "Mitsui – Rhodes Ridge Joint Venture",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mitsui-%E2%80%93-rhodes-ridge-joint-venture",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "ltm-%E2%80%93-randstad-digital-entities-including-finxl",
-    "title": "LTM – Randstad Digital entities including FinXL",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ltm-%E2%80%93-randstad-digital-entities-including-finxl",
+    "slug": "cleanpeak-energy-holdings-sustainable-energy-infrastructure",
+    "title": "CleanPeak Energy Holdings - Sustainable Energy Infrastructure",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cleanpeak-energy-holdings-sustainable-energy-infrastructure",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
