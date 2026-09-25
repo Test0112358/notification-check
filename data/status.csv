@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-24 11:21:19.929798,
-Last scrape run (AEST),24 Sep 2026  21:21,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-25 04:06:07.536546,
+Last scrape run (AEST),25 Sep 2026  14:06,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,685,
-New entries this run,8,
-Changed entries this run,3,
+Total entries monitored,686,
+New entries this run,1,
+Changed entries this run,0,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,34 +13,13 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (8),Case Number,URL
-+ Imagine Education – Eden Academy,MN-05049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy
-+ Jaybro – Fastway Civil Supplies,WA-30040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jaybro-%E2%80%93-fastway-civil-supplies
-+ Sumitomo Mitsui Trust Bank – Morrison,WA-20038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sumitomo-mitsui-trust-bank-%E2%80%93-morrison
-+ Sinopec – Park Fuels,WA-20036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sinopec-%E2%80%93-park-fuels
-+ DigitalBridge – PLUS ES smart metering division,WA-10034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/digitalbridge-%E2%80%93-plus-es-smart-metering-division
-+ Partners Group – Aroma-Zone,WA-85048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/partners-group-%E2%80%93-aroma-zone
-"+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",WA-70036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth
-+ The Disability Trust - LEAD Disability Services,WA-45026,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-disability-trust-lead-disability-services
-,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Steamatic Australia – Steamatic Epsom franchisee,WA-35044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee
-,Last Modified Accc,2026-09-22T16:43:12+10:00  →  2026-09-24T15:50:02+10:00
-,,
-~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
-,Determination Publication Date,  →  22 September 2026
-,Last Modified Accc,2026-09-22T12:51:59+10:00  →  2026-09-24T17:37:48+10:00
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Determination Publication Date,  →  23 September 2026
-,Other Parties,RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120  →  THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60 008 985 877
-,Last Modified Accc,2026-09-23T09:50:30+10:00  →  2026-09-24T15:48:32+10:00
-,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://w"
+NEW ENTRIES (1),Case Number,URL
++ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (9),Case Number,Detected (AEST)
+NEW ENTRIES (17),Case Number,Detected (AEST)
 + Perun (TPG) - Zembl,WA-75050,18 Sep  20:48
 + Global Lithium Resources – IGO Nova Operation,WA-60043,21 Sep  22:20
 + Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,21 Sep  22:20
@@ -50,25 +29,16 @@ NEW ENTRIES (9),Case Number,Detected (AEST)
 + Advent – NZCR Group Holdings,WA-30039,22 Sep  21:11
 + REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust,WA-35047,22 Sep  21:11
 + Steamatic Australia – Steamatic Epsom franchisee,WA-35044,22 Sep  21:11
++ Imagine Education – Eden Academy,MN-05049,24 Sep  21:21
++ Jaybro – Fastway Civil Supplies,WA-30040,24 Sep  21:21
++ Sumitomo Mitsui Trust Bank – Morrison,WA-20038,24 Sep  21:21
++ Sinopec – Park Fuels,WA-20036,24 Sep  21:21
++ DigitalBridge – PLUS ES smart metering division,WA-10034,24 Sep  21:21
++ Partners Group – Aroma-Zone,WA-85048,24 Sep  21:21
+"+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",WA-70036,24 Sep  21:21
++ The Disability Trust - LEAD Disability Services,WA-45026,24 Sep  21:21
 ,,
-"CHANGED ENTRIES (17 entries, 18 change events)",Field changed,Old value  →  New value  (AEST)
-~ PSP Investments - AAA Egg Company,MN-55024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (18 Sep  13:52)
-,,
-~ Danfoss - Alfagomma,MN-75052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (18 Sep  13:52)
-,,
-~ Merck KGaA / Bio-Techne,MN-25049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (18 Sep  13:52)
-,,
-~ Lone Star Funds - ContiTech,MN-85043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lone-star-funds-contitech
-,Acquisition Status,Under assessment  →  Assessment completed  (18 Sep  13:52)
-,Accc Determination,  →  Approved  (18 Sep  13:52)
-,Determination Publication Date,  →  18 September 2026  (18 Sep  13:52)
-,Last Modified Accc,2026-08-21T16:24:49+10:00  →  2026-09-18T11:40:26+10:00  (18 Sep  13:52)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (18 Sep  13:52)
-,Decisions Docs,"  →  [{'date': '18 Sep 2026', 'description': 'Lone Star Funds - ContiTech - Phase 1 d  (18 Sep  13:52)"
-,,
+"CHANGED ENTRIES (14 entries, 17 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Blackstone funds and Perpetual Trustees – HSBC loan portfolio,MN-85047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-funds-and-perpetual-trustees-%E2%80%93-hsbc-loan-portfolio
 ,Acquisition Status,Under assessment  →  Assessment completed  (18 Sep  20:48)
 ,Accc Determination,  →  Approved  (18 Sep  20:48)
@@ -107,6 +77,8 @@ NEW ENTRIES (9),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-21T11:36:17+10:00  →  2026-09-22T12:51:59+10:00  (22 Sep  14:00)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (22 Sep  14:00)
 ,Decisions Docs,"  →  [{'date': '22 Sep 2026', 'description': ""L'Oréal – Gucci Beauty Licence - Phase   (22 Sep  14:00)"
+,Determination Publication Date,  →  22 September 2026  (24 Sep  21:21)
+,Last Modified Accc,2026-09-22T12:51:59+10:00  →  2026-09-24T17:37:48+10:00  (24 Sep  21:21)
 ,,
 "~ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia
 ,Determination Publication Date,  →  15 September 2026  (22 Sep  21:11)
@@ -122,6 +94,10 @@ NEW ENTRIES (9),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-08-06T16:47:45+10:00  →  2026-09-23T09:50:30+10:00  (23 Sep  13:57)
 ,Decisions Docs,"[{'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days -  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (23 Sep  13:57)"
 ,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (24 Sep  13:50)"
+,Determination Publication Date,  →  23 September 2026  (24 Sep  21:21)
+,Other Parties,RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33   →  THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60   (24 Sep  21:21)
+,Last Modified Accc,2026-09-23T09:50:30+10:00  →  2026-09-24T15:48:32+10:00  (24 Sep  21:21)
+,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (24 Sep  21:21)"
 ,,
 ~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
 ,Acquisition Status,Under assessment  →  Assessment completed  (23 Sep  21:03)
@@ -130,4 +106,7 @@ NEW ENTRIES (9),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-09-03T09:46:54+10:00  →  2026-09-23T16:46:03+10:00  (23 Sep  21:03)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (23 Sep  21:03)
 ,Decisions Docs,"  →  [{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1  (23 Sep  21:03)"
+,,
+~ Steamatic Australia – Steamatic Epsom franchisee,WA-35044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee
+,Last Modified Accc,2026-09-22T16:43:12+10:00  →  2026-09-24T15:50:02+10:00  (24 Sep  21:21)
 ,,
