@@ -252,18 +252,6 @@
     "expected_or_found": "non-empty"
   },
   {
-    "slug": "eli-lilly-kelonia-therapeutics",
-    "title": "Eli Lilly - Kelonia Therapeutics",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
     "slug": "wpf-duratec-pacific-welding-davhold-australia",
     "title": "WPF Duratec - Pacific Welding (Davhold Australia)",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wpf-duratec-pacific-welding-davhold-australia",
@@ -324,9 +312,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "novonesis-%E2%80%93-microbiogen",
-    "title": "Novonesis – Microbiogen",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novonesis-%E2%80%93-microbiogen",
+    "slug": "eli-lilly-kelonia-therapeutics",
+    "title": "Eli Lilly - Kelonia Therapeutics",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "primary-wave-kobalt",
+    "title": "Primary Wave - Kobalt",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/primary-wave-kobalt",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "zendesk-%E2%80%93-forethought",
-    "title": "Zendesk – Forethought",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zendesk-%E2%80%93-forethought",
+    "slug": "restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
+    "title": "Restaurant Brands and Yum! Brands – Taco Bell restaurants",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/restaurant-brands-and-yum-brands-%E2%80%93-taco-bell-restaurants",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,57 @@
     "expected_or_found": ""
   },
   {
-    "slug": "cleanpeak-energy-holdings-sustainable-energy-infrastructure",
-    "title": "CleanPeak Energy Holdings - Sustainable Energy Infrastructure",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cleanpeak-energy-holdings-sustainable-energy-infrastructure",
+    "slug": "constellation-software-derbysoft-holdings",
+    "title": "Constellation Software - DerbySoft Holdings",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/constellation-software-derbysoft-holdings",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "star-hotels-group-ocean-international-hotel-mackay-qld",
+    "title": "Star Hotels Group - Ocean International Hotel, Mackay QLD",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/star-hotels-group-ocean-international-hotel-mackay-qld",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "eli-lilly-kelonia-therapeutics",
+    "title": "Eli Lilly - Kelonia Therapeutics",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-kelonia-therapeutics",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "cinven-and-la-caisse-%E2%80%93-optio-group",
+    "title": "Cinven and La Caisse – Optio Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cinven-and-la-caisse-%E2%80%93-optio-group",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "netspi-synack",
+    "title": "NetSPI - Synack",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/netspi-synack",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
