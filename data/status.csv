@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-25 11:26:41.714386,
-Last scrape run (AEST),25 Sep 2026  21:26,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-28 13:17:15.042687,
+Last scrape run (AEST),28 Sep 2026  23:17,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,689,
-New entries this run,3,
+Total entries monitored,691,
+New entries this run,2,
 Changed entries this run,0,
 Removed entries this run,0,
 ,,
@@ -13,17 +13,14 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Blackstone – Flow Control Holdings,WA-10037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-flow-control-holdings
-+ Geosyntec Consultants – WRM Water & Environment,WA-10035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/geosyntec-consultants-%E2%80%93-wrm-water-environment
-+ REST - Perth Airport,WA-80041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-perth-airport
+NEW ENTRIES (2),Case Number,URL
++ Vets Central – Vital Vet Animal Hospital,MN-85042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-vital-vet-animal-hospital
+"+ Coles – shopping centre in Albion Park, NSW",WA-65037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-shopping-centre-in-albion-park-nsw
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Global Lithium Resources – IGO Nova Operation,WA-60043,21 Sep  22:20
-+ Apax Funds – Remy & Geiser GmbH and Gerresheimer Primary Packaging Plastics GmbH,WA-05051,21 Sep  22:20
+NEW ENTRIES (18),Case Number,Detected (AEST)
 + Calvary – Southern Cross Care (Tasmania),MN-20039,22 Sep  14:00
 + Nielsen - DoubleVerify,MN-55036,22 Sep  14:00
 "+ National Dental Care – business assets comprising the Integrated Dental Health clinic, Katoomba, NSW",WA-25050,22 Sep  21:11
@@ -39,18 +36,11 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 "+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",WA-70036,24 Sep  21:21
 + The Disability Trust - LEAD Disability Services,WA-45026,24 Sep  21:21
 + Visa - BioCatch,MN-75056,25 Sep  14:06
++ Blackstone – Flow Control Holdings,WA-10037,25 Sep  21:26
++ Geosyntec Consultants – WRM Water & Environment,WA-10035,25 Sep  21:26
++ REST - Perth Airport,WA-80041,25 Sep  21:26
 ,,
-"CHANGED ENTRIES (13 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
-~ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
-,,
-~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
-,,
-~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (21 Sep  14:02)
-,Consultation Docs,"[{'date': '11 Sep 2026', 'description': 'Questionnaire - Eli Lilly - Merida Bios  →    (21 Sep  14:02)"
-,,
+"CHANGED ENTRIES (10 entries, 13 change events)",Field changed,Old value  →  New value  (AEST)
 ~ EQT Fund Management - Intertek,MN-75045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (22 Sep  14:00)
 ,,

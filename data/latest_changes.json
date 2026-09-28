@@ -1,23 +1,18 @@
 {
-  "run_utc": "2026-09-25T11:26:41.714386Z",
-  "new_count": 3,
+  "run_utc": "2026-09-28T13:17:15.042687Z",
+  "new_count": 2,
   "changed_count": 0,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "blackstone-%E2%80%93-flow-control-holdings",
-      "title": "Blackstone – Flow Control Holdings",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-flow-control-holdings"
+      "slug": "vets-central-%E2%80%93-vital-vet-animal-hospital",
+      "title": "Vets Central – Vital Vet Animal Hospital",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-vital-vet-animal-hospital"
     },
     {
-      "slug": "geosyntec-consultants-%E2%80%93-wrm-water-environment",
-      "title": "Geosyntec Consultants – WRM Water & Environment",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/geosyntec-consultants-%E2%80%93-wrm-water-environment"
-    },
-    {
-      "slug": "rest-perth-airport",
-      "title": "REST - Perth Airport",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-perth-airport"
+      "slug": "coles-%E2%80%93-shopping-centre-in-albion-park-nsw",
+      "title": "Coles – shopping centre in Albion Park, NSW",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-shopping-centre-in-albion-park-nsw"
     }
   ],
   "changed_entries": [],

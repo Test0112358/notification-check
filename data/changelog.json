@@ -33105,5 +33105,21 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rest-perth-airport",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-28T13:17:15.042687Z",
+    "slug": "vets-central-%E2%80%93-vital-vet-animal-hospital",
+    "title": "Vets Central – Vital Vet Animal Hospital",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-vital-vet-animal-hospital",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-28T13:17:15.042687Z",
+    "slug": "coles-%E2%80%93-shopping-centre-in-albion-park-nsw",
+    "title": "Coles – shopping centre in Albion Park, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-shopping-centre-in-albion-park-nsw",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
