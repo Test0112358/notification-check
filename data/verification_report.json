@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "vista-%E2%80%93-quantios",
-    "title": "Vista – Quantios",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-%E2%80%93-quantios",
+    "slug": "precision-poultry-voag-chicken-farming-operations",
+    "title": "Precision Poultry - VOAG chicken farming operations",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "salter-brothers-buroserv",
-    "title": "Salter Brothers - Buroserv",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/salter-brothers-buroserv",
+    "slug": "genusplus-group-%E2%80%93-mpc-kinetic",
+    "title": "GenusPlus Group – MPC Kinetic",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genusplus-group-%E2%80%93-mpc-kinetic",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
