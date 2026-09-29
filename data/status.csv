@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-28 13:17:15.042687,
-Last scrape run (AEST),28 Sep 2026  23:17,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-29 04:56:55.250387,
+Last scrape run (AEST),29 Sep 2026  14:56,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,691,
-New entries this run,2,
-Changed entries this run,0,
+Total entries monitored,692,
+New entries this run,1,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,16 +13,34 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Vets Central – Vital Vet Animal Hospital,MN-85042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-vital-vet-animal-hospital
-"+ Coles – shopping centre in Albion Park, NSW",WA-65037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-shopping-centre-in-albion-park-nsw
+NEW ENTRIES (1),Case Number,URL
++ Xylem - Flow Controls,MN-85054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-flow-controls
+,,
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
+,Last Modified Accc,2026-09-25T13:14:51+10:00  →  2026-09-29T13:48:33+10:00
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to 
+,,
+~ Prysmian - Atkore,MN-01124,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  29 September 2026
+,Last Modified Accc,2026-09-09T14:24:25+10:00  →  2026-09-29T14:52:24+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '29 Sep 2026', 'description': 'Prysmian - Atkore - Phase 1 determination', 'url': ''}]"
+,,
+~ Flick – GC Pest Control,MN-01122,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  29 September 2026
+,Last Modified Accc,2026-09-07T13:47:14+10:00  →  2026-09-29T14:31:17+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '29 Sep 2026', 'description': 'Flick - GC Pest Control - Phase 1 determination', 'url': 'h"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (18),Case Number,Detected (AEST)
-+ Calvary – Southern Cross Care (Tasmania),MN-20039,22 Sep  14:00
-+ Nielsen - DoubleVerify,MN-55036,22 Sep  14:00
 "+ National Dental Care – business assets comprising the Integrated Dental Health clinic, Katoomba, NSW",WA-25050,22 Sep  21:11
 + Advent – NZCR Group Holdings,WA-30039,22 Sep  21:11
 + REST – Quinbrook III Partnership and Quinbrook III (AU) Co-Investment Trust,WA-35047,22 Sep  21:11
@@ -39,29 +57,10 @@ NEW ENTRIES (18),Case Number,Detected (AEST)
 + Blackstone – Flow Control Holdings,WA-10037,25 Sep  21:26
 + Geosyntec Consultants – WRM Water & Environment,WA-10035,25 Sep  21:26
 + REST - Perth Airport,WA-80041,25 Sep  21:26
++ Vets Central – Vital Vet Animal Hospital,MN-85042,28 Sep  23:17
+"+ Coles – shopping centre in Albion Park, NSW",WA-65037,28 Sep  23:17
 ,,
-"CHANGED ENTRIES (10 entries, 13 change events)",Field changed,Old value  →  New value  (AEST)
-~ EQT Fund Management - Intertek,MN-75045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (22 Sep  14:00)
-,,
-~ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (22 Sep  14:00)
-,,
-~ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (22 Sep  14:00)
-,,
-~ Bupa Health Services - Partnered Health,MN-50028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (22 Sep  14:00)
-,,
-~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
-,Acquisition Status,Under assessment  →  Assessment completed  (22 Sep  14:00)
-,Accc Determination,  →  Approved  (22 Sep  14:00)
-,Last Modified Accc,2026-08-21T11:36:17+10:00  →  2026-09-22T12:51:59+10:00  (22 Sep  14:00)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (22 Sep  14:00)
-,Decisions Docs,"  →  [{'date': '22 Sep 2026', 'description': ""L'Oréal – Gucci Beauty Licence - Phase   (22 Sep  14:00)"
-,Determination Publication Date,  →  22 September 2026  (24 Sep  21:21)
-,Last Modified Accc,2026-09-22T12:51:59+10:00  →  2026-09-24T17:37:48+10:00  (24 Sep  21:21)
-,,
+"CHANGED ENTRIES (6 entries, 8 change events)",Field changed,Old value  →  New value  (AEST)
 "~ National Dental Care - Grove Village Dental Centre, South Australia",WA-40042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-grove-village-dental-centre-south-australia
 ,Determination Publication Date,  →  15 September 2026  (22 Sep  21:11)
 ,Last Modified Accc,2026-09-15T16:45:13+10:00  →  2026-09-22T15:53:25+10:00  (22 Sep  21:11)
@@ -91,4 +90,8 @@ NEW ENTRIES (18),Case Number,Detected (AEST)
 ,,
 ~ Steamatic Australia – Steamatic Epsom franchisee,WA-35044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee
 ,Last Modified Accc,2026-09-22T16:43:12+10:00  →  2026-09-24T15:50:02+10:00  (24 Sep  21:21)
+,,
+~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
+,Determination Publication Date,  →  22 September 2026  (24 Sep  21:21)
+,Last Modified Accc,2026-09-22T12:51:59+10:00  →  2026-09-24T17:37:48+10:00  (24 Sep  21:21)
 ,,

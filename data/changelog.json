@@ -33121,5 +33121,110 @@
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-shopping-centre-in-albion-park-nsw",
     "event": "NEW_ENTRY",
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-29T04:56:55.250387Z",
+    "slug": "xylem-flow-controls",
+    "title": "Xylem - Flow Controls",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-flow-controls",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-29T04:56:55.250387Z",
+    "slug": "visa-biocatch",
+    "title": "Visa - BioCatch",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-25T13:14:51+10:00",
+        "new": "2026-09-29T13:48:33+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 1 October 2026 via email to mergers@accc.gov.au with the title Submission re: Visa–BioCatch. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 25 Sep 2026 Closing date 1 Oct 2026",
+        "new": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 6 October 2026 via email to mergers@accc.gov.au with the title Submission re: Visa–BioCatch. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 25 Sep 2026 Closing date 6 Oct 2026"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-29T04:56:55.250387Z",
+    "slug": "prysmian-atkore",
+    "title": "Prysmian - Atkore",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "29 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-09T14:24:25+10:00",
+        "new": "2026-09-29T14:52:24+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '29 Sep 2026', 'description': 'Prysmian - Atkore - Phase 1 determination', 'url': ''}]"
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-09-29T04:56:55.250387Z",
+    "slug": "flick-%E2%80%93-gc-pest-control",
+    "title": "Flick – GC Pest Control",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flick-%E2%80%93-gc-pest-control",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed"
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved"
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "29 September 2026"
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-09-07T13:47:14+10:00",
+        "new": "2026-09-29T14:31:17+10:00"
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": ""
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '29 Sep 2026', 'description': 'Flick - GC Pest Control - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/MN-01122%20-%20Flick-GC%20Pest%20Control%20-%20Final%20Determination%20-%2029%20September%202026_0.pdf'}]"
+      }
+    ]
   }
 ]
