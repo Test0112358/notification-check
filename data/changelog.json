@@ -33226,5 +33226,35 @@
         "new": "[{'date': '29 Sep 2026', 'description': 'Flick - GC Pest Control - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/MN-01122%20-%20Flick-GC%20Pest%20Control%20-%20Final%20Determination%20-%2029%20September%202026_0.pdf'}]"
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-29T12:24:05.859709Z",
+    "slug": "colas-%E2%80%93-quarry-products-harlaxton",
+    "title": "Colas – Quarry Products Harlaxton",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-29T12:24:05.859709Z",
+    "slug": "one-equity-partners-%E2%80%93-myriad360",
+    "title": "One Equity Partners – Myriad360",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/one-equity-partners-%E2%80%93-myriad360",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-09-29T12:24:05.859709Z",
+    "slug": "prysmian-atkore",
+    "title": "Prysmian - Atkore",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore",
+    "event": "CHANGED",
+    "changes": [
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '29 Sep 2026', 'description': 'Prysmian - Atkore - Phase 1 determination', 'url': ''}]",
+        "new": "[{'date': '29 Sep 2026', 'description': 'Prysmian - Atkore - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Prysmian%20-%20Atkore%20-%20Phase%201%20determination.pdf'}]"
+      }
+    ]
   }
 ]
