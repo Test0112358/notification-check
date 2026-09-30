@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-09-30 04:43:16.660447,
-Last scrape run (AEST),30 Sep 2026  14:43,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-09-30 12:09:21.349275,
+Last scrape run (AEST),30 Sep 2026  22:09,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,695,
-New entries this run,1,
-Changed entries this run,3,
+Total entries monitored,699,
+New entries this run,4,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,24 +13,22 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Apiam - Goulburn Valley Equine Hospital,MN-80045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-goulburn-valley-equine-hospital
+NEW ENTRIES (4),Case Number,URL
+"+ Coles - supermarket site in Angle Vale, SA",MN-75042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-angle-vale-sa
++ Kinetic - Tassielink,MN-75058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink
+"+ Waymark Hotels Group – The Queensland Hotel, Goondiwindi, QLD",WA-90038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-the-queensland-hotel-goondiwindi-qld
+"+ Australian Venue Co – assets of Hervey Bay Hotel & Resort, Pialba, QLD",WA-25052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-hervey-bay-hotel-resort-pialba-qld
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Colas – Quarry Products Harlaxton,MN-25048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton
-,Last Modified Accc,2026-09-29T16:33:07+10:00  →  2026-09-30T10:12:18+10:00
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to 
-,,
-~ Calvary – Southern Cross Care (Tasmania),MN-20039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Nielsen - DoubleVerify,MN-55036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
+~ McCormick - Unilever Foods Business,MN-75044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business
+,Title,McCormick / Unilever Foods Business  →  McCormick - Unilever Foods Business
+,Last Modified Accc,2026-09-15T16:46:39+10:00  →  2026-09-30T13:03:00+10:00
+,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
+NEW ENTRIES (18),Case Number,Detected (AEST)
 + Imagine Education – Eden Academy,MN-05049,24 Sep  21:21
 + Jaybro – Fastway Civil Supplies,WA-30040,24 Sep  21:21
 + Sumitomo Mitsui Trust Bank – Morrison,WA-20038,24 Sep  21:21
@@ -48,16 +46,9 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Xylem - Flow Controls,MN-85054,29 Sep  14:56
 + Colas – Quarry Products Harlaxton,MN-25048,29 Sep  22:24
 + One Equity Partners – Myriad360,WA-85055,29 Sep  22:24
++ Apiam - Goulburn Valley Equine Hospital,MN-80045,30 Sep  14:43
 ,,
-"CHANGED ENTRIES (7 entries, 9 change events)",Field changed,Old value  →  New value  (AEST)
-~ I Squared Capital – oOh!media,MN-75054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/i-squared-capital-%E2%80%93-oohmedia
-,Acquisition Status,Under assessment  →  Assessment completed  (23 Sep  21:03)
-,Accc Determination,  →  Approved  (23 Sep  21:03)
-,Determination Publication Date,  →  23 September 2026  (23 Sep  21:03)
-,Last Modified Accc,2026-09-03T09:46:54+10:00  →  2026-09-23T16:46:03+10:00  (23 Sep  21:03)
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (23 Sep  21:03)
-,Decisions Docs,"  →  [{'date': '23 Sep 2026', 'description': 'I Squared Capital - oOh!media - Phase 1  (23 Sep  21:03)"
-,,
+"CHANGED ENTRIES (9 entries, 11 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
 ,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (24 Sep  13:50)"
 ,Determination Publication Date,  →  23 September 2026  (24 Sep  21:21)
@@ -92,4 +83,14 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-09-07T13:47:14+10:00  →  2026-09-29T14:31:17+10:00  (29 Sep  14:56)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (29 Sep  14:56)
 ,Decisions Docs,"  →  [{'date': '29 Sep 2026', 'description': 'Flick - GC Pest Control - Phase 1 deter  (29 Sep  14:56)"
+,,
+~ Colas – Quarry Products Harlaxton,MN-25048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton
+,Last Modified Accc,2026-09-29T16:33:07+10:00  →  2026-09-30T10:12:18+10:00  (30 Sep  14:43)
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  (30 Sep  14:43)
+,,
+~ Calvary – Southern Cross Care (Tasmania),MN-20039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (30 Sep  14:43)
+,,
+~ Nielsen - DoubleVerify,MN-55036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (30 Sep  14:43)
 ,,

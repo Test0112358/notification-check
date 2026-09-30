@@ -1,5 +1,18 @@
 {
-  "run_utc": "2026-09-30T04:43:16.660447Z",
-  "questionnaire_count": 0,
-  "questionnaires": []
+  "run_utc": "2026-09-30T12:09:21.349275Z",
+  "questionnaire_count": 1,
+  "questionnaires": [
+    {
+      "slug": "coles-supermarket-site-in-angle-vale-sa",
+      "title": "Coles - supermarket site in Angle Vale, SA",
+      "case_number": "MN-75042",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-angle-vale-sa",
+      "date": "30 Sep 2026",
+      "description": "Questionnaire",
+      "download_url": "https://www.accc.gov.au/system/files/moderated_files/Coles%20-%20supermarket%20site%20in%20Angle%20Vale%2C%20SA%20-%20Questionnaire.docx",
+      "local_path": "data/consultation_docs/Coles - supermarket site in Angle Vale_ SA - Questionnaire.docx",
+      "filename": "Coles - supermarket site in Angle Vale_ SA - Questionnaire.docx",
+      "size_kb": 60.5
+    }
+  ]
 }

@@ -1,53 +1,49 @@
 {
-  "run_utc": "2026-09-30T04:43:16.660447Z",
-  "new_count": 1,
-  "changed_count": 3,
+  "run_utc": "2026-09-30T12:09:21.349275Z",
+  "new_count": 4,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "apiam-goulburn-valley-equine-hospital",
-      "title": "Apiam - Goulburn Valley Equine Hospital",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-goulburn-valley-equine-hospital"
+      "slug": "coles-supermarket-site-in-angle-vale-sa",
+      "title": "Coles - supermarket site in Angle Vale, SA",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-angle-vale-sa"
+    },
+    {
+      "slug": "kinetic-tassielink",
+      "title": "Kinetic - Tassielink",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink"
+    },
+    {
+      "slug": "waymark-hotels-group-%E2%80%93-the-queensland-hotel-goondiwindi-qld",
+      "title": "Waymark Hotels Group – The Queensland Hotel, Goondiwindi, QLD",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-the-queensland-hotel-goondiwindi-qld"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-hervey-bay-hotel-resort-pialba-qld",
+      "title": "Australian Venue Co – assets of Hervey Bay Hotel & Resort, Pialba, QLD",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-hervey-bay-hotel-resort-pialba-qld"
     }
   ],
   "changed_entries": [
     {
-      "slug": "colas-%E2%80%93-quarry-products-harlaxton",
-      "title": "Colas – Quarry Products Harlaxton",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton",
+      "slug": "mccormick-unilever-foods-business",
+      "title": "McCormick - Unilever Foods Business",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business",
       "changes": [
         {
+          "field": "title",
+          "old": "McCormick / Unilever Foods Business",
+          "new": "McCormick - Unilever Foods Business"
+        },
+        {
           "field": "last_modified_accc",
-          "old": "2026-09-29T16:33:07+10:00",
-          "new": "2026-09-30T10:12:18+10:00"
+          "old": "2026-09-15T16:46:39+10:00",
+          "new": "2026-09-30T13:03:00+10:00"
         },
         {
           "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Tuesday 6 October 2026 via email to mergers@accc.gov.au with the title Submission re: Colas - Quarry Products Harlaxton. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 29 Sep 2026 Closing date 7 Oct 2026",
-          "new": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Tuesday 6 October 2026 via email to mergers@accc.gov.au with the title Submission re: Colas - Quarry Products Harlaxton. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 29 Sep 2026 Closing date 6 Oct 2026"
-        }
-      ]
-    },
-    {
-      "slug": "calvary-%E2%80%93-southern-cross-care-tasmania",
-      "title": "Calvary – Southern Cross Care (Tasmania)",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 September 2026 via email to mergers@accc.gov.au with the title Calvary – Southern Cross Care. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 22 Sep 2026 Closing date 29 Sep 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "nielsen-doubleverify",
-      "title": "Nielsen - DoubleVerify",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 September 2026 via email to mergers@accc.gov.au with the title Nielsen – DoubleVerify. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 22 Sep 2026 Closing date 29 Sep 2026",
+          "old": "",
           "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
         }
       ]
