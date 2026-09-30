@@ -324,9 +324,9 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
-    "title": "Vets Central – Hills Veterinary Centre",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "slug": "redirect-holdings-echo-solve",
+    "title": "ReDirect Holdings - Echo Solve",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "precision-poultry-voag-chicken-farming-operations",
-    "title": "Precision Poultry - VOAG chicken farming operations",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
+    "slug": "oep-ix-%E2%80%93-leviat",
+    "title": "OEP IX – Leviat",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oep-ix-%E2%80%93-leviat",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "bain-capital-%E2%80%93-fdh",
-    "title": "Bain Capital – FDH",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-fdh",
+    "slug": "laundy-%E2%80%93-woy-woy-hotel",
+    "title": "Laundy – Woy Woy Hotel",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
-    "title": "Herron Todd White – CJA Lee Property Valuers",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+    "slug": "medhealth-%E2%80%93-connect-allied-health",
+    "title": "MedHealth – Connect Allied Health",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/medhealth-%E2%80%93-connect-allied-health",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
