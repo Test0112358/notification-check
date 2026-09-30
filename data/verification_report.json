@@ -324,6 +324,18 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
+    "slug": "vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "title": "Vets Central – Hills Veterinary Centre",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-hills-veterinary-centre-0",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
     "slug": "precision-poultry-voag-chicken-farming-operations",
     "title": "Precision Poultry - VOAG chicken farming operations",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/precision-poultry-voag-chicken-farming-operations",
@@ -336,9 +348,21 @@
     "expected_or_found": ""
   },
   {
-    "slug": "genusplus-group-%E2%80%93-mpc-kinetic",
-    "title": "GenusPlus Group – MPC Kinetic",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genusplus-group-%E2%80%93-mpc-kinetic",
+    "slug": "bain-capital-%E2%80%93-fdh",
+    "title": "Bain Capital – FDH",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-fdh",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
+    "title": "Herron Todd White – CJA Lee Property Valuers",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-%E2%80%93-cja-lee-property-valuers-0",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
