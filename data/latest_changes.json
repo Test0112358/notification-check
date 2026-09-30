@@ -1,30 +1,54 @@
 {
-  "run_utc": "2026-09-29T12:24:05.859709Z",
-  "new_count": 2,
-  "changed_count": 1,
+  "run_utc": "2026-09-30T04:43:16.660447Z",
+  "new_count": 1,
+  "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "colas-%E2%80%93-quarry-products-harlaxton",
-      "title": "Colas – Quarry Products Harlaxton",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton"
-    },
-    {
-      "slug": "one-equity-partners-%E2%80%93-myriad360",
-      "title": "One Equity Partners – Myriad360",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/one-equity-partners-%E2%80%93-myriad360"
+      "slug": "apiam-goulburn-valley-equine-hospital",
+      "title": "Apiam - Goulburn Valley Equine Hospital",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-goulburn-valley-equine-hospital"
     }
   ],
   "changed_entries": [
     {
-      "slug": "prysmian-atkore",
-      "title": "Prysmian - Atkore",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/prysmian-atkore",
+      "slug": "colas-%E2%80%93-quarry-products-harlaxton",
+      "title": "Colas – Quarry Products Harlaxton",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton",
       "changes": [
         {
-          "field": "decisions_docs",
-          "old": "[{'date': '29 Sep 2026', 'description': 'Prysmian - Atkore - Phase 1 determination', 'url': ''}]",
-          "new": "[{'date': '29 Sep 2026', 'description': 'Prysmian - Atkore - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Prysmian%20-%20Atkore%20-%20Phase%201%20determination.pdf'}]"
+          "field": "last_modified_accc",
+          "old": "2026-09-29T16:33:07+10:00",
+          "new": "2026-09-30T10:12:18+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Tuesday 6 October 2026 via email to mergers@accc.gov.au with the title Submission re: Colas - Quarry Products Harlaxton. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 29 Sep 2026 Closing date 7 Oct 2026",
+          "new": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by Tuesday 6 October 2026 via email to mergers@accc.gov.au with the title Submission re: Colas - Quarry Products Harlaxton. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 29 Sep 2026 Closing date 6 Oct 2026"
+        }
+      ]
+    },
+    {
+      "slug": "calvary-%E2%80%93-southern-cross-care-tasmania",
+      "title": "Calvary – Southern Cross Care (Tasmania)",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 September 2026 via email to mergers@accc.gov.au with the title Calvary – Southern Cross Care. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 22 Sep 2026 Closing date 29 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
+        }
+      ]
+    },
+    {
+      "slug": "nielsen-doubleverify",
+      "title": "Nielsen - DoubleVerify",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify",
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 29 September 2026 via email to mergers@accc.gov.au with the title Nielsen – DoubleVerify. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 22 Sep 2026 Closing date 29 Sep 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
         }
       ]
     }
