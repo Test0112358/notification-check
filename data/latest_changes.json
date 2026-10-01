@@ -1,53 +1,20 @@
 {
-  "run_utc": "2026-09-30T12:09:21.349275Z",
-  "new_count": 4,
-  "changed_count": 1,
+  "run_utc": "2026-10-01T04:55:27.693323Z",
+  "new_count": 2,
+  "changed_count": 0,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "coles-supermarket-site-in-angle-vale-sa",
-      "title": "Coles - supermarket site in Angle Vale, SA",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-angle-vale-sa"
+      "slug": "schreiber-foods-%E2%80%93-real-dairy-australia",
+      "title": "Schreiber Foods – Real Dairy Australia",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/schreiber-foods-%E2%80%93-real-dairy-australia"
     },
     {
-      "slug": "kinetic-tassielink",
-      "title": "Kinetic - Tassielink",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink"
-    },
-    {
-      "slug": "waymark-hotels-group-%E2%80%93-the-queensland-hotel-goondiwindi-qld",
-      "title": "Waymark Hotels Group – The Queensland Hotel, Goondiwindi, QLD",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-the-queensland-hotel-goondiwindi-qld"
-    },
-    {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-hervey-bay-hotel-resort-pialba-qld",
-      "title": "Australian Venue Co – assets of Hervey Bay Hotel & Resort, Pialba, QLD",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-hervey-bay-hotel-resort-pialba-qld"
+      "slug": "architectus-%E2%80%93-sba",
+      "title": "Architectus – SBA",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/architectus-%E2%80%93-sba"
     }
   ],
-  "changed_entries": [
-    {
-      "slug": "mccormick-unilever-foods-business",
-      "title": "McCormick - Unilever Foods Business",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccormick-unilever-foods-business",
-      "changes": [
-        {
-          "field": "title",
-          "old": "McCormick / Unilever Foods Business",
-          "new": "McCormick - Unilever Foods Business"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-09-15T16:46:39+10:00",
-          "new": "2026-09-30T13:03:00+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    }
-  ],
+  "changed_entries": [],
   "removed_entries": []
 }

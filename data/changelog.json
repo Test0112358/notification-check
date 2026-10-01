@@ -33367,5 +33367,21 @@
         "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-01T04:55:27.693323Z",
+    "slug": "schreiber-foods-%E2%80%93-real-dairy-australia",
+    "title": "Schreiber Foods – Real Dairy Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/schreiber-foods-%E2%80%93-real-dairy-australia",
+    "event": "NEW_ENTRY",
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-10-01T04:55:27.693323Z",
+    "slug": "architectus-%E2%80%93-sba",
+    "title": "Architectus – SBA",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/architectus-%E2%80%93-sba",
+    "event": "NEW_ENTRY",
+    "changes": []
   }
 ]
