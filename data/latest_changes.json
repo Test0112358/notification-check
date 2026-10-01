@@ -1,20 +1,132 @@
 {
-  "run_utc": "2026-10-01T04:55:27.693323Z",
+  "run_utc": "2026-10-01T12:43:18.286787Z",
   "new_count": 2,
-  "changed_count": 0,
+  "changed_count": 3,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "schreiber-foods-%E2%80%93-real-dairy-australia",
-      "title": "Schreiber Foods – Real Dairy Australia",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/schreiber-foods-%E2%80%93-real-dairy-australia"
+      "slug": "kanda-healthcare-connecting-families",
+      "title": "Kanda Healthcare - Connecting Families",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kanda-healthcare-connecting-families"
     },
     {
-      "slug": "architectus-%E2%80%93-sba",
-      "title": "Architectus – SBA",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/architectus-%E2%80%93-sba"
+      "slug": "st-vincents-private-hospitals-limited-%E2%80%93-st-vincents-private-hospital-sydney",
+      "title": "St Vincent's Private Hospitals Limited – St Vincent's Private Hospital Sydney",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/st-vincents-private-hospitals-limited-%E2%80%93-st-vincents-private-hospital-sydney"
     }
   ],
-  "changed_entries": [],
+  "changed_entries": [
+    {
+      "slug": "eneos-%E2%80%93-chevron-australia-downstream",
+      "title": "ENEOS – Chevron Australia Downstream",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "1 October 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-11T10:55:39+10:00",
+          "new": "2026-10-01T16:50:58+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '1 Oct 2026', 'description': 'ENEOS – Chevron Australia Downstream - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/ENEOS%20-%20Chevron%20Australia%20Downstream%20-%20Straightforward%20Phase%201%20determination%20without%20conditions.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "eli-lilly-%E2%80%93-merida-biosciences",
+      "title": "Eli Lilly – Merida Biosciences",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "1 October 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-11T11:25:28+10:00",
+          "new": "2026-10-01T17:43:53+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '1 Oct 2026', 'description': 'Eli Lilly - Merida Biosciences - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Eli%20Lilly%20-%20Merida%20Biosciences%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    },
+    {
+      "slug": "bbfit-hanes-australasia",
+      "title": "BBFIT - Hanes Australasia",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia",
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed"
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved"
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "1 October 2026"
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-09-03T15:52:03+10:00",
+          "new": "2026-10-01T17:02:49+10:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '1 Oct 2026', 'description': 'BBFIT – Hanes Australasia - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/BBFIT%20-%20Hanes%20Australasia%20-%20Phase%201%20determination.pdf'}]"
+        }
+      ]
+    }
+  ],
   "removed_entries": []
 }

@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-10-01 04:55:27.693323,
-Last scrape run (AEST),01 Oct 2026  14:55,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-10-01 12:43:18.286787,
+Last scrape run (AEST),01 Oct 2026  22:43,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,701,
+Total entries monitored,703,
 New entries this run,2,
-Changed entries this run,0,
+Changed entries this run,3,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -14,21 +14,38 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (2),Case Number,URL
-+ Schreiber Foods – Real Dairy Australia,MN-45029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/schreiber-foods-%E2%80%93-real-dairy-australia
-+ Architectus – SBA,MN-70039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/architectus-%E2%80%93-sba
++ Kanda Healthcare - Connecting Families,WA-25054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kanda-healthcare-connecting-families
++ St Vincent's Private Hospitals Limited – St Vincent's Private Hospital Sydney,WA-25051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/st-vincents-private-hospitals-limited-%E2%80%93-st-vincents-private-hospital-sydney
+,,
+CHANGED ENTRIES (3),Field changed,Old value  →  New value
+~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  1 October 2026
+,Last Modified Accc,2026-09-11T10:55:39+10:00  →  2026-10-01T16:50:58+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'ENEOS – Chevron Australia Downstream - Phase 1 determination"
+,,
+~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  1 October 2026
+,Last Modified Accc,2026-09-11T11:25:28+10:00  →  2026-10-01T17:43:53+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'Eli Lilly - Merida Biosciences - Phase 1 determination', 'ur"
+,,
+~ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
+,Acquisition Status,Under assessment  →  Assessment completed
+,Accc Determination,  →  Approved
+,Determination Publication Date,  →  1 October 2026
+,Last Modified Accc,2026-09-03T15:52:03+10:00  →  2026-10-01T17:02:49+10:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'BBFIT – Hanes Australasia - Phase 1 Determination', 'url': '"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (22),Case Number,Detected (AEST)
-+ Imagine Education – Eden Academy,MN-05049,24 Sep  21:21
-+ Jaybro – Fastway Civil Supplies,WA-30040,24 Sep  21:21
-+ Sumitomo Mitsui Trust Bank – Morrison,WA-20038,24 Sep  21:21
-+ Sinopec – Park Fuels,WA-20036,24 Sep  21:21
-+ DigitalBridge – PLUS ES smart metering division,WA-10034,24 Sep  21:21
-+ Partners Group – Aroma-Zone,WA-85048,24 Sep  21:21
-"+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",WA-70036,24 Sep  21:21
-+ The Disability Trust - LEAD Disability Services,WA-45026,24 Sep  21:21
+NEW ENTRIES (16),Case Number,Detected (AEST)
 + Visa - BioCatch,MN-75056,25 Sep  14:06
 + Blackstone – Flow Control Holdings,WA-10037,25 Sep  21:26
 + Geosyntec Consultants – WRM Water & Environment,WA-10035,25 Sep  21:26
@@ -43,21 +60,10 @@ NEW ENTRIES (22),Case Number,Detected (AEST)
 + Kinetic - Tassielink,MN-75058,30 Sep  22:09
 "+ Waymark Hotels Group – The Queensland Hotel, Goondiwindi, QLD",WA-90038,30 Sep  22:09
 "+ Australian Venue Co – assets of Hervey Bay Hotel & Resort, Pialba, QLD",WA-25052,30 Sep  22:09
++ Schreiber Foods – Real Dairy Australia,MN-45029,01 Oct  14:55
++ Architectus – SBA,MN-70039,01 Oct  14:55
 ,,
-"CHANGED ENTRIES (10 entries, 11 change events)",Field changed,Old value  →  New value  (AEST)
-~ Steamatic Australia – Steamatic Epsom franchisee,WA-35044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steamatic-australia-%E2%80%93-steamatic-epsom-franchisee
-,Last Modified Accc,2026-09-22T16:43:12+10:00  →  2026-09-24T15:50:02+10:00  (24 Sep  21:21)
-,,
-~ L'Oréal – Gucci Beauty Licence,MN-60035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lor%C3%A9al-%E2%80%93-gucci-beauty-licence
-,Determination Publication Date,  →  22 September 2026  (24 Sep  21:21)
-,Last Modified Accc,2026-09-22T12:51:59+10:00  →  2026-09-24T17:37:48+10:00  (24 Sep  21:21)
-,,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Determination Publication Date,  →  23 September 2026  (24 Sep  21:21)
-,Other Parties,RACWA HOLDINGS PTY LTD; 60 008 985 877; THE ROYAL AUTOMOBILE CLUB OF WA INC; 33   →  THE ROYAL AUTOMOBILE CLUB OF WA INC; 33 212 133 120; RACWA HOLDINGS PTY LTD; 60   (24 Sep  21:21)
-,Last Modified Accc,2026-09-23T09:50:30+10:00  →  2026-09-24T15:48:32+10:00  (24 Sep  21:21)
-,Decisions Docs,"[{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  →  [{'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review  (24 Sep  21:21)"
-,,
+"CHANGED ENTRIES (7 entries, 8 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
 ,Last Modified Accc,2026-09-25T13:14:51+10:00  →  2026-09-29T13:48:33+10:00  (29 Sep  14:56)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  (29 Sep  14:56)
