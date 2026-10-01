@@ -120,18 +120,6 @@
     "expected_or_found": "non-empty"
   },
   {
-    "slug": "expedia-cartrawler",
-    "title": "Expedia - CarTrawler",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/expedia-cartrawler",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
     "slug": "acrow-ausgroup-industrial-services",
     "title": "Acrow - Ausgroup Industrial Services",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acrow-ausgroup-industrial-services",
@@ -324,9 +312,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "redirect-holdings-echo-solve",
-    "title": "ReDirect Holdings - Echo Solve",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve",
+    "slug": "expedia-cartrawler",
+    "title": "Expedia - CarTrawler",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/expedia-cartrawler",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "bain-capital-%E2%80%93-perpetual-wealth-management-group",
+    "title": "Bain Capital – Perpetual Wealth Management Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bain-capital-%E2%80%93-perpetual-wealth-management-group",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "oep-ix-%E2%80%93-leviat",
-    "title": "OEP IX – Leviat",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oep-ix-%E2%80%93-leviat",
+    "slug": "opal-healthcare-bethel-aged-care",
+    "title": "Opal HealthCare - Bethel Aged Care",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-bethel-aged-care",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "laundy-%E2%80%93-woy-woy-hotel",
-    "title": "Laundy – Woy Woy Hotel",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel",
+    "slug": "rdo-australia-%E2%80%93-freehold-land-and-buildings-of-three-commercial-truck-dealership-sites-in-west-wodonga-vic",
+    "title": "RDO Australia – freehold land and buildings of three commercial truck dealership sites in West Wodonga VIC",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rdo-australia-%E2%80%93-freehold-land-and-buildings-of-three-commercial-truck-dealership-sites-in-west-wodonga-vic",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,69 @@
     "expected_or_found": ""
   },
   {
-    "slug": "medhealth-%E2%80%93-connect-allied-health",
-    "title": "MedHealth – Connect Allied Health",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/medhealth-%E2%80%93-connect-allied-health",
+    "slug": "tetra-tech-%E2%80%93-providence-consulting",
+    "title": "Tetra Tech – Providence Consulting",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tetra-tech-%E2%80%93-providence-consulting",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
+    "title": "Australian Venue Co – assets of Boatbuilders Yard and General Assembly, Melbourne",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-boatbuilders-yard-and-general-assembly-melbourne",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+    "title": "ANZ, CBA, NAB and Westpac – shares in joint venture and interests in Joint Cash Pool",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/anz-cba-nab-and-westpac-%E2%80%93-shares-in-joint-venture-and-interests-in-joint-cash-pool",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "genesis-minerals-%E2%80%93-vault-minerals",
+    "title": "Genesis Minerals – Vault Minerals",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "anz-banking-group-worldline-australia",
+    "title": "ANZ Banking Group - Worldline Australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/anz-banking-group-worldline-australia",
+    "layer": 2,
+    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "severity": "WARNING",
+    "detail": "Entry is in stored data but did not appear on any listing page in this verification run. It may have been removed from the register, or the listing scrape may be incomplete.",
+    "field": "",
+    "stored_value": "",
+    "expected_or_found": ""
+  },
+  {
+    "slug": "kee-safety-ris-safety",
+    "title": "Kee Safety - RIS Safety",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kee-safety-ris-safety",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
