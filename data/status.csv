@@ -1,10 +1,10 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-10-01 12:43:18.286787,
-Last scrape run (AEST),01 Oct 2026  22:43,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-10-02 04:45:59.182425,
+Last scrape run (AEST),02 Oct 2026  14:45,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,703,
-New entries this run,2,
+Total entries monitored,706,
+New entries this run,3,
 Changed entries this run,3,
 Removed entries this run,0,
 ,,
@@ -13,40 +13,35 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Kanda Healthcare - Connecting Families,WA-25054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kanda-healthcare-connecting-families
-+ St Vincent's Private Hospitals Limited – St Vincent's Private Hospital Sydney,WA-25051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/st-vincents-private-hospitals-limited-%E2%80%93-st-vincents-private-hospital-sydney
+NEW ENTRIES (3),Case Number,URL
++ Olin - Huntsman,MN-95044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/olin-huntsman
++ ASSA ABLOY – Gunnebo Entrance Control,MN-65039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/assa-abloy-%E2%80%93-gunnebo-entrance-control
++ Altius – Converge International,MN-25053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/altius-%E2%80%93-converge-international
 ,,
 CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  1 October 2026
-,Last Modified Accc,2026-09-11T10:55:39+10:00  →  2026-10-01T16:50:58+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'ENEOS – Chevron Australia Downstream - Phase 1 determination"
+~ Imagine Education – Eden Academy,MN-05049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
 ,,
-~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
+~ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  1 October 2026
-,Last Modified Accc,2026-09-11T11:25:28+10:00  →  2026-10-01T17:43:53+10:00
+,Determination Publication Date,  →  2 October 2026
+,Last Modified Accc,2026-09-14T16:07:36+10:00  →  2026-10-02T10:03:06+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'Eli Lilly - Merida Biosciences - Phase 1 determination', 'ur"
+,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Amplitude/OG Energy - Acquisition of Artisan Gas Field - Pha"
 ,,
-~ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
+~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
-,Determination Publication Date,  →  1 October 2026
-,Last Modified Accc,2026-09-03T15:52:03+10:00  →  2026-10-01T17:02:49+10:00
+,Determination Publication Date,  →  2 October 2026
+,Last Modified Accc,2026-09-04T11:32:29+10:00  →  2026-10-02T11:48:23+10:00
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'BBFIT – Hanes Australasia - Phase 1 Determination', 'url': '"
+,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (16),Case Number,Detected (AEST)
-+ Visa - BioCatch,MN-75056,25 Sep  14:06
+NEW ENTRIES (17),Case Number,Detected (AEST)
 + Blackstone – Flow Control Holdings,WA-10037,25 Sep  21:26
 + Geosyntec Consultants – WRM Water & Environment,WA-10035,25 Sep  21:26
 + REST - Perth Airport,WA-80041,25 Sep  21:26
@@ -62,8 +57,10 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 "+ Australian Venue Co – assets of Hervey Bay Hotel & Resort, Pialba, QLD",WA-25052,30 Sep  22:09
 + Schreiber Foods – Real Dairy Australia,MN-45029,01 Oct  14:55
 + Architectus – SBA,MN-70039,01 Oct  14:55
++ Kanda Healthcare - Connecting Families,WA-25054,01 Oct  22:43
++ St Vincent's Private Hospitals Limited – St Vincent's Private Hospital Sydney,WA-25051,01 Oct  22:43
 ,,
-"CHANGED ENTRIES (7 entries, 8 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (10 entries, 11 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
 ,Last Modified Accc,2026-09-25T13:14:51+10:00  →  2026-09-29T13:48:33+10:00  (29 Sep  14:56)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  (29 Sep  14:56)
@@ -99,4 +96,28 @@ NEW ENTRIES (16),Case Number,Detected (AEST)
 ,Title,McCormick / Unilever Foods Business  →  McCormick - Unilever Foods Business  (30 Sep  22:09)
 ,Last Modified Accc,2026-09-15T16:46:39+10:00  →  2026-09-30T13:03:00+10:00  (30 Sep  22:09)
 ,Consultation Text,  →  The period for providing submissions or information in response to the ACCC’s qu  (30 Sep  22:09)
+,,
+~ ENEOS – Chevron Australia Downstream,MN-65036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eneos-%E2%80%93-chevron-australia-downstream
+,Acquisition Status,Under assessment  →  Assessment completed  (01 Oct  22:43)
+,Accc Determination,  →  Approved  (01 Oct  22:43)
+,Determination Publication Date,  →  1 October 2026  (01 Oct  22:43)
+,Last Modified Accc,2026-09-11T10:55:39+10:00  →  2026-10-01T16:50:58+10:00  (01 Oct  22:43)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (01 Oct  22:43)
+,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'ENEOS – Chevron Australia Downstream - P  (01 Oct  22:43)"
+,,
+~ Eli Lilly – Merida Biosciences,MN-80042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eli-lilly-%E2%80%93-merida-biosciences
+,Acquisition Status,Under assessment  →  Assessment completed  (01 Oct  22:43)
+,Accc Determination,  →  Approved  (01 Oct  22:43)
+,Determination Publication Date,  →  1 October 2026  (01 Oct  22:43)
+,Last Modified Accc,2026-09-11T11:25:28+10:00  →  2026-10-01T17:43:53+10:00  (01 Oct  22:43)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (01 Oct  22:43)
+,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'Eli Lilly - Merida Biosciences - Phase 1  (01 Oct  22:43)"
+,,
+~ BBFIT - Hanes Australasia,MN-10028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bbfit-hanes-australasia
+,Acquisition Status,Under assessment  →  Assessment completed  (01 Oct  22:43)
+,Accc Determination,  →  Approved  (01 Oct  22:43)
+,Determination Publication Date,  →  1 October 2026  (01 Oct  22:43)
+,Last Modified Accc,2026-09-03T15:52:03+10:00  →  2026-10-01T17:02:49+10:00  (01 Oct  22:43)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (01 Oct  22:43)
+,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'BBFIT – Hanes Australasia - Phase 1 Dete  (01 Oct  22:43)"
 ,,
