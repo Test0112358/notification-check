@@ -168,18 +168,6 @@
     "expected_or_found": "non-empty"
   },
   {
-    "slug": "motorola-solutions-d-fend-solutions",
-    "title": "Motorola Solutions - D-Fend Solutions",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
-    "layer": 1,
-    "rule": "COMPLETED_MISSING_PUB_DATE",
-    "severity": "WARNING",
-    "detail": "Assessment completed but determination_publication_date is empty.",
-    "field": "determination_publication_date",
-    "stored_value": "",
-    "expected_or_found": "non-empty"
-  },
-  {
     "slug": "innio-group-%E2%80%93-enerflex-0",
     "title": "INNIO Group – Enerflex",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/innio-group-%E2%80%93-enerflex-0",
@@ -324,9 +312,21 @@
     "expected_or_found": "at least one 4-digit code"
   },
   {
-    "slug": "ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
-    "title": "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
+    "slug": "motorola-solutions-d-fend-solutions",
+    "title": "Motorola Solutions - D-Fend Solutions",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
+  },
+  {
+    "slug": "motorola-solutions-d-fend-solutions",
+    "title": "Motorola Solutions - D-Fend Solutions",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/motorola-solutions-d-fend-solutions",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -336,9 +336,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "ik-partners-selatek",
-    "title": "IK Partners - Selatek",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ik-partners-selatek",
+    "slug": "uber-blacklane",
+    "title": "Uber - Blacklane",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/uber-blacklane",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -348,9 +348,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
-    "title": "Respect Group – McLean Care residential aged care homes and independent living units",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
+    "slug": "st-vincents-private-hospitals-limited-%E2%80%93-st-vincents-private-hospital-sydney",
+    "title": "St Vincent's Private Hospitals Limited – St Vincent's Private Hospital Sydney",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/st-vincents-private-hospitals-limited-%E2%80%93-st-vincents-private-hospital-sydney",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -360,9 +360,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "platinum-equity-group-%E2%80%93-nestl%C3%A9-waters",
-    "title": "Platinum Equity Group – Nestlé Waters",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-nestl%C3%A9-waters",
+    "slug": "cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
+    "title": "CVC Capital Partners – IFF’s Food Ingredients business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
@@ -372,9 +372,9 @@
     "expected_or_found": ""
   },
   {
-    "slug": "apollo-capital-management-%E2%80%93-questex-holdings-group",
-    "title": "Apollo Capital Management – Questex Holdings Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apollo-capital-management-%E2%80%93-questex-holdings-group",
+    "slug": "hillhouse-barwon-investment-partners",
+    "title": "Hillhouse - Barwon Investment Partners",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hillhouse-barwon-investment-partners",
     "layer": 2,
     "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
     "severity": "WARNING",
