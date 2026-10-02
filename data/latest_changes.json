@@ -1,42 +1,50 @@
 {
-  "run_utc": "2026-10-02T04:45:59.182425Z",
-  "new_count": 3,
-  "changed_count": 3,
+  "run_utc": "2026-10-02T12:07:42.053824Z",
+  "new_count": 7,
+  "changed_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "olin-huntsman",
-      "title": "Olin - Huntsman",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/olin-huntsman"
+      "slug": "stripe-openrouter",
+      "title": "Stripe - OpenRouter",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stripe-openrouter"
     },
     {
-      "slug": "assa-abloy-%E2%80%93-gunnebo-entrance-control",
-      "title": "ASSA ABLOY – Gunnebo Entrance Control",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/assa-abloy-%E2%80%93-gunnebo-entrance-control"
+      "slug": "turosi-cordina",
+      "title": "TurOSI / Cordina",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/turosi-cordina"
     },
     {
-      "slug": "altius-%E2%80%93-converge-international",
-      "title": "Altius – Converge International",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/altius-%E2%80%93-converge-international"
+      "slug": "sekisui-chemical-%E2%80%93-ausbuild",
+      "title": "Sekisui Chemical – Ausbuild",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sekisui-chemical-%E2%80%93-ausbuild"
+    },
+    {
+      "slug": "blackbird-ventures-heidi-health",
+      "title": "Blackbird Ventures - Heidi Health",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-heidi-health"
+    },
+    {
+      "slug": "herron-todd-white-group-mitchell-brandtman",
+      "title": "Herron Todd White Group - Mitchell Brandtman",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-group-mitchell-brandtman"
+    },
+    {
+      "slug": "kiwa-csa-group",
+      "title": "Kiwa - CSA Group",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-stock-exchange-hotel-brisbane-cbd-qld",
+      "title": "Australian Venue Co – assets of the Stock Exchange Hotel, Brisbane CBD, QLD",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-stock-exchange-hotel-brisbane-cbd-qld"
     }
   ],
   "changed_entries": [
     {
-      "slug": "imagine-education-%E2%80%93-eden-academy",
-      "title": "Imagine Education – Eden Academy",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy",
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 1 October 2026 via email to mergers@accc.gov.au with the title Submission re: Imagine Education – Eden Academy. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 24 Sep 2026 Closing date 1 Oct 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded."
-        }
-      ]
-    },
-    {
-      "slug": "amplitude-og-energy-artisan-gas-field",
-      "title": "Amplitude / OG Energy - Artisan Gas Field",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field",
+      "slug": "challenger-channel-capital-and-fidante",
+      "title": "Challenger - Channel Capital and Fidante",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante",
       "changes": [
         {
           "field": "acquisition_status",
@@ -55,18 +63,13 @@
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-09-14T16:07:36+10:00",
-          "new": "2026-10-02T10:03:06+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
+          "old": "2026-09-14T16:32:24+10:00",
+          "new": "2026-10-02T17:36:09+10:00"
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '2 Oct 2026', 'description': 'Amplitude/OG Energy - Acquisition of Artisan Gas Field - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/%20OG%20Energy%20-%20Artisan%20Gas%20Field%20-%20Phase%201%20determination.pdf'}]"
+          "new": "[{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determination', 'url': ''}]"
         }
       ]
     },
@@ -76,34 +79,9 @@
       "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "2 October 2026"
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-09-04T11:32:29+10:00",
-          "new": "2026-10-02T11:48:23+10:00"
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": ""
-        },
-        {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url': ''}]"
+          "old": "[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url': ''}]",
+          "new": "[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Apiam%20-%20Seymour%20Equine%20Clinic%20-%20Phase%201%20determination.pdf'}]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-10-02 04:45:59.182425,
-Last scrape run (AEST),02 Oct 2026  14:45,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-10-02 12:07:42.053824,
+Last scrape run (AEST),02 Oct 2026  22:07,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,706,
-New entries this run,3,
-Changed entries this run,3,
+Total entries monitored,713,
+New entries this run,7,
+Changed entries this run,2,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,38 +13,30 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Olin - Huntsman,MN-95044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/olin-huntsman
-+ ASSA ABLOY – Gunnebo Entrance Control,MN-65039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/assa-abloy-%E2%80%93-gunnebo-entrance-control
-+ Altius – Converge International,MN-25053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/altius-%E2%80%93-converge-international
+NEW ENTRIES (7),Case Number,URL
++ Stripe - OpenRouter,MN-90037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stripe-openrouter
++ TurOSI / Cordina,MN-10032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/turosi-cordina
++ Sekisui Chemical – Ausbuild,WA-60047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sekisui-chemical-%E2%80%93-ausbuild
++ Blackbird Ventures - Heidi Health,WA-40043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-heidi-health
++ Herron Todd White Group - Mitchell Brandtman,WA-70038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-group-mitchell-brandtman
++ Kiwa - CSA Group,WA-35048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group
+"+ Australian Venue Co – assets of the Stock Exchange Hotel, Brisbane CBD, QLD",WA-15044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-stock-exchange-hotel-brisbane-cbd-qld
 ,,
-CHANGED ENTRIES (3),Field changed,Old value  →  New value
-~ Imagine Education – Eden Academy,MN-05049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy
-,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to   →  The period for providing submissions or information in response to the ACCC’s questionnaire has conc
-,,
-~ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
+CHANGED ENTRIES (2),Field changed,Old value  →  New value
+~ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
 ,Acquisition Status,Under assessment  →  Assessment completed
 ,Accc Determination,  →  Approved
 ,Determination Publication Date,  →  2 October 2026
-,Last Modified Accc,2026-09-14T16:07:36+10:00  →  2026-10-02T10:03:06+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Amplitude/OG Energy - Acquisition of Artisan Gas Field - Pha"
+,Last Modified Accc,2026-09-14T16:32:24+10:00  →  2026-10-02T17:36:09+10:00
+,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determina"
 ,,
 ~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  2 October 2026
-,Last Modified Accc,2026-09-04T11:32:29+10:00  →  2026-10-02T11:48:23+10:00
-,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
-,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url"
+,Decisions Docs,"[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url  →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 NEW ENTRIES (17),Case Number,Detected (AEST)
-+ Blackstone – Flow Control Holdings,WA-10037,25 Sep  21:26
-+ Geosyntec Consultants – WRM Water & Environment,WA-10035,25 Sep  21:26
-+ REST - Perth Airport,WA-80041,25 Sep  21:26
 + Vets Central – Vital Vet Animal Hospital,MN-85042,28 Sep  23:17
 "+ Coles – shopping centre in Albion Park, NSW",WA-65037,28 Sep  23:17
 + Xylem - Flow Controls,MN-85054,29 Sep  14:56
@@ -59,8 +51,11 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Architectus – SBA,MN-70039,01 Oct  14:55
 + Kanda Healthcare - Connecting Families,WA-25054,01 Oct  22:43
 + St Vincent's Private Hospitals Limited – St Vincent's Private Hospital Sydney,WA-25051,01 Oct  22:43
++ Olin - Huntsman,MN-95044,02 Oct  14:45
++ ASSA ABLOY – Gunnebo Entrance Control,MN-65039,02 Oct  14:45
++ Altius – Converge International,MN-25053,02 Oct  14:45
 ,,
-"CHANGED ENTRIES (10 entries, 11 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (13 entries, 14 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
 ,Last Modified Accc,2026-09-25T13:14:51+10:00  →  2026-09-29T13:48:33+10:00  (29 Sep  14:56)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  (29 Sep  14:56)
@@ -120,4 +115,23 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-09-03T15:52:03+10:00  →  2026-10-01T17:02:49+10:00  (01 Oct  22:43)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (01 Oct  22:43)
 ,Decisions Docs,"  →  [{'date': '1 Oct 2026', 'description': 'BBFIT – Hanes Australasia - Phase 1 Dete  (01 Oct  22:43)"
+,,
+~ Imagine Education – Eden Academy,MN-05049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy
+,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The period for providing submissions or information in response to the ACCC’s qu  (02 Oct  14:45)
+,,
+~ Amplitude / OG Energy - Artisan Gas Field,MN-01121,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amplitude-og-energy-artisan-gas-field
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Oct  14:45)
+,Accc Determination,  →  Approved  (02 Oct  14:45)
+,Determination Publication Date,  →  2 October 2026  (02 Oct  14:45)
+,Last Modified Accc,2026-09-14T16:07:36+10:00  →  2026-10-02T10:03:06+10:00  (02 Oct  14:45)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (02 Oct  14:45)
+,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Amplitude/OG Energy - Acquisition of Art  (02 Oct  14:45)"
+,,
+~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Oct  14:45)
+,Accc Determination,  →  Approved  (02 Oct  14:45)
+,Determination Publication Date,  →  2 October 2026  (02 Oct  14:45)
+,Last Modified Accc,2026-09-04T11:32:29+10:00  →  2026-10-02T11:48:23+10:00  (02 Oct  14:45)
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (02 Oct  14:45)
+,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1   (02 Oct  14:45)"
 ,,
