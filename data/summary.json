@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-10-02T12:35:32.751390Z",
-  "total_entries": 713,
+  "generated_at_utc": "2026-10-05T05:19:07.032699Z",
+  "total_entries": 714,
   "by_acquisition_status": {
-    "Under assessment": 30,
+    "Under assessment": 31,
     "Assessment completed": 678,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 267,
+    "Phase 1 - initial assessment": 268,
     "Waiver application": 437,
     "Phase 2 - detailed assessment": 9
   },
   "by_type": {
-    "Notification": 276,
+    "Notification": 277,
     "Waiver": 437
   },
   "by_accc_determination": {
@@ -20,5 +20,12 @@
     "Not approved": 24,
     "Approved with conditions": 5
   },
-  "decisions_due_within_10_days": []
+  "decisions_due_within_10_days": [
+    {
+      "slug": "mufg-pension-market-services-grow-technology-services",
+      "title": "MUFG Pension & Market Services - Grow Technology Services",
+      "end_of_determination_period": "13 Oct 2026",
+      "days_remaining": 8
+    }
+  ]
 }

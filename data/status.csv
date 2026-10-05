@@ -1,11 +1,11 @@
 ﻿Metric,Value,Notes
 ,,
-Last scrape run (UTC),2026-10-02 12:07:42.053824,
-Last scrape run (AEST),02 Oct 2026  22:07,UTC + 10 hrs (no DST adjustment)
+Last scrape run (UTC),2026-10-05 04:46:25.770152,
+Last scrape run (AEST),05 Oct 2026  14:46,UTC + 10 hrs (no DST adjustment)
 ,,
-Total entries monitored,713,
-New entries this run,7,
-Changed entries this run,2,
+Total entries monitored,714,
+New entries this run,1,
+Changed entries this run,1,
 Removed entries this run,0,
 ,,
 Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
@@ -13,30 +13,19 @@ Auto-run schedule,Mon to Fri,8am / 11am / 2pm / 5pm AEST
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ Stripe - OpenRouter,MN-90037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stripe-openrouter
-+ TurOSI / Cordina,MN-10032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/turosi-cordina
-+ Sekisui Chemical – Ausbuild,WA-60047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sekisui-chemical-%E2%80%93-ausbuild
-+ Blackbird Ventures - Heidi Health,WA-40043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-heidi-health
-+ Herron Todd White Group - Mitchell Brandtman,WA-70038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-group-mitchell-brandtman
-+ Kiwa - CSA Group,WA-35048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group
-"+ Australian Venue Co – assets of the Stock Exchange Hotel, Brisbane CBD, QLD",WA-15044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-stock-exchange-hotel-brisbane-cbd-qld
+NEW ENTRIES (1),Case Number,URL
++ APEM Group - Resource Strategies,MN-85049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apem-group-resource-strategies
 ,,
-CHANGED ENTRIES (2),Field changed,Old value  →  New value
+CHANGED ENTRIES (1),Field changed,Old value  →  New value
 ~ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
-,Acquisition Status,Under assessment  →  Assessment completed
-,Accc Determination,  →  Approved
-,Determination Publication Date,  →  2 October 2026
-,Last Modified Accc,2026-09-14T16:32:24+10:00  →  2026-10-02T17:36:09+10:00
-,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determina"
-,,
-~ Apiam – Seymour Equine Clinic,MN-95040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic
-,Decisions Docs,"[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url  →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url"
+,Last Modified Accc,2026-10-02T17:36:09+10:00  →  2026-10-05T10:56:22+11:00
+,Consultation Text,The period for providing submissions or information in response to the ACCC’s questionnaire has conc  →  
+,Decisions Docs,"[{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determina  →  [{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determina"
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
-NEW ENTRIES (17),Case Number,Detected (AEST)
+NEW ENTRIES (24),Case Number,Detected (AEST)
 + Vets Central – Vital Vet Animal Hospital,MN-85042,28 Sep  23:17
 "+ Coles – shopping centre in Albion Park, NSW",WA-65037,28 Sep  23:17
 + Xylem - Flow Controls,MN-85054,29 Sep  14:56
@@ -54,8 +43,15 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 + Olin - Huntsman,MN-95044,02 Oct  14:45
 + ASSA ABLOY – Gunnebo Entrance Control,MN-65039,02 Oct  14:45
 + Altius – Converge International,MN-25053,02 Oct  14:45
++ Stripe - OpenRouter,MN-90037,02 Oct  22:07
++ TurOSI / Cordina,MN-10032,02 Oct  22:07
++ Sekisui Chemical – Ausbuild,WA-60047,02 Oct  22:07
++ Blackbird Ventures - Heidi Health,WA-40043,02 Oct  22:07
++ Herron Todd White Group - Mitchell Brandtman,WA-70038,02 Oct  22:07
++ Kiwa - CSA Group,WA-35048,02 Oct  22:07
+"+ Australian Venue Co – assets of the Stock Exchange Hotel, Brisbane CBD, QLD",WA-15044,02 Oct  22:07
 ,,
-"CHANGED ENTRIES (13 entries, 14 change events)",Field changed,Old value  →  New value  (AEST)
+"CHANGED ENTRIES (14 entries, 16 change events)",Field changed,Old value  →  New value  (AEST)
 ~ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
 ,Last Modified Accc,2026-09-25T13:14:51+10:00  →  2026-09-29T13:48:33+10:00  (29 Sep  14:56)
 ,Consultation Text,The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  →  The ACCC has prepared a questionnaire on the Acquisition. Submissions or informa  (29 Sep  14:56)
@@ -134,4 +130,12 @@ NEW ENTRIES (17),Case Number,Detected (AEST)
 ,Last Modified Accc,2026-09-04T11:32:29+10:00  →  2026-10-02T11:48:23+10:00  (02 Oct  14:45)
 ,Consultation Text,The period for providing submissions or information in response to the ACCC’s qu  →    (02 Oct  14:45)
 ,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1   (02 Oct  14:45)"
+,Decisions Docs,"[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1   →  [{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1   (02 Oct  22:07)"
+,,
+~ Challenger - Channel Capital and Fidante,MN-65033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante
+,Acquisition Status,Under assessment  →  Assessment completed  (02 Oct  22:07)
+,Accc Determination,  →  Approved  (02 Oct  22:07)
+,Determination Publication Date,  →  2 October 2026  (02 Oct  22:07)
+,Last Modified Accc,2026-09-14T16:32:24+10:00  →  2026-10-02T17:36:09+10:00  (02 Oct  22:07)
+,Decisions Docs,"  →  [{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante  (02 Oct  22:07)"
 ,,

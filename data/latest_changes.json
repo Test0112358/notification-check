@@ -1,43 +1,13 @@
 {
-  "run_utc": "2026-10-02T12:07:42.053824Z",
-  "new_count": 7,
-  "changed_count": 2,
+  "run_utc": "2026-10-05T04:46:25.770152Z",
+  "new_count": 1,
+  "changed_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "stripe-openrouter",
-      "title": "Stripe - OpenRouter",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stripe-openrouter"
-    },
-    {
-      "slug": "turosi-cordina",
-      "title": "TurOSI / Cordina",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/turosi-cordina"
-    },
-    {
-      "slug": "sekisui-chemical-%E2%80%93-ausbuild",
-      "title": "Sekisui Chemical – Ausbuild",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sekisui-chemical-%E2%80%93-ausbuild"
-    },
-    {
-      "slug": "blackbird-ventures-heidi-health",
-      "title": "Blackbird Ventures - Heidi Health",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-heidi-health"
-    },
-    {
-      "slug": "herron-todd-white-group-mitchell-brandtman",
-      "title": "Herron Todd White Group - Mitchell Brandtman",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/herron-todd-white-group-mitchell-brandtman"
-    },
-    {
-      "slug": "kiwa-csa-group",
-      "title": "Kiwa - CSA Group",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group"
-    },
-    {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-the-stock-exchange-hotel-brisbane-cbd-qld",
-      "title": "Australian Venue Co – assets of the Stock Exchange Hotel, Brisbane CBD, QLD",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-stock-exchange-hotel-brisbane-cbd-qld"
+      "slug": "apem-group-resource-strategies",
+      "title": "APEM Group - Resource Strategies",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apem-group-resource-strategies"
     }
   ],
   "changed_entries": [
@@ -47,41 +17,19 @@
       "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/challenger-channel-capital-and-fidante",
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed"
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved"
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "2 October 2026"
-        },
-        {
           "field": "last_modified_accc",
-          "old": "2026-09-14T16:32:24+10:00",
-          "new": "2026-10-02T17:36:09+10:00"
+          "old": "2026-10-02T17:36:09+10:00",
+          "new": "2026-10-05T10:56:22+11:00"
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": ""
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determination', 'url': ''}]"
-        }
-      ]
-    },
-    {
-      "slug": "apiam-%E2%80%93-seymour-equine-clinic",
-      "title": "Apiam – Seymour Equine Clinic",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-seymour-equine-clinic",
-      "changes": [
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url': ''}]",
-          "new": "[{'date': '2 Oct 2026', 'description': 'Apiam - Seymour Equine Clinic - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Apiam%20-%20Seymour%20Equine%20Clinic%20-%20Phase%201%20determination.pdf'}]"
+          "old": "[{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determination', 'url': ''}]",
+          "new": "[{'date': '2 Oct 2026', 'description': 'Challenger - Channel Capital and Fidante - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Challenger%20-%20Channel%20Capital%20and%20Fidante%20-%20Phase%201%20determination%20-%202%20October%202026.pdf'}]"
         }
       ]
     }
