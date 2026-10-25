@@ -9,3 +9,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Monitor run artefacts (not committed)
+.cache/
+outbox/
+data/register.xlsx
+*.tmp

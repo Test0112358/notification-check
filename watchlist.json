@@ -1,0 +1,15 @@
+{
+  "_instructions": [
+    "Matters that match any entry below are flagged in the 'Watchlist Match' column,",
+    "on the Dashboard, and trigger a separate 'ACCC watchlist alert' email when they",
+    "are new, change, or receive a new decision document.",
+    "companies:    names matched as whole words against the matter name and all parties, e.g. \"Coles\", \"Woolworths\"",
+    "sectors:      M&A sector labels exactly as shown in the 'M&A Sector' column, e.g. \"Supermarkets and Grocery\"",
+    "anzsic_codes: ANZSIC code prefixes, e.g. \"6419\" (one class) or \"64\" (a whole subdivision)",
+    "keywords:     any text in the matter name, parties, consultation text or decision documents, e.g. \"s87B\""
+  ],
+  "companies": [],
+  "sectors": [],
+  "anzsic_codes": [],
+  "keywords": []
+}
