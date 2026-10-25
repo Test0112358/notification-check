@@ -1,135 +1,155 @@
-ACCC Acquisitions Register Monitor
-Automatically scrapes the ACCC Acquisitions Register, detects any field-level changes across all 250+ entries (including granular date changes on individual case pages), and commits the results back to this repository on a schedule.
-The `data/` directory is a version-controlled database. Every git commit is a timestamped snapshot. The full history of every change is in `data/changelog.json`.
+# ACCC Acquisitions Register Monitor
+
+Scrapes the ACCC Acquisitions Register on a schedule, detects field-level changes on every matter, downloads consultation documents, and sends readable HTML email alerts. Results are committed back to this repository, so `data/` is a version-controlled database and every commit is a timestamped snapshot.
+
 ---
-What is tracked
-For every entry on the register:
-Column	Source
-Acquisition Name	Detail page h1
-Type	Notification / Waiver
-Case Number	MN-XXXXX or WA-XXXXX
-Acquirer(s)	Detail page (semicolon-separated)
-Target(s) / Vendor(s)	Detail page (semicolon-separated)
-Other Parties	Detail page (semicolon-separated)
-Notification / Application Date	Listing + detail page
-Stage	Phase 1, Phase 2, Waiver application, etc.
-Acquisition Status	Under assessment, Assessment completed, etc.
-End of Determination Period	Detail page only (notification cases)
-Determination Period Calendar Days (ACT)	Calculated: notification date → end of det. period
-Determination Period Business Days (ACT)	Calculated using ACT public holiday calendar
-Elapsed Calendar Days to Decision	Calculated: notification date → det. publication date
-Elapsed Business Days to Decision (ACT)	Same, ACT business days
-ACCC Determination	Approved / Approved with conditions / Not approved
-Determination Publication Date	Detail page only (completed cases)
-ANZSIC Code(s)	Detail page
-URL	Direct link to the ACCC case page
-ACCC Page Last Modified	`article:modified_time` meta tag — changes whenever ACCC edits the page
-Last Scraped (UTC)	Timestamp of the scrape run
-Change detection is field-level. Even a date that shifts by one day on an otherwise unchanged page will be caught.
+
+## What you get
+
+| Output | Where | When |
+|---|---|---|
+| **Register update email** (HTML, Excel attached) | Email | A run finds new matters, material changes, removals or new decision documents |
+| **Consultation documents email** (only this run's files attached) | Email | New questionnaires, remedy offers or draft s87B undertakings are downloaded |
+| **Watchlist alert** | Email | A matter matching `watchlist.json` is new, changes, or gets a new decision document |
+| **Weekly digest** (Excel attached) | Email | First successful run of each week (normally Monday morning) |
+| **Monitor failure alert** | Email | A run fails (site blocked, data check failed, crash). Repeats about daily while failing |
+| **Verification failure alert** | Email | The independent accuracy checks find errors |
+| Google Sheets tabs | Sheets | Every successful run (optional) |
+| `data/register.csv`, `data/register.xlsx` | Repo / run artifact | Every successful run |
+
+### Alerts only fire on material changes
+
+Every change is recorded in `data/changelog.json`, tagged `"material": true/false`.
+
+- **Material:** status, stage, determination, dates, parties, ANZSIC codes, consultation close date, and new rows in the document tables.
+- **Cosmetic (recorded, never alerted):** the ACCC page's "last modified" time, consultation wording tweaks, a document link being filled in, and the consultation table disappearing after consultation closes.
+
+### Day counts
+
+All business and calendar day counts treat the **Effective Notification Date as Day 0**, so a standard Phase 1 period is 30 business days. Business days exclude weekends, ACT public holidays (official ACT Government lists, 2025 to 2029) and the ACCC's 23 December to 11 January suspension. The verifier recounts every period with a different algorithm and requires an exact match.
+
 ---
-Files in `data/`
-File	Contents
-`register.json`	Complete current state of every entry (full detail)
-`register.csv`	Same data as above, as a spreadsheet-ready CSV
-`changelog.json`	Append-only log of every change, new entry, and removal with timestamps
-`summary.json`	Aggregate statistics (by status, stage, type, determinations; entries due within 10 days)
-`latest_changes.json`	Only the changes from the most recent run — used for notifications
+
+## Columns in `register.csv` / Raw Data
+
+The original columns keep their positions. New columns are appended at the end, so existing column letters in your spreadsheets still line up.
+
+| Column | Notes |
+|---|---|
+| Acquisition Name, Type, Case Number | |
+| Acquirer(s), Target(s) / Vendor(s), Other Parties | One item per party, with its company number attached, e.g. `Smile Partners (NSW3) Pty Ltd (ACN 695 902 955)` |
+| M&A Sector | Derived from ANZSIC codes (`anzsic_sectors.py`) |
+| Notification / Application Date, End of Determination Period, Determination Publication Date | ISO dates (YYYY-MM-DD) |
+| Determination Period Calendar Days / Business Days (ACT) | Day 0 = notification date |
+| Elapsed Calendar / Business Days to Decision (ACT) | Notification date → determination publication date |
+| Stage, Acquisition Status, ACCC Determination, ANZSIC Code(s), URL | |
+| Decisions and Key Events, Consultation Text, Consultation Documents | |
+| Questionnaire | `Y` if the matter had a consultation questionnaire |
+| ACCC Page Last Modified, Last Checked (Canberra time) | Canberra time, AEST or AEDT as applicable |
+| **Business Days Elapsed / Remaining, Deadline Status** | Deadline tracker for matters under assessment: On track, Due within 10 / 5 business days, Due today, Past deadline (awaiting publication) |
+| **Consultation Closes** | Parsed from the consultation text |
+| **Latest Key Event** | Most recent decision/key event, classified (e.g. "Moved to Phase 2", "Timeline extended") |
+| **Watchlist Match** | Why the matter matches `watchlist.json` |
+| **First Seen** | When the monitor first saw the matter |
+
 ---
-Setup
-1. Fork or clone this repository
-Create a private repository on GitHub (recommended — keeps your monitoring internal).
-2. Enable GitHub Actions write permissions
-Go to your repository → Settings → Actions → General → Workflow permissions.
-Select Read and write permissions and save.
-3. Set up optional notifications
-All notifications are optional. If you skip this step, the scraper still runs and commits data — you just won't get push alerts.
-Email (Gmail):
-Create a Gmail App Password (not your main password).
-Add these GitHub repository secrets (Settings → Secrets and variables → Actions → New repository secret):
-`MAIL_USERNAME` — your Gmail address
-`MAIL_PASSWORD` — the App Password
-`MAIL_RECIPIENTS` — comma-separated list of recipient addresses
-Slack:
-Create an Incoming Webhook for your Slack workspace.
-Add `SLACK_WEBHOOK_URL` as a GitHub repository secret.
-If neither secret is set, those steps in the workflow are silently skipped.
-4. Run it manually to confirm it works
-Go to Actions → ACCC Register Monitor → Run workflow.
-The first run will take ~5–8 minutes (fetching all ~250+ detail pages). Subsequent runs are the same speed since we always fetch all detail pages to catch granular changes.
-5. Check the schedule
-The workflow runs Monday–Friday at approximately 8 am, 11 am, 2 pm, and 5 pm AEST.
-Edit `.github/workflows/monitor.yml` to adjust the cron schedule if needed.
+
+## Files in `data/`
+
+| File | Contents |
+|---|---|
+| `register.json` | Current state of every matter (full detail) |
+| `register.csv` | Spreadsheet-ready export (see columns above) |
+| `changelog.json` | Append-only log of every change, new entry and removal, with `material` flags |
+| `latest_changes.json` | This run's changes, with a readable `summary` line per change |
+| `summary.json` | Totals, decisions due, consultations closing, data health and analytics (by year, month, stage, sector) |
+| `status.csv` | Content of the "Last Updated" Sheets tab |
+| `health.json` | Last successful run, consecutive failures, last error, requests used |
+| `documents_manifest.json` | Every consultation document ever seen, with download status |
+| `consultation_docs/` | Downloaded consultation documents, named `MN-12345 - <original name>` |
+| `new_documents.json` | Documents downloaded and decision documents found in the latest run |
+| `verification_*.{json,csv}` | Accuracy verification results |
+
+`register.xlsx` is emailed and kept as a run artifact for 90 days but not committed, to keep the repository small. Its tabs are Summary, Active Matters, Notifications, Waivers, Recent Changes, Case History, Analytics and Raw Data.
+
+### Consultation documents are never lost
+
+Every consultation document is recorded in `documents_manifest.json` as soon as it is seen. Downloads that fail are retried on later runs, up to 6 attempts. Documents beyond the per-run cap of 25 wait for the next run instead of being dropped. Word, PDF and other formats are all collected.
+
+On its first run, the manifest also backfills documents that appear only in the changelog. This recovers 10 PDF consultation documents (9 remedy offers or draft s87B undertakings and 1 questionnaire) that the old `.docx`-only logic skipped.
+
 ---
-Sharing data with your team
-Download the CSV directly from GitHub:
-```
-https://raw.githubusercontent.com/YOUR-ORG/YOUR-REPO/main/data/register.csv
-```
-Team members can import this URL directly into Excel (Data → From Web) or Google Sheets
-(`=IMPORTDATA("https://raw.githubusercontent.com/...")`), and it will always reflect the latest scrape.
-GitHub repository access:
-Add team members as collaborators (Settings → Collaborators). They can watch the repo to receive
-GitHub notifications on every commit (i.e., every time changes are detected).
-Actions artifacts:
-Every run uploads the CSV, summary, and latest_changes files as a GitHub Actions artifact,
-retained for 90 days. Team members can download these from the Actions tab without touching the repo.
+
+## Request budget (why runs are light)
+
+Each run fetches the ~15 listing pages, then only the case pages that may have changed:
+
+- new matters, and matters whose listing values (status, stage, dates) changed
+- every matter under assessment
+- matters decided or modified in the last 21 days
+- pages whose previous fetch failed
+- a rolling sweep of the least-recently-checked pages, sized so every page is re-checked about weekly
+
+That is roughly **120 to 170 requests per run, instead of about 830**. Verification re-parses the HTML saved during the same run, so it adds no requests. Requests are 1.5 seconds apart, retries skip 4xx errors, `Retry-After` is honoured, and the run stops after 3 consecutive `403` responses.
+
+To re-check every page once, run the workflow manually with **full_refresh** ticked.
+
 ---
-Import into Google Sheets (live link)
-In a Google Sheet cell, enter:
-```
-=IMPORTDATA("https://raw.githubusercontent.com/YOUR-ORG/YOUR-REPO/main/data/register.csv")
-```
-This imports a live copy. It refreshes when you reload the sheet (note: Google caches it for ~1 hour).
-For a completely live feed, use a Google Apps Script trigger to re-import on a schedule.
+
+## If the ACCC site blocks the monitor (HTTP 403)
+
+From 5 October 2026 the ACCC's CDN (Akamai) has answered every request from GitHub's runners with `403 Access Denied`, even for `robots.txt`. The block is based on where requests come from (cloud/datacenter IP ranges), not on what is requested, so code changes alone cannot fix it. The monitor now emails you when this happens, and the data shows how old it is.
+
+Options, in order of effort:
+
+1. **Self-hosted runner (no code change).** Install a GitHub Actions runner on an always-on machine with a normal business or home connection (Settings → Actions → Runners → New self-hosted runner). Then add the repository variable `RUNNER_LABEL` = `self-hosted` (Settings → Secrets and variables → Actions → Variables). The workflow runs there from the next scheduled run.
+2. **Identify the monitor and ask to be allowed.** Add the repository variable `MONITOR_CONTACT` (an email address or URL). It is appended to the User-Agent, e.g. `ACCC-Register-Monitor/2.0 (...; contact: you@example.com)`. Then ask the ACCC to allow it.
+
 ---
-Running locally
+
+## Setup
+
+1. **Workflow permissions:** Settings → Actions → General → Workflow permissions → *Read and write permissions*.
+2. **Email (optional):** add repository secrets `MAIL_USERNAME`, `MAIL_PASSWORD`, `MAIL_SENDER` and `MAIL_RECIPIENTS` (comma-separated). Mail is sent through the Brevo SMTP relay configured in the workflow. Without `MAIL_USERNAME`, email steps are skipped.
+3. **Google Sheets (optional):** add `GOOGLE_SHEETS_CREDENTIALS` (service account JSON) and `GOOGLE_SHEET_ID`, and share the sheet with the service account. Tabs written: Raw Data (Do not edit), Last Updated, Dashboard, Active Matters, Case History, Summary, Monthly Stats. Numbers and dates are written as real values, so they sort and filter correctly.
+4. **Watchlist (optional):** edit `watchlist.json` (instructions inside).
+5. **Run it:** Actions → ACCC Register Monitor + Verify → Run workflow.
+
+**Schedule:** Monday to Friday at 10:23am and 4:23pm AEST (11:23am and 5:23pm AEDT). GitHub can start scheduled runs late. To change the times, edit the cron line in `.github/workflows/monitor.yml` and `SCHEDULE_TEXT` in `accc_common.py`.
+
+---
+
+## Running locally
+
 ```bash
 pip install -r requirements.txt
-python scraper.py
+python -m unittest discover -s tests     # parser, calculation and pipeline tests (no network)
+python scraper.py                        # scrape, detect changes, write data/ and outbox/
+python verify.py                         # verify (add --live 5 to also spot-check 5 pages live)
 ```
-The scraper reads from and writes to `data/` in the current directory.
-On the first run there is no stored data, so everything is treated as new. This is expected.
+
 ---
-Known limitations and honest caveats
-No official API. The ACCC does not provide a structured data API. Everything is scraped
-from HTML. If the ACCC redesigns their website (Drupal CMS upgrade, template change, etc.),
-the field parser in `scraper.py` may need updating. The most fragile parts are the h3-label
-parsing in `parse_detail_page()` and the card-text parsing in `parse_card()`.
-ACCC Determination Period field. The ACCC website does not publish a field with this
-exact name. The "Determination Period Calendar Days" and "Determination Period Business Days"
-columns are calculated by this tool from notification date → end of determination period.
-For completed cases, the elapsed columns use notification date → determination publication date.
-ACT public holiday accuracy. Business day calculations use the `workalendar` library's
-`AustralianCapitalTerritory` calendar. This covers standard ACT public holidays
-(Canberra Day, Family & Community Day, etc.) but may not reflect ad hoc proclaimed holidays
-or any holidays added after the library's last update. Verify calculations for edge cases.
-Rate limiting. The scraper sends roughly 250–300 HTTP requests per run (one per case page).
-At the current 1.2-second delay, each run takes ~5–8 minutes. If the ACCC blocks the scraper's
-IP, increase `REQUEST_DELAY` in `scraper.py`. The User-Agent string identifies the tool honestly.
-Detail-only fields. "End of determination period" and "ACCC Determination" only appear on
-individual case pages, not on the listing. This is why we fetch every detail page every run
-rather than only fetching changed pages. A date that shifts silently on a detail page will
-still be caught because we compare `last_modified_accc` (the Drupal page modification timestamp)
-as a tracked field in addition to the parsed values.
-Verification. The scraper is not infallible. Spot-check the CSV against the ACCC website
-periodically, especially for recently completed cases. The `last_modified_accc` column tells you
-when the ACCC last touched each page, which helps confirm the data is current.
-GitHub Actions free tier. At 4 runs/weekday × ~8 min/run × 22 weekdays/month ≈ 700 min/month.
-Well within the 2,000 minutes/month free limit. If you switch to hourly runs, reassess.
+
+## Code layout
+
+| File | Role |
+|---|---|
+| `accc_common.py` | Paths, ACT holiday calendar, business days, Canberra time, polite HTTP client, run health |
+| `scraper.py` | Listing and case page parsing, which pages to fetch, change detection, sanity guard |
+| `documents.py` | Consultation document manifest and downloads, decision document classification, consultation close dates |
+| `reporting.py` | CSV, Excel, summary/analytics, deadline tracker, watchlist, HTML emails |
+| `verify.py` | Independent accuracy checks (consistency rules, cross-source, independent re-parse) |
+| `push_to_sheets.py` | Google Sheets tabs |
+| `anzsic_sectors.py` | ANZSIC code → M&A sector mapping |
+| `tests/` | Unit and end-to-end tests with HTML fixtures (run before every scrape) |
+
 ---
-Troubleshooting
-Parser returns empty fields. The ACCC may have changed the HTML structure of a field label.
-Open the relevant case page in your browser, right-click → Inspect, and check how the h3
-headings and their values are structured. Update the `SCALAR_FIELDS` or `LIST_FIELDS` dicts
-in `scraper.py` to match.
-Scraper detects spurious changes every run. Likely a whitespace or encoding difference.
-The `clean()` function normalises whitespace but cannot catch every edge case.
-Inspect the `"old"` and `"new"` values in `changelog.json` to identify the pattern,
-then add normalisation for that specific field.
-Workflow fails with "Permission denied" on git push. Check that workflow write permissions
-are enabled in repository settings (step 2 above).
----
-Adapting for other ACCC registers
-The `BASE_URL` and `REGISTER_PATH` constants in `scraper.py` and the `SCALAR_FIELDS` /
-`LIST_FIELDS` dicts in `parse_detail_page()` are the only things you need to change to
-monitor a different ACCC public register with a similar Drupal structure.
+
+## Safeguards and known limitations
+
+- **No official API.** Everything is parsed from HTML. If the ACCC changes its page layout, the **sanity guard** refuses to save data that has lost key fields on more than 25% of pages, or a listing with fewer than 80% of known matters. Stored data is left untouched and you get a failure email. The parser lives in `parse_card()` and `parse_detail_page()` in `scraper.py`.
+- **Test fixtures are modelled, not captured.** `tests/fixtures/` mirrors the page structure the parser expects. When you next have access, saving a real listing page and case page over the fixtures makes the tests stronger.
+- **ACT holidays.** Add each new year from the ACT Government PDF to `accc_common.py` and raise `HOLIDAY_TABLE_LAST_YEAR`. The verifier warns when register dates pass the last year covered.
+- **Christmas suspension.** The 23 December to 11 January exclusion follows the ACCC Merger Process Guidelines. Check it against the latest guidelines each year.
+- **Unusual company identifiers.** Party lines are paired with their company numbers by pattern. A few rare overseas identifier formats may still appear as a separate item.
+- **GitHub Actions minutes.** A typical run takes a few minutes, well inside the free tier.

@@ -9,21 +9,25 @@ Layer 1 — Internal consistency rules (no HTTP, runs on all entries):
     Every entry is checked against rules that are true by definition.
     Examples: dates must be in logical order, case numbers must match the
     entry type, required fields must be present, business day counts must
-    re-verify independently from scratch.
+    re-verify exactly using a different counting method (numpy.busday_count).
 
-Layer 2 — Cross-source check (re-fetches listing pages, ~6 HTTP requests):
+Layer 2 — Cross-source check (listing pages saved by this run's scrape):
     The register listing pages show a subset of fields (acquisition_status,
-    type, case_number, stage, notification_date). These are re-scraped fresh
-    and compared against what is stored from the detail-page scrape. If the
-    listing says "Phase 1" but the stored detail page says "Phase 2", one of
-    them is wrong.
+    type, case_number, stage, notification_date). These are re-extracted with
+    a regex parser and compared against what is stored from the detail-page
+    scrape. If the listing says "Phase 1" but the stored detail page says
+    "Phase 2", one of them is wrong.
 
-Layer 3 — Detail page re-scrape (re-fetches a random sample of case pages):
-    A random sample of detail pages is fetched independently, parsed using a
-    completely separate extraction method (CSS selectors and regex, NOT the
-    h3-navigation used in scraper.py), and the results are compared field by
-    field against stored data. Any discrepancy surfaces a parser bug, a
-    network error from the original scrape, or a page change that was missed.
+Layer 3 — Detail page re-parse (case pages saved by this run's scrape):
+    A sample of detail pages is parsed using a completely separate extraction
+    method (CSS selectors and regex, NOT the h3-navigation used in scraper.py),
+    and the results are compared field by field against stored data. Any
+    discrepancy surfaces a parser bug.
+
+Layers 2 and 3 read the HTML that scraper.py saved under .cache/ during the
+same workflow run, so verification adds no extra requests to the ACCC site.
+Use --live N to additionally fetch N random pages live (e.g. when running
+locally without a cache).
 
 Outputs:
     data/verification_report.json  — full structured issue list
@@ -32,59 +36,35 @@ Outputs:
 """
 
 import csv
+import datetime
+import hashlib
 import json
 import os
 import random
 import re
 import sys
-import time
-import datetime
-import hashlib
-from urllib.parse import urljoin
 
-import requests
+import numpy as np
 from bs4 import BeautifulSoup
+
+from accc_common import (
+    ACT_PUBLIC_HOLIDAYS, BASE_URL, CASE_PATH_MARKER, DATA_DIR, DOCUMENTS_MANIFEST_JSON,
+    HOLIDAY_TABLE_LAST_YEAR, REGISTER_JSON, REGISTER_PATH, REGISTER_URL, AccessBlocked,
+    PoliteSession, cached_detail_html, cached_listing_pages, in_christmas_suspension,
+    load_json, parse_date, utc_now_iso, write_github_outputs,
+)
 
 
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-BASE_URL = "https://www.accc.gov.au"
-# ACCC swapped this segment to "acquisitions-and-mergers-registers" (Aug 2026).
-REGISTER_PATH = "/public-registers/acquisitions-and-mergers-registers/acquisitions-register"
-REGISTER_URL = BASE_URL + REGISTER_PATH
-CASE_PATH_MARKER = "/acquisitions-register/"
-
-DATA_DIR = "data"
-REGISTER_JSON = os.path.join(DATA_DIR, "register.json")
 REPORT_JSON = os.path.join(DATA_DIR, "verification_report.json")
 REPORT_CSV = os.path.join(DATA_DIR, "verification_report.csv")
 SUMMARY_JSON = os.path.join(DATA_DIR, "verification_summary.json")
 
-# How many detail pages to re-scrape in Layer 3.
-# Set to 0 to skip Layer 3 entirely (faster, useful on every-run checks).
-# Default: re-scrape at least 15 entries, or 15% of the register, whichever is larger.
-SAMPLE_MIN = 15
-SAMPLE_PCT = 0.15
-
-REQUEST_DELAY = 1.2
-REQUEST_TIMEOUT = 30
-
-HEADERS = {
-    "User-Agent": (
-        "ACCC-Register-Verifier/1.0 "
-        "(automated accuracy check; github.com/YOUR-ORG/accc-monitor)"
-    )
-}
-
-
-
-DATE_FORMATS = [
-    "%d %B %Y",
-    "%d %b %Y",
-    "%B %d, %Y",
-    "%Y-%m-%d",
-]
+# How many cached detail pages to re-parse in Layer 3 (all of them if fewer).
+SAMPLE_MIN = 40
+SAMPLE_PCT = 0.25
 
 # Known valid values for categorical fields
 VALID_ACQUISITION_STATUS = {
@@ -120,161 +100,13 @@ INFO = "INFO"        # Informational anomaly worth noting
 
 
 # ---------------------------------------------------------------------------
-# ACT Public Holiday Calendar — Official ACT Government Source
-# ---------------------------------------------------------------------------
-# Source: ACT Government Work Safety Group, Chief Minister, Treasury and
-# Economic Development Directorate (wsg@act.gov.au)
-#   ACT-Public-Holidays-2026.pdf — correct as at 24 March 2026
-#   ACT-Public-Holidays-2027.pdf — correct as at 9 December 2025
-#   ACT-Public-Holidays-2028.pdf — correct as at 9 December 2025
-#   ACT-Public-Holidays-2029.pdf — correct as at 9 December 2025
-#   2025 dates derived from the same authority (prior year publication)
-#
-# When new annual PDFs are published by the ACT Government, add the new
-# year's dates here and update requirements.txt if needed.
-# New PDFs are published at: https://www.act.gov.au/working-in-the-act/public-holidays
-#
-# NOTE: Business day calculations also exclude the ACCC's Christmas/New Year
-# suspension period (23 December to 11 January inclusive) per the ACCC
-# Merger Process Guidelines.
-# ---------------------------------------------------------------------------
-
-_D = datetime.date  # shorthand
-
-ACT_PUBLIC_HOLIDAYS = {
-
-    # 2025 — derived from ACT Government Holidays Act 1958 (ACT) rules
-    _D(2025,  1,  1),  # New Year's Day
-    _D(2025,  1, 27),  # Australia Day (26 Jan is Sunday, observed Monday)
-    _D(2025,  3, 10),  # Canberra Day (second Monday in March)
-    _D(2025,  4, 18),  # Good Friday
-    _D(2025,  4, 19),  # Easter Saturday
-    _D(2025,  4, 20),  # Easter Sunday
-    _D(2025,  4, 21),  # Easter Monday
-    _D(2025,  4, 25),  # ANZAC Day (Friday)
-    _D(2025,  6,  2),  # Reconciliation Day (27 May is Tuesday, following Monday)
-    _D(2025,  6,  9),  # King's Birthday (second Monday in June)
-    _D(2025, 10,  6),  # Labour Day (first Monday in October)
-    _D(2025, 12, 25),  # Christmas Day
-    _D(2025, 12, 26),  # Boxing Day
-
-    # 2026 — ACT-Public-Holidays-2026.pdf (correct as at 24 March 2026)
-    _D(2026,  1,  1),  # New Year's Day
-    _D(2026,  1, 26),  # Australia Day
-    _D(2026,  3,  9),  # Canberra Day
-    _D(2026,  4,  3),  # Good Friday
-    _D(2026,  4,  4),  # Easter Saturday
-    _D(2026,  4,  5),  # Easter Sunday
-    _D(2026,  4,  6),  # Easter Monday
-    _D(2026,  4, 25),  # ANZAC Day (Saturday — observed)
-    _D(2026,  4, 27),  # ANZAC Day additional (Monday — as 25 Apr is Saturday)
-    _D(2026,  6,  1),  # Reconciliation Day (27 May is Wednesday, following Monday)
-    _D(2026,  6,  8),  # King's Birthday
-    _D(2026, 10,  5),  # Labour Day
-    _D(2026, 12, 25),  # Christmas Day
-    _D(2026, 12, 26),  # Boxing Day (Saturday — observed)
-    _D(2026, 12, 28),  # Boxing Day additional (Monday — as 26 Dec is Saturday)
-
-    # 2027 — ACT-Public-Holidays-2027.pdf (correct as at 9 December 2025)
-    _D(2027,  1,  1),  # New Year's Day
-    _D(2027,  1, 26),  # Australia Day
-    _D(2027,  3,  8),  # Canberra Day
-    _D(2027,  3, 26),  # Good Friday
-    _D(2027,  3, 27),  # Easter Saturday
-    _D(2027,  3, 28),  # Easter Sunday
-    _D(2027,  3, 29),  # Easter Monday
-    _D(2027,  4, 26),  # ANZAC Day (25 Apr is Sunday, observed following Monday)
-    _D(2027,  5, 31),  # Reconciliation Day (27 May is Thursday, following Monday)
-    _D(2027,  6, 14),  # King's Birthday
-    _D(2027, 10,  4),  # Labour Day
-    _D(2027, 12, 25),  # Christmas Day (Saturday — observed)
-    _D(2027, 12, 27),  # Christmas Day additional (Monday — as 25 Dec is Saturday)
-    _D(2027, 12, 26),  # Boxing Day (Sunday — observed)
-    _D(2027, 12, 28),  # Boxing Day additional (Tuesday — as 26 Dec is Sunday)
-
-    # 2028 — ACT-Public-Holidays-2028.pdf (correct as at 9 December 2025)
-    _D(2028,  1,  1),  # New Year's Day (Saturday — observed)
-    _D(2028,  1,  3),  # New Year's Day additional (Monday — as 1 Jan is Saturday)
-    _D(2028,  1, 26),  # Australia Day
-    _D(2028,  3, 13),  # Canberra Day
-    _D(2028,  4, 14),  # Good Friday
-    _D(2028,  4, 15),  # Easter Saturday
-    _D(2028,  4, 16),  # Easter Sunday
-    _D(2028,  4, 17),  # Easter Monday
-    _D(2028,  4, 25),  # ANZAC Day (Tuesday)
-    _D(2028,  5, 29),  # Reconciliation Day (27 May is Saturday, following Monday)
-    _D(2028,  6, 12),  # King's Birthday
-    _D(2028, 10,  2),  # Labour Day
-    _D(2028, 12, 25),  # Christmas Day (Monday)
-    _D(2028, 12, 26),  # Boxing Day (Tuesday)
-
-    # 2029 — ACT-Public-Holidays-2029.pdf (correct as at 9 December 2025)
-    _D(2029,  1,  1),  # New Year's Day
-    _D(2029,  1, 26),  # Australia Day
-    _D(2029,  3, 12),  # Canberra Day
-    _D(2029,  3, 30),  # Good Friday
-    _D(2029,  3, 31),  # Easter Saturday
-    _D(2029,  4,  1),  # Easter Sunday
-    _D(2029,  4,  2),  # Easter Monday
-    _D(2029,  4, 25),  # ANZAC Day (Wednesday)
-    _D(2029,  5, 28),  # Reconciliation Day (27 May is Sunday, following Monday)
-    _D(2029,  6, 11),  # King's Birthday
-    _D(2029, 10,  1),  # Labour Day
-    _D(2029, 12, 25),  # Christmas Day (Tuesday)
-    _D(2029, 12, 26),  # Boxing Day (Wednesday)
-}
-
-
-def is_accc_business_day(d):
-    """
-    Returns True if d counts as a business day under the ACCC merger regime.
-    Excludes weekends, ACT public holidays (official ACT Government PDFs),
-    and the 23 Dec to 11 Jan Christmas/New Year suspension period per the
-    ACCC Merger Process Guidelines.
-    """
-    if d.weekday() >= 5:  # 5 = Saturday, 6 = Sunday
-        return False
-    if d in ACT_PUBLIC_HOLIDAYS:
-        return False
-    # ACCC Christmas/New Year suspension (23 Dec to 11 Jan inclusive)
-    if (d.month == 12 and d.day >= 23) or (d.month == 1 and d.day <= 11):
-        return False
-    return True
-
-
-def count_accc_business_days(start_date, end_date):
-    """
-    Count ACCC business days from start_date to end_date inclusive.
-    """
-    if not start_date or not end_date or end_date < start_date:
-        return None
-    count = 0
-    current = start_date
-    while current <= end_date:
-        if is_accc_business_day(current):
-            count += 1
-        current += datetime.timedelta(days=1)
-    return count
-# ---------------------------------------------------------------------------
 # Shared utilities
 # ---------------------------------------------------------------------------
-
-def parse_date(s):
-    if not s:
-        return None
-    s = s.strip()
-    for fmt in DATE_FORMATS:
-        try:
-            return datetime.datetime.strptime(s, fmt).date()
-        except ValueError:
-            continue
-    return None
-
 
 def clean(s):
     if not s:
         return ""
-    return re.sub(r"\s+", " ", str(s).strip())
+    return re.sub(r"\s+", " ", str(s).replace("\xa0", " ").strip())
 
 
 def issue(slug, title, url, layer, rule, severity, detail, field="", stored="", expected=""):
@@ -293,40 +125,36 @@ def issue(slug, title, url, layer, rule, severity, detail, field="", stored="", 
     }
 
 
-def fetch_soup(url, session):
-    for attempt in range(3):
-        try:
-            resp = session.get(url, timeout=REQUEST_TIMEOUT)
-            resp.raise_for_status()
-            return BeautifulSoup(resp.text, "lxml"), resp.text
-        except requests.RequestException as exc:
-            wait = REQUEST_DELAY * (2 ** attempt)
-            print(f"      Attempt {attempt+1}/3 failed: {exc}. Waiting {wait:.1f}s...")
-            if attempt < 2:
-                time.sleep(wait)
-    return None, None
-
-
 # ---------------------------------------------------------------------------
 # Layer 1: Internal consistency rules (no HTTP)
 # ---------------------------------------------------------------------------
 
+def _non_business_dates(start, end):
+    """Holidays and Christmas suspension days in [start, end], as numpy dates."""
+    days = set(d for d in ACT_PUBLIC_HOLIDAYS if start <= d <= end)
+    current = start
+    while current <= end:
+        if in_christmas_suspension(current):
+            days.add(current)
+        current += datetime.timedelta(days=1)
+    return np.array(sorted(days), dtype="datetime64[D]")
+
+
 def recalculate_business_days(start_str, end_str):
     """
     Independent recalculation of ACCC business days for verification.
-    Uses a day-by-day loop as a second opinion on the scraper's output.
+    Uses numpy.busday_count (a different algorithm from the scraper's
+    day-by-day loop) over the half-open range (start, end], i.e. Day 0 is the
+    notification date and the end date is counted.
     """
     start = parse_date(start_str)
     end = parse_date(end_str)
     if not start or not end or end < start:
         return None
-    count = 0
-    current = start
-    while current <= end:
-        if is_accc_business_day(current):
-            count += 1
-        current += datetime.timedelta(days=1)
-    return count
+    begin = np.datetime64(start + datetime.timedelta(days=1), "D")
+    stop = np.datetime64(end + datetime.timedelta(days=1), "D")
+    return int(np.busday_count(begin, stop, weekmask="1111100",
+                               holidays=_non_business_dates(start, end)))
 
 
 def layer1_consistency(register):
@@ -365,7 +193,7 @@ def layer1_consistency(register):
                 add(
                     "CASE_NUMBER_FORMAT",
                     ERROR,
-                    f"Notification entry has case number '{case_num}' — expected MN-NNNNN format.",
+                    f"Notification entry has case number '{case_num}'; expected MN-NNNNN format.",
                     "case_number", case_num, "MN-NNNNN",
                 )
 
@@ -374,7 +202,7 @@ def layer1_consistency(register):
                 add(
                     "CASE_NUMBER_FORMAT",
                     ERROR,
-                    f"Waiver entry has case number '{case_num}' — expected WA-NNNNN format.",
+                    f"Waiver entry has case number '{case_num}'; expected WA-NNNNN format.",
                     "case_number", case_num, "WA-NNNNN",
                 )
 
@@ -419,7 +247,7 @@ def layer1_consistency(register):
             add(
                 "WAIVER_STAGE_MISMATCH",
                 WARNING,
-                f"Waiver entry has stage '{stage}' — expected 'Waiver application'.",
+                f"Waiver entry has stage '{stage}'; expected 'Waiver application'.",
                 "stage", stage, "Waiver application",
             )
 
@@ -512,14 +340,35 @@ def layer1_consistency(register):
                 )
 
             if recalc_biz is not None and stored_biz is not None:
-                if abs(int(stored_biz) - recalc_biz) > 1:
-                    # Allow 1-day tolerance for boundary counting conventions
+                # Exact match: both sides use the same Day 0 convention, so any
+                # difference is a real bug (no tolerance that could hide one).
+                if int(stored_biz) != recalc_biz:
                     add(
                         "BUSINESS_DAYS_MISMATCH",
                         ERROR,
-                        f"Stored ACT business days ({stored_biz}) differs by more than 1 from independent recalculation ({recalc_biz}).",
+                        f"Stored ACT business days ({stored_biz}) does not match independent recalculation ({recalc_biz}).",
                         "det_period_business_days", str(stored_biz), str(recalc_biz),
                     )
+
+            if (entry_type == "Notification" and stage.startswith("Phase 1")
+                    and recalc_biz is not None and recalc_biz < 30):
+                add(
+                    "PHASE1_PERIOD_TOO_SHORT",
+                    WARNING,
+                    f"Phase 1 determination period is {recalc_biz} business days; the statutory minimum is 30.",
+                    "end_of_determination_period", end_str, "at least 30 business days after notification",
+                )
+
+        # ── Holiday table coverage ─────────────────────────────────────────
+        for label, d in (("notification_date", notif_date), ("end_of_determination_period", end_date)):
+            if d and d.year > HOLIDAY_TABLE_LAST_YEAR:
+                add(
+                    "HOLIDAY_TABLE_EXPIRED",
+                    WARNING,
+                    f"{label} ({d}) is after the last year in the ACT holiday table "
+                    f"({HOLIDAY_TABLE_LAST_YEAR}). Add the new year's holidays to accc_common.py.",
+                    label, str(d), f"<= {HOLIDAY_TABLE_LAST_YEAR}",
+                )
 
         # ── Completed case completeness ────────────────────────────────────
         if acq_status == "Assessment completed":
@@ -583,7 +432,7 @@ def layer1_consistency(register):
             add(
                 "MISSING_MODIFIED_TIMESTAMP",
                 WARNING,
-                "last_modified_accc (article:modified_time) is empty — scraper may have failed to read meta tag.",
+                "last_modified_accc (article:modified_time) is empty; the scraper may have failed to read meta tag.",
                 "last_modified_accc", "", "ISO 8601 timestamp",
             )
 
@@ -592,7 +441,7 @@ def layer1_consistency(register):
 
 
 # ---------------------------------------------------------------------------
-# Layer 2: Cross-source check (re-fetch listing pages)
+# Layer 2: Cross-source check (listing pages from this run)
 # ---------------------------------------------------------------------------
 
 def parse_listing_for_verification(soup):
@@ -612,7 +461,7 @@ def parse_listing_for_verification(soup):
             continue
 
         slug = href.rstrip("/").split("/")[-1]
-        text = a.get_text(separator="|SEP|")
+        text = a.get_text(separator="|SEP|", strip=True)
 
         def extract(pattern, text=text):
             m = re.search(pattern, text, re.IGNORECASE)
@@ -643,40 +492,34 @@ def parse_listing_for_verification(soup):
     return results
 
 
-def layer2_cross_source(register, session):
+def layer2_cross_source(register, session=None):
     """
-    Re-fetch all listing pages and compare extracted values against stored data.
-    Catches cases where the detail-page scraper extracted a different value than
-    what the listing page shows — a reliable sign of a parser error.
+    Compare listing-page values (from the pages this run's scrape saved)
+    against stored data. Catches cases where the detail-page scraper extracted
+    a different value than what the listing page shows — a reliable sign of a
+    parser error.
     """
-    print("\n  Layer 2: Cross-source check (re-fetching listing pages)...")
+    print("\n  Layer 2: Cross-source check (listing pages saved by this run)...")
     issues = []
 
-    # Fetch all listing pages fresh
+    pages = cached_listing_pages()
+    if not pages and session is not None:
+        print("    No cached listing pages; fetching page 1 live.")
+        result = session.get(f"{REGISTER_URL}?items_per_page=50&page=0")
+        pages = [result.text] if result.ok else []
+    if not pages:
+        issues.append(issue(
+            "REGISTER_INDEX", "Register index page", REGISTER_URL, 2,
+            "LISTING_NOT_AVAILABLE", INFO,
+            "No listing pages were available to cross-check (scrape did not run in this job).",
+        ))
+        return issues
+
     fresh_listing = {}
-    page = 0
-    while True:
-        url = f"{REGISTER_URL}?items_per_page=50&page={page}"
-        print(f"    Fetching listing page {page + 1}...")
-        soup, _ = fetch_soup(url, session)
-        if not soup:
-            issues.append(issue(
-                "REGISTER_INDEX", "Register index page", url, 2,
-                "LISTING_PAGE_FETCH_FAILED", ERROR,
-                f"Could not fetch listing page {page + 1}. Cross-source check may be incomplete.",
-            ))
-            break
-        page_data = parse_listing_for_verification(soup)
-        fresh_listing.update(page_data)
-        time.sleep(REQUEST_DELAY)
+    for html in pages:
+        fresh_listing.update(parse_listing_for_verification(BeautifulSoup(html, "lxml")))
 
-        # Check if there's a next page
-        next_link = soup.find("a", title=re.compile(r"Go to next page", re.I))
-        if not next_link:
-            break
-        page += 1
-
-    print(f"    Re-scraped {len(fresh_listing)} entries from listing pages.")
+    print(f"    Re-parsed {len(fresh_listing)} entries from {len(pages)} listing page(s).")
 
     # Compare shared fields
     SHARED_FIELDS = [
@@ -706,6 +549,8 @@ def layer2_cross_source(register, session):
         for fresh_field, stored_field in SHARED_FIELDS:
             fv = clean(fresh.get(fresh_field, ""))
             sv = clean(stored.get(stored_field, ""))
+            if stored_field == "notification_date" and parse_date(fv) and parse_date(fv) == parse_date(sv):
+                fv = sv  # same date, different format ("11 Sep" vs "11 September")
             if fv and sv and fv != sv:
                 issues.append(issue(
                     slug, t, u, 2,
@@ -734,8 +579,8 @@ def layer2_cross_source(register, session):
             slug, stored.get("title", slug), stored.get("url", ""), 2,
             "ENTRY_STORED_BUT_NOT_IN_LISTING",
             WARNING,
-            "Entry is in stored data but did not appear on any listing page in this verification run. "
-            "It may have been removed from the register, or the listing scrape may be incomplete.",
+            "Entry is in stored data but did not appear on any listing page in this run. "
+            "It may have been removed from the register, or a listing page failed to load.",
         ))
 
     print(f"    {matched} field values matched. {len([i for i in issues if i['layer'] == 2])} issues found.")
@@ -792,7 +637,9 @@ def re_parse_detail_independently(soup, url):
 
     # ── Full page text for regex extraction ───────────────────────────────
     # Join all text with a sentinel separator so we can use word-boundary regex.
-    all_text = soup.get_text(separator=" ||| ")
+    # strip=True drops the whitespace-only text nodes between tags; without it
+    # "Label ||| \n ||| Value" never matched the patterns below.
+    all_text = soup.get_text(separator=" ||| ", strip=True)
 
     def regex_extract(pattern):
         m = re.search(pattern, all_text, re.IGNORECASE)
@@ -883,41 +730,72 @@ FIELDS_TO_COMPARE_IN_RESCRAPE = [
 ]
 
 
-def layer3_rescrape(register, session, sample_size=None):
-    """
-    Re-fetch a random sample of detail pages, parse them with an independent
-    method, and compare field by field against stored data.
-    """
-    total = len(register)
-    if sample_size is None:
-        sample_size = max(SAMPLE_MIN, int(total * SAMPLE_PCT))
-    sample_size = min(sample_size, total)
+def _party_key(text):
+    return re.sub(r"[^a-z0-9]", "", text.lower())
 
-    slugs = random.sample(list(register.keys()), sample_size)
-    print(f"\n  Layer 3: Detail page re-scrape (random sample of {sample_size}/{total})...")
+
+def _compare_parties(stored_value, li_value):
+    """Stored party names that the independent <li> extraction does not contain."""
+    from scraper import party_names
+    li_keys = [_party_key(x) for x in li_value.split("; ") if x]
+    missing = []
+    for name in party_names(stored_value):
+        key = _party_key(name)
+        if key and not any(key in li for li in li_keys):
+            missing.append(name)
+    return missing
+
+
+def layer3_rescrape(register, session=None, sample_size=None, live=0):
+    """
+    Re-parse a sample of the detail pages saved by this run's scrape with an
+    independent method and compare field by field against stored data.
+    Optionally fetch `live` extra random pages from the site.
+    Returns (issues, pages_checked).
+    """
+    cached = [slug for slug in register if cached_detail_html(slug)]
+    if sample_size is None:
+        sample_size = max(SAMPLE_MIN, int(len(cached) * SAMPLE_PCT))
+    slugs = random.sample(cached, min(sample_size, len(cached)))
+
+    live_slugs = []
+    if live and session is not None:
+        pool = [s for s in register if s not in slugs]
+        live_slugs = random.sample(pool, min(live, len(pool)))
+
+    total = len(slugs) + len(live_slugs)
+    print(f"\n  Layer 3: Detail page re-parse ({len(slugs)} saved this run"
+          f"{f', {len(live_slugs)} fetched live' if live_slugs else ''})...")
 
     issues = []
-    for i, slug in enumerate(slugs, 1):
+    for i, slug in enumerate(slugs + live_slugs, 1):
         stored = register[slug]
         url = stored.get("url", "")
         t = stored.get("title", slug)
 
-        print(f"    [{i:3d}/{sample_size}] {slug[:65]}")
+        print(f"    [{i:3d}/{total}] {slug[:65]}")
 
-        soup, raw_html = fetch_soup(url, session)
-        time.sleep(REQUEST_DELAY)
+        if slug in live_slugs:
+            try:
+                result = session.get(url)
+            except AccessBlocked as exc:
+                issues.append(issue(slug, t, url, 3, "RESCRAPE_BLOCKED", WARNING, str(exc)))
+                break
+            html = result.text if result.ok else None
+        else:
+            html = cached_detail_html(slug)
 
-        if not soup:
+        if not html:
             issues.append(issue(
                 slug, t, url, 3,
                 "RESCRAPE_FETCH_FAILED",
-                ERROR,
-                "Could not fetch this page during verification re-scrape. "
-                "Original scrape data may be stale or the page is temporarily unavailable.",
+                WARNING,
+                "Could not fetch this page for the live spot check. "
+                "The page may be temporarily unavailable.",
             ))
             continue
 
-        fresh = re_parse_detail_independently(soup, url)
+        fresh = re_parse_detail_independently(BeautifulSoup(html, "lxml"), url)
 
         # ── Compare each field ─────────────────────────────────────────────
         for field in FIELDS_TO_COMPARE_IN_RESCRAPE:
@@ -928,33 +806,50 @@ def layer3_rescrape(register, session, sample_size=None):
             # (empty result from re-parser is not necessarily an error)
             if not fv:
                 continue
+            if field.endswith("date") or field == "end_of_determination_period":
+                if parse_date(sv) and parse_date(sv) == parse_date(fv):
+                    continue
 
             if sv != fv:
                 issues.append(issue(
                     slug, t, url, 3,
                     "RESCRAPE_VALUE_MISMATCH",
                     ERROR,
-                    f"Field '{field}': stored='{sv}', independent re-scrape='{fv}'. "
-                    "One of the two is wrong, or the page changed since the last scrape.",
+                    f"Field '{field}': stored='{sv}', independent re-parse='{fv}'. "
+                    "One of the two parsers is wrong, or the page changed since it was scraped.",
                     field, sv, fv,
                 ))
 
-        # ── Check if stored last_modified matches re-scraped last_modified ─
-        # If they differ, the page was updated between the original scrape and now.
-        stored_mod = clean(stored.get("last_modified_accc", ""))
-        fresh_mod = clean(fresh.get("last_modified_accc", ""))
-        if stored_mod and fresh_mod and stored_mod != fresh_mod:
-            issues.append(issue(
-                slug, t, url, 3,
-                "PAGE_MODIFIED_SINCE_SCRAPE",
-                WARNING,
-                f"Page was modified after the last scrape. "
-                f"Scraped at modified_time={stored_mod}, current modified_time={fresh_mod}. "
-                "The next scheduled scrape will pick up these changes automatically.",
-                "last_modified_accc", stored_mod, fresh_mod,
-            ))
+        # ── Parties: every stored name should appear in the <li> extraction ─
+        for field in ("acquirers", "targets"):
+            if fresh.get(field) and stored.get(field):
+                missing = _compare_parties(stored[field], fresh[field])
+                if missing:
+                    issues.append(issue(
+                        slug, t, url, 3,
+                        "RESCRAPE_PARTY_MISMATCH",
+                        WARNING,
+                        f"Stored {field} name(s) not found by the independent parser: {'; '.join(missing)[:200]}.",
+                        field, stored[field], fresh[field],
+                    ))
 
-    print(f"    Re-scrape complete. {len([i for i in issues if i['layer'] == 3])} issues found.")
+    print(f"    Re-parse complete. {len([i for i in issues if i['layer'] == 3])} issues found.")
+    return issues, total
+
+
+def layer_documents():
+    """Consultation documents that could not be downloaded after repeated attempts."""
+    from documents import MAX_DOWNLOAD_ATTEMPTS
+    issues = []
+    for url, rec in load_json(DOCUMENTS_MANIFEST_JSON, {}).items():
+        if rec.get("status") != "downloaded" and rec.get("attempts", 0) >= MAX_DOWNLOAD_ATTEMPTS:
+            issues.append(issue(
+                rec.get("slug", ""), rec.get("title", ""), rec.get("accc_url", ""), 1,
+                "DOCUMENT_DOWNLOAD_GAVE_UP", WARNING,
+                f"Consultation document could not be downloaded after {rec['attempts']} attempts "
+                f"({rec.get('last_error', '')}). Download it manually: {url}",
+                "consultation_docs", rec.get("filename", ""), url,
+            ))
     return issues
 
 
@@ -1024,11 +919,11 @@ def save_summary(issues, register_size, run_utc, sample_size):
 # Main
 # ---------------------------------------------------------------------------
 
-def run(skip_layer3=False, sample_size=None, seed=None):
+def run(skip_layer3=False, sample_size=None, seed=None, live=0):
     separator = "=" * 65
     print(f"\n{separator}")
-    print(f"  ACCC Register Verifier")
-    print(f"  {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S local')}")
+    print("  ACCC Register Verifier")
+    print(f"  {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}")
     print(f"{separator}\n")
 
     if not os.path.exists(REGISTER_JSON):
@@ -1040,7 +935,7 @@ def run(skip_layer3=False, sample_size=None, seed=None):
 
     print(f"  Loaded {len(register)} entries from {REGISTER_JSON}.")
 
-    run_utc = datetime.datetime.utcnow().isoformat() + "Z"
+    run_utc = utc_now_iso()
 
     if seed is not None:
         random.seed(seed)
@@ -1049,37 +944,41 @@ def run(skip_layer3=False, sample_size=None, seed=None):
 
     # Layer 1
     all_issues.extend(layer1_consistency(register))
+    all_issues.extend(layer_documents())
 
-    # Layers 2 and 3 require HTTP
-    session = requests.Session()
-    session.headers.update(HEADERS)
+    # Layers 2 and 3 use the HTML saved by this run's scrape. A session is
+    # only used for an explicit --live spot check or when nothing is cached.
+    session = PoliteSession() if live or not cached_listing_pages() else None
 
     # Layer 2
-    all_issues.extend(layer2_cross_source(register, session))
+    try:
+        all_issues.extend(layer2_cross_source(register, session))
+    except AccessBlocked as exc:
+        all_issues.append(issue("REGISTER_INDEX", "Register index page", REGISTER_URL, 2,
+                                "LISTING_BLOCKED", WARNING, str(exc)))
 
     # Layer 3
     actual_sample = 0
     if not skip_layer3:
-        actual_sample = sample_size or max(SAMPLE_MIN, int(len(register) * SAMPLE_PCT))
-        actual_sample = min(actual_sample, len(register))
-        all_issues.extend(layer3_rescrape(register, session, actual_sample))
+        layer3_issues, actual_sample = layer3_rescrape(register, session, sample_size, live)
+        all_issues.extend(layer3_issues)
 
     # Save outputs
     print("\n  Saving outputs...")
     save_report(all_issues)
-    summary = save_summary(all_issues, len(register), run_utc, actual_sample)
+    save_summary(all_issues, len(register), run_utc, actual_sample)
 
     # Print summary
     errors, warnings, infos = categorise_issues(all_issues)
     print(f"\n{'─' * 65}")
-    print(f"  Verification complete.")
+    print("  Verification complete.")
     print(f"  Register entries checked: {len(register)}")
     print(f"  Layer 3 sample size:      {actual_sample}")
     print(f"  Total issues:             {len(all_issues)}")
     print(f"    Errors:   {len(errors)}")
     print(f"    Warnings: {len(warnings)}")
     print(f"    Info:     {len(infos)}")
-    print(f"  Result: {'✅ PASSED' if not errors else '❌ FAILED — see data/verification_report.csv'}")
+    print(f"  Result: {'✅ PASSED' if not errors else '❌ FAILED: see data/verification_report.csv'}")
     print(f"{'─' * 65}\n")
 
     if errors:
@@ -1090,12 +989,11 @@ def run(skip_layer3=False, sample_size=None, seed=None):
             print(f"    ... and {len(errors) - 20} more errors in the report.")
 
     # GitHub Actions outputs
-    gh_output = os.environ.get("GITHUB_OUTPUT", "")
-    if gh_output:
-        with open(gh_output, "a") as f:
-            f.write(f"verification_passed={'true' if not errors else 'false'}\n")
-            f.write(f"error_count={len(errors)}\n")
-            f.write(f"warning_count={len(warnings)}\n")
+    write_github_outputs(
+        verification_passed=not errors,
+        error_count=len(errors),
+        warning_count=len(warnings),
+    )
 
     return not errors  # True = passed
 
@@ -1104,16 +1002,19 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--skip-layer3", action="store_true",
-                        help="Skip the detail page re-scrape (faster, for frequent runs)")
+                        help="Skip the detail page re-parse")
     parser.add_argument("--sample", type=int, default=None,
-                        help="Override number of entries to re-scrape in Layer 3")
+                        help="Override number of saved pages to re-parse in Layer 3")
     parser.add_argument("--seed", type=int, default=None,
                         help="Random seed for reproducible Layer 3 sample selection")
+    parser.add_argument("--live", type=int, default=0,
+                        help="Also fetch N random detail pages live from the ACCC site")
     args = parser.parse_args()
 
     passed = run(
         skip_layer3=args.skip_layer3,
         sample_size=args.sample,
         seed=args.seed,
+        live=args.live,
     )
     sys.exit(0 if passed else 1)

@@ -2,31 +2,54 @@ name: ACCC Register Monitor + Verify
 
 on:
   schedule:
-    - cron: '0 0,6  * * 1-5'
+    # 00:23 and 06:23 UTC, Mon-Fri = 10:23am and 4:23pm AEST (11:23am and 5:23pm AEDT).
+    # Off the hour on purpose: GitHub delays jobs scheduled at :00 the most.
+    # Keep SCHEDULE_TEXT in accc_common.py in sync with this line.
+    - cron: '23 0,6 * * 1-5'
   workflow_dispatch:
     inputs:
       reason:
         description: 'Reason for manual trigger (optional)'
         required: false
         default: 'Manual run'
+      full_refresh:
+        description: 'Re-check every case page (about 730 requests instead of about 150)'
+        type: boolean
+        required: false
+        default: false
+
+# Never let two runs overlap (both would commit and push data).
+concurrency:
+  group: accc-monitor
+  cancel-in-progress: false
 
 jobs:
-  scrape:
-    name: Scrape ACCC Acquisitions Register
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
+  monitor:
+    name: Scrape, verify and notify
+    # Repository variable RUNNER_LABEL lets the job run on a self-hosted runner
+    # (e.g. "self-hosted") if the ACCC site keeps blocking GitHub's cloud IPs.
+    runs-on: ${{ vars.RUNNER_LABEL || 'ubuntu-latest' }}
+    timeout-minutes: 60
 
     permissions:
       contents: write
 
+    env:
+      MAIL_ENABLED: ${{ secrets.MAIL_USERNAME != '' }}
+      SHEETS_ENABLED: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS != '' && secrets.GOOGLE_SHEET_ID != '' }}
+      # Optional contact (email or URL) added to the User-Agent. Set it as a
+      # repository variable when you are ready; no code change needed.
+      MONITOR_CONTACT: ${{ vars.MONITOR_CONTACT }}
+      FULL_REFRESH: ${{ inputs.full_refresh && '1' || '' }}
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
 
       - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
           cache: 'pip'
@@ -34,28 +57,46 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Parser and calculation tests
+        id: tests
+        run: python -m unittest discover -s tests -v
+
       - name: Run scraper
         id: scraper
         run: python scraper.py
 
+      - name: Verify data accuracy
+        id: verify
+        if: steps.scraper.outcome == 'success'
+        continue-on-error: true
+        run: python verify.py
+
       - name: Commit data files
-        if: steps.scraper.outputs.has_changes == 'true'
+        if: always() && (steps.scraper.outcome == 'success' || steps.scraper.outcome == 'failure')
         run: |
           git config user.name "ACCC Monitor Bot"
           git config user.email "actions@github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Register update: new=${{ steps.scraper.outputs.new_count }} changed=${{ steps.scraper.outputs.changed_count }} removed=${{ steps.scraper.outputs.removed_count }}"
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          if [ "${{ steps.scraper.outcome }}" = "success" ]; then
+            msg="Register update: new=${{ steps.scraper.outputs.new_count }} changed=${{ steps.scraper.outputs.changed_count }} removed=${{ steps.scraper.outputs.removed_count }} | verification errors=${{ steps.verify.outputs.error_count }} warnings=${{ steps.verify.outputs.warning_count }}"
+          else
+            msg="Monitor run failed (${{ steps.scraper.outputs.failure_kind }}); health recorded, data unchanged"
+          fi
+          git commit -m "$msg"
           git push
 
       - name: Push data to Google Sheets
-        if: env.GOOGLE_SHEETS_CREDENTIALS != '' && env.GOOGLE_SHEET_ID != ''
+        if: steps.scraper.outcome == 'success' && env.SHEETS_ENABLED == 'true'
+        continue-on-error: true
         env:
           GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
-        run: |
-          pip install gspread google-auth --break-system-packages
-          python push_to_sheets.py
-          
+        run: python push_to_sheets.py
+
       - name: Upload data artifact
         if: always()
         uses: actions/upload-artifact@v4
@@ -63,169 +104,85 @@ jobs:
           name: accc-register-${{ github.run_id }}
           path: |
             data/register.csv
+            data/register.xlsx
             data/summary.json
             data/latest_changes.json
-          retention-days: 90
-
-      - name: Email notification on changes
-        if: steps.scraper.outputs.has_changes == 'true' && env.MAIL_USERNAME != ''
-        uses: dawidd6/action-send-mail@v3
-        env:
-          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-        with:
-          server_address: smtp-relay.brevo.com
-          server_port: 587
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
-          subject: "ACCC Register update: ${{ steps.scraper.outputs.new_count }} new, ${{ steps.scraper.outputs.changed_count }} changed"
-          body: |
-            The ACCC Acquisitions Register has been updated.
-
-            New entries:     ${{ steps.scraper.outputs.new_count }}
-            Changed entries: ${{ steps.scraper.outputs.changed_count }}
-            Removed entries: ${{ steps.scraper.outputs.removed_count }}
-
-            Download the latest CSV:
-            ${{ github.server_url }}/${{ github.repository }}/raw/main/data/register.csv
-
-            View what changed:
-            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/latest_changes.json
-
-            Full changelog:
-            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/changelog.json
-
-            ACCC Register:
-            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
-
-      - name: Email new consultation documents
-        if: steps.scraper.outputs.consultation_doc_count != '0' && env.MAIL_USERNAME != ''
-        uses: dawidd6/action-send-mail@v3
-        env:
-          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-        with:
-          server_address: smtp-relay.brevo.com
-          server_port: 587
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
-          subject: "ACCC — ${{ steps.scraper.outputs.consultation_doc_count }} new consultation document(s) published"
-          attachments: data/consultation_docs/*
-          body: |
-            The ACCC has published new consultation document(s).
-
-            ${{ steps.scraper.outputs.consultation_doc_count }} document(s) are attached.
-            File type may be Word or PDF depending on the case.
-
-            These relate to active consultation periods where the ACCC is
-            seeking submissions from interested parties.
-
-            Documents are also stored permanently here:
-            ${{ github.server_url }}/${{ github.repository }}/tree/main/data/consultation_docs
-
-            ACCC Register:
-            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
-
-
-            Documents are also stored permanently here:
-            ${{ github.server_url }}/${{ github.repository }}/tree/main/data/decision_docs
-
-            Full details:
-            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/new_documents.json
-
-            ACCC Register:
-            https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
-
-
-      - name: Email Excel register to recipients
-        if: env.MAIL_USERNAME != ''
-        uses: dawidd6/action-send-mail@v3
-        env:
-          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-        with:
-          server_address: smtp-relay.brevo.com
-          server_port: 587
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          to: ${{ secrets.MAIL_RECIPIENTS }}
-          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
-          subject: "ACCC Register — ${{ steps.scraper.outputs.new_count }} new · ${{ steps.scraper.outputs.changed_count }} changed · ${{ steps.scraper.outputs.removed_count }} removed"
-          attachments: data/register.xlsx
-          body: |
-            ACCC Acquisitions Register — automated update
-
-            Run completed at: ${{ steps.scraper.outputs.run_utc }}
-
-            Changes this run:
-              New entries:     ${{ steps.scraper.outputs.new_count }}
-              Changed entries: ${{ steps.scraper.outputs.changed_count }}
-              Removed entries: ${{ steps.scraper.outputs.removed_count }}
-
-            The full register is attached as an Excel workbook with four tabs:
-              • Raw Data       — all 260+ entries
-              • Notifications  — notification cases only, sorted by date
-              • Waivers        — waiver cases only, sorted by date
-              • Summary        — run statistics and timestamps
-
-            Auto-run schedule: Mon–Fri, 10am and 4pm AEST
-            
-            ACCC Register: https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/acquisitions-register
-          
-  verify:
-    name: Verify Data Accuracy
-    runs-on: ubuntu-latest
-    needs: scrape
-    if: always()
-    timeout-minutes: 30
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 1
-
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run verification
-        id: verify
-        run: python verify.py
-
-      - name: Commit verification report
-        run: |
-          git config user.name "ACCC Monitor Bot"
-          git config user.email "actions@github.com"
-          git add data/verification_report.json data/verification_report.csv data/verification_summary.json || true
-          git diff --cached --quiet || git commit -m "Verification: errors=${{ steps.verify.outputs.error_count }} warnings=${{ steps.verify.outputs.warning_count }}"
-          git push
-
-      - name: Upload verification report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: verification-report-${{ github.run_id }}
-          path: |
+            data/health.json
             data/verification_report.csv
             data/verification_summary.json
+            outbox/*.html
+          if-no-files-found: ignore
           retention-days: 90
 
-      - name: Email alert on verification errors
-        if: steps.verify.outputs.verification_passed == 'false' && env.MAIL_USERNAME != ''
+      # ── Emails ────────────────────────────────────────────────────────────
+      - name: Email register update
+        if: steps.scraper.outcome == 'success' && steps.scraper.outputs.has_changes == 'true' && env.MAIL_ENABLED == 'true'
         uses: dawidd6/action-send-mail@v3
-        env:
-          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        with:
+          server_address: smtp-relay.brevo.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
+          subject: ${{ steps.scraper.outputs.changes_subject }}
+          html_body: file://outbox/email_changes.html
+          body: |
+            ACCC Acquisitions Register update (${{ steps.scraper.outputs.run_local }}).
+            New: ${{ steps.scraper.outputs.new_count }}, changed: ${{ steps.scraper.outputs.changed_count }}, removed: ${{ steps.scraper.outputs.removed_count }}.
+            View this email in HTML for full details. The register is attached as an Excel workbook.
+          attachments: data/register.xlsx
+
+      - name: Email consultation documents
+        if: steps.scraper.outcome == 'success' && steps.scraper.outputs.documents_email == 'true' && env.MAIL_ENABLED == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp-relay.brevo.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
+          subject: ${{ steps.scraper.outputs.documents_subject }}
+          html_body: file://outbox/email_documents.html
+          body: |
+            The ACCC has published consultation document(s). Only this run's new documents are attached.
+            All stored documents: ${{ github.server_url }}/${{ github.repository }}/tree/main/data/consultation_docs
+          attachments: ${{ steps.scraper.outputs.consultation_doc_count != '0' && 'outbox/attachments/*' || '' }}
+
+      - name: Email watchlist alert
+        if: steps.scraper.outcome == 'success' && steps.scraper.outputs.watchlist_email == 'true' && env.MAIL_ENABLED == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp-relay.brevo.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
+          priority: high
+          subject: ${{ steps.scraper.outputs.watchlist_subject }}
+          html_body: file://outbox/email_watchlist.html
+          body: A matter on your watchlist has new activity. View this email in HTML for details.
+
+      - name: Email weekly digest
+        if: steps.scraper.outcome == 'success' && steps.scraper.outputs.digest_email == 'true' && env.MAIL_ENABLED == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp-relay.brevo.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
+          subject: ${{ steps.scraper.outputs.digest_subject }}
+          html_body: file://outbox/email_digest.html
+          body: ACCC weekly digest. View this email in HTML for details. The register is attached.
+          attachments: data/register.xlsx
+
+      - name: Email alert on verification errors
+        if: steps.verify.outputs.verification_passed == 'false' && env.MAIL_ENABLED == 'true'
+        uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp-relay.brevo.com
           server_port: 587
@@ -240,12 +197,49 @@ jobs:
             Errors:   ${{ steps.verify.outputs.error_count }}
             Warnings: ${{ steps.verify.outputs.warning_count }}
 
-            Do NOT rely on the data until you review the error list.
+            Do NOT rely on the affected entries until you review the error list.
 
-            Download the verification report:
-            ${{ github.server_url }}/${{ github.repository }}/raw/main/data/verification_report.csv
+            Verification report:
+            ${{ github.server_url }}/${{ github.repository }}/blob/main/data/verification_report.csv
 
-            View the Actions run log:
+            Run log:
             ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
-            Human review is required.
+      - name: Email alert on monitor failure
+        if: always() && steps.scraper.outputs.alert_failure == 'true' && env.MAIL_ENABLED == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp-relay.brevo.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
+          priority: high
+          subject: ${{ steps.scraper.outputs.failure_subject }}
+          html_body: file://outbox/email_failure.html
+          body: |
+            The ACCC monitor run failed and data was not updated.
+            Run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+      - name: Email alert on test failure
+        if: always() && steps.tests.outcome == 'failure' && env.MAIL_ENABLED == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp-relay.brevo.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_RECIPIENTS }}
+          from: ACCC Monitor <${{ secrets.MAIL_SENDER }}>
+          priority: high
+          subject: "ACCC Monitor FAILED: parser tests did not pass, scrape skipped"
+          body: |
+            The parser and calculation tests failed, so the scrape was skipped to protect stored data.
+            Run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+      - name: Mark run as failed when verification found errors
+        if: steps.verify.outcome == 'failure'
+        run: |
+          echo "Verification found errors; see data/verification_report.csv"
+          exit 1

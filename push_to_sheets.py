@@ -1,11 +1,60 @@
-import os
-import json
+#!/usr/bin/env python3
+"""
+Push the register to Google Sheets
+==================================
+Tabs written (existing tab names are kept so links and charts keep working):
+
+  Raw Data (Do not edit)  every matter, same columns as data/register.csv
+  Last Updated            data health and this run's changes (from data/status.csv)
+  Dashboard               deadlines, Phase 2, extensions, consultations, watchlist
+  Active Matters          deadline tracker for matters under assessment
+  Case History            every material change, newest first
+  Summary                 KPIs, outcomes by year, stage and sector
+  Monthly Stats           filed / completed / outcomes per month, all years
+
+Data is read from data/register.json and friends rather than re-parsed from
+the CSV, so column renames can no longer silently empty a tab. Numbers are
+written as numbers and dates as real dates (sortable and filterable).
+"""
+
+import csv
 import datetime
-import pandas as pd
+import json
+import os
+
 import gspread
 from google.oauth2.service_account import Credentials
 
+import documents
+import reporting
+from accc_common import (
+    CHANGELOG_JSON, REGISTER_JSON, REGISTER_URL, STATUS_CSV, SUMMARY_JSON,
+    canberra_today, data_age_days, fmt_canberra, load_health,
+    load_json, parse_date, utc_now_iso,
+)
+
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
+MAX_HISTORY_ROWS = 4000
+
+NAVY = {"red": 0.05, "green": 0.11, "blue": 0.16}
+WHITE = {"red": 1, "green": 1, "blue": 1}
+LIGHT = {"red": 0.95, "green": 0.96, "blue": 0.98}
+TONES = {
+    "red":   ({"red": 1.0, "green": 0.89, "blue": 0.89}, {"red": 0.6, "green": 0.11, "blue": 0.11}),
+    "amber": ({"red": 1.0, "green": 0.95, "blue": 0.78}, {"red": 0.57, "green": 0.25, "blue": 0.05}),
+    "green": ({"red": 0.93, "green": 0.99, "blue": 0.96}, {"red": 0.02, "green": 0.37, "blue": 0.27}),
+}
+STATUS_TONE = {
+    "Past deadline (awaiting publication)": "red",
+    "Due today": "red",
+    "Due within 5 business days": "amber",
+    "Due within 10 business days": "amber",
+    "On track": "green",
+}
+DATE_COLUMNS = {
+    "Notification / Application Date", "End of Determination Period",
+    "Determination Publication Date", "Consultation Closes", "End of period", "Closes",
+}
 
 
 def get_client():
@@ -14,475 +63,334 @@ def get_client():
     return gspread.authorize(creds)
 
 
-def push_raw_data(sh):
-    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
-    ws = sh.worksheet("Raw Data (Do not edit)")
-    ws.clear()
-    ws.update([df.columns.tolist()] + df.values.tolist())
-    print(f"  Raw Data: pushed {len(df)} rows")
+# ---------------------------------------------------------------------------
+# Writing helpers
+# ---------------------------------------------------------------------------
+
+def sheet_date(value):
+    """Google Sheets date serial number (days since 30 Dec 1899), or the value unchanged."""
+    d = parse_date(value) if isinstance(value, str) and value else None
+    if d:
+        return (d - datetime.date(1899, 12, 30)).days
+    return value
 
 
-def push_summary(sh):
-    try:
-        ws = sh.worksheet("Last Updated")
-    except gspread.exceptions.WorksheetNotFound:
-        ws = sh.add_worksheet("Last Updated", rows=50, cols=4)
+def col_letter(n):
+    s = ""
+    while n:
+        n, r = divmod(n - 1, 26)
+        s = chr(65 + r) + s
+    return s
 
-    aest = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
 
-    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
-    total = len(df)
-    notifs = len(df[df["Type"] == "Notification"]) if "Type" in df.columns else 0
-    waivers = len(df[df["Type"] == "Waiver"]) if "Type" in df.columns else 0
+class Tab:
+    """Collects rows plus formatting, then writes a worksheet in three API calls."""
 
-    summary = {}
-    if os.path.exists("data/summary.json"):
-        with open("data/summary.json") as f:
-            summary = json.load(f)
+    def __init__(self, name):
+        self.name = name
+        self.rows = []
+        self.header_rows = []      # dark header bars
+        self.section_rows = []     # bold light-grey section titles
+        self.date_cells = []       # (row, col) zero-based
+        self.tones = []            # (row, col, tone)
+        self.widths = {}           # col index → pixels
+        self.frozen_rows = 1
 
-    new_count = summary.get("new_count", 0)
-    changed_count = summary.get("changed_count", 0)
-    removed_count = summary.get("removed_count", 0)
+    def add(self, row):
+        self.rows.append(list(row))
+        return len(self.rows) - 1
 
-    changes = []
-    if os.path.exists("data/latest_changes.json"):
-        with open("data/latest_changes.json") as f:
-            content = json.load(f)
-            if isinstance(content, list):
-                changes = content
-            elif isinstance(content, dict):
-                changes = content.get("changes", [])
+    def title(self, text, note=""):
+        self.header_rows.append(self.add([text, note]))
 
-    decisions_due = []
-    today_aest = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
-    title_col = "Title" if "Title" in df.columns else "title"
-    due_col = next((c for c in ["End Of Determination Period", "end_of_determination_period"] if c in df.columns), None)
-    det_col = next((c for c in ["ACCC Determination", "accc_determination"] if c in df.columns), None)
-    if due_col:
-        for _, row in df.iterrows():
-            due_str = str(row.get(due_col, "")).strip()
-            if not due_str:
-                continue
-            determination = str(row.get(det_col, "")).strip() if det_col else ""
-            if determination:
-                continue
-            due_date = None
-            for fmt in ["%d %b %Y", "%Y-%m-%d", "%d/%m/%Y"]:
-                try:
-                    due_date = datetime.datetime.strptime(due_str, fmt)
-                    break
-                except ValueError:
-                    continue
-            if not due_date:
-                continue
-            days_remaining = (due_date - today_aest).days
-            if 0 <= days_remaining <= 10:
-                title = str(row.get(title_col, "")).strip()
-                decisions_due.append(f"{title} — {due_str} ({days_remaining}d remaining)")
+    def section(self, text, *cols):
+        self.section_rows.append(self.add([text, *cols]))
 
-    rows = [
-        ["ACCC Acquisitions Register — Last Updated", "", "", ""],
-        ["", "", "", ""],
-        ["Last updated (UTC)", datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M"), "", ""],
-        ["Last updated (AEST)", aest.strftime("%Y-%m-%d %H:%M"), "", ""],
-        ["Auto-run schedule", "Mon–Fri, 10am and 4pm AEST", "", ""],
-        ["", "", "", ""],
-        ["REGISTER TOTALS", "", "", ""],
-        ["Total entries", total, "", ""],
-        ["Notifications", notifs, "", ""],
-        ["Waivers", waivers, "", ""],
-        ["", "", "", ""],
-        ["CHANGES IN THIS RUN", "", "", ""],
-        ["New entries", new_count, "", ""],
-        ["Changed entries", changed_count, "", ""],
-        ["Removed entries", removed_count, "", ""],
-        ["", "", "", ""],
-    ]
+    def blank(self):
+        self.add([""])
 
-    if changes:
-        rows.append(["CHANGE DETAIL", "", "", ""])
-        rows.append(["Case", "Event", "Field", "Change"])
-        for c in changes:
-            if not isinstance(c, dict):
-                rows.append([str(c), "", "", ""])
-                continue
-            title = c.get("title", c.get("slug", ""))
-            event = c.get("event", "")
-            field_changes = c.get("changes", [])
-            if field_changes:
-                for fc in field_changes:
-                    if isinstance(fc, dict):
-                        rows.append([
-                            title,
-                            event,
-                            fc.get("field", ""),
-                            f"{fc.get('old_value', '')} → {fc.get('new_value', '')}",
-                        ])
-                    else:
-                        rows.append([title, event, str(fc), ""])
-            else:
-                rows.append([title, event, "", ""])
-        rows.append(["", "", "", ""])
+    def table(self, headers, records):
+        """records: list of dicts keyed by header."""
+        self.section_rows.append(self.add(headers))
+        for rec in records:
+            r = len(self.rows)
+            row = []
+            for ci, h in enumerate(headers):
+                v = rec.get(h, "")
+                if h in DATE_COLUMNS and parse_date(v):
+                    self.date_cells.append((r, ci))
+                    v = sheet_date(v)
+                if h in ("Deadline Status", "Status") and v in STATUS_TONE:
+                    self.tones.append((r, ci, STATUS_TONE[v]))
+                row.append(v)
+            self.add(row)
 
-    if decisions_due:
-        rows.append(["DECISIONS DUE WITHIN 10 DAYS", "", "", ""])
-        for d in decisions_due:
-            rows.append([d, "", "", ""])
-        rows.append(["", "", "", ""])
-
-    # Rolling 7-day activity from the full changelog
-    if os.path.exists("data/changelog.json"):
-        with open("data/changelog.json") as f:
-            log = json.load(f)
-        cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=7)
-        recent_new, recent_changed = [], []
-        for entry in log:
-            if not isinstance(entry, dict):
-                continue
-            ts = entry.get("timestamp_utc", "")
-            try:
-                when = datetime.datetime.fromisoformat(ts.replace("Z", ""))
-            except (ValueError, AttributeError):
-                continue
-            if when < cutoff:
-                continue
-            when_aest = (when + datetime.timedelta(hours=10)).strftime("%d %b %H:%M")
-            if entry.get("event") == "NEW_ENTRY":
-                recent_new.append((entry.get("title", ""), entry.get("case_number", ""), when_aest))
-            elif entry.get("event") == "CHANGED":
-                for fc in entry.get("changes", []):
-                    if isinstance(fc, dict):
-                        recent_changed.append([
-                            entry.get("title", ""), fc.get("field", ""),
-                            f"{fc.get('old_value', '')} → {fc.get('new_value', '')}", when_aest
-                        ])
-
-        if recent_new:
-            rows.append([f"NEW ENTRIES (LAST 7 DAYS) — {len(recent_new)}", "Case", "Detected (AEST)", ""])
-            rows += [[t, cn, w, ""] for t, cn, w in recent_new]
-            rows.append(["", "", "", ""])
-        if recent_changed:
-            rows.append([f"CHANGED (LAST 7 DAYS) — {len(recent_changed)} events", "Field", "Change", "When"])
-            rows += recent_changed
-            rows.append(["", "", "", ""])
-    
-    rows.append([
-        "Register URL",
-        "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register",
-        "", "",
-    ])
-
-    ws.clear()
-    ws.update(rows)
-    print(f"  Last Updated tab: refreshed ({len(rows)} rows)")
-
-def push_dashboard(sh):
-    try:
-        ws = sh.worksheet("Dashboard")
-    except gspread.exceptions.WorksheetNotFound:
-        ws = sh.add_worksheet("Dashboard", rows=80, cols=4)
-
-    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
-    today = datetime.datetime.utcnow() + datetime.timedelta(hours=10)
-
-    def col(*names):
-        return next((c for c in names if c in df.columns), None)
-
-    title_c = col("Title", "title")
-    case_c  = col("Case Number", "case_number")
-    due_c   = col("End Of Determination Period", "end_of_determination_period")
-    det_c   = col("ACCC Determination", "accc_determination")
-    stage_c = col("Stage", "Acquisition Status", "stage")
-    dec_c   = col("Decisions Docs", "decisions_docs")
-    anz_c   = col("M&A Sector", "ANZSIC Codes", "anzsic_codes")
-
-    # Decisions due (active, within 14 days, sorted by urgency)
-    due_list = []
-    if due_c:
-        for _, r in df.iterrows():
-            if det_c and str(r.get(det_c, "")).strip():
-                continue
-            ds = str(r.get(due_c, "")).strip()
-            d = None
-            for fmt in ("%d %b %Y", "%Y-%m-%d", "%d/%m/%Y"):
-                try:
-                    d = datetime.datetime.strptime(ds, fmt); break
-                except ValueError:
-                    continue
-            if not d:
-                continue
-            days = (d - today).days
-            if 0 <= days <= 14:
-                cn = str(r.get(case_c, "")).strip() if case_c else ""
-                due_list.append((days, str(r.get(title_c, "")).strip(), ds, cn))
-    due_list.sort()
-
-    # Active Phase 2 cases
-    phase2 = []
-    if dec_c:
-        for _, r in df.iterrows():
-            if "phase 2" in str(r.get(dec_c, "")).lower():
-                if not (det_c and str(r.get(det_c, "")).strip()):
-                    phase2.append(str(r.get(title_c, "")).strip())
-
-    # Active cases with extended determination timelines
-    extended = []
-    if dec_c:
-        for _, r in df.iterrows():
-            if "timeline extended" in str(r.get(dec_c, "")).lower():
-                if not (det_c and str(r.get(det_c, "")).strip()):
-                    cn = str(r.get(case_c, "")).strip() if case_c else ""
-                    extended.append((str(r.get(title_c, "")).strip(), cn))
-
-    # Sector counts
-    sectors = {}
-    if anz_c == "M&A Sector":
-        for v in df[anz_c]:
-            for s in str(v).split(";"):
-                s = s.strip()
-                if s:
-                    sectors[s] = sectors.get(s, 0) + 1
-    top_sectors = sorted(sectors.items(), key=lambda x: -x[1])[:20]
-
-    rows = [["ACCC REGISTER — DASHBOARD", today.strftime("%d %b %Y %H:%M AEST"), ""]]
-    rows.append(["", "", ""])
-    rows.append([f"DECISIONS DUE (next 14 days) — {len(due_list)}", "Case", "Due date", "Days left"])
-    rows += [[t, cn, ds, dleft] for dleft, t, ds, cn in due_list] or [["None pending", "", "", ""]]
-    rows.append(["", "", ""])
-    rows.append([f"ACTIVE PHASE 2 REVIEWS — {len(phase2)}", "", ""])
-    rows += [[p, "", ""] for p in phase2] or [["None active", "", ""]]
-    rows.append(["", "", ""])
-    rows.append([f"EXTENDED TIMELINES (active) — {len(extended)}", "Case", ""])
-    rows += [[t, cn, ""] for t, cn in extended] or [["None", "", ""]]
-    rows.append(["", "", ""])
-    if top_sectors:
-        rows.append(["TOP SECTORS BY DEAL COUNT", "Deals", ""])
-        rows += [[s, n, ""] for s, n in top_sectors]
-
-    ws.clear()
-    ws.update(rows)
-    ws.format("A1:C1", {"backgroundColor": {"red": 0.05, "green": 0.11, "blue": 0.16},
-                        "textFormat": {"bold": True, "foregroundColor": {"red": 1, "green": 1, "blue": 1}}})
-    ws.format("A3:C3", {"textFormat": {"bold": True}, "backgroundColor": {"red": 0.93, "green": 0.95, "blue": 0.97}})
-    ws.freeze(rows=1)
-    print(f"  Dashboard: refreshed ({len(rows)} rows)")
-
-def push_monthly_stats(sh):
-    try:
-        ws = sh.worksheet("Monthly Stats")
-    except gspread.exceptions.WorksheetNotFound:
-        ws = sh.add_worksheet("Monthly Stats", rows=40, cols=8)
-
-    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
-
-    def col(*names):
-        return next((c for c in names if c in df.columns), None)
-
-    type_c = col("Type", "type")
-    notif_c = col("Notification / Application Date", "Notification Date", "notification_date")
-    det_c = col("ACCC Determination", "accc_determination")
-    pub_c = col("Determination Publication Date", "Determination Date", "determination_publication_date")
-    biz_c = col("Elapsed Business Days to Decision (ACT)", "Elapsed Business Days", "elapsed_business_days")
-
-    def parse_d(s):
-        s = str(s).strip()
-        for fmt in ("%Y-%m-%d", "%d %b %Y", "%d/%m/%Y"):
-            try:
-                return datetime.datetime.strptime(s, fmt)
-            except ValueError:
-                continue
-        return None
-
-    year = 2026
-    months = ["January", "February", "March", "April", "May", "June",
-              "July", "August", "September", "October", "November", "December"]
-
-    def stats_block(subtype):
-        sub = df[df[type_c] == subtype] if type_c else df
-        block = [[f"{subtype.upper()}S - {year}", "", "", "", "", "", ""],
-                 ["Month", "Total Filed", "Total Completed", "Approved",
-                  "Not Approved", "Approval Rate", "Avg Business Days"]]
-        tot = [0, 0, 0, 0]
-        all_biz = []
-        for m_idx, m_name in enumerate(months, 1):
-            filed = completed = approved = notapproved = 0
-            biz_days = []
-            for _, r in sub.iterrows():
-                nd = parse_d(r.get(notif_c, "")) if notif_c else None
-                pd_ = parse_d(r.get(pub_c, "")) if pub_c else None
-                det = str(r.get(det_c, "")).strip().lower() if det_c else ""
-                if nd and nd.year == year and nd.month == m_idx:
-                    filed += 1
-                if pd_ and pd_.year == year and pd_.month == m_idx:
-                    completed += 1
-                    if det.startswith("approved"):
-                        approved += 1
-                    elif det:
-                        notapproved += 1
-                    b = str(r.get(biz_c, "")).strip() if biz_c else ""
-                    try:
-                        biz_days.append(float(b))
-                    except ValueError:
-                        pass
-            rate = f"{approved / completed:.0%}" if completed else "-"
-            avg = round(sum(biz_days) / len(biz_days), 1) if biz_days else "-"
-            block.append([m_name, filed, completed, approved, notapproved, rate, avg])
-            tot[0] += filed; tot[1] += completed; tot[2] += approved; tot[3] += notapproved
-            all_biz += biz_days
-        t_rate = f"{tot[2] / tot[1]:.0%}" if tot[1] else "-"
-        t_avg = round(sum(all_biz) / len(all_biz), 1) if all_biz else "-"
-        block.append(["Total", tot[0], tot[1], tot[2], tot[3], t_rate, t_avg])
-        block.append(["", "", "", "", "", "", ""])
-        return block
-
-    rows = [["ACCC REGISTER - MONTHLY STATISTICS",
-             (datetime.datetime.utcnow() + datetime.timedelta(hours=10)).strftime("%d %b %Y %H:%M AEST"),
-             "", "", "", "", ""]]
-    rows.append(["", "", "", "", "", "", ""])
-    rows += stats_block("Notification")
-    rows += stats_block("Waiver")
-
-    ws.clear()
-    ws.update(rows)
-    ws.format("A1:G1", {"backgroundColor": {"red": 0.05, "green": 0.11, "blue": 0.16},
-                        "textFormat": {"bold": True, "foregroundColor": {"red": 1, "green": 1, "blue": 1}}})
-    ws.freeze(rows=1)
-    print(f"  Monthly Stats: refreshed ({len(rows)} rows)")
-
-def push_summary_dashboard(sh):
-    try:
-        ws = sh.worksheet("Summary")
-    except gspread.exceptions.WorksheetNotFound:
-        ws = sh.add_worksheet("Summary", rows=45, cols=15)
-
-    df = pd.read_csv("data/register.csv", dtype=str).fillna("")
-
-    def col(*names):
-        return next((c for c in names if c in df.columns), None)
-
-    type_c  = col("Type", "type")
-    notif_c = col("Notification / Application Date", "Notification Date")
-    det_c   = col("ACCC Determination", "accc_determination")
-    pub_c   = col("Determination Publication Date", "Determination Date")
-    biz_c   = col("Elapsed Business Days to Decision (ACT)", "Elapsed Business Days")
-    stage_c = col("Stage", "stage")
-    sect_c  = col("M&A Sector")
-
-    def parse_d(s):
-        for fmt in ("%Y-%m-%d", "%d %b %Y", "%d/%m/%Y"):
-            try:
-                return datetime.datetime.strptime(str(s).strip(), fmt)
-            except ValueError:
-                continue
-        return None
-
-    def fnum(s):
+    def write(self, sh):
         try:
-            return float(str(s).strip())
-        except ValueError:
-            return None
+            ws = sh.worksheet(self.name)
+        except gspread.exceptions.WorksheetNotFound:
+            ws = sh.add_worksheet(self.name, rows=100, cols=10)
 
-    YEAR = 2026
-    MONTHS = ["January","February","March","April","May","June",
-              "July","August","September","October","November","December"]
+        width = max((len(r) for r in self.rows), default=1)
+        rows = [r + [""] * (width - len(r)) for r in self.rows] or [[""]]
+        sid = ws.id
 
-    def monthly_table(subtype, heading):
-        sub = df[df[type_c] == subtype]
-        out = [[heading] + [""]*7,
-               ["Month","Total Filed","Total Completed","Approved",
-                "Not Approved","Approval Rate","Avg. Business Days","Trend"]]
-        prev_avg, tot = None, [0,0,0,0]
-        all_b = []
-        for mi, mn in enumerate(MONTHS, 1):
-            f = c = a = n = 0
-            b = []
-            for _, r in sub.iterrows():
-                nd, pdt = parse_d(r.get(notif_c,"")), parse_d(r.get(pub_c,""))
-                det = str(r.get(det_c,"")).strip().lower()
-                if nd and (nd.year, nd.month) == (YEAR, mi): f += 1
-                if pdt and (pdt.year, pdt.month) == (YEAR, mi):
-                    c += 1
-                    if det.startswith("approved"): a += 1
-                    elif det: n += 1
-                    v = fnum(r.get(biz_c,""))
-                    if v is not None: b.append(v)
-            avg = round(sum(b)/len(b),1) if b else None
-            trend = "-" if avg is None or prev_avg is None else ("slower" if avg > prev_avg else "faster" if avg < prev_avg else "steady")
-            out.append([mn, f, c, a, n,
-                        f"{a/c:.0%}" if c else "-",
-                        avg if avg is not None else "-", trend])
-            if avg is not None: prev_avg = avg
-            tot = [tot[0]+f, tot[1]+c, tot[2]+a, tot[3]+n]; all_b += b
-        out.append(["Total", *tot,
-                    f"{tot[2]/tot[1]:.0%}" if tot[1] else "-",
-                    round(sum(all_b)/len(all_b),1) if all_b else "-", ""])
-        return out, tot, all_b
+        # 1. size the grid and reset old formatting
+        sh.batch_update({"requests": [
+            {"updateSheetProperties": {
+                "properties": {"sheetId": sid, "gridProperties": {
+                    "rowCount": len(rows) + 5, "columnCount": max(width, 4),
+                    "frozenRowCount": self.frozen_rows}},
+                "fields": "gridProperties(rowCount,columnCount,frozenRowCount)"}},
+            {"repeatCell": {"range": {"sheetId": sid}, "cell": {"userEnteredFormat": {}},
+                            "fields": "userEnteredFormat"}},
+        ]})
+        # 2. values (RAW: text is never interpreted as a formula)
+        ws.clear()
+        ws.update(rows, "A1", value_input_option="RAW")
 
-    w_rows, w_tot, w_b = monthly_table("Waiver",       f"WAIVERS - {YEAR}")
-    n_rows, n_tot, n_b = monthly_table("Notification", f"NOTIFICATIONS - {YEAR}")
+        # 3. formatting
+        reqs = []
 
-    # KPI / pipeline panel
-    stages = df[stage_c].str.lower() if stage_c else pd.Series(dtype=str)
-    dets   = df[det_c].str.lower()   if det_c   else pd.Series(dtype=str)
-    is_n   = df[type_c] == "Notification"
-    is_w   = df[type_c] == "Waiver"
-    ph2_active  = int((is_n & stages.str.contains("phase 2", na=False) & (dets == "")).sum())
-    pending     = int((is_n & (dets == "")).sum())
-    all_b2 = sorted(w_b + n_b)
-    med = all_b2[len(all_b2)//2] if all_b2 else "-"
-    comb_c, comb_a = w_tot[1]+n_tot[1], w_tot[2]+n_tot[2]
-    kpi = [
-        ("KPI SNAPSHOT", ""),
-        ("Waivers completed",  w_tot[1]), ("Waivers approved", w_tot[2]),
-        ("Waiver approval rate", f"{w_tot[2]/w_tot[1]:.0%}" if w_tot[1] else "-"),
-        ("Notifs completed",   n_tot[1]), ("Notifs approved",  n_tot[2]),
-        ("Notif approval rate", f"{n_tot[2]/n_tot[1]:.0%}" if n_tot[1] else "-"),
-        ("Combined approval rate", f"{comb_a/comb_c:.0%}" if comb_c else "-"),
-        ("Total matters on register", len(df)),
-        ("", ""),
-        ("SCRUTINY & PIPELINE", ""),
-        ("Phase 2 notifs (active)", ph2_active),
-        ("Notifs pending decision", pending),
-        ("Fastest processed (days)", min(all_b2) if all_b2 else "-"),
-        ("Slowest processed (days)", max(all_b2) if all_b2 else "-"),
-        ("Median processing (days)", med),
-    ]
+        def fmt(r, c0, c1, fmt_obj, fields):
+            reqs.append({"repeatCell": {
+                "range": {"sheetId": sid, "startRowIndex": r, "endRowIndex": r + 1,
+                          "startColumnIndex": c0, "endColumnIndex": c1},
+                "cell": {"userEnteredFormat": fmt_obj}, "fields": fields}})
 
-    # Industry breakdown from M&A Sector
-    ind = [("INDUSTRY BREAKDOWN", "")]
-    if sect_c:
-        counts = {}
-        for v in df[sect_c]:
-            for s in str(v).split(";"):
-                s = s.strip()
-                if s: counts[s] = counts.get(s, 0) + 1
-        ind += sorted(counts.items(), key=lambda x: -x[1])[:15]
+        reqs.append({"repeatCell": {
+            "range": {"sheetId": sid},
+            "cell": {"userEnteredFormat": {"verticalAlignment": "TOP", "wrapStrategy": "CLIP",
+                                           "textFormat": {"fontSize": 10}}},
+            "fields": "userEnteredFormat(verticalAlignment,wrapStrategy,textFormat)"}})
+        for r in self.header_rows:
+            fmt(r, 0, width, {"backgroundColor": NAVY,
+                              "textFormat": {"bold": True, "foregroundColor": WHITE, "fontSize": 11}},
+                "userEnteredFormat(backgroundColor,textFormat)")
+        for r in self.section_rows:
+            fmt(r, 0, len(self.rows[r]), {"backgroundColor": LIGHT, "textFormat": {"bold": True}},
+                "userEnteredFormat(backgroundColor,textFormat)")
+        for r, c in self.date_cells:
+            fmt(r, c, c + 1, {"numberFormat": {"type": "DATE", "pattern": "d mmm yyyy"}},
+                "userEnteredFormat.numberFormat")
+        for r, c, tone in self.tones:
+            bg, fg = TONES[tone]
+            fmt(r, c, c + 1, {"backgroundColor": bg, "textFormat": {"bold": True, "foregroundColor": fg}},
+                "userEnteredFormat(backgroundColor,textFormat)")
+        for c, px in self.widths.items():
+            reqs.append({"updateDimensionProperties": {
+                "range": {"sheetId": sid, "dimension": "COLUMNS", "startIndex": c, "endIndex": c + 1},
+                "properties": {"pixelSize": px}, "fields": "pixelSize"}})
+        if reqs:
+            sh.batch_update({"requests": reqs})
+        print(f"  {self.name}: {len(rows)} rows")
 
-    left = [["ACCC ACQUISITIONS REGISTER - SUMMARY DASHBOARD"] + [""]*7, [""]*8] \
-           + w_rows + [[""]*8] + n_rows
-    rows = []
-    for i in range(max(len(left), len(kpi)+2, len(ind)+2)):
-        row = (left[i] if i < len(left) else [""]*8)[:8] + [""]*(8-len(left[i] if i < len(left) else []))
-        k = kpi[i-2] if 2 <= i-0 and (i-2) < len(kpi) else ("", "")
-        d = ind[i-2] if 2 <= i-0 and (i-2) < len(ind) else ("", "")
-        rows.append(row + ["", k[0], k[1], "", d[0], d[1]])
 
-    ws.clear()
-    ws.update(rows)
-    ws.format("A1:N1", {"backgroundColor": {"red": 0.05, "green": 0.11, "blue": 0.16},
-                        "textFormat": {"bold": True, "foregroundColor": {"red": 1, "green": 1, "blue": 1}}})
-    ws.freeze(rows=1)
-    print(f"  Summary dashboard: refreshed ({len(rows)} rows)")
+# ---------------------------------------------------------------------------
+# Tabs
+# ---------------------------------------------------------------------------
+
+def raw_data_tab(rows):
+    tab = Tab("Raw Data (Do not edit)")
+    headers = list(rows[0].keys()) if rows else []
+    tab.table(headers, rows)
+    tab.header_rows, tab.section_rows = [0], []
+    tab.widths = {0: 320, 3: 260, 4: 260, 6: 220}
+    return tab
+
+
+def health_line(health):
+    age = data_age_days(health)
+    if age is None:
+        return "Data age unknown"
+    if age >= 2:
+        return f"WARNING: data is {age} days old (last successful update {fmt_canberra(health.get('last_success_utc'))})"
+    return f"Up to date (last successful update {fmt_canberra(health.get('last_success_utc'))})"
+
+
+def last_updated_tab(health):
+    tab = Tab("Last Updated")
+    tab.title("ACCC Acquisitions Register: Last Updated", health_line(health))
+    tab.blank()
+    if os.path.exists(STATUS_CSV):
+        with open(STATUS_CSV, encoding="utf-8-sig") as f:
+            for row in csv.reader(f):
+                if row and row[0].isupper() and len(row[0]) > 3 and not any(row[1:]):
+                    tab.section(*row)
+                elif row and row[0] == "Metric":
+                    tab.section(*row)
+                else:
+                    tab.add(row)
+    tab.blank()
+    tab.add(["Register URL", REGISTER_URL])
+    tab.widths = {0: 340, 1: 420, 2: 260}
+    return tab
+
+
+def dashboard_tab(register, health, watchlist):
+    tab = Tab("Dashboard")
+    tab.title("ACCC REGISTER: DASHBOARD", fmt_canberra(utc_now_iso()))
+    tab.add(["Data status", health_line(health)])
+    tab.blank()
+
+    due, overdue, closing = reporting.deadline_lists(register)
+    tab.table(["Decisions due (next 10 business days)", "Case", "End of period", "Progress", "Status"],
+              [{"Decisions due (next 10 business days)": e.get("title", ""), "Case": e.get("case_number", ""),
+                "End of period": e.get("end_of_determination_period", ""), "Progress": info["label"],
+                "Status": info["status"]} for _, e, info in due] or [{"Decisions due (next 10 business days)": "None"}])
+    tab.blank()
+    tab.table(["Past deadline, awaiting publication", "Case", "End of period"],
+              [{"Past deadline, awaiting publication": e.get("title", ""), "Case": e.get("case_number", ""),
+                "End of period": e.get("end_of_determination_period", "")} for _, e, _ in overdue]
+              or [{"Past deadline, awaiting publication": "None"}])
+    tab.blank()
+
+    phase2 = [e for e in register.values() if e.get("acquisition_status") == "Under assessment"
+              and "phase 2" in e.get("stage", "").lower()]
+    tab.table(["Active Phase 2 reviews", "Case", "End of period", "Progress"],
+              [{"Active Phase 2 reviews": e.get("title", ""), "Case": e.get("case_number", ""),
+                "End of period": e.get("end_of_determination_period", ""),
+                "Progress": reporting.deadline_info(e)["label"]} for e in phase2] or [{"Active Phase 2 reviews": "None"}])
+    tab.blank()
+
+    extended = []
+    for e in register.values():
+        if e.get("acquisition_status") != "Under assessment":
+            continue
+        days = sum(documents.timeline_extension_days(d.get("description", "")) or 0
+                   for d in e.get("decisions_docs", []) or [])
+        if days:
+            extended.append({"Extended timelines (active)": e.get("title", ""), "Case": e.get("case_number", ""),
+                             "Business days added": days,
+                             "End of period": e.get("end_of_determination_period", "")})
+    tab.table(["Extended timelines (active)", "Case", "Business days added", "End of period"],
+              extended or [{"Extended timelines (active)": "None"}])
+    tab.blank()
+
+    tab.table(["Consultations closing (5 business days)", "Case", "Closes", "Business days left"],
+              [{"Consultations closing (5 business days)": e.get("title", ""), "Case": e.get("case_number", ""),
+                "Closes": close.isoformat(), "Business days left": left} for _, e, close, left in closing]
+              or [{"Consultations closing (5 business days)": "None"}])
+    tab.blank()
+
+    watched = []
+    for e in register.values():
+        reasons = reporting.watchlist_matches(e, watchlist)
+        if reasons and e.get("acquisition_status") == "Under assessment":
+            watched.append({"Watchlist (active matters)": e.get("title", ""), "Case": e.get("case_number", ""),
+                            "Matched on": "; ".join(reasons),
+                            "Status": reporting.deadline_info(e)["status"]})
+    tab.table(["Watchlist (active matters)", "Case", "Matched on", "Status"],
+              watched or [{"Watchlist (active matters)": "None (edit watchlist.json to add companies, sectors or keywords)"}])
+    tab.widths = {0: 420, 1: 110, 2: 160, 3: 160, 4: 230}
+    return tab
+
+
+def active_matters_tab(rows):
+    tab = Tab("Active Matters")
+    active = [r for r in rows if r["Acquisition Status"] == "Under assessment"]
+    order = {"Past deadline (awaiting publication)": 0, "Due today": 1, "Due within 5 business days": 2,
+             "Due within 10 business days": 3, "On track": 4}
+    active.sort(key=lambda r: (order.get(r["Deadline Status"], 9),
+                               r["Business Days Remaining"] if r["Business Days Remaining"] != "" else 999))
+    for r in active:
+        r["Progress"] = (f"Day {r['Business Days Elapsed']} of {r['Determination Period Business Days (ACT)']}"
+                         if r["Business Days Elapsed"] != "" else "")
+    headers = ["Acquisition Name", "Case Number", "Type", "Stage", "Notification / Application Date",
+               "End of Determination Period", "Progress", "Business Days Remaining", "Deadline Status",
+               "Consultation Closes", "Latest Key Event", "M&A Sector", "Watchlist Match", "URL"]
+    tab.table(headers, active)
+    tab.header_rows, tab.section_rows = [0], []
+    tab.widths = {0: 340, 3: 190, 8: 230, 10: 260, 11: 220}
+    return tab
+
+
+def case_history_tab(changelog, register):
+    tab = Tab("Case History")
+    history = reporting.case_history_rows(changelog, register)[:MAX_HISTORY_ROWS]
+    tab.table(["Detected (Canberra time)", "Case Number", "Matter", "Event", "Detail", "URL"], history)
+    tab.header_rows, tab.section_rows = [0], []
+    tab.widths = {0: 170, 2: 320, 3: 180, 4: 520}
+    return tab
+
+
+def _stat_row(label, s, extra=()):
+    rate = f"{s['approval_rate_pct']}%" if s.get("approval_rate_pct") is not None else "-"
+    return [label, *extra, s["determined"], s["approved"], s["approved_with_conditions"], s["not_approved"],
+            rate, s["median_business_days"] if s["median_business_days"] is not None else "-",
+            s["mean_business_days"] if s["mean_business_days"] is not None else "-"]
+
+
+STAT_HEADERS = ["Determined", "Approved", "With conditions", "Not approved", "Approval rate",
+                "Median business days", "Mean business days"]
+
+
+def summary_tab(summary):
+    a = summary["analytics"]
+    tab = Tab("Summary")
+    tab.title("ACCC ACQUISITIONS REGISTER: SUMMARY", fmt_canberra(summary.get("generated_at_utc")))
+    tab.blank()
+    tab.section("KPI SNAPSHOT", "Matters", *STAT_HEADERS)
+    for kind in ("Notification", "Waiver"):
+        s = a["by_type"].get(kind)
+        if s:
+            tab.add(_stat_row(kind + "s", s, (s["matters"],)))
+    tab.add(["Under assessment", summary["by_acquisition_status"].get("Under assessment", 0)])
+    tab.add(["Decisions due within 10 business days", len(summary["decisions_due_within_10_days"])])
+    tab.add(["Past deadline, awaiting publication", len(summary["past_deadline_awaiting_publication"])])
+    tab.blank()
+    tab.section("BY YEAR", "Type", "Filed", "Completed", *STAT_HEADERS)
+    for y in a["yearly"]:
+        tab.add(_stat_row(y["year"], y, (y["type"], y["filed"], y["completed"])))
+    tab.blank()
+    tab.section("NOTIFICATIONS BY STAGE", "Matters", *STAT_HEADERS)
+    for stage, s in a["by_stage"].items():
+        tab.add(_stat_row(stage, s, (s["matters"],)))
+    tab.blank()
+    tab.section("BY M&A SECTOR", "Matters", "Under assessment", *STAT_HEADERS)
+    for s in a["by_sector"]:
+        tab.add(_stat_row(s["sector"], s, (s["matters"], s["under_assessment"])))
+    tab.widths = {0: 300}
+    return tab
+
+
+def monthly_stats_tab(summary):
+    tab = Tab("Monthly Stats")
+    tab.title("ACCC REGISTER: MONTHLY STATISTICS", fmt_canberra(summary.get("generated_at_utc")))
+    tab.blank()
+    monthly = summary["analytics"]["monthly"]
+    for kind in ("Notification", "Waiver"):
+        tab.section(f"{kind.upper()}S", "Month", "Filed", "Completed", *STAT_HEADERS)
+        for m in (m for m in monthly if m["type"] == kind):
+            month = datetime.date(m["year"], m["month"], 1).strftime("%B")
+            tab.add(_stat_row(m["year"], m, (month, m["filed"], m["completed"])))
+        tab.blank()
+    tab.widths = {0: 90, 1: 110}
+    return tab
+
 
 def main():
     print("\nPushing data to Google Sheets...")
+    register = load_json(REGISTER_JSON, {})
+    changelog = load_json(CHANGELOG_JSON, [])
+    summary = load_json(SUMMARY_JSON, {})
+    health = load_health()
+    watchlist = reporting.load_watchlist()
+    manifest = documents.load_manifest()
+    rows = reporting.register_rows(register, manifest, watchlist, canberra_today())
+
     gc = get_client()
     sh = gc.open_by_key(os.environ["GOOGLE_SHEET_ID"])
-    push_raw_data(sh)
-    push_summary(sh)
-    push_dashboard(sh)
-    push_summary_dashboard(sh)
-    push_monthly_stats(sh)
+    for tab in (
+        raw_data_tab(rows),
+        last_updated_tab(health),
+        dashboard_tab(register, health, watchlist),
+        active_matters_tab(rows),
+        case_history_tab(changelog, register),
+        summary_tab(summary),
+        monthly_stats_tab(summary),
+    ):
+        tab.write(sh)
     print("  Done.")
 
 
