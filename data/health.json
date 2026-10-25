@@ -1,9 +1,9 @@
 {
-  "last_attempt_utc": "2026-10-23T11:14:10Z",
+  "last_attempt_utc": "2026-10-25T19:00:36Z",
   "last_success_utc": "2026-10-05T04:46:25Z",
   "last_status": "failed: blocked",
-  "last_error": "The ACCC website returned 403 Forbidden for the register listing page (GitHub Actions runs 225 to 252, 5 Oct to 23 Oct 2026). The site's CDN is refusing requests from GitHub's runners.",
-  "consecutive_failures": 28,
-  "last_request_count": 3,
+  "last_error": "The ACCC website returned 403 Forbidden for the register listing page. The site's CDN is refusing requests from this machine.",
+  "consecutive_failures": 29,
+  "last_request_count": 1,
   "last_digest_week": ""
 }
