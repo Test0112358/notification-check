@@ -1,9 +1,9 @@
 {
-  "last_attempt_utc": "2026-10-27T12:29:20Z",
+  "last_attempt_utc": "2026-10-28T05:58:04Z",
   "last_success_utc": "2026-10-05T04:46:25Z",
   "last_status": "failed: blocked",
   "last_error": "The ACCC website returned 403 Forbidden for the register listing page. The site's CDN is refusing requests from this machine.",
-  "consecutive_failures": 33,
+  "consecutive_failures": 34,
   "last_request_count": 1,
   "last_digest_week": ""
 }
