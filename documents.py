@@ -32,7 +32,19 @@ from accc_common import (
 )
 
 MAX_DOWNLOADS_PER_RUN = 25
-MAX_DOWNLOAD_ATTEMPTS = 6
+MAX_DOWNLOAD_ATTEMPTS = 4
+# Older documents recovered from the changelog are often no longer served.
+# Try at most this many of them per run so a dead backlog costs few requests.
+MAX_BACKFILL_ATTEMPTS_PER_RUN = 1
+MAX_BACKFILL_ATTEMPTS = 2
+
+
+def attempt_limit(rec):
+    return MAX_BACKFILL_ATTEMPTS if rec.get("source") == "changelog backfill" else MAX_DOWNLOAD_ATTEMPTS
+
+
+def gave_up(rec):
+    return rec["status"] != "downloaded" and rec["attempts"] >= attempt_limit(rec)
 DOCUMENT_EXTENSIONS = (".docx", ".doc", ".pdf", ".rtf", ".odt", ".xlsx", ".xls")
 
 # Emails above this total attachment size list the remaining files as links.
@@ -162,11 +174,18 @@ def _backfill_from_changelog(manifest, register):
 
 
 def pending_documents(manifest):
-    docs = [
-        rec for rec in manifest.values()
-        if rec["status"] in ("pending", "failed") and rec["attempts"] < MAX_DOWNLOAD_ATTEMPTS
-    ]
-    return sorted(docs, key=lambda r: r["first_seen_utc"])
+    """
+    Documents still to download: newly published ones first (newest first),
+    then the backlog recovered from the changelog, capped per run.
+    """
+    docs = [rec for rec in manifest.values() if rec["status"] in ("pending", "failed") and not gave_up(rec)]
+    # Newest first, then (stable sort) fewest attempts first
+    fresh = sorted((r for r in docs if r.get("source") != "changelog backfill"),
+                   key=lambda r: r["first_seen_utc"], reverse=True)
+    fresh.sort(key=lambda r: r["attempts"])
+    backlog = sorted((r for r in docs if r.get("source") == "changelog backfill"),
+                     key=lambda r: (r["attempts"], r["first_seen_utc"]))
+    return fresh + backlog[:MAX_BACKFILL_ATTEMPTS_PER_RUN]
 
 
 def download_pending(manifest, session, run_utc, limit=MAX_DOWNLOADS_PER_RUN):
@@ -197,7 +216,11 @@ def download_pending(manifest, session, run_utc, limit=MAX_DOWNLOADS_PER_RUN):
             rec["status"] = "failed"
             rec["last_error"] = result.error or f"HTTP {result.status}"
             print(f"  WARNING: Could not download {url}: {rec['last_error']} "
-                  f"(attempt {rec['attempts']}/{MAX_DOWNLOAD_ATTEMPTS})")
+                  f"(attempt {rec['attempts']}/{attempt_limit(rec)})")
+            if result.status == 403:
+                # Refused: stop here rather than collect more 403s this run
+                print("  Stopping downloads for this run after a 403; the rest stay queued.")
+                break
             continue
         path = os.path.join(CONSULTATION_DOCS_DIR, filename)
         with open(path, "wb") as f:
@@ -241,7 +264,7 @@ def manifest_counts(manifest):
     for rec in manifest.values():
         if rec["status"] == "downloaded":
             counts["downloaded"] += 1
-        elif rec["attempts"] >= MAX_DOWNLOAD_ATTEMPTS:
+        elif gave_up(rec):
             counts["gave_up"] += 1
         else:
             counts[rec["status"]] = counts.get(rec["status"], 0) + 1

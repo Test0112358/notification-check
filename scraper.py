@@ -22,18 +22,22 @@ Confirmed against live pages on 2026-05-18:
 
 Request budget
 --------------
-Every run fetches the listing pages (~15 requests). Detail pages are then
-fetched only where something may have changed:
-  - new entries, and entries whose listing values (status, stage, etc.) changed
-  - every matter still under assessment
-  - matters decided or modified in the last RECENT_DAYS days (the ACCC often
-    adds documents after a determination)
-  - entries whose previous fetch failed
-  - a rolling sweep of the least-recently-checked remaining pages, sized so
-    every page is still re-checked about once a week
+Listing pages are newest first. Most runs fetch only the first few pages
+(enough to see new matters and recently notified active ones); every page is
+scanned once a week, which is also when removals are detected.
+
+Case pages are re-checked on a schedule set by each matter's lifecycle:
+  - new matters, and matters whose listing values changed: this run
+  - decision due within 3 business days, past deadline, or consultation
+    closing within 3 business days: every run
+  - other matters under assessment, and matters decided in the last 7 days:
+    once a day
+  - matters decided 8 to 21 days ago: once a week
+  - everything else: a slow sweep covering each page about every 90 days
 Set FULL_REFRESH=1 to fetch every detail page.
 """
 
+import datetime
 import math
 import os
 import re
@@ -49,7 +53,8 @@ from accc_common import (
     BASE_URL, CASE_PATH_MARKER, CHANGELOG_JSON, HEALTH_JSON, LATEST_CHANGES_JSON,
     LISTING_PAGE_SIZE, NEW_DOCUMENTS_JSON, REGISTER_JSON, REGISTER_URL,
     SCHEMA_VERSION, AccessBlocked, PoliteSession, cache_detail_html,
-    cache_listing_html, calc_period_days, clean, load_health,
+    cache_listing_html, calc_period_days, canberra_today, clean, load_health,
+    mark_listing_complete,
     load_json, parse_date, parse_iso, save_json, utc_now, utc_now_iso,
     write_github_outputs,
 )
@@ -57,8 +62,24 @@ from accc_common import (
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-RECENT_DAYS = 21          # keep re-checking matters decided/modified this recently
-SWEEP_RUNS_PER_CYCLE = 10 # 2 runs a weekday → every page re-checked about weekly
+# Re-check schedule. Five months of change history (May to Nov 2026) showed
+# that of about 400 material changes, 196 were visible on the listing pages,
+# 189 were on matters under assessment, 13 came within 21 days of a decision
+# and only 2 on matters decided earlier. So active and recently decided
+# matters are checked often, and decided matters only on a slow sweep.
+DAILY_RECHECK = datetime.timedelta(hours=20)       # first run of each day
+WEEKLY_RECHECK = datetime.timedelta(days=6, hours=12)
+URGENT_BUSINESS_DAYS = 3        # decision/consultation this close: every run
+RECENT_DECIDED_DAILY_DAYS = 7   # decided this recently: daily
+RECENT_DECIDED_DAYS = 21        # then weekly until this many days
+COLD_CYCLE_DAYS = 90            # every other page re-checked about quarterly
+RUNS_PER_WEEK = 15              # schedule in monitor.yml: 3 runs x 5 weekdays
+
+# Listing: newest first, so most runs only need the first few pages.
+FULL_LISTING_EVERY = datetime.timedelta(days=7)
+MIN_LISTING_PAGES = 2
+RECENT_LISTING_DAYS = 30        # keep paging until matters notified this long ago
+MIN_FIRST_PAGE_CARDS = 10
 
 # Sanity guard: abort without saving if the site or parser looks broken
 MIN_LISTING_RATIO = 0.8   # listing must return at least 80% of stored entries
@@ -200,17 +221,34 @@ def parse_listing_page(soup, entries):
             entries[card["slug"]] = card
 
 
-def fetch_all_listing_entries(session):
+def _listing_url(page):
+    return f"{REGISTER_URL}?items_per_page={LISTING_PAGE_SIZE}&page={page}"
+
+
+def _page_needs_next(page_entries, stored_register, today):
     """
-    Paginate through all listing pages and return a dict of {slug: entry}.
-    Uses 50 items per page to minimise total requests.
-    Raises AccessBlocked if the first page is refused.
+    The listing is newest first. Keep paging while a page shows new matters or
+    still reaches into the last RECENT_LISTING_DAYS of notifications, where
+    most status changes (decisions) happen. Status changes further back are
+    caught by the case-page re-check schedule and the weekly full scan.
     """
-    print("  Fetching register listing pages...")
+    if any(slug not in stored_register for slug in page_entries):
+        return True
+    dates = [d for d in (parse_date(c.get("notification_date", "")) for c in page_entries.values()) if d]
+    return bool(dates) and (today - min(dates)).days <= RECENT_LISTING_DAYS
+
+
+def fetch_listing_entries(session, stored_register, full, today):
+    """
+    Return ({slug: card}, complete). With full=True every listing page is
+    fetched; otherwise paging stops (after MIN_LISTING_PAGES) once a page has
+    no new matters and reaches back beyond RECENT_LISTING_DAYS. Raises AccessBlocked if
+    the first page is refused and SanityCheckFailed if it lists almost nothing.
+    """
+    print(f"  Fetching register listing pages ({'full scan' if full else 'recent pages only'})...")
     entries = {}
 
-    first_url = f"{REGISTER_URL}?items_per_page={LISTING_PAGE_SIZE}&page=0"
-    result = session.get(first_url)
+    result = session.get(_listing_url(0))
     if result.status == 403:
         raise AccessBlocked(
             "The ACCC website returned 403 Forbidden for the register listing page. "
@@ -223,23 +261,40 @@ def fetch_all_listing_entries(session):
     soup = BeautifulSoup(result.text, "lxml")
     total_pages = get_last_page_index(soup) + 1
     print(f"  {total_pages} page(s) found at {LISTING_PAGE_SIZE} items/page.")
-    parse_listing_page(soup, entries)
+    page_entries = {}
+    parse_listing_page(soup, page_entries)
+    if len(stored_register) >= 20 and len(page_entries) < MIN_FIRST_PAGE_CARDS:
+        raise SanityCheckFailed(
+            f"The first register page listed only {len(page_entries)} matters. The page layout has "
+            "probably changed; parse_card() needs updating. Stored data was left untouched."
+        )
+    entries.update(page_entries)
 
     failed_pages = []
+    complete = True
     for page in range(1, total_pages):
-        url = f"{REGISTER_URL}?items_per_page={LISTING_PAGE_SIZE}&page={page}"
+        if not full and page >= MIN_LISTING_PAGES and not _page_needs_next(page_entries, stored_register, today):
+            complete = False
+            break
         print(f"    Page {page + 1}/{total_pages}...")
-        result = session.get(url)
+        result = session.get(_listing_url(page))
+        page_entries = {}
         if result.ok:
             cache_listing_html(page, result.text)
-            parse_listing_page(BeautifulSoup(result.text, "lxml"), entries)
+            parse_listing_page(BeautifulSoup(result.text, "lxml"), page_entries)
+            for slug, card in page_entries.items():
+                entries.setdefault(slug, card)
         else:
             failed_pages.append(page + 1)
 
     if failed_pages:
+        complete = False
         print(f"  WARNING: listing page(s) {failed_pages} could not be fetched.")
-    print(f"  Found {len(entries)} unique entries on the listing.")
-    return entries
+    if complete:
+        mark_listing_complete()
+    print(f"  Found {len(entries)} unique entries on {'all' if complete else 'the first'} "
+          f"listing page(s).")
+    return entries, complete
 
 
 # ---------------------------------------------------------------------------
@@ -618,14 +673,6 @@ def parse_detail_page(soup, url):
 # Which detail pages to fetch this run
 # ---------------------------------------------------------------------------
 
-def _recently_active(entry, now):
-    decided = parse_date(entry.get("determination_publication_date", ""))
-    if decided and (now.date() - decided).days <= RECENT_DAYS:
-        return True
-    mod = parse_iso(entry.get("last_modified_accc", ""))
-    return bool(mod and (now - mod).days <= RECENT_DAYS)
-
-
 def listing_value_differs(field, card_val, stored_val):
     """Compare a listing card value with the stored (detail page) value, tolerant of formatting."""
     if not card_val:
@@ -637,38 +684,74 @@ def listing_value_differs(field, card_val, stored_val):
     return clean(card_val).lower() != clean(stored_val).lower()
 
 
-def select_detail_fetches(listing_entries, stored_register, full_refresh=False, now=None):
+def recheck_reason(entry, now, today):
+    """Why a known matter's page is due for a re-check this run, or None."""
+    last = parse_iso(entry.get("last_checked_utc") or entry.get("last_scraped_utc"))
+    age = now - last if last else datetime.timedelta.max
+    if entry.get("acquisition_status") == "Under assessment":
+        info = reporting.deadline_info(entry, today)
+        _, consultation_left = reporting.consultation_info(entry, today)
+        if (info["status"] in ("Past deadline (awaiting publication)", "Due today")
+                or (info["remaining"] != "" and info["remaining"] <= URGENT_BUSINESS_DAYS)
+                or (consultation_left is not None and consultation_left <= URGENT_BUSINESS_DAYS)):
+            return "decision or consultation due"
+        return "under assessment (daily)" if age >= DAILY_RECHECK else None
+    decided = parse_date(entry.get("determination_publication_date", ""))
+    if decided and (today - decided).days <= RECENT_DECIDED_DAILY_DAYS:
+        return "decided this week (daily)" if age >= DAILY_RECHECK else None
+    if decided and (today - decided).days <= RECENT_DECIDED_DAYS:
+        return "decided recently (weekly)" if age >= WEEKLY_RECHECK else None
+    return None
+
+
+def is_cold(entry, today):
+    """Decided (or ceased) long enough ago that only the slow sweep re-checks it."""
+    if entry.get("acquisition_status") == "Under assessment":
+        return False
+    decided = parse_date(entry.get("determination_publication_date", ""))
+    return not (decided and (today - decided).days <= RECENT_DECIDED_DAYS)
+
+
+def select_detail_fetches(listing_entries, stored_register, full_refresh=False, now=None, today=None):
     """
     Return ({slug: reason}) for detail pages to fetch this run. Everything not
-    selected keeps its stored detail data (still updated from the listing).
+    selected keeps its stored detail data. Known matters are re-checked on a
+    schedule set by where they are in their lifecycle (recheck_reason), plus a
+    slow rolling sweep of decided matters sized to cover them every
+    COLD_CYCLE_DAYS.
     """
     now = now or utc_now()
+    today = today or canberra_today()
     if full_refresh:
         return {slug: "full refresh" for slug in listing_entries}
 
     selected = {}
-    sweep_pool = []
     for slug, card in listing_entries.items():
         stored = stored_register.get(slug)
         if not stored:
             selected[slug] = "new entry"
         elif any(listing_value_differs(f, card.get(f, ""), stored.get(f, "")) for f in LISTING_FIELDS):
             selected[slug] = "listing changed"
-        elif stored.get("acquisition_status") == "Under assessment":
-            selected[slug] = "under assessment"
-        elif stored.get("detail_fetch_failed_utc"):
-            selected[slug] = "retry failed fetch"
-        elif _recently_active(stored, now):
-            selected[slug] = "recently decided/modified"
-        else:
-            sweep_pool.append(slug)
 
-    # Rolling sweep: least recently checked first
-    batch = math.ceil(len(listing_entries) / SWEEP_RUNS_PER_CYCLE) if listing_entries else 0
-    sweep_pool.sort(key=lambda s: stored_register[s].get("last_checked_utc")
-                    or stored_register[s].get("last_scraped_utc", ""))
-    for slug in sweep_pool[:batch]:
-        selected[slug] = "weekly sweep"
+    cold = []
+    for slug, stored in stored_register.items():
+        if slug in selected:
+            continue
+        if stored.get("detail_fetch_failed_utc"):
+            selected[slug] = "retry failed fetch"
+            continue
+        reason = recheck_reason(stored, now, today)
+        if reason:
+            selected[slug] = reason
+        elif is_cold(stored, today):
+            cold.append(slug)
+
+    # Slow sweep: least recently checked first
+    batch = math.ceil(len(cold) * 7 / (COLD_CYCLE_DAYS * RUNS_PER_WEEK)) if cold else 0
+    cold.sort(key=lambda s: stored_register[s].get("last_checked_utc")
+              or stored_register[s].get("last_scraped_utc", ""))
+    for slug in cold[:batch]:
+        selected[slug] = "slow sweep"
     return selected
 
 
@@ -742,9 +825,10 @@ def detect_changes(old, new, schema_upgrade=False):
     return changes
 
 
-def check_sanity(listing_entries, stored_register, fetched):
+def check_sanity(listing_entries, stored_register, fetched, listing_complete=True):
     """Raise SanityCheckFailed if the run would overwrite good data with blanks."""
-    if len(stored_register) >= 20 and len(listing_entries) < MIN_LISTING_RATIO * len(stored_register):
+    if (listing_complete and len(stored_register) >= 20
+            and len(listing_entries) < MIN_LISTING_RATIO * len(stored_register)):
         raise SanityCheckFailed(
             f"The listing returned only {len(listing_entries)} entries but {len(stored_register)} "
             "are stored. The register page may have changed or been partially served."
@@ -818,45 +902,44 @@ def _changelog_event(run_utc, slug, entry, event, changes=None):
     }
 
 
-def scrape(session, run_utc, full_refresh=False):
+def scrape(session, run_utc, full_refresh=False, health=None):
     stored_raw = load_json(REGISTER_JSON, {})
     schema_upgrade = any(e.get("schema_version", 1) < SCHEMA_VERSION for e in stored_raw.values())
     stored_register = {slug: migrate_stored_entry(e) for slug, e in stored_raw.items()}
     changelog = load_json(CHANGELOG_JSON, [])
     first_event = len(changelog)
 
-    # ── Step 1: Get summary data from all listing pages ────────────────────
-    listing_entries = fetch_all_listing_entries(session)
+    now, today = utc_now(), canberra_today()
+    health = health or {}
 
-    # ── Step 2: Fetch the detail pages that may have changed ───────────────
-    to_fetch = select_detail_fetches(listing_entries, stored_register, full_refresh)
+    # ── Step 1: Listing pages (recent pages only, full scan weekly) ────────
+    last_full = parse_iso(health.get("last_full_listing_utc", ""))
+    full_listing = full_refresh or not last_full or now - last_full >= FULL_LISTING_EVERY
+    listing_entries, listing_complete = fetch_listing_entries(session, stored_register, full_listing, today)
+
+    # ── Step 2: Fetch the detail pages that are due ────────────────────────
+    to_fetch = select_detail_fetches(listing_entries, stored_register, full_refresh, now, today)
     reasons = {}
     for reason in to_fetch.values():
         reasons[reason] = reasons.get(reason, 0) + 1
-    print(f"\nFetching {len(to_fetch)} of {len(listing_entries)} detail pages "
-          f"({', '.join(f'{n} {r}' for r, n in sorted(reasons.items()))})...\n")
+    known = len(set(listing_entries) | set(stored_register))
+    print(f"\nFetching {len(to_fetch)} of {known} detail pages "
+          f"({', '.join(f'{n} {r}' for r, n in sorted(reasons.items())) or 'none due'})...\n")
 
     fetched = {}
     for idx, slug in enumerate(to_fetch, 1):
-        card = listing_entries[slug]
+        url = (listing_entries.get(slug) or stored_register.get(slug, {})).get("url", "")
         print(f"  [{idx:3d}/{len(to_fetch)}] {slug[:70]}")
-        stored = stored_register.get(slug, {})
-        result = session.get(card["url"], etag=stored.get("http_etag", ""),
-                             last_modified=stored.get("http_last_modified", ""))
-        if result.not_modified and stored:
-            fetched[slug] = {"_not_modified": True}
-        elif result.ok:
+        result = session.get(url)
+        if result.ok:
             cache_detail_html(slug, result.text)
-            detail = parse_detail_page(BeautifulSoup(result.text, "lxml"), card["url"])
-            detail["http_etag"] = result.headers.get("ETag", "")
-            detail["http_last_modified"] = result.headers.get("Last-Modified", "")
-            fetched[slug] = detail
+            fetched[slug] = parse_detail_page(BeautifulSoup(result.text, "lxml"), url)
         else:
             fetched[slug] = None
             print(f"           WARNING: fetch failed ({result.error or result.status}); keeping stored data")
 
-    check_sanity(listing_entries, stored_register,
-                 {s: d for s, d in fetched.items() if d and not d.get("_not_modified")})
+    check_sanity(listing_entries, stored_register, {s: d for s, d in fetched.items() if d},
+                 listing_complete)
 
     # ── Step 3: Merge, derive, detect changes ──────────────────────────────
     new_register, new_slugs, changed_slugs = {}, [], []
@@ -874,9 +957,6 @@ def scrape(session, run_utc, full_refresh=False):
             entry["detail_fetch_failed_utc"] = run_utc
         elif detail is False:                    # not selected this run
             entry = {**stored, **card_fields}
-        elif detail.get("_not_modified"):        # 304: page unchanged
-            entry = {**stored, **card_fields, "last_checked_utc": run_utc}
-            entry.pop("detail_fetch_failed_utc", None)
         else:
             # Merge: detail page values override list-page values for shared fields.
             # Fields that disappear from the page are dropped (not carried over),
@@ -885,7 +965,11 @@ def scrape(session, run_utc, full_refresh=False):
         if stored.get("first_seen_utc"):
             entry["first_seen_utc"] = stored["first_seen_utc"]
         entry["slug"] = slug
-        entry["last_seen_in_listing_utc"] = run_utc
+        if slug in listing_entries:
+            entry["last_seen_in_listing_utc"] = run_utc
+        # Response headers are per-request timestamps, not page versions
+        entry.pop("http_etag", None)
+        entry.pop("http_last_modified", None)
         entry.setdefault("first_seen_utc", stored.get("first_seen_utc") or run_utc)
         entry["schema_version"] = SCHEMA_VERSION
         entry.pop("last_scraped_utc", None)
@@ -909,9 +993,19 @@ def scrape(session, run_utc, full_refresh=False):
 
     for slug, card in listing_entries.items():
         process(slug, card, fetched.get(slug, False))
+    # Known matters on listing pages this run did not fetch: carried forward,
+    # updated only if their page was due for a re-check
+    # (on a full scan, absent matters go to the removal check below instead)
+    if not listing_complete:
+        for slug in stored_register:
+            if slug not in new_register:
+                if slug in fetched:
+                    process(slug, {}, fetched[slug])
+                else:
+                    new_register[slug] = stored_register[slug]
 
-    # ── Removed entries ────────────────────────────────────────────────────
-    potentially_removed = sorted(set(stored_register) - set(new_register))
+    # ── Removed entries (only knowable from a full listing scan) ───────────
+    potentially_removed = sorted(set(stored_register) - set(new_register)) if listing_complete else []
     removed_slugs, recovered = check_potentially_removed(
         potentially_removed, stored_register, new_register, session, run_utc)
     for slug, detail in recovered.items():
@@ -931,7 +1025,8 @@ def scrape(session, run_utc, full_refresh=False):
         "changed_slugs": changed_slugs,
         "removed_slugs": removed_slugs,
         "fetched_count": len(to_fetch),
-        "listing_count": len(listing_entries),
+        "listing_count": len(new_register),
+        "listing_complete": listing_complete,
         "schema_upgrade": schema_upgrade,
     }
 
@@ -1031,7 +1126,7 @@ def run(http_session=None):
     session = PoliteSession(http_session)
 
     try:
-        result = scrape(session, run_utc, full_refresh)
+        result = scrape(session, run_utc, full_refresh, health)
     except Exception as exc:
         kind = ("blocked" if isinstance(exc, AccessBlocked)
                 else "sanity" if isinstance(exc, SanityCheckFailed) else "error")
@@ -1077,6 +1172,8 @@ def run(http_session=None):
         "decision_documents": decision_alerts,
     })
 
+    if result["listing_complete"]:
+        health["last_full_listing_utc"] = run_utc
     health = record_health(health, run_utc, "success", request_count=session.request_count)
 
     # ── Reports and emails ─────────────────────────────────────────────────

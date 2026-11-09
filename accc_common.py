@@ -10,6 +10,7 @@ polite HTTP client are defined exactly once.
 import datetime
 import json
 import os
+import random
 import re
 import time
 from zoneinfo import ZoneInfo
@@ -70,7 +71,7 @@ SCHEMA_VERSION = 2
 # Human-readable run schedule, shown in emails, Sheets and Excel.
 # Keep in sync with the cron expression in .github/workflows/monitor.yml.
 SCHEDULE_TEXT = (
-    "Mon to Fri, 10:23am and 4:23pm AEST (11:23am and 5:23pm AEDT). "
+    "Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. "
     "GitHub can start scheduled runs late."
 )
 
@@ -372,8 +373,10 @@ def write_github_outputs(**values):
 # ---------------------------------------------------------------------------
 # HTTP: a polite, rate-limited client that stops early when blocked
 # ---------------------------------------------------------------------------
-# Polite delay between HTTP requests (seconds)
-REQUEST_DELAY = float(os.environ.get("ACCC_REQUEST_DELAY", "1.5"))
+# Polite delay between HTTP requests (seconds), plus up to REQUEST_JITTER of
+# random extra so requests do not arrive at a fixed machine-like rhythm.
+REQUEST_DELAY = float(os.environ.get("ACCC_REQUEST_DELAY", "3"))
+REQUEST_JITTER = float(os.environ.get("ACCC_REQUEST_JITTER", "1"))
 REQUEST_TIMEOUT = 30
 MAX_RETRIES = 3
 MAX_RETRY_AFTER = 120          # never sleep longer than this on Retry-After
@@ -422,9 +425,7 @@ class FetchResult:
 class PoliteSession:
     """
     Wraps requests.Session with:
-      - one request at a time, REQUEST_DELAY seconds apart
-      - conditional requests (If-None-Match / If-Modified-Since) so unchanged
-        pages can be answered with a cheap 304
+      - one request at a time, REQUEST_DELAY (plus jitter) seconds apart
       - no pointless retries on 4xx (403/404/410)
       - Retry-After support on 429/503
       - a circuit breaker: after BLOCKED_STATUS_LIMIT consecutive 403s the run
@@ -444,17 +445,17 @@ class PoliteSession:
         self._last_request_at = 0.0
 
     def _wait_turn(self):
+        if not self._last_request_at:
+            return
+        gap = self.delay + (random.uniform(0, REQUEST_JITTER) if self.delay else 0)
         elapsed = time.monotonic() - self._last_request_at
-        if self._last_request_at and elapsed < self.delay:
-            time.sleep(self.delay - elapsed)
+        if elapsed < gap:
+            time.sleep(gap - elapsed)
 
-    def get(self, url, etag="", last_modified="", timeout=REQUEST_TIMEOUT,
-            retries=MAX_RETRIES, binary=False):
+    def get(self, url, timeout=REQUEST_TIMEOUT, retries=MAX_RETRIES, binary=False):
+        # No conditional requests: the ACCC's ETag and Last-Modified headers are
+        # the time each response was generated, so a 304 never comes back.
         headers = {}
-        if etag:
-            headers["If-None-Match"] = etag
-        if last_modified:
-            headers["If-Modified-Since"] = last_modified
 
         last_error = ""
         for attempt in range(retries):
@@ -542,6 +543,17 @@ def cached_detail_html(slug):
         with open(path, "r", encoding="utf-8") as f:
             return f.read()
     return None
+
+
+def mark_listing_complete():
+    """Record that this run fetched every listing page (verify.py relies on it)."""
+    os.makedirs(LISTING_CACHE_DIR, exist_ok=True)
+    with open(os.path.join(CACHE_DIR, "html", "listing-complete"), "w") as f:
+        f.write("1")
+
+
+def listing_is_complete():
+    return os.path.exists(os.path.join(CACHE_DIR, "html", "listing-complete"))
 
 
 def cached_listing_pages():

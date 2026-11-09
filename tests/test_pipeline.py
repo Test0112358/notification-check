@@ -118,7 +118,7 @@ class PipelineTests(unittest.TestCase):
         code, _ = run_site()
         self.assertEqual(code, 3)
         self.assertEqual(len(load_json(REGISTER_JSON, {})), 30)
-        self.assertIn("only 3 entries", load_json(HEALTH_JSON, {})["last_error"])
+        self.assertIn("listed only 3 matters", load_json(HEALTH_JSON, {})["last_error"])
 
     def test_removed_entry_confirmed_by_404(self):
         run_site()

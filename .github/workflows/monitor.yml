@@ -2,10 +2,14 @@ name: ACCC Register Monitor + Verify
 
 on:
   schedule:
-    # 00:23 and 06:23 UTC, Mon-Fri = 10:23am and 4:23pm AEST (11:23am and 5:23pm AEDT).
+    # 8:37am, 12:37pm and 4:37pm Canberra time, Mon-Fri. GitHub applies
+    # daylight saving for the named time zone. Three runs because GitHub
+    # delays and sometimes drops scheduled runs; most runs make only a
+    # handful of requests (see "Request budget" in scraper.py).
     # Off the hour on purpose: GitHub delays jobs scheduled at :00 the most.
-    # Keep SCHEDULE_TEXT in accc_common.py in sync with this line.
-    - cron: '23 0,6 * * 1-5'
+    # Keep SCHEDULE_TEXT in accc_common.py and RUNS_PER_WEEK in scraper.py in sync.
+    - cron: '37 8,12,16 * * 1-5'
+      timezone: 'Australia/Sydney'
   workflow_dispatch:
     inputs:
       reason:
@@ -13,7 +17,7 @@ on:
         required: false
         default: 'Manual run'
       full_refresh:
-        description: 'Re-check every case page (about 730 requests instead of about 150)'
+        description: 'Re-check every listing and case page (about 850 requests instead of the usual 5 to 80)'
         type: boolean
         required: false
         default: false
