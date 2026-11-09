@@ -55,6 +55,7 @@ FIELD_LABELS = {
     "consultation_close_date": "Consultation closes",
     "consultation_docs": "Consultation documents",
     "decisions_docs": "Decisions and key events",
+    "url": "ACCC page address",
 }
 
 DATE_FIELDS = {"notification_date", "end_of_determination_period",
