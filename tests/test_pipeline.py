@@ -130,6 +130,30 @@ class PipelineTests(unittest.TestCase):
         latest = load_json(os.path.join(helpers.TMP, "data", "latest_changes.json"), {})
         self.assertEqual([r["slug"] for r in latest["removed_entries"]], ["gone-matter"])
 
+    def test_renamed_matter_keeps_its_history(self):
+        # Like MN-25049: the ACCC renamed "merck-kgaa-bio-techne" to "merck-kgaa%E2%80%93bio-techne"
+        run_site()
+        first_seen = load_json(REGISTER_JSON, {})[helpers.SLUG_ACTIVE]["first_seen_utc"]
+        new_slug = "challenger-%E2%80%93-channel-capital-and-fidante"
+        listing = fixture("listing_page.html").replace(helpers.SLUG_ACTIVE, new_slug)
+        decided = (fixture("detail_active.html")
+                   .replace("<h1>Challenger - Channel Capital and Fidante</h1>", "<h1>Challenger – Channel Capital and Fidante</h1>")
+                   .replace("<p>Under assessment</p>", "<p>Assessment completed</p>"))
+        pages = site_pages(listing_html=listing)
+        pages[f"{helpers.REGISTER}/{new_slug}"] = (200, decided)
+        self.assertEqual(scraper.run(FakeRequestsSession(pages)), 0)
+
+        register = load_json(REGISTER_JSON, {})
+        self.assertNotIn(helpers.SLUG_ACTIVE, register)
+        self.assertEqual(register[new_slug]["first_seen_utc"], first_seen)
+        self.assertEqual(register[new_slug]["previous_slugs"], [helpers.SLUG_ACTIVE])
+        latest = load_json(os.path.join(helpers.TMP, "data", "latest_changes.json"), {})
+        self.assertEqual((latest["new_count"], latest["removed_count"], latest["changed_count"]), (0, 0, 1))
+        summary = latest["changed_entries"][0]["summary"]
+        self.assertIn("Status: Under assessment → Assessment completed", summary)
+        manifest = load_json(DOCUMENTS_MANIFEST_JSON, {})
+        self.assertTrue(all(r["slug"] == new_slug for r in manifest.values()))
+
     def test_old_format_records_migrate_without_alerts(self):
         run_site()
         register = load_json(REGISTER_JSON, {})

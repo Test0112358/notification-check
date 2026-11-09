@@ -845,6 +845,40 @@ def check_sanity(listing_entries, stored_register, fetched, listing_complete=Tru
 
 
 # ---------------------------------------------------------------------------
+# Renamed entries
+# ---------------------------------------------------------------------------
+
+def adopt_renamed_entries(listing_entries, stored_register):
+    """
+    The ACCC sometimes renames a matter, which changes its page address
+    (e.g. "merck-kgaa-bio-techne" became "merck-kgaa%E2%80%93bio-techne").
+    A listing slug we have not seen, carrying the case number of a stored
+    matter whose old slug is no longer listed, is the same matter: move the
+    stored record to the new slug so its history continues and the run
+    reports ordinary changes instead of a new matter plus a removal.
+    Returns {new_slug: old_slug}. Modifies stored_register in place.
+    """
+    by_case = {}
+    for slug, entry in stored_register.items():
+        if entry.get("case_number"):
+            by_case.setdefault(entry["case_number"], []).append(slug)
+    renames = {}
+    for new_slug, card in listing_entries.items():
+        if new_slug in stored_register:
+            continue
+        olds = [s for s in by_case.get(card.get("case_number", ""), []) if s not in listing_entries]
+        if len(olds) != 1:
+            continue
+        old_slug = olds[0]
+        record = stored_register.pop(old_slug)
+        record["previous_slugs"] = record.get("previous_slugs", []) + [old_slug]
+        stored_register[new_slug] = {**record, "slug": new_slug}
+        renames[new_slug] = old_slug
+        print(f"  Renamed on the ACCC site: {old_slug} → {new_slug} ({card.get('case_number')})")
+    return renames
+
+
+# ---------------------------------------------------------------------------
 # Removed entries
 # ---------------------------------------------------------------------------
 
@@ -916,9 +950,12 @@ def scrape(session, run_utc, full_refresh=False, health=None):
     last_full = parse_iso(health.get("last_full_listing_utc", ""))
     full_listing = full_refresh or not last_full or now - last_full >= FULL_LISTING_EVERY
     listing_entries, listing_complete = fetch_listing_entries(session, stored_register, full_listing, today)
+    renames = adopt_renamed_entries(listing_entries, stored_register)
 
     # ── Step 2: Fetch the detail pages that are due ────────────────────────
     to_fetch = select_detail_fetches(listing_entries, stored_register, full_refresh, now, today)
+    for slug in renames:
+        to_fetch[slug] = "renamed"
     reasons = {}
     for reason in to_fetch.values():
         reasons[reason] = reasons.get(reason, 0) + 1
@@ -962,8 +999,9 @@ def scrape(session, run_utc, full_refresh=False, health=None):
             # Fields that disappear from the page are dropped (not carried over),
             # except the deadline below.
             entry = {**card, **detail, "last_checked_utc": run_utc}
-        if stored.get("first_seen_utc"):
-            entry["first_seen_utc"] = stored["first_seen_utc"]
+        for keep in ("first_seen_utc", "previous_slugs"):   # monitor's own history fields
+            if stored.get(keep):
+                entry[keep] = stored[keep]
         entry["slug"] = slug
         if slug in listing_entries:
             entry["last_seen_in_listing_utc"] = run_utc
@@ -985,6 +1023,9 @@ def scrape(session, run_utc, full_refresh=False, health=None):
             changelog.append(_changelog_event(run_utc, slug, entry, "NEW_ENTRY"))
         else:
             changes = detect_changes(stored, entry, schema_upgrade)
+            if slug in renames:
+                changes.append({"field": "url", "old": stored.get("url", ""),
+                                "new": entry.get("url", ""), "material": False})
             if changes:
                 changelog.append(_changelog_event(run_utc, slug, entry, "CHANGED", changes))
                 if any(c["material"] for c in changes):
@@ -1027,13 +1068,18 @@ def scrape(session, run_utc, full_refresh=False, health=None):
         "fetched_count": len(to_fetch),
         "listing_count": len(new_register),
         "listing_complete": listing_complete,
+        "renames": renames,
         "schema_upgrade": schema_upgrade,
     }
 
 
-def update_documents(new_register, session, run_utc):
+def update_documents(new_register, session, run_utc, renames=None):
     """Track and download consultation documents. Never loses a document on failure."""
     manifest = documents.load_manifest()
+    for new_slug, old_slug in (renames or {}).items():
+        for rec in manifest.values():
+            if rec.get("slug") == old_slug:
+                rec["slug"] = new_slug
     added = documents.sync_manifest(manifest, new_register, run_utc)
     if added:
         print(f"  {added} consultation document(s) newly tracked.")
@@ -1161,7 +1207,7 @@ def run(http_session=None):
 
     # ── Documents ──────────────────────────────────────────────────────────
     print("\nChecking consultation documents...")
-    manifest, downloaded = update_documents(new_register, session, run_utc)
+    manifest, downloaded = update_documents(new_register, session, run_utc, result["renames"])
     this_run_events = result["this_run_events"]
     decision_alerts = reporting.collect_decision_alerts(this_run_events, stored_register, new_register)
     save_json(NEW_DOCUMENTS_JSON, {
