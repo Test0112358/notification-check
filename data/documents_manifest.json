@@ -692,14 +692,14 @@
     "date": "24 Jun 2026",
     "description": "Microstar Konvoy - Remedy offer",
     "kind": "Remedy offer",
-    "status": "pending",
-    "attempts": 0,
+    "status": "failed",
+    "attempts": 1,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
     "size_kb": null,
     "downloaded_utc": "",
-    "last_error": ""
+    "last_error": "403 Forbidden"
   },
   "https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Questionnaire%20-%20Remedy%20offer%20%2817%20June%202026%29.docx": {
     "url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Questionnaire%20-%20Remedy%20offer%20%2817%20June%202026%29.docx",
@@ -890,14 +890,14 @@
     "date": "29 Jun 2026",
     "description": "Heidelberg Materials Australia - Construction materials business of MAAS - Remedy offer",
     "kind": "Remedy offer",
-    "status": "pending",
-    "attempts": 0,
+    "status": "failed",
+    "attempts": 1,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
     "size_kb": null,
     "downloaded_utc": "",
-    "last_error": ""
+    "last_error": "403 Forbidden"
   },
   "https://www.accc.gov.au/system/files/public-merger-register/documents/HMA%20MAAS%20-%20Questionnaire%20re%3A%20Remedy%20Offer%20%2829%20June%202026%29_0.docx": {
     "url": "https://www.accc.gov.au/system/files/public-merger-register/documents/HMA%20MAAS%20-%20Questionnaire%20re%3A%20Remedy%20Offer%20%2829%20June%202026%29_0.docx",
@@ -1143,7 +1143,7 @@
     "description": "Remedy Offer - 1 July 2026 - IAG - RACI",
     "kind": "Remedy offer",
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
@@ -2427,6 +2427,24 @@
     "filename": "Questionnaire - Eli Lilly - Merida.docx",
     "size_kb": 116.4,
     "downloaded_utc": "before manifest",
+    "last_error": ""
+  },
+  "https://www.accc.gov.au/system/files/moderated_files/PSP%20Investments%20-%20AAA%20Egg%20Company%20-%20remedy%20offer%20-%204%20November%202026.pdf": {
+    "url": "https://www.accc.gov.au/system/files/moderated_files/PSP%20Investments%20-%20AAA%20Egg%20Company%20-%20remedy%20offer%20-%204%20November%202026.pdf",
+    "slug": "psp-investments-aaa-egg-company",
+    "case_number": "MN-55024",
+    "title": "PSP Investments - AAA Egg Company",
+    "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company",
+    "date": "4 Nov 2026",
+    "description": "PSP Investments - AAA Egg Company - remedy offer - 4 November 2026",
+    "kind": "Remedy offer",
+    "status": "pending",
+    "attempts": 0,
+    "first_seen_utc": "2026-11-09T07:03:10Z",
+    "source": "register",
+    "filename": "",
+    "size_kb": null,
+    "downloaded_utc": "",
     "last_error": ""
   }
 }
