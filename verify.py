@@ -50,7 +50,7 @@ from bs4 import BeautifulSoup
 from accc_common import (
     ACT_PUBLIC_HOLIDAYS, BASE_URL, CASE_PATH_MARKER, DATA_DIR, DOCUMENTS_MANIFEST_JSON,
     HOLIDAY_TABLE_LAST_YEAR, REGISTER_JSON, REGISTER_PATH, REGISTER_URL, AccessBlocked,
-    PoliteSession, cached_detail_html, cached_listing_pages, in_christmas_suspension,
+    PoliteSession, cached_detail_html, cached_listing_pages, in_christmas_suspension, listing_is_complete,
     load_json, parse_date, utc_now_iso, write_github_outputs,
 )
 
@@ -76,11 +76,12 @@ VALID_ACQUISITION_STATUS = {
 
 VALID_TYPES = {"Notification", "Waiver"}
 
+# Compared case-insensitively (the ACCC writes "Public benefit phase")
 VALID_STAGES = {
-    "Phase 1 - initial assessment",
-    "Phase 2 - detailed assessment",
-    "Public Benefit Phase",
-    "Waiver application",
+    "phase 1 - initial assessment",
+    "phase 2 - detailed assessment",
+    "public benefit phase",
+    "waiver application",
 }
 
 VALID_DETERMINATIONS = {
@@ -225,7 +226,7 @@ def layer1_consistency(register):
             )
 
         stage = clean(e.get("stage", ""))
-        if stage and stage not in VALID_STAGES:
+        if stage and stage.lower() not in VALID_STAGES:
             add(
                 "UNKNOWN_STAGE_VALUE",
                 WARNING,
@@ -571,8 +572,9 @@ def layer2_cross_source(register, session=None):
             else:
                 matched += 1
 
-    # Check for stored entries that no longer appear in the live listing
-    stored_but_not_live = set(register.keys()) - set(fresh_listing.keys())
+    # Check for stored entries that no longer appear in the live listing.
+    # Only meaningful when the scrape fetched every listing page this run.
+    stored_but_not_live = (set(register) - set(fresh_listing)) if listing_is_complete() else set()
     for slug in stored_but_not_live:
         stored = register[slug]
         issues.append(issue(
@@ -839,10 +841,10 @@ def layer3_rescrape(register, session=None, sample_size=None, live=0):
 
 def layer_documents():
     """Consultation documents that could not be downloaded after repeated attempts."""
-    from documents import MAX_DOWNLOAD_ATTEMPTS
+    from documents import gave_up
     issues = []
     for url, rec in load_json(DOCUMENTS_MANIFEST_JSON, {}).items():
-        if rec.get("status") != "downloaded" and rec.get("attempts", 0) >= MAX_DOWNLOAD_ATTEMPTS:
+        if gave_up(rec):
             issues.append(issue(
                 rec.get("slug", ""), rec.get("title", ""), rec.get("accc_url", ""), 1,
                 "DOCUMENT_DOWNLOAD_GAVE_UP", WARNING,

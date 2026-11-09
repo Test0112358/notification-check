@@ -74,7 +74,7 @@ The original columns keep their positions. New columns are appended at the end, 
 
 ### Consultation documents are never lost
 
-Every consultation document is recorded in `documents_manifest.json` as soon as it is seen. Downloads that fail are retried on later runs, up to 6 attempts. Documents beyond the per-run cap of 25 wait for the next run instead of being dropped. Word, PDF and other formats are all collected.
+Every consultation document is recorded in `documents_manifest.json` as soon as it is seen. Newly published documents are downloaded first. Downloads that fail are retried on later runs, up to 4 attempts, and a run stops downloading at its first `403` rather than collecting more refusals. Older documents recovered from the changelog are tried at most once per run and dropped after 2 refusals, since the ACCC often stops serving them once consultation closes. Documents beyond the per-run cap of 25 wait for the next run instead of being dropped. Word, PDF and other formats are all collected.
 
 On its first run, the manifest also backfills documents that appear only in the changelog. This recovers 10 PDF consultation documents (9 remedy offers or draft s87B undertakings and 1 questionnaire) that the old `.docx`-only logic skipped.
 
@@ -82,15 +82,23 @@ On its first run, the manifest also backfills documents that appear only in the 
 
 ## Request budget (why runs are light)
 
-Each run fetches the ~15 listing pages, then only the case pages that may have changed:
+The monitor asks the ACCC site for as little as possible. Each part of the budget is based on five months of change history (May to November 2026): of about 400 material changes, 196 showed on the listing pages, 189 were on matters under assessment, 13 came within 21 days of a decision, and only 2 were on matters decided earlier.
 
-- new matters, and matters whose listing values (status, stage, dates) changed
-- every matter under assessment
-- matters decided or modified in the last 21 days
-- pages whose previous fetch failed
-- a rolling sweep of the least-recently-checked pages, sized so every page is re-checked about weekly
+**Listing pages** are newest first. A routine run fetches at least 2 pages and keeps going only while a page shows new matters or reaches into the last 30 days of notifications, usually 2 to 3 pages. Every page is scanned once a week, which is also when removed matters are detected.
 
-That is roughly **120 to 170 requests per run, instead of about 830**. Verification re-parses the HTML saved during the same run, so it adds no requests. Requests are 1.5 seconds apart, retries skip 4xx errors, `Retry-After` is honoured, and the run stops after 3 consecutive `403` responses.
+**Case pages** are re-checked on a schedule set by where each matter is in its lifecycle:
+
+| Matter | Re-checked |
+|---|---|
+| New, or its listing values (status, stage, dates) changed | This run |
+| Decision due within 3 business days, past its deadline, or consultation closing within 3 business days | Every run |
+| Other matters under assessment, and matters decided in the last 7 days | Once a day |
+| Decided 8 to 21 days ago | Once a week |
+| Everything else | Slow sweep, each page about every 90 days |
+
+A week of rehearsal on the real register came to **about 70 to 110 requests a day** (8 to 15 on most runs, about 50 to 60 on the run that does the daily re-checks, 30 on the weekly full scan). The previous version used 130 to 250 per run, and the original about 830.
+
+Requests are at least 3 seconds apart with up to 1 second of random extra, retries skip 4xx errors, `Retry-After` is honoured, and the run stops after 3 consecutive `403` responses. Verification re-parses the HTML saved during the same run, so it adds no requests. Conditional requests are not used: the ACCC's `ETag` and `Last-Modified` headers are just the time each response was generated.
 
 To re-check every page once, run the workflow manually with **full_refresh** ticked.
 
@@ -115,7 +123,7 @@ Options, in order of effort:
 4. **Watchlist (optional):** edit `watchlist.json` (instructions inside).
 5. **Run it:** Actions → ACCC Register Monitor + Verify → Run workflow.
 
-**Schedule:** Monday to Friday at 10:23am and 4:23pm AEST (11:23am and 5:23pm AEDT). GitHub can start scheduled runs late. To change the times, edit the cron line in `.github/workflows/monitor.yml` and `SCHEDULE_TEXT` in `accc_common.py`.
+**Schedule:** Monday to Friday at 8:37am, 12:37pm and 4:37pm Canberra time (GitHub applies daylight saving for the `Australia/Sydney` time zone). GitHub can start scheduled runs late or skip them under load, which is why there are three. To change the times, edit the cron line in `.github/workflows/monitor.yml`, `SCHEDULE_TEXT` in `accc_common.py` and `RUNS_PER_WEEK` in `scraper.py`.
 
 ---
 
