@@ -1250,14 +1250,14 @@
     "date": "9 Jul 2026",
     "description": "Black Rhino - Club Hotel - Remedy Offer - 9 July 2026",
     "kind": "Remedy offer",
-    "status": "pending",
-    "attempts": 0,
+    "status": "failed",
+    "attempts": 1,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
     "size_kb": null,
     "downloaded_utc": "",
-    "last_error": ""
+    "last_error": "403 Forbidden"
   },
   "https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Questionnaire%20-%20Remedy%20Offer%20%2810%20July%202026%29_2.docx": {
     "url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Questionnaire%20-%20Remedy%20Offer%20%2810%20July%202026%29_2.docx",
@@ -2438,13 +2438,13 @@
     "date": "4 Nov 2026",
     "description": "PSP Investments - AAA Egg Company - remedy offer - 4 November 2026",
     "kind": "Remedy offer",
-    "status": "pending",
-    "attempts": 0,
+    "status": "downloaded",
+    "attempts": 1,
     "first_seen_utc": "2026-11-09T07:03:10Z",
     "source": "register",
-    "filename": "",
-    "size_kb": null,
-    "downloaded_utc": "",
+    "filename": "MN-55024 - PSP Investments - AAA Egg Company - remedy offer - 4 November 2026.pdf",
+    "size_kb": 286.2,
+    "downloaded_utc": "2026-11-10T03:46:39Z",
     "last_error": ""
   }
 }

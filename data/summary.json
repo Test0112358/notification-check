@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-09T07:03:14Z",
+  "generated_at_utc": "2026-11-10T03:51:33Z",
   "data_health": {
-    "last_success_utc": "2026-11-09T06:56:10Z",
+    "last_success_utc": "2026-11-10T03:46:39Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 253
+    "last_request_count": 84
   },
   "total_entries": 828,
   "by_acquisition_status": {
@@ -33,47 +33,33 @@
       "title": "Macquarie Global Infrastructure Fund - SERV",
       "case_number": "MN-75059",
       "end_of_determination_period": "18 Nov 2026",
-      "business_days_remaining": 7,
-      "day_of_period": "Day 23 of 30"
+      "business_days_remaining": 6,
+      "day_of_period": "Day 24 of 30"
     },
     {
       "slug": "ingenia-peet-flagstone-jv",
       "title": "Ingenia - Peet - Flagstone JV",
       "case_number": "MN-60048",
       "end_of_determination_period": "20 Nov 2026",
-      "business_days_remaining": 9,
-      "day_of_period": "Day 21 of 30"
+      "business_days_remaining": 8,
+      "day_of_period": "Day 22 of 30"
     },
     {
       "slug": "funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
       "title": "Funds managed by New Forests – Forestry plantations of AKD",
       "case_number": "MN-85053",
       "end_of_determination_period": "23 Nov 2026",
-      "business_days_remaining": 10,
-      "day_of_period": "Day 20 of 30"
+      "business_days_remaining": 9,
+      "day_of_period": "Day 21 of 30"
     }
   ],
   "past_deadline_awaiting_publication": [],
   "consultations_closing_soon": [
     {
-      "slug": "merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
-      "title": "Merchant Wealth Partners - minority investment in Ironbark Financial Group",
-      "case_number": "MN-60059",
-      "closes": "2026-11-09",
-      "business_days_left": 0
-    },
-    {
-      "slug": "acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
-      "title": "ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",
-      "case_number": "MN-10043",
-      "closes": "2026-11-09",
-      "business_days_left": 0
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
-      "title": "Coles – supermarket site in Cannonvale Central (QLD)",
-      "case_number": "MN-40049",
-      "closes": "2026-11-09",
+      "slug": "healthe-care-prince-of-wales-private-hospital",
+      "title": "Healthe Care - Prince of Wales Private Hospital",
+      "case_number": "MN-60052",
+      "closes": "2026-11-10",
       "business_days_left": 0
     },
     {
@@ -81,62 +67,55 @@
       "title": "Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",
       "case_number": "MN-25058",
       "closes": "2026-11-10",
-      "business_days_left": 1
-    },
-    {
-      "slug": "healthe-care-prince-of-wales-private-hospital",
-      "title": "Healthe Care - Prince of Wales Private Hospital",
-      "case_number": "MN-60052",
-      "closes": "2026-11-10",
-      "business_days_left": 1
+      "business_days_left": 0
     },
     {
       "slug": "zoetis-%E2%80%93-neogen-genomics-business",
       "title": "Zoetis – Neogen Genomics Business",
       "case_number": "MN-05013",
       "closes": "2026-11-11",
-      "business_days_left": 2
+      "business_days_left": 1
     },
     {
       "slug": "usco-%E2%80%93-itm",
       "title": "USCO – ITM",
       "case_number": "MN-55046",
       "closes": "2026-11-12",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "thoma-bravo-varonis",
       "title": "Thoma Bravo - Varonis",
       "case_number": "MN-65042",
       "closes": "2026-11-12",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "psp-investments-aaa-egg-company",
       "title": "PSP Investments - AAA Egg Company",
       "case_number": "MN-55024",
       "closes": "2026-11-12",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
       "title": "Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill",
       "case_number": "MN-20046",
       "closes": "2026-11-13",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "total-ventilation-hygiene-alphacool",
       "title": "Total Ventilation Hygiene - Alphacool",
       "case_number": "MN-70049",
       "closes": "2026-11-13",
-      "business_days_left": 4
+      "business_days_left": 3
     }
   ],
   "documents": {
-    "downloaded": 125,
-    "pending": 9,
-    "failed": 2,
+    "downloaded": 126,
+    "pending": 7,
+    "failed": 3,
     "gave_up": 0
   },
   "analytics": {

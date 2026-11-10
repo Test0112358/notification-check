@@ -38348,5 +38348,241 @@
     "event": "REMOVED",
     "material": true,
     "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
+    "title": "Merchant Wealth Partners - minority investment in Ironbark Financial Group",
+    "case_number": "MN-60059",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 November 2026 via email to mergers@accc.gov.au with the title Submission re: Merchant Wealth Partners - minority investment in Ironbark Financial Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 2 Nov 2026 Closing date 9 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-09",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+    "title": "ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",
+    "case_number": "MN-10043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 November 2026 via email to mergers@accc.gov.au with the title Submission re: Acurio – Healthscope hospitals. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 2 Nov 2026 Closing date 9 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-09",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
+    "title": "Coles – supermarket site in Cannonvale Central (QLD)",
+    "case_number": "MN-40049",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 November 2026 via email to mergers@accc.gov.au with the title ‘Submission re: Coles – supermarket site in Cannonvale Central (QLD)’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 2 Nov 2026 Closing date 9 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-09",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
+    "title": "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",
+    "case_number": "WA-25045",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452)",
+        "new": "OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN 41 056 364 679)",
+        "new": "Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN - (ABN 41 056 364 679)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
+    "title": "Respect Group – McLean Care residential aged care homes and independent living units",
+    "case_number": "WA-75047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "RESPECT GROUP LIMITED (ABN 74 121 263 545)",
+        "new": "RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "MCLEAN CARE LTD (ABN 88 124 860 019)",
+        "new": "MCLEAN CARE LTD; ABN - (ABN 88 124 860 019)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "impression-dental-group-blackburn-dental-centre-vic",
+    "title": "Impression Dental Group - Blackburn Dental Centre, VIC",
+    "case_number": "WA-01120",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "GENERAL DENTAL HOLDINGS PTY LTD (ABN 55 646 760 367)",
+        "new": "GENERAL DENTAL HOLDINGS PTY LTD; ABN - (ABN 55 646 760 367)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD (ABN 73 625 186 012); THE TRUSTEE FOR CAREY FAMILY TRUST (ABN 75 013 410 991); THE TRUSTEE FOR THE LIOSIS-BELEGRIS TRUST (ABN 29 352 667 993); The Trustee for BCDC Unit Trust (ABN 68 256 098 624); Andrea Manley; Konstantina Liosis",
+        "new": "Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD; ABN - (ABN 73 625 186 012); THE TRUSTEE FOR CAREY FAMILY TRUST; ABN - (ABN 75 013 410 991); THE TRUSTEE FOR THE LIOSIS-BELEGRIS TRUST; ABN - (ABN 29 352 667 993); The Trustee for BCDC Unit Trust; ABN - (ABN 68 256 098 624); Andrea Manley; Konstantina Liosis",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "influence-media-partners-%E2%80%93-assets-from-anthem-entertainment",
+    "title": "Influence Media Partners – assets from Anthem Entertainment",
+    "case_number": "WA-35043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537; Anthem Entertainment L.P. (Business Identification Number - 141101998))",
+        "new": "Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537); Anthem Entertainment L.P. (Business Identification Number - 141101998)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "airtree-%E2%80%93-hotdoc-0",
+    "title": "Airtree – HotDoc",
+    "case_number": "WA-40028",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Airtree Ventures Opportunity Fund V Partnership, LP (ABN 16 395 824 589)",
+        "new": "Airtree Ventures Opportunity Fund V Partnership, LP; ABN - (ABN 16 395 824 589)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Aegleon Holdco Pty Ltd (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd (ACN 675 696 312)",
+        "new": "Aegleon Holdco Pty Ltd; ACN - (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd; ACN - (ACN 675 696 312)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "HOTDOC ONLINE PTY LTD (ABN 84 159 662 558)",
+        "new": "HOTDOC ONLINE PTY LTD; ABN - (ABN 84 159 662 558)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "australiansuper-%E2%80%93-advanced-navigation",
+    "title": "AustralianSuper – Advanced Navigation",
+    "case_number": "WA-35032",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australiansuper-%E2%80%93-advanced-navigation",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor (ABN 90 652 901 043)",
+        "new": "AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor; ABN - (ABN 90 652 901 043)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549)",
+        "new": "ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "AUSTRALIANSUPER PTY LTD atf AustralianSuper (ABN 94 006 457 987)",
+        "new": "AUSTRALIANSUPER PTY LTD atf AustralianSuper; ABN - (ABN 94 006 457 987)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T03:46:39Z",
+    "slug": "pt-ap-investment-%E2%80%93-vitrinite",
+    "title": "PT AP Investment – Vitrinite",
+    "case_number": "WA-60029",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pt-ap-investment-%E2%80%93-vitrinite",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Crossfield Global Pte Ltd (UEN - 202629303K; PT AP Investment (NIB - 0220201350357))",
+        "new": "Crossfield Global Pte Ltd (UEN - 202629303K); PT AP Investment (NIB - 0220201350357)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Vitrinite Pty Ltd (ABN 46 167 744 578)",
+        "new": "Vitrinite Pty Ltd; ABN - (ABN 46 167 744 578)",
+        "material": true
+      }
+    ]
   }
 ]

@@ -1,294 +1,62 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,09 Nov 2026 17:56 AEDT,Up to date
-Last run attempt,09 Nov 2026 17:56 AEDT,success
-HTTP requests used,253,
+Last successful update,10 Nov 2026 14:46 AEDT,Up to date
+Last run attempt,10 Nov 2026 14:46 AEDT,success
+HTTP requests used,84,
 ,,
 Total entries monitored,828,
-New entries this run,115,
-Changed entries this run,31,material changes only
-Removed entries this run,1,
-New decision documents,122,
+New entries this run,0,
+Changed entries this run,7,material changes only
+Removed entries this run,0,
+New decision documents,0,
 ,,
-Auto-run schedule,"Mon to Fri, 10:23am and 4:23pm AEST (11:23am and 5:23pm AEDT). GitHub can start scheduled runs late.",
+Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (115),Case Number,URL
-"+ Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill",MN-20046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill
-+ Total Ventilation Hygiene - Alphacool,MN-70049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/total-ventilation-hygiene-alphacool
-+ USCO – ITM,MN-55046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/usco-%E2%80%93-itm
-+ Thoma Bravo - Varonis,MN-65042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-varonis
-+ Merchant Wealth Partners - minority investment in Ironbark Financial Group,MN-60059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group
-"+ Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",MN-25058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic
-+ Healthe Care - Prince of Wales Private Hospital,MN-60052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-prince-of-wales-private-hospital
-+ GLNG Participants – Greater Meridian CSG Project assets,MN-65041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/glng-participants-%E2%80%93-greater-meridian-csg-project-assets
-"+ ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",MN-10043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals
-+ Coles – supermarket site in Cannonvale Central (QLD),MN-40049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld
-+ Calvary – 14 Healthscope hospitals and Healthscope Independence Services,MN-10040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services
-+ Stellex and ONA – Score,MN-90044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stellex-and-ona-%E2%80%93-score
-+ OCTA – Woodside-EDL LNG JV,MN-10044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv
-"+ Endeavour Group – retail liquor site in Penrith, NSW",MN-45028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw
-+ NYK - NS United,MN-15043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united
-+ 4K Automotive Group – Peninsula Motor Group,MN-20044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/4k-automotive-group-%E2%80%93-peninsula-motor-group
-+ Hopper Motor Group – Essendon Kia,MN-20041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hopper-motor-group-%E2%80%93-essendon-kia
-+ Webuild – Trevi Group,MN-20042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group
-+ Monadelphous - Tyden Power,MN-75065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power-0
-+ AUB – One Underwriting,MN-55042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting
-+ Sun Pharma - Organon,MN-35035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sun-pharma-organon
-+ Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm,MN-15053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm
-+ Novotech - Agilex,MN-45032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novotech-agilex
-+ TA Associates – MedEnvision,WA-10048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ta-associates-%E2%80%93-medenvision
-"+ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",MN-85060,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0
-+ IPLiving - Springwood Living Group,MN-01126,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ipliving-springwood-living-group
-+ ABB - Rotork,MN-75061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abb-rotork
-+ Thoma Bravo - Tanda,MN-80047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-tanda
-"+ Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth",MN-70047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth
-+ Koch – 50% interest in certain assets of OCP Nutricrops,MN-10039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops
-+ Next Capital - data centre business of Fujitsu Australia,WA-45036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/next-capital-data-centre-business-of-fujitsu-australia
-+ Camp Australia – Jabiru,MN-15048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru
-+ CVS Group – Karrinyup Small Animal Hospital,MN-01127,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvs-group-%E2%80%93-karrinyup-small-animal-hospital
-+ Kirin – Jamieson Wellness,MN-55040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kirin-%E2%80%93-jamieson-wellness-0
-+ Tabcorp - BetMakers,MN-20040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tabcorp-betmakers
-"+ Commonwealth Superannuation Corporation – 50% interest in Watergardens Shopping Centre precinct, Taylors Lake, Vic",WA-10047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic
-"+ Australian Rugby League Commission – Novotel Sydney International Airport, NSW",WA-75069,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-rugby-league-commission-%E2%80%93-novotel-sydney-international-airport-nsw
-"+ Sims - business assets of Base Metal Recyclers, VIC",WA-40050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sims-business-assets-of-base-metal-recyclers-vic
-+ FlightSafety International - Commercial Training Solutions,MN-50040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flightsafety-international-commercial-training-solutions
-+ Talent Acquisition Group – Strategy1 HR,WA-25060,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/talent-acquisition-group-%E2%80%93-strategy1-hr
-+ Funds managed by New Forests – Forestry plantations of AKD,MN-85053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd
-+ EQT Holdings – Platinum Investment Management,WA-45034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-holdings-%E2%80%93-platinum-investment-management
-+ SCEE Group – Entire Group,WA-80052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scee-group-%E2%80%93-entire-group
-+ Ingenia - Peet - Flagstone JV,MN-60048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv
-+ MA Financial (Redcape Fund) – Caves Coastal Bar & Bungalows,WA-01131,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-caves-coastal-bar-bungalows
-+ Cerberus – Mechanical Engineering Business of Goodwin,WA-90043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cerberus-%E2%80%93-mechanical-engineering-business-of-goodwin
-+ TCL Electronics – Sony’s home entertainment business,MN-65038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business
-+ SVP – Marelli,WA-70045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/svp-%E2%80%93-marelli
-+ Seidler Equity – Eco Outdoor,WA-10046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/seidler-equity-%E2%80%93-eco-outdoor
-+ TD SYNNEX - BlueStar,WA-60055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/td-synnex-bluestar
-+ VetPartners – VetLove,MN-75031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vetpartners-%E2%80%93-vetlove
-+ Marubeni Corporation - Kitsch,WA-60053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/marubeni-corporation-kitsch
-+ Goldman Sachs – NOJA Power,WA-30042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/goldman-sachs-%E2%80%93-noja-power
-+ Macquarie Global Infrastructure Fund - SERV,MN-75059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv
-+ Dicker Data – Sektor,WA-40048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/dicker-data-%E2%80%93-sektor
-+ Jaybro - Sewer Equipment Company Australia,WA-35051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jaybro-sewer-equipment-company-australia
-+ Alpin Investments – Best Sheds,WA-75067,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alpin-investments-%E2%80%93-best-sheds
-+ Stanmore – Exxaro Australia Holdings,MN-05054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stanmore-%E2%80%93-exxaro-australia-holdings
-+ Brown & Hurley - Schmitz Cargobull and Freighter Group,MN-30033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/brown-hurley-schmitz-cargobull-and-freighter-group
-+ Macquarie Korea Asset Management – Hwasung Cosmetics and Nowcos,WA-20047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-korea-asset-management-%E2%80%93-hwasung-cosmetics-and-nowcos
-"+ Shepparton Automotive Group - Darryl Twitt Motors dealerships in Shepparton East, Victoria",MN-45030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/shepparton-automotive-group-darryl-twitt-motors-dealerships-in-shepparton-east-victoria-0
-+ BMD Fleet – East Coast Commercial Vehicles dealerships,WA-75064,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bmd-fleet-%E2%80%93-east-coast-commercial-vehicles-dealerships
-+ Blackstone – Discovery Education,WA-90042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-%E2%80%93-discovery-education
-"+ Airbus, Leonardo and Thales – Space activities joint venture",MN-60044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airbus-leonardo-and-thales-%E2%80%93-space-activities-joint-venture
-"+ Mitsubishi Electric Corporation – Power Costs, Inc.",WA-60051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mitsubishi-electric-corporation-%E2%80%93-power-costs-inc
-+ Pearson plc – Workera Corp,WA-80050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pearson-plc-%E2%80%93-workera-corp
-+ DCP Capital – Vitaco,WA-70041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/dcp-capital-%E2%80%93-vitaco
-+ Tasmanian Department of Health – leasehold interest in vacant site at Hobart International Airport,WA-25059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tasmanian-department-of-health-%E2%80%93-leasehold-interest-in-vacant-site-at-hobart-international-airport
-+ SMM Perth – mining tenements of Rio Tinto related to the Winu copper-gold project in Western Australia,WA-85059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/smm-perth-%E2%80%93-mining-tenements-of-rio-tinto-related-to-the-winu-copper-gold-project-in-western-australia
-+ Bright & Duggan – Civium,MN-95043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bright-duggan-%E2%80%93-civium
-+ Samsung C&T - Powertech,WA-80049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/samsung-ct-powertech
-+ ANZ Australian Staff Superannuation Scheme – further investment in Vinva Australian Equities Fund unit trust,WA-45033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/anz-australian-staff-superannuation-scheme-%E2%80%93-further-investment-in-vinva-australian-equities-fund-unit-trust
-+ Attindas – Activ Medical Disposable group,WA-70042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/attindas-%E2%80%93-activ-medical-disposable-group
-+ Northpharm Services - Wesley Pharmacy Group,WA-35054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/northpharm-services-wesley-pharmacy-group
-+ Brookfield Corporation – Reliance Worldwide Corporation,WA-05056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/brookfield-corporation-%E2%80%93-reliance-worldwide-corporation
-+ Goodstart – certain Edge Early Learning centres (in administration),WA-85056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/goodstart-%E2%80%93-certain-edge-early-learning-centres-in-administration
-"+ National Dental Care – business assets comprising the Dentists of Tasmania clinic, Sorell, TAS",WA-15050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-%E2%80%93-business-assets-comprising-the-dentists-of-tasmania-clinic-sorell-tas
-+ Tasman Capital – Amberlee Holiday Homes & Accommodation and Woodlands Estate,WA-60050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tasman-capital-%E2%80%93-amberlee-holiday-homes-accommodation-and-woodlands-estate
-+ Tuhu – Conti Trade Australia,WA-60049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tuhu-%E2%80%93-conti-trade-australia
-+ Redwood Services Group – Virtual IT Department,WA-85058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-virtual-it-department
-+ EQT Fund Management S.à r.l. – McGill and Partners Group,WA-40046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-s%C3%A0-rl-%E2%80%93-mcgill-and-partners-group
-+ Platinum Equity - SuperStroke,WA-10041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-superstroke
-+ ABP - Macquarie Agriculture Fund Crop Australia 2,WA-01130,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-macquarie-agriculture-fund-crop-australia-2
-+ Bridgepoint – Altano,WA-15049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bridgepoint-%E2%80%93-altano
-+ Thoma Bravo – Accelerant Holdings,WA-55041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-%E2%80%93-accelerant-holdings
-+ Accel-KKR - Eleco,WA-01129,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accel-kkr-eleco
-"+ Ochre Health - Health E Medical & Health E Allied Services, Vic",WA-05055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-health-e-medical-health-e-allied-services-vic
-+ INPEX – Further interest in the Ichthys LNG Project,WA-85057,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/inpex-%E2%80%93-further-interest-in-the-ichthys-lng-project
-+ Uber – Delivery Hero,WA-90039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/uber-%E2%80%93-delivery-hero
-+ Schneider Electric – Shelly Group SE,WA-35053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/schneider-electric-%E2%80%93-shelly-group-se
-"+ Imaging Associates Radiology - Sunraysia Radiology in Mildura, VIC",WA-80046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imaging-associates-radiology-sunraysia-radiology-in-mildura-vic
-+ FVS Services Group – Alexon and Jetfire Fire Protection,WA-30041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fvs-services-group-%E2%80%93-alexon-and-jetfire-fire-protection
-+ FVS Services Group – Fire & Wire,WA-35052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fvs-services-group-%E2%80%93-fire-wire
-+ Macmahon – Aspect Engineering Solutions,WA-40045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macmahon-%E2%80%93-aspect-engineering-solutions
-+ AerFin - acquisition of aircraft from Qantas,WA-95045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aerfin-acquisition-of-aircraft-from-qantas
-+ ORIX Aviation – AerFin,WA-90035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/orix-aviation-%E2%80%93-aerfin
-+ Vermont Information Processing – Vintrace,WA-55039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vermont-information-processing-%E2%80%93-vintrace
-"+ Coles – supermarket site in Plainland, Qld",WA-10038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-plainland-qld
-"+ Guardian Childcare & Education – Mini Masterminds Macquarie Park, NSW",WA-01125,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/guardian-childcare-education-%E2%80%93-mini-masterminds-macquarie-park-nsw
-+ Loftware - Seagull Software,WA-40044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/loftware-seagull-software
-+ Woodside – PetroChina’s interest in Browse unincorporated joint venture,WA-55038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woodside-%E2%80%93-petrochina%E2%80%99s-interest-in-browse-unincorporated-joint-venture
-+ Monarch Alternative Capital & General Atlantic - Loparex,WA-15047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monarch-alternative-capital-general-atlantic-loparex
-"+ Vets Central – Castlemaine Veterinary Clinic, Vic",WA-05053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-castlemaine-veterinary-clinic-vic
-+ Mitsui – further interest in Norse Maritime,WA-75060,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mitsui-%E2%80%93-further-interest-in-norse-maritime
-"+ Coles – supermarket site in Narangba East, Qld",WA-80043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-narangba-east-qld
-+ Lactalis – Saputo Dairy UK,WA-60046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk
-+ Crescent Capital Partners – Hall Contracting,WA-65040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/crescent-capital-partners-%E2%80%93-hall-contracting
-"+ National Dental Care - Sunshine Dental and Gisborne Dental, VIC",WA-35050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/national-dental-care-sunshine-dental-and-gisborne-dental-vic
-+ CVC Capital Partners – Ambrose Construct Group,WA-15045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-ambrose-construct-group
-+ Crestlink – Aztec Resources,WA-80044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/crestlink-%E2%80%93-aztec-resources
-+ Centurion – Boundary variation in respect of Red Hill Mining Lease,WA-45031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/centurion-%E2%80%93-boundary-variation-in-respect-of-red-hill-mining-lease
-+ KKR - Integer,WA-30037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kkr-integer
-+ Merck KGaA–Bio-Techne,MN-25049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa%E2%80%93bio-techne
-+ KKR and ECP - DCC Energy,WA-90036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kkr-and-ecp-dcc-energy
-+ MedHealth – Integrity Medico-Legal,WA-85051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/medhealth-%E2%80%93-integrity-medico-legal
-,,
-CHANGED ENTRIES (31),Change,URL
-~ Stripe - OpenRouter,MN-90037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stripe-openrouter
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 26 Oct 2026,
-,New document: Stripe - OpenRouter - Phase 1 Determination (26 Oct 2026),
-~ APEM Group - Resource Strategies,MN-85049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apem-group-resource-strategies
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 30 Oct 2026,
-,New document: APEM Group - Resource Strategies - Phase 1 determination (30 Oct 2026),
-~ TurOSI - Cordina,MN-10032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/turosi-cordina
-,Matter name: TurOSI / Cordina → TurOSI - Cordina,
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 5 Nov 2026,
-,New document: TurOSI - Cordina - Phase 1 determination (5 Nov 2026),
-~ Olin - Huntsman,MN-95044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/olin-huntsman
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 27 Oct 2026,
-,New document: Olin - Huntsman - Phase 1 determination (27 Oct 2026),
-~ Altius – Converge International,MN-25053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/altius-%E2%80%93-converge-international
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 28 Oct 2026,
-,New document: Altius - Converge international - Phase 1 determination (27 Oct 2026),
-~ ASSA ABLOY – Gunnebo Entrance Control,MN-65039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/assa-abloy-%E2%80%93-gunnebo-entrance-control
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 28 Oct 2026,
-,New document: ASSA ABLOY - Gunnebo Entrance Control - Phase 1 Determination (28 Oct 2026),
-~ Architectus – SBA,MN-70039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/architectus-%E2%80%93-sba
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 23 Oct 2026,
-,New document: Architectus – SBA - Phase 1 determination (23 Oct 2026),
-~ Schreiber Foods – Real Dairy Australia,MN-45029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/schreiber-foods-%E2%80%93-real-dairy-australia
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 26 Oct 2026,
-,New document: Schreiber Foods - Real Dairy Australia - Phase 1 determination (26 Oct 2026),
-~ Apiam - Goulburn Valley Equine Hospital,MN-80045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-goulburn-valley-equine-hospital
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 28 Oct 2026,
-,New document: Apiam - Goulburn Valley Equine Hospital - Phase 1 determination (28 Oct 2026),
-"~ Coles - supermarket site in Angle Vale, SA",MN-75042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-supermarket-site-in-angle-vale-sa
-,End of determination period: 12 Nov 2026 → 15 Jan 2027,
-,New document: Timeline extended by 33 business days – following request by parties (6 Nov 2026),
-~ Kinetic - Tassielink,MN-75058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink
-,End of determination period: 11 Nov 2026 → 25 Nov 2026,
-,New document: Timeline extended by 10 business days - following request by parties (29 Oct 2026),
-~ Xylem - Flow Controls,MN-85054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/xylem-flow-controls
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,New document: Xylem - Flow Controls - Phase 1 determination (21 Oct 2026),
-~ Colas – Quarry Products Harlaxton,MN-25048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/colas-%E2%80%93-quarry-products-harlaxton
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 30 Oct 2026,
-,New document: Colas -Quarry Products Harlaxton - Phase 1 determination (30 Oct 2026),
-~ Vets Central – Vital Vet Animal Hospital,MN-85042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vets-central-%E2%80%93-vital-vet-animal-hospital
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,New document: Vets Central - Vital Vet Animal Hospital - Phase 1 determination (26 Oct 2026),
-~ Visa - BioCatch,MN-75056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/visa-biocatch
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 20 Oct 2026,
-,New document: Visa-BioCatch - Phase 1 Determination (20 Oct 2026),
-~ Imagine Education – Eden Academy,MN-05049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-eden-academy
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 29 Oct 2026,
-,New document: Imagine Education - Eden Academy - Phase 1 determination (29 Oct 2026),
-~ Calvary – Southern Cross Care (Tasmania),MN-20039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-southern-cross-care-tasmania
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 23 Oct 2026,
-,New document: Calvary-Southern Cross Care - Phase 1 Determination (23 Oct 2026),
-~ Nielsen - DoubleVerify,MN-55036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nielsen-doubleverify
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 13 Oct 2026,
-,New document: Phase 1 Determination (13 Oct 2026),
-~ Covetrus — MWI,MN-55037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/covetrus-%E2%80%94-mwi
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 8 Oct 2026,
-,New document: Covetrus - MWI - Phase 1 Determination (8 Oct 2026),
-~ EQT Fund Management - Intertek,MN-75045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eqt-fund-management-intertek
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 21 Oct 2026,
-,New document: EQT Fund Management - Intertek - Phase 1 determination (21 Oct 2026),
-~ Bupa Health Services - Partnered Health,MN-50028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bupa-health-services-partnered-health
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 9 Oct 2026,
-,New document: Bupa Health Services-Partnered Health - Phase 1 determination (9 Oct 2026),
-~ PSP Investments - AAA Egg Company,MN-55024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company
-,End of determination period: 23 Oct 2026 → 4 Dec 2026,
-,Consultation closes: (blank) → 12 Nov 2026,
-,New document: PSP Investments - AAA Egg Company - remedy offer - 4 November 2026 (4 Nov 2026),
-,New document: Timeline extended by 15 business days – following remedy offered by parties (4 Nov 2026); New document: Timeline extended by 15 business days – following request by parties (19 Oct 2026),
-~ Alcoa – South32 aluminium assets,MN-25047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/alcoa-%E2%80%93-south32-aluminium-assets
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 5 Nov 2026,
-,New document: Timeline extended by 10 business days – following request by parties (15 Oct 2026),
-~ Danfoss - Alfagomma,MN-75052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danfoss-alfagomma
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 9 Oct 2026,
-,New document: Danfoss-Alfagomma - Phase 1 determination (9 Oct 2026),
-~ Hyne Pallets - Advance Pallets,MN-75043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hyne-pallets-advance-pallets
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 7 Oct 2026,
-,New document: Hyne Pallets - Advance Pallets - Phase 1 determination (7 Oct 2026),
-~ Velocity Vehicle Group – Fuso assets of Daimler Truck Australia Pacific,MN-25035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/velocity-vehicle-group-%E2%80%93-fuso-assets-of-daimler-truck-australia-pacific
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 9 Oct 2026,
-,New document: VVG - Fuso assets of Daimler - Phase 1 determination (8 Oct 2026),
-"~ Woolworths - supermarket site in Homestead Rd, Orchard Hills, NSW",MN-40034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-site-in-homestead-rd-orchard-hills-nsw
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 8 Oct 2026,
-,New document: Woolworths - Orchard Hills - Phase 1 determination (8 Oct 2026),
-~ MUFG Pension & Market Services - Grow Technology Services,MN-35030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mufg-pension-market-services-grow-technology-services
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 6 Oct 2026,
-,New document: MPMS Grow - Phase 1 Determination (6 Oct 2026),
-~ Zoetis – Neogen Genomics Business,MN-05013,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business
-,End of determination period: 27 Nov 2026 → 27 Jan 2027,
-,Consultation closes: (blank) → 11 Nov 2026,
-,New document: Timeline extended by 15 business days – following remedy offered by parties (4 Nov 2026); New document: Timeline extended by 9 business days – following request for further information (12 Oct 2026); New document: Timeline extended by 5 business days – following request by parties (12 Oct 2026); New document: Timeline extended by 14 business days – following request by parties (30 Sep 2026); New document: Timeline extended by 20 business days – following request by notifying party (15 Jun 2026),
-~ Saipem S.p.A - Subsea7 S.A.,MN-01072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/saipem-spa-subsea7-sa
-,End of determination period: 1 Dec 2026 → 22 Dec 2026,
-,New document: Timeline extended by 15 business days – following request by parties (16 Oct 2026),
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,Status: Assessment completed → Under assessment,
-,Stage: Phase 2 - detailed assessment → Public benefit phase,
-,End of determination period: 23 Sep 2026 → 1 Feb 2027,
-,ACCC determination: Not approved → (removed),
-,Determination published: 23 Sep 2026 → (removed),
-,New document: Timeline extended by 15 business days – following remedy offered by parties (29 Oct 2026); New document: Timeline extended by 20 business days - following request for further information (26 Jun 2026),
-,,
-REMOVED ENTRIES (1),Case Number,URL
-- Merck KGaA / Bio-Techne,MN-25049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merck-kgaa-bio-techne
+CHANGED ENTRIES (7),Change,URL
+"~ Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",WA-25045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw
+,Acquirer(s): OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452) → OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452),
+,Target(s) / vendor(s): Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN… → Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN…,
+~ Respect Group – McLean Care residential aged care homes and independent living units,WA-75047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units
+,Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),
+,Target(s) / vendor(s): MCLEAN CARE LTD (ABN 88 124 860 019) → MCLEAN CARE LTD; ABN - (ABN 88 124 860 019),
+"~ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic
+,Acquirer(s): GENERAL DENTAL HOLDINGS PTY LTD (ABN 55 646 760 367) → GENERAL DENTAL HOLDINGS PTY LTD; ABN - (ABN 55 646 760 367),
+,Target(s) / vendor(s): Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD (ABN 73 625 186 012); THE… → Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD; ABN - (ABN 73 625 186 01…,
+~ Influence Media Partners – assets from Anthem Entertainment,WA-35043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment
+,Target(s) / vendor(s): Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537; Anthem Entertainment L.P. (Business Identificatio… → Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537); Anthem Entertainment L.P. (Business Identificati…,
+~ Airtree – HotDoc,WA-40028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0
+,"Acquirer(s): Airtree Ventures Opportunity Fund V Partnership, LP (ABN 16 395 824 589) → Airtree Ventures Opportunity Fund V Partnership, LP; ABN - (ABN 16 395 824 589)",
+,Target(s) / vendor(s): Aegleon Holdco Pty Ltd (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd (ACN 675 696 312) → Aegleon Holdco Pty Ltd; ACN - (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd; ACN - (ACN 675 696…,
+,Other parties: HOTDOC ONLINE PTY LTD (ABN 84 159 662 558) → HOTDOC ONLINE PTY LTD; ABN - (ABN 84 159 662 558),
+~ AustralianSuper – Advanced Navigation,WA-35032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australiansuper-%E2%80%93-advanced-navigation
+,Acquirer(s): AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor (ABN 90 652 901 04… → AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor; ABN - (ABN 90 652…,
+,Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549),
+,Other parties: AUSTRALIANSUPER PTY LTD atf AustralianSuper (ABN 94 006 457 987) → AUSTRALIANSUPER PTY LTD atf AustralianSuper; ABN - (ABN 94 006 457 987),
+~ PT AP Investment – Vitrinite,WA-60029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pt-ap-investment-%E2%80%93-vitrinite
+,Acquirer(s): Crossfield Global Pte Ltd (UEN - 202629303K; PT AP Investment (NIB - 0220201350357)) → Crossfield Global Pte Ltd (UEN - 202629303K); PT AP Investment (NIB - 0220201350357),
+,Target(s) / vendor(s): Vitrinite Pty Ltd (ABN 46 167 744 578) → Vitrinite Pty Ltd; ABN - (ABN 46 167 744 578),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW (WA-25045)",Acquirer(s): OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452) → OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452),10 Nov 2026 14:46 AEDT
+"Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW (WA-25045)",Target(s) / vendor(s): Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN… → Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN…,10 Nov 2026 14:46 AEDT
+Respect Group – McLean Care residential aged care homes and independent living units (WA-75047),Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),10 Nov 2026 14:46 AEDT
+Respect Group – McLean Care residential aged care homes and independent living units (WA-75047),Target(s) / vendor(s): MCLEAN CARE LTD (ABN 88 124 860 019) → MCLEAN CARE LTD; ABN - (ABN 88 124 860 019),10 Nov 2026 14:46 AEDT
+"Impression Dental Group - Blackburn Dental Centre, VIC (WA-01120)",Acquirer(s): GENERAL DENTAL HOLDINGS PTY LTD (ABN 55 646 760 367) → GENERAL DENTAL HOLDINGS PTY LTD; ABN - (ABN 55 646 760 367),10 Nov 2026 14:46 AEDT
+"Impression Dental Group - Blackburn Dental Centre, VIC (WA-01120)",Target(s) / vendor(s): Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD (ABN 73 625 186 012); THE… → Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD; ABN - (ABN 73 625 186 01…,10 Nov 2026 14:46 AEDT
+Influence Media Partners – assets from Anthem Entertainment (WA-35043),Target(s) / vendor(s): Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537; Anthem Entertainment L.P. (Business Identificatio… → Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537); Anthem Entertainment L.P. (Business Identificati…,10 Nov 2026 14:46 AEDT
+Airtree – HotDoc (WA-40028),"Acquirer(s): Airtree Ventures Opportunity Fund V Partnership, LP (ABN 16 395 824 589) → Airtree Ventures Opportunity Fund V Partnership, LP; ABN - (ABN 16 395 824 589)",10 Nov 2026 14:46 AEDT
+Airtree – HotDoc (WA-40028),Target(s) / vendor(s): Aegleon Holdco Pty Ltd (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd (ACN 675 696 312) → Aegleon Holdco Pty Ltd; ACN - (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd; ACN - (ACN 675 696…,10 Nov 2026 14:46 AEDT
+Airtree – HotDoc (WA-40028),Other parties: HOTDOC ONLINE PTY LTD (ABN 84 159 662 558) → HOTDOC ONLINE PTY LTD; ABN - (ABN 84 159 662 558),10 Nov 2026 14:46 AEDT
+AustralianSuper – Advanced Navigation (WA-35032),Acquirer(s): AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor (ABN 90 652 901 04… → AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor; ABN - (ABN 90 652…,10 Nov 2026 14:46 AEDT
+AustralianSuper – Advanced Navigation (WA-35032),Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549),10 Nov 2026 14:46 AEDT
+AustralianSuper – Advanced Navigation (WA-35032),Other parties: AUSTRALIANSUPER PTY LTD atf AustralianSuper (ABN 94 006 457 987) → AUSTRALIANSUPER PTY LTD atf AustralianSuper; ABN - (ABN 94 006 457 987),10 Nov 2026 14:46 AEDT
+PT AP Investment – Vitrinite (WA-60029),Acquirer(s): Crossfield Global Pte Ltd (UEN - 202629303K; PT AP Investment (NIB - 0220201350357)) → Crossfield Global Pte Ltd (UEN - 202629303K); PT AP Investment (NIB - 0220201350357),10 Nov 2026 14:46 AEDT
+PT AP Investment – Vitrinite (WA-60029),Target(s) / vendor(s): Vitrinite Pty Ltd (ABN 46 167 744 578) → Vitrinite Pty Ltd; ABN - (ABN 46 167 744 578),10 Nov 2026 14:46 AEDT
 "Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill (MN-20046)",Notification added to the register,09 Nov 2026 17:56 AEDT
 Total Ventilation Hygiene - Alphacool (MN-70049),Notification added to the register,09 Nov 2026 17:56 AEDT
 USCO – ITM (MN-55046),Notification added to the register,09 Nov 2026 17:56 AEDT
