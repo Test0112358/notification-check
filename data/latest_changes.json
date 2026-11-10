@@ -1,112 +1,157 @@
 {
-  "run_utc": "2026-11-10T03:46:39Z",
-  "run_canberra": "10 Nov 2026 14:46 AEDT",
-  "new_count": 0,
-  "changed_count": 7,
-  "cosmetic_only_count": 3,
+  "run_utc": "2026-11-10T13:43:28Z",
+  "run_canberra": "11 Nov 2026 00:43 AEDT",
+  "new_count": 11,
+  "changed_count": 5,
+  "cosmetic_only_count": 0,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
+      "title": "Lactalis – Saputo Dairy UK",
+      "case_number": "MN-45041",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk-0"
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
+      "title": "Coles – supermarket site in Rainbow Beach, NSW",
+      "case_number": "MN-25062",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw"
+    },
+    {
+      "slug": "blackbird-ventures-%E2%80%93-baseten-labs-1",
+      "title": "Blackbird Ventures – Baseten Labs",
+      "case_number": "WA-60061",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-1"
+    },
+    {
+      "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
+      "title": "29 North – additional interest in Royal Foods",
+      "case_number": "WA-01123",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods"
+    },
+    {
+      "slug": "wddp-consortium-%E2%80%93-wambo-cattle-company",
+      "title": "WDDP Consortium – Wambo Cattle Company",
+      "case_number": "WA-85061",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wddp-consortium-%E2%80%93-wambo-cattle-company"
+    },
+    {
+      "slug": "strabag-%E2%80%93-kee-surfacing",
+      "title": "STRABAG – KEE Surfacing",
+      "case_number": "WA-70043",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/strabag-%E2%80%93-kee-surfacing"
+    },
+    {
+      "slug": "rexel-%E2%80%93-genuine-cable-group",
+      "title": "Rexel – Genuine Cable Group",
+      "case_number": "WA-70046",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rexel-%E2%80%93-genuine-cable-group"
+    },
+    {
+      "slug": "abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund",
+      "title": "ABP – investments in Octopus Australia Sustainable Investments Fund",
+      "case_number": "WA-70048",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund"
+    },
+    {
+      "slug": "softbank-%E2%80%93-abb-robotics",
+      "title": "SoftBank – ABB Robotics",
+      "case_number": "WA-45035",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/softbank-%E2%80%93-abb-robotics"
+    },
+    {
+      "slug": "built-living-joint-venture-%E2%80%93-human-urban",
+      "title": "Built Living joint venture – Human Urban",
+      "case_number": "WA-40051",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/built-living-joint-venture-%E2%80%93-human-urban"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+      "title": "Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",
+      "case_number": "WA-70044",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
-      "title": "Merchant Wealth Partners - minority investment in Ironbark Financial Group",
-      "case_number": "MN-60059",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 November 2026 via email to mergers@accc.gov.au with the title Submission re: Merchant Wealth Partners - minority investment in Ironbark Financial Group. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 2 Nov 2026 Closing date 9 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-09",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
-      "title": "ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",
-      "case_number": "MN-10043",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 November 2026 via email to mergers@accc.gov.au with the title Submission re: Acurio – Healthscope hospitals. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 2 Nov 2026 Closing date 9 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-09",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
-      "title": "Coles – supermarket site in Cannonvale Central (QLD)",
-      "case_number": "MN-40049",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 9 November 2026 via email to mergers@accc.gov.au with the title ‘Submission re: Coles – supermarket site in Cannonvale Central (QLD)’. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 2 Nov 2026 Closing date 9 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-09",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
-      "title": "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",
-      "case_number": "WA-25045",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw",
+      "slug": "funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
+      "title": "Funds managed by New Forests – Forestry plantations of AKD",
+      "case_number": "MN-85053",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
       "material": true,
       "summary": [
-        "Acquirer(s): OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452) → OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452)",
-        "Target(s) / vendor(s): Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN… → Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN…"
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 10 Nov 2026",
+        "New document: New Forests - AKD - Phase 1 Determination (10 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquirers",
-          "old": "OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452)",
-          "new": "OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452)",
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
           "material": true
         },
         {
-          "field": "targets",
-          "old": "Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN 41 056 364 679)",
-          "new": "Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN - (ABN 41 056 364 679)",
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "10 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-12T16:45:49+11:00",
+          "new": "2026-11-10T15:59:11+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '10 Nov 2026', 'description': 'New Forests - AKD - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/New%20Forests%20-%20AKD%20-%20Phase%201%20determination.pdf'}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
-      "title": "Respect Group – McLean Care residential aged care homes and independent living units",
-      "case_number": "WA-75047",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units",
+      "slug": "blackstone-technology-service-corporation",
+      "title": "Blackstone - Technology Service Corporation",
+      "case_number": "WA-95039",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation",
+      "material": true,
+      "summary": [
+        "Target(s) / vendor(s): Technology Service Corporation (ABN 74 617 767 307) → Technology Service Corporation; ABN - (ABN 74 617 767 307)"
+      ],
+      "changes": [
+        {
+          "field": "targets",
+          "old": "Technology Service Corporation (ABN 74 617 767 307)",
+          "new": "Technology Service Corporation; ABN - (ABN 74 617 767 307)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "respect-group-%E2%80%93-proserpine-nursing-home",
+      "title": "Respect Group – Proserpine Nursing Home",
+      "case_number": "WA-50036",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home",
       "material": true,
       "summary": [
         "Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545)",
-        "Target(s) / vendor(s): MCLEAN CARE LTD (ABN 88 124 860 019) → MCLEAN CARE LTD; ABN - (ABN 88 124 860 019)"
+        "Target(s) / vendor(s): PROSERPINE NURSING HOME INC (ABN 26 150 144 841) → PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841)"
       ],
       "changes": [
         {
@@ -117,145 +162,194 @@
         },
         {
           "field": "targets",
-          "old": "MCLEAN CARE LTD (ABN 88 124 860 019)",
-          "new": "MCLEAN CARE LTD; ABN - (ABN 88 124 860 019)",
+          "old": "PROSERPINE NURSING HOME INC (ABN 26 150 144 841)",
+          "new": "PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841)",
           "material": true
         }
       ]
     },
     {
-      "slug": "impression-dental-group-blackburn-dental-centre-vic",
-      "title": "Impression Dental Group - Blackburn Dental Centre, VIC",
-      "case_number": "WA-01120",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic",
+      "slug": "eldridge-%E2%80%93-ausenco",
+      "title": "Eldridge – Ausenco",
+      "case_number": "WA-25043",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eldridge-%E2%80%93-ausenco",
       "material": true,
       "summary": [
-        "Acquirer(s): GENERAL DENTAL HOLDINGS PTY LTD (ABN 55 646 760 367) → GENERAL DENTAL HOLDINGS PTY LTD; ABN - (ABN 55 646 760 367)",
-        "Target(s) / vendor(s): Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD (ABN 73 625 186 012); THE… → Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD; ABN - (ABN 73 625 186 01…"
+        "Target(s) / vendor(s): AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P → AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P"
+      ],
+      "changes": [
+        {
+          "field": "targets",
+          "old": "AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P",
+          "new": "AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "incubeta-datisan",
+      "title": "Incubeta - Datisan",
+      "case_number": "MN-05043",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan",
+      "material": true,
+      "summary": [
+        "Acquirer(s): INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916) → INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916)",
+        "Target(s) / vendor(s): MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228) → MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228)",
+        "Other parties: XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258) → XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "GENERAL DENTAL HOLDINGS PTY LTD (ABN 55 646 760 367)",
-          "new": "GENERAL DENTAL HOLDINGS PTY LTD; ABN - (ABN 55 646 760 367)",
+          "old": "INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916)",
+          "new": "INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD (ABN 73 625 186 012); THE TRUSTEE FOR CAREY FAMILY TRUST (ABN 75 013 410 991); THE TRUSTEE FOR THE LIOSIS-BELEGRIS TRUST (ABN 29 352 667 993); The Trustee for BCDC Unit Trust (ABN 68 256 098 624); Andrea Manley; Konstantina Liosis",
-          "new": "Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD; ABN - (ABN 73 625 186 012); THE TRUSTEE FOR CAREY FAMILY TRUST; ABN - (ABN 75 013 410 991); THE TRUSTEE FOR THE LIOSIS-BELEGRIS TRUST; ABN - (ABN 29 352 667 993); The Trustee for BCDC Unit Trust; ABN - (ABN 68 256 098 624); Andrea Manley; Konstantina Liosis",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "influence-media-partners-%E2%80%93-assets-from-anthem-entertainment",
-      "title": "Influence Media Partners – assets from Anthem Entertainment",
-      "case_number": "WA-35043",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment",
-      "material": true,
-      "summary": [
-        "Target(s) / vendor(s): Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537; Anthem Entertainment L.P. (Business Identificatio… → Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537); Anthem Entertainment L.P. (Business Identificati…"
-      ],
-      "changes": [
-        {
-          "field": "targets",
-          "old": "Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537; Anthem Entertainment L.P. (Business Identification Number - 141101998))",
-          "new": "Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537); Anthem Entertainment L.P. (Business Identification Number - 141101998)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "airtree-%E2%80%93-hotdoc-0",
-      "title": "Airtree – HotDoc",
-      "case_number": "WA-40028",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0",
-      "material": true,
-      "summary": [
-        "Acquirer(s): Airtree Ventures Opportunity Fund V Partnership, LP (ABN 16 395 824 589) → Airtree Ventures Opportunity Fund V Partnership, LP; ABN - (ABN 16 395 824 589)",
-        "Target(s) / vendor(s): Aegleon Holdco Pty Ltd (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd (ACN 675 696 312) → Aegleon Holdco Pty Ltd; ACN - (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd; ACN - (ACN 675 696…",
-        "Other parties: HOTDOC ONLINE PTY LTD (ABN 84 159 662 558) → HOTDOC ONLINE PTY LTD; ABN - (ABN 84 159 662 558)"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "Airtree Ventures Opportunity Fund V Partnership, LP (ABN 16 395 824 589)",
-          "new": "Airtree Ventures Opportunity Fund V Partnership, LP; ABN - (ABN 16 395 824 589)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "Aegleon Holdco Pty Ltd (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd (ACN 675 696 312)",
-          "new": "Aegleon Holdco Pty Ltd; ACN - (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd; ACN - (ACN 675 696 312)",
+          "old": "MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228)",
+          "new": "MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "HOTDOC ONLINE PTY LTD (ABN 84 159 662 558)",
-          "new": "HOTDOC ONLINE PTY LTD; ABN - (ABN 84 159 662 558)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "australiansuper-%E2%80%93-advanced-navigation",
-      "title": "AustralianSuper – Advanced Navigation",
-      "case_number": "WA-35032",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australiansuper-%E2%80%93-advanced-navigation",
-      "material": true,
-      "summary": [
-        "Acquirer(s): AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor (ABN 90 652 901 04… → AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor; ABN - (ABN 90 652…",
-        "Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549)",
-        "Other parties: AUSTRALIANSUPER PTY LTD atf AustralianSuper (ABN 94 006 457 987) → AUSTRALIANSUPER PTY LTD atf AustralianSuper; ABN - (ABN 94 006 457 987)"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor (ABN 90 652 901 043)",
-          "new": "AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor; ABN - (ABN 90 652 901 043)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549)",
-          "new": "ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549)",
-          "material": true
-        },
-        {
-          "field": "other_parties",
-          "old": "AUSTRALIANSUPER PTY LTD atf AustralianSuper (ABN 94 006 457 987)",
-          "new": "AUSTRALIANSUPER PTY LTD atf AustralianSuper; ABN - (ABN 94 006 457 987)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "pt-ap-investment-%E2%80%93-vitrinite",
-      "title": "PT AP Investment – Vitrinite",
-      "case_number": "WA-60029",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pt-ap-investment-%E2%80%93-vitrinite",
-      "material": true,
-      "summary": [
-        "Acquirer(s): Crossfield Global Pte Ltd (UEN - 202629303K; PT AP Investment (NIB - 0220201350357)) → Crossfield Global Pte Ltd (UEN - 202629303K); PT AP Investment (NIB - 0220201350357)",
-        "Target(s) / vendor(s): Vitrinite Pty Ltd (ABN 46 167 744 578) → Vitrinite Pty Ltd; ABN - (ABN 46 167 744 578)"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "Crossfield Global Pte Ltd (UEN - 202629303K; PT AP Investment (NIB - 0220201350357))",
-          "new": "Crossfield Global Pte Ltd (UEN - 202629303K); PT AP Investment (NIB - 0220201350357)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "Vitrinite Pty Ltd (ABN 46 167 744 578)",
-          "new": "Vitrinite Pty Ltd; ABN - (ABN 46 167 744 578)",
+          "old": "XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258)",
+          "new": "XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258)",
           "material": true
         }
       ]
     }
   ],
   "removed_entries": [],
-  "decision_documents": []
+  "decision_documents": [
+    {
+      "slug": "funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
+      "title": "Funds managed by New Forests – Forestry plantations of AKD",
+      "case_number": "MN-85053",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
+      "date": "10 Nov 2026",
+      "description": "New Forests - AKD - Phase 1 Determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/New%20Forests%20-%20AKD%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
+      "priority": false,
+      "new_matter": false
+    },
+    {
+      "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
+      "title": "29 North – additional interest in Royal Foods",
+      "case_number": "WA-01123",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund",
+      "title": "ABP – investments in Octopus Australia Sustainable Investments Fund",
+      "case_number": "WA-70048",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/ABP%20%E2%80%93%20investments%20in%20Octopus%20Australia%20Sustainable%20Investments%20Fund%20%28WA-70048%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+      "title": "Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",
+      "case_number": "WA-70044",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20318%20Little%20Collins%20Street%2C%20Melbourne%20%28also%20known%20as%20The%20Carson%29%20%28WA-70044%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "blackbird-ventures-%E2%80%93-baseten-labs-1",
+      "title": "Blackbird Ventures – Baseten Labs",
+      "case_number": "WA-60061",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-1",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Blackbird%20Ventures%20-%20Baseten%20Labs%20%28WA-60061%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "built-living-joint-venture-%E2%80%93-human-urban",
+      "title": "Built Living joint venture – Human Urban",
+      "case_number": "WA-40051",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/built-living-joint-venture-%E2%80%93-human-urban",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Built%20Living%20joint%20venture%20%E2%80%93%20Human%20Urban%20%28WA-40051%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "rexel-%E2%80%93-genuine-cable-group",
+      "title": "Rexel – Genuine Cable Group",
+      "case_number": "WA-70046",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rexel-%E2%80%93-genuine-cable-group",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Rexel%20-%20Genuine%20Cable%20Group%20%28WA-70046%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "strabag-%E2%80%93-kee-surfacing",
+      "title": "STRABAG – KEE Surfacing",
+      "case_number": "WA-70043",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/strabag-%E2%80%93-kee-surfacing",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/STRABAG%20-%20KEE%20Surfacing%20%28WA-70043%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "softbank-%E2%80%93-abb-robotics",
+      "title": "SoftBank – ABB Robotics",
+      "case_number": "WA-45035",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/softbank-%E2%80%93-abb-robotics",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/SoftBank%20%E2%80%93%20ABB%20Robotics%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "wddp-consortium-%E2%80%93-wambo-cattle-company",
+      "title": "WDDP Consortium – Wambo Cattle Company",
+      "case_number": "WA-85061",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wddp-consortium-%E2%80%93-wambo-cattle-company",
+      "date": "10 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/WDDP%20Consortium%20%E2%80%93%20Wambo%20Cattle%20Company%20%28WA-85061%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    }
+  ]
 }

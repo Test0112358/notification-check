@@ -38584,5 +38584,248 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
+    "title": "Lactalis – Saputo Dairy UK",
+    "case_number": "MN-45041",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk-0",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
+    "title": "Coles – supermarket site in Rainbow Beach, NSW",
+    "case_number": "MN-25062",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "blackbird-ventures-%E2%80%93-baseten-labs-1",
+    "title": "Blackbird Ventures – Baseten Labs",
+    "case_number": "WA-60061",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-1",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
+    "title": "29 North – additional interest in Royal Foods",
+    "case_number": "WA-01123",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "wddp-consortium-%E2%80%93-wambo-cattle-company",
+    "title": "WDDP Consortium – Wambo Cattle Company",
+    "case_number": "WA-85061",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wddp-consortium-%E2%80%93-wambo-cattle-company",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "strabag-%E2%80%93-kee-surfacing",
+    "title": "STRABAG – KEE Surfacing",
+    "case_number": "WA-70043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/strabag-%E2%80%93-kee-surfacing",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "rexel-%E2%80%93-genuine-cable-group",
+    "title": "Rexel – Genuine Cable Group",
+    "case_number": "WA-70046",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rexel-%E2%80%93-genuine-cable-group",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund",
+    "title": "ABP – investments in Octopus Australia Sustainable Investments Fund",
+    "case_number": "WA-70048",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "softbank-%E2%80%93-abb-robotics",
+    "title": "SoftBank – ABB Robotics",
+    "case_number": "WA-45035",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/softbank-%E2%80%93-abb-robotics",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "built-living-joint-venture-%E2%80%93-human-urban",
+    "title": "Built Living joint venture – Human Urban",
+    "case_number": "WA-40051",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/built-living-joint-venture-%E2%80%93-human-urban",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
+    "title": "Funds managed by New Forests – Forestry plantations of AKD",
+    "case_number": "MN-85053",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "10 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-12T16:45:49+11:00",
+        "new": "2026-11-10T15:59:11+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '10 Nov 2026', 'description': 'New Forests - AKD - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/New%20Forests%20-%20AKD%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+    "title": "Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",
+    "case_number": "WA-70044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "blackstone-technology-service-corporation",
+    "title": "Blackstone - Technology Service Corporation",
+    "case_number": "WA-95039",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Technology Service Corporation (ABN 74 617 767 307)",
+        "new": "Technology Service Corporation; ABN - (ABN 74 617 767 307)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "respect-group-%E2%80%93-proserpine-nursing-home",
+    "title": "Respect Group – Proserpine Nursing Home",
+    "case_number": "WA-50036",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "RESPECT GROUP LIMITED (ABN 74 121 263 545)",
+        "new": "RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "PROSERPINE NURSING HOME INC (ABN 26 150 144 841)",
+        "new": "PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "eldridge-%E2%80%93-ausenco",
+    "title": "Eldridge – Ausenco",
+    "case_number": "WA-25043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eldridge-%E2%80%93-ausenco",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P",
+        "new": "AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T13:43:28Z",
+    "slug": "incubeta-datisan",
+    "title": "Incubeta - Datisan",
+    "case_number": "MN-05043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916)",
+        "new": "INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228)",
+        "new": "MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258)",
+        "new": "XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258)",
+        "material": true
+      }
+    ]
   }
 ]

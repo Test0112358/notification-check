@@ -1,47 +1,76 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,10 Nov 2026 14:46 AEDT,Up to date
-Last run attempt,10 Nov 2026 14:46 AEDT,success
-HTTP requests used,84,
+Last successful update,11 Nov 2026 00:43 AEDT,Up to date
+Last run attempt,11 Nov 2026 00:43 AEDT,success
+HTTP requests used,26,
 ,,
-Total entries monitored,828,
-New entries this run,0,
-Changed entries this run,7,material changes only
+Total entries monitored,839,
+New entries this run,11,
+Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,0,
+New decision documents,10,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (7),Change,URL
-"~ Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW",WA-25045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ochre-health-holdsworth-house-medical-group-college-street-specialists-nsw
-,Acquirer(s): OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452) → OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452),
-,Target(s) / vendor(s): Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN… → Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN…,
-~ Respect Group – McLean Care residential aged care homes and independent living units,WA-75047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-mclean-care-residential-aged-care-homes-and-independent-living-units
+NEW ENTRIES (11),Case Number,URL
++ Lactalis – Saputo Dairy UK,MN-45041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk-0
+"+ Coles – supermarket site in Rainbow Beach, NSW",MN-25062,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw
++ Blackbird Ventures – Baseten Labs,WA-60061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-1
++ 29 North – additional interest in Royal Foods,WA-01123,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods
++ WDDP Consortium – Wambo Cattle Company,WA-85061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wddp-consortium-%E2%80%93-wambo-cattle-company
++ STRABAG – KEE Surfacing,WA-70043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/strabag-%E2%80%93-kee-surfacing
++ Rexel – Genuine Cable Group,WA-70046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rexel-%E2%80%93-genuine-cable-group
++ ABP – investments in Octopus Australia Sustainable Investments Fund,WA-70048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund
++ SoftBank – ABB Robotics,WA-45035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/softbank-%E2%80%93-abb-robotics
++ Built Living joint venture – Human Urban,WA-40051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/built-living-joint-venture-%E2%80%93-human-urban
+"+ Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",WA-70044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson
+,,
+CHANGED ENTRIES (5),Change,URL
+~ Funds managed by New Forests – Forestry plantations of AKD,MN-85053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 10 Nov 2026,
+,New document: New Forests - AKD - Phase 1 Determination (10 Nov 2026),
+~ Blackstone - Technology Service Corporation,WA-95039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation
+,Target(s) / vendor(s): Technology Service Corporation (ABN 74 617 767 307) → Technology Service Corporation; ABN - (ABN 74 617 767 307),
+~ Respect Group – Proserpine Nursing Home,WA-50036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home
 ,Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),
-,Target(s) / vendor(s): MCLEAN CARE LTD (ABN 88 124 860 019) → MCLEAN CARE LTD; ABN - (ABN 88 124 860 019),
-"~ Impression Dental Group - Blackburn Dental Centre, VIC",WA-01120,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/impression-dental-group-blackburn-dental-centre-vic
-,Acquirer(s): GENERAL DENTAL HOLDINGS PTY LTD (ABN 55 646 760 367) → GENERAL DENTAL HOLDINGS PTY LTD; ABN - (ABN 55 646 760 367),
-,Target(s) / vendor(s): Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD (ABN 73 625 186 012); THE… → Business and assets of Blackburn Clinic Dental Centre; BLACKBURN CLINIC DENTAL CENTRE PTY LTD; ABN - (ABN 73 625 186 01…,
-~ Influence Media Partners – assets from Anthem Entertainment,WA-35043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/influence-media-partners-%E2%80%93-assets-from-anthem-entertainment
-,Target(s) / vendor(s): Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537; Anthem Entertainment L.P. (Business Identificatio… → Anthem Entertainment (GP) Inc. (Ontario Corporation Number - 2054537); Anthem Entertainment L.P. (Business Identificati…,
-~ Airtree – HotDoc,WA-40028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/airtree-%E2%80%93-hotdoc-0
-,"Acquirer(s): Airtree Ventures Opportunity Fund V Partnership, LP (ABN 16 395 824 589) → Airtree Ventures Opportunity Fund V Partnership, LP; ABN - (ABN 16 395 824 589)",
-,Target(s) / vendor(s): Aegleon Holdco Pty Ltd (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd (ACN 675 696 312) → Aegleon Holdco Pty Ltd; ACN - (ACN 693 692 769); Airtree Ventures Opportunity Fund V Trusco Pty Ltd; ACN - (ACN 675 696…,
-,Other parties: HOTDOC ONLINE PTY LTD (ABN 84 159 662 558) → HOTDOC ONLINE PTY LTD; ABN - (ABN 84 159 662 558),
-~ AustralianSuper – Advanced Navigation,WA-35032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australiansuper-%E2%80%93-advanced-navigation
-,Acquirer(s): AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor (ABN 90 652 901 04… → AIRTREE VENTURES OPPORTUNITY FUND 2021 TRUSCO PTY LTD atf the Airtree Ventures AS Co-invesment Oppor; ABN - (ABN 90 652…,
-,Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549),
-,Other parties: AUSTRALIANSUPER PTY LTD atf AustralianSuper (ABN 94 006 457 987) → AUSTRALIANSUPER PTY LTD atf AustralianSuper; ABN - (ABN 94 006 457 987),
-~ PT AP Investment – Vitrinite,WA-60029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pt-ap-investment-%E2%80%93-vitrinite
-,Acquirer(s): Crossfield Global Pte Ltd (UEN - 202629303K; PT AP Investment (NIB - 0220201350357)) → Crossfield Global Pte Ltd (UEN - 202629303K); PT AP Investment (NIB - 0220201350357),
-,Target(s) / vendor(s): Vitrinite Pty Ltd (ABN 46 167 744 578) → Vitrinite Pty Ltd; ABN - (ABN 46 167 744 578),
+,Target(s) / vendor(s): PROSERPINE NURSING HOME INC (ABN 26 150 144 841) → PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841),
+~ Eldridge – Ausenco,WA-25043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eldridge-%E2%80%93-ausenco
+,Target(s) / vendor(s): AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P → AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P,
+~ Incubeta - Datisan,MN-05043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan
+,Acquirer(s): INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916) → INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916),
+,Target(s) / vendor(s): MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228) → MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228),
+,Other parties: XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258) → XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Lactalis – Saputo Dairy UK (MN-45041),Notification added to the register,11 Nov 2026 00:43 AEDT
+"Coles – supermarket site in Rainbow Beach, NSW (MN-25062)",Notification added to the register,11 Nov 2026 00:43 AEDT
+Blackbird Ventures – Baseten Labs (WA-60061),Waiver added to the register,11 Nov 2026 00:43 AEDT
+29 North – additional interest in Royal Foods (WA-01123),Waiver added to the register,11 Nov 2026 00:43 AEDT
+WDDP Consortium – Wambo Cattle Company (WA-85061),Waiver added to the register,11 Nov 2026 00:43 AEDT
+STRABAG – KEE Surfacing (WA-70043),Waiver added to the register,11 Nov 2026 00:43 AEDT
+Rexel – Genuine Cable Group (WA-70046),Waiver added to the register,11 Nov 2026 00:43 AEDT
+ABP – investments in Octopus Australia Sustainable Investments Fund (WA-70048),Waiver added to the register,11 Nov 2026 00:43 AEDT
+SoftBank – ABB Robotics (WA-45035),Waiver added to the register,11 Nov 2026 00:43 AEDT
+Built Living joint venture – Human Urban (WA-40051),Waiver added to the register,11 Nov 2026 00:43 AEDT
+Funds managed by New Forests – Forestry plantations of AKD (MN-85053),Status: Under assessment → Assessment completed,11 Nov 2026 00:43 AEDT
+Funds managed by New Forests – Forestry plantations of AKD (MN-85053),ACCC determination: (blank) → Approved,11 Nov 2026 00:43 AEDT
+Funds managed by New Forests – Forestry plantations of AKD (MN-85053),Determination published: (blank) → 10 Nov 2026,11 Nov 2026 00:43 AEDT
+Funds managed by New Forests – Forestry plantations of AKD (MN-85053),New document: New Forests - AKD - Phase 1 Determination (10 Nov 2026),11 Nov 2026 00:43 AEDT
+"Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson) (WA-70044)",Waiver added to the register,11 Nov 2026 00:43 AEDT
+Blackstone - Technology Service Corporation (WA-95039),Target(s) / vendor(s): Technology Service Corporation (ABN 74 617 767 307) → Technology Service Corporation; ABN - (ABN 74 617 767 307),11 Nov 2026 00:43 AEDT
+Respect Group – Proserpine Nursing Home (WA-50036),Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),11 Nov 2026 00:43 AEDT
+Respect Group – Proserpine Nursing Home (WA-50036),Target(s) / vendor(s): PROSERPINE NURSING HOME INC (ABN 26 150 144 841) → PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841),11 Nov 2026 00:43 AEDT
+Eldridge – Ausenco (WA-25043),Target(s) / vendor(s): AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P → AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P,11 Nov 2026 00:43 AEDT
+Incubeta - Datisan (MN-05043),Acquirer(s): INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916) → INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916),11 Nov 2026 00:43 AEDT
+Incubeta - Datisan (MN-05043),Target(s) / vendor(s): MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228) → MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228),11 Nov 2026 00:43 AEDT
+Incubeta - Datisan (MN-05043),Other parties: XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258) → XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258),11 Nov 2026 00:43 AEDT
 "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW (WA-25045)",Acquirer(s): OCHRE HEALTH PTY LIMITED (ABN 79 101 069 452) → OCHRE HEALTH PTY LIMITED; ABN - (ABN 79 101 069 452),10 Nov 2026 14:46 AEDT
 "Ochre Health - Holdsworth House Medical Group & College Street Specialists, NSW (WA-25045)",Target(s) / vendor(s): Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED (ABN… → Business and assets comprising Holdsworth House Medical Group & College Street Specialists; RAINLEIGH PTY LIMITED; ABN…,10 Nov 2026 14:46 AEDT
 Respect Group – McLean Care residential aged care homes and independent living units (WA-75047),Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),10 Nov 2026 14:46 AEDT
