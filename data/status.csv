@@ -1,54 +1,43 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,11 Nov 2026 00:43 AEDT,Up to date
-Last run attempt,11 Nov 2026 00:43 AEDT,success
-HTTP requests used,26,
+Last successful update,11 Nov 2026 12:27 AEDT,Up to date
+Last run attempt,11 Nov 2026 12:27 AEDT,success
+HTTP requests used,61,
 ,,
 Total entries monitored,839,
-New entries this run,11,
-Changed entries this run,5,material changes only
+New entries this run,0,
+Changed entries this run,4,material changes only
 Removed entries this run,0,
-New decision documents,10,
+New decision documents,2,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (11),Case Number,URL
-+ Lactalis – Saputo Dairy UK,MN-45041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk-0
-"+ Coles – supermarket site in Rainbow Beach, NSW",MN-25062,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw
-+ Blackbird Ventures – Baseten Labs,WA-60061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackbird-ventures-%E2%80%93-baseten-labs-1
-+ 29 North – additional interest in Royal Foods,WA-01123,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods
-+ WDDP Consortium – Wambo Cattle Company,WA-85061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wddp-consortium-%E2%80%93-wambo-cattle-company
-+ STRABAG – KEE Surfacing,WA-70043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/strabag-%E2%80%93-kee-surfacing
-+ Rexel – Genuine Cable Group,WA-70046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rexel-%E2%80%93-genuine-cable-group
-+ ABP – investments in Octopus Australia Sustainable Investments Fund,WA-70048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-%E2%80%93-investments-in-octopus-australia-sustainable-investments-fund
-+ SoftBank – ABB Robotics,WA-45035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/softbank-%E2%80%93-abb-robotics
-+ Built Living joint venture – Human Urban,WA-40051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/built-living-joint-venture-%E2%80%93-human-urban
-"+ Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",WA-70044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson
-,,
-CHANGED ENTRIES (5),Change,URL
-~ Funds managed by New Forests – Forestry plantations of AKD,MN-85053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/funds-managed-by-new-forests-%E2%80%93-forestry-plantations-of-akd
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 10 Nov 2026,
-,New document: New Forests - AKD - Phase 1 Determination (10 Nov 2026),
-~ Blackstone - Technology Service Corporation,WA-95039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/blackstone-technology-service-corporation
-,Target(s) / vendor(s): Technology Service Corporation (ABN 74 617 767 307) → Technology Service Corporation; ABN - (ABN 74 617 767 307),
-~ Respect Group – Proserpine Nursing Home,WA-50036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-proserpine-nursing-home
-,Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),
-,Target(s) / vendor(s): PROSERPINE NURSING HOME INC (ABN 26 150 144 841) → PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841),
-~ Eldridge – Ausenco,WA-25043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eldridge-%E2%80%93-ausenco
-,Target(s) / vendor(s): AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P → AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P,
-~ Incubeta - Datisan,MN-05043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/incubeta-datisan
-,Acquirer(s): INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916) → INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916),
-,Target(s) / vendor(s): MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228) → MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228),
-,Other parties: XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258) → XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258),
+CHANGED ENTRIES (4),Change,URL
+~ Macquarie Global Infrastructure Fund - SERV,MN-75059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv
+,End of determination period: 18 Nov 2026 → 7 Dec 2026,
+,New document: Timeline extended by 13 business days – following request by parties (10 Nov 2026),
+~ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology
+,Acquirer(s): SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612) → SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612),
+,Target(s) / vendor(s): Christopher Parker; SPECTRUM ECOLOGY PTY LTD (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Inves… → Christopher Parker; SPECTRUM ECOLOGY PTY LTD; ABN - (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounse…,
+"~ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
+,Acquirer(s): OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999) → OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999),
+,Target(s) / vendor(s): Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney → Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney,
+~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
+,New document: Summary of Public Benefit Assessment (10 Nov 2026),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Macquarie Global Infrastructure Fund - SERV (MN-75059),End of determination period: 18 Nov 2026 → 7 Dec 2026,11 Nov 2026 12:27 AEDT
+Macquarie Global Infrastructure Fund - SERV (MN-75059),New document: Timeline extended by 13 business days – following request by parties (10 Nov 2026),11 Nov 2026 12:27 AEDT
+SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology (WA-55034),Acquirer(s): SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612) → SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612),11 Nov 2026 12:27 AEDT
+SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology (WA-55034),Target(s) / vendor(s): Christopher Parker; SPECTRUM ECOLOGY PTY LTD (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Inves… → Christopher Parker; SPECTRUM ECOLOGY PTY LTD; ABN - (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounse…,11 Nov 2026 12:27 AEDT
+"Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW) (MN-50035)",Acquirer(s): OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999) → OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999),11 Nov 2026 12:27 AEDT
+"Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW) (MN-50035)",Target(s) / vendor(s): Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney → Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney,11 Nov 2026 12:27 AEDT
+Insurance Australia Group – RAC Insurance (MN-65005),New document: Summary of Public Benefit Assessment (10 Nov 2026),11 Nov 2026 12:27 AEDT
 Lactalis – Saputo Dairy UK (MN-45041),Notification added to the register,11 Nov 2026 00:43 AEDT
 "Coles – supermarket site in Rainbow Beach, NSW (MN-25062)",Notification added to the register,11 Nov 2026 00:43 AEDT
 Blackbird Ventures – Baseten Labs (WA-60061),Waiver added to the register,11 Nov 2026 00:43 AEDT

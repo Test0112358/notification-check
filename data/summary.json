@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-10T13:44:58Z",
+  "generated_at_utc": "2026-11-11T01:30:38Z",
   "data_health": {
-    "last_success_utc": "2026-11-10T13:43:28Z",
+    "last_success_utc": "2026-11-11T01:27:05Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 26
+    "last_request_count": 61
   },
   "total_entries": 839,
   "by_acquisition_status": {
@@ -28,14 +28,6 @@
     "Approved with conditions": 5
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "macquarie-global-infrastructure-fund-serv",
-      "title": "Macquarie Global Infrastructure Fund - SERV",
-      "case_number": "MN-75059",
-      "end_of_determination_period": "18 Nov 2026",
-      "business_days_remaining": 5,
-      "day_of_period": "Day 25 of 30"
-    },
     {
       "slug": "ingenia-peet-flagstone-jv",
       "title": "Ingenia - Peet - Flagstone JV",
@@ -114,8 +106,8 @@
   ],
   "documents": {
     "downloaded": 126,
-    "pending": 6,
-    "failed": 4,
+    "pending": 5,
+    "failed": 5,
     "gave_up": 0
   },
   "analytics": {
