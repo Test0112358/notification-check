@@ -1,36 +1,48 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,11 Nov 2026 12:27 AEDT,Up to date
-Last run attempt,11 Nov 2026 12:27 AEDT,success
-HTTP requests used,61,
+Last successful update,11 Nov 2026 19:18 AEDT,Up to date
+Last run attempt,11 Nov 2026 19:18 AEDT,success
+HTTP requests used,15,
 ,,
-Total entries monitored,839,
-New entries this run,0,
-Changed entries this run,4,material changes only
+Total entries monitored,841,
+New entries this run,2,
+Changed entries this run,3,material changes only
 Removed entries this run,0,
-New decision documents,2,
+New decision documents,0,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (4),Change,URL
-~ Macquarie Global Infrastructure Fund - SERV,MN-75059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv
-,End of determination period: 18 Nov 2026 → 7 Dec 2026,
-,New document: Timeline extended by 13 business days – following request by parties (10 Nov 2026),
-~ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology,WA-55034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology
-,Acquirer(s): SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612) → SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612),
-,Target(s) / vendor(s): Christopher Parker; SPECTRUM ECOLOGY PTY LTD (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Inves… → Christopher Parker; SPECTRUM ECOLOGY PTY LTD; ABN - (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounse…,
-"~ Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",MN-50035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw
-,Acquirer(s): OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999) → OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999),
-,Target(s) / vendor(s): Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney → Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney,
-~ Insurance Australia Group – RAC Insurance,MN-65005,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance
-,New document: Summary of Public Benefit Assessment (10 Nov 2026),
+NEW ENTRIES (2),Case Number,URL
++ Eagers - Zagame,MN-01133,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame
++ Amwins / Dragoneer / KKR Consortium – Steadfast,MN-25056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast
+,,
+CHANGED ENTRIES (3),Change,URL
+"~ Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",WA-90034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw
+,Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750),
+,Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342),
+~ Supagas – Heeson Medical,MN-80027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical
+,Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496),
+,Target(s) / vendor(s): Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340) → Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340),
+,Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…,
+~ Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions,WA-10029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions
+,Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…,
+,Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Eagers - Zagame (MN-01133),Notification added to the register,11 Nov 2026 19:18 AEDT
+Amwins / Dragoneer / KKR Consortium – Steadfast (MN-25056),Notification added to the register,11 Nov 2026 19:18 AEDT
+"Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750),11 Nov 2026 19:18 AEDT
+"Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342),11 Nov 2026 19:18 AEDT
+Supagas – Heeson Medical (MN-80027),Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496),11 Nov 2026 19:18 AEDT
+Supagas – Heeson Medical (MN-80027),Target(s) / vendor(s): Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340) → Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340),11 Nov 2026 19:18 AEDT
+Supagas – Heeson Medical (MN-80027),Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…,11 Nov 2026 19:18 AEDT
+Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions (WA-10029),Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…,11 Nov 2026 19:18 AEDT
+Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions (WA-10029),Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…,11 Nov 2026 19:18 AEDT
 Macquarie Global Infrastructure Fund - SERV (MN-75059),End of determination period: 18 Nov 2026 → 7 Dec 2026,11 Nov 2026 12:27 AEDT
 Macquarie Global Infrastructure Fund - SERV (MN-75059),New document: Timeline extended by 13 business days – following request by parties (10 Nov 2026),11 Nov 2026 12:27 AEDT
 SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology (WA-55034),Acquirer(s): SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612) → SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612),11 Nov 2026 12:27 AEDT

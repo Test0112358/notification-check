@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-11-11T01:30:38Z",
+  "generated_at_utc": "2026-11-11T08:19:46Z",
   "data_health": {
-    "last_success_utc": "2026-11-11T01:27:05Z",
+    "last_success_utc": "2026-11-11T08:18:55Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 61
+    "last_request_count": 15
   },
-  "total_entries": 839,
+  "total_entries": 841,
   "by_acquisition_status": {
-    "Under assessment": 42,
+    "Under assessment": 44,
     "Assessment completed": 792,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 314,
+    "Phase 1 - initial assessment": 316,
     "Waiver application": 516,
     "Phase 2 - detailed assessment": 8,
     "Public benefit phase": 1
   },
   "by_type": {
-    "Notification": 323,
+    "Notification": 325,
     "Waiver": 516
   },
   "by_accc_determination": {
@@ -102,18 +102,25 @@
       "case_number": "MN-25062",
       "closes": "2026-11-17",
       "business_days_left": 4
+    },
+    {
+      "slug": "eagers-zagame",
+      "title": "Eagers - Zagame",
+      "case_number": "MN-01133",
+      "closes": "2026-11-18",
+      "business_days_left": 5
     }
   ],
   "documents": {
     "downloaded": 126,
-    "pending": 5,
-    "failed": 5,
+    "pending": 4,
+    "failed": 6,
     "gave_up": 0
   },
   "analytics": {
     "by_type": {
       "Notification": {
-        "matters": 323,
+        "matters": 325,
         "determined": 276,
         "approved": 269,
         "approved_with_conditions": 5,
@@ -175,7 +182,7 @@
       {
         "year": 2026,
         "type": "Notification",
-        "filed": 310,
+        "filed": 312,
         "completed": 240,
         "determined": 240,
         "approved": 234,
@@ -635,7 +642,7 @@
         "year": 2026,
         "month": 11,
         "type": "Notification",
-        "filed": 9,
+        "filed": 11,
         "completed": 8,
         "determined": 8,
         "approved": 8,
@@ -714,8 +721,8 @@
       },
       {
         "sector": "Financial Advisory and Broking",
-        "matters": 109,
-        "under_assessment": 8,
+        "matters": 111,
+        "under_assessment": 10,
         "determined": 101,
         "approved": 101,
         "approved_with_conditions": 0,
@@ -803,6 +810,21 @@
         "slowest_business_days": 28
       },
       {
+        "sector": "Other Services",
+        "matters": 49,
+        "under_assessment": 4,
+        "determined": 42,
+        "approved": 38,
+        "approved_with_conditions": 1,
+        "not_approved": 3,
+        "ceased": 3,
+        "approval_rate_pct": 92.9,
+        "median_business_days": 15,
+        "mean_business_days": 16.1,
+        "fastest_business_days": 3,
+        "slowest_business_days": 38
+      },
+      {
         "sector": "Supermarkets and Grocery Retail",
         "matters": 48,
         "under_assessment": 5,
@@ -831,21 +853,6 @@
         "mean_business_days": 15.9,
         "fastest_business_days": 7,
         "slowest_business_days": 25
-      },
-      {
-        "sector": "Other Services",
-        "matters": 48,
-        "under_assessment": 3,
-        "determined": 42,
-        "approved": 38,
-        "approved_with_conditions": 1,
-        "not_approved": 3,
-        "ceased": 3,
-        "approval_rate_pct": 92.9,
-        "median_business_days": 15,
-        "mean_business_days": 16.1,
-        "fastest_business_days": 3,
-        "slowest_business_days": 38
       },
       {
         "sector": "Transport and Logistics",
@@ -939,8 +946,8 @@
       },
       {
         "sector": "Automotive Retail",
-        "matters": 26,
-        "under_assessment": 3,
+        "matters": 27,
+        "under_assessment": 4,
         "determined": 22,
         "approved": 17,
         "approved_with_conditions": 1,
@@ -1300,7 +1307,7 @@
     ],
     "by_stage": {
       "Phase 1 - initial assessment": {
-        "matters": 314,
+        "matters": 316,
         "determined": 273,
         "approved": 269,
         "approved_with_conditions": 4,

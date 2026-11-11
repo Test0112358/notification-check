@@ -1,189 +1,108 @@
 {
-  "run_utc": "2026-11-11T01:27:05Z",
-  "run_canberra": "11 Nov 2026 12:27 AEDT",
-  "new_count": 0,
-  "changed_count": 4,
-  "cosmetic_only_count": 2,
+  "run_utc": "2026-11-11T08:18:55Z",
+  "run_canberra": "11 Nov 2026 19:18 AEDT",
+  "new_count": 2,
+  "changed_count": 3,
+  "cosmetic_only_count": 0,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "eagers-zagame",
+      "title": "Eagers - Zagame",
+      "case_number": "MN-01133",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame"
+    },
+    {
+      "slug": "amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast",
+      "title": "Amwins / Dragoneer / KKR Consortium – Steadfast",
+      "case_number": "MN-25056",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
-      "title": "Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",
-      "case_number": "MN-25058",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 November 2026 via email to mergers@accc.gov.au with the title Submission re: Healthe Care– Victorian Healthscope hospitals. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 3 Nov 2026 Closing date 10 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-10",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "healthe-care-prince-of-wales-private-hospital",
-      "title": "Healthe Care - Prince of Wales Private Hospital",
-      "case_number": "MN-60052",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-prince-of-wales-private-hospital",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 10 November 2026 via email to mergers@accc.gov.au with the title Submission re: Healthe Care - Prince of Wales Private Hospital. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 3 Nov 2026 Closing date 10 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-10",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "macquarie-global-infrastructure-fund-serv",
-      "title": "Macquarie Global Infrastructure Fund - SERV",
-      "case_number": "MN-75059",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv",
+      "slug": "vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
+      "title": "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",
+      "case_number": "WA-90034",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
       "material": true,
       "summary": [
-        "End of determination period: 18 Nov 2026 → 7 Dec 2026",
-        "New document: Timeline extended by 13 business days – following request by parties (10 Nov 2026)"
-      ],
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "18 Nov 2026",
-          "new": "7 Dec 2026",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-08T18:04:48+11:00",
-          "new": "2026-11-10T17:42:53+11:00",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '10 Nov 2026', 'description': 'Timeline extended by 13 business days – following request by parties', 'url': ''}]",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology",
-      "title": "SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology",
-      "case_number": "WA-55034",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/slr-consulting-australia-spectrum-ecology-spatial-and-millcrest-environmental-technology",
-      "material": true,
-      "summary": [
-        "Acquirer(s): SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612) → SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612)",
-        "Target(s) / vendor(s): Christopher Parker; SPECTRUM ECOLOGY PTY LTD (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Inves… → Christopher Parker; SPECTRUM ECOLOGY PTY LTD; ABN - (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounse…"
+        "Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750)",
+        "Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612)",
-          "new": "SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612)",
+          "old": "VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750)",
+          "new": "VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Christopher Parker; SPECTRUM ECOLOGY PTY LTD (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Investment Trust; Cameron Mounsey; Benjamin Boothby; MILLCREST TECHNOLOGY PTY LTD (ABN 73 640 498 764)",
-          "new": "Christopher Parker; SPECTRUM ECOLOGY PTY LTD; ABN - (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Investment Trust; Cameron Mounsey; Benjamin Boothby; MILLCREST TECHNOLOGY PTY LTD; ABN - (ABN 73 640 498 764)",
+          "old": "PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342)",
+          "new": "PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342)",
           "material": true
         }
       ]
     },
     {
-      "slug": "opal-healthcare-canberra-nursing-home-lidcombe-nsw",
-      "title": "Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW)",
-      "case_number": "MN-50035",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/opal-healthcare-canberra-nursing-home-lidcombe-nsw",
+      "slug": "supagas-%E2%80%93-heeson-medical",
+      "title": "Supagas – Heeson Medical",
+      "case_number": "MN-80027",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
       "material": true,
       "summary": [
-        "Acquirer(s): OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999) → OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999)",
-        "Target(s) / vendor(s): Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney → Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney"
+        "Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496)",
+        "Target(s) / vendor(s): Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340) → Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340)",
+        "Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999)",
-          "new": "OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999)",
+          "old": "Supagas Pty Limited (ABN 50 074 008 496)",
+          "new": "Supagas Pty Limited; ABN - (ABN 50 074 008 496)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney",
-          "new": "Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney",
+          "old": "Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340)",
+          "new": "Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340)",
+          "material": true
+        },
+        {
+          "field": "other_parties",
+          "old": "NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (LEI - 353800F1K6653B4VPY57)",
+          "new": "NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (LEI - 353800F1K6653B4VPY57)",
           "material": true
         }
       ]
     },
     {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "case_number": "MN-65005",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+      "slug": "wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
+      "title": "Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions",
+      "case_number": "WA-10029",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
       "material": true,
       "summary": [
-        "New document: Summary of Public Benefit Assessment (10 Nov 2026)"
+        "Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…",
+        "Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…"
       ],
       "changes": [
         {
-          "field": "last_modified_accc",
-          "old": "2026-10-30T08:45:14+11:00",
-          "new": "2026-11-10T16:34:02+11:00",
-          "material": false
+          "field": "acquirers",
+          "old": "Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 43 101 519 288); WOLLEMI CLIMATE INVESTMENTS PTY LTD (ABN 97 664 463 969)",
+          "new": "Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED; ABN - (ABN 43 101 519 288); WOLLEMI CLIMATE INVESTMENTS PTY LTD; ABN - (ABN 97 664 463 969)",
+          "material": true
         },
         {
-          "field": "decisions_docs",
-          "old": "[{'date': '29 Oct 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination_10.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons_11.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Statement%20of%20Reasons_9.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 Annexure A', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Annexure%20A_3.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_12.pdf'}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_5.pdf'}]",
-          "new": "[{'date': '10 Nov 2026', 'description': 'Summary of Public Benefit Assessment', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Public%20Benefit%20Assessment.pdf'}, {'date': '29 Oct 2026', 'description': 'Timeline extended by 15 business days – following remedy offered by parties', 'url': ''}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination - Summary of reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination%20-%20Summary%20of%20Reasons_11.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 Annexure A', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Annexure%20A_4.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Phase%202%20determination_11.pdf'}, {'date': '22 Sep 2026', 'description': 'IAG-RACI - Phase 2 Statement of Reasons', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG-RACI%20-%20Phase%202%20Statement%20of%20Reasons_10.pdf'}, {'date': '26 Jun 2026', 'description': 'Timeline extended by 20 business days - following request for further information', 'url': ''}, {'date': '25 May 2026', 'description': 'Summary of Notice of Competition Concerns', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Notice%20of%20Competition%20Concerns%20-%2025%20May%202026_13.pdf'}, {'date': '16 Apr 2026', 'description': 'Decision to Proceed to a Phase 2 review', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_6.pdf'}]",
+          "field": "targets",
+          "old": "WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1 (ACN 683 291 689)",
+          "new": "WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1; ACN - (ACN 683 291 689)",
           "material": true
         }
       ]
     }
   ],
   "removed_entries": [],
-  "decision_documents": [
-    {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "case_number": "MN-65005",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
-      "date": "10 Nov 2026",
-      "description": "Summary of Public Benefit Assessment",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Public%20Benefit%20Assessment.pdf",
-      "category": "Public benefit application",
-      "priority": true,
-      "new_matter": false
-    },
-    {
-      "slug": "macquarie-global-infrastructure-fund-serv",
-      "title": "Macquarie Global Infrastructure Fund - SERV",
-      "case_number": "MN-75059",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv",
-      "date": "10 Nov 2026",
-      "description": "Timeline extended by 13 business days – following request by parties",
-      "url": "",
-      "category": "Timeline extended",
-      "priority": false,
-      "new_matter": false
-    }
-  ]
+  "decision_documents": []
 }

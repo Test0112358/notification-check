@@ -38971,5 +38971,100 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-11T08:18:55Z",
+    "slug": "eagers-zagame",
+    "title": "Eagers - Zagame",
+    "case_number": "MN-01133",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-11T08:18:55Z",
+    "slug": "amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR Consortium – Steadfast",
+    "case_number": "MN-25056",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-11T08:18:55Z",
+    "slug": "vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
+    "title": "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",
+    "case_number": "WA-90034",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750)",
+        "new": "VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342)",
+        "new": "PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-11T08:18:55Z",
+    "slug": "supagas-%E2%80%93-heeson-medical",
+    "title": "Supagas – Heeson Medical",
+    "case_number": "MN-80027",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Supagas Pty Limited (ABN 50 074 008 496)",
+        "new": "Supagas Pty Limited; ABN - (ABN 50 074 008 496)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340)",
+        "new": "Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (LEI - 353800F1K6653B4VPY57)",
+        "new": "NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (LEI - 353800F1K6653B4VPY57)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-11T08:18:55Z",
+    "slug": "wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
+    "title": "Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions",
+    "case_number": "WA-10029",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 43 101 519 288); WOLLEMI CLIMATE INVESTMENTS PTY LTD (ABN 97 664 463 969)",
+        "new": "Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED; ABN - (ABN 43 101 519 288); WOLLEMI CLIMATE INVESTMENTS PTY LTD; ABN - (ABN 97 664 463 969)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1 (ACN 683 291 689)",
+        "new": "WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1; ACN - (ACN 683 291 689)",
+        "material": true
+      }
+    ]
   }
 ]

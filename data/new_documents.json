@@ -1,34 +1,7 @@
 {
-  "run_utc": "2026-11-11T01:27:05Z",
+  "run_utc": "2026-11-11T08:18:55Z",
   "questionnaire_count": 0,
   "consultation_document_count": 0,
   "questionnaires": [],
-  "decision_documents": [
-    {
-      "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
-      "title": "Insurance Australia Group – RAC Insurance",
-      "case_number": "MN-65005",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
-      "date": "10 Nov 2026",
-      "description": "Summary of Public Benefit Assessment",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/IAG_RACI%20-%20Summary%20of%20Public%20Benefit%20Assessment.pdf",
-      "category": "Public benefit application",
-      "priority": true,
-      "new_matter": false
-    },
-    {
-      "slug": "macquarie-global-infrastructure-fund-serv",
-      "title": "Macquarie Global Infrastructure Fund - SERV",
-      "case_number": "MN-75059",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv",
-      "date": "10 Nov 2026",
-      "description": "Timeline extended by 13 business days – following request by parties",
-      "url": "",
-      "category": "Timeline extended",
-      "priority": false,
-      "new_matter": false
-    }
-  ]
+  "decision_documents": []
 }
