@@ -1,50 +1,66 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,12 Nov 2026 13:28 AEDT,Up to date
-Last run attempt,12 Nov 2026 13:28 AEDT,success
-HTTP requests used,69,
+Last successful update,13 Nov 2026 00:57 AEDT,Up to date
+Last run attempt,13 Nov 2026 00:57 AEDT,success
+HTTP requests used,20,
 ,,
-Total entries monitored,842,
-New entries this run,1,
+Total entries monitored,847,
+New entries this run,5,
 Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,2,
+New decision documents,5,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ Too Lost – Xelon Entertainment,MN-65045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment
+NEW ENTRIES (5),Case Number,URL
++ Amadeus - Idemia Public Security,MN-60027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security
++ New England Motor Group – Armidale Automotive Group,WA-65043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/new-england-motor-group-%E2%80%93-armidale-automotive-group
++ Royal Caribbean Cruises – Sandals Resorts International,WA-45037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/royal-caribbean-cruises-%E2%80%93-sandals-resorts-international
++ ctrl:cyber - Razilio,WA-05061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio
++ The Borg Group - Programmed Timber,WA-55043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-borg-group-programmed-timber
 ,,
 CHANGED ENTRIES (5),Change,URL
-"~ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",MN-85060,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0
+~ Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm,MN-15053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
 ,Determination published: (blank) → 12 Nov 2026,
-,"New document: Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination (12 Nov 2026)",
-"~ Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",MN-70047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa
-,"Matter name: Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth → Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 12 Nov 2026,
-,"New document: Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination (12 Nov 2026)",
-~ Aware Super – Increased interest in Keyton,MN-70030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton
-,Acquirer(s): AWARE SUPER PTY LIMITED (ABN 11 118 202 672) → AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672),
-,Target(s) / vendor(s): Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES… → Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAP…,
-,Other parties: OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230) → OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230),
-~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
-,Acquirer(s): HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297) → HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297),
-,Target(s) / vendor(s): Burdett Group Pty Ltd (ACN 158 557 718) → Burdett Group Pty Ltd; ACN - (ACN 158 557 718),
-"~ Coles – supermarket site in Byron Bay, NSW",WA-30035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw
-,Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),
-,Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861),
-,Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326),
+,New document: Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination (12 Nov 2026),
+~ Jellinbah Group - Further interest in Lake Vermont JV,WA-55033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jellinbah-group-further-interest-in-lake-vermont-jv
+,Acquirer(s): QCMM (LAKE VERMONT HOLDINGS) PTY LTD (ABN 22 114 286 878) → QCMM (LAKE VERMONT HOLDINGS) PTY LTD; ABN - (ABN 22 114 286 878),
+,Target(s) / vendor(s): CHR VERMONT PTY LTD (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD. (ABN 22 065 321 440) → CHR VERMONT PTY LTD; ABN - (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD.; ABN - (ABN 22 065 321 440),
+,Other parties: Lake Vermont Resources Pty Ltd (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD (ABN 30 114 286 850); JELLINBAH RES… → Lake Vermont Resources Pty Ltd; ABN - (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD; ABN - (ABN 30 114 286 850);…,
+~ Acclime Corporate Services Australia – Polar 993 Group,WA-45025,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acclime-corporate-services-australia-%E2%80%93-polar-993-group
+,Acquirer(s): ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD (ABN 98 150 499 442); Achronite Bidco Ltd → ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD; ABN - (ABN 98 150 499 442); Achronite Bidco Ltd,
+,Target(s) / vendor(s): 993 FUND SERVICES PTY LTD (ABN 54 665 089 421); POLAR 993 PTY LTD (ABN 77 642 129 226); POLAR 993 ADVISORY PTY LTD (ABN… → 993 FUND SERVICES PTY LTD; ABN - (ABN 54 665 089 421); POLAR 993 PTY LTD; ABN - (ABN 77 642 129 226); POLAR 993 ADVISOR…,
+~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
+,Other parties: TowerBrook Capital Partners L.P. (Identifying number - 3922576; ELOCGA (Identifying number - B209477)); K10 Holding SA… → TowerBrook Capital Partners L.P. (Identifying number - 3922576); ELOCGA (Identifying number - B209477); K10 Holding SA…,
+~ Redwood Services Group – Concept Data and Voice Select,WA-05047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-concept-data-and-voice-select
+,Acquirer(s): Redwood Services Group Australia Pty Ltd (ABN 15 675 368 162) → Redwood Services Group Australia Pty Ltd; ABN - (ABN 15 675 368 162),
+,Target(s) / vendor(s): Concept Data Pty Ltd (ABN 51 602 501 404); Voice Select Pty Ltd (ABN 81 626 240 220); Gary Paradise → Concept Data Pty Ltd; ABN - (ABN 51 602 501 404); Voice Select Pty Ltd; ABN - (ABN 81 626 240 220); Gary Paradise,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Amadeus - Idemia Public Security (MN-60027),Notification added to the register,13 Nov 2026 00:57 AEDT
+Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),Status: Under assessment → Assessment completed,13 Nov 2026 00:57 AEDT
+Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),ACCC determination: (blank) → Approved,13 Nov 2026 00:57 AEDT
+Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),Determination published: (blank) → 12 Nov 2026,13 Nov 2026 00:57 AEDT
+Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),New document: Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination (12 Nov 2026),13 Nov 2026 00:57 AEDT
+New England Motor Group – Armidale Automotive Group (WA-65043),Waiver added to the register,13 Nov 2026 00:57 AEDT
+Royal Caribbean Cruises – Sandals Resorts International (WA-45037),Waiver added to the register,13 Nov 2026 00:57 AEDT
+ctrl:cyber - Razilio (WA-05061),Waiver added to the register,13 Nov 2026 00:57 AEDT
+The Borg Group - Programmed Timber (WA-55043),Waiver added to the register,13 Nov 2026 00:57 AEDT
+Jellinbah Group - Further interest in Lake Vermont JV (WA-55033),Acquirer(s): QCMM (LAKE VERMONT HOLDINGS) PTY LTD (ABN 22 114 286 878) → QCMM (LAKE VERMONT HOLDINGS) PTY LTD; ABN - (ABN 22 114 286 878),13 Nov 2026 00:57 AEDT
+Jellinbah Group - Further interest in Lake Vermont JV (WA-55033),Target(s) / vendor(s): CHR VERMONT PTY LTD (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD. (ABN 22 065 321 440) → CHR VERMONT PTY LTD; ABN - (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD.; ABN - (ABN 22 065 321 440),13 Nov 2026 00:57 AEDT
+Jellinbah Group - Further interest in Lake Vermont JV (WA-55033),Other parties: Lake Vermont Resources Pty Ltd (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD (ABN 30 114 286 850); JELLINBAH RES… → Lake Vermont Resources Pty Ltd; ABN - (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD; ABN - (ABN 30 114 286 850);…,13 Nov 2026 00:57 AEDT
+Acclime Corporate Services Australia – Polar 993 Group (WA-45025),Acquirer(s): ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD (ABN 98 150 499 442); Achronite Bidco Ltd → ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD; ABN - (ABN 98 150 499 442); Achronite Bidco Ltd,13 Nov 2026 00:57 AEDT
+Acclime Corporate Services Australia – Polar 993 Group (WA-45025),Target(s) / vendor(s): 993 FUND SERVICES PTY LTD (ABN 54 665 089 421); POLAR 993 PTY LTD (ABN 77 642 129 226); POLAR 993 ADVISORY PTY LTD (ABN… → 993 FUND SERVICES PTY LTD; ABN - (ABN 54 665 089 421); POLAR 993 PTY LTD; ABN - (ABN 77 642 129 226); POLAR 993 ADVISOR…,13 Nov 2026 00:57 AEDT
+The Independents Group – acquisition of entities within the Smuggler Group (MN-35034),Other parties: TowerBrook Capital Partners L.P. (Identifying number - 3922576; ELOCGA (Identifying number - B209477)); K10 Holding SA… → TowerBrook Capital Partners L.P. (Identifying number - 3922576); ELOCGA (Identifying number - B209477); K10 Holding SA…,13 Nov 2026 00:57 AEDT
+Redwood Services Group – Concept Data and Voice Select (WA-05047),Acquirer(s): Redwood Services Group Australia Pty Ltd (ABN 15 675 368 162) → Redwood Services Group Australia Pty Ltd; ABN - (ABN 15 675 368 162),13 Nov 2026 00:57 AEDT
+Redwood Services Group – Concept Data and Voice Select (WA-05047),Target(s) / vendor(s): Concept Data Pty Ltd (ABN 51 602 501 404); Voice Select Pty Ltd (ABN 81 626 240 220); Gary Paradise → Concept Data Pty Ltd; ABN - (ABN 51 602 501 404); Voice Select Pty Ltd; ABN - (ABN 81 626 240 220); Gary Paradise,13 Nov 2026 00:57 AEDT
 Too Lost – Xelon Entertainment (MN-65045),Notification added to the register,12 Nov 2026 13:28 AEDT
 "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",Status: Under assessment → Assessment completed,12 Nov 2026 13:28 AEDT
 "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",ACCC determination: (blank) → Approved,12 Nov 2026 13:28 AEDT

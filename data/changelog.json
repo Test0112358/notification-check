@@ -39286,5 +39286,217 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "amadeus-idemia-public-security",
+    "title": "Amadeus - Idemia Public Security",
+    "case_number": "MN-60027",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm",
+    "title": "Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm",
+    "case_number": "MN-15053",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "12 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-21T10:14:59+11:00",
+        "new": "2026-11-12T15:05:28+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '12 Nov 2026', 'description': 'Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Fruitico%20-%20Terra%20Farm%20and%20Sunsweet%20Farm%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "new-england-motor-group-%E2%80%93-armidale-automotive-group",
+    "title": "New England Motor Group – Armidale Automotive Group",
+    "case_number": "WA-65043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/new-england-motor-group-%E2%80%93-armidale-automotive-group",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "royal-caribbean-cruises-%E2%80%93-sandals-resorts-international",
+    "title": "Royal Caribbean Cruises – Sandals Resorts International",
+    "case_number": "WA-45037",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/royal-caribbean-cruises-%E2%80%93-sandals-resorts-international",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "ctrlcyber-razilio",
+    "title": "ctrl:cyber - Razilio",
+    "case_number": "WA-05061",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "the-borg-group-programmed-timber",
+    "title": "The Borg Group - Programmed Timber",
+    "case_number": "WA-55043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-borg-group-programmed-timber",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "jellinbah-group-further-interest-in-lake-vermont-jv",
+    "title": "Jellinbah Group - Further interest in Lake Vermont JV",
+    "case_number": "WA-55033",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jellinbah-group-further-interest-in-lake-vermont-jv",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "QCMM (LAKE VERMONT HOLDINGS) PTY LTD (ABN 22 114 286 878)",
+        "new": "QCMM (LAKE VERMONT HOLDINGS) PTY LTD; ABN - (ABN 22 114 286 878)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "CHR VERMONT PTY LTD (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD. (ABN 22 065 321 440)",
+        "new": "CHR VERMONT PTY LTD; ABN - (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD.; ABN - (ABN 22 065 321 440)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "Lake Vermont Resources Pty Ltd (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD (ABN 30 114 286 850); JELLINBAH RESOURCES PTY LTD (ABN 60 010 825 215); JELLINBAH GROUP PTY LTD (ABN 54 010 754 793); Magnetic South Pty Ltd (ABN 95 122 465 749); ZASHVIN PTY. LTD. (ABN 80 010 980 015); SOJITZ DEVELOPMENT PTY LTD (ABN 34 063 050 680)",
+        "new": "Lake Vermont Resources Pty Ltd; ABN - (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD; ABN - (ABN 30 114 286 850); JELLINBAH RESOURCES PTY LTD; ABN - (ABN 60 010 825 215); JELLINBAH GROUP PTY LTD; ABN - (ABN 54 010 754 793); Magnetic South Pty Ltd; ABN - (ABN 95 122 465 749); ZASHVIN PTY. LTD.; ABN - (ABN 80 010 980 015); SOJITZ DEVELOPMENT PTY LTD; ABN - (ABN 34 063 050 680)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "acclime-corporate-services-australia-%E2%80%93-polar-993-group",
+    "title": "Acclime Corporate Services Australia – Polar 993 Group",
+    "case_number": "WA-45025",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acclime-corporate-services-australia-%E2%80%93-polar-993-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD (ABN 98 150 499 442); Achronite Bidco Ltd",
+        "new": "ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD; ABN - (ABN 98 150 499 442); Achronite Bidco Ltd",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "993 FUND SERVICES PTY LTD (ABN 54 665 089 421); POLAR 993 PTY LTD (ABN 77 642 129 226); POLAR 993 ADVISORY PTY LTD (ABN 67 649 554 932); 993 NOMINEES NO. 18 PTY LTD (ABN 53 698 344 857)",
+        "new": "993 FUND SERVICES PTY LTD; ABN - (ABN 54 665 089 421); POLAR 993 PTY LTD; ABN - (ABN 77 642 129 226); POLAR 993 ADVISORY PTY LTD; ABN - (ABN 67 649 554 932); 993 NOMINEES NO. 18 PTY LTD; ABN - (ABN 53 698 344 857)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "title": "The Independents Group – acquisition of entities within the Smuggler Group",
+    "case_number": "MN-35034",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "TowerBrook Capital Partners L.P. (Identifying number - 3922576; ELOCGA (Identifying number - B209477)); K10 Holding SA (Identifying number - B214433); LOV Group Invest (Identifying number - 494 031 008)",
+        "new": "TowerBrook Capital Partners L.P. (Identifying number - 3922576); ELOCGA (Identifying number - B209477); K10 Holding SA (Identifying number - B214433); LOV Group Invest (Identifying number - 494 031 008)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "redwood-services-group-%E2%80%93-concept-data-and-voice-select",
+    "title": "Redwood Services Group – Concept Data and Voice Select",
+    "case_number": "WA-05047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-concept-data-and-voice-select",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Redwood Services Group Australia Pty Ltd (ABN 15 675 368 162)",
+        "new": "Redwood Services Group Australia Pty Ltd; ABN - (ABN 15 675 368 162)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Concept Data Pty Ltd (ABN 51 602 501 404); Voice Select Pty Ltd (ABN 81 626 240 220); Gary Paradise",
+        "new": "Concept Data Pty Ltd; ABN - (ABN 51 602 501 404); Voice Select Pty Ltd; ABN - (ABN 81 626 240 220); Gary Paradise",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T13:57:21Z",
+    "slug": "zoetis-%E2%80%93-neogen-genomics-business",
+    "title": "Zoetis – Neogen Genomics Business",
+    "case_number": "MN-05013",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/zoetis-%E2%80%93-neogen-genomics-business",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "On 2 November 2026, Zoetis made a remedy offer to the ACCC that it would provide a court-enforceable undertaking pursuant to s87B of the Competition and Consumer Act 2010 (the Act), which would require Zoetis to divest and/or make available the assets (excluding Zoetis’ laboratory located in the United States) associated with its supply of bovine genomics testing services to beef breed societies and their members in Australia to New Zealand Institute for Bioeconomy Science Limited trading as Bioeconomy Science Institute (GenomNZ) or such other purchaser approved by the ACCC (the remedy offer). The ACCC invites you to provide submissions or information in response to the questions below by 5:00PM AEDT on 11 November 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re Zoetis – Neogen Genomics Business – Remedy Offer. The ACCC must complete its assessment within strict statutory timelines which also impacts the time available for consultation. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 4 Nov 2026 Closing date 11 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-11",
+        "new": "",
+        "material": false
+      }
+    ]
   }
 ]
