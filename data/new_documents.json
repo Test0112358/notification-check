@@ -1,7 +1,34 @@
 {
-  "run_utc": "2026-11-11T08:18:55Z",
+  "run_utc": "2026-11-12T02:28:37Z",
   "questionnaire_count": 0,
   "consultation_document_count": 0,
   "questionnaires": [],
-  "decision_documents": []
+  "decision_documents": [
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+      "title": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+      "case_number": "MN-70047",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+      "date": "12 Nov 2026",
+      "description": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf",
+      "category": "Phase 1 determination",
+      "priority": false,
+      "new_matter": false
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+      "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
+      "case_number": "MN-85060",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+      "date": "12 Nov 2026",
+      "description": "Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf",
+      "category": "Phase 1 determination",
+      "priority": false,
+      "new_matter": false
+    }
+  ]
 }

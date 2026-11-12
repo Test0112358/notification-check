@@ -39066,5 +39066,225 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
+    "case_number": "MN-65045",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
+    "title": "29 North – additional interest in Royal Foods",
+    "case_number": "WA-01123",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-10T17:31:21+11:00",
+        "new": "2026-11-11T13:13:29+11:00",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '10 Nov 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf'}]",
+        "new": "[{'date': '10 Nov 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026_0.pdf'}]",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+    "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
+    "case_number": "MN-85060",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "12 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-19T15:24:50+11:00",
+        "new": "2026-11-12T11:15:33+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '12 Nov 2026', 'description': 'Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+    "title": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+    "case_number": "MN-70047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "title",
+        "old": "Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth",
+        "new": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+        "material": true
+      },
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "12 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-19T15:22:48+11:00",
+        "new": "2026-11-12T11:20:29+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '12 Nov 2026', 'description': 'Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf'}]",
+        "material": true
+      },
+      {
+        "field": "url",
+        "old": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth",
+        "new": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "aware-super-%E2%80%93-increased-interest-in-keyton",
+    "title": "Aware Super – Increased interest in Keyton",
+    "case_number": "MN-70030",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AWARE SUPER PTY LIMITED (ABN 11 118 202 672)",
+        "new": "AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES RL LTD (ABN 47 615 893 288); KEYTON HOLDING PTY LIMITED (ABN 72 613 131 187)",
+        "new": "Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES RL LTD; ABN - (ABN 47 615 893 288); KEYTON HOLDING PTY LIMITED; ABN - (ABN 72 613 131 187)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230)",
+        "new": "OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "holcim-australia-%E2%80%93-burdetts-group",
+    "title": "Holcim Australia – Burdetts Group",
+    "case_number": "MN-05044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297)",
+        "new": "HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Burdett Group Pty Ltd (ACN 158 557 718)",
+        "new": "Burdett Group Pty Ltd; ACN - (ACN 158 557 718)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T02:28:37Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-byron-bay-nsw",
+    "title": "Coles – supermarket site in Byron Bay, NSW",
+    "case_number": "WA-30035",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708)",
+        "new": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861)",
+        "new": "JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326)",
+        "new": "COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326)",
+        "material": true
+      }
+    ]
   }
 ]

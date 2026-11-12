@@ -1700,14 +1700,14 @@
     "date": "28 Jul 2026",
     "description": "Draft s87B Undertaking - 28 July 2026 - IAG - RACI",
     "kind": "Draft s87B undertaking",
-    "status": "pending",
-    "attempts": 0,
+    "status": "failed",
+    "attempts": 1,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
     "size_kb": null,
     "downloaded_utc": "",
-    "last_error": ""
+    "last_error": "403 Forbidden"
   },
   "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Journey%20Beyond%20-%20SeaLink%20Rottnest%20-%2029%20July%202026%20-%20Remedy%20Offer.docx": {
     "url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Questionnaire%20-%20Journey%20Beyond%20-%20SeaLink%20Rottnest%20-%2029%20July%202026%20-%20Remedy%20Offer.docx",

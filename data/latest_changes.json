@@ -1,108 +1,273 @@
 {
-  "run_utc": "2026-11-11T08:18:55Z",
-  "run_canberra": "11 Nov 2026 19:18 AEDT",
-  "new_count": 2,
-  "changed_count": 3,
-  "cosmetic_only_count": 0,
+  "run_utc": "2026-11-12T02:28:37Z",
+  "run_canberra": "12 Nov 2026 13:28 AEDT",
+  "new_count": 1,
+  "changed_count": 5,
+  "cosmetic_only_count": 1,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "eagers-zagame",
-      "title": "Eagers - Zagame",
-      "case_number": "MN-01133",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame"
-    },
-    {
-      "slug": "amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast",
-      "title": "Amwins / Dragoneer / KKR Consortium – Steadfast",
-      "case_number": "MN-25056",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast"
+      "slug": "too-lost-%E2%80%93-xelon-entertainment",
+      "title": "Too Lost – Xelon Entertainment",
+      "case_number": "MN-65045",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment"
     }
   ],
   "changed_entries": [
     {
-      "slug": "vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
-      "title": "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",
-      "case_number": "WA-90034",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw",
+      "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
+      "title": "29 North – additional interest in Royal Foods",
+      "case_number": "WA-01123",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods",
+      "material": false,
+      "summary": [],
+      "changes": [
+        {
+          "field": "last_modified_accc",
+          "old": "2026-11-10T17:31:21+11:00",
+          "new": "2026-11-11T13:13:29+11:00",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "[{'date': '10 Nov 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf'}]",
+          "new": "[{'date': '10 Nov 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026_0.pdf'}]",
+          "material": false
+        }
+      ]
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+      "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
+      "case_number": "MN-85060",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
       "material": true,
       "summary": [
-        "Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750)",
-        "Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342)"
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 12 Nov 2026",
+        "New document: Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination (12 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquirers",
-          "old": "VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750)",
-          "new": "VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750)",
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
           "material": true
         },
         {
-          "field": "targets",
-          "old": "PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342)",
-          "new": "PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342)",
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "12 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-19T15:24:50+11:00",
+          "new": "2026-11-12T11:15:33+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '12 Nov 2026', 'description': 'Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf'}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "supagas-%E2%80%93-heeson-medical",
-      "title": "Supagas – Heeson Medical",
-      "case_number": "MN-80027",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical",
+      "slug": "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+      "title": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+      "case_number": "MN-70047",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
       "material": true,
       "summary": [
-        "Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496)",
-        "Target(s) / vendor(s): Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340) → Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340)",
-        "Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…"
+        "Matter name: Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth → Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 12 Nov 2026",
+        "New document: Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination (12 Nov 2026)"
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth",
+          "new": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+          "material": true
+        },
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "12 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-19T15:22:48+11:00",
+          "new": "2026-11-12T11:20:29+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '12 Nov 2026', 'description': 'Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf'}]",
+          "material": true
+        },
+        {
+          "field": "url",
+          "old": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth",
+          "new": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+          "material": false
+        }
+      ]
+    },
+    {
+      "slug": "aware-super-%E2%80%93-increased-interest-in-keyton",
+      "title": "Aware Super – Increased interest in Keyton",
+      "case_number": "MN-70030",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton",
+      "material": true,
+      "summary": [
+        "Acquirer(s): AWARE SUPER PTY LIMITED (ABN 11 118 202 672) → AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672)",
+        "Target(s) / vendor(s): Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES… → Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAP…",
+        "Other parties: OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230) → OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "Supagas Pty Limited (ABN 50 074 008 496)",
-          "new": "Supagas Pty Limited; ABN - (ABN 50 074 008 496)",
+          "old": "AWARE SUPER PTY LIMITED (ABN 11 118 202 672)",
+          "new": "AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340)",
-          "new": "Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340)",
+          "old": "Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES RL LTD (ABN 47 615 893 288); KEYTON HOLDING PTY LIMITED (ABN 72 613 131 187)",
+          "new": "Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES RL LTD; ABN - (ABN 47 615 893 288); KEYTON HOLDING PTY LIMITED; ABN - (ABN 72 613 131 187)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (LEI - 353800F1K6653B4VPY57)",
-          "new": "NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (LEI - 353800F1K6653B4VPY57)",
+          "old": "OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230)",
+          "new": "OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230)",
           "material": true
         }
       ]
     },
     {
-      "slug": "wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
-      "title": "Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions",
-      "case_number": "WA-10029",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions",
+      "slug": "holcim-australia-%E2%80%93-burdetts-group",
+      "title": "Holcim Australia – Burdetts Group",
+      "case_number": "MN-05044",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group",
       "material": true,
       "summary": [
-        "Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…",
-        "Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…"
+        "Acquirer(s): HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297) → HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297)",
+        "Target(s) / vendor(s): Burdett Group Pty Ltd (ACN 158 557 718) → Burdett Group Pty Ltd; ACN - (ACN 158 557 718)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 43 101 519 288); WOLLEMI CLIMATE INVESTMENTS PTY LTD (ABN 97 664 463 969)",
-          "new": "Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED; ABN - (ABN 43 101 519 288); WOLLEMI CLIMATE INVESTMENTS PTY LTD; ABN - (ABN 97 664 463 969)",
+          "old": "HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297)",
+          "new": "HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1 (ACN 683 291 689)",
-          "new": "WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1; ACN - (ACN 683 291 689)",
+          "old": "Burdett Group Pty Ltd (ACN 158 557 718)",
+          "new": "Burdett Group Pty Ltd; ACN - (ACN 158 557 718)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-site-in-byron-bay-nsw",
+      "title": "Coles – supermarket site in Byron Bay, NSW",
+      "case_number": "WA-30035",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw",
+      "material": true,
+      "summary": [
+        "Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+        "Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861)",
+        "Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708)",
+          "new": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861)",
+          "new": "JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861)",
+          "material": true
+        },
+        {
+          "field": "other_parties",
+          "old": "COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326)",
+          "new": "COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326)",
           "material": true
         }
       ]
     }
   ],
   "removed_entries": [],
-  "decision_documents": []
+  "decision_documents": [
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+      "title": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+      "case_number": "MN-70047",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+      "date": "12 Nov 2026",
+      "description": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf",
+      "category": "Phase 1 determination",
+      "priority": false,
+      "new_matter": false
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+      "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
+      "case_number": "MN-85060",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+      "date": "12 Nov 2026",
+      "description": "Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf",
+      "category": "Phase 1 determination",
+      "priority": false,
+      "new_matter": false
+    }
+  ]
 }

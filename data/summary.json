@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-11-11T08:19:46Z",
+  "generated_at_utc": "2026-11-12T02:32:36Z",
   "data_health": {
-    "last_success_utc": "2026-11-11T08:18:55Z",
+    "last_success_utc": "2026-11-12T02:28:37Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 15
+    "last_request_count": 69
   },
-  "total_entries": 841,
+  "total_entries": 842,
   "by_acquisition_status": {
-    "Under assessment": 44,
-    "Assessment completed": 792,
+    "Under assessment": 43,
+    "Assessment completed": 794,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 316,
+    "Phase 1 - initial assessment": 317,
     "Waiver application": 516,
     "Phase 2 - detailed assessment": 8,
     "Public benefit phase": 1
   },
   "by_type": {
-    "Notification": 325,
+    "Notification": 326,
     "Waiver": 516
   },
   "by_accc_determination": {
-    "Approved": 759,
+    "Approved": 761,
     "Not approved": 28,
     "Approved with conditions": 5
   },
@@ -33,96 +33,112 @@
       "title": "Ingenia - Peet - Flagstone JV",
       "case_number": "MN-60048",
       "end_of_determination_period": "20 Nov 2026",
-      "business_days_remaining": 7,
-      "day_of_period": "Day 23 of 30"
+      "business_days_remaining": 6,
+      "day_of_period": "Day 24 of 30"
     },
     {
       "slug": "kinetic-tassielink",
       "title": "Kinetic - Tassielink",
       "case_number": "MN-75058",
       "end_of_determination_period": "25 Nov 2026",
+      "business_days_remaining": 9,
+      "day_of_period": "Day 31 of 40"
+    },
+    {
+      "slug": "camp-australia-%E2%80%93-jabiru",
+      "title": "Camp Australia – Jabiru",
+      "case_number": "MN-15048",
+      "end_of_determination_period": "26 Nov 2026",
       "business_days_remaining": 10,
-      "day_of_period": "Day 30 of 40"
+      "day_of_period": "Day 20 of 30"
+    },
+    {
+      "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
+      "title": "CVS Group – Karrinyup Small Animal Hospital",
+      "case_number": "MN-01127",
+      "end_of_determination_period": "26 Nov 2026",
+      "business_days_remaining": 10,
+      "day_of_period": "Day 20 of 30"
     }
   ],
   "past_deadline_awaiting_publication": [],
   "consultations_closing_soon": [
     {
-      "slug": "zoetis-%E2%80%93-neogen-genomics-business",
-      "title": "Zoetis – Neogen Genomics Business",
-      "case_number": "MN-05013",
-      "closes": "2026-11-11",
-      "business_days_left": 0
-    },
-    {
       "slug": "usco-%E2%80%93-itm",
       "title": "USCO – ITM",
       "case_number": "MN-55046",
       "closes": "2026-11-12",
-      "business_days_left": 1
+      "business_days_left": 0
     },
     {
       "slug": "thoma-bravo-varonis",
       "title": "Thoma Bravo - Varonis",
       "case_number": "MN-65042",
       "closes": "2026-11-12",
-      "business_days_left": 1
+      "business_days_left": 0
     },
     {
       "slug": "psp-investments-aaa-egg-company",
       "title": "PSP Investments - AAA Egg Company",
       "case_number": "MN-55024",
       "closes": "2026-11-12",
-      "business_days_left": 1
+      "business_days_left": 0
     },
     {
       "slug": "autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
       "title": "Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill",
       "case_number": "MN-20046",
       "closes": "2026-11-13",
-      "business_days_left": 2
+      "business_days_left": 1
     },
     {
       "slug": "total-ventilation-hygiene-alphacool",
       "title": "Total Ventilation Hygiene - Alphacool",
       "case_number": "MN-70049",
       "closes": "2026-11-13",
-      "business_days_left": 2
+      "business_days_left": 1
     },
     {
       "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
       "title": "Lactalis – Saputo Dairy UK",
       "case_number": "MN-45041",
       "closes": "2026-11-17",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
       "title": "Coles – supermarket site in Rainbow Beach, NSW",
       "case_number": "MN-25062",
       "closes": "2026-11-17",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "eagers-zagame",
       "title": "Eagers - Zagame",
       "case_number": "MN-01133",
       "closes": "2026-11-18",
+      "business_days_left": 4
+    },
+    {
+      "slug": "too-lost-%E2%80%93-xelon-entertainment",
+      "title": "Too Lost – Xelon Entertainment",
+      "case_number": "MN-65045",
+      "closes": "2026-11-19",
       "business_days_left": 5
     }
   ],
   "documents": {
     "downloaded": 126,
-    "pending": 4,
-    "failed": 6,
+    "pending": 3,
+    "failed": 7,
     "gave_up": 0
   },
   "analytics": {
     "by_type": {
       "Notification": {
-        "matters": 325,
-        "determined": 276,
-        "approved": 269,
+        "matters": 326,
+        "determined": 278,
+        "approved": 271,
         "approved_with_conditions": 5,
         "not_approved": 2,
         "ceased": 5,
@@ -182,16 +198,16 @@
       {
         "year": 2026,
         "type": "Notification",
-        "filed": 312,
-        "completed": 240,
-        "determined": 240,
-        "approved": 234,
+        "filed": 313,
+        "completed": 242,
+        "determined": 242,
+        "approved": 236,
         "approved_with_conditions": 4,
         "not_approved": 2,
         "ceased": 0,
         "approval_rate_pct": 99.2,
         "median_business_days": 18.0,
-        "mean_business_days": 20.3,
+        "mean_business_days": 20.2,
         "fastest_business_days": 15,
         "slowest_business_days": 133
       },
@@ -642,16 +658,16 @@
         "year": 2026,
         "month": 11,
         "type": "Notification",
-        "filed": 11,
-        "completed": 8,
-        "determined": 8,
-        "approved": 8,
+        "filed": 12,
+        "completed": 10,
+        "determined": 10,
+        "approved": 10,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
         "approval_rate_pct": 100.0,
         "median_business_days": 19.0,
-        "mean_business_days": 21.4,
+        "mean_business_days": 20.8,
         "fastest_business_days": 15,
         "slowest_business_days": 39
       },
@@ -782,15 +798,15 @@
       {
         "sector": "Accommodation and Hospitality",
         "matters": 63,
-        "under_assessment": 3,
-        "determined": 60,
-        "approved": 53,
+        "under_assessment": 1,
+        "determined": 62,
+        "approved": 55,
         "approved_with_conditions": 1,
         "not_approved": 6,
         "ceased": 0,
-        "approval_rate_pct": 90.0,
+        "approval_rate_pct": 90.3,
         "median_business_days": 15.0,
-        "mean_business_days": 15.8,
+        "mean_business_days": 15.9,
         "fastest_business_days": 5,
         "slowest_business_days": 56
       },
@@ -827,15 +843,15 @@
       {
         "sector": "Supermarkets and Grocery Retail",
         "matters": 48,
-        "under_assessment": 5,
-        "determined": 43,
-        "approved": 37,
+        "under_assessment": 4,
+        "determined": 44,
+        "approved": 38,
         "approved_with_conditions": 2,
         "not_approved": 4,
         "ceased": 0,
-        "approval_rate_pct": 90.7,
-        "median_business_days": 15,
-        "mean_business_days": 19.0,
+        "approval_rate_pct": 90.9,
+        "median_business_days": 15.0,
+        "mean_business_days": 18.9,
         "fastest_business_days": 5,
         "slowest_business_days": 133
       },
@@ -960,6 +976,21 @@
         "slowest_business_days": 38
       },
       {
+        "sector": "Media and Entertainment",
+        "matters": 25,
+        "under_assessment": 1,
+        "determined": 24,
+        "approved": 24,
+        "approved_with_conditions": 0,
+        "not_approved": 0,
+        "ceased": 0,
+        "approval_rate_pct": 100.0,
+        "median_business_days": 16,
+        "mean_business_days": 15.2,
+        "fastest_business_days": 4,
+        "slowest_business_days": 27
+      },
+      {
         "sector": "Agriculture and Agribusiness",
         "matters": 25,
         "under_assessment": 3,
@@ -973,21 +1004,6 @@
         "mean_business_days": 17.8,
         "fastest_business_days": 12,
         "slowest_business_days": 24
-      },
-      {
-        "sector": "Media and Entertainment",
-        "matters": 24,
-        "under_assessment": 0,
-        "determined": 24,
-        "approved": 24,
-        "approved_with_conditions": 0,
-        "not_approved": 0,
-        "ceased": 0,
-        "approval_rate_pct": 100.0,
-        "median_business_days": 16,
-        "mean_business_days": 15.2,
-        "fastest_business_days": 4,
-        "slowest_business_days": 27
       },
       {
         "sector": "Pharmaceutical Manufacturing",
@@ -1172,15 +1188,15 @@
       {
         "sector": "Gambling",
         "matters": 10,
-        "under_assessment": 1,
-        "determined": 9,
-        "approved": 8,
+        "under_assessment": 0,
+        "determined": 10,
+        "approved": 9,
         "approved_with_conditions": 0,
         "not_approved": 1,
         "ceased": 0,
-        "approval_rate_pct": 88.9,
-        "median_business_days": 14,
-        "mean_business_days": 17.4,
+        "approval_rate_pct": 90.0,
+        "median_business_days": 14.5,
+        "mean_business_days": 17.5,
         "fastest_business_days": 7,
         "slowest_business_days": 49
       },
@@ -1307,9 +1323,9 @@
     ],
     "by_stage": {
       "Phase 1 - initial assessment": {
-        "matters": 316,
-        "determined": 273,
-        "approved": 269,
+        "matters": 317,
+        "determined": 275,
+        "approved": 271,
         "approved_with_conditions": 4,
         "not_approved": 0,
         "ceased": 2,

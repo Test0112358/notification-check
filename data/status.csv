@@ -1,39 +1,68 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,11 Nov 2026 19:18 AEDT,Up to date
-Last run attempt,11 Nov 2026 19:18 AEDT,success
-HTTP requests used,15,
+Last successful update,12 Nov 2026 13:28 AEDT,Up to date
+Last run attempt,12 Nov 2026 13:28 AEDT,success
+HTTP requests used,69,
 ,,
-Total entries monitored,841,
-New entries this run,2,
-Changed entries this run,3,material changes only
+Total entries monitored,842,
+New entries this run,1,
+Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,0,
+New decision documents,2,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-+ Eagers - Zagame,MN-01133,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame
-+ Amwins / Dragoneer / KKR Consortium – Steadfast,MN-25056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast
+NEW ENTRIES (1),Case Number,URL
++ Too Lost – Xelon Entertainment,MN-65045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment
 ,,
-CHANGED ENTRIES (3),Change,URL
-"~ Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW",WA-90034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vopak-terminals-sydney-%E2%80%93-leasehold-interest-in-land-at-port-botany-nsw
-,Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750),
-,Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342),
-~ Supagas – Heeson Medical,MN-80027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/supagas-%E2%80%93-heeson-medical
-,Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496),
-,Target(s) / vendor(s): Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340) → Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340),
-,Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…,
-~ Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions,WA-10029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wollemi-nominees-2-pty-ltd-ors-%E2%80%93-establishment-of-weg-australian-investment-trust-and-related-acquisitions
-,Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…,
-,Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…,
+CHANGED ENTRIES (5),Change,URL
+"~ Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",MN-85060,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 12 Nov 2026,
+,"New document: Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination (12 Nov 2026)",
+"~ Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",MN-70047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa
+,"Matter name: Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth → Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 12 Nov 2026,
+,"New document: Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination (12 Nov 2026)",
+~ Aware Super – Increased interest in Keyton,MN-70030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-increased-interest-in-keyton
+,Acquirer(s): AWARE SUPER PTY LIMITED (ABN 11 118 202 672) → AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672),
+,Target(s) / vendor(s): Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES… → Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAP…,
+,Other parties: OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230) → OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230),
+~ Holcim Australia – Burdetts Group,MN-05044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/holcim-australia-%E2%80%93-burdetts-group
+,Acquirer(s): HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297) → HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297),
+,Target(s) / vendor(s): Burdett Group Pty Ltd (ACN 158 557 718) → Burdett Group Pty Ltd; ACN - (ACN 158 557 718),
+"~ Coles – supermarket site in Byron Bay, NSW",WA-30035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-byron-bay-nsw
+,Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),
+,Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861),
+,Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Too Lost – Xelon Entertainment (MN-65045),Notification added to the register,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",Status: Under assessment → Assessment completed,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",ACCC determination: (blank) → Approved,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",Determination published: (blank) → 12 Nov 2026,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)","New document: Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination (12 Nov 2026)",12 Nov 2026 13:28 AEDT
+"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)","Matter name: Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth → Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",12 Nov 2026 13:28 AEDT
+"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)",Status: Under assessment → Assessment completed,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)",ACCC determination: (blank) → Approved,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)",Determination published: (blank) → 12 Nov 2026,12 Nov 2026 13:28 AEDT
+"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)","New document: Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination (12 Nov 2026)",12 Nov 2026 13:28 AEDT
+Aware Super – Increased interest in Keyton (MN-70030),Acquirer(s): AWARE SUPER PTY LIMITED (ABN 11 118 202 672) → AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672),12 Nov 2026 13:28 AEDT
+Aware Super – Increased interest in Keyton (MN-70030),Target(s) / vendor(s): Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES… → Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAP…,12 Nov 2026 13:28 AEDT
+Aware Super – Increased interest in Keyton (MN-70030),Other parties: OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230) → OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230),12 Nov 2026 13:28 AEDT
+Holcim Australia – Burdetts Group (MN-05044),Acquirer(s): HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297) → HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297),12 Nov 2026 13:28 AEDT
+Holcim Australia – Burdetts Group (MN-05044),Target(s) / vendor(s): Burdett Group Pty Ltd (ACN 158 557 718) → Burdett Group Pty Ltd; ACN - (ACN 158 557 718),12 Nov 2026 13:28 AEDT
+"Coles – supermarket site in Byron Bay, NSW (WA-30035)",Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),12 Nov 2026 13:28 AEDT
+"Coles – supermarket site in Byron Bay, NSW (WA-30035)",Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861),12 Nov 2026 13:28 AEDT
+"Coles – supermarket site in Byron Bay, NSW (WA-30035)",Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326),12 Nov 2026 13:28 AEDT
 Eagers - Zagame (MN-01133),Notification added to the register,11 Nov 2026 19:18 AEDT
 Amwins / Dragoneer / KKR Consortium – Steadfast (MN-25056),Notification added to the register,11 Nov 2026 19:18 AEDT
 "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750),11 Nov 2026 19:18 AEDT
@@ -115,7 +144,7 @@ TA Associates – MedEnvision (WA-10048),Waiver added to the register,09 Nov 202
 IPLiving - Springwood Living Group (MN-01126),Notification added to the register,09 Nov 2026 17:56 AEDT
 ABB - Rotork (MN-75061),Notification added to the register,09 Nov 2026 17:56 AEDT
 Thoma Bravo - Tanda (MN-80047),Notification added to the register,09 Nov 2026 17:56 AEDT
-"Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth (MN-70047)",Notification added to the register,09 Nov 2026 17:56 AEDT
+"Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth (MN-70047)", added to the register,09 Nov 2026 17:56 AEDT
 Koch – 50% interest in certain assets of OCP Nutricrops (MN-10039),Notification added to the register,09 Nov 2026 17:56 AEDT
 Next Capital - data centre business of Fujitsu Australia (WA-45036),Waiver added to the register,09 Nov 2026 17:56 AEDT
 Camp Australia – Jabiru (MN-15048),Notification added to the register,09 Nov 2026 17:56 AEDT
