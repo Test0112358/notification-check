@@ -39734,5 +39734,283 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "william-adams-clennett-hire",
+    "title": "William Adams - Clennett Hire",
+    "case_number": "MN-85063",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "case_number": "MN-25056",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "title",
+        "old": "Amwins / Dragoneer / KKR Consortium – Steadfast",
+        "new": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+        "material": true
+      },
+      {
+        "field": "notification_date",
+        "old": "10 November 2026",
+        "new": "12 November 2026",
+        "material": true
+      },
+      {
+        "field": "end_of_determination_period",
+        "old": "22 Dec 2026",
+        "new": "12 Jan 2027",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-11T17:46:26+11:00",
+        "new": "2026-11-13T16:46:33+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "",
+        "new": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amwins / Dragoneer / KKR / Temasek Consortium - Steadfast. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "",
+        "new": "2026-11-20",
+        "material": true
+      },
+      {
+        "field": "url",
+        "old": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast",
+        "new": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "aub-%E2%80%93-one-underwriting",
+    "title": "AUB – One Underwriting",
+    "case_number": "MN-55042",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "13 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-26T16:30:44+11:00",
+        "new": "2026-11-13T17:06:29+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Nov 2026', 'description': 'AUB - One Underwriting - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "ctrlcyber-razilio",
+    "title": "ctrl:cyber - Razilio",
+    "case_number": "WA-05061",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '12 Nov 2026', 'description': 'Notification waiver determination published', 'url': ''}]",
+        "new": "[{'date': '12 Nov 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/moderated_files/ctrl%3Acyber%20-%20Razilio%20%28WA-05061%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf'}]",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "camp-australia-%E2%80%93-jabiru",
+    "title": "Camp Australia – Jabiru",
+    "case_number": "MN-15048",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "13 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-16T15:31:05+11:00",
+        "new": "2026-11-13T15:54:39+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Nov 2026', 'description': 'Camp Australia - Jabiru - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "ingenia-peet-flagstone-jv",
+    "title": "Ingenia - Peet - Flagstone JV",
+    "case_number": "MN-60048",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-12T17:07:34+11:00",
+        "new": "2026-11-13T16:45:19+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Nov 2026', 'description': 'Ingenia - Peet - Flagstone JV - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/MN-60048%20-%20Ingenia%20-%20Peet%20-%20Flagstone%20JV%20-%20Phase%201%20determination%20-%2012%20November%202026_0.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "wesfarmers-and-built-group-built-living-joint-venture",
+    "title": "Wesfarmers and Built Group - Built Living Joint Venture",
+    "case_number": "MN-65021",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831)",
+        "new": "Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Built Living Holdings Pty Limited (ABN 39 698 096 945)",
+        "new": "Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Limited (ABN 88 163 462 637)",
+        "new": "Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Holdings Pty Limited; ABN - (ABN 88 163 462 637)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld",
+    "title": "Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",
+    "case_number": "WA-80038",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATION EARLY LEARNING CENTRES NO. 40 PTY LTD (ABN 50 690 670 823)",
+        "new": "Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE EDUCATION EARLY LEARNING CENTRES NO. 40 PTY LTD; ABN - (ABN 50 690 670 823)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T13:23:56Z",
+    "slug": "francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
+    "title": "Francisco Partners – Majority interest in Command Alkon",
+    "case_number": "WA-90033",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-3339666)",
+        "new": "COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-3339666)",
+        "material": true
+      }
+    ]
   }
 ]

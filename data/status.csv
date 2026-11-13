@@ -1,46 +1,76 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,13 Nov 2026 13:05 AEDT,Up to date
-Last run attempt,13 Nov 2026 13:05 AEDT,success
-HTTP requests used,67,
+Last successful update,14 Nov 2026 00:23 AEDT,Up to date
+Last run attempt,14 Nov 2026 00:23 AEDT,success
+HTTP requests used,22,
 ,,
-Total entries monitored,848,
+Total entries monitored,849,
 New entries this run,1,
-Changed entries this run,5,material changes only
+Changed entries this run,7,material changes only
 Removed entries this run,0,
-New decision documents,2,
+New decision documents,3,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
 NEW ENTRIES (1),Case Number,URL
-+ Steadfast - Axiom Insurance Brokers,MN-25024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steadfast-axiom-insurance-brokers
++ William Adams - Clennett Hire,MN-85063,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire
 ,,
-CHANGED ENTRIES (5),Change,URL
-~ Thoma Bravo - Tanda,MN-80047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-tanda
+CHANGED ENTRIES (7),Change,URL
+~ Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,MN-25056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast
+,Matter name: Amwins / Dragoneer / KKR Consortium – Steadfast → Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,
+,Notification date: 10 Nov 2026 → 12 Nov 2026,
+,End of determination period: 22 Dec 2026 → 12 Jan 2027,
+,Consultation closes: (blank) → 20 Nov 2026,
+~ AUB – One Underwriting,MN-55042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
 ,Determination published: (blank) → 13 Nov 2026,
-,New document: Phase 1 Determination (13 Nov 2026),
-~ VetPartners – VetLove,MN-75031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vetpartners-%E2%80%93-vetlove
-,End of determination period: 27 Nov 2026 → 1 Dec 2026,
-,New document: Timeline extended by 2 business days – following request by parties (12 Nov 2026),
-~ Morgan Stanley – Epic Energy,WA-30032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-epic-energy
-,Acquirer(s): MCLEOD BIDCO PTY LTD (ABN 21 700 222 920) → MCLEOD BIDCO PTY LTD; ABN - (ABN 21 700 222 920),
-,Target(s) / vendor(s): ART Investment Holdings Pty Limited (ACN 153 817 120) → ART Investment Holdings Pty Limited; ACN - (ACN 153 817 120),
-~ Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre
-,Acquirer(s): VOLVO GROUP AUSTRALIA PTY LTD (ABN 27 000 761 259) → VOLVO GROUP AUSTRALIA PTY LTD; ABN - (ABN 27 000 761 259),
-,Target(s) / vendor(s): SOUTHSIDE AGENCIES (LISMORE) PTY LTD (ABN 86 001 496 626) → SOUTHSIDE AGENCIES (LISMORE) PTY LTD; ABN - (ABN 86 001 496 626),
-"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
-,Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),
-,Target(s) / vendor(s): Central Hospitality Services Pty Ltd (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD (ABN 35 636 190 960) → Central Hospitality Services Pty Ltd; ACN - (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD; ABN - (ABN 35 636 190…,
-,Other parties: AUSTRALIAN VENUE CO LIMITED (ABN 14 607 666 348) → AUSTRALIAN VENUE CO LIMITED; ABN - (ABN 14 607 666 348),
+,New document: AUB - One Underwriting - Phase 1 determination (13 Nov 2026),
+~ Camp Australia – Jabiru,MN-15048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 13 Nov 2026,
+,New document: Camp Australia - Jabiru - Phase 1 Determination (13 Nov 2026),
+~ Ingenia - Peet - Flagstone JV,MN-60048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,New document: Ingenia - Peet - Flagstone JV - Phase 1 determination (13 Nov 2026),
+~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
+,Acquirer(s): Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831) → Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831),
+,Target(s) / vendor(s): Built Living Holdings Pty Limited (ABN 39 698 096 945) → Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945),
+,Other parties: Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Lim… → Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Ho…,
+"~ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld
+,Acquirer(s): Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATIO… → Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE E…,
+~ Francisco Partners – Majority interest in Command Alkon,WA-90033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon
+,"Other parties: COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-333… → COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number -…",
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+William Adams - Clennett Hire (MN-85063),Notification added to the register,14 Nov 2026 00:23 AEDT
+Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Matter name: Amwins / Dragoneer / KKR Consortium – Steadfast → Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,14 Nov 2026 00:23 AEDT
+Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Notification date: 10 Nov 2026 → 12 Nov 2026,14 Nov 2026 00:23 AEDT
+Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),End of determination period: 22 Dec 2026 → 12 Jan 2027,14 Nov 2026 00:23 AEDT
+Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Consultation closes: (blank) → 20 Nov 2026,14 Nov 2026 00:23 AEDT
+AUB – One Underwriting (MN-55042),Status: Under assessment → Assessment completed,14 Nov 2026 00:23 AEDT
+AUB – One Underwriting (MN-55042),ACCC determination: (blank) → Approved,14 Nov 2026 00:23 AEDT
+AUB – One Underwriting (MN-55042),Determination published: (blank) → 13 Nov 2026,14 Nov 2026 00:23 AEDT
+AUB – One Underwriting (MN-55042),New document: AUB - One Underwriting - Phase 1 determination (13 Nov 2026),14 Nov 2026 00:23 AEDT
+Camp Australia – Jabiru (MN-15048),Status: Under assessment → Assessment completed,14 Nov 2026 00:23 AEDT
+Camp Australia – Jabiru (MN-15048),ACCC determination: (blank) → Approved,14 Nov 2026 00:23 AEDT
+Camp Australia – Jabiru (MN-15048),Determination published: (blank) → 13 Nov 2026,14 Nov 2026 00:23 AEDT
+Camp Australia – Jabiru (MN-15048),New document: Camp Australia - Jabiru - Phase 1 Determination (13 Nov 2026),14 Nov 2026 00:23 AEDT
+Ingenia - Peet - Flagstone JV (MN-60048),Status: Under assessment → Assessment completed,14 Nov 2026 00:23 AEDT
+Ingenia - Peet - Flagstone JV (MN-60048),ACCC determination: (blank) → Approved,14 Nov 2026 00:23 AEDT
+Ingenia - Peet - Flagstone JV (MN-60048),New document: Ingenia - Peet - Flagstone JV - Phase 1 determination (13 Nov 2026),14 Nov 2026 00:23 AEDT
+Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Acquirer(s): Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831) → Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831),14 Nov 2026 00:23 AEDT
+Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Target(s) / vendor(s): Built Living Holdings Pty Limited (ABN 39 698 096 945) → Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945),14 Nov 2026 00:23 AEDT
+Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Other parties: Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Lim… → Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Ho…,14 Nov 2026 00:23 AEDT
+"Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD (WA-80038)",Acquirer(s): Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATIO… → Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE E…,14 Nov 2026 00:23 AEDT
+Francisco Partners – Majority interest in Command Alkon (WA-90033),"Other parties: COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-333… → COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number -…",14 Nov 2026 00:23 AEDT
 Steadfast - Axiom Insurance Brokers (MN-25024),Notification added to the register,13 Nov 2026 13:05 AEDT
 Thoma Bravo - Tanda (MN-80047),Status: Under assessment → Assessment completed,13 Nov 2026 13:05 AEDT
 Thoma Bravo - Tanda (MN-80047),ACCC determination: (blank) → Approved,13 Nov 2026 13:05 AEDT
@@ -91,7 +121,7 @@ Holcim Australia – Burdetts Group (MN-05044),Target(s) / vendor(s): Burdett Gr
 "Coles – supermarket site in Byron Bay, NSW (WA-30035)",Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861),12 Nov 2026 13:28 AEDT
 "Coles – supermarket site in Byron Bay, NSW (WA-30035)",Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326),12 Nov 2026 13:28 AEDT
 Eagers - Zagame (MN-01133),Notification added to the register,11 Nov 2026 19:18 AEDT
-Amwins / Dragoneer / KKR Consortium – Steadfast (MN-25056),Notification added to the register,11 Nov 2026 19:18 AEDT
+Amwins / Dragoneer / KKR Consortium – Steadfast (MN-25056), added to the register,11 Nov 2026 19:18 AEDT
 "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750),11 Nov 2026 19:18 AEDT
 "Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342),11 Nov 2026 19:18 AEDT
 Supagas – Heeson Medical (MN-80027),Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496),11 Nov 2026 19:18 AEDT

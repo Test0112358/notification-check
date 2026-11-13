@@ -12,6 +12,30 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
+    "slug": "william-adams-clennett-hire",
+    "title": "William Adams - Clennett Hire",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
     "slug": "too-lost-%E2%80%93-xelon-entertainment",
     "title": "Too Lost – Xelon Entertainment",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
@@ -34,6 +58,18 @@
     "field": "end_of_determination_period",
     "stored_value": "11 Jan 2027",
     "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "ingenia-peet-flagstone-jv",
+    "title": "Ingenia - Peet - Flagstone JV",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv",
+    "layer": 1,
+    "rule": "COMPLETED_MISSING_PUB_DATE",
+    "severity": "WARNING",
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
   },
   {
     "slug": "xylem-flow-controls",
@@ -394,5 +430,17 @@
     "field": "anzsic_codes",
     "stored_value": "121 Beverage Manufacturing; 67 Property Operators and Real Estate Services",
     "expected_or_found": "at least one 4-digit code"
+  },
+  {
+    "slug": "microstar-logistics-konvoy",
+    "title": "MicroStar Logistics - Konvoy",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/microstar-logistics-konvoy",
+    "layer": 1,
+    "rule": "DOCUMENT_DOWNLOAD_GAVE_UP",
+    "severity": "WARNING",
+    "detail": "Consultation document could not be downloaded after 2 attempts (403 Forbidden). Download it manually: https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Remedy%20offer%20%2817%20June%202026%29.pdf",
+    "field": "consultation_docs",
+    "stored_value": "",
+    "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Remedy%20offer%20%2817%20June%202026%29.pdf"
   }
 ]

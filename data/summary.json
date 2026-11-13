@@ -1,41 +1,33 @@
 {
-  "generated_at_utc": "2026-11-13T02:08:59Z",
+  "generated_at_utc": "2026-11-13T13:25:10Z",
   "data_health": {
-    "last_success_utc": "2026-11-13T02:05:10Z",
+    "last_success_utc": "2026-11-13T13:23:56Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 67
+    "last_request_count": 22
   },
-  "total_entries": 848,
+  "total_entries": 849,
   "by_acquisition_status": {
-    "Under assessment": 43,
-    "Assessment completed": 800,
+    "Under assessment": 41,
+    "Assessment completed": 803,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 319,
+    "Phase 1 - initial assessment": 320,
     "Waiver application": 520,
     "Phase 2 - detailed assessment": 8,
     "Public benefit phase": 1
   },
   "by_type": {
-    "Notification": 328,
+    "Notification": 329,
     "Waiver": 520
   },
   "by_accc_determination": {
-    "Approved": 766,
+    "Approved": 769,
     "Not approved": 29,
     "Approved with conditions": 5
   },
   "decisions_due_within_10_days": [
-    {
-      "slug": "ingenia-peet-flagstone-jv",
-      "title": "Ingenia - Peet - Flagstone JV",
-      "case_number": "MN-60048",
-      "end_of_determination_period": "20 Nov 2026",
-      "business_days_remaining": 5,
-      "day_of_period": "Day 25 of 30"
-    },
     {
       "slug": "kinetic-tassielink",
       "title": "Kinetic - Tassielink",
@@ -43,14 +35,6 @@
       "end_of_determination_period": "25 Nov 2026",
       "business_days_remaining": 8,
       "day_of_period": "Day 32 of 40"
-    },
-    {
-      "slug": "camp-australia-%E2%80%93-jabiru",
-      "title": "Camp Australia – Jabiru",
-      "case_number": "MN-15048",
-      "end_of_determination_period": "26 Nov 2026",
-      "business_days_remaining": 9,
-      "day_of_period": "Day 21 of 30"
     },
     {
       "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
@@ -71,20 +55,6 @@
   ],
   "past_deadline_awaiting_publication": [],
   "consultations_closing_soon": [
-    {
-      "slug": "autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
-      "title": "Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill",
-      "case_number": "MN-20046",
-      "closes": "2026-11-13",
-      "business_days_left": 0
-    },
-    {
-      "slug": "total-ventilation-hygiene-alphacool",
-      "title": "Total Ventilation Hygiene - Alphacool",
-      "case_number": "MN-70049",
-      "closes": "2026-11-13",
-      "business_days_left": 0
-    },
     {
       "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
       "title": "Lactalis – Saputo Dairy UK",
@@ -126,26 +96,40 @@
       "case_number": "MN-25024",
       "closes": "2026-11-20",
       "business_days_left": 5
+    },
+    {
+      "slug": "william-adams-clennett-hire",
+      "title": "William Adams - Clennett Hire",
+      "case_number": "MN-85063",
+      "closes": "2026-11-20",
+      "business_days_left": 5
+    },
+    {
+      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+      "case_number": "MN-25056",
+      "closes": "2026-11-20",
+      "business_days_left": 5
     }
   ],
   "documents": {
     "downloaded": 127,
     "pending": 1,
-    "failed": 8,
-    "gave_up": 0
+    "failed": 7,
+    "gave_up": 1
   },
   "analytics": {
     "by_type": {
       "Notification": {
-        "matters": 328,
-        "determined": 280,
-        "approved": 273,
+        "matters": 329,
+        "determined": 283,
+        "approved": 276,
         "approved_with_conditions": 5,
         "not_approved": 2,
         "ceased": 5,
         "approval_rate_pct": 99.3,
         "median_business_days": 18.0,
-        "mean_business_days": 20.2,
+        "mean_business_days": 20.1,
         "fastest_business_days": 15,
         "slowest_business_days": 133
       },
@@ -199,10 +183,10 @@
       {
         "year": 2026,
         "type": "Notification",
-        "filed": 315,
-        "completed": 244,
-        "determined": 244,
-        "approved": 238,
+        "filed": 316,
+        "completed": 246,
+        "determined": 246,
+        "approved": 240,
         "approved_with_conditions": 4,
         "not_approved": 2,
         "ceased": 0,
@@ -659,16 +643,16 @@
         "year": 2026,
         "month": 11,
         "type": "Notification",
-        "filed": 14,
-        "completed": 12,
-        "determined": 12,
-        "approved": 12,
+        "filed": 15,
+        "completed": 14,
+        "determined": 14,
+        "approved": 14,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
         "approval_rate_pct": 100.0,
         "median_business_days": 19.0,
-        "mean_business_days": 20.4,
+        "mean_business_days": 20.1,
         "fastest_business_days": 15,
         "slowest_business_days": 39
       },
@@ -693,10 +677,10 @@
     "by_sector": [
       {
         "sector": "Asset Management and Investment",
-        "matters": 215,
+        "matters": 216,
         "under_assessment": 13,
-        "determined": 202,
-        "approved": 198,
+        "determined": 203,
+        "approved": 199,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 0,
@@ -739,9 +723,9 @@
       {
         "sector": "Financial Advisory and Broking",
         "matters": 112,
-        "under_assessment": 10,
-        "determined": 102,
-        "approved": 102,
+        "under_assessment": 8,
+        "determined": 104,
+        "approved": 104,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
@@ -753,8 +737,8 @@
       },
       {
         "sector": "Wholesale Trade",
-        "matters": 106,
-        "under_assessment": 8,
+        "matters": 107,
+        "under_assessment": 9,
         "determined": 97,
         "approved": 91,
         "approved_with_conditions": 2,
@@ -767,34 +751,34 @@
         "slowest_business_days": 41
       },
       {
-        "sector": "Construction and Engineering",
+        "sector": "Property and Real Estate",
         "matters": 78,
         "under_assessment": 6,
         "determined": 72,
-        "approved": 68,
-        "approved_with_conditions": 0,
-        "not_approved": 4,
-        "ceased": 0,
-        "approval_rate_pct": 94.4,
-        "median_business_days": 16,
-        "mean_business_days": 15.9,
-        "fastest_business_days": 3,
-        "slowest_business_days": 33
-      },
-      {
-        "sector": "Property and Real Estate",
-        "matters": 77,
-        "under_assessment": 6,
-        "determined": 71,
-        "approved": 65,
+        "approved": 66,
         "approved_with_conditions": 1,
         "not_approved": 5,
         "ceased": 0,
-        "approval_rate_pct": 93.0,
+        "approval_rate_pct": 93.1,
         "median_business_days": 17.0,
         "mean_business_days": 20.2,
         "fastest_business_days": 3,
         "slowest_business_days": 133
+      },
+      {
+        "sector": "Construction and Engineering",
+        "matters": 78,
+        "under_assessment": 5,
+        "determined": 73,
+        "approved": 69,
+        "approved_with_conditions": 0,
+        "not_approved": 4,
+        "ceased": 0,
+        "approval_rate_pct": 94.5,
+        "median_business_days": 16,
+        "mean_business_days": 15.9,
+        "fastest_business_days": 3,
+        "slowest_business_days": 33
       },
       {
         "sector": "Accommodation and Hospitality",
@@ -1324,9 +1308,9 @@
     ],
     "by_stage": {
       "Phase 1 - initial assessment": {
-        "matters": 319,
-        "determined": 277,
-        "approved": 273,
+        "matters": 320,
+        "determined": 280,
+        "approved": 276,
         "approved_with_conditions": 4,
         "not_approved": 0,
         "ceased": 2,

@@ -1,16 +1,17 @@
 {
-  "run_utc": "2026-11-13T02:09:02Z",
-  "register_entries_checked": 848,
-  "layer3_sample_size": 40,
-  "total_issues": 33,
+  "run_utc": "2026-11-13T13:25:14Z",
+  "register_entries_checked": 849,
+  "layer3_sample_size": 19,
+  "total_issues": 37,
   "errors": 0,
-  "warnings": 33,
+  "warnings": 37,
   "infos": 0,
   "passed": true,
   "issues_by_rule": {
-    "PHASE1_PERIOD_TOO_SHORT": 4,
-    "COMPLETED_MISSING_PUB_DATE": 28,
-    "ANZSIC_NO_CODE_FOUND": 1
+    "PHASE1_PERIOD_TOO_SHORT": 6,
+    "COMPLETED_MISSING_PUB_DATE": 29,
+    "ANZSIC_NO_CODE_FOUND": 1,
+    "DOCUMENT_DOWNLOAD_GAVE_UP": 1
   },
   "error_entries": []
 }
