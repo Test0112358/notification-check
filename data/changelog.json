@@ -39498,5 +39498,241 @@
         "material": false
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "steadfast-axiom-insurance-brokers",
+    "title": "Steadfast - Axiom Insurance Brokers",
+    "case_number": "MN-25024",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steadfast-axiom-insurance-brokers",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "usco-%E2%80%93-itm",
+    "title": "USCO – ITM",
+    "case_number": "MN-55046",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/usco-%E2%80%93-itm",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "On 4 November 2026, the ACCC decided that USCO’s notification lodged on 26 October 2026 should be taken not to have an effective notification date because it is materially incomplete under s 51ABY of the Competition and Consumer Act 2010 (CCA). USCO provided additional information in response to the ACCC’s decision. The effective notification date is 5 November 2026 pursuant to s 51ABZA of the CCA. Subject to any further timeline extension, the end of the Phase 1 determination period is 17 December 2026. The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 November 2026 via email to mergers@accc.gov.au with the title Submission re: USCO – ITM. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. The ACCC will take into account any submissions already provided in relation to this notification. If you have already provided a submission, you do not need to resubmit it unless you have additional information you would like to provide to the ACCC or to update your submission. Open date 5 Nov 2026 Closing date 12 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-12",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "thoma-bravo-varonis",
+    "title": "Thoma Bravo - Varonis",
+    "case_number": "MN-65042",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-varonis",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 12 November 2026 via email to mergers@accc.gov.au with the title Submission re: Thoma Bravo - Varonis. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 5 Nov 2026 Closing date 12 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-12",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "thoma-bravo-tanda",
+    "title": "Thoma Bravo - Tanda",
+    "case_number": "MN-80047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-tanda",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "13 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-19T10:25:53+11:00",
+        "new": "2026-11-13T09:11:15+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '13 Nov 2026', 'description': 'Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Thoma%20Bravo%20-%20Tanda%20-%20Phase%201%20Determination%20-%2012%20November%202026.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "vetpartners-%E2%80%93-vetlove",
+    "title": "VetPartners – VetLove",
+    "case_number": "MN-75031",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vetpartners-%E2%80%93-vetlove",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "27 Nov 2026",
+        "new": "1 Dec 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-05T16:47:24+11:00",
+        "new": "2026-11-12T17:11:22+11:00",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '5 Nov 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
+        "new": "[{'date': '12 Nov 2026', 'description': 'Timeline extended by 2 business days – following request by parties', 'url': ''}, {'date': '5 Nov 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "psp-investments-aaa-egg-company",
+    "title": "PSP Investments - AAA Egg Company",
+    "case_number": "MN-55024",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-investments-aaa-egg-company",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "On 30 October 2026, PSP Investments made a remedy offer to the ACCC which includes behavioural commitments that seek to prevent the flow of competitively sensitive information, and commercial coordination, between AAA Egg Company and Sunny Queen Australia Pty Ltd (SQ), an entity which is indirectly partially owned by PSP Investments (the remedy offer). The ACCC invites you to provide submissions or information in response to the questions below by 12 November 2026 via email to mergers@accc.gov.au with a copy to mergersru@accc.gov.au, with the title Submission re: PSP Investments – AAA Egg Company – remedy offer. The ACCC must complete its assessment within strict statutory timelines which also impacts the time available for consultation. The ACCC's ability to give detailed consideration to submissions received after this time may be limited. Open date 5 Nov 2026 Closing date 12 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-12",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "consultation_docs",
+        "old": "[{'date': '4 Nov 2026', 'description': 'PSP Investments - AAA Egg Company - remedy offer - 4 November 2026', 'url': 'https://www.accc.gov.au/system/files/moderated_files/PSP%20Investments%20-%20AAA%20Egg%20Company%20-%20remedy%20offer%20-%204%20November%202026.pdf'}]",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "morgan-stanley-%E2%80%93-epic-energy",
+    "title": "Morgan Stanley – Epic Energy",
+    "case_number": "WA-30032",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-epic-energy",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "MCLEOD BIDCO PTY LTD (ABN 21 700 222 920)",
+        "new": "MCLEOD BIDCO PTY LTD; ABN - (ABN 21 700 222 920)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ART Investment Holdings Pty Limited (ACN 153 817 120)",
+        "new": "ART Investment Holdings Pty Limited; ACN - (ACN 153 817 120)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre",
+    "title": "Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre",
+    "case_number": "WA-60038",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "VOLVO GROUP AUSTRALIA PTY LTD (ABN 27 000 761 259)",
+        "new": "VOLVO GROUP AUSTRALIA PTY LTD; ABN - (ABN 27 000 761 259)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "SOUTHSIDE AGENCIES (LISMORE) PTY LTD (ABN 86 001 496 626)",
+        "new": "SOUTHSIDE AGENCIES (LISMORE) PTY LTD; ABN - (ABN 86 001 496 626)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-13T02:05:10Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
+    "title": "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",
+    "case_number": "MN-15034",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299)",
+        "new": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Central Hospitality Services Pty Ltd (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD (ABN 35 636 190 960)",
+        "new": "Central Hospitality Services Pty Ltd; ACN - (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD; ABN - (ABN 35 636 190 960)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "AUSTRALIAN VENUE CO LIMITED (ABN 14 607 666 348)",
+        "new": "AUSTRALIAN VENUE CO LIMITED; ABN - (ABN 14 607 666 348)",
+        "material": true
+      }
+    ]
   }
 ]

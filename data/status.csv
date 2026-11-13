@@ -1,49 +1,60 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,13 Nov 2026 00:57 AEDT,Up to date
-Last run attempt,13 Nov 2026 00:57 AEDT,success
-HTTP requests used,20,
+Last successful update,13 Nov 2026 13:05 AEDT,Up to date
+Last run attempt,13 Nov 2026 13:05 AEDT,success
+HTTP requests used,67,
 ,,
-Total entries monitored,847,
-New entries this run,5,
+Total entries monitored,848,
+New entries this run,1,
 Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,5,
+New decision documents,2,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (5),Case Number,URL
-+ Amadeus - Idemia Public Security,MN-60027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security
-+ New England Motor Group – Armidale Automotive Group,WA-65043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/new-england-motor-group-%E2%80%93-armidale-automotive-group
-+ Royal Caribbean Cruises – Sandals Resorts International,WA-45037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/royal-caribbean-cruises-%E2%80%93-sandals-resorts-international
-+ ctrl:cyber - Razilio,WA-05061,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio
-+ The Borg Group - Programmed Timber,WA-55043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-borg-group-programmed-timber
+NEW ENTRIES (1),Case Number,URL
++ Steadfast - Axiom Insurance Brokers,MN-25024,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steadfast-axiom-insurance-brokers
 ,,
 CHANGED ENTRIES (5),Change,URL
-~ Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm,MN-15053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm
+~ Thoma Bravo - Tanda,MN-80047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/thoma-bravo-tanda
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 12 Nov 2026,
-,New document: Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination (12 Nov 2026),
-~ Jellinbah Group - Further interest in Lake Vermont JV,WA-55033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jellinbah-group-further-interest-in-lake-vermont-jv
-,Acquirer(s): QCMM (LAKE VERMONT HOLDINGS) PTY LTD (ABN 22 114 286 878) → QCMM (LAKE VERMONT HOLDINGS) PTY LTD; ABN - (ABN 22 114 286 878),
-,Target(s) / vendor(s): CHR VERMONT PTY LTD (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD. (ABN 22 065 321 440) → CHR VERMONT PTY LTD; ABN - (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD.; ABN - (ABN 22 065 321 440),
-,Other parties: Lake Vermont Resources Pty Ltd (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD (ABN 30 114 286 850); JELLINBAH RES… → Lake Vermont Resources Pty Ltd; ABN - (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD; ABN - (ABN 30 114 286 850);…,
-~ Acclime Corporate Services Australia – Polar 993 Group,WA-45025,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acclime-corporate-services-australia-%E2%80%93-polar-993-group
-,Acquirer(s): ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD (ABN 98 150 499 442); Achronite Bidco Ltd → ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD; ABN - (ABN 98 150 499 442); Achronite Bidco Ltd,
-,Target(s) / vendor(s): 993 FUND SERVICES PTY LTD (ABN 54 665 089 421); POLAR 993 PTY LTD (ABN 77 642 129 226); POLAR 993 ADVISORY PTY LTD (ABN… → 993 FUND SERVICES PTY LTD; ABN - (ABN 54 665 089 421); POLAR 993 PTY LTD; ABN - (ABN 77 642 129 226); POLAR 993 ADVISOR…,
-~ The Independents Group – acquisition of entities within the Smuggler Group,MN-35034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/the-independents-group-%E2%80%93-acquisition-of-entities-within-the-smuggler-group
-,Other parties: TowerBrook Capital Partners L.P. (Identifying number - 3922576; ELOCGA (Identifying number - B209477)); K10 Holding SA… → TowerBrook Capital Partners L.P. (Identifying number - 3922576); ELOCGA (Identifying number - B209477); K10 Holding SA…,
-~ Redwood Services Group – Concept Data and Voice Select,WA-05047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redwood-services-group-%E2%80%93-concept-data-and-voice-select
-,Acquirer(s): Redwood Services Group Australia Pty Ltd (ABN 15 675 368 162) → Redwood Services Group Australia Pty Ltd; ABN - (ABN 15 675 368 162),
-,Target(s) / vendor(s): Concept Data Pty Ltd (ABN 51 602 501 404); Voice Select Pty Ltd (ABN 81 626 240 220); Gary Paradise → Concept Data Pty Ltd; ABN - (ABN 51 602 501 404); Voice Select Pty Ltd; ABN - (ABN 81 626 240 220); Gary Paradise,
+,Determination published: (blank) → 13 Nov 2026,
+,New document: Phase 1 Determination (13 Nov 2026),
+~ VetPartners – VetLove,MN-75031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vetpartners-%E2%80%93-vetlove
+,End of determination period: 27 Nov 2026 → 1 Dec 2026,
+,New document: Timeline extended by 2 business days – following request by parties (12 Nov 2026),
+~ Morgan Stanley – Epic Energy,WA-30032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/morgan-stanley-%E2%80%93-epic-energy
+,Acquirer(s): MCLEOD BIDCO PTY LTD (ABN 21 700 222 920) → MCLEOD BIDCO PTY LTD; ABN - (ABN 21 700 222 920),
+,Target(s) / vendor(s): ART Investment Holdings Pty Limited (ACN 153 817 120) → ART Investment Holdings Pty Limited; ACN - (ACN 153 817 120),
+~ Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre,WA-60038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volvo-group-australia-%E2%80%93-assets-comprising-volvo-dealership-stock-and-assignable-sales-contracts-of-southside-truck-centre
+,Acquirer(s): VOLVO GROUP AUSTRALIA PTY LTD (ABN 27 000 761 259) → VOLVO GROUP AUSTRALIA PTY LTD; ABN - (ABN 27 000 761 259),
+,Target(s) / vendor(s): SOUTHSIDE AGENCIES (LISMORE) PTY LTD (ABN 86 001 496 626) → SOUTHSIDE AGENCIES (LISMORE) PTY LTD; ABN - (ABN 86 001 496 626),
+"~ Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops",MN-15034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-black-nugget-hotel-motel-bartletts-tavern-and-all-associated-detached-bottle-shops
+,Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),
+,Target(s) / vendor(s): Central Hospitality Services Pty Ltd (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD (ABN 35 636 190 960) → Central Hospitality Services Pty Ltd; ACN - (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD; ABN - (ABN 35 636 190…,
+,Other parties: AUSTRALIAN VENUE CO LIMITED (ABN 14 607 666 348) → AUSTRALIAN VENUE CO LIMITED; ABN - (ABN 14 607 666 348),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Steadfast - Axiom Insurance Brokers (MN-25024),Notification added to the register,13 Nov 2026 13:05 AEDT
+Thoma Bravo - Tanda (MN-80047),Status: Under assessment → Assessment completed,13 Nov 2026 13:05 AEDT
+Thoma Bravo - Tanda (MN-80047),ACCC determination: (blank) → Approved,13 Nov 2026 13:05 AEDT
+Thoma Bravo - Tanda (MN-80047),Determination published: (blank) → 13 Nov 2026,13 Nov 2026 13:05 AEDT
+Thoma Bravo - Tanda (MN-80047),New document: Phase 1 Determination (13 Nov 2026),13 Nov 2026 13:05 AEDT
+VetPartners – VetLove (MN-75031),End of determination period: 27 Nov 2026 → 1 Dec 2026,13 Nov 2026 13:05 AEDT
+VetPartners – VetLove (MN-75031),New document: Timeline extended by 2 business days – following request by parties (12 Nov 2026),13 Nov 2026 13:05 AEDT
+Morgan Stanley – Epic Energy (WA-30032),Acquirer(s): MCLEOD BIDCO PTY LTD (ABN 21 700 222 920) → MCLEOD BIDCO PTY LTD; ABN - (ABN 21 700 222 920),13 Nov 2026 13:05 AEDT
+Morgan Stanley – Epic Energy (WA-30032),Target(s) / vendor(s): ART Investment Holdings Pty Limited (ACN 153 817 120) → ART Investment Holdings Pty Limited; ACN - (ACN 153 817 120),13 Nov 2026 13:05 AEDT
+Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre (WA-60038),Acquirer(s): VOLVO GROUP AUSTRALIA PTY LTD (ABN 27 000 761 259) → VOLVO GROUP AUSTRALIA PTY LTD; ABN - (ABN 27 000 761 259),13 Nov 2026 13:05 AEDT
+Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre (WA-60038),Target(s) / vendor(s): SOUTHSIDE AGENCIES (LISMORE) PTY LTD (ABN 86 001 496 626) → SOUTHSIDE AGENCIES (LISMORE) PTY LTD; ABN - (ABN 86 001 496 626),13 Nov 2026 13:05 AEDT
+"Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),13 Nov 2026 13:05 AEDT
+"Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Target(s) / vendor(s): Central Hospitality Services Pty Ltd (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD (ABN 35 636 190 960) → Central Hospitality Services Pty Ltd; ACN - (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD; ABN - (ABN 35 636 190…,13 Nov 2026 13:05 AEDT
+"Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Other parties: AUSTRALIAN VENUE CO LIMITED (ABN 14 607 666 348) → AUSTRALIAN VENUE CO LIMITED; ABN - (ABN 14 607 666 348),13 Nov 2026 13:05 AEDT
 Amadeus - Idemia Public Security (MN-60027),Notification added to the register,13 Nov 2026 00:57 AEDT
 Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),Status: Under assessment → Assessment completed,13 Nov 2026 00:57 AEDT
 Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),ACCC determination: (blank) → Approved,13 Nov 2026 00:57 AEDT

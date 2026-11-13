@@ -2402,13 +2402,13 @@
     "date": "4 Sep 2026",
     "description": "Questionnaire",
     "kind": "Questionnaire",
-    "status": "pending",
-    "attempts": 0,
+    "status": "downloaded",
+    "attempts": 1,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
-    "filename": "",
-    "size_kb": null,
-    "downloaded_utc": "",
+    "filename": "MN-40034 - Woolworths freehold interest in Homestead Rd, Orchard Hills, NSW Questionnaire 0.pdf",
+    "size_kb": 82.2,
+    "downloaded_utc": "2026-11-13T02:05:10Z",
     "last_error": ""
   },
   "https://www.accc.gov.au/system/files/moderated_files/Questionnaire%20-%20Eli%20Lilly%20-%20Merida.docx": {
