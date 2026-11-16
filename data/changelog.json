@@ -40133,5 +40133,223 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "ampol-%E2%80%93-evie-networks",
+    "title": "Ampol – Evie Networks",
+    "case_number": "MN-30044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ampol-%E2%80%93-evie-networks",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "inpex-%E2%80%93-further-interest-in-bonaparte-ccs-jv",
+    "title": "INPEX – further interest in Bonaparte CCS JV",
+    "case_number": "WA-15056",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/inpex-%E2%80%93-further-interest-in-bonaparte-ccs-jv",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "psp-%E2%80%93-interest-in-amp-grapes-investments-limited",
+    "title": "PSP – interest in AMP Grapes Investments Limited",
+    "case_number": "WA-45039",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-%E2%80%93-interest-in-amp-grapes-investments-limited",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "oscars-group-assets-of-courthouse-hotel-and-kinselas-hotel-darlinghurst-nsw",
+    "title": "Oscars Group - assets of Courthouse Hotel and Kinselas Hotel, Darlinghurst, NSW",
+    "case_number": "WA-20049",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oscars-group-assets-of-courthouse-hotel-and-kinselas-hotel-darlinghurst-nsw",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "russell-investment-group-%E2%80%93-flag-index-plus-fund-v",
+    "title": "Russell Investment Group – Flag Index Plus Fund V",
+    "case_number": "WA-40052",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/russell-investment-group-%E2%80%93-flag-index-plus-fund-v",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "volaris-group-%E2%80%93-spinifexit",
+    "title": "Volaris Group – SpinifexIT",
+    "case_number": "WA-25061",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volaris-group-%E2%80%93-spinifexit",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
+    "title": "Koch – 50% interest in certain assets of OCP Nutricrops",
+    "case_number": "MN-10039",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "16 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-19T18:05:04+11:00",
+        "new": "2026-11-16T14:16:05+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '16 Nov 2026', 'description': 'Koch – 50% interest in certain assets of OCP Nutricrops - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Koch%20-%2050%25%20interest%20in%20certain%20assets%20of%20OCP%20Nutricrops%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
+    "title": "Plenary – Ground lease for delivery of the Gabba entertainment and housing precinct project in Brisbane, QLD",
+    "case_number": "WA-05059",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets",
+    "title": "Gold Fields – BHP Nickel West (Kambalda exploration assets)",
+    "case_number": "WA-05057",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
+    "title": "Gold Fields - BHP Nickel West (Kambalda nickel concentrator)",
+    "case_number": "WA-95047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "aware-real-estate-%E2%80%93-100-market-street",
+    "title": "Aware Real Estate – 100 Market Street",
+    "case_number": "WA-60037",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "The Trustee for ALTIS ARET SUB TRUST 34 (ABN 18 992 400 810)",
+        "new": "The Trustee for ALTIS ARET SUB TRUST 34; ABN - (ABN 18 992 400 810)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "The Trustee for Market Mid Trust (ABN 84 274 975 190); The Trustee for Market Sub Trust (ABN 55 277 202 916); MARKET SUB TC PTY LTD (ABN 45 633 931 094); The Trustee for Link Australia Holdings Trust (ABN 63 692 877 807); MARKET MID PTY LTD (ABN 11 638 066 887); Joy Success Developments Limited (British Virgin Islands Entity Number - 2018891)",
+        "new": "The Trustee for Market Mid Trust; ABN - (ABN 84 274 975 190); The Trustee for Market Sub Trust; ABN - (ABN 55 277 202 916); MARKET SUB TC PTY LTD; ABN - (ABN 45 633 931 094); The Trustee for Link Australia Holdings Trust; ABN - (ABN 63 692 877 807); MARKET MID PTY LTD; ABN - (ABN 11 638 066 887); Joy Success Developments Limited (British Virgin Islands Entity Number - 2018891)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "AWARE SUPER PTY LTD (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD (ABN 77 653 940 295); Link Real Estate Investment Trust (Business Registration Number (Hong Kong) - 56061458)",
+        "new": "AWARE SUPER PTY LTD; ABN - (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD; ABN - (ABN 77 653 940 295); Link Real Estate Investment Trust (Business Registration Number (Hong Kong) - 56061458)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "regis-%E2%80%93-home-care-business-of-royal-freemasons",
+    "title": "Regis – Home Care Business of Royal Freemasons",
+    "case_number": "WA-15036",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regis-%E2%80%93-home-care-business-of-royal-freemasons",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "REGIS AGED CARE PTY LTD (ABN 75 125 223 645)",
+        "new": "REGIS AGED CARE PTY LTD; ABN - (ABN 75 125 223 645)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ROYAL FREEMASONS LTD (ABN 52 082 106 821)",
+        "new": "ROYAL FREEMASONS LTD; ABN - (ABN 52 082 106 821)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T08:32:27Z",
+    "slug": "merivale-%E2%80%93-the-sackville-hotel",
+    "title": "Merivale – The Sackville Hotel",
+    "case_number": "MN-35033",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "JH 7 PROPERTIES PTY LTD (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED (ABN 29 105 332 652)",
+        "new": "JH 7 PROPERTIES PTY LTD; ABN - (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED; ABN - (ABN 29 105 332 652)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "AMALGAMATED HOTELS PTY LIMITED (ABN 82 009 604 719)",
+        "new": "AMALGAMATED HOTELS PTY LIMITED; ABN - (ABN 82 009 604 719)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "HEMMES PROPERTY PTY LIMITED (ABN 87 105 332 518)",
+        "new": "HEMMES PROPERTY PTY LIMITED; ABN - (ABN 87 105 332 518)",
+        "material": true
+      }
+    ]
   }
 ]

@@ -1142,14 +1142,14 @@
     "date": "8 Jul 2026",
     "description": "Remedy Offer - 1 July 2026 - IAG - RACI",
     "kind": "Remedy offer",
-    "status": "pending",
-    "attempts": 1,
+    "status": "failed",
+    "attempts": 2,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
     "size_kb": null,
     "downloaded_utc": "",
-    "last_error": ""
+    "last_error": "403 Forbidden"
   },
   "https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Questionnaire%20-%20Remedy%20Offer%20%281%20July%202026%29_1.docx": {
     "url": "https://www.accc.gov.au/system/files/public-merger-register/documents/IAG%20RACI%20-%20Questionnaire%20-%20Remedy%20Offer%20%281%20July%202026%29_1.docx",

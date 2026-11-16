@@ -1,10 +1,10 @@
 {
-  "last_attempt_utc": "2026-11-16T01:21:42Z",
-  "last_success_utc": "2026-11-16T01:21:42Z",
+  "last_attempt_utc": "2026-11-16T08:32:27Z",
+  "last_success_utc": "2026-11-16T08:32:27Z",
   "last_status": "success",
   "last_error": "",
   "consecutive_failures": 0,
-  "last_request_count": 111,
+  "last_request_count": 23,
   "last_digest_week": "2026-W47",
   "last_full_listing_utc": "2026-11-10T03:46:39Z"
 }
