@@ -40012,5 +40012,126 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T01:21:42Z",
+    "slug": "autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
+    "title": "Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill",
+    "case_number": "MN-20046",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 13 November 2026 via email to mergers@accc.gov.au with the title Submission re: Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 6 Nov 2026 Closing date 13 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-13",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T01:21:42Z",
+    "slug": "total-ventilation-hygiene-alphacool",
+    "title": "Total Ventilation Hygiene - Alphacool",
+    "case_number": "MN-70049",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/total-ventilation-hygiene-alphacool",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 13 November 2026 via email to mergers@accc.gov.au with the title Submission re: Total Ventilation Hygiene - Alphacool. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 6 Nov 2026 Closing date 13 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-13",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T01:21:42Z",
+    "slug": "modaxo-conduent",
+    "title": "Modaxo - Conduent",
+    "case_number": "MN-25040",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/modaxo-conduent",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD. (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD (ABN 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS (ABN 20 251 484 486)); Conduent Business Services, LLC",
+        "new": "CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; ABN - (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; ABN - (ABN 87 667 867 950); CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS; ABN - (ABN 20 251 484 486); Conduent Business Services, LLC",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD (ABN 16 010 832 318); MODAXO GROUP AUSTRALIA PTY LTD (ABN 44 166 272 724); TRAPEZE MANAGEMENT HOLDINGS PTY LTD (ABN 97 120 264 913); CONSTELLATION SOFTWARE AUSTRALIA PTY LTD (ABN 50 141 627 232)",
+        "new": "Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD; ABN - (ABN 16 010 832 318); MODAXO GROUP AUSTRALIA PTY LTD; ABN - (ABN 44 166 272 724); TRAPEZE MANAGEMENT HOLDINGS PTY LTD; ABN - (ABN 97 120 264 913); CONSTELLATION SOFTWARE AUSTRALIA PTY LTD; ABN - (ABN 50 141 627 232)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T01:21:42Z",
+    "slug": "danone-%E2%80%93-made",
+    "title": "Danone – MADE",
+    "case_number": "MN-55031",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danone-%E2%80%93-made",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD (ABN 85 644 211 772)",
+        "new": "Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD; ABN - (ABN 85 644 211 772)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD (ABN 32 143 172 258; Compagnie Gervais Danone (SIREN 552 067 092)); Société Anonyme des Eaux Minérales d’Évian S.A. (SIREN 797 080 850); NUTRICIA AUSTRALIA PTY LIMITED (ABN 99 076 246 752); Made Brands Pte Ltd (UEN 202239762W; Danone S.A. (SIREN 552 032 534)); Minogue HoldCo",
+        "new": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; ABN - (ABN 32 143 172 258); Compagnie Gervais Danone (SIREN 552 067 092); Société Anonyme des Eaux Minérales d’Évian S.A. (SIREN 797 080 850); NUTRICIA AUSTRALIA PTY LIMITED; ABN - (ABN 99 076 246 752); Made Brands Pte Ltd (UEN 202239762W); Danone S.A. (SIREN 552 032 534); Minogue HoldCo",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T01:21:42Z",
+    "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
+    "title": "Johns Lyng Group – C&M Build Group",
+    "case_number": "MN-75035",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025)",
+        "new": "Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053)",
+        "new": "C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103)",
+        "new": "JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103)",
+        "material": true
+      }
+    ]
   }
 ]

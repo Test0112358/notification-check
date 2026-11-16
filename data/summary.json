@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-13T13:25:10Z",
+  "generated_at_utc": "2026-11-16T01:28:05Z",
   "data_health": {
-    "last_success_utc": "2026-11-13T13:23:56Z",
+    "last_success_utc": "2026-11-16T01:21:42Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 22
+    "last_request_count": 111
   },
   "total_entries": 849,
   "by_acquisition_status": {
@@ -33,22 +33,30 @@
       "title": "Kinetic - Tassielink",
       "case_number": "MN-75058",
       "end_of_determination_period": "25 Nov 2026",
-      "business_days_remaining": 8,
-      "day_of_period": "Day 32 of 40"
+      "business_days_remaining": 7,
+      "day_of_period": "Day 33 of 40"
     },
     {
       "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
       "title": "CVS Group – Karrinyup Small Animal Hospital",
       "case_number": "MN-01127",
       "end_of_determination_period": "26 Nov 2026",
-      "business_days_remaining": 9,
-      "day_of_period": "Day 21 of 30"
+      "business_days_remaining": 8,
+      "day_of_period": "Day 22 of 30"
     },
     {
       "slug": "koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
       "title": "Koch – 50% interest in certain assets of OCP Nutricrops",
       "case_number": "MN-10039",
       "end_of_determination_period": "27 Nov 2026",
+      "business_days_remaining": 9,
+      "day_of_period": "Day 21 of 30"
+    },
+    {
+      "slug": "ipliving-springwood-living-group",
+      "title": "IPLiving - Springwood Living Group",
+      "case_number": "MN-01126",
+      "end_of_determination_period": "30 Nov 2026",
       "business_days_remaining": 10,
       "day_of_period": "Day 20 of 30"
     }
@@ -60,63 +68,63 @@
       "title": "Lactalis – Saputo Dairy UK",
       "case_number": "MN-45041",
       "closes": "2026-11-17",
-      "business_days_left": 2
+      "business_days_left": 1
     },
     {
       "slug": "coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
       "title": "Coles – supermarket site in Rainbow Beach, NSW",
       "case_number": "MN-25062",
       "closes": "2026-11-17",
-      "business_days_left": 2
+      "business_days_left": 1
     },
     {
       "slug": "eagers-zagame",
       "title": "Eagers - Zagame",
       "case_number": "MN-01133",
       "closes": "2026-11-18",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "too-lost-%E2%80%93-xelon-entertainment",
       "title": "Too Lost – Xelon Entertainment",
       "case_number": "MN-65045",
       "closes": "2026-11-19",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "amadeus-idemia-public-security",
       "title": "Amadeus - Idemia Public Security",
       "case_number": "MN-60027",
       "closes": "2026-11-19",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "steadfast-axiom-insurance-brokers",
       "title": "Steadfast - Axiom Insurance Brokers",
       "case_number": "MN-25024",
       "closes": "2026-11-20",
-      "business_days_left": 5
-    },
-    {
-      "slug": "william-adams-clennett-hire",
-      "title": "William Adams - Clennett Hire",
-      "case_number": "MN-85063",
-      "closes": "2026-11-20",
-      "business_days_left": 5
+      "business_days_left": 4
     },
     {
       "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
       "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
       "case_number": "MN-25056",
       "closes": "2026-11-20",
-      "business_days_left": 5
+      "business_days_left": 4
+    },
+    {
+      "slug": "william-adams-clennett-hire",
+      "title": "William Adams - Clennett Hire",
+      "case_number": "MN-85063",
+      "closes": "2026-11-20",
+      "business_days_left": 4
     }
   ],
   "documents": {
     "downloaded": 127,
     "pending": 1,
-    "failed": 7,
-    "gave_up": 1
+    "failed": 6,
+    "gave_up": 2
   },
   "analytics": {
     "by_type": {

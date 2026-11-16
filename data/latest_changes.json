@@ -1,347 +1,139 @@
 {
-  "run_utc": "2026-11-13T13:23:56Z",
-  "run_canberra": "14 Nov 2026 00:23 AEDT",
-  "new_count": 1,
-  "changed_count": 7,
-  "cosmetic_only_count": 1,
+  "run_utc": "2026-11-16T01:21:42Z",
+  "run_canberra": "16 Nov 2026 12:21 AEDT",
+  "new_count": 0,
+  "changed_count": 3,
+  "cosmetic_only_count": 2,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "william-adams-clennett-hire",
-      "title": "William Adams - Clennett Hire",
-      "case_number": "MN-85063",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-      "case_number": "MN-25056",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-      "material": true,
-      "summary": [
-        "Matter name: Amwins / Dragoneer / KKR Consortium – Steadfast → Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-        "Notification date: 10 Nov 2026 → 12 Nov 2026",
-        "End of determination period: 22 Dec 2026 → 12 Jan 2027",
-        "Consultation closes: (blank) → 20 Nov 2026"
-      ],
-      "changes": [
-        {
-          "field": "title",
-          "old": "Amwins / Dragoneer / KKR Consortium – Steadfast",
-          "new": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-          "material": true
-        },
-        {
-          "field": "notification_date",
-          "old": "10 November 2026",
-          "new": "12 November 2026",
-          "material": true
-        },
-        {
-          "field": "end_of_determination_period",
-          "old": "22 Dec 2026",
-          "new": "12 Jan 2027",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-11-11T17:46:26+11:00",
-          "new": "2026-11-13T16:46:33+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "",
-          "new": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amwins / Dragoneer / KKR / Temasek Consortium - Steadfast. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "",
-          "new": "2026-11-20",
-          "material": true
-        },
-        {
-          "field": "url",
-          "old": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast",
-          "new": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "aub-%E2%80%93-one-underwriting",
-      "title": "AUB – One Underwriting",
-      "case_number": "MN-55042",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting",
-      "material": true,
-      "summary": [
-        "Status: Under assessment → Assessment completed",
-        "ACCC determination: (blank) → Approved",
-        "Determination published: (blank) → 13 Nov 2026",
-        "New document: AUB - One Underwriting - Phase 1 determination (13 Nov 2026)"
-      ],
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed",
-          "material": true
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved",
-          "material": true
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "13 November 2026",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-26T16:30:44+11:00",
-          "new": "2026-11-13T17:06:29+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": "",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '13 Nov 2026', 'description': 'AUB - One Underwriting - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf'}]",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "ctrlcyber-razilio",
-      "title": "ctrl:cyber - Razilio",
-      "case_number": "WA-05061",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio",
+      "slug": "autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
+      "title": "Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill",
+      "case_number": "MN-20046",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/autosports-group-mercedes-benz-parramatta-and-castle-hill-chery-castle-hill",
       "material": false,
       "summary": [],
       "changes": [
         {
-          "field": "decisions_docs",
-          "old": "[{'date': '12 Nov 2026', 'description': 'Notification waiver determination published', 'url': ''}]",
-          "new": "[{'date': '12 Nov 2026', 'description': 'Notification waiver determination published', 'url': 'https://www.accc.gov.au/system/files/moderated_files/ctrl%3Acyber%20-%20Razilio%20%28WA-05061%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf'}]",
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 13 November 2026 via email to mergers@accc.gov.au with the title Submission re: Autosports Group - Mercedes-Benz Parramatta and Castle Hill, Chery Castle Hill. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 6 Nov 2026 Closing date 13 Nov 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "material": false
+        },
+        {
+          "field": "consultation_close_date",
+          "old": "2026-11-13",
+          "new": "",
           "material": false
         }
       ]
     },
     {
-      "slug": "camp-australia-%E2%80%93-jabiru",
-      "title": "Camp Australia – Jabiru",
-      "case_number": "MN-15048",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru",
+      "slug": "total-ventilation-hygiene-alphacool",
+      "title": "Total Ventilation Hygiene - Alphacool",
+      "case_number": "MN-70049",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/total-ventilation-hygiene-alphacool",
+      "material": false,
+      "summary": [],
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 13 November 2026 via email to mergers@accc.gov.au with the title Submission re: Total Ventilation Hygiene - Alphacool. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 6 Nov 2026 Closing date 13 Nov 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "material": false
+        },
+        {
+          "field": "consultation_close_date",
+          "old": "2026-11-13",
+          "new": "",
+          "material": false
+        }
+      ]
+    },
+    {
+      "slug": "modaxo-conduent",
+      "title": "Modaxo - Conduent",
+      "case_number": "MN-25040",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/modaxo-conduent",
       "material": true,
       "summary": [
-        "Status: Under assessment → Assessment completed",
-        "ACCC determination: (blank) → Approved",
-        "Determination published: (blank) → 13 Nov 2026",
-        "New document: Camp Australia - Jabiru - Phase 1 Determination (13 Nov 2026)"
+        "Target(s) / vendor(s): CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD. (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD (ABN… → CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; ABN - (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LT…",
+        "Other parties: Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD (ABN 16 010 832 318); MODAXO… → Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD; ABN - (ABN 16 010 832 318);…"
       ],
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed",
+          "field": "targets",
+          "old": "CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD. (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD (ABN 87 667 867 950; CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS (ABN 20 251 484 486)); Conduent Business Services, LLC",
+          "new": "CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; ABN - (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD; ABN - (ABN 87 667 867 950); CONDUENT BUSINESS SOLUTIONS (FRANCE) SAS; ABN - (ABN 20 251 484 486); Conduent Business Services, LLC",
           "material": true
         },
         {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved",
-          "material": true
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "13 November 2026",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-16T15:31:05+11:00",
-          "new": "2026-11-13T15:54:39+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": "",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '13 Nov 2026', 'description': 'Camp Australia - Jabiru - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf'}]",
+          "field": "other_parties",
+          "old": "Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD (ABN 16 010 832 318); MODAXO GROUP AUSTRALIA PTY LTD (ABN 44 166 272 724); TRAPEZE MANAGEMENT HOLDINGS PTY LTD (ABN 97 120 264 913); CONSTELLATION SOFTWARE AUSTRALIA PTY LTD (ABN 50 141 627 232)",
+          "new": "Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD; ABN - (ABN 16 010 832 318); MODAXO GROUP AUSTRALIA PTY LTD; ABN - (ABN 44 166 272 724); TRAPEZE MANAGEMENT HOLDINGS PTY LTD; ABN - (ABN 97 120 264 913); CONSTELLATION SOFTWARE AUSTRALIA PTY LTD; ABN - (ABN 50 141 627 232)",
           "material": true
         }
       ]
     },
     {
-      "slug": "ingenia-peet-flagstone-jv",
-      "title": "Ingenia - Peet - Flagstone JV",
-      "case_number": "MN-60048",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv",
+      "slug": "danone-%E2%80%93-made",
+      "title": "Danone – MADE",
+      "case_number": "MN-55031",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danone-%E2%80%93-made",
       "material": true,
       "summary": [
-        "Status: Under assessment → Assessment completed",
-        "ACCC determination: (blank) → Approved",
-        "New document: Ingenia - Peet - Flagstone JV - Phase 1 determination (13 Nov 2026)"
+        "Target(s) / vendor(s): Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD (ABN 85 644 211 772) → Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD; ABN - (ABN 85 644 211 772)",
+        "Other parties: DANONE SAPUTO DAIRY AUSTRALIA PTY LTD (ABN 32 143 172 258; Compagnie Gervais Danone (SIREN 552 067 092)); Société Anony… → DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; ABN - (ABN 32 143 172 258); Compagnie Gervais Danone (SIREN 552 067 092); Sociét…"
       ],
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed",
+          "field": "targets",
+          "old": "Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD (ABN 85 644 211 772)",
+          "new": "Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD; ABN - (ABN 85 644 211 772)",
           "material": true
         },
         {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-12T17:07:34+11:00",
-          "new": "2026-11-13T16:45:19+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": "",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '13 Nov 2026', 'description': 'Ingenia - Peet - Flagstone JV - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/MN-60048%20-%20Ingenia%20-%20Peet%20-%20Flagstone%20JV%20-%20Phase%201%20determination%20-%2012%20November%202026_0.pdf'}]",
+          "field": "other_parties",
+          "old": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD (ABN 32 143 172 258; Compagnie Gervais Danone (SIREN 552 067 092)); Société Anonyme des Eaux Minérales d’Évian S.A. (SIREN 797 080 850); NUTRICIA AUSTRALIA PTY LIMITED (ABN 99 076 246 752); Made Brands Pte Ltd (UEN 202239762W; Danone S.A. (SIREN 552 032 534)); Minogue HoldCo",
+          "new": "DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; ABN - (ABN 32 143 172 258); Compagnie Gervais Danone (SIREN 552 067 092); Société Anonyme des Eaux Minérales d’Évian S.A. (SIREN 797 080 850); NUTRICIA AUSTRALIA PTY LIMITED; ABN - (ABN 99 076 246 752); Made Brands Pte Ltd (UEN 202239762W); Danone S.A. (SIREN 552 032 534); Minogue HoldCo",
           "material": true
         }
       ]
     },
     {
-      "slug": "wesfarmers-and-built-group-built-living-joint-venture",
-      "title": "Wesfarmers and Built Group - Built Living Joint Venture",
-      "case_number": "MN-65021",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture",
+      "slug": "johns-lyng-group-%E2%80%93-cm-build-group",
+      "title": "Johns Lyng Group – C&M Build Group",
+      "case_number": "MN-75035",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group",
       "material": true,
       "summary": [
-        "Acquirer(s): Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831) → Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831)",
-        "Target(s) / vendor(s): Built Living Holdings Pty Limited (ABN 39 698 096 945) → Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945)",
-        "Other parties: Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Lim… → Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Ho…"
+        "Acquirer(s): Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025) → Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025)",
+        "Target(s) / vendor(s): C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053) → C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053)",
+        "Other parties: JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103) → JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831)",
-          "new": "Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831)",
+          "old": "Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025)",
+          "new": "Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Built Living Holdings Pty Limited (ABN 39 698 096 945)",
-          "new": "Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945)",
+          "old": "C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053)",
+          "new": "C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Limited (ABN 88 163 462 637)",
-          "new": "Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Holdings Pty Limited; ABN - (ABN 88 163 462 637)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld",
-      "title": "Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",
-      "case_number": "WA-80038",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld",
-      "material": true,
-      "summary": [
-        "Acquirer(s): Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATIO… → Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE E…"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATION EARLY LEARNING CENTRES NO. 40 PTY LTD (ABN 50 690 670 823)",
-          "new": "Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE EDUCATION EARLY LEARNING CENTRES NO. 40 PTY LTD; ABN - (ABN 50 690 670 823)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
-      "title": "Francisco Partners – Majority interest in Command Alkon",
-      "case_number": "WA-90033",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon",
-      "material": true,
-      "summary": [
-        "Other parties: COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-333… → COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number -…"
-      ],
-      "changes": [
-        {
-          "field": "other_parties",
-          "old": "COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-3339666)",
-          "new": "COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-3339666)",
+          "old": "JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103)",
+          "new": "JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103)",
           "material": true
         }
       ]
     }
   ],
   "removed_entries": [],
-  "decision_documents": [
-    {
-      "slug": "aub-%E2%80%93-one-underwriting",
-      "title": "AUB – One Underwriting",
-      "case_number": "MN-55042",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting",
-      "date": "13 Nov 2026",
-      "description": "AUB - One Underwriting - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    },
-    {
-      "slug": "camp-australia-%E2%80%93-jabiru",
-      "title": "Camp Australia – Jabiru",
-      "case_number": "MN-15048",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru",
-      "date": "13 Nov 2026",
-      "description": "Camp Australia - Jabiru - Phase 1 Determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    },
-    {
-      "slug": "ingenia-peet-flagstone-jv",
-      "title": "Ingenia - Peet - Flagstone JV",
-      "case_number": "MN-60048",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv",
-      "date": "13 Nov 2026",
-      "description": "Ingenia - Peet - Flagstone JV - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/MN-60048%20-%20Ingenia%20-%20Peet%20-%20Flagstone%20JV%20-%20Phase%201%20determination%20-%2012%20November%202026_0.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    }
-  ]
+  "decision_documents": []
 }

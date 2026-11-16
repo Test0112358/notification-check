@@ -12,9 +12,9 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "william-adams-clennett-hire",
-    "title": "William Adams - Clennett Hire",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -24,9 +24,9 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "slug": "william-adams-clennett-hire",
+    "title": "William Adams - Clennett Hire",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -442,5 +442,17 @@
     "field": "consultation_docs",
     "stored_value": "",
     "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Microstar%20Konvoy%20-%20Remedy%20offer%20%2817%20June%202026%29.pdf"
+  },
+  {
+    "slug": "heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "title": "Heidelberg Materials Australia – construction materials business of MAAS",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/heidelberg-materials-australia-%E2%80%93-construction-materials-business-of-maas",
+    "layer": 1,
+    "rule": "DOCUMENT_DOWNLOAD_GAVE_UP",
+    "severity": "WARNING",
+    "detail": "Consultation document could not be downloaded after 2 attempts (403 Forbidden). Download it manually: https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Remedy%20Offer%20-%2029%20June%202026_0.pdf",
+    "field": "consultation_docs",
+    "stored_value": "",
+    "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Heidelberg%20Materials%20Australia%20%E2%80%93%20construction%20materials%20business%20of%20MAAS%20-%20Remedy%20Offer%20-%2029%20June%202026_0.pdf"
   }
 ]

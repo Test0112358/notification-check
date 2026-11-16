@@ -1,47 +1,7 @@
 {
-  "run_utc": "2026-11-13T13:23:56Z",
+  "run_utc": "2026-11-16T01:21:42Z",
   "questionnaire_count": 0,
   "consultation_document_count": 0,
   "questionnaires": [],
-  "decision_documents": [
-    {
-      "slug": "aub-%E2%80%93-one-underwriting",
-      "title": "AUB – One Underwriting",
-      "case_number": "MN-55042",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting",
-      "date": "13 Nov 2026",
-      "description": "AUB - One Underwriting - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    },
-    {
-      "slug": "camp-australia-%E2%80%93-jabiru",
-      "title": "Camp Australia – Jabiru",
-      "case_number": "MN-15048",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru",
-      "date": "13 Nov 2026",
-      "description": "Camp Australia - Jabiru - Phase 1 Determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    },
-    {
-      "slug": "ingenia-peet-flagstone-jv",
-      "title": "Ingenia - Peet - Flagstone JV",
-      "case_number": "MN-60048",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv",
-      "date": "13 Nov 2026",
-      "description": "Ingenia - Peet - Flagstone JV - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/MN-60048%20-%20Ingenia%20-%20Peet%20-%20Flagstone%20JV%20-%20Phase%201%20determination%20-%2012%20November%202026_0.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    }
-  ]
+  "decision_documents": []
 }

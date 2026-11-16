@@ -1,55 +1,42 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,14 Nov 2026 00:23 AEDT,Up to date
-Last run attempt,14 Nov 2026 00:23 AEDT,success
-HTTP requests used,22,
+Last successful update,16 Nov 2026 12:21 AEDT,Up to date
+Last run attempt,16 Nov 2026 12:21 AEDT,success
+HTTP requests used,111,
 ,,
 Total entries monitored,849,
-New entries this run,1,
-Changed entries this run,7,material changes only
+New entries this run,0,
+Changed entries this run,3,material changes only
 Removed entries this run,0,
-New decision documents,3,
+New decision documents,0,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-+ William Adams - Clennett Hire,MN-85063,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire
-,,
-CHANGED ENTRIES (7),Change,URL
-~ Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,MN-25056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast
-,Matter name: Amwins / Dragoneer / KKR Consortium – Steadfast → Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,
-,Notification date: 10 Nov 2026 → 12 Nov 2026,
-,End of determination period: 22 Dec 2026 → 12 Jan 2027,
-,Consultation closes: (blank) → 20 Nov 2026,
-~ AUB – One Underwriting,MN-55042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 13 Nov 2026,
-,New document: AUB - One Underwriting - Phase 1 determination (13 Nov 2026),
-~ Camp Australia – Jabiru,MN-15048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 13 Nov 2026,
-,New document: Camp Australia - Jabiru - Phase 1 Determination (13 Nov 2026),
-~ Ingenia - Peet - Flagstone JV,MN-60048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ingenia-peet-flagstone-jv
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,New document: Ingenia - Peet - Flagstone JV - Phase 1 determination (13 Nov 2026),
-~ Wesfarmers and Built Group - Built Living Joint Venture,MN-65021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wesfarmers-and-built-group-built-living-joint-venture
-,Acquirer(s): Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831) → Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831),
-,Target(s) / vendor(s): Built Living Holdings Pty Limited (ABN 39 698 096 945) → Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945),
-,Other parties: Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Lim… → Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Ho…,
-"~ Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD",WA-80038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/imagine-education-%E2%80%93-bumper-bears-early-learning-centre-in-kippa-ring-qld
-,Acquirer(s): Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATIO… → Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE E…,
-~ Francisco Partners – Majority interest in Command Alkon,WA-90033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/francisco-partners-%E2%80%93-majority-interest-in-command-alkon
-,"Other parties: COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-333… → COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number -…",
+CHANGED ENTRIES (3),Change,URL
+~ Modaxo - Conduent,MN-25040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/modaxo-conduent
+,Target(s) / vendor(s): CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD. (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD (ABN… → CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; ABN - (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LT…,
+,Other parties: Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD (ABN 16 010 832 318); MODAXO… → Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD; ABN - (ABN 16 010 832 318);…,
+~ Danone – MADE,MN-55031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/danone-%E2%80%93-made
+,Target(s) / vendor(s): Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD (ABN 85 644 211 772) → Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD; ABN - (ABN 85 644 211 772),
+,Other parties: DANONE SAPUTO DAIRY AUSTRALIA PTY LTD (ABN 32 143 172 258; Compagnie Gervais Danone (SIREN 552 067 092)); Société Anony… → DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; ABN - (ABN 32 143 172 258); Compagnie Gervais Danone (SIREN 552 067 092); Sociét…,
+~ Johns Lyng Group – C&M Build Group,MN-75035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/johns-lyng-group-%E2%80%93-cm-build-group
+,Acquirer(s): Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025) → Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025),
+,Target(s) / vendor(s): C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053) → C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053),
+,Other parties: JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103) → JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Modaxo - Conduent (MN-25040),Target(s) / vendor(s): CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD. (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD (ABN… → CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; ABN - (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LT…,16 Nov 2026 12:21 AEDT
+Modaxo - Conduent (MN-25040),Other parties: Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD (ABN 16 010 832 318); MODAXO… → Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD; ABN - (ABN 16 010 832 318);…,16 Nov 2026 12:21 AEDT
+Danone – MADE (MN-55031),Target(s) / vendor(s): Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD (ABN 85 644 211 772) → Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD; ABN - (ABN 85 644 211 772),16 Nov 2026 12:21 AEDT
+Danone – MADE (MN-55031),Other parties: DANONE SAPUTO DAIRY AUSTRALIA PTY LTD (ABN 32 143 172 258; Compagnie Gervais Danone (SIREN 552 067 092)); Société Anony… → DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; ABN - (ABN 32 143 172 258); Compagnie Gervais Danone (SIREN 552 067 092); Sociét…,16 Nov 2026 12:21 AEDT
+Johns Lyng Group – C&M Build Group (MN-75035),Acquirer(s): Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025) → Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025),16 Nov 2026 12:21 AEDT
+Johns Lyng Group – C&M Build Group (MN-75035),Target(s) / vendor(s): C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053) → C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053),16 Nov 2026 12:21 AEDT
+Johns Lyng Group – C&M Build Group (MN-75035),Other parties: JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103) → JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103),16 Nov 2026 12:21 AEDT
 William Adams - Clennett Hire (MN-85063),Notification added to the register,14 Nov 2026 00:23 AEDT
 Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Matter name: Amwins / Dragoneer / KKR Consortium – Steadfast → Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,14 Nov 2026 00:23 AEDT
 Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Notification date: 10 Nov 2026 → 12 Nov 2026,14 Nov 2026 00:23 AEDT
