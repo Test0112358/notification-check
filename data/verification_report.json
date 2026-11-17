@@ -24,6 +24,18 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
+    "slug": "william-adams-clennett-hire",
+    "title": "William Adams - Clennett Hire",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
     "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
     "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
@@ -36,15 +48,15 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "william-adams-clennett-hire",
-    "title": "William Adams - Clennett Hire",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "slug": "amadeus-idemia-public-security",
+    "title": "Amadeus - Idemia Public Security",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
     "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
     "field": "end_of_determination_period",
-    "stored_value": "12 Jan 2027",
+    "stored_value": "11 Jan 2027",
     "expected_or_found": "at least 30 business days after notification"
   },
   {
@@ -60,16 +72,16 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amadeus-idemia-public-security",
-    "title": "Amadeus - Idemia Public Security",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+    "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
+    "title": "CVS Group – Karrinyup Small Animal Hospital",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
     "layer": 1,
-    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "rule": "COMPLETED_MISSING_PUB_DATE",
     "severity": "WARNING",
-    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
-    "field": "end_of_determination_period",
-    "stored_value": "11 Jan 2027",
-    "expected_or_found": "at least 30 business days after notification"
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
   },
   {
     "slug": "ingenia-peet-flagstone-jv",
@@ -492,111 +504,15 @@
     "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Black%20Rhino%20-%20Remedy%20Offer%20%289%20July%202026%29_1.pdf"
   },
   {
-    "slug": "veritas-capital-fund-management-%E2%80%93-trinity-consultants",
-    "title": "Veritas Capital Fund Management – Trinity Consultants",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-trinity-consultants",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "layer": 1,
+    "rule": "DOCUMENT_DOWNLOAD_GAVE_UP",
     "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
+    "detail": "Consultation document could not be downloaded after 2 attempts (403 Forbidden). Download it manually: https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29.pdf",
+    "field": "consultation_docs",
     "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "apem-group-resource-strategies",
-    "title": "APEM Group - Resource Strategies",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apem-group-resource-strategies",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "vsa-sprayline",
-    "title": "VSA - SprayLine",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "triton-%E2%80%93-united-initiators",
-    "title": "Triton – United Initiators",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/triton-%E2%80%93-united-initiators",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "veritas-capital-fund-management-%E2%80%93-bgis-group",
-    "title": "Veritas Capital Fund Management – BGIS Group",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/veritas-capital-fund-management-%E2%80%93-bgis-group",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "logic-technologies-ace-communication-distributors",
-    "title": "Logic Technologies - Ace Communication Distributors",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "black-rhino-club-hotel-motel-roma",
-    "title": "Black Rhino - Club Hotel Motel Roma",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "goldman-sachs-numantec",
-    "title": "Goldman Sachs - Numantec",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/goldman-sachs-numantec",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
-  },
-  {
-    "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
-    "title": "Coles – supermarket site in Lidcombe (NSW)",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
-    "layer": 2,
-    "rule": "ENTRY_STORED_BUT_NOT_IN_LISTING",
-    "severity": "WARNING",
-    "detail": "Entry is in stored data but did not appear on any listing page in this run. It may have been removed from the register, or a listing page failed to load.",
-    "field": "",
-    "stored_value": "",
-    "expected_or_found": ""
+    "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29.pdf"
   }
 ]

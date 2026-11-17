@@ -1,23 +1,66 @@
 {
-  "run_utc": "2026-11-17T04:08:47Z",
-  "run_canberra": "17 Nov 2026 15:08 AEDT",
-  "new_count": 0,
-  "changed_count": 8,
+  "run_utc": "2026-11-17T14:50:00Z",
+  "run_canberra": "18 Nov 2026 01:50 AEDT",
+  "new_count": 7,
+  "changed_count": 7,
   "cosmetic_only_count": 0,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "pemba-%E2%80%93-bio101",
+      "title": "Pemba – Bio101",
+      "case_number": "WA-85066",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-bio101"
+    },
+    {
+      "slug": "forhealth-%E2%80%93-mackay-family-medical-practice-qld",
+      "title": "ForHealth – Mackay Family Medical Practice, Qld",
+      "case_number": "WA-45040",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/forhealth-%E2%80%93-mackay-family-medical-practice-qld"
+    },
+    {
+      "slug": "emera-%E2%80%93-atco-and-canadian-utilities",
+      "title": "Emera – ATCO and Canadian Utilities",
+      "case_number": "WA-40053",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emera-%E2%80%93-atco-and-canadian-utilities"
+    },
+    {
+      "slug": "tetra-tech-pitt-sherry",
+      "title": "Tetra Tech - Pitt & Sherry",
+      "case_number": "WA-20051",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tetra-tech-pitt-sherry"
+    },
+    {
+      "slug": "equans-%E2%80%93-credible-audio-visual-solutions",
+      "title": "Equans – Credible Audio Visual Solutions",
+      "case_number": "WA-80054",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/equans-%E2%80%93-credible-audio-visual-solutions"
+    },
+    {
+      "slug": "foresight-group-%E2%80%93-kinetic",
+      "title": "Foresight Group – Kinetic",
+      "case_number": "WA-55044",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/foresight-group-%E2%80%93-kinetic"
+    },
+    {
+      "slug": "waveconn-acquisition-of-certain-optus-towers-and-sites",
+      "title": "Waveconn - acquisition of certain Optus towers and sites",
+      "case_number": "WA-80048",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waveconn-acquisition-of-certain-optus-towers-and-sites"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "nyk-ns-united",
-      "title": "NYK - NS United",
-      "case_number": "MN-15043",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united",
+      "slug": "monadelphous-tyden-power-0",
+      "title": "Monadelphous - Tyden Power",
+      "case_number": "MN-75065",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power-0",
       "material": true,
       "summary": [
         "Status: Under assessment → Assessment completed",
         "ACCC determination: (blank) → Approved",
         "Determination published: (blank) → 17 Nov 2026",
-        "New document: NYK - NS United - Phase 1 determination (17 Nov 2026)"
+        "New document: Monadelphous - Tyden Power - Phase 1 determination (17 Nov 2026)"
       ],
       "changes": [
         {
@@ -40,8 +83,8 @@
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-10-27T17:02:09+11:00",
-          "new": "2026-11-17T12:59:40+11:00",
+          "old": "2026-10-26T16:51:42+11:00",
+          "new": "2026-11-17T17:14:54+11:00",
           "material": false
         },
         {
@@ -53,196 +96,202 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '17 Nov 2026', 'description': 'NYK - NS United - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/NYK%20-%20NS%20United%20-%20Phase%201%20determination.pdf'}]",
+          "new": "[{'date': '17 Nov 2026', 'description': 'Monadelphous - Tyden Power - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Monadelphous%20-%20Tyden%20Power%20Phase%201%20determination%20without%20conditions.pdf'}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "bp-bp-gateway",
-      "title": "bp - bp Gateway",
-      "case_number": "MN-95033",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
+      "slug": "ipliving-springwood-living-group",
+      "title": "IPLiving - Springwood Living Group",
+      "case_number": "MN-01126",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ipliving-springwood-living-group",
       "material": true,
       "summary": [
-        "Acquirer(s): BP AUSTRALIA PTY LTD (ABN 53 004 085 616) → BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616)",
-        "Target(s) / vendor(s): M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040) → M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040)",
-        "Other parties: BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498) → BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498)"
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 17 Nov 2026",
+        "New document: IPLiving - Springwood Living Group (17 Nov 2026)"
+      ],
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "17 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-19T13:44:24+11:00",
+          "new": "2026-11-17T15:53:06+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '17 Nov 2026', 'description': 'IPLiving - Springwood Living Group', 'url': 'https://www.accc.gov.au/system/files/moderated_files/IPLiving%20-%20Springwood%20Living%20Group%20-%20Phase%201%20determination.pdf'}]",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
+      "title": "CVS Group – Karrinyup Small Animal Hospital",
+      "case_number": "MN-01127",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
+      "material": true,
+      "summary": [
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "New document: CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination (17 Nov 2026)"
+      ],
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-23T09:16:51+11:00",
+          "new": "2026-11-17T18:01:34+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '17 Nov 2026', 'description': 'CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/CVS%20Group%20-%20Karrinyup%20Small%20Animal%20Hospital%20-%20Phase%201%20determination%20-%2017%20November%202026_0.pdf'}]",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "hammondcare-anglican-community-services-support-at-home-business",
+      "title": "Hammondcare - Anglican Community Services' Support at Home business",
+      "case_number": "MN-85038",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business",
+      "material": true,
+      "summary": [
+        "Acquirer(s): HAMMONDCARE (ABN 48 000 026 219) → HAMMONDCARE; ABN - (ABN 48 000 026 219)",
+        "Target(s) / vendor(s): ANGLICAN COMMUNITY SERVICES (ABN 39 922 848 563) → ANGLICAN COMMUNITY SERVICES; ABN - (ABN 39 922 848 563)",
+        "Other parties: HAMMONDCARE HEALTH AND HOSPITALS LIMITED (ABN 72 074 354 028) → HAMMONDCARE HEALTH AND HOSPITALS LIMITED; ABN - (ABN 72 074 354 028)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "BP AUSTRALIA PTY LTD (ABN 53 004 085 616)",
-          "new": "BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616)",
+          "old": "HAMMONDCARE (ABN 48 000 026 219)",
+          "new": "HAMMONDCARE; ABN - (ABN 48 000 026 219)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040)",
-          "new": "M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040)",
+          "old": "ANGLICAN COMMUNITY SERVICES (ABN 39 922 848 563)",
+          "new": "ANGLICAN COMMUNITY SERVICES; ABN - (ABN 39 922 848 563)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498)",
-          "new": "BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498)",
+          "old": "HAMMONDCARE HEALTH AND HOSPITALS LIMITED (ABN 72 074 354 028)",
+          "new": "HAMMONDCARE HEALTH AND HOSPITALS LIMITED; ABN - (ABN 72 074 354 028)",
           "material": true
         }
       ]
     },
     {
-      "slug": "hitech-group-australia-hudson-global-resources",
-      "title": "HiTech Group Australia - Hudson Global Resources",
-      "case_number": "MN-95038",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
+      "slug": "karmo-simplr",
+      "title": "Karmo - Simplr",
+      "case_number": "MN-15030",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmo-simplr",
       "material": true,
       "summary": [
-        "Acquirer(s): HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878) → HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878)",
-        "Target(s) / vendor(s): Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762) → Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762)"
+        "Acquirer(s): KARMO HOLDINGS PTY LTD (ABN 93 667 511 480) → KARMO HOLDINGS PTY LTD; ABN - (ABN 93 667 511 480)",
+        "Target(s) / vendor(s): EAGERS AUTOMOTIVE LIMITED (ABN 87 009 680 013); SUBMO PTY LTD (ABN 19 637 015 457) → EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013); SUBMO PTY LTD; ABN - (ABN 19 637 015 457)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878)",
-          "new": "HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878)",
+          "old": "KARMO HOLDINGS PTY LTD (ABN 93 667 511 480)",
+          "new": "KARMO HOLDINGS PTY LTD; ABN - (ABN 93 667 511 480)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762)",
-          "new": "Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762)",
+          "old": "EAGERS AUTOMOTIVE LIMITED (ABN 87 009 680 013); SUBMO PTY LTD (ABN 19 637 015 457)",
+          "new": "EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013); SUBMO PTY LTD; ABN - (ABN 19 637 015 457)",
           "material": true
         }
       ]
     },
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
-      "title": "Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly",
-      "case_number": "WA-80037",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
+      "slug": "rct-solutions-gmbh-w%C3%A4rtsil%C3%A4-energy-storage-finland-oy",
+      "title": "RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy",
+      "case_number": "WA-80036",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rct-solutions-gmbh-w%C3%A4rtsil%C3%A4-energy-storage-finland-oy",
       "material": true,
       "summary": [
-        "Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
-        "Target(s) / vendor(s): FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56… → FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE P…"
+        "Other parties: WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583) → WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583)"
       ],
       "changes": [
-        {
-          "field": "acquirers",
-          "old": "AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299)",
-          "new": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56 161 759 959)",
-          "new": "FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD; ABN - (ABN 56 161 759 959)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "black-rhino-club-hotel-motel-roma",
-      "title": "Black Rhino - Club Hotel Motel Roma",
-      "case_number": "MN-90008",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
-      "material": true,
-      "summary": [
-        "Acquirer(s): The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187) → The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21…",
-        "Target(s) / vendor(s): SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845) → SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506…"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187)",
-          "new": "The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21 693 060 187)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845)",
-          "new": "SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506 126 845)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
-      "title": "Coles – supermarket site in Lidcombe (NSW)",
-      "case_number": "MN-50019",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
-      "material": true,
-      "summary": [
-        "Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
-        "Target(s) / vendor(s): BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710) → BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710)"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708)",
-          "new": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710)",
-          "new": "BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "logic-technologies-ace-communication-distributors",
-      "title": "Logic Technologies - Ace Communication Distributors",
-      "case_number": "MN-95021",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
-      "material": true,
-      "summary": [
-        "Acquirer(s): CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084) → CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084)",
-        "Target(s) / vendor(s): ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011) → ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011)"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084)",
-          "new": "CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011)",
-          "new": "ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "vsa-sprayline",
-      "title": "VSA - SprayLine",
-      "case_number": "MN-30022",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline",
-      "material": true,
-      "summary": [
-        "Acquirer(s): VSA ROADS PTY LTD (ABN 18 136 665 935) → VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935)",
-        "Target(s) / vendor(s): Head, Transport for Victoria (ABN 97 481 088 949) → Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",
-        "Other parties: COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899) → COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899)"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "VSA ROADS PTY LTD (ABN 18 136 665 935)",
-          "new": "VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "Head, Transport for Victoria (ABN 97 481 088 949)",
-          "new": "Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",
-          "material": true
-        },
         {
           "field": "other_parties",
-          "old": "COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899)",
-          "new": "COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899)",
+          "old": "WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583)",
+          "new": "WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "monadelphous-tyden-power",
+      "title": "Monadelphous - Tyden Power",
+      "case_number": "WA-15037",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power",
+      "material": true,
+      "summary": [
+        "Acquirer(s): MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547) → MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547)",
+        "Target(s) / vendor(s): TYDEN POWER PTY. LIMITED (ABN 75 612 521 212) → TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547)",
+          "new": "MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "TYDEN POWER PTY. LIMITED (ABN 75 612 521 212)",
+          "new": "TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212)",
           "material": true
         }
       ]
@@ -251,17 +300,134 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "nyk-ns-united",
-      "title": "NYK - NS United",
-      "case_number": "MN-15043",
+      "slug": "ipliving-springwood-living-group",
+      "title": "IPLiving - Springwood Living Group",
+      "case_number": "MN-01126",
       "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ipliving-springwood-living-group",
       "date": "17 Nov 2026",
-      "description": "NYK - NS United - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/NYK%20-%20NS%20United%20-%20Phase%201%20determination.pdf",
+      "description": "IPLiving - Springwood Living Group",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/IPLiving%20-%20Springwood%20Living%20Group%20-%20Phase%201%20determination.pdf",
+      "category": "Key event",
+      "priority": false,
+      "new_matter": false
+    },
+    {
+      "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
+      "title": "CVS Group – Karrinyup Small Animal Hospital",
+      "case_number": "MN-01127",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
+      "date": "17 Nov 2026",
+      "description": "CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/CVS%20Group%20-%20Karrinyup%20Small%20Animal%20Hospital%20-%20Phase%201%20determination%20-%2017%20November%202026_0.pdf",
       "category": "Phase 1 determination",
       "priority": false,
       "new_matter": false
+    },
+    {
+      "slug": "monadelphous-tyden-power-0",
+      "title": "Monadelphous - Tyden Power",
+      "case_number": "MN-75065",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power-0",
+      "date": "17 Nov 2026",
+      "description": "Monadelphous - Tyden Power - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Monadelphous%20-%20Tyden%20Power%20Phase%201%20determination%20without%20conditions.pdf",
+      "category": "Phase 1 determination",
+      "priority": false,
+      "new_matter": false
+    },
+    {
+      "slug": "emera-%E2%80%93-atco-and-canadian-utilities",
+      "title": "Emera – ATCO and Canadian Utilities",
+      "case_number": "WA-40053",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emera-%E2%80%93-atco-and-canadian-utilities",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Emera%20%E2%80%93%20ATCO%20and%20Canadian%20Utilities%20%28WA-40053%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "equans-%E2%80%93-credible-audio-visual-solutions",
+      "title": "Equans – Credible Audio Visual Solutions",
+      "case_number": "WA-80054",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/equans-%E2%80%93-credible-audio-visual-solutions",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Equans%20-%20Credible%20Audio%20Visual%20Solutions%20%28WA-80054%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "forhealth-%E2%80%93-mackay-family-medical-practice-qld",
+      "title": "ForHealth – Mackay Family Medical Practice, Qld",
+      "case_number": "WA-45040",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/forhealth-%E2%80%93-mackay-family-medical-practice-qld",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/ForHealth%20%E2%80%93%20Mackay%20Family%20Medical%20Practice%20%28WA-45040%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "foresight-group-%E2%80%93-kinetic",
+      "title": "Foresight Group – Kinetic",
+      "case_number": "WA-55044",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/foresight-group-%E2%80%93-kinetic",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Foresight%20Group%20-%20Kinetic%20%28WA-55044%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "pemba-%E2%80%93-bio101",
+      "title": "Pemba – Bio101",
+      "case_number": "WA-85066",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-bio101",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Pemba%20%E2%80%93%20Bio101%20%28WA-85066%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "tetra-tech-pitt-sherry",
+      "title": "Tetra Tech - Pitt & Sherry",
+      "case_number": "WA-20051",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tetra-tech-pitt-sherry",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Tetra%20Tech%20-%20Pitt%20and%20Sherry%20%28WA-20051%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "waveconn-acquisition-of-certain-optus-towers-and-sites",
+      "title": "Waveconn - acquisition of certain Optus towers and sites",
+      "case_number": "WA-80048",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waveconn-acquisition-of-certain-optus-towers-and-sites",
+      "date": "17 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Waveconn%20-%20acquisition%20of%20certain%20Optus%20towers%20and%20sites%20%28WA-80048%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
     }
   ]
 }

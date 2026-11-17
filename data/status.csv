@@ -1,53 +1,86 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,17 Nov 2026 15:08 AEDT,Up to date
-Last run attempt,17 Nov 2026 15:08 AEDT,success
-HTTP requests used,93,
+Last successful update,18 Nov 2026 01:50 AEDT,Up to date
+Last run attempt,18 Nov 2026 01:50 AEDT,success
+HTTP requests used,38,
 ,,
-Total entries monitored,858,
-New entries this run,0,
-Changed entries this run,8,material changes only
+Total entries monitored,865,
+New entries this run,7,
+Changed entries this run,7,material changes only
 Removed entries this run,0,
-New decision documents,1,
+New decision documents,10,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (8),Change,URL
-~ NYK - NS United,MN-15043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united
+NEW ENTRIES (7),Case Number,URL
++ Pemba – Bio101,WA-85066,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-bio101
+"+ ForHealth – Mackay Family Medical Practice, Qld",WA-45040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/forhealth-%E2%80%93-mackay-family-medical-practice-qld
++ Emera – ATCO and Canadian Utilities,WA-40053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emera-%E2%80%93-atco-and-canadian-utilities
++ Tetra Tech - Pitt & Sherry,WA-20051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tetra-tech-pitt-sherry
++ Equans – Credible Audio Visual Solutions,WA-80054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/equans-%E2%80%93-credible-audio-visual-solutions
++ Foresight Group – Kinetic,WA-55044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/foresight-group-%E2%80%93-kinetic
++ Waveconn - acquisition of certain Optus towers and sites,WA-80048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waveconn-acquisition-of-certain-optus-towers-and-sites
+,,
+CHANGED ENTRIES (7),Change,URL
+~ Monadelphous - Tyden Power,MN-75065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power-0
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
 ,Determination published: (blank) → 17 Nov 2026,
-,New document: NYK - NS United - Phase 1 determination (17 Nov 2026),
-~ bp - bp Gateway,MN-95033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway
-,Acquirer(s): BP AUSTRALIA PTY LTD (ABN 53 004 085 616) → BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616),
-,Target(s) / vendor(s): M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040) → M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040),
-,Other parties: BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498) → BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498),
-~ HiTech Group Australia - Hudson Global Resources,MN-95038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources
-,Acquirer(s): HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878) → HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878),
-,Target(s) / vendor(s): Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762) → Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762),
-"~ Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly",WA-80037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly
-,Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),
-,Target(s) / vendor(s): FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56… → FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE P…,
-~ Black Rhino - Club Hotel Motel Roma,MN-90008,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma
-,Acquirer(s): The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187) → The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21…,
-,Target(s) / vendor(s): SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845) → SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506…,
-~ Coles – supermarket site in Lidcombe (NSW),MN-50019,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw
-,Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),
-,Target(s) / vendor(s): BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710) → BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710),
-~ Logic Technologies - Ace Communication Distributors,MN-95021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/logic-technologies-ace-communication-distributors
-,Acquirer(s): CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084) → CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084),
-,Target(s) / vendor(s): ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011) → ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011),
-~ VSA - SprayLine,MN-30022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline
-,Acquirer(s): VSA ROADS PTY LTD (ABN 18 136 665 935) → VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935),
-,"Target(s) / vendor(s): Head, Transport for Victoria (ABN 97 481 088 949) → Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",
-,Other parties: COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899) → COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899),
+,New document: Monadelphous - Tyden Power - Phase 1 determination (17 Nov 2026),
+~ IPLiving - Springwood Living Group,MN-01126,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ipliving-springwood-living-group
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 17 Nov 2026,
+,New document: IPLiving - Springwood Living Group (17 Nov 2026),
+~ CVS Group – Karrinyup Small Animal Hospital,MN-01127,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvs-group-%E2%80%93-karrinyup-small-animal-hospital
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,New document: CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination (17 Nov 2026),
+~ Hammondcare - Anglican Community Services' Support at Home business,MN-85038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
+,Acquirer(s): HAMMONDCARE (ABN 48 000 026 219) → HAMMONDCARE; ABN - (ABN 48 000 026 219),
+,Target(s) / vendor(s): ANGLICAN COMMUNITY SERVICES (ABN 39 922 848 563) → ANGLICAN COMMUNITY SERVICES; ABN - (ABN 39 922 848 563),
+,Other parties: HAMMONDCARE HEALTH AND HOSPITALS LIMITED (ABN 72 074 354 028) → HAMMONDCARE HEALTH AND HOSPITALS LIMITED; ABN - (ABN 72 074 354 028),
+~ Karmo - Simplr,MN-15030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmo-simplr
+,Acquirer(s): KARMO HOLDINGS PTY LTD (ABN 93 667 511 480) → KARMO HOLDINGS PTY LTD; ABN - (ABN 93 667 511 480),
+,Target(s) / vendor(s): EAGERS AUTOMOTIVE LIMITED (ABN 87 009 680 013); SUBMO PTY LTD (ABN 19 637 015 457) → EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013); SUBMO PTY LTD; ABN - (ABN 19 637 015 457),
+~ RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy,WA-80036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rct-solutions-gmbh-w%C3%A4rtsil%C3%A4-energy-storage-finland-oy
+,Other parties: WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583) → WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583),
+~ Monadelphous - Tyden Power,WA-15037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power
+,Acquirer(s): MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547) → MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547),
+,Target(s) / vendor(s): TYDEN POWER PTY. LIMITED (ABN 75 612 521 212) → TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Pemba – Bio101 (WA-85066),Waiver added to the register,18 Nov 2026 01:50 AEDT
+"ForHealth – Mackay Family Medical Practice, Qld (WA-45040)",Waiver added to the register,18 Nov 2026 01:50 AEDT
+Emera – ATCO and Canadian Utilities (WA-40053),Waiver added to the register,18 Nov 2026 01:50 AEDT
+Monadelphous - Tyden Power (MN-75065),Status: Under assessment → Assessment completed,18 Nov 2026 01:50 AEDT
+Monadelphous - Tyden Power (MN-75065),ACCC determination: (blank) → Approved,18 Nov 2026 01:50 AEDT
+Monadelphous - Tyden Power (MN-75065),Determination published: (blank) → 17 Nov 2026,18 Nov 2026 01:50 AEDT
+Monadelphous - Tyden Power (MN-75065),New document: Monadelphous - Tyden Power - Phase 1 determination (17 Nov 2026),18 Nov 2026 01:50 AEDT
+Tetra Tech - Pitt & Sherry (WA-20051),Waiver added to the register,18 Nov 2026 01:50 AEDT
+Equans – Credible Audio Visual Solutions (WA-80054),Waiver added to the register,18 Nov 2026 01:50 AEDT
+IPLiving - Springwood Living Group (MN-01126),Status: Under assessment → Assessment completed,18 Nov 2026 01:50 AEDT
+IPLiving - Springwood Living Group (MN-01126),ACCC determination: (blank) → Approved,18 Nov 2026 01:50 AEDT
+IPLiving - Springwood Living Group (MN-01126),Determination published: (blank) → 17 Nov 2026,18 Nov 2026 01:50 AEDT
+IPLiving - Springwood Living Group (MN-01126),New document: IPLiving - Springwood Living Group (17 Nov 2026),18 Nov 2026 01:50 AEDT
+Foresight Group – Kinetic (WA-55044),Waiver added to the register,18 Nov 2026 01:50 AEDT
+Waveconn - acquisition of certain Optus towers and sites (WA-80048),Waiver added to the register,18 Nov 2026 01:50 AEDT
+CVS Group – Karrinyup Small Animal Hospital (MN-01127),Status: Under assessment → Assessment completed,18 Nov 2026 01:50 AEDT
+CVS Group – Karrinyup Small Animal Hospital (MN-01127),ACCC determination: (blank) → Approved,18 Nov 2026 01:50 AEDT
+CVS Group – Karrinyup Small Animal Hospital (MN-01127),New document: CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination (17 Nov 2026),18 Nov 2026 01:50 AEDT
+Hammondcare - Anglican Community Services' Support at Home business (MN-85038),Acquirer(s): HAMMONDCARE (ABN 48 000 026 219) → HAMMONDCARE; ABN - (ABN 48 000 026 219),18 Nov 2026 01:50 AEDT
+Hammondcare - Anglican Community Services' Support at Home business (MN-85038),Target(s) / vendor(s): ANGLICAN COMMUNITY SERVICES (ABN 39 922 848 563) → ANGLICAN COMMUNITY SERVICES; ABN - (ABN 39 922 848 563),18 Nov 2026 01:50 AEDT
+Hammondcare - Anglican Community Services' Support at Home business (MN-85038),Other parties: HAMMONDCARE HEALTH AND HOSPITALS LIMITED (ABN 72 074 354 028) → HAMMONDCARE HEALTH AND HOSPITALS LIMITED; ABN - (ABN 72 074 354 028),18 Nov 2026 01:50 AEDT
+Karmo - Simplr (MN-15030),Acquirer(s): KARMO HOLDINGS PTY LTD (ABN 93 667 511 480) → KARMO HOLDINGS PTY LTD; ABN - (ABN 93 667 511 480),18 Nov 2026 01:50 AEDT
+Karmo - Simplr (MN-15030),Target(s) / vendor(s): EAGERS AUTOMOTIVE LIMITED (ABN 87 009 680 013); SUBMO PTY LTD (ABN 19 637 015 457) → EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013); SUBMO PTY LTD; ABN - (ABN 19 637 015 457),18 Nov 2026 01:50 AEDT
+RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy (WA-80036),Other parties: WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583) → WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583),18 Nov 2026 01:50 AEDT
+Monadelphous - Tyden Power (WA-15037),Acquirer(s): MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547) → MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547),18 Nov 2026 01:50 AEDT
+Monadelphous - Tyden Power (WA-15037),Target(s) / vendor(s): TYDEN POWER PTY. LIMITED (ABN 75 612 521 212) → TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212),18 Nov 2026 01:50 AEDT
 NYK - NS United (MN-15043),Status: Under assessment → Assessment completed,17 Nov 2026 15:08 AEDT
 NYK - NS United (MN-15043),ACCC determination: (blank) → Approved,17 Nov 2026 15:08 AEDT
 NYK - NS United (MN-15043),Determination published: (blank) → 17 Nov 2026,17 Nov 2026 15:08 AEDT
@@ -182,25 +215,3 @@ SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmenta
 "Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW) (MN-50035)",Acquirer(s): OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999) → OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999),11 Nov 2026 12:27 AEDT
 "Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW) (MN-50035)",Target(s) / vendor(s): Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney → Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney,11 Nov 2026 12:27 AEDT
 Insurance Australia Group – RAC Insurance (MN-65005),New document: Summary of Public Benefit Assessment (10 Nov 2026),11 Nov 2026 12:27 AEDT
-Lactalis – Saputo Dairy UK (MN-45041),Notification added to the register,11 Nov 2026 00:43 AEDT
-"Coles – supermarket site in Rainbow Beach, NSW (MN-25062)",Notification added to the register,11 Nov 2026 00:43 AEDT
-Blackbird Ventures – Baseten Labs (WA-60061),Waiver added to the register,11 Nov 2026 00:43 AEDT
-29 North – additional interest in Royal Foods (WA-01123),Waiver added to the register,11 Nov 2026 00:43 AEDT
-WDDP Consortium – Wambo Cattle Company (WA-85061),Waiver added to the register,11 Nov 2026 00:43 AEDT
-STRABAG – KEE Surfacing (WA-70043),Waiver added to the register,11 Nov 2026 00:43 AEDT
-Rexel – Genuine Cable Group (WA-70046),Waiver added to the register,11 Nov 2026 00:43 AEDT
-ABP – investments in Octopus Australia Sustainable Investments Fund (WA-70048),Waiver added to the register,11 Nov 2026 00:43 AEDT
-SoftBank – ABB Robotics (WA-45035),Waiver added to the register,11 Nov 2026 00:43 AEDT
-Built Living joint venture – Human Urban (WA-40051),Waiver added to the register,11 Nov 2026 00:43 AEDT
-Funds managed by New Forests – Forestry plantations of AKD (MN-85053),Status: Under assessment → Assessment completed,11 Nov 2026 00:43 AEDT
-Funds managed by New Forests – Forestry plantations of AKD (MN-85053),ACCC determination: (blank) → Approved,11 Nov 2026 00:43 AEDT
-Funds managed by New Forests – Forestry plantations of AKD (MN-85053),Determination published: (blank) → 10 Nov 2026,11 Nov 2026 00:43 AEDT
-Funds managed by New Forests – Forestry plantations of AKD (MN-85053),New document: New Forests - AKD - Phase 1 Determination (10 Nov 2026),11 Nov 2026 00:43 AEDT
-"Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson) (WA-70044)",Waiver added to the register,11 Nov 2026 00:43 AEDT
-Blackstone - Technology Service Corporation (WA-95039),Target(s) / vendor(s): Technology Service Corporation (ABN 74 617 767 307) → Technology Service Corporation; ABN - (ABN 74 617 767 307),11 Nov 2026 00:43 AEDT
-Respect Group – Proserpine Nursing Home (WA-50036),Acquirer(s): RESPECT GROUP LIMITED (ABN 74 121 263 545) → RESPECT GROUP LIMITED; ABN - (ABN 74 121 263 545),11 Nov 2026 00:43 AEDT
-Respect Group – Proserpine Nursing Home (WA-50036),Target(s) / vendor(s): PROSERPINE NURSING HOME INC (ABN 26 150 144 841) → PROSERPINE NURSING HOME INC; ABN - (ABN 26 150 144 841),11 Nov 2026 00:43 AEDT
-Eldridge – Ausenco (WA-25043),Target(s) / vendor(s): AUSENCO PTY LTD (ABN 31 114 541 114); Resource Capital Fund VI L.P → AUSENCO PTY LTD; ABN - (ABN 31 114 541 114); Resource Capital Fund VI L.P,11 Nov 2026 00:43 AEDT
-Incubeta - Datisan (MN-05043),Acquirer(s): INCUBETA AUSTRALIA PTY LIMITED (ABN 54 138 482 916) → INCUBETA AUSTRALIA PTY LIMITED; ABN - (ABN 54 138 482 916),11 Nov 2026 00:43 AEDT
-Incubeta - Datisan (MN-05043),Target(s) / vendor(s): MAVERICK DATA GROUP PTY LTD (ABN 16 141 779 893); DATISAN PTY LTD (ABN 73 622 804 228) → MAVERICK DATA GROUP PTY LTD; ABN - (ABN 16 141 779 893); DATISAN PTY LTD; ABN - (ABN 73 622 804 228),11 Nov 2026 00:43 AEDT
-Incubeta - Datisan (MN-05043),Other parties: XPON TECHNOLOGIES GROUP LIMITED (ABN 37 635 810 258) → XPON TECHNOLOGIES GROUP LIMITED; ABN - (ABN 37 635 810 258),11 Nov 2026 00:43 AEDT
