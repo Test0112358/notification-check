@@ -1,78 +1,23 @@
 {
-  "run_utc": "2026-11-16T08:32:27Z",
-  "run_canberra": "16 Nov 2026 19:32 AEDT",
-  "new_count": 9,
-  "changed_count": 4,
+  "run_utc": "2026-11-17T04:08:47Z",
+  "run_canberra": "17 Nov 2026 15:08 AEDT",
+  "new_count": 0,
+  "changed_count": 8,
   "cosmetic_only_count": 0,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "ampol-%E2%80%93-evie-networks",
-      "title": "Ampol – Evie Networks",
-      "case_number": "MN-30044",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ampol-%E2%80%93-evie-networks"
-    },
-    {
-      "slug": "inpex-%E2%80%93-further-interest-in-bonaparte-ccs-jv",
-      "title": "INPEX – further interest in Bonaparte CCS JV",
-      "case_number": "WA-15056",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/inpex-%E2%80%93-further-interest-in-bonaparte-ccs-jv"
-    },
-    {
-      "slug": "psp-%E2%80%93-interest-in-amp-grapes-investments-limited",
-      "title": "PSP – interest in AMP Grapes Investments Limited",
-      "case_number": "WA-45039",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-%E2%80%93-interest-in-amp-grapes-investments-limited"
-    },
-    {
-      "slug": "oscars-group-assets-of-courthouse-hotel-and-kinselas-hotel-darlinghurst-nsw",
-      "title": "Oscars Group - assets of Courthouse Hotel and Kinselas Hotel, Darlinghurst, NSW",
-      "case_number": "WA-20049",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oscars-group-assets-of-courthouse-hotel-and-kinselas-hotel-darlinghurst-nsw"
-    },
-    {
-      "slug": "russell-investment-group-%E2%80%93-flag-index-plus-fund-v",
-      "title": "Russell Investment Group – Flag Index Plus Fund V",
-      "case_number": "WA-40052",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/russell-investment-group-%E2%80%93-flag-index-plus-fund-v"
-    },
-    {
-      "slug": "volaris-group-%E2%80%93-spinifexit",
-      "title": "Volaris Group – SpinifexIT",
-      "case_number": "WA-25061",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volaris-group-%E2%80%93-spinifexit"
-    },
-    {
-      "slug": "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
-      "title": "Plenary – Ground lease for delivery of the Gabba entertainment and housing precinct project in Brisbane, QLD",
-      "case_number": "WA-05059",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld"
-    },
-    {
-      "slug": "gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets",
-      "title": "Gold Fields – BHP Nickel West (Kambalda exploration assets)",
-      "case_number": "WA-05057",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets"
-    },
-    {
-      "slug": "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
-      "title": "Gold Fields - BHP Nickel West (Kambalda nickel concentrator)",
-      "case_number": "WA-95047",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-bhp-nickel-west-kambalda-nickel-concentrator"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
-      "title": "Koch – 50% interest in certain assets of OCP Nutricrops",
-      "case_number": "MN-10039",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
+      "slug": "nyk-ns-united",
+      "title": "NYK - NS United",
+      "case_number": "MN-15043",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united",
       "material": true,
       "summary": [
         "Status: Under assessment → Assessment completed",
         "ACCC determination: (blank) → Approved",
-        "Determination published: (blank) → 16 Nov 2026",
-        "New document: Koch – 50% interest in certain assets of OCP Nutricrops - Phase 1 determination (16 Nov 2026)"
+        "Determination published: (blank) → 17 Nov 2026",
+        "New document: NYK - NS United - Phase 1 determination (17 Nov 2026)"
       ],
       "changes": [
         {
@@ -90,13 +35,13 @@
         {
           "field": "determination_publication_date",
           "old": "",
-          "new": "16 November 2026",
+          "new": "17 November 2026",
           "material": true
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-10-19T18:05:04+11:00",
-          "new": "2026-11-16T14:16:05+11:00",
+          "old": "2026-10-27T17:02:09+11:00",
+          "new": "2026-11-17T12:59:40+11:00",
           "material": false
         },
         {
@@ -108,96 +53,196 @@
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '16 Nov 2026', 'description': 'Koch – 50% interest in certain assets of OCP Nutricrops - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Koch%20-%2050%25%20interest%20in%20certain%20assets%20of%20OCP%20Nutricrops%20-%20Phase%201%20determination.pdf'}]",
+          "new": "[{'date': '17 Nov 2026', 'description': 'NYK - NS United - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/NYK%20-%20NS%20United%20-%20Phase%201%20determination.pdf'}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "aware-real-estate-%E2%80%93-100-market-street",
-      "title": "Aware Real Estate – 100 Market Street",
-      "case_number": "WA-60037",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-real-estate-%E2%80%93-100-market-street",
+      "slug": "bp-bp-gateway",
+      "title": "bp - bp Gateway",
+      "case_number": "MN-95033",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
       "material": true,
       "summary": [
-        "Acquirer(s): The Trustee for ALTIS ARET SUB TRUST 34 (ABN 18 992 400 810) → The Trustee for ALTIS ARET SUB TRUST 34; ABN - (ABN 18 992 400 810)",
-        "Target(s) / vendor(s): The Trustee for Market Mid Trust (ABN 84 274 975 190); The Trustee for Market Sub Trust (ABN 55 277 202 916); MARKET SU… → The Trustee for Market Mid Trust; ABN - (ABN 84 274 975 190); The Trustee for Market Sub Trust; ABN - (ABN 55 277 202 9…",
-        "Other parties: AWARE SUPER PTY LTD (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD (ABN 77 653 940 295); Link Real Estate I… → AWARE SUPER PTY LTD; ABN - (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD; ABN - (ABN 77 653 940 295); Link…"
+        "Acquirer(s): BP AUSTRALIA PTY LTD (ABN 53 004 085 616) → BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616)",
+        "Target(s) / vendor(s): M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040) → M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040)",
+        "Other parties: BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498) → BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "The Trustee for ALTIS ARET SUB TRUST 34 (ABN 18 992 400 810)",
-          "new": "The Trustee for ALTIS ARET SUB TRUST 34; ABN - (ABN 18 992 400 810)",
+          "old": "BP AUSTRALIA PTY LTD (ABN 53 004 085 616)",
+          "new": "BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "The Trustee for Market Mid Trust (ABN 84 274 975 190); The Trustee for Market Sub Trust (ABN 55 277 202 916); MARKET SUB TC PTY LTD (ABN 45 633 931 094); The Trustee for Link Australia Holdings Trust (ABN 63 692 877 807); MARKET MID PTY LTD (ABN 11 638 066 887); Joy Success Developments Limited (British Virgin Islands Entity Number - 2018891)",
-          "new": "The Trustee for Market Mid Trust; ABN - (ABN 84 274 975 190); The Trustee for Market Sub Trust; ABN - (ABN 55 277 202 916); MARKET SUB TC PTY LTD; ABN - (ABN 45 633 931 094); The Trustee for Link Australia Holdings Trust; ABN - (ABN 63 692 877 807); MARKET MID PTY LTD; ABN - (ABN 11 638 066 887); Joy Success Developments Limited (British Virgin Islands Entity Number - 2018891)",
+          "old": "M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040)",
+          "new": "M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "AWARE SUPER PTY LTD (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD (ABN 77 653 940 295); Link Real Estate Investment Trust (Business Registration Number (Hong Kong) - 56061458)",
-          "new": "AWARE SUPER PTY LTD; ABN - (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD; ABN - (ABN 77 653 940 295); Link Real Estate Investment Trust (Business Registration Number (Hong Kong) - 56061458)",
+          "old": "BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498)",
+          "new": "BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498)",
           "material": true
         }
       ]
     },
     {
-      "slug": "regis-%E2%80%93-home-care-business-of-royal-freemasons",
-      "title": "Regis – Home Care Business of Royal Freemasons",
-      "case_number": "WA-15036",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/regis-%E2%80%93-home-care-business-of-royal-freemasons",
+      "slug": "hitech-group-australia-hudson-global-resources",
+      "title": "HiTech Group Australia - Hudson Global Resources",
+      "case_number": "MN-95038",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
       "material": true,
       "summary": [
-        "Acquirer(s): REGIS AGED CARE PTY LTD (ABN 75 125 223 645) → REGIS AGED CARE PTY LTD; ABN - (ABN 75 125 223 645)",
-        "Target(s) / vendor(s): ROYAL FREEMASONS LTD (ABN 52 082 106 821) → ROYAL FREEMASONS LTD; ABN - (ABN 52 082 106 821)"
+        "Acquirer(s): HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878) → HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878)",
+        "Target(s) / vendor(s): Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762) → Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "REGIS AGED CARE PTY LTD (ABN 75 125 223 645)",
-          "new": "REGIS AGED CARE PTY LTD; ABN - (ABN 75 125 223 645)",
+          "old": "HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878)",
+          "new": "HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "ROYAL FREEMASONS LTD (ABN 52 082 106 821)",
-          "new": "ROYAL FREEMASONS LTD; ABN - (ABN 52 082 106 821)",
+          "old": "Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762)",
+          "new": "Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762)",
           "material": true
         }
       ]
     },
     {
-      "slug": "merivale-%E2%80%93-the-sackville-hotel",
-      "title": "Merivale – The Sackville Hotel",
-      "case_number": "MN-35033",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merivale-%E2%80%93-the-sackville-hotel",
+      "slug": "australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
+      "title": "Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly",
+      "case_number": "WA-80037",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
       "material": true,
       "summary": [
-        "Acquirer(s): JH 7 PROPERTIES PTY LTD (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED (ABN 29 105 332 652) → JH 7 PROPERTIES PTY LTD; ABN - (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED; ABN - (ABN 29 105 332 652)",
-        "Target(s) / vendor(s): AMALGAMATED HOTELS PTY LIMITED (ABN 82 009 604 719) → AMALGAMATED HOTELS PTY LIMITED; ABN - (ABN 82 009 604 719)",
-        "Other parties: HEMMES PROPERTY PTY LIMITED (ABN 87 105 332 518) → HEMMES PROPERTY PTY LIMITED; ABN - (ABN 87 105 332 518)"
+        "Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
+        "Target(s) / vendor(s): FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56… → FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE P…"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "JH 7 PROPERTIES PTY LTD (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED (ABN 29 105 332 652)",
-          "new": "JH 7 PROPERTIES PTY LTD; ABN - (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED; ABN - (ABN 29 105 332 652)",
+          "old": "AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299)",
+          "new": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "AMALGAMATED HOTELS PTY LIMITED (ABN 82 009 604 719)",
-          "new": "AMALGAMATED HOTELS PTY LIMITED; ABN - (ABN 82 009 604 719)",
+          "old": "FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56 161 759 959)",
+          "new": "FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD; ABN - (ABN 56 161 759 959)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "black-rhino-club-hotel-motel-roma",
+      "title": "Black Rhino - Club Hotel Motel Roma",
+      "case_number": "MN-90008",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+      "material": true,
+      "summary": [
+        "Acquirer(s): The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187) → The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21…",
+        "Target(s) / vendor(s): SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845) → SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506…"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187)",
+          "new": "The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21 693 060 187)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845)",
+          "new": "SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506 126 845)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+      "title": "Coles – supermarket site in Lidcombe (NSW)",
+      "case_number": "MN-50019",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+      "material": true,
+      "summary": [
+        "Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+        "Target(s) / vendor(s): BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710) → BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708)",
+          "new": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710)",
+          "new": "BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "logic-technologies-ace-communication-distributors",
+      "title": "Logic Technologies - Ace Communication Distributors",
+      "case_number": "MN-95021",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+      "material": true,
+      "summary": [
+        "Acquirer(s): CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084) → CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084)",
+        "Target(s) / vendor(s): ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011) → ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084)",
+          "new": "CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011)",
+          "new": "ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "vsa-sprayline",
+      "title": "VSA - SprayLine",
+      "case_number": "MN-30022",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline",
+      "material": true,
+      "summary": [
+        "Acquirer(s): VSA ROADS PTY LTD (ABN 18 136 665 935) → VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935)",
+        "Target(s) / vendor(s): Head, Transport for Victoria (ABN 97 481 088 949) → Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",
+        "Other parties: COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899) → COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "VSA ROADS PTY LTD (ABN 18 136 665 935)",
+          "new": "VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "Head, Transport for Victoria (ABN 97 481 088 949)",
+          "new": "Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "HEMMES PROPERTY PTY LIMITED (ABN 87 105 332 518)",
-          "new": "HEMMES PROPERTY PTY LIMITED; ABN - (ABN 87 105 332 518)",
+          "old": "COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899)",
+          "new": "COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899)",
           "material": true
         }
       ]
@@ -206,121 +251,17 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
-      "title": "Koch – 50% interest in certain assets of OCP Nutricrops",
-      "case_number": "MN-10039",
+      "slug": "nyk-ns-united",
+      "title": "NYK - NS United",
+      "case_number": "MN-15043",
       "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
-      "date": "16 Nov 2026",
-      "description": "Koch – 50% interest in certain assets of OCP Nutricrops - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Koch%20-%2050%25%20interest%20in%20certain%20assets%20of%20OCP%20Nutricrops%20-%20Phase%201%20determination.pdf",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united",
+      "date": "17 Nov 2026",
+      "description": "NYK - NS United - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/NYK%20-%20NS%20United%20-%20Phase%201%20determination.pdf",
       "category": "Phase 1 determination",
       "priority": false,
       "new_matter": false
-    },
-    {
-      "slug": "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
-      "title": "Gold Fields - BHP Nickel West (Kambalda nickel concentrator)",
-      "case_number": "WA-95047",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Gold%20Fields%20%E2%80%93%20BHP%20Nickel%20West%20%28Kambalda%20nickel%20concentrator%29%20%28WA-95047%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets",
-      "title": "Gold Fields – BHP Nickel West (Kambalda exploration assets)",
-      "case_number": "WA-05057",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Gold%20Fields%20%E2%80%93%20BHP%20Nickel%20West%20%28Kambalda%20exploration%20assets%29%20%28WA-05057%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "inpex-%E2%80%93-further-interest-in-bonaparte-ccs-jv",
-      "title": "INPEX – further interest in Bonaparte CCS JV",
-      "case_number": "WA-15056",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/inpex-%E2%80%93-further-interest-in-bonaparte-ccs-jv",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/INPEX%20%E2%80%93%20additional%20interest%20in%20Bonaparte%20CCS%20JV%20%28WA-15056%29%20-%20Notification%20waiver%20determination%20-%2013%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "oscars-group-assets-of-courthouse-hotel-and-kinselas-hotel-darlinghurst-nsw",
-      "title": "Oscars Group - assets of Courthouse Hotel and Kinselas Hotel, Darlinghurst, NSW",
-      "case_number": "WA-20049",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/oscars-group-assets-of-courthouse-hotel-and-kinselas-hotel-darlinghurst-nsw",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Oscars%20Group%20-%20assets%20of%20the%20Courthouse%20Hotel%20and%20Kinselas%20Hotel%2C%20Darlinghurst%2C%20NSW%20%28WA-20049%29%20-%20Notification%20waiver%20determination%20-%2013%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "psp-%E2%80%93-interest-in-amp-grapes-investments-limited",
-      "title": "PSP – interest in AMP Grapes Investments Limited",
-      "case_number": "WA-45039",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/psp-%E2%80%93-interest-in-amp-grapes-investments-limited",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/PSP%20%E2%80%93%20interest%20in%20AMP%20Grapes%20Investments%20Limited%20%28WA-45039%29%20-%20Notification%20waiver%20determination%20-%2015%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
-      "title": "Plenary – Ground lease for delivery of the Gabba entertainment and housing precinct project in Brisbane, QLD",
-      "case_number": "WA-05059",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Plenary%20-%20Ground%20lease%20for%20delivery%20of%20the%20Gabba%20entertainment%20and%20housing%20precinct%20project%20in%20Brisbane%2C%20QLD%20%28WA-05059%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "russell-investment-group-%E2%80%93-flag-index-plus-fund-v",
-      "title": "Russell Investment Group – Flag Index Plus Fund V",
-      "case_number": "WA-40052",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/russell-investment-group-%E2%80%93-flag-index-plus-fund-v",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Russell%20Investment%20Group%20%E2%80%93%20Flag%20Index%20Plus%20Fund%20V%20%28WA-40052%29%20-%20Notification%20waiver%20determination%20-%2013%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "volaris-group-%E2%80%93-spinifexit",
-      "title": "Volaris Group – SpinifexIT",
-      "case_number": "WA-25061",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/volaris-group-%E2%80%93-spinifexit",
-      "date": "16 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Volaris%20Group%20%E2%80%93%20SpinifexIT%20%28WA-25061%29%20-%20Notification%20waiver%20determination%20-%2015%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
     }
   ]
 }

@@ -40351,5 +40351,225 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "nyk-ns-united",
+    "title": "NYK - NS United",
+    "case_number": "MN-15043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nyk-ns-united",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "17 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-27T17:02:09+11:00",
+        "new": "2026-11-17T12:59:40+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '17 Nov 2026', 'description': 'NYK - NS United - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/NYK%20-%20NS%20United%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "bp-bp-gateway",
+    "title": "bp - bp Gateway",
+    "case_number": "MN-95033",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/bp-bp-gateway",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "BP AUSTRALIA PTY LTD (ABN 53 004 085 616)",
+        "new": "BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040)",
+        "new": "M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498)",
+        "new": "BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "hitech-group-australia-hudson-global-resources",
+    "title": "HiTech Group Australia - Hudson Global Resources",
+    "case_number": "MN-95038",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hitech-group-australia-hudson-global-resources",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878)",
+        "new": "HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762)",
+        "new": "Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
+    "title": "Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly",
+    "case_number": "WA-80037",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-riverland-bar-the-boatbuilders-yard-and-general-assembly",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299)",
+        "new": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56 161 759 959)",
+        "new": "FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD; ABN - (ABN 56 161 759 959)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "black-rhino-club-hotel-motel-roma",
+    "title": "Black Rhino - Club Hotel Motel Roma",
+    "case_number": "MN-90008",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/black-rhino-club-hotel-motel-roma",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187)",
+        "new": "The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21 693 060 187)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845)",
+        "new": "SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506 126 845)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+    "title": "Coles – supermarket site in Lidcombe (NSW)",
+    "case_number": "MN-50019",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-lidcombe-nsw",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708)",
+        "new": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710)",
+        "new": "BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "logic-technologies-ace-communication-distributors",
+    "title": "Logic Technologies - Ace Communication Distributors",
+    "case_number": "MN-95021",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/logic-technologies-ace-communication-distributors",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084)",
+        "new": "CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011)",
+        "new": "ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T04:08:47Z",
+    "slug": "vsa-sprayline",
+    "title": "VSA - SprayLine",
+    "case_number": "MN-30022",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vsa-sprayline",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "VSA ROADS PTY LTD (ABN 18 136 665 935)",
+        "new": "VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Head, Transport for Victoria (ABN 97 481 088 949)",
+        "new": "Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899)",
+        "new": "COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899)",
+        "material": true
+      }
+    ]
   }
 ]

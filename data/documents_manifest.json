@@ -1251,7 +1251,7 @@
     "description": "Black Rhino - Club Hotel - Remedy Offer - 9 July 2026",
     "kind": "Remedy offer",
     "status": "failed",
-    "attempts": 1,
+    "attempts": 2,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
