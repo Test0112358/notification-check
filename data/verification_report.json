@@ -1,5 +1,17 @@
 [
   {
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
+    "title": "Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD)",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "18 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
     "slug": "ampol-%E2%80%93-evie-networks",
     "title": "Ampol – Evie Networks",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ampol-%E2%80%93-evie-networks",
@@ -24,18 +36,6 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "layer": 1,
-    "rule": "PHASE1_PERIOD_TOO_SHORT",
-    "severity": "WARNING",
-    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
-    "field": "end_of_determination_period",
-    "stored_value": "12 Jan 2027",
-    "expected_or_found": "at least 30 business days after notification"
-  },
-  {
     "slug": "william-adams-clennett-hire",
     "title": "William Adams - Clennett Hire",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
@@ -48,9 +48,21 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "too-lost-%E2%80%93-xelon-entertainment",
-    "title": "Too Lost – Xelon Entertainment",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "amadeus-idemia-public-security",
+    "title": "Amadeus - Idemia Public Security",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -60,9 +72,9 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amadeus-idemia-public-security",
-    "title": "Amadeus - Idemia Public Security",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -526,5 +538,17 @@
     "field": "consultation_docs",
     "stored_value": "",
     "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_0.pdf"
+  },
+  {
+    "slug": "peter-warren-wakeling-automotive-0",
+    "title": "Peter Warren - Wakeling Automotive",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/peter-warren-wakeling-automotive-0",
+    "layer": 1,
+    "rule": "DOCUMENT_DOWNLOAD_GAVE_UP",
+    "severity": "WARNING",
+    "detail": "Consultation document could not be downloaded after 2 attempts (403 Forbidden). Download it manually: https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf",
+    "field": "consultation_docs",
+    "stored_value": "",
+    "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf"
   }
 ]

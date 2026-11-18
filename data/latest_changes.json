@@ -1,178 +1,109 @@
 {
-  "run_utc": "2026-11-18T03:06:35Z",
-  "run_canberra": "18 Nov 2026 14:06 AEDT",
-  "new_count": 0,
-  "changed_count": 4,
-  "cosmetic_only_count": 2,
+  "run_utc": "2026-11-18T14:29:43Z",
+  "run_canberra": "19 Nov 2026 01:29 AEDT",
+  "new_count": 3,
+  "changed_count": 3,
+  "cosmetic_only_count": 0,
   "removed_count": 0,
-  "new_entries": [],
+  "new_entries": [
+    {
+      "slug": "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
+      "title": "Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD)",
+      "case_number": "MN-15054",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld"
+    },
+    {
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
+      "title": "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",
+      "case_number": "WA-01134",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act"
+    },
+    {
+      "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
+      "title": "Aware Super – Interest in Foresight Kinetic CV",
+      "case_number": "WA-20050",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv"
+    }
+  ],
   "changed_entries": [
     {
-      "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
-      "title": "Lactalis – Saputo Dairy UK",
-      "case_number": "MN-45041",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk-0",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 November 2026 via email to mergers@accc.gov.au with the title Submission re: Lactalis - Saputo Dairy UK. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Nov 2026 Closing date 17 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-17",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
-      "title": "Coles – supermarket site in Rainbow Beach, NSW",
-      "case_number": "MN-25062",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 November 2026 via email to mergers@accc.gov.au with the title Submission re: Coles – Rainbow Beach NSW. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Nov 2026 Closing date 17 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-17",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "4k-automotive-group-%E2%80%93-peninsula-motor-group",
-      "title": "4K Automotive Group – Peninsula Motor Group",
-      "case_number": "MN-20044",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/4k-automotive-group-%E2%80%93-peninsula-motor-group",
+      "slug": "redirect-holdings-echo-solve",
+      "title": "ReDirect Holdings - Echo Solve",
+      "case_number": "WA-20033",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve",
       "material": true,
       "summary": [
-        "Status: Under assessment → Assessment completed",
-        "ACCC determination: (blank) → Approved",
-        "Determination published: (blank) → 18 Nov 2026",
-        "New document: 4K Automotive Group - Peninsula Motor Group - Phase 1 determination (18 Nov 2026)"
-      ],
-      "changes": [
-        {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed",
-          "material": true
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved",
-          "material": true
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "18 November 2026",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-28T15:48:22+11:00",
-          "new": "2026-11-18T10:53:16+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": "",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '18 Nov 2026', 'description': '4K Automotive Group - Peninsula Motor Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/4K%20Automotive%20Group%20-%20Peninsula%20Motor%20Group%20-%20Phase%201%20determination.pdf'}]",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
-      "title": "Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",
-      "case_number": "WA-65032",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
-      "material": true,
-      "summary": [
-        "Acquirer(s): COLES GROUP LIMITED (ABN 11 004 089 936) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936)",
-        "Target(s) / vendor(s): Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968) → Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968)"
+        "Acquirer(s): REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908) → REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908)",
+        "Target(s) / vendor(s): NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190) → NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "COLES GROUP LIMITED (ABN 11 004 089 936)",
-          "new": "COLES GROUP LIMITED; ABN - (ABN 11 004 089 936)",
+          "old": "REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908)",
+          "new": "REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968)",
-          "new": "Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968)",
+          "old": "NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190)",
+          "new": "NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190)",
           "material": true
         }
       ]
     },
     {
-      "slug": "pine-australia-evolution-business-systems",
-      "title": "Pine Australia - Evolution Business Systems",
-      "case_number": "WA-45023",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems",
+      "slug": "genesis-minerals-%E2%80%93-vault-minerals",
+      "title": "Genesis Minerals – Vault Minerals",
+      "case_number": "WA-40036",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals",
       "material": true,
       "summary": [
-        "Acquirer(s): Pine Australia Holdings Pty Ltd (ACN 697 228 309) → Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309)",
-        "Target(s) / vendor(s): The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743) → The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 09…"
+        "Acquirer(s): GENESIS MINERALS LIMITED (ABN 72 124 772 041) → GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041)",
+        "Target(s) / vendor(s): VAULT MINERALS LIMITED (ABN 73 068 647 610) → VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "Pine Australia Holdings Pty Ltd (ACN 697 228 309)",
-          "new": "Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309)",
+          "old": "GENESIS MINERALS LIMITED (ABN 72 124 772 041)",
+          "new": "GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743)",
-          "new": "The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 097 484 743)",
+          "old": "VAULT MINERALS LIMITED (ABN 73 068 647 610)",
+          "new": "VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610)",
           "material": true
         }
       ]
     },
     {
-      "slug": "ironbark-paris-group",
-      "title": "Ironbark - Paris Group",
-      "case_number": "WA-75039",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group",
+      "slug": "grafton-motor-group-%E2%80%93-grafton-mazda",
+      "title": "Grafton Motor Group – Grafton Mazda",
+      "case_number": "WA-05045",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/grafton-motor-group-%E2%80%93-grafton-mazda",
       "material": true,
       "summary": [
-        "Acquirer(s): INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541) → INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541)",
-        "Target(s) / vendor(s): Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY… → Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS…"
+        "Acquirer(s): GTOWN MOTORS PTY LTD (ABN 49 696 167 996) → GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996)",
+        "Target(s) / vendor(s): KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695) → KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695)",
+        "Other parties: HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559) → HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541)",
-          "new": "INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541)",
+          "old": "GTOWN MOTORS PTY LTD (ABN 49 696 167 996)",
+          "new": "GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY LTD (ABN 96 120 807 614); PARIS FINANCIAL HOLDINGS PTY LTD (ABN 72 658 541 078); PARIS FINANCIAL EAST MELBOURNE PTY LTD (ABN 45 659 012 307)",
-          "new": "Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS FINANCIAL PTY LTD; ABN - (ABN 96 120 807 614); PARIS FINANCIAL HOLDINGS PTY LTD; ABN - (ABN 72 658 541 078); PARIS FINANCIAL EAST MELBOURNE PTY LTD; ABN - (ABN 45 659 012 307)",
+          "old": "KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695)",
+          "new": "KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695)",
+          "material": true
+        },
+        {
+          "field": "other_parties",
+          "old": "HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559)",
+          "new": "HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559)",
           "material": true
         }
       ]
@@ -181,17 +112,30 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "4k-automotive-group-%E2%80%93-peninsula-motor-group",
-      "title": "4K Automotive Group – Peninsula Motor Group",
-      "case_number": "MN-20044",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/4k-automotive-group-%E2%80%93-peninsula-motor-group",
+      "slug": "australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
+      "title": "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",
+      "case_number": "WA-01134",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
       "date": "18 Nov 2026",
-      "description": "4K Automotive Group - Peninsula Motor Group - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/4K%20Automotive%20Group%20-%20Peninsula%20Motor%20Group%20-%20Phase%201%20determination.pdf",
-      "category": "Phase 1 determination",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20the%20King%20O%E2%80%99Malley%E2%80%99s%20venue%20%28Canberra%20ACT%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
       "priority": false,
-      "new_matter": false
+      "new_matter": true
+    },
+    {
+      "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
+      "title": "Aware Super – Interest in Foresight Kinetic CV",
+      "case_number": "WA-20050",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
+      "date": "18 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Aware%20Super%20%E2%80%93%20Interest%20in%20the%20Foresight%20Kinetic%20CV%20SCSp%20%28WA-20050%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
     }
   ]
 }

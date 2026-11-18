@@ -41030,5 +41030,110 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T14:29:43Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
+    "title": "Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD)",
+    "case_number": "MN-15054",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-18T14:29:43Z",
+    "slug": "australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
+    "title": "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",
+    "case_number": "WA-01134",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-18T14:29:43Z",
+    "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
+    "title": "Aware Super – Interest in Foresight Kinetic CV",
+    "case_number": "WA-20050",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-18T14:29:43Z",
+    "slug": "redirect-holdings-echo-solve",
+    "title": "ReDirect Holdings - Echo Solve",
+    "case_number": "WA-20033",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908)",
+        "new": "REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190)",
+        "new": "NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T14:29:43Z",
+    "slug": "genesis-minerals-%E2%80%93-vault-minerals",
+    "title": "Genesis Minerals – Vault Minerals",
+    "case_number": "WA-40036",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "GENESIS MINERALS LIMITED (ABN 72 124 772 041)",
+        "new": "GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "VAULT MINERALS LIMITED (ABN 73 068 647 610)",
+        "new": "VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T14:29:43Z",
+    "slug": "grafton-motor-group-%E2%80%93-grafton-mazda",
+    "title": "Grafton Motor Group – Grafton Mazda",
+    "case_number": "WA-05045",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/grafton-motor-group-%E2%80%93-grafton-mazda",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "GTOWN MOTORS PTY LTD (ABN 49 696 167 996)",
+        "new": "GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695)",
+        "new": "KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559)",
+        "new": "HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559)",
+        "material": true
+      }
+    ]
   }
 ]

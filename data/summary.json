@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-11-18T03:09:47Z",
+  "generated_at_utc": "2026-11-18T14:32:05Z",
   "data_health": {
-    "last_success_utc": "2026-11-18T03:06:35Z",
+    "last_success_utc": "2026-11-18T14:29:43Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 55
+    "last_request_count": 37
   },
-  "total_entries": 865,
+  "total_entries": 868,
   "by_acquisition_status": {
-    "Under assessment": 36,
-    "Assessment completed": 824,
+    "Under assessment": 37,
+    "Assessment completed": 826,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 321,
-    "Waiver application": 535,
+    "Phase 1 - initial assessment": 322,
+    "Waiver application": 537,
     "Phase 2 - detailed assessment": 8,
     "Public benefit phase": 1
   },
   "by_type": {
-    "Notification": 330,
-    "Waiver": 535
+    "Notification": 331,
+    "Waiver": 537
   },
   "by_accc_determination": {
-    "Approved": 790,
+    "Approved": 792,
     "Not approved": 29,
     "Approved with conditions": 5
   },
@@ -33,33 +33,49 @@
       "title": "Kinetic - Tassielink",
       "case_number": "MN-75058",
       "end_of_determination_period": "25 Nov 2026",
-      "business_days_remaining": 5,
-      "day_of_period": "Day 35 of 40"
+      "business_days_remaining": 4,
+      "day_of_period": "Day 36 of 40"
     },
     {
       "slug": "novotech-agilex",
       "title": "Novotech - Agilex",
       "case_number": "MN-45032",
       "end_of_determination_period": "1 Dec 2026",
-      "business_days_remaining": 9,
-      "day_of_period": "Day 21 of 30"
+      "business_days_remaining": 8,
+      "day_of_period": "Day 22 of 30"
     },
     {
       "slug": "vetpartners-%E2%80%93-vetlove",
       "title": "VetPartners – VetLove",
       "case_number": "MN-75031",
       "end_of_determination_period": "1 Dec 2026",
-      "business_days_remaining": 9,
-      "day_of_period": "Day 28 of 37"
+      "business_days_remaining": 8,
+      "day_of_period": "Day 29 of 37"
+    },
+    {
+      "slug": "sun-pharma-organon",
+      "title": "Sun Pharma - Organon",
+      "case_number": "MN-35035",
+      "end_of_determination_period": "3 Dec 2026",
+      "business_days_remaining": 10,
+      "day_of_period": "Day 20 of 30"
+    },
+    {
+      "slug": "tabcorp-betmakers",
+      "title": "Tabcorp - BetMakers",
+      "case_number": "MN-20040",
+      "end_of_determination_period": "3 Dec 2026",
+      "business_days_remaining": 10,
+      "day_of_period": "Day 25 of 35"
     }
   ],
   "past_deadline_awaiting_publication": [],
   "consultations_closing_soon": [
     {
-      "slug": "eagers-zagame",
-      "title": "Eagers - Zagame",
-      "case_number": "MN-01133",
-      "closes": "2026-11-18",
+      "slug": "amadeus-idemia-public-security",
+      "title": "Amadeus - Idemia Public Security",
+      "case_number": "MN-60027",
+      "closes": "2026-11-19",
       "business_days_left": 0
     },
     {
@@ -67,54 +83,54 @@
       "title": "Too Lost – Xelon Entertainment",
       "case_number": "MN-65045",
       "closes": "2026-11-19",
-      "business_days_left": 1
-    },
-    {
-      "slug": "amadeus-idemia-public-security",
-      "title": "Amadeus - Idemia Public Security",
-      "case_number": "MN-60027",
-      "closes": "2026-11-19",
-      "business_days_left": 1
+      "business_days_left": 0
     },
     {
       "slug": "steadfast-axiom-insurance-brokers",
       "title": "Steadfast - Axiom Insurance Brokers",
       "case_number": "MN-25024",
       "closes": "2026-11-20",
-      "business_days_left": 2
-    },
-    {
-      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-      "case_number": "MN-25056",
-      "closes": "2026-11-20",
-      "business_days_left": 2
+      "business_days_left": 1
     },
     {
       "slug": "william-adams-clennett-hire",
       "title": "William Adams - Clennett Hire",
       "case_number": "MN-85063",
       "closes": "2026-11-20",
-      "business_days_left": 2
+      "business_days_left": 1
+    },
+    {
+      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+      "case_number": "MN-25056",
+      "closes": "2026-11-20",
+      "business_days_left": 1
     },
     {
       "slug": "ampol-%E2%80%93-evie-networks",
       "title": "Ampol – Evie Networks",
       "case_number": "MN-30044",
       "closes": "2026-11-23",
-      "business_days_left": 3
+      "business_days_left": 2
+    },
+    {
+      "slug": "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
+      "title": "Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD)",
+      "case_number": "MN-15054",
+      "closes": "2026-11-25",
+      "business_days_left": 4
     }
   ],
   "documents": {
     "downloaded": 127,
     "pending": 0,
-    "failed": 3,
-    "gave_up": 6
+    "failed": 2,
+    "gave_up": 7
   },
   "analytics": {
     "by_type": {
       "Notification": {
-        "matters": 330,
+        "matters": 331,
         "determined": 289,
         "approved": 282,
         "approved_with_conditions": 5,
@@ -127,9 +143,9 @@
         "slowest_business_days": 133
       },
       "Waiver": {
-        "matters": 535,
-        "determined": 535,
-        "approved": 508,
+        "matters": 537,
+        "determined": 537,
+        "approved": 510,
         "approved_with_conditions": 0,
         "not_approved": 27,
         "ceased": 0,
@@ -176,7 +192,7 @@
       {
         "year": 2026,
         "type": "Notification",
-        "filed": 317,
+        "filed": 318,
         "completed": 251,
         "determined": 251,
         "approved": 245,
@@ -192,10 +208,10 @@
       {
         "year": 2026,
         "type": "Waiver",
-        "filed": 535,
-        "completed": 535,
-        "determined": 535,
-        "approved": 508,
+        "filed": 537,
+        "completed": 537,
+        "determined": 537,
+        "approved": 510,
         "approved_with_conditions": 0,
         "not_approved": 27,
         "ceased": 0,
@@ -619,7 +635,7 @@
         "year": 2026,
         "month": 10,
         "type": "Waiver",
-        "filed": 57,
+        "filed": 59,
         "completed": 64,
         "determined": 64,
         "approved": 60,
@@ -636,7 +652,7 @@
         "year": 2026,
         "month": 11,
         "type": "Notification",
-        "filed": 16,
+        "filed": 17,
         "completed": 19,
         "determined": 19,
         "approved": 19,
@@ -654,15 +670,15 @@
         "month": 11,
         "type": "Waiver",
         "filed": 1,
-        "completed": 41,
-        "determined": 41,
-        "approved": 39,
+        "completed": 43,
+        "determined": 43,
+        "approved": 41,
         "approved_with_conditions": 0,
         "not_approved": 2,
         "ceased": 0,
-        "approval_rate_pct": 95.1,
+        "approval_rate_pct": 95.3,
         "median_business_days": 18,
-        "mean_business_days": 17.7,
+        "mean_business_days": 17.6,
         "fastest_business_days": 4,
         "slowest_business_days": 23
       }
@@ -670,15 +686,15 @@
     "by_sector": [
       {
         "sector": "Asset Management and Investment",
-        "matters": 222,
+        "matters": 223,
         "under_assessment": 12,
-        "determined": 210,
-        "approved": 206,
+        "determined": 211,
+        "approved": 207,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 0,
         "approval_rate_pct": 98.1,
-        "median_business_days": 16,
+        "median_business_days": 16.0,
         "mean_business_days": 15.7,
         "fastest_business_days": 4,
         "slowest_business_days": 26
@@ -730,8 +746,8 @@
       },
       {
         "sector": "Wholesale Trade",
-        "matters": 107,
-        "under_assessment": 8,
+        "matters": 108,
+        "under_assessment": 9,
         "determined": 98,
         "approved": 92,
         "approved_with_conditions": 2,
@@ -745,8 +761,8 @@
       },
       {
         "sector": "Property and Real Estate",
-        "matters": 80,
-        "under_assessment": 5,
+        "matters": 81,
+        "under_assessment": 6,
         "determined": 75,
         "approved": 69,
         "approved_with_conditions": 1,
@@ -775,16 +791,16 @@
       },
       {
         "sector": "Accommodation and Hospitality",
-        "matters": 65,
-        "under_assessment": 1,
-        "determined": 64,
-        "approved": 57,
+        "matters": 67,
+        "under_assessment": 2,
+        "determined": 65,
+        "approved": 58,
         "approved_with_conditions": 1,
         "not_approved": 6,
         "ceased": 0,
-        "approval_rate_pct": 90.6,
-        "median_business_days": 15.5,
-        "mean_business_days": 16.0,
+        "approval_rate_pct": 90.8,
+        "median_business_days": 15,
+        "mean_business_days": 15.9,
         "fastest_business_days": 5,
         "slowest_business_days": 56
       },
@@ -804,6 +820,21 @@
         "slowest_business_days": 28
       },
       {
+        "sector": "Supermarkets and Grocery Retail",
+        "matters": 49,
+        "under_assessment": 5,
+        "determined": 44,
+        "approved": 38,
+        "approved_with_conditions": 2,
+        "not_approved": 4,
+        "ceased": 0,
+        "approval_rate_pct": 90.9,
+        "median_business_days": 15.0,
+        "mean_business_days": 18.9,
+        "fastest_business_days": 5,
+        "slowest_business_days": 133
+      },
+      {
         "sector": "Other Services",
         "matters": 49,
         "under_assessment": 4,
@@ -817,21 +848,6 @@
         "mean_business_days": 16.1,
         "fastest_business_days": 3,
         "slowest_business_days": 38
-      },
-      {
-        "sector": "Supermarkets and Grocery Retail",
-        "matters": 48,
-        "under_assessment": 4,
-        "determined": 44,
-        "approved": 38,
-        "approved_with_conditions": 2,
-        "not_approved": 4,
-        "ceased": 0,
-        "approval_rate_pct": 90.9,
-        "median_business_days": 15.0,
-        "mean_business_days": 18.9,
-        "fastest_business_days": 5,
-        "slowest_business_days": 133
       },
       {
         "sector": "Retail Trade",
@@ -850,16 +866,16 @@
       },
       {
         "sector": "Transport and Logistics",
-        "matters": 47,
+        "matters": 48,
         "under_assessment": 2,
-        "determined": 44,
-        "approved": 40,
+        "determined": 45,
+        "approved": 41,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 1,
-        "approval_rate_pct": 90.9,
-        "median_business_days": 17.0,
-        "mean_business_days": 17.3,
+        "approval_rate_pct": 91.1,
+        "median_business_days": 17,
+        "mean_business_days": 17.4,
         "fastest_business_days": 5,
         "slowest_business_days": 49
       },
@@ -925,8 +941,8 @@
       },
       {
         "sector": "Food and Beverage Manufacturing",
-        "matters": 29,
-        "under_assessment": 3,
+        "matters": 30,
+        "under_assessment": 4,
         "determined": 26,
         "approved": 24,
         "approved_with_conditions": 0,
@@ -999,6 +1015,21 @@
         "slowest_business_days": 22
       },
       {
+        "sector": "Superannuation",
+        "matters": 19,
+        "under_assessment": 1,
+        "determined": 18,
+        "approved": 18,
+        "approved_with_conditions": 0,
+        "not_approved": 0,
+        "ceased": 0,
+        "approval_rate_pct": 100.0,
+        "median_business_days": 17.5,
+        "mean_business_days": 16.5,
+        "fastest_business_days": 9,
+        "slowest_business_days": 22
+      },
+      {
         "sector": "Social Assistance",
         "matters": 18,
         "under_assessment": 1,
@@ -1011,21 +1042,6 @@
         "median_business_days": 16,
         "mean_business_days": 15.5,
         "fastest_business_days": 6,
-        "slowest_business_days": 22
-      },
-      {
-        "sector": "Superannuation",
-        "matters": 18,
-        "under_assessment": 1,
-        "determined": 17,
-        "approved": 17,
-        "approved_with_conditions": 0,
-        "not_approved": 0,
-        "ceased": 0,
-        "approval_rate_pct": 100.0,
-        "median_business_days": 17,
-        "mean_business_days": 16.4,
-        "fastest_business_days": 9,
         "slowest_business_days": 22
       },
       {
@@ -1301,7 +1317,7 @@
     ],
     "by_stage": {
       "Phase 1 - initial assessment": {
-        "matters": 321,
+        "matters": 322,
         "determined": 286,
         "approved": 282,
         "approved_with_conditions": 4,

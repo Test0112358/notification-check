@@ -1,39 +1,50 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,18 Nov 2026 14:06 AEDT,Up to date
-Last run attempt,18 Nov 2026 14:06 AEDT,success
-HTTP requests used,55,
+Last successful update,19 Nov 2026 01:29 AEDT,Up to date
+Last run attempt,19 Nov 2026 01:29 AEDT,success
+HTTP requests used,37,
 ,,
-Total entries monitored,865,
-New entries this run,0,
-Changed entries this run,4,material changes only
+Total entries monitored,868,
+New entries this run,3,
+Changed entries this run,3,material changes only
 Removed entries this run,0,
-New decision documents,1,
+New decision documents,2,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (4),Change,URL
-~ 4K Automotive Group – Peninsula Motor Group,MN-20044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/4k-automotive-group-%E2%80%93-peninsula-motor-group
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 18 Nov 2026,
-,New document: 4K Automotive Group - Peninsula Motor Group - Phase 1 determination (18 Nov 2026),
-"~ Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",WA-65032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic
-,Acquirer(s): COLES GROUP LIMITED (ABN 11 004 089 936) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936),
-,Target(s) / vendor(s): Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968) → Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968),
-~ Pine Australia - Evolution Business Systems,WA-45023,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems
-,Acquirer(s): Pine Australia Holdings Pty Ltd (ACN 697 228 309) → Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309),
-,Target(s) / vendor(s): The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743) → The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 09…,
-~ Ironbark - Paris Group,WA-75039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group
-,Acquirer(s): INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541) → INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541),
-,Target(s) / vendor(s): Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY… → Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS…,
+NEW ENTRIES (3),Case Number,URL
++ Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD),MN-15054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld
+"+ Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",WA-01134,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act
++ Aware Super – Interest in Foresight Kinetic CV,WA-20050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv
+,,
+CHANGED ENTRIES (3),Change,URL
+~ ReDirect Holdings - Echo Solve,WA-20033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve
+,Acquirer(s): REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908) → REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908),
+,Target(s) / vendor(s): NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190) → NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190),
+~ Genesis Minerals – Vault Minerals,WA-40036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals
+,Acquirer(s): GENESIS MINERALS LIMITED (ABN 72 124 772 041) → GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041),
+,Target(s) / vendor(s): VAULT MINERALS LIMITED (ABN 73 068 647 610) → VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610),
+~ Grafton Motor Group – Grafton Mazda,WA-05045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/grafton-motor-group-%E2%80%93-grafton-mazda
+,Acquirer(s): GTOWN MOTORS PTY LTD (ABN 49 696 167 996) → GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996),
+,Target(s) / vendor(s): KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695) → KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695),
+,Other parties: HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559) → HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD) (MN-15054),Notification added to the register,19 Nov 2026 01:29 AEDT
+"Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT) (WA-01134)",Waiver added to the register,19 Nov 2026 01:29 AEDT
+Aware Super – Interest in Foresight Kinetic CV (WA-20050),Waiver added to the register,19 Nov 2026 01:29 AEDT
+ReDirect Holdings - Echo Solve (WA-20033),Acquirer(s): REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908) → REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908),19 Nov 2026 01:29 AEDT
+ReDirect Holdings - Echo Solve (WA-20033),Target(s) / vendor(s): NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190) → NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190),19 Nov 2026 01:29 AEDT
+Genesis Minerals – Vault Minerals (WA-40036),Acquirer(s): GENESIS MINERALS LIMITED (ABN 72 124 772 041) → GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041),19 Nov 2026 01:29 AEDT
+Genesis Minerals – Vault Minerals (WA-40036),Target(s) / vendor(s): VAULT MINERALS LIMITED (ABN 73 068 647 610) → VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610),19 Nov 2026 01:29 AEDT
+Grafton Motor Group – Grafton Mazda (WA-05045),Acquirer(s): GTOWN MOTORS PTY LTD (ABN 49 696 167 996) → GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996),19 Nov 2026 01:29 AEDT
+Grafton Motor Group – Grafton Mazda (WA-05045),Target(s) / vendor(s): KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695) → KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695),19 Nov 2026 01:29 AEDT
+Grafton Motor Group – Grafton Mazda (WA-05045),Other parties: HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559) → HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559),19 Nov 2026 01:29 AEDT
 4K Automotive Group – Peninsula Motor Group (MN-20044),Status: Under assessment → Assessment completed,18 Nov 2026 14:06 AEDT
 4K Automotive Group – Peninsula Motor Group (MN-20044),ACCC determination: (blank) → Approved,18 Nov 2026 14:06 AEDT
 4K Automotive Group – Peninsula Motor Group (MN-20044),Determination published: (blank) → 18 Nov 2026,18 Nov 2026 14:06 AEDT
@@ -188,12 +199,3 @@ Holcim Australia – Burdetts Group (MN-05044),Target(s) / vendor(s): Burdett Gr
 "Coles – supermarket site in Byron Bay, NSW (WA-30035)",Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),12 Nov 2026 13:28 AEDT
 "Coles – supermarket site in Byron Bay, NSW (WA-30035)",Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861),12 Nov 2026 13:28 AEDT
 "Coles – supermarket site in Byron Bay, NSW (WA-30035)",Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326),12 Nov 2026 13:28 AEDT
-Eagers - Zagame (MN-01133),Notification added to the register,11 Nov 2026 19:18 AEDT
-Amwins / Dragoneer / KKR Consortium – Steadfast (MN-25056), added to the register,11 Nov 2026 19:18 AEDT
-"Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Acquirer(s): VOPAK TERMINALS SYDNEY PTY LIMITED (ABN 67 004 754 750) → VOPAK TERMINALS SYDNEY PTY LIMITED; ABN - (ABN 67 004 754 750),11 Nov 2026 19:18 AEDT
-"Vopak Terminals Sydney – Leasehold interest in land at Port Botany, NSW (WA-90034)",Target(s) / vendor(s): PORT BOTANY OPERATIONS PTY LIMITED (ABN 16 161 204 342) → PORT BOTANY OPERATIONS PTY LIMITED; ABN - (ABN 16 161 204 342),11 Nov 2026 19:18 AEDT
-Supagas – Heeson Medical (MN-80027),Acquirer(s): Supagas Pty Limited (ABN 50 074 008 496) → Supagas Pty Limited; ABN - (ABN 50 074 008 496),11 Nov 2026 19:18 AEDT
-Supagas – Heeson Medical (MN-80027),Target(s) / vendor(s): Heeson Medical Pty Ltd (ABN 14 088 038 313); Jacobba Pty Ltd (ABN 20 088 038 340) → Heeson Medical Pty Ltd; ABN - (ABN 14 088 038 313); Jacobba Pty Ltd; ABN - (ABN 20 088 038 340),11 Nov 2026 19:18 AEDT
-Supagas – Heeson Medical (MN-80027),Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…,11 Nov 2026 19:18 AEDT
-Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions (WA-10029),Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…,11 Nov 2026 19:18 AEDT
-Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions (WA-10029),Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…,11 Nov 2026 19:18 AEDT
