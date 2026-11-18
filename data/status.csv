@@ -1,60 +1,49 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,18 Nov 2026 01:50 AEDT,Up to date
-Last run attempt,18 Nov 2026 01:50 AEDT,success
-HTTP requests used,38,
+Last successful update,18 Nov 2026 14:06 AEDT,Up to date
+Last run attempt,18 Nov 2026 14:06 AEDT,success
+HTTP requests used,55,
 ,,
 Total entries monitored,865,
-New entries this run,7,
-Changed entries this run,7,material changes only
+New entries this run,0,
+Changed entries this run,4,material changes only
 Removed entries this run,0,
-New decision documents,10,
+New decision documents,1,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ Pemba – Bio101,WA-85066,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-bio101
-"+ ForHealth – Mackay Family Medical Practice, Qld",WA-45040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/forhealth-%E2%80%93-mackay-family-medical-practice-qld
-+ Emera – ATCO and Canadian Utilities,WA-40053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emera-%E2%80%93-atco-and-canadian-utilities
-+ Tetra Tech - Pitt & Sherry,WA-20051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tetra-tech-pitt-sherry
-+ Equans – Credible Audio Visual Solutions,WA-80054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/equans-%E2%80%93-credible-audio-visual-solutions
-+ Foresight Group – Kinetic,WA-55044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/foresight-group-%E2%80%93-kinetic
-+ Waveconn - acquisition of certain Optus towers and sites,WA-80048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waveconn-acquisition-of-certain-optus-towers-and-sites
-,,
-CHANGED ENTRIES (7),Change,URL
-~ Monadelphous - Tyden Power,MN-75065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power-0
+CHANGED ENTRIES (4),Change,URL
+~ 4K Automotive Group – Peninsula Motor Group,MN-20044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/4k-automotive-group-%E2%80%93-peninsula-motor-group
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 17 Nov 2026,
-,New document: Monadelphous - Tyden Power - Phase 1 determination (17 Nov 2026),
-~ IPLiving - Springwood Living Group,MN-01126,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ipliving-springwood-living-group
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 17 Nov 2026,
-,New document: IPLiving - Springwood Living Group (17 Nov 2026),
-~ CVS Group – Karrinyup Small Animal Hospital,MN-01127,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvs-group-%E2%80%93-karrinyup-small-animal-hospital
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,New document: CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination (17 Nov 2026),
-~ Hammondcare - Anglican Community Services' Support at Home business,MN-85038,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hammondcare-anglican-community-services-support-at-home-business
-,Acquirer(s): HAMMONDCARE (ABN 48 000 026 219) → HAMMONDCARE; ABN - (ABN 48 000 026 219),
-,Target(s) / vendor(s): ANGLICAN COMMUNITY SERVICES (ABN 39 922 848 563) → ANGLICAN COMMUNITY SERVICES; ABN - (ABN 39 922 848 563),
-,Other parties: HAMMONDCARE HEALTH AND HOSPITALS LIMITED (ABN 72 074 354 028) → HAMMONDCARE HEALTH AND HOSPITALS LIMITED; ABN - (ABN 72 074 354 028),
-~ Karmo - Simplr,MN-15030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/karmo-simplr
-,Acquirer(s): KARMO HOLDINGS PTY LTD (ABN 93 667 511 480) → KARMO HOLDINGS PTY LTD; ABN - (ABN 93 667 511 480),
-,Target(s) / vendor(s): EAGERS AUTOMOTIVE LIMITED (ABN 87 009 680 013); SUBMO PTY LTD (ABN 19 637 015 457) → EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013); SUBMO PTY LTD; ABN - (ABN 19 637 015 457),
-~ RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy,WA-80036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/rct-solutions-gmbh-w%C3%A4rtsil%C3%A4-energy-storage-finland-oy
-,Other parties: WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583) → WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583),
-~ Monadelphous - Tyden Power,WA-15037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/monadelphous-tyden-power
-,Acquirer(s): MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547) → MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547),
-,Target(s) / vendor(s): TYDEN POWER PTY. LIMITED (ABN 75 612 521 212) → TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212),
+,Determination published: (blank) → 18 Nov 2026,
+,New document: 4K Automotive Group - Peninsula Motor Group - Phase 1 determination (18 Nov 2026),
+"~ Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",WA-65032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic
+,Acquirer(s): COLES GROUP LIMITED (ABN 11 004 089 936) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936),
+,Target(s) / vendor(s): Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968) → Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968),
+~ Pine Australia - Evolution Business Systems,WA-45023,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems
+,Acquirer(s): Pine Australia Holdings Pty Ltd (ACN 697 228 309) → Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309),
+,Target(s) / vendor(s): The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743) → The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 09…,
+~ Ironbark - Paris Group,WA-75039,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group
+,Acquirer(s): INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541) → INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541),
+,Target(s) / vendor(s): Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY… → Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS…,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+4K Automotive Group – Peninsula Motor Group (MN-20044),Status: Under assessment → Assessment completed,18 Nov 2026 14:06 AEDT
+4K Automotive Group – Peninsula Motor Group (MN-20044),ACCC determination: (blank) → Approved,18 Nov 2026 14:06 AEDT
+4K Automotive Group – Peninsula Motor Group (MN-20044),Determination published: (blank) → 18 Nov 2026,18 Nov 2026 14:06 AEDT
+4K Automotive Group – Peninsula Motor Group (MN-20044),New document: 4K Automotive Group - Peninsula Motor Group - Phase 1 determination (18 Nov 2026),18 Nov 2026 14:06 AEDT
+"Coles – expansion of supermarket located within Coles head office site in Docklands, VIC (WA-65032)",Acquirer(s): COLES GROUP LIMITED (ABN 11 004 089 936) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936),18 Nov 2026 14:06 AEDT
+"Coles – expansion of supermarket located within Coles head office site in Docklands, VIC (WA-65032)",Target(s) / vendor(s): Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968) → Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968),18 Nov 2026 14:06 AEDT
+Pine Australia - Evolution Business Systems (WA-45023),Acquirer(s): Pine Australia Holdings Pty Ltd (ACN 697 228 309) → Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309),18 Nov 2026 14:06 AEDT
+Pine Australia - Evolution Business Systems (WA-45023),Target(s) / vendor(s): The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743) → The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 09…,18 Nov 2026 14:06 AEDT
+Ironbark - Paris Group (WA-75039),Acquirer(s): INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541) → INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541),18 Nov 2026 14:06 AEDT
+Ironbark - Paris Group (WA-75039),Target(s) / vendor(s): Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY… → Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS…,18 Nov 2026 14:06 AEDT
 Pemba – Bio101 (WA-85066),Waiver added to the register,18 Nov 2026 01:50 AEDT
 "ForHealth – Mackay Family Medical Practice, Qld (WA-45040)",Waiver added to the register,18 Nov 2026 01:50 AEDT
 Emera – ATCO and Canadian Utilities (WA-40053),Waiver added to the register,18 Nov 2026 01:50 AEDT
@@ -208,10 +197,3 @@ Supagas – Heeson Medical (MN-80027),Target(s) / vendor(s): Heeson Medical Pty 
 Supagas – Heeson Medical (MN-80027),Other parties: NSC (Australia) Pty Ltd (ABN 71 607 111 268); Coregas Pty Ltd (ABN 32 001 255 312); Nippon Sanso Holdings Corporation (… → NSC (Australia) Pty Ltd; ABN - (ABN 71 607 111 268); Coregas Pty Ltd; ABN - (ABN 32 001 255 312); Nippon Sanso Holdings…,11 Nov 2026 19:18 AEDT
 Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions (WA-10029),Acquirer(s): Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED (ABN 4… → Wollemi Nominees 2 Pty Ltd atf WEG Australian Investment Trust; ACN - (ACN 698 066 009); REST NOMINEES NO.1 PTY LIMITED…,11 Nov 2026 19:18 AEDT
 Wollemi Nominees 2 Pty Ltd & Ors – Establishment of WEG Australian Investment Trust and related acquisitions (WA-10029),Target(s) / vendor(s): WOLLEMI ENERGY GROUP HOLDINGS PTY LTD (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trust No 1… → WOLLEMI ENERGY GROUP HOLDINGS PTY LTD; ABN - (ABN 17 687 250 871); Wollemi Nominees Pty Ltd atf Wollemi Investment Trus…,11 Nov 2026 19:18 AEDT
-Macquarie Global Infrastructure Fund - SERV (MN-75059),End of determination period: 18 Nov 2026 → 7 Dec 2026,11 Nov 2026 12:27 AEDT
-Macquarie Global Infrastructure Fund - SERV (MN-75059),New document: Timeline extended by 13 business days – following request by parties (10 Nov 2026),11 Nov 2026 12:27 AEDT
-SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology (WA-55034),Acquirer(s): SLR CONSULTING AUSTRALIA PTY LTD (ABN 29 001 584 612) → SLR CONSULTING AUSTRALIA PTY LTD; ABN - (ABN 29 001 584 612),11 Nov 2026 12:27 AEDT
-SLR Consulting Australia - Spectrum Ecology & Spatial and Millcrest Environmental Technology (WA-55034),Target(s) / vendor(s): Christopher Parker; SPECTRUM ECOLOGY PTY LTD (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounsey Inves… → Christopher Parker; SPECTRUM ECOLOGY PTY LTD; ABN - (ABN 68 615 115 243); Cameron Michael Mounsey as trustee for Mounse…,11 Nov 2026 12:27 AEDT
-"Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW) (MN-50035)",Acquirer(s): OHCA PROPERTY HOLDINGS PTY LTD (ABN 70 675 807 477); DPG SERVICES PTY LTD (ABN 38 090 007 999) → OHCA PROPERTY HOLDINGS PTY LTD; ABN - (ABN 70 675 807 477); DPG SERVICES PTY LTD; ABN - (ABN 38 090 007 999),11 Nov 2026 12:27 AEDT
-"Opal HealthCare - Canberra Nursing Home (Lidcombe, NSW) (MN-50035)",Target(s) / vendor(s): Michael Mooney; CLENDON CARE PTY LTD (ABN 65 001 584 827); Lynne Mooney → Michael Mooney; CLENDON CARE PTY LTD; ABN - (ABN 65 001 584 827); Lynne Mooney,11 Nov 2026 12:27 AEDT
-Insurance Australia Group – RAC Insurance (MN-65005),New document: Summary of Public Benefit Assessment (10 Nov 2026),11 Nov 2026 12:27 AEDT

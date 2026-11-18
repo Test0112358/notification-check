@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-11-17T14:52:10Z",
+  "generated_at_utc": "2026-11-18T03:09:47Z",
   "data_health": {
-    "last_success_utc": "2026-11-17T14:50:00Z",
+    "last_success_utc": "2026-11-18T03:06:35Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 38
+    "last_request_count": 55
   },
   "total_entries": 865,
   "by_acquisition_status": {
-    "Under assessment": 37,
-    "Assessment completed": 823,
+    "Under assessment": 36,
+    "Assessment completed": 824,
     "Assessment ceased": 5
   },
   "by_stage": {
@@ -23,7 +23,7 @@
     "Waiver": 535
   },
   "by_accc_determination": {
-    "Approved": 789,
+    "Approved": 790,
     "Not approved": 29,
     "Approved with conditions": 5
   },
@@ -63,16 +63,16 @@
       "business_days_left": 0
     },
     {
-      "slug": "amadeus-idemia-public-security",
-      "title": "Amadeus - Idemia Public Security",
-      "case_number": "MN-60027",
+      "slug": "too-lost-%E2%80%93-xelon-entertainment",
+      "title": "Too Lost – Xelon Entertainment",
+      "case_number": "MN-65045",
       "closes": "2026-11-19",
       "business_days_left": 1
     },
     {
-      "slug": "too-lost-%E2%80%93-xelon-entertainment",
-      "title": "Too Lost – Xelon Entertainment",
-      "case_number": "MN-65045",
+      "slug": "amadeus-idemia-public-security",
+      "title": "Amadeus - Idemia Public Security",
+      "case_number": "MN-60027",
       "closes": "2026-11-19",
       "business_days_left": 1
     },
@@ -84,16 +84,16 @@
       "business_days_left": 2
     },
     {
-      "slug": "william-adams-clennett-hire",
-      "title": "William Adams - Clennett Hire",
-      "case_number": "MN-85063",
+      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+      "case_number": "MN-25056",
       "closes": "2026-11-20",
       "business_days_left": 2
     },
     {
-      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-      "case_number": "MN-25056",
+      "slug": "william-adams-clennett-hire",
+      "title": "William Adams - Clennett Hire",
+      "case_number": "MN-85063",
       "closes": "2026-11-20",
       "business_days_left": 2
     },
@@ -108,20 +108,20 @@
   "documents": {
     "downloaded": 127,
     "pending": 0,
-    "failed": 4,
-    "gave_up": 5
+    "failed": 3,
+    "gave_up": 6
   },
   "analytics": {
     "by_type": {
       "Notification": {
         "matters": 330,
-        "determined": 288,
-        "approved": 281,
+        "determined": 289,
+        "approved": 282,
         "approved_with_conditions": 5,
         "not_approved": 2,
         "ceased": 5,
         "approval_rate_pct": 99.3,
-        "median_business_days": 18.0,
+        "median_business_days": 18,
         "mean_business_days": 20.1,
         "fastest_business_days": 15,
         "slowest_business_days": 133
@@ -177,14 +177,14 @@
         "year": 2026,
         "type": "Notification",
         "filed": 317,
-        "completed": 250,
-        "determined": 250,
-        "approved": 244,
+        "completed": 251,
+        "determined": 251,
+        "approved": 245,
         "approved_with_conditions": 4,
         "not_approved": 2,
         "ceased": 0,
         "approval_rate_pct": 99.2,
-        "median_business_days": 18.0,
+        "median_business_days": 18,
         "mean_business_days": 20.2,
         "fastest_business_days": 15,
         "slowest_business_days": 133
@@ -637,15 +637,15 @@
         "month": 11,
         "type": "Notification",
         "filed": 16,
-        "completed": 18,
-        "determined": 18,
-        "approved": 18,
+        "completed": 19,
+        "determined": 19,
+        "approved": 19,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
         "approval_rate_pct": 100.0,
-        "median_business_days": 19.0,
-        "mean_business_days": 19.7,
+        "median_business_days": 19,
+        "mean_business_days": 19.5,
         "fastest_business_days": 15,
         "slowest_business_days": 39
       },
@@ -671,14 +671,14 @@
       {
         "sector": "Asset Management and Investment",
         "matters": 222,
-        "under_assessment": 13,
-        "determined": 209,
-        "approved": 205,
+        "under_assessment": 12,
+        "determined": 210,
+        "approved": 206,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 0,
         "approval_rate_pct": 98.1,
-        "median_business_days": 16.0,
+        "median_business_days": 16,
         "mean_business_days": 15.7,
         "fastest_business_days": 4,
         "slowest_business_days": 26
@@ -941,15 +941,15 @@
       {
         "sector": "Automotive Retail",
         "matters": 28,
-        "under_assessment": 4,
-        "determined": 23,
-        "approved": 17,
+        "under_assessment": 3,
+        "determined": 24,
+        "approved": 18,
         "approved_with_conditions": 1,
         "not_approved": 5,
         "ceased": 1,
-        "approval_rate_pct": 78.3,
-        "median_business_days": 17.5,
-        "mean_business_days": 18.4,
+        "approval_rate_pct": 79.2,
+        "median_business_days": 17,
+        "mean_business_days": 18.3,
         "fastest_business_days": 8,
         "slowest_business_days": 38
       },
@@ -1302,13 +1302,13 @@
     "by_stage": {
       "Phase 1 - initial assessment": {
         "matters": 321,
-        "determined": 285,
-        "approved": 281,
+        "determined": 286,
+        "approved": 282,
         "approved_with_conditions": 4,
         "not_approved": 0,
         "ceased": 2,
         "approval_rate_pct": 100.0,
-        "median_business_days": 18.0,
+        "median_business_days": 18,
         "mean_business_days": 19.3,
         "fastest_business_days": 15,
         "slowest_business_days": 56

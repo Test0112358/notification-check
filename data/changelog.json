@@ -40868,5 +40868,167 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T03:06:35Z",
+    "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
+    "title": "Lactalis – Saputo Dairy UK",
+    "case_number": "MN-45041",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lactalis-%E2%80%93-saputo-dairy-uk-0",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 November 2026 via email to mergers@accc.gov.au with the title Submission re: Lactalis - Saputo Dairy UK. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Nov 2026 Closing date 17 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-17",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T03:06:35Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
+    "title": "Coles – supermarket site in Rainbow Beach, NSW",
+    "case_number": "MN-25062",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-rainbow-beach-nsw",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 17 November 2026 via email to mergers@accc.gov.au with the title Submission re: Coles – Rainbow Beach NSW. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 10 Nov 2026 Closing date 17 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-17",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T03:06:35Z",
+    "slug": "4k-automotive-group-%E2%80%93-peninsula-motor-group",
+    "title": "4K Automotive Group – Peninsula Motor Group",
+    "case_number": "MN-20044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/4k-automotive-group-%E2%80%93-peninsula-motor-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "18 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-28T15:48:22+11:00",
+        "new": "2026-11-18T10:53:16+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '18 Nov 2026', 'description': '4K Automotive Group - Peninsula Motor Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/4K%20Automotive%20Group%20-%20Peninsula%20Motor%20Group%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T03:06:35Z",
+    "slug": "coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "title": "Coles – expansion of supermarket located within Coles head office site in Docklands, VIC",
+    "case_number": "WA-65032",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-expansion-of-supermarket-located-within-coles-head-office-site-in-docklands-vic",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "COLES GROUP LIMITED (ABN 11 004 089 936)",
+        "new": "COLES GROUP LIMITED; ABN - (ABN 11 004 089 936)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968)",
+        "new": "Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T03:06:35Z",
+    "slug": "pine-australia-evolution-business-systems",
+    "title": "Pine Australia - Evolution Business Systems",
+    "case_number": "WA-45023",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pine-australia-evolution-business-systems",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Pine Australia Holdings Pty Ltd (ACN 697 228 309)",
+        "new": "Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743)",
+        "new": "The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 097 484 743)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T03:06:35Z",
+    "slug": "ironbark-paris-group",
+    "title": "Ironbark - Paris Group",
+    "case_number": "WA-75039",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ironbark-paris-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541)",
+        "new": "INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY LTD (ABN 96 120 807 614); PARIS FINANCIAL HOLDINGS PTY LTD (ABN 72 658 541 078); PARIS FINANCIAL EAST MELBOURNE PTY LTD (ABN 45 659 012 307)",
+        "new": "Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS FINANCIAL PTY LTD; ABN - (ABN 96 120 807 614); PARIS FINANCIAL HOLDINGS PTY LTD; ABN - (ABN 72 658 541 078); PARIS FINANCIAL EAST MELBOURNE PTY LTD; ABN - (ABN 45 659 012 307)",
+        "material": true
+      }
+    ]
   }
 ]
