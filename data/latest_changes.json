@@ -1,109 +1,181 @@
 {
-  "run_utc": "2026-11-18T14:29:43Z",
-  "run_canberra": "19 Nov 2026 01:29 AEDT",
-  "new_count": 3,
-  "changed_count": 3,
-  "cosmetic_only_count": 0,
+  "run_utc": "2026-11-19T02:46:03Z",
+  "run_canberra": "19 Nov 2026 13:46 AEDT",
+  "new_count": 0,
+  "changed_count": 5,
+  "cosmetic_only_count": 1,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
-      "title": "Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD)",
-      "case_number": "MN-15054",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld"
-    },
-    {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
-      "title": "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",
-      "case_number": "WA-01134",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act"
-    },
-    {
-      "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
-      "title": "Aware Super – Interest in Foresight Kinetic CV",
-      "case_number": "WA-20050",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "redirect-holdings-echo-solve",
-      "title": "ReDirect Holdings - Echo Solve",
-      "case_number": "WA-20033",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve",
+      "slug": "eagers-zagame",
+      "title": "Eagers - Zagame",
+      "case_number": "MN-01133",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame",
+      "material": false,
+      "summary": [],
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 November 2026 via email to mergers@accc.gov.au with the title Submission re: Eagers-Zagame. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 11 Nov 2026 Closing date 18 Nov 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "material": false
+        },
+        {
+          "field": "consultation_close_date",
+          "old": "2026-11-18",
+          "new": "",
+          "material": false
+        }
+      ]
+    },
+    {
+      "slug": "webuild-%E2%80%93-trevi-group",
+      "title": "Webuild – Trevi Group",
+      "case_number": "MN-20042",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group",
       "material": true,
       "summary": [
-        "Acquirer(s): REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908) → REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908)",
-        "Target(s) / vendor(s): NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190) → NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190)"
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 19 Nov 2026",
+        "New document: Webuild Trevi Group - Phase 1 determination (19 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquirers",
-          "old": "REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908)",
-          "new": "REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908)",
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
           "material": true
         },
         {
-          "field": "targets",
-          "old": "NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190)",
-          "new": "NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190)",
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "19 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-26T12:19:50+11:00",
+          "new": "2026-11-19T13:19:46+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '19 Nov 2026', 'description': 'Webuild Trevi Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Webuild%20-%20Trevi%20Group%20-%20Phase%201%20determination.pdf'}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "genesis-minerals-%E2%80%93-vault-minerals",
-      "title": "Genesis Minerals – Vault Minerals",
-      "case_number": "WA-40036",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals",
+      "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+      "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
+      "case_number": "MN-70027",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
       "material": true,
       "summary": [
-        "Acquirer(s): GENESIS MINERALS LIMITED (ABN 72 124 772 041) → GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041)",
-        "Target(s) / vendor(s): VAULT MINERALS LIMITED (ABN 73 068 647 610) → VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610)"
+        "Other parties: 5B HOLDINGS PTY. LTD. (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.)) → 5B HOLDINGS PTY. LTD.; ABN - (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification N…"
       ],
       "changes": [
         {
-          "field": "acquirers",
-          "old": "GENESIS MINERALS LIMITED (ABN 72 124 772 041)",
-          "new": "GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "VAULT MINERALS LIMITED (ABN 73 068 647 610)",
-          "new": "VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610)",
+          "field": "other_parties",
+          "old": "5B HOLDINGS PTY. LTD. (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.))",
+          "new": "5B HOLDINGS PTY. LTD.; ABN - (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.))",
           "material": true
         }
       ]
     },
     {
-      "slug": "grafton-motor-group-%E2%80%93-grafton-mazda",
-      "title": "Grafton Motor Group – Grafton Mazda",
-      "case_number": "WA-05045",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/grafton-motor-group-%E2%80%93-grafton-mazda",
+      "slug": "m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
+      "title": "M Resources and Golden Energy and Resources – Tahmoor Coal Mine",
+      "case_number": "MN-10022",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
       "material": true,
       "summary": [
-        "Acquirer(s): GTOWN MOTORS PTY LTD (ABN 49 696 167 996) → GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996)",
-        "Target(s) / vendor(s): KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695) → KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695)",
-        "Other parties: HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559) → HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559)"
+        "Acquirer(s): M Resources Pty Ltd (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd (ACN 697 956 791); Golden Energy and R… → M Resources Pty Ltd; ABN - (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd; ACN - (ACN 697 956 791); Golde…",
+        "Target(s) / vendor(s): Bargo Collieries Pty Ltd (In Liquidation) (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation) (ABN 97 076 663 9… → Bargo Collieries Pty Ltd (In Liquidation); ABN - (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation); ABN - (AB…"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "GTOWN MOTORS PTY LTD (ABN 49 696 167 996)",
-          "new": "GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996)",
+          "old": "M Resources Pty Ltd (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd (ACN 697 956 791); Golden Energy and Resources Pte Ltd (UEN - 199508589E)",
+          "new": "M Resources Pty Ltd; ABN - (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd; ACN - (ACN 697 956 791); Golden Energy and Resources Pte Ltd (UEN - 199508589E)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695)",
-          "new": "KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695)",
+          "old": "Bargo Collieries Pty Ltd (In Liquidation) (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation) (ABN 97 076 663 968)",
+          "new": "Bargo Collieries Pty Ltd (In Liquidation); ABN - (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation); ABN - (ABN 97 076 663 968)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+      "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+      "case_number": "MN-01116",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+      "material": true,
+      "summary": [
+        "Acquirer(s): SILK CONTRACT LOGISTICS PTY LTD (ABN 56 006 444 355) → SILK CONTRACT LOGISTICS PTY LTD; ABN - (ABN 56 006 444 355)",
+        "Target(s) / vendor(s): TOLL TRANSPORT PTY. LIMITED (ABN 31 006 604 191) → TOLL TRANSPORT PTY. LIMITED; ABN - (ABN 31 006 604 191)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "SILK CONTRACT LOGISTICS PTY LTD (ABN 56 006 444 355)",
+          "new": "SILK CONTRACT LOGISTICS PTY LTD; ABN - (ABN 56 006 444 355)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "TOLL TRANSPORT PTY. LIMITED (ABN 31 006 604 191)",
+          "new": "TOLL TRANSPORT PTY. LIMITED; ABN - (ABN 31 006 604 191)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "scm-financial-group-strategic-wealth-services-group",
+      "title": "SCM Financial Group - Strategic Wealth Services Group",
+      "case_number": "WA-40035",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group",
+      "material": true,
+      "summary": [
+        "Acquirer(s): SCM FINANCIAL GROUP PTY LTD (ABN 95 659 181 012) → SCM FINANCIAL GROUP PTY LTD; ABN - (ABN 95 659 181 012)",
+        "Target(s) / vendor(s): STRATEGIC FINANCIAL PLANNERS PTY LTD (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD (ABN 20 164 018 311); The T… → STRATEGIC FINANCIAL PLANNERS PTY LTD; ABN - (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD; ABN - (ABN 20 164 0…",
+        "Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD (ABN 74 675 083 717); AZ NGA HOLDING… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD; ABN - (ABN 74 675 083 717);…"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "SCM FINANCIAL GROUP PTY LTD (ABN 95 659 181 012)",
+          "new": "SCM FINANCIAL GROUP PTY LTD; ABN - (ABN 95 659 181 012)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "STRATEGIC FINANCIAL PLANNERS PTY LTD (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD (ABN 20 164 018 311); The Trustee for S3 STRATEGIC SUPER SERVICES UNIT TRUST (ABN 25 442 350 701); STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS PTY LTD (ABN 18 164 018 302); The Trustee for STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS UNIT TRUST (ABN 91 731 177 189)",
+          "new": "STRATEGIC FINANCIAL PLANNERS PTY LTD; ABN - (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD; ABN - (ABN 20 164 018 311); The Trustee for S3 STRATEGIC SUPER SERVICES UNIT TRUST; ABN - (ABN 25 442 350 701); STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS PTY LTD; ABN - (ABN 18 164 018 302); The Trustee for STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS UNIT TRUST; ABN - (ABN 91 731 177 189)",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559)",
-          "new": "HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559)",
+          "old": "AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD (ABN 74 675 083 717); AZ NGA HOLDINGS PTY LTD (ABN 12 675 083 833)",
+          "new": "AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD; ABN - (ABN 74 675 083 717); AZ NGA HOLDINGS PTY LTD; ABN - (ABN 12 675 083 833)",
           "material": true
         }
       ]
@@ -112,30 +184,17 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
-      "title": "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",
-      "case_number": "WA-01134",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
-      "date": "18 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20the%20King%20O%E2%80%99Malley%E2%80%99s%20venue%20%28Canberra%20ACT%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
-      "category": "Waiver determination",
+      "slug": "webuild-%E2%80%93-trevi-group",
+      "title": "Webuild – Trevi Group",
+      "case_number": "MN-20042",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group",
+      "date": "19 Nov 2026",
+      "description": "Webuild Trevi Group - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Webuild%20-%20Trevi%20Group%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
-      "title": "Aware Super – Interest in Foresight Kinetic CV",
-      "case_number": "WA-20050",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
-      "date": "18 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Aware%20Super%20%E2%80%93%20Interest%20in%20the%20Foresight%20Kinetic%20CV%20SCSp%20%28WA-20050%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
+      "new_matter": false
     }
   ]
 }

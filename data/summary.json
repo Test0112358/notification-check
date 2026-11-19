@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-11-18T14:32:05Z",
+  "generated_at_utc": "2026-11-19T02:49:13Z",
   "data_health": {
-    "last_success_utc": "2026-11-18T14:29:43Z",
+    "last_success_utc": "2026-11-19T02:46:03Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 37
+    "last_request_count": 55
   },
   "total_entries": 868,
   "by_acquisition_status": {
-    "Under assessment": 37,
-    "Assessment completed": 826,
+    "Under assessment": 36,
+    "Assessment completed": 827,
     "Assessment ceased": 5
   },
   "by_stage": {
@@ -23,7 +23,7 @@
     "Waiver": 537
   },
   "by_accc_determination": {
-    "Approved": 792,
+    "Approved": 793,
     "Not approved": 29,
     "Approved with conditions": 5
   },
@@ -124,20 +124,20 @@
   "documents": {
     "downloaded": 127,
     "pending": 0,
-    "failed": 2,
-    "gave_up": 7
+    "failed": 1,
+    "gave_up": 8
   },
   "analytics": {
     "by_type": {
       "Notification": {
         "matters": 331,
-        "determined": 289,
-        "approved": 282,
+        "determined": 290,
+        "approved": 283,
         "approved_with_conditions": 5,
         "not_approved": 2,
         "ceased": 5,
         "approval_rate_pct": 99.3,
-        "median_business_days": 18,
+        "median_business_days": 18.0,
         "mean_business_days": 20.1,
         "fastest_business_days": 15,
         "slowest_business_days": 133
@@ -193,14 +193,14 @@
         "year": 2026,
         "type": "Notification",
         "filed": 318,
-        "completed": 251,
-        "determined": 251,
-        "approved": 245,
+        "completed": 252,
+        "determined": 252,
+        "approved": 246,
         "approved_with_conditions": 4,
         "not_approved": 2,
         "ceased": 0,
         "approval_rate_pct": 99.2,
-        "median_business_days": 18,
+        "median_business_days": 18.0,
         "mean_business_days": 20.2,
         "fastest_business_days": 15,
         "slowest_business_days": 133
@@ -653,14 +653,14 @@
         "month": 11,
         "type": "Notification",
         "filed": 17,
-        "completed": 19,
-        "determined": 19,
-        "approved": 19,
+        "completed": 20,
+        "determined": 20,
+        "approved": 20,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
         "approval_rate_pct": 100.0,
-        "median_business_days": 19,
+        "median_business_days": 19.0,
         "mean_business_days": 19.5,
         "fastest_business_days": 15,
         "slowest_business_days": 39
@@ -717,14 +717,14 @@
       {
         "sector": "Manufacturing",
         "matters": 153,
-        "under_assessment": 2,
-        "determined": 151,
-        "approved": 145,
+        "under_assessment": 1,
+        "determined": 152,
+        "approved": 146,
         "approved_with_conditions": 3,
         "not_approved": 3,
         "ceased": 0,
         "approval_rate_pct": 98.0,
-        "median_business_days": 16.5,
+        "median_business_days": 17,
         "mean_business_days": 16.3,
         "fastest_business_days": 4,
         "slowest_business_days": 44
@@ -747,14 +747,14 @@
       {
         "sector": "Wholesale Trade",
         "matters": 108,
-        "under_assessment": 9,
-        "determined": 98,
-        "approved": 92,
+        "under_assessment": 8,
+        "determined": 99,
+        "approved": 93,
         "approved_with_conditions": 2,
         "not_approved": 4,
         "ceased": 1,
-        "approval_rate_pct": 95.9,
-        "median_business_days": 17.0,
+        "approval_rate_pct": 96.0,
+        "median_business_days": 17,
         "mean_business_days": 17.4,
         "fastest_business_days": 7,
         "slowest_business_days": 41
@@ -777,14 +777,14 @@
       {
         "sector": "Construction and Engineering",
         "matters": 80,
-        "under_assessment": 4,
-        "determined": 76,
-        "approved": 72,
+        "under_assessment": 3,
+        "determined": 77,
+        "approved": 73,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 0,
-        "approval_rate_pct": 94.7,
-        "median_business_days": 16.0,
+        "approval_rate_pct": 94.8,
+        "median_business_days": 16,
         "mean_business_days": 16.1,
         "fastest_business_days": 3,
         "slowest_business_days": 33
@@ -1318,13 +1318,13 @@
     "by_stage": {
       "Phase 1 - initial assessment": {
         "matters": 322,
-        "determined": 286,
-        "approved": 282,
+        "determined": 287,
+        "approved": 283,
         "approved_with_conditions": 4,
         "not_approved": 0,
         "ceased": 2,
         "approval_rate_pct": 100.0,
-        "median_business_days": 18,
+        "median_business_days": 18.0,
         "mean_business_days": 19.3,
         "fastest_business_days": 15,
         "slowest_business_days": 56

@@ -1,40 +1,54 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,19 Nov 2026 01:29 AEDT,Up to date
-Last run attempt,19 Nov 2026 01:29 AEDT,success
-HTTP requests used,37,
+Last successful update,19 Nov 2026 13:46 AEDT,Up to date
+Last run attempt,19 Nov 2026 13:46 AEDT,success
+HTTP requests used,55,
 ,,
 Total entries monitored,868,
-New entries this run,3,
-Changed entries this run,3,material changes only
+New entries this run,0,
+Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,2,
+New decision documents,1,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (3),Case Number,URL
-+ Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD),MN-15054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld
-"+ Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",WA-01134,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act
-+ Aware Super – Interest in Foresight Kinetic CV,WA-20050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv
-,,
-CHANGED ENTRIES (3),Change,URL
-~ ReDirect Holdings - Echo Solve,WA-20033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/redirect-holdings-echo-solve
-,Acquirer(s): REDIRECT HOLDINGS PTY LIMITED (ABN 13 640 468 908) → REDIRECT HOLDINGS PTY LIMITED; ABN - (ABN 13 640 468 908),
-,Target(s) / vendor(s): NEXT CAPITAL PTY LIMITED (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED (ABN 91 695 575 190) → NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583); ECHO SOLVE PTY LIMITED; ABN - (ABN 91 695 575 190),
-~ Genesis Minerals – Vault Minerals,WA-40036,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/genesis-minerals-%E2%80%93-vault-minerals
-,Acquirer(s): GENESIS MINERALS LIMITED (ABN 72 124 772 041) → GENESIS MINERALS LIMITED; ABN - (ABN 72 124 772 041),
-,Target(s) / vendor(s): VAULT MINERALS LIMITED (ABN 73 068 647 610) → VAULT MINERALS LIMITED; ABN - (ABN 73 068 647 610),
-~ Grafton Motor Group – Grafton Mazda,WA-05045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/grafton-motor-group-%E2%80%93-grafton-mazda
-,Acquirer(s): GTOWN MOTORS PTY LTD (ABN 49 696 167 996) → GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996),
-,Target(s) / vendor(s): KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695) → KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695),
-,Other parties: HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559) → HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559),
+CHANGED ENTRIES (5),Change,URL
+~ Webuild – Trevi Group,MN-20042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 19 Nov 2026,
+,New document: Webuild Trevi Group - Phase 1 determination (19 Nov 2026),
+~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
+,Other parties: 5B HOLDINGS PTY. LTD. (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.)) → 5B HOLDINGS PTY. LTD.; ABN - (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification N…,
+~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
+,Acquirer(s): M Resources Pty Ltd (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd (ACN 697 956 791); Golden Energy and R… → M Resources Pty Ltd; ABN - (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd; ACN - (ACN 697 956 791); Golde…,
+,Target(s) / vendor(s): Bargo Collieries Pty Ltd (In Liquidation) (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation) (ABN 97 076 663 9… → Bargo Collieries Pty Ltd (In Liquidation); ABN - (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation); ABN - (AB…,
+~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
+,Acquirer(s): SILK CONTRACT LOGISTICS PTY LTD (ABN 56 006 444 355) → SILK CONTRACT LOGISTICS PTY LTD; ABN - (ABN 56 006 444 355),
+,Target(s) / vendor(s): TOLL TRANSPORT PTY. LIMITED (ABN 31 006 604 191) → TOLL TRANSPORT PTY. LIMITED; ABN - (ABN 31 006 604 191),
+~ SCM Financial Group - Strategic Wealth Services Group,WA-40035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group
+,Acquirer(s): SCM FINANCIAL GROUP PTY LTD (ABN 95 659 181 012) → SCM FINANCIAL GROUP PTY LTD; ABN - (ABN 95 659 181 012),
+,Target(s) / vendor(s): STRATEGIC FINANCIAL PLANNERS PTY LTD (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD (ABN 20 164 018 311); The T… → STRATEGIC FINANCIAL PLANNERS PTY LTD; ABN - (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD; ABN - (ABN 20 164 0…,
+,Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD (ABN 74 675 083 717); AZ NGA HOLDING… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD; ABN - (ABN 74 675 083 717);…,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Webuild – Trevi Group (MN-20042),Status: Under assessment → Assessment completed,19 Nov 2026 13:46 AEDT
+Webuild – Trevi Group (MN-20042),ACCC determination: (blank) → Approved,19 Nov 2026 13:46 AEDT
+Webuild – Trevi Group (MN-20042),Determination published: (blank) → 19 Nov 2026,19 Nov 2026 13:46 AEDT
+Webuild – Trevi Group (MN-20042),New document: Webuild Trevi Group - Phase 1 determination (19 Nov 2026),19 Nov 2026 13:46 AEDT
+Global Infrastructure Management and EQT led consortium - AES Corporation (MN-70027),Other parties: 5B HOLDINGS PTY. LTD. (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.)) → 5B HOLDINGS PTY. LTD.; ABN - (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification N…,19 Nov 2026 13:46 AEDT
+M Resources and Golden Energy and Resources – Tahmoor Coal Mine (MN-10022),Acquirer(s): M Resources Pty Ltd (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd (ACN 697 956 791); Golden Energy and R… → M Resources Pty Ltd; ABN - (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd; ACN - (ACN 697 956 791); Golde…,19 Nov 2026 13:46 AEDT
+M Resources and Golden Energy and Resources – Tahmoor Coal Mine (MN-10022),Target(s) / vendor(s): Bargo Collieries Pty Ltd (In Liquidation) (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation) (ABN 97 076 663 9… → Bargo Collieries Pty Ltd (In Liquidation); ABN - (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation); ABN - (AB…,19 Nov 2026 13:46 AEDT
+Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets (MN-01116),Acquirer(s): SILK CONTRACT LOGISTICS PTY LTD (ABN 56 006 444 355) → SILK CONTRACT LOGISTICS PTY LTD; ABN - (ABN 56 006 444 355),19 Nov 2026 13:46 AEDT
+Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets (MN-01116),Target(s) / vendor(s): TOLL TRANSPORT PTY. LIMITED (ABN 31 006 604 191) → TOLL TRANSPORT PTY. LIMITED; ABN - (ABN 31 006 604 191),19 Nov 2026 13:46 AEDT
+SCM Financial Group - Strategic Wealth Services Group (WA-40035),Acquirer(s): SCM FINANCIAL GROUP PTY LTD (ABN 95 659 181 012) → SCM FINANCIAL GROUP PTY LTD; ABN - (ABN 95 659 181 012),19 Nov 2026 13:46 AEDT
+SCM Financial Group - Strategic Wealth Services Group (WA-40035),Target(s) / vendor(s): STRATEGIC FINANCIAL PLANNERS PTY LTD (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD (ABN 20 164 018 311); The T… → STRATEGIC FINANCIAL PLANNERS PTY LTD; ABN - (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD; ABN - (ABN 20 164 0…,19 Nov 2026 13:46 AEDT
+SCM Financial Group - Strategic Wealth Services Group (WA-40035),Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD (ABN 74 675 083 717); AZ NGA HOLDING… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD; ABN - (ABN 74 675 083 717);…,19 Nov 2026 13:46 AEDT
 Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD) (MN-15054),Notification added to the register,19 Nov 2026 01:29 AEDT
 "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT) (WA-01134)",Waiver added to the register,19 Nov 2026 01:29 AEDT
 Aware Super – Interest in Foresight Kinetic CV (WA-20050),Waiver added to the register,19 Nov 2026 01:29 AEDT
@@ -181,21 +195,3 @@ Acclime Corporate Services Australia – Polar 993 Group (WA-45025),Target(s) / 
 The Independents Group – acquisition of entities within the Smuggler Group (MN-35034),Other parties: TowerBrook Capital Partners L.P. (Identifying number - 3922576; ELOCGA (Identifying number - B209477)); K10 Holding SA… → TowerBrook Capital Partners L.P. (Identifying number - 3922576); ELOCGA (Identifying number - B209477); K10 Holding SA…,13 Nov 2026 00:57 AEDT
 Redwood Services Group – Concept Data and Voice Select (WA-05047),Acquirer(s): Redwood Services Group Australia Pty Ltd (ABN 15 675 368 162) → Redwood Services Group Australia Pty Ltd; ABN - (ABN 15 675 368 162),13 Nov 2026 00:57 AEDT
 Redwood Services Group – Concept Data and Voice Select (WA-05047),Target(s) / vendor(s): Concept Data Pty Ltd (ABN 51 602 501 404); Voice Select Pty Ltd (ABN 81 626 240 220); Gary Paradise → Concept Data Pty Ltd; ABN - (ABN 51 602 501 404); Voice Select Pty Ltd; ABN - (ABN 81 626 240 220); Gary Paradise,13 Nov 2026 00:57 AEDT
-Too Lost – Xelon Entertainment (MN-65045),Notification added to the register,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",Status: Under assessment → Assessment completed,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",ACCC determination: (blank) → Approved,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)",Determination published: (blank) → 12 Nov 2026,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth (MN-85060)","New document: Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination (12 Nov 2026)",12 Nov 2026 13:28 AEDT
-"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)","Matter name: Australian Venue Co – assets of Molly’s Irish Pub, Highgate and Molly’s Irish Pub, Victoria Park, Perth → Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",12 Nov 2026 13:28 AEDT
-"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)",Status: Under assessment → Assessment completed,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)",ACCC determination: (blank) → Approved,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)",Determination published: (blank) → 12 Nov 2026,12 Nov 2026 13:28 AEDT
-"Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA (MN-70047)","New document: Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination (12 Nov 2026)",12 Nov 2026 13:28 AEDT
-Aware Super – Increased interest in Keyton (MN-70030),Acquirer(s): AWARE SUPER PTY LIMITED (ABN 11 118 202 672) → AWARE SUPER PTY LIMITED; ABN - (ABN 11 118 202 672),12 Nov 2026 13:28 AEDT
-Aware Super – Increased interest in Keyton (MN-70030),Target(s) / vendor(s): Keyton Trust (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD (ABN 67 000 001 114); LENDLEASE CAPITAL SERVICES… → Keyton Trust; ABN - (ABN 44 349 706 307); LENDLEASE CAPITAL SERVICES PTY LTD; ABN - (ABN 67 000 001 114); LENDLEASE CAP…,12 Nov 2026 13:28 AEDT
-Aware Super – Increased interest in Keyton (MN-70030),Other parties: OAK TREE HOLDINGS PTY LTD (ABN 59 161 180 230) → OAK TREE HOLDINGS PTY LTD; ABN - (ABN 59 161 180 230),12 Nov 2026 13:28 AEDT
-Holcim Australia – Burdetts Group (MN-05044),Acquirer(s): HOLCIM (AUSTRALIA) PTY LTD (ABN 87 099 732 297) → HOLCIM (AUSTRALIA) PTY LTD; ABN - (ABN 87 099 732 297),12 Nov 2026 13:28 AEDT
-Holcim Australia – Burdetts Group (MN-05044),Target(s) / vendor(s): Burdett Group Pty Ltd (ACN 158 557 718) → Burdett Group Pty Ltd; ACN - (ACN 158 557 718),12 Nov 2026 13:28 AEDT
-"Coles – supermarket site in Byron Bay, NSW (WA-30035)",Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),12 Nov 2026 13:28 AEDT
-"Coles – supermarket site in Byron Bay, NSW (WA-30035)",Target(s) / vendor(s): JD 156 JONSON STREET PTY LTD (ABN 12 687 988 861) → JD 156 JONSON STREET PTY LTD; ABN - (ABN 12 687 988 861),12 Nov 2026 13:28 AEDT
-"Coles – supermarket site in Byron Bay, NSW (WA-30035)",Other parties: COLES GROUP LIMITED (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD (ABN 72 004 428 326) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936); COLES GROUP PROPERTY DEVELOPMENTS LTD; ABN - (ABN 72 004 428 326),12 Nov 2026 13:28 AEDT

@@ -41135,5 +41135,167 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T02:46:03Z",
+    "slug": "eagers-zagame",
+    "title": "Eagers - Zagame",
+    "case_number": "MN-01133",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 18 November 2026 via email to mergers@accc.gov.au with the title Submission re: Eagers-Zagame. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 11 Nov 2026 Closing date 18 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-18",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T02:46:03Z",
+    "slug": "webuild-%E2%80%93-trevi-group",
+    "title": "Webuild – Trevi Group",
+    "case_number": "MN-20042",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "19 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-26T12:19:50+11:00",
+        "new": "2026-11-19T13:19:46+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '19 Nov 2026', 'description': 'Webuild Trevi Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Webuild%20-%20Trevi%20Group%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T02:46:03Z",
+    "slug": "global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+    "title": "Global Infrastructure Management and EQT led consortium - AES Corporation",
+    "case_number": "MN-70027",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "5B HOLDINGS PTY. LTD. (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.))",
+        "new": "5B HOLDINGS PTY. LTD.; ABN - (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.))",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T02:46:03Z",
+    "slug": "m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
+    "title": "M Resources and Golden Energy and Resources – Tahmoor Coal Mine",
+    "case_number": "MN-10022",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "M Resources Pty Ltd (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd (ACN 697 956 791); Golden Energy and Resources Pte Ltd (UEN - 199508589E)",
+        "new": "M Resources Pty Ltd; ABN - (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd; ACN - (ACN 697 956 791); Golden Energy and Resources Pte Ltd (UEN - 199508589E)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Bargo Collieries Pty Ltd (In Liquidation) (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation) (ABN 97 076 663 968)",
+        "new": "Bargo Collieries Pty Ltd (In Liquidation); ABN - (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation); ABN - (ABN 97 076 663 968)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T02:46:03Z",
+    "slug": "silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "title": "Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets",
+    "case_number": "MN-01116",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "SILK CONTRACT LOGISTICS PTY LTD (ABN 56 006 444 355)",
+        "new": "SILK CONTRACT LOGISTICS PTY LTD; ABN - (ABN 56 006 444 355)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "TOLL TRANSPORT PTY. LIMITED (ABN 31 006 604 191)",
+        "new": "TOLL TRANSPORT PTY. LIMITED; ABN - (ABN 31 006 604 191)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T02:46:03Z",
+    "slug": "scm-financial-group-strategic-wealth-services-group",
+    "title": "SCM Financial Group - Strategic Wealth Services Group",
+    "case_number": "WA-40035",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "SCM FINANCIAL GROUP PTY LTD (ABN 95 659 181 012)",
+        "new": "SCM FINANCIAL GROUP PTY LTD; ABN - (ABN 95 659 181 012)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "STRATEGIC FINANCIAL PLANNERS PTY LTD (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD (ABN 20 164 018 311); The Trustee for S3 STRATEGIC SUPER SERVICES UNIT TRUST (ABN 25 442 350 701); STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS PTY LTD (ABN 18 164 018 302); The Trustee for STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS UNIT TRUST (ABN 91 731 177 189)",
+        "new": "STRATEGIC FINANCIAL PLANNERS PTY LTD; ABN - (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD; ABN - (ABN 20 164 018 311); The Trustee for S3 STRATEGIC SUPER SERVICES UNIT TRUST; ABN - (ABN 25 442 350 701); STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS PTY LTD; ABN - (ABN 18 164 018 302); The Trustee for STRATEGIC ACCOUNTANTS AND BUSINESS ADVISORS UNIT TRUST; ABN - (ABN 91 731 177 189)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD (ABN 74 675 083 717); AZ NGA HOLDINGS PTY LTD (ABN 12 675 083 833)",
+        "new": "AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD; ABN - (ABN 74 675 083 717); AZ NGA HOLDINGS PTY LTD; ABN - (ABN 12 675 083 833)",
+        "material": true
+      }
+    ]
   }
 ]

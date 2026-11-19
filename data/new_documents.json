@@ -1,34 +1,21 @@
 {
-  "run_utc": "2026-11-18T14:29:43Z",
+  "run_utc": "2026-11-19T02:46:03Z",
   "questionnaire_count": 0,
   "consultation_document_count": 0,
   "questionnaires": [],
   "decision_documents": [
     {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
-      "title": "Australian Venue Co – assets of the King O’Malley’s venue (Canberra, ACT)",
-      "case_number": "WA-01134",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-king-o%E2%80%99malley%E2%80%99s-venue-canberra-act",
-      "date": "18 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20the%20King%20O%E2%80%99Malley%E2%80%99s%20venue%20%28Canberra%20ACT%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
-      "category": "Waiver determination",
+      "slug": "webuild-%E2%80%93-trevi-group",
+      "title": "Webuild – Trevi Group",
+      "case_number": "MN-20042",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group",
+      "date": "19 Nov 2026",
+      "description": "Webuild Trevi Group - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Webuild%20-%20Trevi%20Group%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
-      "title": "Aware Super – Interest in Foresight Kinetic CV",
-      "case_number": "WA-20050",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
-      "date": "18 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Aware%20Super%20%E2%80%93%20Interest%20in%20the%20Foresight%20Kinetic%20CV%20SCSp%20%28WA-20050%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
+      "new_matter": false
     }
   ]
 }

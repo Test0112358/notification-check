@@ -550,5 +550,17 @@
     "field": "consultation_docs",
     "stored_value": "",
     "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Peter%20Warren%20-%20Remedy%20Offer%20%2813%20July%202026%29_1.pdf"
+  },
+  {
+    "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
+    "title": "Insurance Australia Group – RAC Insurance",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/insurance-australia-group-%E2%80%93-rac-insurance",
+    "layer": 1,
+    "rule": "DOCUMENT_DOWNLOAD_GAVE_UP",
+    "severity": "WARNING",
+    "detail": "Consultation document could not be downloaded after 2 attempts (403 Forbidden). Download it manually: https://www.accc.gov.au/system/files/public-merger-register/documents/Draft%20s87B%20Undertaking%20-%2028%20July%202026%20-%20IAG%20-%20RACI.pdf",
+    "field": "consultation_docs",
+    "stored_value": "",
+    "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Draft%20s87B%20Undertaking%20-%2028%20July%202026%20-%20IAG%20-%20RACI.pdf"
   }
 ]
