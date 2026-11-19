@@ -36,6 +36,18 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
     "slug": "william-adams-clennett-hire",
     "title": "William Adams - Clennett Hire",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
@@ -48,15 +60,15 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
     "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
     "field": "end_of_determination_period",
-    "stored_value": "12 Jan 2027",
+    "stored_value": "11 Jan 2027",
     "expected_or_found": "at least 30 business days after notification"
   },
   {
@@ -72,16 +84,16 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "too-lost-%E2%80%93-xelon-entertainment",
-    "title": "Too Lost – Xelon Entertainment",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "slug": "novotech-agilex",
+    "title": "Novotech - Agilex",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novotech-agilex",
     "layer": 1,
-    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "rule": "COMPLETED_MISSING_PUB_DATE",
     "severity": "WARNING",
-    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
-    "field": "end_of_determination_period",
-    "stored_value": "11 Jan 2027",
-    "expected_or_found": "at least 30 business days after notification"
+    "detail": "Assessment completed but determination_publication_date is empty.",
+    "field": "determination_publication_date",
+    "stored_value": "",
+    "expected_or_found": "non-empty"
   },
   {
     "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
@@ -562,5 +574,17 @@
     "field": "consultation_docs",
     "stored_value": "",
     "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Draft%20s87B%20Undertaking%20-%2028%20July%202026%20-%20IAG%20-%20RACI.pdf"
+  },
+  {
+    "slug": "journey-beyond-sealink-rottnest",
+    "title": "Journey Beyond - SeaLink Rottnest",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/journey-beyond-sealink-rottnest",
+    "layer": 1,
+    "rule": "DOCUMENT_DOWNLOAD_GAVE_UP",
+    "severity": "WARNING",
+    "detail": "Consultation document could not be downloaded after 2 attempts (403 Forbidden). Download it manually: https://www.accc.gov.au/system/files/public-merger-register/documents/Remedy%20offer%20-%2029%20July%202026%20-%20Journey%20Beyond%20%28EAG%29%20-%20SeaLink%20Rottnest.pdf",
+    "field": "consultation_docs",
+    "stored_value": "",
+    "expected_or_found": "https://www.accc.gov.au/system/files/public-merger-register/documents/Remedy%20offer%20-%2029%20July%202026%20-%20Journey%20Beyond%20%28EAG%29%20-%20SeaLink%20Rottnest.pdf"
   }
 ]

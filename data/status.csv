@@ -1,42 +1,76 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,19 Nov 2026 13:46 AEDT,Up to date
-Last run attempt,19 Nov 2026 13:46 AEDT,success
-HTTP requests used,55,
+Last successful update,20 Nov 2026 01:39 AEDT,Up to date
+Last run attempt,20 Nov 2026 01:39 AEDT,success
+HTTP requests used,46,
 ,,
-Total entries monitored,868,
-New entries this run,0,
+Total entries monitored,877,
+New entries this run,9,
 Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,1,
+New decision documents,11,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
+NEW ENTRIES (9),Case Number,URL
+"+ Coles – supermarket site in Broulee, NSW",WA-60062,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-broulee-nsw
+"+ Australian Venue Co – Assets of Central Hotel, Beaconsfield VIC",WA-70053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-central-hotel-beaconsfield-vic
++ MA Financial (Redcape Fund) – Hotel Canobolas,WA-95050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-hotel-canobolas
+"+ Respect Group – Clifton Co-op Hospital aged care, support at home care and community housing, Clifton QLD",WA-85067,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-clifton-co-op-hospital-aged-care-support-at-home-care-and-community-housing-clifton-qld
++ Pemba – Accelagen,WA-45043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-accelagen
++ Sheffield Group – Champion Fasteners,WA-40055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sheffield-group-%E2%80%93-champion-fasteners
++ Dexus – LDK Healthcare Unit Trust,WA-85065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/dexus-%E2%80%93-ldk-healthcare-unit-trust
+"+ Home Timber & Hardware - Mitre 10, Picton NSW",WA-20052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/home-timber-hardware-mitre-10-picton-nsw
++ Pemba – SuperGuardian,WA-15055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-superguardian
+,,
 CHANGED ENTRIES (5),Change,URL
-~ Webuild – Trevi Group,MN-20042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/webuild-%E2%80%93-trevi-group
+"~ Endeavour Group – retail liquor site in Penrith, NSW",MN-45028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
 ,Determination published: (blank) → 19 Nov 2026,
-,New document: Webuild Trevi Group - Phase 1 determination (19 Nov 2026),
-~ Global Infrastructure Management and EQT led consortium - AES Corporation,MN-70027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/global-infrastructure-management-and-eqt-led-consortium-aes-corporation
-,Other parties: 5B HOLDINGS PTY. LTD. (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification No.)) → 5B HOLDINGS PTY. LTD.; ABN - (ABN 97 606 402 699); Fluence Energy Pty Ltd (87-1304612 (I.R.S. Employer Identification N…,
-~ M Resources and Golden Energy and Resources – Tahmoor Coal Mine,MN-10022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/m-resources-and-golden-energy-and-resources-%E2%80%93-tahmoor-coal-mine
-,Acquirer(s): M Resources Pty Ltd (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd (ACN 697 956 791); Golden Energy and R… → M Resources Pty Ltd; ABN - (ABN 67 151 351 790); Golden M Tahmoor Coal Holdings Pty Ltd; ACN - (ACN 697 956 791); Golde…,
-,Target(s) / vendor(s): Bargo Collieries Pty Ltd (In Liquidation) (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation) (ABN 97 076 663 9… → Bargo Collieries Pty Ltd (In Liquidation); ABN - (ABN 34 000 970 276); Tahmoor Coal Pty Ltd (In Liquidation); ABN - (AB…,
-~ Silk Contract Logistics – Toll Transport bulk logistics (glass and plastic) assets,MN-01116,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/silk-contract-logistics-%E2%80%93-toll-transport-bulk-logistics-glass-and-plastic-assets
-,Acquirer(s): SILK CONTRACT LOGISTICS PTY LTD (ABN 56 006 444 355) → SILK CONTRACT LOGISTICS PTY LTD; ABN - (ABN 56 006 444 355),
-,Target(s) / vendor(s): TOLL TRANSPORT PTY. LIMITED (ABN 31 006 604 191) → TOLL TRANSPORT PTY. LIMITED; ABN - (ABN 31 006 604 191),
-~ SCM Financial Group - Strategic Wealth Services Group,WA-40035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/scm-financial-group-strategic-wealth-services-group
-,Acquirer(s): SCM FINANCIAL GROUP PTY LTD (ABN 95 659 181 012) → SCM FINANCIAL GROUP PTY LTD; ABN - (ABN 95 659 181 012),
-,Target(s) / vendor(s): STRATEGIC FINANCIAL PLANNERS PTY LTD (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD (ABN 20 164 018 311); The T… → STRATEGIC FINANCIAL PLANNERS PTY LTD; ABN - (ABN 15 065 497 270); STRATEGIC SUPER SERVICES PTY LTD; ABN - (ABN 20 164 0…,
-,Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD (ABN 74 675 083 717); AZ NGA HOLDING… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); AZ AUST HOLDINGS PTY LTD; ABN - (ABN 74 675 083 717);…,
+,"New document: Endeavour - retail liquor site in Penrith, NSW - Phase 1 determination (19 Nov 2026)",
+~ Novotech - Agilex,MN-45032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novotech-agilex
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,New document: Novotech Agilex - Phase 1 Determination (18 Nov 2026),
+~ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-runzero
+,Other parties: Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY… → Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY…,
+~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-dragos
+,"Target(s) / vendor(s): Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A… → Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A…",
+,Other parties: Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD (ABN 90 629 363 328); Accenture Inc. (Delaware regi… → Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD; ABN - (ABN 90 629 363 328); Accenture Inc. (Delawa…,
+~ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
+,Acquirer(s): MM SECURITY SUPPLIES PTY LIMITED (ABN 14 670 314 913) → MM SECURITY SUPPLIES PTY LIMITED; ABN - (ABN 14 670 314 913),
+,Target(s) / vendor(s): MICRON ALARM SUPPLIES PTY LTD (ABN 39 002 553 406) → MICRON ALARM SUPPLIES PTY LTD; ABN - (ABN 39 002 553 406),
+,Other parties: MML HOLDINGS LIMITED (ABN 55 084 402 380) → MML HOLDINGS LIMITED; ABN - (ABN 55 084 402 380),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Coles – supermarket site in Broulee, NSW (WA-60062)",Waiver added to the register,20 Nov 2026 01:39 AEDT
+"Australian Venue Co – Assets of Central Hotel, Beaconsfield VIC (WA-70053)",Waiver added to the register,20 Nov 2026 01:39 AEDT
+MA Financial (Redcape Fund) – Hotel Canobolas (WA-95050),Waiver added to the register,20 Nov 2026 01:39 AEDT
+"Respect Group – Clifton Co-op Hospital aged care, support at home care and community housing, Clifton QLD (WA-85067)",Waiver added to the register,20 Nov 2026 01:39 AEDT
+Pemba – Accelagen (WA-45043),Waiver added to the register,20 Nov 2026 01:39 AEDT
+Sheffield Group – Champion Fasteners (WA-40055),Waiver added to the register,20 Nov 2026 01:39 AEDT
+"Endeavour Group – retail liquor site in Penrith, NSW (MN-45028)",Status: Under assessment → Assessment completed,20 Nov 2026 01:39 AEDT
+"Endeavour Group – retail liquor site in Penrith, NSW (MN-45028)",ACCC determination: (blank) → Approved,20 Nov 2026 01:39 AEDT
+"Endeavour Group – retail liquor site in Penrith, NSW (MN-45028)",Determination published: (blank) → 19 Nov 2026,20 Nov 2026 01:39 AEDT
+"Endeavour Group – retail liquor site in Penrith, NSW (MN-45028)","New document: Endeavour - retail liquor site in Penrith, NSW - Phase 1 determination (19 Nov 2026)",20 Nov 2026 01:39 AEDT
+Dexus – LDK Healthcare Unit Trust (WA-85065),Waiver added to the register,20 Nov 2026 01:39 AEDT
+"Home Timber & Hardware - Mitre 10, Picton NSW (WA-20052)",Waiver added to the register,20 Nov 2026 01:39 AEDT
+Pemba – SuperGuardian (WA-15055),Waiver added to the register,20 Nov 2026 01:39 AEDT
+Novotech - Agilex (MN-45032),Status: Under assessment → Assessment completed,20 Nov 2026 01:39 AEDT
+Novotech - Agilex (MN-45032),ACCC determination: (blank) → Approved,20 Nov 2026 01:39 AEDT
+Novotech - Agilex (MN-45032),New document: Novotech Agilex - Phase 1 Determination (18 Nov 2026),20 Nov 2026 01:39 AEDT
+Accenture - runZero (MN-60031),Other parties: Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY… → Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY…,20 Nov 2026 01:39 AEDT
+Accenture - Dragos (MN-50032),"Target(s) / vendor(s): Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A… → Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A…",20 Nov 2026 01:39 AEDT
+Accenture - Dragos (MN-50032),Other parties: Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD (ABN 90 629 363 328); Accenture Inc. (Delaware regi… → Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD; ABN - (ABN 90 629 363 328); Accenture Inc. (Delawa…,20 Nov 2026 01:39 AEDT
+MM Security – Micron Security Products (MN-01115),Acquirer(s): MM SECURITY SUPPLIES PTY LIMITED (ABN 14 670 314 913) → MM SECURITY SUPPLIES PTY LIMITED; ABN - (ABN 14 670 314 913),20 Nov 2026 01:39 AEDT
+MM Security – Micron Security Products (MN-01115),Target(s) / vendor(s): MICRON ALARM SUPPLIES PTY LTD (ABN 39 002 553 406) → MICRON ALARM SUPPLIES PTY LTD; ABN - (ABN 39 002 553 406),20 Nov 2026 01:39 AEDT
+MM Security – Micron Security Products (MN-01115),Other parties: MML HOLDINGS LIMITED (ABN 55 084 402 380) → MML HOLDINGS LIMITED; ABN - (ABN 55 084 402 380),20 Nov 2026 01:39 AEDT
 Webuild – Trevi Group (MN-20042),Status: Under assessment → Assessment completed,19 Nov 2026 13:46 AEDT
 Webuild – Trevi Group (MN-20042),ACCC determination: (blank) → Approved,19 Nov 2026 13:46 AEDT
 Webuild – Trevi Group (MN-20042),Determination published: (blank) → 19 Nov 2026,19 Nov 2026 13:46 AEDT
@@ -178,20 +212,3 @@ Volvo Group Australia – Assets comprising Volvo dealership stock and assignabl
 "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),13 Nov 2026 13:05 AEDT
 "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Target(s) / vendor(s): Central Hospitality Services Pty Ltd (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD (ABN 35 636 190 960) → Central Hospitality Services Pty Ltd; ACN - (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD; ABN - (ABN 35 636 190…,13 Nov 2026 13:05 AEDT
 "Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Other parties: AUSTRALIAN VENUE CO LIMITED (ABN 14 607 666 348) → AUSTRALIAN VENUE CO LIMITED; ABN - (ABN 14 607 666 348),13 Nov 2026 13:05 AEDT
-Amadeus - Idemia Public Security (MN-60027),Notification added to the register,13 Nov 2026 00:57 AEDT
-Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),Status: Under assessment → Assessment completed,13 Nov 2026 00:57 AEDT
-Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),ACCC determination: (blank) → Approved,13 Nov 2026 00:57 AEDT
-Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),Determination published: (blank) → 12 Nov 2026,13 Nov 2026 00:57 AEDT
-Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm (MN-15053),New document: Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination (12 Nov 2026),13 Nov 2026 00:57 AEDT
-New England Motor Group – Armidale Automotive Group (WA-65043),Waiver added to the register,13 Nov 2026 00:57 AEDT
-Royal Caribbean Cruises – Sandals Resorts International (WA-45037),Waiver added to the register,13 Nov 2026 00:57 AEDT
-ctrl:cyber - Razilio (WA-05061),Waiver added to the register,13 Nov 2026 00:57 AEDT
-The Borg Group - Programmed Timber (WA-55043),Waiver added to the register,13 Nov 2026 00:57 AEDT
-Jellinbah Group - Further interest in Lake Vermont JV (WA-55033),Acquirer(s): QCMM (LAKE VERMONT HOLDINGS) PTY LTD (ABN 22 114 286 878) → QCMM (LAKE VERMONT HOLDINGS) PTY LTD; ABN - (ABN 22 114 286 878),13 Nov 2026 00:57 AEDT
-Jellinbah Group - Further interest in Lake Vermont JV (WA-55033),Target(s) / vendor(s): CHR VERMONT PTY LTD (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD. (ABN 22 065 321 440) → CHR VERMONT PTY LTD; ABN - (ABN 75 127 903 520); BOWEN BASIN COAL PTY. LTD.; ABN - (ABN 22 065 321 440),13 Nov 2026 00:57 AEDT
-Jellinbah Group - Further interest in Lake Vermont JV (WA-55033),Other parties: Lake Vermont Resources Pty Ltd (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD (ABN 30 114 286 850); JELLINBAH RES… → Lake Vermont Resources Pty Ltd; ABN - (ABN 28 114 286 841); LAKE VERMONT MARKETING PTY LTD; ABN - (ABN 30 114 286 850);…,13 Nov 2026 00:57 AEDT
-Acclime Corporate Services Australia – Polar 993 Group (WA-45025),Acquirer(s): ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD (ABN 98 150 499 442); Achronite Bidco Ltd → ACCLIME CORPORATE SERVICES AUSTRALIA PTY LTD; ABN - (ABN 98 150 499 442); Achronite Bidco Ltd,13 Nov 2026 00:57 AEDT
-Acclime Corporate Services Australia – Polar 993 Group (WA-45025),Target(s) / vendor(s): 993 FUND SERVICES PTY LTD (ABN 54 665 089 421); POLAR 993 PTY LTD (ABN 77 642 129 226); POLAR 993 ADVISORY PTY LTD (ABN… → 993 FUND SERVICES PTY LTD; ABN - (ABN 54 665 089 421); POLAR 993 PTY LTD; ABN - (ABN 77 642 129 226); POLAR 993 ADVISOR…,13 Nov 2026 00:57 AEDT
-The Independents Group – acquisition of entities within the Smuggler Group (MN-35034),Other parties: TowerBrook Capital Partners L.P. (Identifying number - 3922576; ELOCGA (Identifying number - B209477)); K10 Holding SA… → TowerBrook Capital Partners L.P. (Identifying number - 3922576); ELOCGA (Identifying number - B209477); K10 Holding SA…,13 Nov 2026 00:57 AEDT
-Redwood Services Group – Concept Data and Voice Select (WA-05047),Acquirer(s): Redwood Services Group Australia Pty Ltd (ABN 15 675 368 162) → Redwood Services Group Australia Pty Ltd; ABN - (ABN 15 675 368 162),13 Nov 2026 00:57 AEDT
-Redwood Services Group – Concept Data and Voice Select (WA-05047),Target(s) / vendor(s): Concept Data Pty Ltd (ABN 51 602 501 404); Voice Select Pty Ltd (ABN 81 626 240 220); Gary Paradise → Concept Data Pty Ltd; ABN - (ABN 51 602 501 404); Voice Select Pty Ltd; ABN - (ABN 81 626 240 220); Gary Paradise,13 Nov 2026 00:57 AEDT

@@ -1737,7 +1737,7 @@
     "description": "Remedy offer - 29 July 2026 - Journey Beyond (EAG) - SeaLink Rottnest",
     "kind": "Remedy offer",
     "status": "failed",
-    "attempts": 1,
+    "attempts": 2,
     "first_seen_utc": "2026-10-25T18:42:58Z",
     "source": "changelog backfill",
     "filename": "",
