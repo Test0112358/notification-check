@@ -1,37 +1,67 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,20 Nov 2026 13:32 AEDT,Up to date
-Last run attempt,20 Nov 2026 13:32 AEDT,success
+Last successful update,21 Nov 2026 01:18 AEDT,Up to date
+Last run attempt,21 Nov 2026 01:18 AEDT,success
 HTTP requests used,47,
 ,,
-Total entries monitored,878,
-New entries this run,1,
-Changed entries this run,3,material changes only
+Total entries monitored,886,
+New entries this run,8,
+Changed entries this run,4,material changes only
 Removed entries this run,0,
-New decision documents,2,
+New decision documents,7,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (1),Case Number,URL
-"+ Endeavour Group - retail liquor site in Darch, WA",MN-20048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa
+NEW ENTRIES (8),Case Number,URL
+"+ Endeavour Group – retail liquor site in Cowes, VIC",MN-85069,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic
+"+ Adcome – IGA Allora, QLD",WA-25064,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adcome-%E2%80%93-iga-allora-qld
++ Vista Equity Partners – Enterprise Trust Business of HID Global Corporation,WA-01135,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation
++ Emapta – TOA Global,WA-65047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emapta-%E2%80%93-toa-global
++ Apiam - Caroline Springs Veterinary Centre & Animal Hospital,WA-20056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-caroline-springs-veterinary-centre-animal-hospital
++ Exponent Group – Crane Building Services and Utilities,WA-20054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/exponent-group-%E2%80%93-crane-building-services-and-utilities
++ Advent Partners – investment in Procare Group,WA-70051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-partners-%E2%80%93-investment-in-procare-group
++ Infosys – Versent Group (Telstra Purple),WA-85064,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/infosys-%E2%80%93-versent-group-telstra-purple
 ,,
-CHANGED ENTRIES (3),Change,URL
-~ OCTA – Woodside-EDL LNG JV,MN-10044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv
-,End of determination period: 9 Dec 2026 → 16 Dec 2026,
-,New document: Timeline extended by 5 business days – following request by parties (20 Nov 2026),
-~ Kinetic - Tassielink,MN-75058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink
-,End of determination period: 25 Nov 2026 → 2 Dec 2026,
-,New document: Timeline extended by 5 business days - following request by parties (20 Nov 2026),
-"~ Accent Group – The Athlete’s Foot in Karrinyup, WA",WA-01118,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa
-,Acquirer(s): The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251) → The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251),
-,Target(s) / vendor(s): West Feet Pty Ltd (ABN 21 129 844 944) → West Feet Pty Ltd; ABN - (ABN 21 129 844 944),
+CHANGED ENTRIES (4),Change,URL
+~ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail
+,Acquirer(s): PROTECH GROUP (AUST) PTY LTD (ABN 38 163 904 694) → PROTECH GROUP (AUST) PTY LTD; ABN - (ABN 38 163 904 694),
+,Target(s) / vendor(s): ACTIVATERAIL PTY LTD (ABN 46 617 749 809) → ACTIVATERAIL PTY LTD; ABN - (ABN 46 617 749 809),
+,Other parties: RIPPERS PTY LTD (ABN 90 600 268 031) → RIPPERS PTY LTD; ABN - (ABN 90 600 268 031),
+~ Aurizon – transactions related to the relocation of a rail corridor at Moranbah North,WA-05034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north
+,Acquirer(s): AURIZON NETWORK PTY LTD (ABN 78 132 181 116) → AURIZON NETWORK PTY LTD; ABN - (ABN 78 132 181 116),
+,Target(s) / vendor(s): Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING CO… → Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD; ABN - (ABN 52 011 027 295); ANGLO AMERICAN STEELMA…,
+,Other parties: AURIZON HOLDINGS LIMITED (ABN 14 146 335 622) → AURIZON HOLDINGS LIMITED; ABN - (ABN 14 146 335 622),
+~ AGS Financial Group - Hartley Financial Group,WA-85041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ags-financial-group-hartley-financial-group
+,Acquirer(s): AGS ACCOUNTING PTY LIMITED (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED (ABN 70 093 990 946) → AGS ACCOUNTING PTY LIMITED; ABN - (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED; ABN - (ABN 70 093 990 946),
+,Target(s) / vendor(s): PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD (ABN 76 615 645 979); TAX AND WEALTH PTY LTD (ABN 45 606 112 805); HARTLEY… → PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD; ABN - (ABN 76 615 645 979); TAX AND WEALTH PTY LTD; ABN - (ABN 45 606 112…,
+,Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED (ABN 38 09… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED; AB…,
+~ CVC Capital Partners – IRCA Group,WA-35037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group
+,"Other parties: CVC Capital Partners plc (JFSC – 140080; Advent International, L.P. (Delaware LP number 2044184)) → CVC Capital Partners plc (JFSC – 140080); Advent International, L.P. (Delaware LP number 2044184)",
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Endeavour Group – retail liquor site in Cowes, VIC (MN-85069)",Notification added to the register,21 Nov 2026 01:18 AEDT
+"Adcome – IGA Allora, QLD (WA-25064)",Waiver added to the register,21 Nov 2026 01:18 AEDT
+Vista Equity Partners – Enterprise Trust Business of HID Global Corporation (WA-01135),Waiver added to the register,21 Nov 2026 01:18 AEDT
+Emapta – TOA Global (WA-65047),Waiver added to the register,21 Nov 2026 01:18 AEDT
+Apiam - Caroline Springs Veterinary Centre & Animal Hospital (WA-20056),Waiver added to the register,21 Nov 2026 01:18 AEDT
+Exponent Group – Crane Building Services and Utilities (WA-20054),Waiver added to the register,21 Nov 2026 01:18 AEDT
+Advent Partners – investment in Procare Group (WA-70051),Waiver added to the register,21 Nov 2026 01:18 AEDT
+Infosys – Versent Group (Telstra Purple) (WA-85064),Waiver added to the register,21 Nov 2026 01:18 AEDT
+Protech - ActivateRail (MN-05027),Acquirer(s): PROTECH GROUP (AUST) PTY LTD (ABN 38 163 904 694) → PROTECH GROUP (AUST) PTY LTD; ABN - (ABN 38 163 904 694),21 Nov 2026 01:18 AEDT
+Protech - ActivateRail (MN-05027),Target(s) / vendor(s): ACTIVATERAIL PTY LTD (ABN 46 617 749 809) → ACTIVATERAIL PTY LTD; ABN - (ABN 46 617 749 809),21 Nov 2026 01:18 AEDT
+Protech - ActivateRail (MN-05027),Other parties: RIPPERS PTY LTD (ABN 90 600 268 031) → RIPPERS PTY LTD; ABN - (ABN 90 600 268 031),21 Nov 2026 01:18 AEDT
+Aurizon – transactions related to the relocation of a rail corridor at Moranbah North (WA-05034),Acquirer(s): AURIZON NETWORK PTY LTD (ABN 78 132 181 116) → AURIZON NETWORK PTY LTD; ABN - (ABN 78 132 181 116),21 Nov 2026 01:18 AEDT
+Aurizon – transactions related to the relocation of a rail corridor at Moranbah North (WA-05034),Target(s) / vendor(s): Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING CO… → Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD; ABN - (ABN 52 011 027 295); ANGLO AMERICAN STEELMA…,21 Nov 2026 01:18 AEDT
+Aurizon – transactions related to the relocation of a rail corridor at Moranbah North (WA-05034),Other parties: AURIZON HOLDINGS LIMITED (ABN 14 146 335 622) → AURIZON HOLDINGS LIMITED; ABN - (ABN 14 146 335 622),21 Nov 2026 01:18 AEDT
+AGS Financial Group - Hartley Financial Group (WA-85041),Acquirer(s): AGS ACCOUNTING PTY LIMITED (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED (ABN 70 093 990 946) → AGS ACCOUNTING PTY LIMITED; ABN - (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED; ABN - (ABN 70 093 990 946),21 Nov 2026 01:18 AEDT
+AGS Financial Group - Hartley Financial Group (WA-85041),Target(s) / vendor(s): PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD (ABN 76 615 645 979); TAX AND WEALTH PTY LTD (ABN 45 606 112 805); HARTLEY… → PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD; ABN - (ABN 76 615 645 979); TAX AND WEALTH PTY LTD; ABN - (ABN 45 606 112…,21 Nov 2026 01:18 AEDT
+AGS Financial Group - Hartley Financial Group (WA-85041),Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED (ABN 38 09… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED; AB…,21 Nov 2026 01:18 AEDT
+CVC Capital Partners – IRCA Group (WA-35037),"Other parties: CVC Capital Partners plc (JFSC – 140080; Advent International, L.P. (Delaware LP number 2044184)) → CVC Capital Partners plc (JFSC – 140080); Advent International, L.P. (Delaware LP number 2044184)",21 Nov 2026 01:18 AEDT
 "Endeavour Group - retail liquor site in Darch, WA (MN-20048)",Notification added to the register,20 Nov 2026 13:32 AEDT
 OCTA – Woodside-EDL LNG JV (MN-10044),End of determination period: 9 Dec 2026 → 16 Dec 2026,20 Nov 2026 13:32 AEDT
 OCTA – Woodside-EDL LNG JV (MN-10044),New document: Timeline extended by 5 business days – following request by parties (20 Nov 2026),20 Nov 2026 13:32 AEDT
@@ -167,24 +197,3 @@ Danone – MADE (MN-55031),Other parties: DANONE SAPUTO DAIRY AUSTRALIA PTY LTD 
 Johns Lyng Group – C&M Build Group (MN-75035),Acquirer(s): Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025) → Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025),16 Nov 2026 12:21 AEDT
 Johns Lyng Group – C&M Build Group (MN-75035),Target(s) / vendor(s): C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053) → C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053),16 Nov 2026 12:21 AEDT
 Johns Lyng Group – C&M Build Group (MN-75035),Other parties: JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103) → JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103),16 Nov 2026 12:21 AEDT
-William Adams - Clennett Hire (MN-85063),Notification added to the register,14 Nov 2026 00:23 AEDT
-Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Matter name: Amwins / Dragoneer / KKR Consortium – Steadfast → Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast,14 Nov 2026 00:23 AEDT
-Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Notification date: 10 Nov 2026 → 12 Nov 2026,14 Nov 2026 00:23 AEDT
-Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),End of determination period: 22 Dec 2026 → 12 Jan 2027,14 Nov 2026 00:23 AEDT
-Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast (MN-25056),Consultation closes: (blank) → 20 Nov 2026,14 Nov 2026 00:23 AEDT
-AUB – One Underwriting (MN-55042),Status: Under assessment → Assessment completed,14 Nov 2026 00:23 AEDT
-AUB – One Underwriting (MN-55042),ACCC determination: (blank) → Approved,14 Nov 2026 00:23 AEDT
-AUB – One Underwriting (MN-55042),Determination published: (blank) → 13 Nov 2026,14 Nov 2026 00:23 AEDT
-AUB – One Underwriting (MN-55042),New document: AUB - One Underwriting - Phase 1 determination (13 Nov 2026),14 Nov 2026 00:23 AEDT
-Camp Australia – Jabiru (MN-15048),Status: Under assessment → Assessment completed,14 Nov 2026 00:23 AEDT
-Camp Australia – Jabiru (MN-15048),ACCC determination: (blank) → Approved,14 Nov 2026 00:23 AEDT
-Camp Australia – Jabiru (MN-15048),Determination published: (blank) → 13 Nov 2026,14 Nov 2026 00:23 AEDT
-Camp Australia – Jabiru (MN-15048),New document: Camp Australia - Jabiru - Phase 1 Determination (13 Nov 2026),14 Nov 2026 00:23 AEDT
-Ingenia - Peet - Flagstone JV (MN-60048),Status: Under assessment → Assessment completed,14 Nov 2026 00:23 AEDT
-Ingenia - Peet - Flagstone JV (MN-60048),ACCC determination: (blank) → Approved,14 Nov 2026 00:23 AEDT
-Ingenia - Peet - Flagstone JV (MN-60048),New document: Ingenia - Peet - Flagstone JV - Phase 1 determination (13 Nov 2026),14 Nov 2026 00:23 AEDT
-Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Acquirer(s): Wesfarmers Built Pty Ltd (ACN 698 309 509); Built Living (Built Investor) Pty Limited (ABN 71 698 095 831) → Wesfarmers Built Pty Ltd; ACN - (ACN 698 309 509); Built Living (Built Investor) Pty Limited; ABN - (ABN 71 698 095 831),14 Nov 2026 00:23 AEDT
-Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Target(s) / vendor(s): Built Living Holdings Pty Limited (ABN 39 698 096 945) → Built Living Holdings Pty Limited; ABN - (ABN 39 698 096 945),14 Nov 2026 00:23 AEDT
-Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Other parties: Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Lim… → Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Ho…,14 Nov 2026 00:23 AEDT
-"Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD (WA-80038)",Acquirer(s): Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATIO… → Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE E…,14 Nov 2026 00:23 AEDT
-Francisco Partners – Majority interest in Command Alkon (WA-90033),"Other parties: COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-333… → COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number -…",14 Nov 2026 00:23 AEDT

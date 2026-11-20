@@ -1,14 +1,14 @@
 {
-  "run_utc": "2026-11-20T02:34:59Z",
-  "register_entries_checked": 878,
+  "run_utc": "2026-11-20T14:21:19Z",
+  "register_entries_checked": 886,
   "layer3_sample_size": 40,
-  "total_issues": 50,
+  "total_issues": 51,
   "errors": 0,
-  "warnings": 50,
+  "warnings": 51,
   "infos": 0,
   "passed": true,
   "issues_by_rule": {
-    "PHASE1_PERIOD_TOO_SHORT": 9,
+    "PHASE1_PERIOD_TOO_SHORT": 10,
     "COMPLETED_MISSING_PUB_DATE": 31,
     "ANZSIC_NO_CODE_FOUND": 1,
     "DOCUMENT_DOWNLOAD_GAVE_UP": 9

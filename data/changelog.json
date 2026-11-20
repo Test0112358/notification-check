@@ -41681,5 +41681,189 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic",
+    "title": "Endeavour Group – retail liquor site in Cowes, VIC",
+    "case_number": "MN-85069",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "adcome-%E2%80%93-iga-allora-qld",
+    "title": "Adcome – IGA Allora, QLD",
+    "case_number": "WA-25064",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adcome-%E2%80%93-iga-allora-qld",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation",
+    "title": "Vista Equity Partners – Enterprise Trust Business of HID Global Corporation",
+    "case_number": "WA-01135",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "emapta-%E2%80%93-toa-global",
+    "title": "Emapta – TOA Global",
+    "case_number": "WA-65047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emapta-%E2%80%93-toa-global",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "apiam-caroline-springs-veterinary-centre-animal-hospital",
+    "title": "Apiam - Caroline Springs Veterinary Centre & Animal Hospital",
+    "case_number": "WA-20056",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-caroline-springs-veterinary-centre-animal-hospital",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "exponent-group-%E2%80%93-crane-building-services-and-utilities",
+    "title": "Exponent Group – Crane Building Services and Utilities",
+    "case_number": "WA-20054",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/exponent-group-%E2%80%93-crane-building-services-and-utilities",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "advent-partners-%E2%80%93-investment-in-procare-group",
+    "title": "Advent Partners – investment in Procare Group",
+    "case_number": "WA-70051",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-partners-%E2%80%93-investment-in-procare-group",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "infosys-%E2%80%93-versent-group-telstra-purple",
+    "title": "Infosys – Versent Group (Telstra Purple)",
+    "case_number": "WA-85064",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/infosys-%E2%80%93-versent-group-telstra-purple",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "protech-activaterail",
+    "title": "Protech - ActivateRail",
+    "case_number": "MN-05027",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "PROTECH GROUP (AUST) PTY LTD (ABN 38 163 904 694)",
+        "new": "PROTECH GROUP (AUST) PTY LTD; ABN - (ABN 38 163 904 694)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ACTIVATERAIL PTY LTD (ABN 46 617 749 809)",
+        "new": "ACTIVATERAIL PTY LTD; ABN - (ABN 46 617 749 809)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "RIPPERS PTY LTD (ABN 90 600 268 031)",
+        "new": "RIPPERS PTY LTD; ABN - (ABN 90 600 268 031)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north",
+    "title": "Aurizon – transactions related to the relocation of a rail corridor at Moranbah North",
+    "case_number": "WA-05034",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AURIZON NETWORK PTY LTD (ABN 78 132 181 116)",
+        "new": "AURIZON NETWORK PTY LTD; ABN - (ABN 78 132 181 116)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING COAL HOLDINGS LIMITED (ABN 52 079 017 940); ANGLO AMERICAN AUSTRALIA LIMITED (ABN 47 004 892 371); The Minister for Transport and Main Roads of Queensland; Department of Transport and Main Roads of Queensland; ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED (ABN 14 069 603 587); MORANBAH NORTH COAL PTY LTD (ABN 99 007 083 249)",
+        "new": "Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD; ABN - (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING COAL HOLDINGS LIMITED; ABN - (ABN 52 079 017 940); ANGLO AMERICAN AUSTRALIA LIMITED; ABN - (ABN 47 004 892 371); The Minister for Transport and Main Roads of Queensland; Department of Transport and Main Roads of Queensland; ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED; ABN - (ABN 14 069 603 587); MORANBAH NORTH COAL PTY LTD; ABN - (ABN 99 007 083 249)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "AURIZON HOLDINGS LIMITED (ABN 14 146 335 622)",
+        "new": "AURIZON HOLDINGS LIMITED; ABN - (ABN 14 146 335 622)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "ags-financial-group-hartley-financial-group",
+    "title": "AGS Financial Group - Hartley Financial Group",
+    "case_number": "WA-85041",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ags-financial-group-hartley-financial-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AGS ACCOUNTING PTY LIMITED (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED (ABN 70 093 990 946)",
+        "new": "AGS ACCOUNTING PTY LIMITED; ABN - (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED; ABN - (ABN 70 093 990 946)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD (ABN 76 615 645 979); TAX AND WEALTH PTY LTD (ABN 45 606 112 805); HARTLEY FINANCIAL PTY. LTD. (ABN 22 124 384 274)",
+        "new": "PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD; ABN - (ABN 76 615 645 979); TAX AND WEALTH PTY LTD; ABN - (ABN 45 606 112 805); HARTLEY FINANCIAL PTY. LTD.; ABN - (ABN 22 124 384 274)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED (ABN 38 097 451 495)",
+        "new": "AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED; ABN - (ABN 38 097 451 495)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T14:18:31Z",
+    "slug": "cvc-capital-partners-%E2%80%93-irca-group",
+    "title": "CVC Capital Partners – IRCA Group",
+    "case_number": "WA-35037",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "other_parties",
+        "old": "CVC Capital Partners plc (JFSC – 140080; Advent International, L.P. (Delaware LP number 2044184))",
+        "new": "CVC Capital Partners plc (JFSC – 140080); Advent International, L.P. (Delaware LP number 2044184)",
+        "material": true
+      }
+    ]
   }
 ]

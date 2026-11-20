@@ -1,146 +1,171 @@
 {
-  "run_utc": "2026-11-20T02:32:12Z",
-  "run_canberra": "20 Nov 2026 13:32 AEDT",
-  "new_count": 1,
-  "changed_count": 3,
-  "cosmetic_only_count": 2,
+  "run_utc": "2026-11-20T14:18:31Z",
+  "run_canberra": "21 Nov 2026 01:18 AEDT",
+  "new_count": 8,
+  "changed_count": 4,
+  "cosmetic_only_count": 0,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
-      "title": "Endeavour Group - retail liquor site in Darch, WA",
-      "case_number": "MN-20048",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa"
+      "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic",
+      "title": "Endeavour Group – retail liquor site in Cowes, VIC",
+      "case_number": "MN-85069",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic"
+    },
+    {
+      "slug": "adcome-%E2%80%93-iga-allora-qld",
+      "title": "Adcome – IGA Allora, QLD",
+      "case_number": "WA-25064",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adcome-%E2%80%93-iga-allora-qld"
+    },
+    {
+      "slug": "vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation",
+      "title": "Vista Equity Partners – Enterprise Trust Business of HID Global Corporation",
+      "case_number": "WA-01135",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation"
+    },
+    {
+      "slug": "emapta-%E2%80%93-toa-global",
+      "title": "Emapta – TOA Global",
+      "case_number": "WA-65047",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emapta-%E2%80%93-toa-global"
+    },
+    {
+      "slug": "apiam-caroline-springs-veterinary-centre-animal-hospital",
+      "title": "Apiam - Caroline Springs Veterinary Centre & Animal Hospital",
+      "case_number": "WA-20056",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-caroline-springs-veterinary-centre-animal-hospital"
+    },
+    {
+      "slug": "exponent-group-%E2%80%93-crane-building-services-and-utilities",
+      "title": "Exponent Group – Crane Building Services and Utilities",
+      "case_number": "WA-20054",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/exponent-group-%E2%80%93-crane-building-services-and-utilities"
+    },
+    {
+      "slug": "advent-partners-%E2%80%93-investment-in-procare-group",
+      "title": "Advent Partners – investment in Procare Group",
+      "case_number": "WA-70051",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-partners-%E2%80%93-investment-in-procare-group"
+    },
+    {
+      "slug": "infosys-%E2%80%93-versent-group-telstra-purple",
+      "title": "Infosys – Versent Group (Telstra Purple)",
+      "case_number": "WA-85064",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/infosys-%E2%80%93-versent-group-telstra-purple"
     }
   ],
   "changed_entries": [
     {
-      "slug": "amadeus-idemia-public-security",
-      "title": "Amadeus - Idemia Public Security",
-      "case_number": "MN-60027",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amadeus - Idemia Public Security. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-19",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "too-lost-%E2%80%93-xelon-entertainment",
-      "title": "Too Lost – Xelon Entertainment",
-      "case_number": "MN-65045",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
-      "material": false,
-      "summary": [],
-      "changes": [
-        {
-          "field": "consultation_text",
-          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Too Lost - Xelon Entertainment. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
-          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "material": false
-        },
-        {
-          "field": "consultation_close_date",
-          "old": "2026-11-19",
-          "new": "",
-          "material": false
-        }
-      ]
-    },
-    {
-      "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
-      "title": "OCTA – Woodside-EDL LNG JV",
-      "case_number": "MN-10044",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
+      "slug": "protech-activaterail",
+      "title": "Protech - ActivateRail",
+      "case_number": "MN-05027",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail",
       "material": true,
       "summary": [
-        "End of determination period: 9 Dec 2026 → 16 Dec 2026",
-        "New document: Timeline extended by 5 business days – following request by parties (20 Nov 2026)"
-      ],
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "9 Dec 2026",
-          "new": "16 Dec 2026",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-29T10:01:25+11:00",
-          "new": "2026-11-20T11:43:35+11:00",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '20 Nov 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "kinetic-tassielink",
-      "title": "Kinetic - Tassielink",
-      "case_number": "MN-75058",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink",
-      "material": true,
-      "summary": [
-        "End of determination period: 25 Nov 2026 → 2 Dec 2026",
-        "New document: Timeline extended by 5 business days - following request by parties (20 Nov 2026)"
-      ],
-      "changes": [
-        {
-          "field": "end_of_determination_period",
-          "old": "25 Nov 2026",
-          "new": "2 Dec 2026",
-          "material": true
-        },
-        {
-          "field": "last_modified_accc",
-          "old": "2026-10-29T13:59:08+11:00",
-          "new": "2026-11-20T11:07:33+11:00",
-          "material": false
-        },
-        {
-          "field": "decisions_docs",
-          "old": "[{'date': '29 Oct 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
-          "new": "[{'date': '20 Nov 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '29 Oct 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
-      "title": "Accent Group – The Athlete’s Foot in Karrinyup, WA",
-      "case_number": "WA-01118",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
-      "material": true,
-      "summary": [
-        "Acquirer(s): The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251) → The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251)",
-        "Target(s) / vendor(s): West Feet Pty Ltd (ABN 21 129 844 944) → West Feet Pty Ltd; ABN - (ABN 21 129 844 944)"
+        "Acquirer(s): PROTECH GROUP (AUST) PTY LTD (ABN 38 163 904 694) → PROTECH GROUP (AUST) PTY LTD; ABN - (ABN 38 163 904 694)",
+        "Target(s) / vendor(s): ACTIVATERAIL PTY LTD (ABN 46 617 749 809) → ACTIVATERAIL PTY LTD; ABN - (ABN 46 617 749 809)",
+        "Other parties: RIPPERS PTY LTD (ABN 90 600 268 031) → RIPPERS PTY LTD; ABN - (ABN 90 600 268 031)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251)",
-          "new": "The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251)",
+          "old": "PROTECH GROUP (AUST) PTY LTD (ABN 38 163 904 694)",
+          "new": "PROTECH GROUP (AUST) PTY LTD; ABN - (ABN 38 163 904 694)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "West Feet Pty Ltd (ABN 21 129 844 944)",
-          "new": "West Feet Pty Ltd; ABN - (ABN 21 129 844 944)",
+          "old": "ACTIVATERAIL PTY LTD (ABN 46 617 749 809)",
+          "new": "ACTIVATERAIL PTY LTD; ABN - (ABN 46 617 749 809)",
+          "material": true
+        },
+        {
+          "field": "other_parties",
+          "old": "RIPPERS PTY LTD (ABN 90 600 268 031)",
+          "new": "RIPPERS PTY LTD; ABN - (ABN 90 600 268 031)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north",
+      "title": "Aurizon – transactions related to the relocation of a rail corridor at Moranbah North",
+      "case_number": "WA-05034",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north",
+      "material": true,
+      "summary": [
+        "Acquirer(s): AURIZON NETWORK PTY LTD (ABN 78 132 181 116) → AURIZON NETWORK PTY LTD; ABN - (ABN 78 132 181 116)",
+        "Target(s) / vendor(s): Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING CO… → Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD; ABN - (ABN 52 011 027 295); ANGLO AMERICAN STEELMA…",
+        "Other parties: AURIZON HOLDINGS LIMITED (ABN 14 146 335 622) → AURIZON HOLDINGS LIMITED; ABN - (ABN 14 146 335 622)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "AURIZON NETWORK PTY LTD (ABN 78 132 181 116)",
+          "new": "AURIZON NETWORK PTY LTD; ABN - (ABN 78 132 181 116)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING COAL HOLDINGS LIMITED (ABN 52 079 017 940); ANGLO AMERICAN AUSTRALIA LIMITED (ABN 47 004 892 371); The Minister for Transport and Main Roads of Queensland; Department of Transport and Main Roads of Queensland; ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED (ABN 14 069 603 587); MORANBAH NORTH COAL PTY LTD (ABN 99 007 083 249)",
+          "new": "Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD; ABN - (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING COAL HOLDINGS LIMITED; ABN - (ABN 52 079 017 940); ANGLO AMERICAN AUSTRALIA LIMITED; ABN - (ABN 47 004 892 371); The Minister for Transport and Main Roads of Queensland; Department of Transport and Main Roads of Queensland; ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED; ABN - (ABN 14 069 603 587); MORANBAH NORTH COAL PTY LTD; ABN - (ABN 99 007 083 249)",
+          "material": true
+        },
+        {
+          "field": "other_parties",
+          "old": "AURIZON HOLDINGS LIMITED (ABN 14 146 335 622)",
+          "new": "AURIZON HOLDINGS LIMITED; ABN - (ABN 14 146 335 622)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "ags-financial-group-hartley-financial-group",
+      "title": "AGS Financial Group - Hartley Financial Group",
+      "case_number": "WA-85041",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ags-financial-group-hartley-financial-group",
+      "material": true,
+      "summary": [
+        "Acquirer(s): AGS ACCOUNTING PTY LIMITED (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED (ABN 70 093 990 946) → AGS ACCOUNTING PTY LIMITED; ABN - (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED; ABN - (ABN 70 093 990 946)",
+        "Target(s) / vendor(s): PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD (ABN 76 615 645 979); TAX AND WEALTH PTY LTD (ABN 45 606 112 805); HARTLEY… → PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD; ABN - (ABN 76 615 645 979); TAX AND WEALTH PTY LTD; ABN - (ABN 45 606 112…",
+        "Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED (ABN 38 09… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED; AB…"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "AGS ACCOUNTING PTY LIMITED (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED (ABN 70 093 990 946)",
+          "new": "AGS ACCOUNTING PTY LIMITED; ABN - (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED; ABN - (ABN 70 093 990 946)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD (ABN 76 615 645 979); TAX AND WEALTH PTY LTD (ABN 45 606 112 805); HARTLEY FINANCIAL PTY. LTD. (ABN 22 124 384 274)",
+          "new": "PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD; ABN - (ABN 76 615 645 979); TAX AND WEALTH PTY LTD; ABN - (ABN 45 606 112 805); HARTLEY FINANCIAL PTY. LTD.; ABN - (ABN 22 124 384 274)",
+          "material": true
+        },
+        {
+          "field": "other_parties",
+          "old": "AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED (ABN 38 097 451 495)",
+          "new": "AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED; ABN - (ABN 38 097 451 495)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "cvc-capital-partners-%E2%80%93-irca-group",
+      "title": "CVC Capital Partners – IRCA Group",
+      "case_number": "WA-35037",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group",
+      "material": true,
+      "summary": [
+        "Other parties: CVC Capital Partners plc (JFSC – 140080; Advent International, L.P. (Delaware LP number 2044184)) → CVC Capital Partners plc (JFSC – 140080); Advent International, L.P. (Delaware LP number 2044184)"
+      ],
+      "changes": [
+        {
+          "field": "other_parties",
+          "old": "CVC Capital Partners plc (JFSC – 140080; Advent International, L.P. (Delaware LP number 2044184))",
+          "new": "CVC Capital Partners plc (JFSC – 140080); Advent International, L.P. (Delaware LP number 2044184)",
           "material": true
         }
       ]
@@ -149,30 +174,95 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "kinetic-tassielink",
-      "title": "Kinetic - Tassielink",
-      "case_number": "MN-75058",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink",
+      "slug": "adcome-%E2%80%93-iga-allora-qld",
+      "title": "Adcome – IGA Allora, QLD",
+      "case_number": "WA-25064",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adcome-%E2%80%93-iga-allora-qld",
       "date": "20 Nov 2026",
-      "description": "Timeline extended by 5 business days - following request by parties",
-      "url": "",
-      "category": "Timeline extended",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Adcome%20-%20IGA%20Allora%2C%20QLD%20%28WA-25064%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
+      "category": "Waiver determination",
       "priority": false,
-      "new_matter": false
+      "new_matter": true
     },
     {
-      "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
-      "title": "OCTA – Woodside-EDL LNG JV",
-      "case_number": "MN-10044",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
+      "slug": "advent-partners-%E2%80%93-investment-in-procare-group",
+      "title": "Advent Partners – investment in Procare Group",
+      "case_number": "WA-70051",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-partners-%E2%80%93-investment-in-procare-group",
       "date": "20 Nov 2026",
-      "description": "Timeline extended by 5 business days – following request by parties",
-      "url": "",
-      "category": "Timeline extended",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Advent%20Partners%20%E2%80%93%20investment%20in%20Procare%20Group%20%28WA-70051%29%20-%20Notification%20waiver%20determination%20-%2020%20November%202026.pdf",
+      "category": "Waiver determination",
       "priority": false,
-      "new_matter": false
+      "new_matter": true
+    },
+    {
+      "slug": "apiam-caroline-springs-veterinary-centre-animal-hospital",
+      "title": "Apiam - Caroline Springs Veterinary Centre & Animal Hospital",
+      "case_number": "WA-20056",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-caroline-springs-veterinary-centre-animal-hospital",
+      "date": "20 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Apiam%20-%20Caroline%20Springs%20Veterinary%20Centre%20%28WA-20056%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "emapta-%E2%80%93-toa-global",
+      "title": "Emapta – TOA Global",
+      "case_number": "WA-65047",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emapta-%E2%80%93-toa-global",
+      "date": "20 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Emapta%20-%20TOA%20Global%20%28WA-65047%29%20-%20Notification%20waiver%20determination%20-%2020%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "exponent-group-%E2%80%93-crane-building-services-and-utilities",
+      "title": "Exponent Group – Crane Building Services and Utilities",
+      "case_number": "WA-20054",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/exponent-group-%E2%80%93-crane-building-services-and-utilities",
+      "date": "20 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Exponent%20Group%20-%20Crane%20Building%20Services%20and%20Utilities%20%28WA-20054%29%20-%20Notification%20waiver%20determination%20-%2020%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "infosys-%E2%80%93-versent-group-telstra-purple",
+      "title": "Infosys – Versent Group (Telstra Purple)",
+      "case_number": "WA-85064",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/infosys-%E2%80%93-versent-group-telstra-purple",
+      "date": "20 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Infosys%20-%20Versent%20Group%20%28Telstra%20Purple%29%20%28WA-85064%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026_0.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation",
+      "title": "Vista Equity Partners – Enterprise Trust Business of HID Global Corporation",
+      "case_number": "WA-01135",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation",
+      "date": "20 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Vista%20Equity%20-%20Enterprise%20Trust%20Business%20of%20HID%20Global%20Corporation%20%28WA-01135%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
     }
   ]
 }
