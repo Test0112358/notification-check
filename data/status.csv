@@ -1,54 +1,44 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,20 Nov 2026 01:39 AEDT,Up to date
-Last run attempt,20 Nov 2026 01:39 AEDT,success
-HTTP requests used,46,
+Last successful update,20 Nov 2026 13:32 AEDT,Up to date
+Last run attempt,20 Nov 2026 13:32 AEDT,success
+HTTP requests used,47,
 ,,
-Total entries monitored,877,
-New entries this run,9,
-Changed entries this run,5,material changes only
+Total entries monitored,878,
+New entries this run,1,
+Changed entries this run,3,material changes only
 Removed entries this run,0,
-New decision documents,11,
+New decision documents,2,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (9),Case Number,URL
-"+ Coles – supermarket site in Broulee, NSW",WA-60062,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-broulee-nsw
-"+ Australian Venue Co – Assets of Central Hotel, Beaconsfield VIC",WA-70053,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-central-hotel-beaconsfield-vic
-+ MA Financial (Redcape Fund) – Hotel Canobolas,WA-95050,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-hotel-canobolas
-"+ Respect Group – Clifton Co-op Hospital aged care, support at home care and community housing, Clifton QLD",WA-85067,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-clifton-co-op-hospital-aged-care-support-at-home-care-and-community-housing-clifton-qld
-+ Pemba – Accelagen,WA-45043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-accelagen
-+ Sheffield Group – Champion Fasteners,WA-40055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sheffield-group-%E2%80%93-champion-fasteners
-+ Dexus – LDK Healthcare Unit Trust,WA-85065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/dexus-%E2%80%93-ldk-healthcare-unit-trust
-"+ Home Timber & Hardware - Mitre 10, Picton NSW",WA-20052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/home-timber-hardware-mitre-10-picton-nsw
-+ Pemba – SuperGuardian,WA-15055,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-superguardian
+NEW ENTRIES (1),Case Number,URL
+"+ Endeavour Group - retail liquor site in Darch, WA",MN-20048,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa
 ,,
-CHANGED ENTRIES (5),Change,URL
-"~ Endeavour Group – retail liquor site in Penrith, NSW",MN-45028,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 19 Nov 2026,
-,"New document: Endeavour - retail liquor site in Penrith, NSW - Phase 1 determination (19 Nov 2026)",
-~ Novotech - Agilex,MN-45032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novotech-agilex
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,New document: Novotech Agilex - Phase 1 Determination (18 Nov 2026),
-~ Accenture - runZero,MN-60031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-runzero
-,Other parties: Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY… → Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY…,
-~ Accenture - Dragos,MN-50032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-dragos
-,"Target(s) / vendor(s): Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A… → Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A…",
-,Other parties: Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD (ABN 90 629 363 328); Accenture Inc. (Delaware regi… → Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD; ABN - (ABN 90 629 363 328); Accenture Inc. (Delawa…,
-~ MM Security – Micron Security Products,MN-01115,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products
-,Acquirer(s): MM SECURITY SUPPLIES PTY LIMITED (ABN 14 670 314 913) → MM SECURITY SUPPLIES PTY LIMITED; ABN - (ABN 14 670 314 913),
-,Target(s) / vendor(s): MICRON ALARM SUPPLIES PTY LTD (ABN 39 002 553 406) → MICRON ALARM SUPPLIES PTY LTD; ABN - (ABN 39 002 553 406),
-,Other parties: MML HOLDINGS LIMITED (ABN 55 084 402 380) → MML HOLDINGS LIMITED; ABN - (ABN 55 084 402 380),
+CHANGED ENTRIES (3),Change,URL
+~ OCTA – Woodside-EDL LNG JV,MN-10044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv
+,End of determination period: 9 Dec 2026 → 16 Dec 2026,
+,New document: Timeline extended by 5 business days – following request by parties (20 Nov 2026),
+~ Kinetic - Tassielink,MN-75058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink
+,End of determination period: 25 Nov 2026 → 2 Dec 2026,
+,New document: Timeline extended by 5 business days - following request by parties (20 Nov 2026),
+"~ Accent Group – The Athlete’s Foot in Karrinyup, WA",WA-01118,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa
+,Acquirer(s): The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251) → The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251),
+,Target(s) / vendor(s): West Feet Pty Ltd (ABN 21 129 844 944) → West Feet Pty Ltd; ABN - (ABN 21 129 844 944),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Endeavour Group - retail liquor site in Darch, WA (MN-20048)",Notification added to the register,20 Nov 2026 13:32 AEDT
+OCTA – Woodside-EDL LNG JV (MN-10044),End of determination period: 9 Dec 2026 → 16 Dec 2026,20 Nov 2026 13:32 AEDT
+OCTA – Woodside-EDL LNG JV (MN-10044),New document: Timeline extended by 5 business days – following request by parties (20 Nov 2026),20 Nov 2026 13:32 AEDT
+Kinetic - Tassielink (MN-75058),End of determination period: 25 Nov 2026 → 2 Dec 2026,20 Nov 2026 13:32 AEDT
+Kinetic - Tassielink (MN-75058),New document: Timeline extended by 5 business days - following request by parties (20 Nov 2026),20 Nov 2026 13:32 AEDT
+"Accent Group – The Athlete’s Foot in Karrinyup, WA (WA-01118)",Acquirer(s): The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251) → The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251),20 Nov 2026 13:32 AEDT
+"Accent Group – The Athlete’s Foot in Karrinyup, WA (WA-01118)",Target(s) / vendor(s): West Feet Pty Ltd (ABN 21 129 844 944) → West Feet Pty Ltd; ABN - (ABN 21 129 844 944),20 Nov 2026 13:32 AEDT
 "Coles – supermarket site in Broulee, NSW (WA-60062)",Waiver added to the register,20 Nov 2026 01:39 AEDT
 "Australian Venue Co – Assets of Central Hotel, Beaconsfield VIC (WA-70053)",Waiver added to the register,20 Nov 2026 01:39 AEDT
 MA Financial (Redcape Fund) – Hotel Canobolas (WA-95050),Waiver added to the register,20 Nov 2026 01:39 AEDT
@@ -198,17 +188,3 @@ Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Target(s) / v
 Wesfarmers and Built Group - Built Living Joint Venture (MN-65021),Other parties: Wesfarmers Limited (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd (ABN 23 094 800 665); Built Group Holdings Pty Lim… → Wesfarmers Limited; ABN - (ABN 28 008 984 049); Wesfarmers Holdings Pty Ltd; ABN - (ABN 23 094 800 665); Built Group Ho…,14 Nov 2026 00:23 AEDT
 "Imagine Education – Bumper Bears Early Learning Centre in Kippa-Ring, QLD (WA-80038)",Acquirer(s): Children First Property Pty Ltd as trustee for the Children First Property Trust (ABN 94 548 413 037); IMAGINE EDUCATIO… → Children First Property Pty Ltd as trustee for the Children First Property Trust; ABN - (ABN 94 548 413 037); IMAGINE E…,14 Nov 2026 00:23 AEDT
 Francisco Partners – Majority interest in Command Alkon (WA-90033),"Other parties: COMMAND ALKON AUSTRALIA PTY. LTD. (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number - 94-333… → COMMAND ALKON AUSTRALIA PTY. LTD.; ABN - (ABN 14 103 246 019); Francisco Partners Management, L.P. (USA Tax ID Number -…",14 Nov 2026 00:23 AEDT
-Steadfast - Axiom Insurance Brokers (MN-25024),Notification added to the register,13 Nov 2026 13:05 AEDT
-Thoma Bravo - Tanda (MN-80047),Status: Under assessment → Assessment completed,13 Nov 2026 13:05 AEDT
-Thoma Bravo - Tanda (MN-80047),ACCC determination: (blank) → Approved,13 Nov 2026 13:05 AEDT
-Thoma Bravo - Tanda (MN-80047),Determination published: (blank) → 13 Nov 2026,13 Nov 2026 13:05 AEDT
-Thoma Bravo - Tanda (MN-80047),New document: Phase 1 Determination (13 Nov 2026),13 Nov 2026 13:05 AEDT
-VetPartners – VetLove (MN-75031),End of determination period: 27 Nov 2026 → 1 Dec 2026,13 Nov 2026 13:05 AEDT
-VetPartners – VetLove (MN-75031),New document: Timeline extended by 2 business days – following request by parties (12 Nov 2026),13 Nov 2026 13:05 AEDT
-Morgan Stanley – Epic Energy (WA-30032),Acquirer(s): MCLEOD BIDCO PTY LTD (ABN 21 700 222 920) → MCLEOD BIDCO PTY LTD; ABN - (ABN 21 700 222 920),13 Nov 2026 13:05 AEDT
-Morgan Stanley – Epic Energy (WA-30032),Target(s) / vendor(s): ART Investment Holdings Pty Limited (ACN 153 817 120) → ART Investment Holdings Pty Limited; ACN - (ACN 153 817 120),13 Nov 2026 13:05 AEDT
-Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre (WA-60038),Acquirer(s): VOLVO GROUP AUSTRALIA PTY LTD (ABN 27 000 761 259) → VOLVO GROUP AUSTRALIA PTY LTD; ABN - (ABN 27 000 761 259),13 Nov 2026 13:05 AEDT
-Volvo Group Australia – Assets comprising Volvo dealership stock and assignable sales contracts of Southside Truck Centre (WA-60038),Target(s) / vendor(s): SOUTHSIDE AGENCIES (LISMORE) PTY LTD (ABN 86 001 496 626) → SOUTHSIDE AGENCIES (LISMORE) PTY LTD; ABN - (ABN 86 001 496 626),13 Nov 2026 13:05 AEDT
-"Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),13 Nov 2026 13:05 AEDT
-"Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Target(s) / vendor(s): Central Hospitality Services Pty Ltd (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD (ABN 35 636 190 960) → Central Hospitality Services Pty Ltd; ACN - (ACN 644 976 045); ATHENA HOSPITALITY GROUP PTY LTD; ABN - (ABN 35 636 190…,13 Nov 2026 13:05 AEDT
-"Australian Venue Co – assets of Black Nugget Hotel Motel, Bartletts Tavern and all associated detached bottle shops (MN-15034)",Other parties: AUSTRALIAN VENUE CO LIMITED (ABN 14 607 666 348) → AUSTRALIAN VENUE CO LIMITED; ABN - (ABN 14 607 666 348),13 Nov 2026 13:05 AEDT

@@ -1,4 +1,28 @@
 {
+  "endeavour-group-retail-liquor-site-in-darch-wa": {
+    "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa",
+    "title": "Endeavour Group - retail liquor site in Darch, WA",
+    "acquisition_status": "Under assessment",
+    "type": "Notification",
+    "case_number": "MN-20048",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "19 November 2026",
+    "last_modified_accc": "2026-11-20T10:39:47+11:00",
+    "published_time_accc": "2026-11-19T11:00:00+11:00",
+    "end_of_determination_period": "19 Jan 2027",
+    "anzsic_codes": "1214 Wine and Other Alcoholic Beverage Manufacturing; 3606 Liquor and Tobacco Product Wholesaling; 4123 Liquor Retailing; 4520 Pubs, Taverns and Bars; 6712 Non-Residential Property Operators",
+    "acquirers": "ENDEAVOUR GROUP LIMITED; ABN - (ABN 77 159 767 843)",
+    "targets": "Furniss Link Pty Ltd as trustee for Furniss Unit Trust; ACN - (ACN 681 620 584)",
+    "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 27 November 2026 via email to mergers@accc.gov.au with the title Submission re: Endeavour Group – retail liquor site in Darch, WA. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 20 Nov 2026 Closing date 27 Nov 2026",
+    "consultation_close_date": "2026-11-27",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": 61,
+    "det_period_business_days": 29
+  },
   "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld": {
     "slug": "endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-store-and-adjacent-property-on-russell-island-qld",
@@ -17,9 +41,9 @@
     "other_parties": "ENDEAVOUR GROUP LIMITED; ABN - (ABN 77 159 767 843)",
     "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 25 November 2026 via email to mergers@accc.gov.au with the title Submission re: Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD). The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 18 Nov 2026 Closing date 25 Nov 2026",
     "consultation_close_date": "2026-11-25",
-    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-18T14:29:43Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 29
@@ -41,9 +65,9 @@
     "targets": "Fast Cities Australia Pty Ltd; ABN - (ABN 58 613 484 754)",
     "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 November 2026 via email to mergers@accc.gov.au with the title Submission re: Ampol – Evie Networks. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 16 Nov 2026 Closing date 23 Nov 2026",
     "consultation_close_date": "2026-11-23",
-    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 29
@@ -66,36 +90,9 @@
     "other_parties": "STEADFAST GROUP LTD; ABN - (ABN 98 073 659 677)",
     "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Steadfast - Axiom Insurance Brokers. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
     "consultation_close_date": "2026-11-20",
-    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-13T02:05:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": 61,
-    "det_period_business_days": 29
-  },
-  "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast": {
-    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-    "acquisition_status": "Under assessment",
-    "type": "Notification",
-    "case_number": "MN-25056",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "12 November 2026",
-    "last_modified_accc": "2026-11-13T16:46:33+11:00",
-    "published_time_accc": "2026-11-12T11:00:00+11:00",
-    "end_of_determination_period": "12 Jan 2027",
-    "anzsic_codes": "6419 Other Auxiliary Finance and Investment Services; 6420 Auxiliary Insurance Services",
-    "acquirers": "Starboard BidCo Pty Ltd; ACN - (ACN 701 506 532); Amwins Group, Inc (CIK - 0001177703)",
-    "targets": "STEADFAST GROUP LTD; ABN - (ABN 98 073 659 677)",
-    "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amwins / Dragoneer / KKR / Temasek Consortium - Steadfast. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
-    "consultation_close_date": "2026-11-20",
-    "last_checked_utc": "2026-11-19T14:39:35Z",
-    "first_seen_utc": "2026-11-11T08:18:55Z",
-    "previous_slugs": [
-      "amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast"
-    ],
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 29
@@ -118,33 +115,36 @@
     "other_parties": "ELPHINSTONE GROUP (AUST) PTY LTD; ABN - (ABN 40 009 563 615)",
     "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: William Adams - Clennett Hire. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
     "consultation_close_date": "2026-11-20",
-    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-13T13:23:56Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 29
   },
-  "too-lost-%E2%80%93-xelon-entertainment": {
-    "slug": "too-lost-%E2%80%93-xelon-entertainment",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
-    "title": "Too Lost – Xelon Entertainment",
+  "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast": {
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
     "acquisition_status": "Under assessment",
     "type": "Notification",
-    "case_number": "MN-65045",
+    "case_number": "MN-25056",
     "stage": "Phase 1 - initial assessment",
-    "notification_date": "11 November 2026",
-    "last_modified_accc": "2026-11-12T12:56:24+11:00",
-    "published_time_accc": "2026-11-11T11:00:00+11:00",
-    "end_of_determination_period": "11 Jan 2027",
-    "anzsic_codes": "5522 Music and Other Sound Recording Activities",
-    "acquirers": "TL AUS BIDCO PTY LTD; ABN - (ABN 45 698 905 789)",
-    "targets": "XELON ENTERTAINMENT PTY. LTD.; ABN - (ABN 13 128 135 722)",
-    "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Too Lost - Xelon Entertainment. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
-    "consultation_close_date": "2026-11-19",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-12T02:28:37Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "notification_date": "12 November 2026",
+    "last_modified_accc": "2026-11-13T16:46:33+11:00",
+    "published_time_accc": "2026-11-12T11:00:00+11:00",
+    "end_of_determination_period": "12 Jan 2027",
+    "anzsic_codes": "6419 Other Auxiliary Finance and Investment Services; 6420 Auxiliary Insurance Services",
+    "acquirers": "Starboard BidCo Pty Ltd; ACN - (ACN 701 506 532); Amwins Group, Inc (CIK - 0001177703)",
+    "targets": "STEADFAST GROUP LTD; ABN - (ABN 98 073 659 677)",
+    "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amwins / Dragoneer / KKR / Temasek Consortium - Steadfast. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
+    "consultation_close_date": "2026-11-20",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-11T08:18:55Z",
+    "previous_slugs": [
+      "amwins-dragoneer-kkr-consortium-%E2%80%93-steadfast"
+    ],
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 29
@@ -165,37 +165,36 @@
     "acquirers": "Amadeus IT Group, S.A. (A84236934)",
     "targets": "Idemia Public Security France SAS; 982 098 741 - R.C.S. Nanterre; Idemia Australasia Pty Ltd and/or Idemia Australasia consolidated group; ABN - (ABN 43 003 099 812); Idemia Government USA Corp. (2693130)",
     "other_parties": "Idemia France SAS; 340 709 534 - R.C.S. Nanterre; Idemia Group SAS; 533 960 407 - R.C.S. Nanterre; Idemia Finance SAS; 533 958 617 - R.C.S. Nanterre",
-    "consultation_text": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amadeus - Idemia Public Security. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
-    "consultation_close_date": "2026-11-19",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-12T13:57:21Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 29
   },
-  "eagers-zagame": {
-    "slug": "eagers-zagame",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame",
-    "title": "Eagers - Zagame",
+  "too-lost-%E2%80%93-xelon-entertainment": {
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
     "acquisition_status": "Under assessment",
     "type": "Notification",
-    "case_number": "MN-01133",
+    "case_number": "MN-65045",
     "stage": "Phase 1 - initial assessment",
-    "notification_date": "10 November 2026",
-    "last_modified_accc": "2026-11-11T16:47:22+11:00",
-    "published_time_accc": "2026-11-10T11:00:00+11:00",
-    "end_of_determination_period": "22 Dec 2026",
-    "anzsic_codes": "3911 Car Retailing; 3913 Trailer and Other Motor Vehicle Retailing; 3921 Motor Vehicle Parts Retailing; 6419 Other Auxiliary Finance and Investment Services; 9412 Automotive Body, Paint and Interior Repair; 9419 Other Automotive Repair and Maintenance",
-    "acquirers": "EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013)",
-    "targets": "ZAG AUTO PTY LTD; ABN - (ABN 28 701 934 189); Zagame Automotive Group Pty Ltd; ABN - (ABN 85 085 950 063)",
+    "notification_date": "11 November 2026",
+    "last_modified_accc": "2026-11-12T12:56:24+11:00",
+    "published_time_accc": "2026-11-11T11:00:00+11:00",
+    "end_of_determination_period": "11 Jan 2027",
+    "anzsic_codes": "5522 Music and Other Sound Recording Activities",
+    "acquirers": "TL AUS BIDCO PTY LTD; ABN - (ABN 45 698 905 789)",
+    "targets": "XELON ENTERTAINMENT PTY. LTD.; ABN - (ABN 13 128 135 722)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-11T08:18:55Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-12T02:28:37Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30
+    "det_period_calendar_days": 61,
+    "det_period_business_days": 29
   },
   "lactalis-%E2%80%93-saputo-dairy-uk-0": {
     "slug": "lactalis-%E2%80%93-saputo-dairy-uk-0",
@@ -214,9 +213,9 @@
     "targets": "Saputo Dairy UK Ltd (Company number - 11834952); Saputo Foods Limited (Canadian Corporation No. - 4511166)",
     "other_parties": "BSA‍ SAS (Registered under SIREN (R.C.S. Paris) - 557 350 253)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -237,9 +236,32 @@
     "acquirers": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
     "targets": "ST VINCENT'S FOUNDATION PTY LIMITED; ABN - (ABN 11 083 730 778)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30
+  },
+  "eagers-zagame": {
+    "slug": "eagers-zagame",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/eagers-zagame",
+    "title": "Eagers - Zagame",
+    "acquisition_status": "Under assessment",
+    "type": "Notification",
+    "case_number": "MN-01133",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "10 November 2026",
+    "last_modified_accc": "2026-11-11T16:47:22+11:00",
+    "published_time_accc": "2026-11-10T11:00:00+11:00",
+    "end_of_determination_period": "22 Dec 2026",
+    "anzsic_codes": "3911 Car Retailing; 3913 Trailer and Other Motor Vehicle Retailing; 3921 Motor Vehicle Parts Retailing; 6419 Other Auxiliary Finance and Investment Services; 9412 Automotive Body, Paint and Interior Repair; 9419 Other Automotive Repair and Maintenance",
+    "acquirers": "EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013)",
+    "targets": "ZAG AUTO PTY LTD; ABN - (ABN 28 701 934 189); Zagame Automotive Group Pty Ltd; ABN - (ABN 85 085 950 063)",
+    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-11T08:18:55Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -276,7 +298,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -301,9 +323,32 @@
     "targets": "THE TRUSTEE FOR GRAND MOTORS GROUP - SYDNEY UNIT TRUST; ABN - (ABN 28 172 394 097)",
     "other_parties": "ASG MELBOURNE PTY LTD; ABN - (ABN 64 616 840 110); Betar Prestige Cars Pty Ltd; ABN - (ABN 60 118 667 913); Autosports Sutherland Pty Limited; ABN - (ABN 60 125 720 998); AUTOSPORTS GROUP LIMITED; ABN - (ABN 54 614 505 261); AUTOSPORTS CASTLE HILL PTY LTD; ABN - (ABN 65 163 974 481); Mosman Prestige Cars Pty Ltd; ABN - (ABN 16 149 346 476); AUTOSPORTS LEICHHARDT PTY LTD; ABN - (ABN 38 161 160 765); AUTOSPORTS FIVE DOCK PTY LIMITED; ABN - (ABN 95 118 786 762)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30
+  },
+  "total-ventilation-hygiene-alphacool": {
+    "slug": "total-ventilation-hygiene-alphacool",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/total-ventilation-hygiene-alphacool",
+    "title": "Total Ventilation Hygiene - Alphacool",
+    "acquisition_status": "Under assessment",
+    "type": "Notification",
+    "case_number": "MN-70049",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "5 November 2026",
+    "last_modified_accc": "2026-11-06T10:54:38+11:00",
+    "published_time_accc": "2026-11-05T11:00:00+11:00",
+    "end_of_determination_period": "17 Dec 2026",
+    "anzsic_codes": "3232 Electrical Services; 3233 Air Conditioning and Heating Services; 3234 Fire and Security Alarm Installation Services",
+    "acquirers": "Total Ventilation Hygiene Pty Ltd; ABN - (ABN 15 149 359 437)",
+    "targets": "ALPHACOOL CAIRNS PTY LTD; ABN - (ABN 28 641 226 682)",
+    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -349,32 +394,9 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30
-  },
-  "total-ventilation-hygiene-alphacool": {
-    "slug": "total-ventilation-hygiene-alphacool",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/total-ventilation-hygiene-alphacool",
-    "title": "Total Ventilation Hygiene - Alphacool",
-    "acquisition_status": "Under assessment",
-    "type": "Notification",
-    "case_number": "MN-70049",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "5 November 2026",
-    "last_modified_accc": "2026-11-06T10:54:38+11:00",
-    "published_time_accc": "2026-11-05T11:00:00+11:00",
-    "end_of_determination_period": "17 Dec 2026",
-    "anzsic_codes": "3232 Electrical Services; 3233 Air Conditioning and Heating Services; 3234 Fire and Security Alarm Installation Services",
-    "acquirers": "Total Ventilation Hygiene Pty Ltd; ABN - (ABN 15 149 359 437)",
-    "targets": "ALPHACOOL CAIRNS PTY LTD; ABN - (ABN 28 641 226 682)",
-    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -410,7 +432,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -435,9 +457,9 @@
     "targets": "Varonis Systems, Inc. (3869749)",
     "other_parties": "Thoma Bravo, UGP LLC (7725781)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -475,7 +497,7 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -514,7 +536,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -539,9 +561,9 @@
     "targets": "IRONBARK INVESTMENT PARTNERS PTY LIMITED; ABN - (ABN 94 136 679 215)",
     "other_parties": "JANUS GROWTH PARTNERS PTY LTD; ACN - (ACN 688 716 538); COASTAL ADVISORY AUSTRALIA PTY LTD; ABN - (ABN 63 620 890 164); MBS ADVICE LICENCE PTY LTD; ABN - (ABN 25 654 854 136); MERCHANT WEALTH PARTNERS PTY LTD; ABN - (ABN 28 664 594 405); FUTURE WEALTH PARTNERS PTY LTD; ABN - (ABN 61 690 167 036); MBS INSURANCE PTY LTD; ABN - (ABN 56 655 793 945); Merchant Wealth Partners, LLC (Delaware file no. 7703979); Merchant Wealth Partners HM Pty Ltd; ACN - (ACN 701 508 358)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -563,9 +585,9 @@
     "targets": "HEALTHSCOPE NEWCO PTY LTD; ABN - (ABN 80 092 450 274); ANZ HOSPITALS PTY LTD; ABN - (ABN 14 631 014 938)",
     "other_parties": "PACIFIC 2021 TOPCO G PTY LIMITED; ABN - (ABN 38 649 860 177); Keith Crawford & Ors; PACIFIC 2021 MIDCO G PTY LIMITED; ABN - (ABN 77 649 860 720)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -587,9 +609,9 @@
     "targets": "ANZ HOSPITALS PTY LTD; ABN - (ABN 14 631 014 938); HEALTHSCOPE NEWCO PTY LTD; ABN - (ABN 80 092 450 274); P.O.W. Hospital Pty Limited; ABN - (ABN 28 106 723 871); HEALTHSCOPE OPERATIONS PTY LTD; ABN - (ABN 85 006 405 152)",
     "other_parties": "PACIFIC 2021 TOPCO G PTY LIMITED; ABN - (ABN 38 649 860 177); PACIFIC 2021 MIDCO G PTY LIMITED; ABN - (ABN 77 649 860 720); Keith Crawford & Ors",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -625,36 +647,13 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 17,
     "elapsed_business_days": 13
-  },
-  "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld": {
-    "slug": "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
-    "title": "Coles – supermarket site in Cannonvale Central (QLD)",
-    "acquisition_status": "Under assessment",
-    "type": "Notification",
-    "case_number": "MN-40049",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "30 October 2026",
-    "last_modified_accc": "2026-11-02T10:47:45+11:00",
-    "published_time_accc": "2026-10-30T11:00:00+11:00",
-    "end_of_determination_period": "11 Dec 2026",
-    "anzsic_codes": "3020 Non-Residential Building Construction; 3211 Land Development and Subdivision; 4110 Supermarket and Grocery Stores; 4122 Fruit and Vegetable Retailing; 4279 Other Store-Based Retailing n.e.c.; 6712 Non-Residential Property Operators",
-    "acquirers": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
-    "targets": "The trustee for The Spinks & Co Trust; ABN - (ABN 64 261 723 900)",
-    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30
   },
   "glng-participants-%E2%80%93-greater-meridian-csg-project-assets": {
     "slug": "glng-participants-%E2%80%93-greater-meridian-csg-project-assets",
@@ -672,9 +671,9 @@
     "acquirers": "PAPL (Upstream) Pty Limited; ABN - (ABN 58 131 318 888); TOTALENERGIES EP AUSTRALIA IV PTY LTD; ABN - (ABN 52 693 850 903); KGLNG E&P PTY LTD; ABN - (ABN 31 146 143 339); SANTOS CSG PTY LTD; ABN - (ABN 72 121 188 654)",
     "targets": "MITSUI E&P AUSTRALIA PTY LTD; ABN - (ABN 45 108 437 529); WESTSIDE CORPORATION PTY LTD; ABN - (ABN 74 117 145 516)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -695,9 +694,32 @@
     "acquirers": "ACURIO Health Pty Ltd; ABN - (ABN 16 641 153 728)",
     "targets": "ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); Healthscope NewCo Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 80 092 450 274)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30
+  },
+  "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld": {
+    "slug": "coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-cannonvale-central-qld",
+    "title": "Coles – supermarket site in Cannonvale Central (QLD)",
+    "acquisition_status": "Under assessment",
+    "type": "Notification",
+    "case_number": "MN-40049",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "30 October 2026",
+    "last_modified_accc": "2026-11-02T10:47:45+11:00",
+    "published_time_accc": "2026-10-30T11:00:00+11:00",
+    "end_of_determination_period": "11 Dec 2026",
+    "anzsic_codes": "3020 Non-Residential Building Construction; 3211 Land Development and Subdivision; 4110 Supermarket and Grocery Stores; 4122 Fruit and Vegetable Retailing; 4279 Other Store-Based Retailing n.e.c.; 6712 Non-Residential Property Operators",
+    "acquirers": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+    "targets": "The trustee for The Spinks & Co Trust; ABN - (ABN 64 261 723 900)",
+    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -734,7 +756,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-18T14:29:43Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -773,7 +795,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -813,7 +835,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -838,9 +860,9 @@
     "targets": "HEALTHSCOPE NEWCO PTY LTD; ABN - (ABN 80 092 450 274); HEALTHSCOPE OPERATIONS PTY LTD; ABN - (ABN 85 006 405 152); ANZ HOSPITALS PTY LTD; ABN - (ABN 14 631 014 938)",
     "other_parties": "LITTLE COMPANY OF MARY HEALTH CARE LIMITED; ABN - (ABN 11 079 815 697)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -876,7 +898,7 @@
       }
     ],
     "last_checked_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -926,7 +948,7 @@
       }
     ],
     "last_checked_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "schema_version": 2,
     "end_of_determination_period": "8 Sep 2026",
@@ -951,33 +973,9 @@
     "acquirers": "Stellex Partners III LP (Delaware File No. 2863125); OrbeNovo Advisory LLP; Uk Companies House - OC437622",
     "targets": "Buchan 2 Ltd; UK Companies House - SC644003",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30
-  },
-  "octa-%E2%80%93-woodside-edl-lng-jv": {
-    "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
-    "title": "OCTA – Woodside-EDL LNG JV",
-    "acquisition_status": "Under assessment",
-    "type": "Notification",
-    "case_number": "MN-10044",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "28 October 2026",
-    "last_modified_accc": "2026-10-29T10:01:25+11:00",
-    "published_time_accc": "2026-10-28T11:00:00+11:00",
-    "end_of_determination_period": "9 Dec 2026",
-    "anzsic_codes": "0700 Oil and Gas Extraction; 2611 Fossil Fuel Electricity Generation; 2619 Other Electricity Generation; 2700 Gas Supply; 3321 Petroleum Product Wholesaling; 4610 Road Freight Transport; 6240 Financial Asset Investing",
-    "acquirers": "MID-WEST LNG EQUIPMENT PTY LTD; ABN - (ABN 81 646 128 289)",
-    "targets": "EDL LNG FUEL TO POWER PTY LTD; ABN - (ABN 64 054 545 069); WOODSIDE ENERGY (LNG FUELS AND POWER) PTY LTD; ABN - (ABN 75 626 310 727); EDL LNG FUEL TO POWER OPERATOR PTY LTD; ABN - (ABN 82 062 262 382)",
-    "other_parties": "WOODSIDE ENERGY GROUP LTD; ABN - (ABN 55 004 898 962); ENERGY DEVELOPMENTS PTY LIMITED; ABN - (ABN 84 053 410 263); Australia Midstream Investments Pte Ltd (Registration Number: 202005225Z); I Squared Capital Advisors (US) LLC (LEI: 549300EZN8DE86R1Z653)",
-    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -1015,7 +1013,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "9 Dec 2026",
     "det_period_calendar_days": 42,
@@ -1054,13 +1052,51 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 22,
     "elapsed_business_days": 16
+  },
+  "octa-%E2%80%93-woodside-edl-lng-jv": {
+    "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
+    "title": "OCTA – Woodside-EDL LNG JV",
+    "acquisition_status": "Under assessment",
+    "type": "Notification",
+    "case_number": "MN-10044",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "28 October 2026",
+    "last_modified_accc": "2026-11-20T11:43:35+11:00",
+    "published_time_accc": "2026-10-28T11:00:00+11:00",
+    "end_of_determination_period": "16 Dec 2026",
+    "anzsic_codes": "0700 Oil and Gas Extraction; 2611 Fossil Fuel Electricity Generation; 2619 Other Electricity Generation; 2700 Gas Supply; 3321 Petroleum Product Wholesaling; 4610 Road Freight Transport; 6240 Financial Asset Investing",
+    "acquirers": "MID-WEST LNG EQUIPMENT PTY LTD; ABN - (ABN 81 646 128 289)",
+    "targets": "EDL LNG FUEL TO POWER PTY LTD; ABN - (ABN 64 054 545 069); WOODSIDE ENERGY (LNG FUELS AND POWER) PTY LTD; ABN - (ABN 75 626 310 727); EDL LNG FUEL TO POWER OPERATOR PTY LTD; ABN - (ABN 82 062 262 382)",
+    "other_parties": "WOODSIDE ENERGY GROUP LTD; ABN - (ABN 55 004 898 962); ENERGY DEVELOPMENTS PTY LIMITED; ABN - (ABN 84 053 410 263); Australia Midstream Investments Pte Ltd (Registration Number: 202005225Z); I Squared Capital Advisors (US) LLC (LEI: 549300EZN8DE86R1Z653)",
+    "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+    "decisions_docs": [
+      {
+        "date": "20 Nov 2026",
+        "description": "Timeline extended by 5 business days – following request by parties",
+        "url": ""
+      }
+    ],
+    "documents": [
+      {
+        "date": "20 Nov 2026",
+        "description": "Timeline extended by 5 business days – following request by parties",
+        "url": ""
+      }
+    ],
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": 49,
+    "det_period_business_days": 35
   },
   "nyk-ns-united": {
     "slug": "nyk-ns-united",
@@ -1092,9 +1128,9 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/NYK%20-%20NS%20United%20-%20Phase%201%20determination.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "8 Dec 2026",
     "det_period_calendar_days": 42,
@@ -1133,9 +1169,9 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/4K%20Automotive%20Group%20-%20Peninsula%20Motor%20Group%20-%20Phase%201%20determination.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "8 Dec 2026",
     "det_period_calendar_days": 42,
@@ -1176,7 +1212,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1215,7 +1251,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1253,7 +1289,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -1277,9 +1313,9 @@
     "acquirers": "CENTRAL AUTO PTY LTD; ABN - (ABN 50 695 024 125)",
     "targets": "EAGERS VIC PTY LTD; ABN - (ABN 29 616 989 596)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -1317,7 +1353,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1356,7 +1392,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1394,15 +1430,56 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/Webuild%20-%20Trevi%20Group%20-%20Phase%201%20determination.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "4 Dec 2026",
     "det_period_calendar_days": 41,
     "det_period_business_days": 30,
     "elapsed_calendar_days": 26,
     "elapsed_business_days": 19
+  },
+  "aub-%E2%80%93-one-underwriting": {
+    "slug": "aub-%E2%80%93-one-underwriting",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting",
+    "title": "AUB – One Underwriting",
+    "acquisition_status": "Assessment completed",
+    "type": "Notification",
+    "case_number": "MN-55042",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "23 October 2026",
+    "last_modified_accc": "2026-11-13T17:06:29+11:00",
+    "published_time_accc": "2026-10-23T11:00:00+11:00",
+    "accc_determination": "Approved",
+    "determination_publication_date": "13 November 2026",
+    "anzsic_codes": "6420 Auxiliary Insurance Services",
+    "acquirers": "AUSTAGENCIES PTY LTD; ABN - (ABN 76 006 090 464)",
+    "targets": "ONE UNDERWRITING PTY LTD; ABN - (ABN 50 006 767 540); AON HOLDINGS AUSTRALIA PTY LIMITED; ABN - (ABN 33 000 435 218)",
+    "other_parties": "AUB GROUP LIMITED; ABN - (ABN 60 000 000 715)",
+    "decisions_docs": [
+      {
+        "date": "13 Nov 2026",
+        "description": "AUB - One Underwriting - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "13 Nov 2026",
+        "description": "AUB - One Underwriting - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "end_of_determination_period": "4 Dec 2026",
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30,
+    "elapsed_calendar_days": 21,
+    "elapsed_business_days": 15
   },
   "psp-%E2%80%93-interest-in-amp-grapes-investments-limited": {
     "slug": "psp-%E2%80%93-interest-in-amp-grapes-investments-limited",
@@ -1436,53 +1513,12 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 24,
     "elapsed_business_days": 16
-  },
-  "aub-%E2%80%93-one-underwriting": {
-    "slug": "aub-%E2%80%93-one-underwriting",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aub-%E2%80%93-one-underwriting",
-    "title": "AUB – One Underwriting",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-55042",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "23 October 2026",
-    "last_modified_accc": "2026-11-13T17:06:29+11:00",
-    "published_time_accc": "2026-10-23T11:00:00+11:00",
-    "accc_determination": "Approved",
-    "determination_publication_date": "13 November 2026",
-    "anzsic_codes": "6420 Auxiliary Insurance Services",
-    "acquirers": "AUSTAGENCIES PTY LTD; ABN - (ABN 76 006 090 464)",
-    "targets": "ONE UNDERWRITING PTY LTD; ABN - (ABN 50 006 767 540); AON HOLDINGS AUSTRALIA PTY LIMITED; ABN - (ABN 33 000 435 218)",
-    "other_parties": "AUB GROUP LIMITED; ABN - (ABN 60 000 000 715)",
-    "decisions_docs": [
-      {
-        "date": "13 Nov 2026",
-        "description": "AUB - One Underwriting - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "13 Nov 2026",
-        "description": "AUB - One Underwriting - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/AUB%20-%20One%20Underwriting%20-%20Determination.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "end_of_determination_period": "4 Dec 2026",
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30,
-    "elapsed_calendar_days": 21,
-    "elapsed_business_days": 15
   },
   "tetra-tech-pitt-sherry": {
     "slug": "tetra-tech-pitt-sherry",
@@ -1516,7 +1552,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1555,7 +1591,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "4 Dec 2026",
     "det_period_calendar_days": 42,
@@ -1580,9 +1616,9 @@
     "targets": "Organon & Co. (Delaware State File Number - 7834229)",
     "other_parties": "Sun Pharmaceutical Industries Ltd. (CIN - L24230GJ1993PLC019050)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
@@ -1619,51 +1655,12 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 25,
     "elapsed_business_days": 17
-  },
-  "equans-%E2%80%93-credible-audio-visual-solutions": {
-    "slug": "equans-%E2%80%93-credible-audio-visual-solutions",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/equans-%E2%80%93-credible-audio-visual-solutions",
-    "title": "Equans – Credible Audio Visual Solutions",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-80054",
-    "notification_date": "22 October 2026",
-    "last_modified_accc": "2026-11-17T17:24:05+11:00",
-    "published_time_accc": "2026-10-22T11:00:00+11:00",
-    "stage": "Waiver application",
-    "accc_determination": "Approved",
-    "determination_publication_date": "17 November 2026",
-    "anzsic_codes": "2599 Other Manufacturing n.e.c.; 3232 Electrical Services; 3233 Air Conditioning and Heating Services; 3234 Fire and Security Alarm Installation Services; 3239 Other Building Installation Services; 6240 Financial Asset Investing",
-    "acquirers": "EQUANS HORIZON TOPCO PTY LTD; ABN - (ABN 90 699 195 518)",
-    "targets": "CREDIBLE AUDIO VISUAL SOLUTIONS PTY LIMITED; ABN - (ABN 44 117 592 971)",
-    "decisions_docs": [
-      {
-        "date": "17 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Equans%20-%20Credible%20Audio%20Visual%20Solutions%20%28WA-80054%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "17 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Equans%20-%20Credible%20Audio%20Visual%20Solutions%20%28WA-80054%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-19T14:39:35Z",
-    "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 26,
-    "elapsed_business_days": 18
   },
   "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv": {
     "slug": "aware-super-%E2%80%93-interest-in-foresight-kinetic-cv",
@@ -1698,12 +1695,51 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-18T14:29:43Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 27,
     "elapsed_business_days": 19
+  },
+  "equans-%E2%80%93-credible-audio-visual-solutions": {
+    "slug": "equans-%E2%80%93-credible-audio-visual-solutions",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/equans-%E2%80%93-credible-audio-visual-solutions",
+    "title": "Equans – Credible Audio Visual Solutions",
+    "acquisition_status": "Assessment completed",
+    "type": "Waiver",
+    "case_number": "WA-80054",
+    "notification_date": "22 October 2026",
+    "last_modified_accc": "2026-11-17T17:24:05+11:00",
+    "published_time_accc": "2026-10-22T11:00:00+11:00",
+    "stage": "Waiver application",
+    "accc_determination": "Approved",
+    "determination_publication_date": "17 November 2026",
+    "anzsic_codes": "2599 Other Manufacturing n.e.c.; 3232 Electrical Services; 3233 Air Conditioning and Heating Services; 3234 Fire and Security Alarm Installation Services; 3239 Other Building Installation Services; 6240 Financial Asset Investing",
+    "acquirers": "EQUANS HORIZON TOPCO PTY LTD; ABN - (ABN 90 699 195 518)",
+    "targets": "CREDIBLE AUDIO VISUAL SOLUTIONS PTY LIMITED; ABN - (ABN 44 117 592 971)",
+    "decisions_docs": [
+      {
+        "date": "17 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Equans%20-%20Credible%20Audio%20Visual%20Solutions%20%28WA-80054%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "17 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Equans%20-%20Credible%20Audio%20Visual%20Solutions%20%28WA-80054%29%20-%20Notification%20waiver%20determination%20-%2017%20November%202026.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "first_seen_utc": "2026-11-17T14:50:00Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 26,
+    "elapsed_business_days": 18
   },
   "pemba-%E2%80%93-superguardian": {
     "slug": "pemba-%E2%80%93-superguardian",
@@ -1737,7 +1773,7 @@
       }
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-19T14:39:35Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -1778,7 +1814,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1817,7 +1853,7 @@
     ],
     "last_checked_utc": "2026-11-17T14:50:00Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -1856,91 +1892,50 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 21,
     "elapsed_business_days": 15
   },
-  "29-north-%E2%80%93-additional-interest-in-royal-foods": {
-    "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods",
-    "title": "29 North – additional interest in Royal Foods",
+  "ctrlcyber-razilio": {
+    "slug": "ctrlcyber-razilio",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio",
+    "title": "ctrl:cyber - Razilio",
     "acquisition_status": "Assessment completed",
     "type": "Waiver",
-    "case_number": "WA-01123",
+    "case_number": "WA-05061",
     "notification_date": "20 October 2026",
-    "last_modified_accc": "2026-11-11T13:13:29+11:00",
+    "last_modified_accc": "2026-11-12T18:41:59+11:00",
     "published_time_accc": "2026-10-20T11:00:00+11:00",
     "stage": "Waiver application",
     "accc_determination": "Approved",
-    "determination_publication_date": "10 November 2026",
-    "anzsic_codes": "3609 Other Grocery Wholesaling; 6240 Financial Asset Investing; 6419 Other Auxiliary Finance and Investment Services",
-    "acquirers": "Boutique Capital Pty Ltd as trustee for Royal Foods Unit Trust; ABN - (ABN 33 621 697 621)",
-    "targets": "ROYAL FOODS AUST PTY LTD; ABN - (ABN 19 130 110 048)",
-    "other_parties": "29 NORTH PTY LTD; ABN - (ABN 79 656 218 898)",
-    "decisions_docs": [
-      {
-        "date": "10 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026_0.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "10 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026_0.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-17T04:08:47Z",
-    "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 21,
-    "elapsed_business_days": 15
-  },
-  "fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm": {
-    "slug": "fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm",
-    "title": "Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-15053",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "20 October 2026",
-    "last_modified_accc": "2026-11-12T15:05:28+11:00",
-    "published_time_accc": "2026-10-20T11:00:00+11:00",
-    "accc_determination": "Approved",
     "determination_publication_date": "12 November 2026",
-    "anzsic_codes": "0131 Grape Growing; 3605 Fruit and Vegetable Wholesaling",
-    "acquirers": "FRUITICO FARMS PTY LTD; ABN - (ABN 51 608 318 921)",
-    "targets": "The trusts partnership trading as Bumbak & Sons",
-    "other_parties": "Sunsweet Investments Pty Ltd acting as trustee of the Sunsweet Unit Trust; ABN - (ABN 44 605 866 215); Davmark Pty Ltd acting as trustee of the Davmark Discretionary Trust; ACN - (ACN 126 225 956)",
+    "anzsic_codes": "6240 Financial Asset Investing; 7000 Computer System Design and Related Services",
+    "acquirers": "CTRL BIDCO PTY LTD; ABN - (ABN 84 678 886 372)",
+    "targets": "The Trustee for Horatio Investment Holdings; ABN - (ABN 76 208 863 175); RAZILIO PTY LTD; ABN - (ABN 82 690 338 099); HORATIO INVESTMENTS PTY LTD; ACN - (ACN 686 288 666)",
+    "other_parties": "ELEVENM CONSULTING PTY LTD; ABN - (ABN 77 610 787 534); PEMBA CAPITAL FUND III LP; ABN - (ABN 88 952 324 737); CTRL HOLDCO PTY LTD; ABN - (ABN 68 678 879 831); ATFA CYBER PTY LTD; ABN - (ABN 12 637 150 200); CTRL SECURITY PTY LTD; ABN - (ABN 72 619 316 380); The Trustee for ATFA Jones Family Trust; ABN - (ABN 71 364 855 237)",
     "decisions_docs": [
       {
         "date": "12 Nov 2026",
-        "description": "Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Fruitico%20-%20Terra%20Farm%20and%20Sunsweet%20Farm%20-%20Phase%201%20determination.pdf"
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/ctrl%3Acyber%20-%20Razilio%20%28WA-05061%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
       }
     ],
     "documents": [
       {
         "date": "12 Nov 2026",
-        "description": "Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Fruitico%20-%20Terra%20Farm%20and%20Sunsweet%20Farm%20-%20Phase%201%20determination.pdf"
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/ctrl%3Acyber%20-%20Razilio%20%28WA-05061%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
       }
     ],
     "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "first_seen_utc": "2026-11-12T13:57:21Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
-    "end_of_determination_period": "1 Dec 2026",
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
     "elapsed_calendar_days": 23,
     "elapsed_business_days": 17
   },
@@ -1976,7 +1971,7 @@
     ],
     "last_checked_utc": "2026-11-19T02:46:03Z",
     "first_seen_utc": "2026-11-12T13:57:21Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -2015,52 +2010,93 @@
     ],
     "last_checked_utc": "2026-11-19T02:46:03Z",
     "first_seen_utc": "2026-11-12T13:57:21Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 23,
     "elapsed_business_days": 17
   },
-  "ctrlcyber-razilio": {
-    "slug": "ctrlcyber-razilio",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ctrlcyber-razilio",
-    "title": "ctrl:cyber - Razilio",
+  "fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm": {
+    "slug": "fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/fruitico-%E2%80%93-lease-and-option-to-purchase-terra-farm-and-sunsweet-farm",
+    "title": "Fruitico – Lease and option to purchase Terra Farm and Sunsweet Farm",
     "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-05061",
+    "type": "Notification",
+    "case_number": "MN-15053",
+    "stage": "Phase 1 - initial assessment",
     "notification_date": "20 October 2026",
-    "last_modified_accc": "2026-11-12T18:41:59+11:00",
+    "last_modified_accc": "2026-11-12T15:05:28+11:00",
     "published_time_accc": "2026-10-20T11:00:00+11:00",
-    "stage": "Waiver application",
     "accc_determination": "Approved",
     "determination_publication_date": "12 November 2026",
-    "anzsic_codes": "6240 Financial Asset Investing; 7000 Computer System Design and Related Services",
-    "acquirers": "CTRL BIDCO PTY LTD; ABN - (ABN 84 678 886 372)",
-    "targets": "The Trustee for Horatio Investment Holdings; ABN - (ABN 76 208 863 175); RAZILIO PTY LTD; ABN - (ABN 82 690 338 099); HORATIO INVESTMENTS PTY LTD; ACN - (ACN 686 288 666)",
-    "other_parties": "ELEVENM CONSULTING PTY LTD; ABN - (ABN 77 610 787 534); PEMBA CAPITAL FUND III LP; ABN - (ABN 88 952 324 737); CTRL HOLDCO PTY LTD; ABN - (ABN 68 678 879 831); ATFA CYBER PTY LTD; ABN - (ABN 12 637 150 200); CTRL SECURITY PTY LTD; ABN - (ABN 72 619 316 380); The Trustee for ATFA Jones Family Trust; ABN - (ABN 71 364 855 237)",
+    "anzsic_codes": "0131 Grape Growing; 3605 Fruit and Vegetable Wholesaling",
+    "acquirers": "FRUITICO FARMS PTY LTD; ABN - (ABN 51 608 318 921)",
+    "targets": "The trusts partnership trading as Bumbak & Sons",
+    "other_parties": "Sunsweet Investments Pty Ltd acting as trustee of the Sunsweet Unit Trust; ABN - (ABN 44 605 866 215); Davmark Pty Ltd acting as trustee of the Davmark Discretionary Trust; ACN - (ACN 126 225 956)",
     "decisions_docs": [
       {
         "date": "12 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/ctrl%3Acyber%20-%20Razilio%20%28WA-05061%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+        "description": "Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Fruitico%20-%20Terra%20Farm%20and%20Sunsweet%20Farm%20-%20Phase%201%20determination.pdf"
       }
     ],
     "documents": [
       {
         "date": "12 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/ctrl%3Acyber%20-%20Razilio%20%28WA-05061%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+        "description": "Fruitico - Terra Farm and Sunsweet Farm - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Fruitico%20-%20Terra%20Farm%20and%20Sunsweet%20Farm%20-%20Phase%201%20determination.pdf"
       }
     ],
     "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-12T13:57:21Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "end_of_determination_period": "1 Dec 2026",
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30,
+    "elapsed_calendar_days": 23,
+    "elapsed_business_days": 17
+  },
+  "29-north-%E2%80%93-additional-interest-in-royal-foods": {
+    "slug": "29-north-%E2%80%93-additional-interest-in-royal-foods",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/29-north-%E2%80%93-additional-interest-in-royal-foods",
+    "title": "29 North – additional interest in Royal Foods",
+    "acquisition_status": "Assessment completed",
+    "type": "Waiver",
+    "case_number": "WA-01123",
+    "notification_date": "20 October 2026",
+    "last_modified_accc": "2026-11-11T13:13:29+11:00",
+    "published_time_accc": "2026-10-20T11:00:00+11:00",
+    "stage": "Waiver application",
+    "accc_determination": "Approved",
+    "determination_publication_date": "10 November 2026",
+    "anzsic_codes": "3609 Other Grocery Wholesaling; 6240 Financial Asset Investing; 6419 Other Auxiliary Finance and Investment Services",
+    "acquirers": "Boutique Capital Pty Ltd as trustee for Royal Foods Unit Trust; ABN - (ABN 33 621 697 621)",
+    "targets": "ROYAL FOODS AUST PTY LTD; ABN - (ABN 19 130 110 048)",
+    "other_parties": "29 NORTH PTY LTD; ABN - (ABN 79 656 218 898)",
+    "decisions_docs": [
+      {
+        "date": "10 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026_0.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "10 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/29%20North%20-%20additional%20interest%20in%20Royal%20Foods%20%28WA-01123%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026_0.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-17T04:08:47Z",
+    "first_seen_utc": "2026-11-10T13:43:28Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
-    "elapsed_calendar_days": 23,
-    "elapsed_business_days": 17
+    "elapsed_calendar_days": 21,
+    "elapsed_business_days": 15
   },
   "volaris-group-%E2%80%93-spinifexit": {
     "slug": "volaris-group-%E2%80%93-spinifexit",
@@ -2095,7 +2131,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -2134,52 +2170,11 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "1 Dec 2026",
     "det_period_calendar_days": 42,
     "det_period_business_days": 30
-  },
-  "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0": {
-    "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
-    "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-85060",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "19 October 2026",
-    "last_modified_accc": "2026-11-12T11:15:33+11:00",
-    "published_time_accc": "2026-10-19T11:00:00+11:00",
-    "accc_determination": "Approved",
-    "determination_publication_date": "12 November 2026",
-    "anzsic_codes": "4123 Liquor Retailing; 4511 Cafes and Restaurants; 4520 Pubs, Taverns and Bars; 9139 Amusement and Other Recreational Activities n.e.c.",
-    "acquirers": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
-    "targets": "WINTIME NOMINEES PTY LTD; ABN - (ABN 81 628 155 199); SUNLINER HOLDINGS PTY LTD; ABN - (ABN 11 636 821 853)",
-    "other_parties": "Australian Venue Co. Holdings Limited; ABN - (ABN 14 607 666 348)",
-    "decisions_docs": [
-      {
-        "date": "12 Nov 2026",
-        "description": "Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "12 Nov 2026",
-        "description": "Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "end_of_determination_period": "30 Nov 2026",
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30,
-    "elapsed_calendar_days": 24,
-    "elapsed_business_days": 18
   },
   "strabag-%E2%80%93-kee-surfacing": {
     "slug": "strabag-%E2%80%93-kee-surfacing",
@@ -2214,12 +2209,53 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 22,
     "elapsed_business_days": 16
+  },
+  "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0": {
+    "slug": "australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-the-breakwater-hillarys-and-print-hall-perth-0",
+    "title": "Australian Venue Co – assets of The Breakwater, Hillarys and Print Hall, Perth",
+    "acquisition_status": "Assessment completed",
+    "type": "Notification",
+    "case_number": "MN-85060",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "19 October 2026",
+    "last_modified_accc": "2026-11-12T11:15:33+11:00",
+    "published_time_accc": "2026-10-19T11:00:00+11:00",
+    "accc_determination": "Approved",
+    "determination_publication_date": "12 November 2026",
+    "anzsic_codes": "4123 Liquor Retailing; 4511 Cafes and Restaurants; 4520 Pubs, Taverns and Bars; 9139 Amusement and Other Recreational Activities n.e.c.",
+    "acquirers": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
+    "targets": "WINTIME NOMINEES PTY LTD; ABN - (ABN 81 628 155 199); SUNLINER HOLDINGS PTY LTD; ABN - (ABN 11 636 821 853)",
+    "other_parties": "Australian Venue Co. Holdings Limited; ABN - (ABN 14 607 666 348)",
+    "decisions_docs": [
+      {
+        "date": "12 Nov 2026",
+        "description": "Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "12 Nov 2026",
+        "description": "Australian Venue Co – Assets of The Breakwater, Hillarys and Print Hall, Perth - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20The%20Breakwater%2C%20Hillarys%2C%20and%20Print%20Hall%2C%20Perth.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "end_of_determination_period": "30 Nov 2026",
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30,
+    "elapsed_calendar_days": 24,
+    "elapsed_business_days": 18
   },
   "ipliving-springwood-living-group": {
     "slug": "ipliving-springwood-living-group",
@@ -2254,7 +2290,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "30 Nov 2026",
     "det_period_calendar_days": 42,
@@ -2294,55 +2330,52 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 21,
     "elapsed_business_days": 15
   },
-  "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa": {
-    "slug": "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
-    "title": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
+  "next-capital-data-centre-business-of-fujitsu-australia": {
+    "slug": "next-capital-data-centre-business-of-fujitsu-australia",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/next-capital-data-centre-business-of-fujitsu-australia",
+    "title": "Next Capital - data centre business of Fujitsu Australia",
     "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-70047",
-    "stage": "Phase 1 - initial assessment",
+    "type": "Waiver",
+    "case_number": "WA-45036",
     "notification_date": "16 October 2026",
-    "last_modified_accc": "2026-11-12T11:20:29+11:00",
+    "last_modified_accc": "2026-11-09T17:44:03+11:00",
     "published_time_accc": "2026-10-16T11:00:00+11:00",
+    "stage": "Waiver application",
     "accc_determination": "Approved",
-    "determination_publication_date": "12 November 2026",
-    "anzsic_codes": "4511 Cafes and Restaurants; 4520 Pubs, Taverns and Bars",
-    "acquirers": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
-    "targets": "The Trustee for NT & LB Unit Trust VP; ABN - (ABN 81 689 024 696); The Trustee for NT & LB Unit Trust; ABN - (ABN 97 192 570 131)",
+    "determination_publication_date": "9 November 2026",
+    "anzsic_codes": "5921 Data Processing and Web Hosting Services; 6240 Financial Asset Investing",
+    "acquirers": "TREA OPCO PTY LTD; ABN - (ABN 22 695 700 808)",
+    "targets": "FUJITSU AUSTRALIA LTD; ABN - (ABN 19 001 011 427)",
+    "other_parties": "NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583)",
     "decisions_docs": [
       {
-        "date": "12 Nov 2026",
-        "description": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf"
+        "date": "9 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Next%20Capital%20-%20data%20centre%20business%20of%20Fujitsu%20Australia%20%28WA-45036%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
       }
     ],
     "documents": [
       {
-        "date": "12 Nov 2026",
-        "description": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf"
+        "date": "9 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Next%20Capital%20-%20data%20centre%20business%20of%20Fujitsu%20Australia%20%28WA-45036%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "previous_slugs": [
-      "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth"
-    ],
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
-    "end_of_determination_period": "27 Nov 2026",
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30,
-    "elapsed_calendar_days": 27,
-    "elapsed_business_days": 19
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 24,
+    "elapsed_business_days": 16
   },
   "rexel-%E2%80%93-genuine-cable-group": {
     "slug": "rexel-%E2%80%93-genuine-cable-group",
@@ -2377,7 +2410,7 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -2417,52 +2450,12 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 25,
     "elapsed_business_days": 17
-  },
-  "next-capital-data-centre-business-of-fujitsu-australia": {
-    "slug": "next-capital-data-centre-business-of-fujitsu-australia",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/next-capital-data-centre-business-of-fujitsu-australia",
-    "title": "Next Capital - data centre business of Fujitsu Australia",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-45036",
-    "notification_date": "16 October 2026",
-    "last_modified_accc": "2026-11-09T17:44:03+11:00",
-    "published_time_accc": "2026-10-16T11:00:00+11:00",
-    "stage": "Waiver application",
-    "accc_determination": "Approved",
-    "determination_publication_date": "9 November 2026",
-    "anzsic_codes": "5921 Data Processing and Web Hosting Services; 6240 Financial Asset Investing",
-    "acquirers": "TREA OPCO PTY LTD; ABN - (ABN 22 695 700 808)",
-    "targets": "FUJITSU AUSTRALIA LTD; ABN - (ABN 19 001 011 427)",
-    "other_parties": "NEXT CAPITAL PTY LIMITED; ABN - (ABN 75 111 963 583)",
-    "decisions_docs": [
-      {
-        "date": "9 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Next%20Capital%20-%20data%20centre%20business%20of%20Fujitsu%20Australia%20%28WA-45036%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "9 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Next%20Capital%20-%20data%20centre%20business%20of%20Fujitsu%20Australia%20%28WA-45036%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-16T01:21:42Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 24,
-    "elapsed_business_days": 16
   },
   "the-borg-group-programmed-timber": {
     "slug": "the-borg-group-programmed-timber",
@@ -2497,7 +2490,7 @@
     ],
     "last_checked_utc": "2026-11-19T02:46:03Z",
     "first_seen_utc": "2026-11-12T13:57:21Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -2535,9 +2528,9 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/Thoma%20Bravo%20-%20Tanda%20-%20Phase%201%20Determination%20-%2012%20November%202026.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "27 Nov 2026",
     "det_period_calendar_days": 42,
@@ -2545,45 +2538,48 @@
     "elapsed_calendar_days": 28,
     "elapsed_business_days": 20
   },
-  "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld": {
-    "slug": "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
-    "title": "Plenary – Ground lease for delivery of the Gabba entertainment and housing precinct project in Brisbane, QLD",
+  "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa": {
+    "slug": "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth-wa",
+    "title": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth, WA",
     "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-05059",
+    "type": "Notification",
+    "case_number": "MN-70047",
+    "stage": "Phase 1 - initial assessment",
     "notification_date": "16 October 2026",
-    "last_modified_accc": "2026-11-16T17:24:45+11:00",
+    "last_modified_accc": "2026-11-12T11:20:29+11:00",
     "published_time_accc": "2026-10-16T11:00:00+11:00",
-    "stage": "Waiver application",
     "accc_determination": "Approved",
-    "determination_publication_date": "16 November 2026",
-    "anzsic_codes": "3020 Non-Residential Building Construction; 6712 Non-Residential Property Operators; 7520 State Government Administration",
-    "acquirers": "Gather Brisbane (Arena) Pty Ltd; ACN - (ACN 701 524 594)",
-    "targets": "Department of State Development, Infrastructure and Planning; ABN - (ABN 29 230 178 530)",
-    "other_parties": "Plenary Origination Pty Ltd; PLENARY GROUP HOLDINGS PTY LTD; ABN - (ABN 20 607 311 946)",
+    "determination_publication_date": "12 November 2026",
+    "anzsic_codes": "4511 Cafes and Restaurants; 4520 Pubs, Taverns and Bars",
+    "acquirers": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
+    "targets": "The Trustee for NT & LB Unit Trust VP; ABN - (ABN 81 689 024 696); The Trustee for NT & LB Unit Trust; ABN - (ABN 97 192 570 131)",
     "decisions_docs": [
       {
-        "date": "16 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Plenary%20-%20Ground%20lease%20for%20delivery%20of%20the%20Gabba%20entertainment%20and%20housing%20precinct%20project%20in%20Brisbane%2C%20QLD%20%28WA-05059%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+        "date": "12 Nov 2026",
+        "description": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf"
       }
     ],
     "documents": [
       {
-        "date": "16 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Plenary%20-%20Ground%20lease%20for%20delivery%20of%20the%20Gabba%20entertainment%20and%20housing%20precinct%20project%20in%20Brisbane%2C%20QLD%20%28WA-05059%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+        "date": "12 Nov 2026",
+        "description": "Australian Venue Co – Assets of Molly’s Irish Pub Highgate and Molly’s Irish Pub Victoria Park, Perth – Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Australian%20Venue%20Co%20-%20assets%20of%20Molly%27s%20Irish%20Pub%2C%20Highgate%20and%20Molly%27s%20Irish%20Pub%2C%20Victoria%20Park%2C%20Perth.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T14:39:35Z",
-    "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "previous_slugs": [
+      "australian-venue-co-%E2%80%93-assets-of-molly%E2%80%99s-irish-pub-highgate-and-molly%E2%80%99s-irish-pub-victoria-park-perth"
+    ],
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 31,
-    "elapsed_business_days": 21
+    "end_of_determination_period": "27 Nov 2026",
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30,
+    "elapsed_calendar_days": 27,
+    "elapsed_business_days": 19
   },
   "koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops": {
     "slug": "koch-%E2%80%93-50-interest-in-certain-assets-of-ocp-nutricrops",
@@ -2618,11 +2614,51 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "27 Nov 2026",
     "det_period_calendar_days": 42,
     "det_period_business_days": 30,
+    "elapsed_calendar_days": 31,
+    "elapsed_business_days": 21
+  },
+  "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld": {
+    "slug": "plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/plenary-%E2%80%93-ground-lease-for-delivery-of-the-gabba-entertainment-and-housing-precinct-project-in-brisbane-qld",
+    "title": "Plenary – Ground lease for delivery of the Gabba entertainment and housing precinct project in Brisbane, QLD",
+    "acquisition_status": "Assessment completed",
+    "type": "Waiver",
+    "case_number": "WA-05059",
+    "notification_date": "16 October 2026",
+    "last_modified_accc": "2026-11-16T17:24:45+11:00",
+    "published_time_accc": "2026-10-16T11:00:00+11:00",
+    "stage": "Waiver application",
+    "accc_determination": "Approved",
+    "determination_publication_date": "16 November 2026",
+    "anzsic_codes": "3020 Non-Residential Building Construction; 6712 Non-Residential Property Operators; 7520 State Government Administration",
+    "acquirers": "Gather Brisbane (Arena) Pty Ltd; ACN - (ACN 701 524 594)",
+    "targets": "Department of State Development, Infrastructure and Planning; ABN - (ABN 29 230 178 530)",
+    "other_parties": "Plenary Origination Pty Ltd; PLENARY GROUP HOLDINGS PTY LTD; ABN - (ABN 20 607 311 946)",
+    "decisions_docs": [
+      {
+        "date": "16 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Plenary%20-%20Ground%20lease%20for%20delivery%20of%20the%20Gabba%20entertainment%20and%20housing%20precinct%20project%20in%20Brisbane%2C%20QLD%20%28WA-05059%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "16 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Plenary%20-%20Ground%20lease%20for%20delivery%20of%20the%20Gabba%20entertainment%20and%20housing%20precinct%20project%20in%20Brisbane%2C%20QLD%20%28WA-05059%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "first_seen_utc": "2026-11-16T08:32:27Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
     "elapsed_calendar_days": 31,
     "elapsed_business_days": 21
   },
@@ -2659,7 +2695,7 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -2699,7 +2735,7 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -2736,52 +2772,53 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": 49,
     "det_period_business_days": 35
   },
-  "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator": {
-    "slug": "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
-    "title": "Gold Fields - BHP Nickel West (Kambalda nickel concentrator)",
+  "camp-australia-%E2%80%93-jabiru": {
+    "slug": "camp-australia-%E2%80%93-jabiru",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru",
+    "title": "Camp Australia – Jabiru",
     "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-95047",
+    "type": "Notification",
+    "case_number": "MN-15048",
+    "stage": "Phase 1 - initial assessment",
     "notification_date": "15 October 2026",
-    "last_modified_accc": "2026-11-16T17:33:00+11:00",
+    "last_modified_accc": "2026-11-13T15:54:39+11:00",
     "published_time_accc": "2026-10-15T11:00:00+11:00",
-    "stage": "Waiver application",
     "accc_determination": "Approved",
-    "determination_publication_date": "16 November 2026",
-    "anzsic_codes": "0804 Gold Ore Mining; 0806 Nickel Ore Mining; 1012 Mineral Exploration; 2139 Other Basic Non-Ferrous Metal Manufacturing",
-    "acquirers": "ST IVES GOLD MINING COMPANY PTY LIMITED; ABN - (ABN 44 098 386 273)",
-    "targets": "BHP NICKEL WEST PTY LTD; ABN - (ABN 76 004 184 598)",
-    "other_parties": "GOLD ROAD (GRUYERE) PTY LTD; ABN - (ABN 80 612 071 306); AGNEW GOLD MINING COMPANY PTY LIMITED; ABN - (ABN 39 098 385 883); GRUYERE MINING COMPANY PTY LTD; ABN - (ABN 11 615 729 005); GSM MINING COMPANY PTY LTD; ABN - (ABN 42 165 235 030)",
+    "determination_publication_date": "13 November 2026",
+    "anzsic_codes": "6419 Other Auxiliary Finance and Investment Services; 8710 Child Care Services",
+    "acquirers": "CAMP AUSTRALIA PROPRIETARY LIMITED; ABN - (ABN 96 060 703 120)",
+    "targets": "Jabiru Community Services Limited; ACN - (ACN 666 575 006)",
+    "other_parties": "Allegro Services III D Pty Ltd; ACN - (ACN 621 451 705); CA GROUP HOLDCO PTY LTD; ABN - (ABN 95 663 533 195); Allegro Side Car Services III A Pty Limited; ACN - (ACN 621 402 702); Allegro Fund III GP Co Pty Limited; ACN - (ACN 620 410 764); ALLEGRO SIDE CAR SERVICES III E PTY LTD; ABN - (ABN 24 657 393 050)",
     "decisions_docs": [
       {
-        "date": "16 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Gold%20Fields%20%E2%80%93%20BHP%20Nickel%20West%20%28Kambalda%20nickel%20concentrator%29%20%28WA-95047%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+        "date": "13 Nov 2026",
+        "description": "Camp Australia - Jabiru - Phase 1 Determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf"
       }
     ],
     "documents": [
       {
-        "date": "16 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Gold%20Fields%20%E2%80%93%20BHP%20Nickel%20West%20%28Kambalda%20nickel%20concentrator%29%20%28WA-95047%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
+        "date": "13 Nov 2026",
+        "description": "Camp Australia - Jabiru - Phase 1 Determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T14:39:35Z",
-    "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 32,
-    "elapsed_business_days": 22
+    "end_of_determination_period": "26 Nov 2026",
+    "det_period_calendar_days": 42,
+    "det_period_business_days": 30,
+    "elapsed_calendar_days": 29,
+    "elapsed_business_days": 21
   },
   "gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets": {
     "slug": "gold-fields-%E2%80%93-bhp-nickel-west-kambalda-exploration-assets",
@@ -2816,53 +2853,52 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-16T08:32:27Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 32,
     "elapsed_business_days": 22
   },
-  "camp-australia-%E2%80%93-jabiru": {
-    "slug": "camp-australia-%E2%80%93-jabiru",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/camp-australia-%E2%80%93-jabiru",
-    "title": "Camp Australia – Jabiru",
+  "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator": {
+    "slug": "gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/gold-fields-bhp-nickel-west-kambalda-nickel-concentrator",
+    "title": "Gold Fields - BHP Nickel West (Kambalda nickel concentrator)",
     "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-15048",
-    "stage": "Phase 1 - initial assessment",
+    "type": "Waiver",
+    "case_number": "WA-95047",
     "notification_date": "15 October 2026",
-    "last_modified_accc": "2026-11-13T15:54:39+11:00",
+    "last_modified_accc": "2026-11-16T17:33:00+11:00",
     "published_time_accc": "2026-10-15T11:00:00+11:00",
+    "stage": "Waiver application",
     "accc_determination": "Approved",
-    "determination_publication_date": "13 November 2026",
-    "anzsic_codes": "6419 Other Auxiliary Finance and Investment Services; 8710 Child Care Services",
-    "acquirers": "CAMP AUSTRALIA PROPRIETARY LIMITED; ABN - (ABN 96 060 703 120)",
-    "targets": "Jabiru Community Services Limited; ACN - (ACN 666 575 006)",
-    "other_parties": "Allegro Services III D Pty Ltd; ACN - (ACN 621 451 705); CA GROUP HOLDCO PTY LTD; ABN - (ABN 95 663 533 195); Allegro Side Car Services III A Pty Limited; ACN - (ACN 621 402 702); Allegro Fund III GP Co Pty Limited; ACN - (ACN 620 410 764); ALLEGRO SIDE CAR SERVICES III E PTY LTD; ABN - (ABN 24 657 393 050)",
+    "determination_publication_date": "16 November 2026",
+    "anzsic_codes": "0804 Gold Ore Mining; 0806 Nickel Ore Mining; 1012 Mineral Exploration; 2139 Other Basic Non-Ferrous Metal Manufacturing",
+    "acquirers": "ST IVES GOLD MINING COMPANY PTY LIMITED; ABN - (ABN 44 098 386 273)",
+    "targets": "BHP NICKEL WEST PTY LTD; ABN - (ABN 76 004 184 598)",
+    "other_parties": "GOLD ROAD (GRUYERE) PTY LTD; ABN - (ABN 80 612 071 306); AGNEW GOLD MINING COMPANY PTY LIMITED; ABN - (ABN 39 098 385 883); GRUYERE MINING COMPANY PTY LTD; ABN - (ABN 11 615 729 005); GSM MINING COMPANY PTY LTD; ABN - (ABN 42 165 235 030)",
     "decisions_docs": [
       {
-        "date": "13 Nov 2026",
-        "description": "Camp Australia - Jabiru - Phase 1 Determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf"
+        "date": "16 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Gold%20Fields%20%E2%80%93%20BHP%20Nickel%20West%20%28Kambalda%20nickel%20concentrator%29%20%28WA-95047%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
       }
     ],
     "documents": [
       {
-        "date": "13 Nov 2026",
-        "description": "Camp Australia - Jabiru - Phase 1 Determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Camp%20Australia%20-%20Jabiru%20-%20Phase%201%20determination_0.pdf"
+        "date": "16 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Gold%20Fields%20%E2%80%93%20BHP%20Nickel%20West%20%28Kambalda%20nickel%20concentrator%29%20%28WA-95047%29%20-%20Notification%20waiver%20determination%20-%2012%20November%202026.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "first_seen_utc": "2026-11-16T08:32:27Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
-    "end_of_determination_period": "26 Nov 2026",
-    "det_period_calendar_days": 42,
-    "det_period_business_days": 30,
-    "elapsed_calendar_days": 29,
-    "elapsed_business_days": 21
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 32,
+    "elapsed_business_days": 22
   },
   "cvs-group-%E2%80%93-karrinyup-small-animal-hospital": {
     "slug": "cvs-group-%E2%80%93-karrinyup-small-animal-hospital",
@@ -2896,7 +2932,7 @@
     ],
     "last_checked_utc": "2026-11-17T14:50:00Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "26 Nov 2026",
     "det_period_calendar_days": 42,
@@ -2934,12 +2970,51 @@
     ],
     "last_checked_utc": "2026-11-19T14:39:35Z",
     "first_seen_utc": "2026-11-17T14:50:00Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 33,
     "elapsed_business_days": 23
+  },
+  "commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic": {
+    "slug": "commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic",
+    "title": "Commonwealth Superannuation Corporation – 50% interest in Watergardens Shopping Centre precinct, Taylors Lake, Vic",
+    "acquisition_status": "Assessment completed",
+    "type": "Waiver",
+    "case_number": "WA-10047",
+    "notification_date": "14 October 2026",
+    "last_modified_accc": "2026-11-09T17:41:35+11:00",
+    "published_time_accc": "2026-10-14T11:00:00+11:00",
+    "stage": "Waiver application",
+    "accc_determination": "Approved",
+    "determination_publication_date": "9 November 2026",
+    "anzsic_codes": "6240 Financial Asset Investing; 6712 Non-Residential Property Operators",
+    "acquirers": "Commonwealth Superannuation Corporation as the trustee for ARIA PROPERTY FUND; ABN - (ABN 44 682 603 202)",
+    "targets": "The Watergardens Trust; QIC Retail Pty Ltd as the trustee for QIC TOWN CENTRE FUND; ABN - (ABN 20 029 046 504); The Watergardens Trading Trust; QTCF TT MIDCO PTY LTD; ABN - (ABN 91 668 902 252)",
+    "decisions_docs": [
+      {
+        "date": "9 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Commonwealth%20Superannuation%20Corporation%20%E2%80%93%2050%25%20interest%20in%20Watergardens%20Shopping%20Centre%20precinct%2C%20Taylors%20Lake%2C%20Vic%20%28WA-10047%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "9 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Commonwealth%20Superannuation%20Corporation%20%E2%80%93%2050%25%20interest%20in%20Watergardens%20Shopping%20Centre%20precinct%2C%20Taylors%20Lake%2C%20Vic%20%28WA-10047%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-16T01:21:42Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 26,
+    "elapsed_business_days": 18
   },
   "softbank-%E2%80%93-abb-robotics": {
     "slug": "softbank-%E2%80%93-abb-robotics",
@@ -2974,7 +3049,7 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -3014,51 +3089,12 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 27,
     "elapsed_business_days": 19
-  },
-  "commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic": {
-    "slug": "commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/commonwealth-superannuation-corporation-%E2%80%93-50-interest-in-watergardens-shopping-centre-precinct-taylors-lake-vic",
-    "title": "Commonwealth Superannuation Corporation – 50% interest in Watergardens Shopping Centre precinct, Taylors Lake, Vic",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-10047",
-    "notification_date": "14 October 2026",
-    "last_modified_accc": "2026-11-09T17:41:35+11:00",
-    "published_time_accc": "2026-10-14T11:00:00+11:00",
-    "stage": "Waiver application",
-    "accc_determination": "Approved",
-    "determination_publication_date": "9 November 2026",
-    "anzsic_codes": "6240 Financial Asset Investing; 6712 Non-Residential Property Operators",
-    "acquirers": "Commonwealth Superannuation Corporation as the trustee for ARIA PROPERTY FUND; ABN - (ABN 44 682 603 202)",
-    "targets": "The Watergardens Trust; QIC Retail Pty Ltd as the trustee for QIC TOWN CENTRE FUND; ABN - (ABN 20 029 046 504); The Watergardens Trading Trust; QTCF TT MIDCO PTY LTD; ABN - (ABN 91 668 902 252)",
-    "decisions_docs": [
-      {
-        "date": "9 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Commonwealth%20Superannuation%20Corporation%20%E2%80%93%2050%25%20interest%20in%20Watergardens%20Shopping%20Centre%20precinct%2C%20Taylors%20Lake%2C%20Vic%20%28WA-10047%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "9 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Commonwealth%20Superannuation%20Corporation%20%E2%80%93%2050%25%20interest%20in%20Watergardens%20Shopping%20Centre%20precinct%2C%20Taylors%20Lake%2C%20Vic%20%28WA-10047%29%20-%20Notification%20waiver%20determination%20-%208%20November%202026.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-16T01:21:42Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 26,
-    "elapsed_business_days": 18
   },
   "australian-rugby-league-commission-%E2%80%93-novotel-sydney-international-airport-nsw": {
     "slug": "australian-rugby-league-commission-%E2%80%93-novotel-sydney-international-airport-nsw",
@@ -3091,7 +3127,7 @@
       }
     ],
     "last_checked_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
@@ -3132,51 +3168,12 @@
     ],
     "last_checked_utc": "2026-11-18T14:29:43Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 23,
     "elapsed_business_days": 17
-  },
-  "flightsafety-international-commercial-training-solutions": {
-    "slug": "flightsafety-international-commercial-training-solutions",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flightsafety-international-commercial-training-solutions",
-    "title": "FlightSafety International - Commercial Training Solutions",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-50040",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "13 October 2026",
-    "last_modified_accc": "2026-11-09T16:00:08+11:00",
-    "published_time_accc": "2026-10-13T11:00:00+11:00",
-    "accc_determination": "Approved",
-    "determination_publication_date": "9 November 2026",
-    "anzsic_codes": "2469 Other Specialised Machinery and Equipment Manufacturing; 4900 Air and Space Transport; 8101 Technical and Vocational Education and Training",
-    "acquirers": "FlightSafety International Inc. (2074272)",
-    "targets": "Horizon CTS Corp. (2683968)",
-    "decisions_docs": [
-      {
-        "date": "9 Nov 2026",
-        "description": "FlightSafety International - Commercial Training Solutions - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/FlightSafety%20International%20-%20Commercial%20Training%20Solutions%20-%20Phase%201%20determination.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "9 Nov 2026",
-        "description": "FlightSafety International - Commercial Training Solutions - Phase 1 determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/FlightSafety%20International%20-%20Commercial%20Training%20Solutions%20-%20Phase%201%20determination.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-16T01:21:42Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 27,
-    "elapsed_business_days": 19
   },
   "talent-acquisition-group-%E2%80%93-strategy1-hr": {
     "slug": "talent-acquisition-group-%E2%80%93-strategy1-hr",
@@ -3210,7 +3207,46 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 27,
+    "elapsed_business_days": 19
+  },
+  "flightsafety-international-commercial-training-solutions": {
+    "slug": "flightsafety-international-commercial-training-solutions",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/flightsafety-international-commercial-training-solutions",
+    "title": "FlightSafety International - Commercial Training Solutions",
+    "acquisition_status": "Assessment completed",
+    "type": "Notification",
+    "case_number": "MN-50040",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "13 October 2026",
+    "last_modified_accc": "2026-11-09T16:00:08+11:00",
+    "published_time_accc": "2026-10-13T11:00:00+11:00",
+    "accc_determination": "Approved",
+    "determination_publication_date": "9 November 2026",
+    "anzsic_codes": "2469 Other Specialised Machinery and Equipment Manufacturing; 4900 Air and Space Transport; 8101 Technical and Vocational Education and Training",
+    "acquirers": "FlightSafety International Inc. (2074272)",
+    "targets": "Horizon CTS Corp. (2683968)",
+    "decisions_docs": [
+      {
+        "date": "9 Nov 2026",
+        "description": "FlightSafety International - Commercial Training Solutions - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/FlightSafety%20International%20-%20Commercial%20Training%20Solutions%20-%20Phase%201%20determination.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "9 Nov 2026",
+        "description": "FlightSafety International - Commercial Training Solutions - Phase 1 determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/FlightSafety%20International%20-%20Commercial%20Training%20Solutions%20-%20Phase%201%20determination.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-16T01:21:42Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -3250,7 +3286,7 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -3290,7 +3326,7 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -3330,7 +3366,7 @@
     ],
     "last_checked_utc": "2026-11-17T04:08:47Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "end_of_determination_period": "23 Nov 2026",
     "det_period_calendar_days": 42,
@@ -3371,7 +3407,7 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -3410,13 +3446,91 @@
       }
     ],
     "last_checked_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 14,
     "elapsed_business_days": 10
+  },
+  "tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business": {
+    "slug": "tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business",
+    "title": "TCL Electronics – Sony’s home entertainment business",
+    "acquisition_status": "Assessment completed",
+    "type": "Notification",
+    "case_number": "MN-65038",
+    "stage": "Phase 1 - initial assessment",
+    "notification_date": "9 October 2026",
+    "last_modified_accc": "2026-11-04T14:30:59+11:00",
+    "published_time_accc": "2026-10-09T11:00:00+11:00",
+    "accc_determination": "Approved",
+    "determination_publication_date": "4 November 2026",
+    "anzsic_codes": "3492 Computer and Computer Peripheral Wholesaling; 3494 Other Electrical and Electronic Goods Wholesaling; 4221 Electrical, Electronic and Gas Appliance Retailing; 4310 Non-Store Retailing; 5420 Software Publishing; 5511 Motion Picture and Video Production; 5512 Motion Picture and Video Distribution; 5521 Music Publishing; 5522 Music and Other Sound Recording Activities; 9421 Domestic Appliance Repair and Maintenance",
+    "acquirers": "TTE Corporation (593939)",
+    "targets": "SONY AUSTRALIA LIMITED; ABN - (ABN 59 001 215 354); Sony Corporation (7010401045660)",
+    "decisions_docs": [
+      {
+        "date": "4 Nov 2026",
+        "description": "TCL Electronics - Sony's home entertainment business - Phase 1 Determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/TCL%20Electronics%20-%20Sony%27s%20home%20entertainment%20business%20-%20Phase%201%20Determination.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "4 Nov 2026",
+        "description": "TCL Electronics - Sony's home entertainment business - Phase 1 Determination",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/TCL%20Electronics%20-%20Sony%27s%20home%20entertainment%20business%20-%20Phase%201%20Determination.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-17T14:50:00Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 26,
+    "elapsed_business_days": 18
+  },
+  "svp-%E2%80%93-marelli": {
+    "slug": "svp-%E2%80%93-marelli",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/svp-%E2%80%93-marelli",
+    "title": "SVP – Marelli",
+    "acquisition_status": "Assessment completed",
+    "type": "Waiver",
+    "case_number": "WA-70045",
+    "notification_date": "9 October 2026",
+    "last_modified_accc": "2026-11-04T17:57:21+11:00",
+    "published_time_accc": "2026-10-09T11:00:00+11:00",
+    "stage": "Waiver application",
+    "accc_determination": "Approved",
+    "determination_publication_date": "4 November 2026",
+    "anzsic_codes": "2319 Other Motor Vehicle Parts Manufacturing; 6240 Financial Asset Investing",
+    "acquirers": "Strategic Value Partners, L.P (CRD# - 138406 and SEC# - 801-72080)",
+    "targets": "Marelli Corporation (Japanese Legal Entity Identifier - 0300-01-014831)",
+    "decisions_docs": [
+      {
+        "date": "4 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/SVP%20-%20Marelli%20%28WA-70045%29%20-%20Notification%20waiver%20determination%20-%204%20November%202026.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "4 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/SVP%20-%20Marelli%20%28WA-70045%29%20-%20Notification%20waiver%20determination%20-%204%20November%202026.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-17T14:50:00Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 26,
+    "elapsed_business_days": 18
   },
   "seidler-equity-%E2%80%93-eco-outdoor": {
     "slug": "seidler-equity-%E2%80%93-eco-outdoor",
@@ -3451,7 +3565,7 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
@@ -3491,129 +3605,12 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 24,
     "elapsed_business_days": 16
-  },
-  "tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business": {
-    "slug": "tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tcl-electronics-%E2%80%93-sony%E2%80%99s-home-entertainment-business",
-    "title": "TCL Electronics – Sony’s home entertainment business",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-65038",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "9 October 2026",
-    "last_modified_accc": "2026-11-04T14:30:59+11:00",
-    "published_time_accc": "2026-10-09T11:00:00+11:00",
-    "accc_determination": "Approved",
-    "determination_publication_date": "4 November 2026",
-    "anzsic_codes": "3492 Computer and Computer Peripheral Wholesaling; 3494 Other Electrical and Electronic Goods Wholesaling; 4221 Electrical, Electronic and Gas Appliance Retailing; 4310 Non-Store Retailing; 5420 Software Publishing; 5511 Motion Picture and Video Production; 5512 Motion Picture and Video Distribution; 5521 Music Publishing; 5522 Music and Other Sound Recording Activities; 9421 Domestic Appliance Repair and Maintenance",
-    "acquirers": "TTE Corporation (593939)",
-    "targets": "SONY AUSTRALIA LIMITED; ABN - (ABN 59 001 215 354); Sony Corporation (7010401045660)",
-    "decisions_docs": [
-      {
-        "date": "4 Nov 2026",
-        "description": "TCL Electronics - Sony's home entertainment business - Phase 1 Determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/TCL%20Electronics%20-%20Sony%27s%20home%20entertainment%20business%20-%20Phase%201%20Determination.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "4 Nov 2026",
-        "description": "TCL Electronics - Sony's home entertainment business - Phase 1 Determination",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/TCL%20Electronics%20-%20Sony%27s%20home%20entertainment%20business%20-%20Phase%201%20Determination.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-17T14:50:00Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 26,
-    "elapsed_business_days": 18
-  },
-  "svp-%E2%80%93-marelli": {
-    "slug": "svp-%E2%80%93-marelli",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/svp-%E2%80%93-marelli",
-    "title": "SVP – Marelli",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-70045",
-    "notification_date": "9 October 2026",
-    "last_modified_accc": "2026-11-04T17:57:21+11:00",
-    "published_time_accc": "2026-10-09T11:00:00+11:00",
-    "stage": "Waiver application",
-    "accc_determination": "Approved",
-    "determination_publication_date": "4 November 2026",
-    "anzsic_codes": "2319 Other Motor Vehicle Parts Manufacturing; 6240 Financial Asset Investing",
-    "acquirers": "Strategic Value Partners, L.P (CRD# - 138406 and SEC# - 801-72080)",
-    "targets": "Marelli Corporation (Japanese Legal Entity Identifier - 0300-01-014831)",
-    "decisions_docs": [
-      {
-        "date": "4 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/SVP%20-%20Marelli%20%28WA-70045%29%20-%20Notification%20waiver%20determination%20-%204%20November%202026.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "4 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/SVP%20-%20Marelli%20%28WA-70045%29%20-%20Notification%20waiver%20determination%20-%204%20November%202026.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-17T14:50:00Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 26,
-    "elapsed_business_days": 18
-  },
-  "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson": {
-    "slug": "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
-    "title": "Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-70044",
-    "notification_date": "9 October 2026",
-    "last_modified_accc": "2026-11-10T17:44:29+11:00",
-    "published_time_accc": "2026-10-09T11:00:00+11:00",
-    "stage": "Waiver application",
-    "accc_determination": "Not approved",
-    "determination_publication_date": "10 November 2026",
-    "anzsic_codes": "4511 Cafes and Restaurants; 4520 Pubs, Taverns and Bars",
-    "acquirers": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
-    "targets": "DATRE PTY LTD; ACN - (ACN 004 768 512)",
-    "decisions_docs": [
-      {
-        "date": "10 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20318%20Little%20Collins%20Street%2C%20Melbourne%20%28also%20known%20as%20The%20Carson%29%20%28WA-70044%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf"
-      }
-    ],
-    "documents": [
-      {
-        "date": "10 Nov 2026",
-        "description": "Notification waiver determination published",
-        "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20318%20Little%20Collins%20Street%2C%20Melbourne%20%28also%20known%20as%20The%20Carson%29%20%28WA-70044%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf"
-      }
-    ],
-    "last_checked_utc": "2026-11-17T04:08:47Z",
-    "first_seen_utc": "2026-11-10T13:43:28Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
-    "schema_version": 2,
-    "det_period_calendar_days": null,
-    "det_period_business_days": null,
-    "elapsed_calendar_days": 32,
-    "elapsed_business_days": 22
   },
   "marubeni-corporation-kitsch": {
     "slug": "marubeni-corporation-kitsch",
@@ -3647,24 +3644,62 @@
     ],
     "last_checked_utc": "2026-11-16T01:21:42Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
     "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 31,
     "elapsed_business_days": 21
   },
-  "vetpartners-%E2%80%93-vetlove": {
-    "slug": "vetpartners-%E2%80%93-vetlove",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vetpartners-%E2%80%93-vetlove",
-    "title": "VetPartners – VetLove",
-    "acquisition_status": "Under assessment",
-    "type": "Notification",
-    "case_number": "MN-75031",
-    "stage": "Phase 1 - initial assessment",
+  "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson": {
+    "slug": "australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-318-little-collins-street-melbourne-also-known-as-the-carson",
+    "title": "Australian Venue Co – assets of 318 Little Collins Street, Melbourne (also known as The Carson)",
+    "acquisition_status": "Assessment completed",
+    "type": "Waiver",
+    "case_number": "WA-70044",
     "notification_date": "9 October 2026",
+    "last_modified_accc": "2026-11-10T17:44:29+11:00",
+    "published_time_accc": "2026-10-09T11:00:00+11:00",
+    "stage": "Waiver application",
+    "accc_determination": "Not approved",
+    "determination_publication_date": "10 November 2026",
+    "anzsic_codes": "4511 Cafes and Restaurants; 4520 Pubs, Taverns and Bars",
+    "acquirers": "AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299)",
+    "targets": "DATRE PTY LTD; ACN - (ACN 004 768 512)",
+    "decisions_docs": [
+      {
+        "date": "10 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20318%20Little%20Collins%20Street%2C%20Melbourne%20%28also%20known%20as%20The%20Carson%29%20%28WA-70044%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf"
+      }
+    ],
+    "documents": [
+      {
+        "date": "10 Nov 2026",
+        "description": "Notification waiver determination published",
+        "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20assets%20of%20318%20Little%20Collins%20Street%2C%20Melbourne%20%28also%20known%20as%20The%20Carson%29%20%28WA-70044%29%20-%20Notification%20waiver%20determination%20-%2010%20November%202026.pdf"
+      }
+    ],
+    "last_checked_utc": "2026-11-17T04:08:47Z",
+    "first_seen_utc": "2026-11-10T13:43:28Z",
+    "last_seen_in_listing_utc": "2026-11-20T02:32:12Z",
+    "schema_version": 2,
+    "det_period_calendar_days": null,
+    "det_period_business_days": null,
+    "elapsed_calendar_days": 32,
+    "elapsed_business_days": 22
+  },
+  "vetpartners-%E2%80%93-vetlove": {
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vetpartners-%E2%80%93-vetlove",
     "last_modified_accc": "2026-11-12T17:11:22+11:00",
     "published_time_accc": "2026-10-09T11:00:00+11:00",
+    "title": "VetPartners – VetLove",
+    "acquisition_status": "Under assessment",
+    "case_number": "MN-75031",
+    "type": "Notification",
+    "notification_date": "9 October 2026",
+    "stage": "Phase 1 - initial assessment",
     "end_of_determination_period": "1 Dec 2026",
     "anzsic_codes": "6240 Financial Asset Investing; 6970 Veterinary Services",
     "acquirers": "VETPARTNERS AUSTRALIA PTY LTD; ABN - (ABN 44 114 962 453); Unity HoldCo Pty Ltd; ABN - (ABN 32 698 307 881); EQT Fund Management S.à r.l. (Registration number - B167972)",
@@ -3694,9 +3729,9 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "slug": "vetpartners-%E2%80%93-vetlove",
     "schema_version": 2,
     "det_period_calendar_days": 53,
     "det_period_business_days": 37
@@ -4019,16 +4054,15 @@
     "elapsed_business_days": 18
   },
   "macquarie-global-infrastructure-fund-serv": {
-    "slug": "macquarie-global-infrastructure-fund-serv",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/macquarie-global-infrastructure-fund-serv",
-    "title": "Macquarie Global Infrastructure Fund - SERV",
-    "acquisition_status": "Under assessment",
-    "type": "Notification",
-    "case_number": "MN-75059",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "7 October 2026",
     "last_modified_accc": "2026-11-10T17:42:53+11:00",
     "published_time_accc": "2026-10-07T11:00:00+11:00",
+    "title": "Macquarie Global Infrastructure Fund - SERV",
+    "acquisition_status": "Under assessment",
+    "case_number": "MN-75059",
+    "type": "Notification",
+    "notification_date": "7 October 2026",
+    "stage": "Phase 1 - initial assessment",
     "end_of_determination_period": "7 Dec 2026",
     "anzsic_codes": "6240 Financial Asset Investing; 6330 Superannuation Funds; 6931 Legal Services; 7520 State Government Administration; 7720 Regulatory Services",
     "acquirers": "Macquarie Global Infrastructure Fund SCSp acting by its general partner MGIF Luxembourg GP S.à.r.l (RCS Number - B 250.938)",
@@ -4048,9 +4082,9 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "slug": "macquarie-global-infrastructure-fund-serv",
     "schema_version": 2,
     "det_period_calendar_days": 61,
     "det_period_business_days": 43
@@ -5125,13 +5159,12 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "slug": "coles-supermarket-site-in-angle-vale-sa",
     "schema_version": 2,
     "det_period_calendar_days": 107,
-    "det_period_business_days": 62,
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z"
+    "det_period_business_days": 62
   },
   "tasman-capital-%E2%80%93-amberlee-holiday-homes-accommodation-and-woodlands-estate": {
     "slug": "tasman-capital-%E2%80%93-amberlee-holiday-homes-accommodation-and-woodlands-estate",
@@ -5332,23 +5365,27 @@
     "last_seen_in_listing_utc": "2026-11-19T14:39:35Z"
   },
   "kinetic-tassielink": {
-    "slug": "kinetic-tassielink",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink",
+    "last_modified_accc": "2026-11-20T11:07:33+11:00",
+    "published_time_accc": "2026-09-29T10:00:00+10:00",
     "title": "Kinetic - Tassielink",
     "acquisition_status": "Under assessment",
-    "type": "Notification",
     "case_number": "MN-75058",
-    "stage": "Phase 1 - initial assessment",
+    "type": "Notification",
     "notification_date": "29 September 2026",
-    "last_modified_accc": "2026-10-29T13:59:08+11:00",
-    "published_time_accc": "2026-09-29T10:00:00+10:00",
-    "end_of_determination_period": "25 Nov 2026",
+    "stage": "Phase 1 - initial assessment",
+    "end_of_determination_period": "2 Dec 2026",
     "anzsic_codes": "4621 Interurban and Rural Bus Transport; 4622 Urban Bus Transport (Including Tramway); 6240 Financial Asset Investing",
     "acquirers": "KINETIC HOLDING COMPANY PTY LTD; ABN - (ABN 49 601 254 880)",
     "targets": "Tassielink Group Pty Ltd; ACN - (ACN 643 785 611); TASMANIAN TOURS & TRAVEL PTY. LTD.; ABN - (ABN 43 080 290 393)",
     "other_parties": "TPG Inc. (SEC - 87-2063362)",
     "consultation_text": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
     "decisions_docs": [
+      {
+        "date": "20 Nov 2026",
+        "description": "Timeline extended by 5 business days - following request by parties",
+        "url": ""
+      },
       {
         "date": "29 Oct 2026",
         "description": "Timeline extended by 10 business days - following request by parties",
@@ -5357,17 +5394,22 @@
     ],
     "documents": [
       {
+        "date": "20 Nov 2026",
+        "description": "Timeline extended by 5 business days - following request by parties",
+        "url": ""
+      },
+      {
         "date": "29 Oct 2026",
         "description": "Timeline extended by 10 business days - following request by parties",
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T14:39:35Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
-    "last_seen_in_listing_utc": "2026-11-19T14:39:35Z",
+    "slug": "kinetic-tassielink",
     "schema_version": 2,
-    "det_period_calendar_days": 57,
-    "det_period_business_days": 40
+    "det_period_calendar_days": 64,
+    "det_period_business_days": 45
   },
   "abp-macquarie-agriculture-fund-crop-australia-2": {
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abp-macquarie-agriculture-fund-crop-australia-2",
@@ -7456,7 +7498,7 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "slug": "psp-investments-aaa-egg-company",
     "schema_version": 2,
@@ -13038,21 +13080,20 @@
     "elapsed_business_days": 19
   },
   "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa": {
-    "slug": "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
-    "title": "Accent Group – The Athlete’s Foot in Karrinyup, WA",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-01118",
-    "notification_date": "29 July 2026",
     "last_modified_accc": "2026-08-18T16:52:37+10:00",
     "published_time_accc": "2026-07-29T10:00:00+10:00",
+    "title": "Accent Group – The Athlete’s Foot in Karrinyup, WA",
+    "acquisition_status": "Assessment completed",
+    "case_number": "WA-01118",
+    "type": "Waiver",
+    "notification_date": "29 July 2026",
     "stage": "Waiver application",
     "accc_determination": "Approved",
     "determination_publication_date": "18 August 2026",
     "anzsic_codes": "4252 Footwear Retailing",
-    "acquirers": "The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251)",
-    "targets": "West Feet Pty Ltd (ABN 21 129 844 944)",
+    "acquirers": "The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251)",
+    "targets": "West Feet Pty Ltd; ABN - (ABN 21 129 844 944)",
     "decisions_docs": [
       {
         "date": "18 Aug 2026",
@@ -13067,25 +13108,24 @@
         "url": "https://www.accc.gov.au/system/files/public-merger-register/documents/Accent%20Group%20-%20The%20Athlete%27s%20Foot%20in%20Karrinyup%20WA%20%28WA-01118%29%20-%20Notification%20waiver%20determination%20-%2018%20August%202026.pdf"
       }
     ],
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "slug": "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
+    "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 20,
-    "elapsed_business_days": 14,
-    "last_checked_utc": "2026-10-05T04:46:25.770152Z",
-    "schema_version": 2,
-    "last_seen_in_listing_utc": "2026-11-17T04:08:47Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z"
+    "elapsed_business_days": 14
   },
   "verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange": {
-    "slug": "verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange",
-    "title": "Verlinvest – up to 60% interest in HomeExchange",
-    "acquisition_status": "Assessment completed",
-    "type": "Waiver",
-    "case_number": "WA-60033",
-    "notification_date": "29 July 2026",
     "last_modified_accc": "2026-08-28T17:15:10+10:00",
     "published_time_accc": "2026-07-29T10:00:00+10:00",
+    "title": "Verlinvest – up to 60% interest in HomeExchange",
+    "acquisition_status": "Assessment completed",
+    "case_number": "WA-60033",
+    "type": "Waiver",
+    "notification_date": "29 July 2026",
     "stage": "Waiver application",
     "accc_determination": "Approved",
     "determination_publication_date": "28 August 2026",
@@ -13107,26 +13147,25 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/Verlinvest%20%E2%80%93%20up%20to%2060%25%20interest%20in%20HomeExchange%20%28WA-60033%29%20-%20Notification%20waiver%20determination%20-%2028%20August%202026.pdf"
       }
     ],
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "slug": "verlinvest-%E2%80%93-up-to-60-interest-in-homeexchange",
+    "schema_version": 2,
     "det_period_calendar_days": null,
     "det_period_business_days": null,
     "elapsed_calendar_days": 30,
-    "elapsed_business_days": 22,
-    "last_checked_utc": "2026-10-05T04:46:25.770152Z",
-    "schema_version": 2,
-    "last_seen_in_listing_utc": "2026-11-17T04:08:47Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z"
+    "elapsed_business_days": 22
   },
   "salesforce-intercom": {
-    "slug": "salesforce-intercom",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/salesforce-intercom",
-    "title": "Salesforce - Intercom",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-40031",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "28 July 2026",
     "last_modified_accc": "2026-08-21T15:40:33+10:00",
     "published_time_accc": "2026-07-28T10:00:00+10:00",
+    "title": "Salesforce - Intercom",
+    "acquisition_status": "Assessment completed",
+    "case_number": "MN-40031",
+    "type": "Notification",
+    "notification_date": "28 July 2026",
+    "stage": "Phase 1 - initial assessment",
     "accc_determination": "Approved",
     "determination_publication_date": "21 August 2026",
     "anzsic_codes": "7000 Computer System Design and Related Services",
@@ -13147,27 +13186,26 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/Salesforce%20-%20Intercom%20-%20Phase%201%20determination%20without%20conditions.pdf"
       }
     ],
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "slug": "salesforce-intercom",
+    "schema_version": 2,
     "end_of_determination_period": "8 Sep 2026",
     "det_period_calendar_days": 42,
     "det_period_business_days": 30,
     "elapsed_calendar_days": 24,
-    "elapsed_business_days": 18,
-    "last_checked_utc": "2026-10-05T04:46:25.770152Z",
-    "schema_version": 2,
-    "last_seen_in_listing_utc": "2026-11-17T04:08:47Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z"
+    "elapsed_business_days": 18
   },
   "kimberly-clark-corporation-kenvue-inc": {
-    "slug": "kimberly-clark-corporation-kenvue-inc",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kimberly-clark-corporation-kenvue-inc",
-    "title": "Kimberly-Clark Corporation - Kenvue Inc.",
-    "acquisition_status": "Assessment completed",
-    "type": "Notification",
-    "case_number": "MN-80005",
-    "stage": "Phase 1 - initial assessment",
-    "notification_date": "28 July 2026",
     "last_modified_accc": "2026-09-07T12:03:37+10:00",
     "published_time_accc": "2026-07-28T10:00:00+10:00",
+    "title": "Kimberly-Clark Corporation - Kenvue Inc.",
+    "acquisition_status": "Assessment completed",
+    "case_number": "MN-80005",
+    "type": "Notification",
+    "notification_date": "28 July 2026",
+    "stage": "Phase 1 - initial assessment",
     "accc_determination": "Approved with conditions",
     "determination_publication_date": "1 September 2026",
     "anzsic_codes": "1524 Sanitary Paper Product Manufacturing; 3720 Pharmaceutical and Toiletry Goods Wholesaling",
@@ -13197,15 +13235,15 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/Kimberly-Clark%20-%20Kenvue%20-%20Phase%201%20determination%20-%201%20September%202026_0.pdf"
       }
     ],
+    "last_checked_utc": "2026-11-20T02:32:12Z",
+    "first_seen_utc": "2026-11-09T06:56:10Z",
+    "slug": "kimberly-clark-corporation-kenvue-inc",
+    "schema_version": 2,
     "end_of_determination_period": "8 Sep 2026",
     "det_period_calendar_days": 42,
     "det_period_business_days": 30,
     "elapsed_calendar_days": 35,
-    "elapsed_business_days": 25,
-    "last_checked_utc": "2026-10-05T04:46:25.770152Z",
-    "schema_version": 2,
-    "last_seen_in_listing_utc": "2026-11-17T04:08:47Z",
-    "first_seen_utc": "2026-11-09T06:56:10Z"
+    "elapsed_business_days": 25
   },
   "protech-activaterail": {
     "slug": "protech-activaterail",
@@ -23988,7 +24026,7 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "slug": "zoetis-%E2%80%93-neogen-genomics-business",
     "schema_version": 2,
@@ -25338,7 +25376,7 @@
         "url": ""
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "slug": "saipem-spa-subsea7-sa",
     "schema_version": 2,
@@ -30445,7 +30483,7 @@
         "url": "https://www.accc.gov.au/system/files/moderated_files/Decision%20to%20Proceed%20to%20a%20Phase%202%20review_6.pdf"
       }
     ],
-    "last_checked_utc": "2026-11-19T02:46:03Z",
+    "last_checked_utc": "2026-11-20T02:32:12Z",
     "first_seen_utc": "2026-11-09T06:56:10Z",
     "slug": "insurance-australia-group-%E2%80%93-rac-insurance",
     "schema_version": 2,

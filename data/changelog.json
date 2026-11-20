@@ -41544,5 +41544,142 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T02:32:12Z",
+    "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
+    "title": "Endeavour Group - retail liquor site in Darch, WA",
+    "case_number": "MN-20048",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-20T02:32:12Z",
+    "slug": "amadeus-idemia-public-security",
+    "title": "Amadeus - Idemia Public Security",
+    "case_number": "MN-60027",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amadeus - Idemia Public Security. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-19",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T02:32:12Z",
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
+    "case_number": "MN-65045",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Too Lost - Xelon Entertainment. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-19",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T02:32:12Z",
+    "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
+    "title": "OCTA – Woodside-EDL LNG JV",
+    "case_number": "MN-10044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "9 Dec 2026",
+        "new": "16 Dec 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-29T10:01:25+11:00",
+        "new": "2026-11-20T11:43:35+11:00",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '20 Nov 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T02:32:12Z",
+    "slug": "kinetic-tassielink",
+    "title": "Kinetic - Tassielink",
+    "case_number": "MN-75058",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "end_of_determination_period",
+        "old": "25 Nov 2026",
+        "new": "2 Dec 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-29T13:59:08+11:00",
+        "new": "2026-11-20T11:07:33+11:00",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "[{'date': '29 Oct 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
+        "new": "[{'date': '20 Nov 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '29 Oct 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T02:32:12Z",
+    "slug": "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
+    "title": "Accent Group – The Athlete’s Foot in Karrinyup, WA",
+    "case_number": "WA-01118",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251)",
+        "new": "The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "West Feet Pty Ltd (ABN 21 129 844 944)",
+        "new": "West Feet Pty Ltd; ABN - (ABN 21 129 844 944)",
+        "material": true
+      }
+    ]
   }
 ]

@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-11-19T14:42:19Z",
+  "generated_at_utc": "2026-11-20T02:34:54Z",
   "data_health": {
-    "last_success_utc": "2026-11-19T14:39:35Z",
+    "last_success_utc": "2026-11-20T02:32:12Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 46
+    "last_request_count": 47
   },
-  "total_entries": 877,
+  "total_entries": 878,
   "by_acquisition_status": {
-    "Under assessment": 34,
+    "Under assessment": 35,
     "Assessment completed": 838,
     "Assessment ceased": 5
   },
   "by_stage": {
-    "Phase 1 - initial assessment": 322,
+    "Phase 1 - initial assessment": 323,
     "Waiver application": 546,
     "Phase 2 - detailed assessment": 8,
     "Public benefit phase": 1
   },
   "by_type": {
-    "Notification": 331,
+    "Notification": 332,
     "Waiver": 546
   },
   "by_accc_determination": {
@@ -29,20 +29,20 @@
   },
   "decisions_due_within_10_days": [
     {
-      "slug": "kinetic-tassielink",
-      "title": "Kinetic - Tassielink",
-      "case_number": "MN-75058",
-      "end_of_determination_period": "25 Nov 2026",
-      "business_days_remaining": 3,
-      "day_of_period": "Day 37 of 40"
-    },
-    {
       "slug": "vetpartners-%E2%80%93-vetlove",
       "title": "VetPartners – VetLove",
       "case_number": "MN-75031",
       "end_of_determination_period": "1 Dec 2026",
       "business_days_remaining": 7,
       "day_of_period": "Day 30 of 37"
+    },
+    {
+      "slug": "kinetic-tassielink",
+      "title": "Kinetic - Tassielink",
+      "case_number": "MN-75058",
+      "end_of_determination_period": "2 Dec 2026",
+      "business_days_remaining": 8,
+      "day_of_period": "Day 37 of 45"
     },
     {
       "slug": "sun-pharma-organon",
@@ -79,16 +79,16 @@
       "business_days_left": 0
     },
     {
-      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-      "case_number": "MN-25056",
+      "slug": "william-adams-clennett-hire",
+      "title": "William Adams - Clennett Hire",
+      "case_number": "MN-85063",
       "closes": "2026-11-20",
       "business_days_left": 0
     },
     {
-      "slug": "william-adams-clennett-hire",
-      "title": "William Adams - Clennett Hire",
-      "case_number": "MN-85063",
+      "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+      "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+      "case_number": "MN-25056",
       "closes": "2026-11-20",
       "business_days_left": 0
     },
@@ -105,6 +105,13 @@
       "case_number": "MN-15054",
       "closes": "2026-11-25",
       "business_days_left": 3
+    },
+    {
+      "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
+      "title": "Endeavour Group - retail liquor site in Darch, WA",
+      "case_number": "MN-20048",
+      "closes": "2026-11-27",
+      "business_days_left": 5
     }
   ],
   "documents": {
@@ -116,7 +123,7 @@
   "analytics": {
     "by_type": {
       "Notification": {
-        "matters": 331,
+        "matters": 332,
         "determined": 292,
         "approved": 285,
         "approved_with_conditions": 5,
@@ -178,7 +185,7 @@
       {
         "year": 2026,
         "type": "Notification",
-        "filed": 318,
+        "filed": 319,
         "completed": 253,
         "determined": 253,
         "approved": 247,
@@ -638,7 +645,7 @@
         "year": 2026,
         "month": 11,
         "type": "Notification",
-        "filed": 17,
+        "filed": 18,
         "completed": 21,
         "determined": 21,
         "approved": 21,
@@ -732,8 +739,8 @@
       },
       {
         "sector": "Wholesale Trade",
-        "matters": 110,
-        "under_assessment": 7,
+        "matters": 111,
+        "under_assessment": 8,
         "determined": 102,
         "approved": 96,
         "approved_with_conditions": 2,
@@ -747,8 +754,8 @@
       },
       {
         "sector": "Property and Real Estate",
-        "matters": 83,
-        "under_assessment": 5,
+        "matters": 84,
+        "under_assessment": 6,
         "determined": 78,
         "approved": 72,
         "approved_with_conditions": 1,
@@ -777,8 +784,8 @@
       },
       {
         "sector": "Accommodation and Hospitality",
-        "matters": 69,
-        "under_assessment": 1,
+        "matters": 70,
+        "under_assessment": 2,
         "determined": 68,
         "approved": 61,
         "approved_with_conditions": 1,
@@ -807,8 +814,8 @@
       },
       {
         "sector": "Supermarkets and Grocery Retail",
-        "matters": 52,
-        "under_assessment": 4,
+        "matters": 53,
+        "under_assessment": 5,
         "determined": 48,
         "approved": 42,
         "approved_with_conditions": 2,
@@ -927,8 +934,8 @@
       },
       {
         "sector": "Food and Beverage Manufacturing",
-        "matters": 30,
-        "under_assessment": 3,
+        "matters": 31,
+        "under_assessment": 4,
         "determined": 27,
         "approved": 25,
         "approved_with_conditions": 0,
@@ -1303,7 +1310,7 @@
     ],
     "by_stage": {
       "Phase 1 - initial assessment": {
-        "matters": 322,
+        "matters": 323,
         "determined": 289,
         "approved": 285,
         "approved_with_conditions": 4,

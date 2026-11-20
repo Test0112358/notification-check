@@ -1,233 +1,146 @@
 {
-  "run_utc": "2026-11-19T14:39:35Z",
-  "run_canberra": "20 Nov 2026 01:39 AEDT",
-  "new_count": 9,
-  "changed_count": 5,
-  "cosmetic_only_count": 0,
+  "run_utc": "2026-11-20T02:32:12Z",
+  "run_canberra": "20 Nov 2026 13:32 AEDT",
+  "new_count": 1,
+  "changed_count": 3,
+  "cosmetic_only_count": 2,
   "removed_count": 0,
   "new_entries": [
     {
-      "slug": "coles-%E2%80%93-supermarket-site-in-broulee-nsw",
-      "title": "Coles – supermarket site in Broulee, NSW",
-      "case_number": "WA-60062",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-broulee-nsw"
-    },
-    {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-central-hotel-beaconsfield-vic",
-      "title": "Australian Venue Co – Assets of Central Hotel, Beaconsfield VIC",
-      "case_number": "WA-70053",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-central-hotel-beaconsfield-vic"
-    },
-    {
-      "slug": "ma-financial-redcape-fund-%E2%80%93-hotel-canobolas",
-      "title": "MA Financial (Redcape Fund) – Hotel Canobolas",
-      "case_number": "WA-95050",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-hotel-canobolas"
-    },
-    {
-      "slug": "respect-group-%E2%80%93-clifton-co-op-hospital-aged-care-support-at-home-care-and-community-housing-clifton-qld",
-      "title": "Respect Group – Clifton Co-op Hospital aged care, support at home care and community housing, Clifton QLD",
-      "case_number": "WA-85067",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-clifton-co-op-hospital-aged-care-support-at-home-care-and-community-housing-clifton-qld"
-    },
-    {
-      "slug": "pemba-%E2%80%93-accelagen",
-      "title": "Pemba – Accelagen",
-      "case_number": "WA-45043",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-accelagen"
-    },
-    {
-      "slug": "sheffield-group-%E2%80%93-champion-fasteners",
-      "title": "Sheffield Group – Champion Fasteners",
-      "case_number": "WA-40055",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sheffield-group-%E2%80%93-champion-fasteners"
-    },
-    {
-      "slug": "dexus-%E2%80%93-ldk-healthcare-unit-trust",
-      "title": "Dexus – LDK Healthcare Unit Trust",
-      "case_number": "WA-85065",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/dexus-%E2%80%93-ldk-healthcare-unit-trust"
-    },
-    {
-      "slug": "home-timber-hardware-mitre-10-picton-nsw",
-      "title": "Home Timber & Hardware - Mitre 10, Picton NSW",
-      "case_number": "WA-20052",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/home-timber-hardware-mitre-10-picton-nsw"
-    },
-    {
-      "slug": "pemba-%E2%80%93-superguardian",
-      "title": "Pemba – SuperGuardian",
-      "case_number": "WA-15055",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-superguardian"
+      "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
+      "title": "Endeavour Group - retail liquor site in Darch, WA",
+      "case_number": "MN-20048",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa"
     }
   ],
   "changed_entries": [
     {
-      "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw",
-      "title": "Endeavour Group – retail liquor site in Penrith, NSW",
-      "case_number": "MN-45028",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw",
+      "slug": "amadeus-idemia-public-security",
+      "title": "Amadeus - Idemia Public Security",
+      "case_number": "MN-60027",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+      "material": false,
+      "summary": [],
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amadeus - Idemia Public Security. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "material": false
+        },
+        {
+          "field": "consultation_close_date",
+          "old": "2026-11-19",
+          "new": "",
+          "material": false
+        }
+      ]
+    },
+    {
+      "slug": "too-lost-%E2%80%93-xelon-entertainment",
+      "title": "Too Lost – Xelon Entertainment",
+      "case_number": "MN-65045",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+      "material": false,
+      "summary": [],
+      "changes": [
+        {
+          "field": "consultation_text",
+          "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 19 November 2026 via email to mergers@accc.gov.au with the title Submission re: Too Lost - Xelon Entertainment. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 12 Nov 2026 Closing date 19 Nov 2026",
+          "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "material": false
+        },
+        {
+          "field": "consultation_close_date",
+          "old": "2026-11-19",
+          "new": "",
+          "material": false
+        }
+      ]
+    },
+    {
+      "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
+      "title": "OCTA – Woodside-EDL LNG JV",
+      "case_number": "MN-10044",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
       "material": true,
       "summary": [
-        "Status: Under assessment → Assessment completed",
-        "ACCC determination: (blank) → Approved",
-        "Determination published: (blank) → 19 Nov 2026",
-        "New document: Endeavour - retail liquor site in Penrith, NSW - Phase 1 determination (19 Nov 2026)"
+        "End of determination period: 9 Dec 2026 → 16 Dec 2026",
+        "New document: Timeline extended by 5 business days – following request by parties (20 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed",
-          "material": true
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved",
-          "material": true
-        },
-        {
-          "field": "determination_publication_date",
-          "old": "",
-          "new": "19 November 2026",
+          "field": "end_of_determination_period",
+          "old": "9 Dec 2026",
+          "new": "16 Dec 2026",
           "material": true
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-10-29T09:27:37+11:00",
-          "new": "2026-11-19T10:36:12+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": "",
+          "old": "2026-10-29T10:01:25+11:00",
+          "new": "2026-11-20T11:43:35+11:00",
           "material": false
         },
         {
           "field": "decisions_docs",
           "old": "",
-          "new": "[{'date': '19 Nov 2026', 'description': 'Endeavour - retail liquor site in Penrith, NSW - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Endeavour%20-%20retail%20liquor%20site%20in%20Penrith%2C%20NSW%20-%20Phase%201%20Determination%20-%2019%20November%202026.pdf'}]",
+          "new": "[{'date': '20 Nov 2026', 'description': 'Timeline extended by 5 business days – following request by parties', 'url': ''}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "novotech-agilex",
-      "title": "Novotech - Agilex",
-      "case_number": "MN-45032",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novotech-agilex",
+      "slug": "kinetic-tassielink",
+      "title": "Kinetic - Tassielink",
+      "case_number": "MN-75058",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink",
       "material": true,
       "summary": [
-        "Status: Under assessment → Assessment completed",
-        "ACCC determination: (blank) → Approved",
-        "New document: Novotech Agilex - Phase 1 Determination (18 Nov 2026)"
+        "End of determination period: 25 Nov 2026 → 2 Dec 2026",
+        "New document: Timeline extended by 5 business days - following request by parties (20 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquisition_status",
-          "old": "Under assessment",
-          "new": "Assessment completed",
-          "material": true
-        },
-        {
-          "field": "accc_determination",
-          "old": "",
-          "new": "Approved",
+          "field": "end_of_determination_period",
+          "old": "25 Nov 2026",
+          "new": "2 Dec 2026",
           "material": true
         },
         {
           "field": "last_modified_accc",
-          "old": "2026-10-21T12:05:27+11:00",
-          "new": "2026-11-19T15:15:52+11:00",
-          "material": false
-        },
-        {
-          "field": "consultation_text",
-          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
-          "new": "",
+          "old": "2026-10-29T13:59:08+11:00",
+          "new": "2026-11-20T11:07:33+11:00",
           "material": false
         },
         {
           "field": "decisions_docs",
-          "old": "",
-          "new": "[{'date': '18 Nov 2026', 'description': 'Novotech Agilex - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Novotech%20Agilex%20-%20Phase%201%20determination_0.pdf'}]",
+          "old": "[{'date': '29 Oct 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
+          "new": "[{'date': '20 Nov 2026', 'description': 'Timeline extended by 5 business days - following request by parties', 'url': ''}, {'date': '29 Oct 2026', 'description': 'Timeline extended by 10 business days - following request by parties', 'url': ''}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "accenture-runzero",
-      "title": "Accenture - runZero",
-      "case_number": "MN-60031",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-runzero",
+      "slug": "accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
+      "title": "Accent Group – The Athlete’s Foot in Karrinyup, WA",
+      "case_number": "WA-01118",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accent-group-%E2%80%93-the-athlete%E2%80%99s-foot-in-karrinyup-wa",
       "material": true,
       "summary": [
-        "Other parties: Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY… → Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY…"
-      ],
-      "changes": [
-        {
-          "field": "other_parties",
-          "old": "Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD (ABN 90 629 363 328); ACCENTURE AUSTRALIA PTY LIMITED (ABN 49 096 776 895)",
-          "new": "Accenture Inc. (Delaware registered number - 3387477); Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD; ABN - (ABN 90 629 363 328); ACCENTURE AUSTRALIA PTY LIMITED; ABN - (ABN 49 096 776 895)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "accenture-dragos",
-      "title": "Accenture - Dragos",
-      "case_number": "MN-50032",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/accenture-dragos",
-      "material": true,
-      "summary": [
-        "Target(s) / vendor(s): Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A… → Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (A…",
-        "Other parties: Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD (ABN 90 629 363 328); Accenture Inc. (Delaware regi… → Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD; ABN - (ABN 90 629 363 328); Accenture Inc. (Delawa…"
-      ],
-      "changes": [
-        {
-          "field": "targets",
-          "old": "Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (AUS) PTY LTD (ABN 58 678 218 356); DRAGOS AUSTRALIA PTY LTD (ABN 62 638 810 616)",
-          "new": "Dragos, Inc. (Delaware file number - 6028773); Phosphorus Security LLC (Delaware file number - 10549306); PHOSPHORUS (AUS) PTY LTD; ABN - (ABN 58 678 218 356); DRAGOS AUSTRALIA PTY LTD; ABN - (ABN 62 638 810 616)",
-          "material": true
-        },
-        {
-          "field": "other_parties",
-          "old": "Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD (ABN 90 629 363 328); Accenture Inc. (Delaware registered number - 3387477); ACCENTURE AUSTRALIA PTY LIMITED (ABN 49 096 776 895)",
-          "new": "Accenture plc (Ireland registered number - 471706); CYBERCX PTY LTD; ABN - (ABN 90 629 363 328); Accenture Inc. (Delaware registered number - 3387477); ACCENTURE AUSTRALIA PTY LIMITED; ABN - (ABN 49 096 776 895)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "mm-security-%E2%80%93-micron-security-products",
-      "title": "MM Security – Micron Security Products",
-      "case_number": "MN-01115",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mm-security-%E2%80%93-micron-security-products",
-      "material": true,
-      "summary": [
-        "Acquirer(s): MM SECURITY SUPPLIES PTY LIMITED (ABN 14 670 314 913) → MM SECURITY SUPPLIES PTY LIMITED; ABN - (ABN 14 670 314 913)",
-        "Target(s) / vendor(s): MICRON ALARM SUPPLIES PTY LTD (ABN 39 002 553 406) → MICRON ALARM SUPPLIES PTY LTD; ABN - (ABN 39 002 553 406)",
-        "Other parties: MML HOLDINGS LIMITED (ABN 55 084 402 380) → MML HOLDINGS LIMITED; ABN - (ABN 55 084 402 380)"
+        "Acquirer(s): The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251) → The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251)",
+        "Target(s) / vendor(s): West Feet Pty Ltd (ABN 21 129 844 944) → West Feet Pty Ltd; ABN - (ABN 21 129 844 944)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "MM SECURITY SUPPLIES PTY LIMITED (ABN 14 670 314 913)",
-          "new": "MM SECURITY SUPPLIES PTY LIMITED; ABN - (ABN 14 670 314 913)",
+          "old": "The Athlete’s Foot Australia Pty Ltd (ABN 57 001 777 582); ACCENT GROUP LIMITED (ABN 85 108 096 251)",
+          "new": "The Athlete’s Foot Australia Pty Ltd; ABN - (ABN 57 001 777 582); ACCENT GROUP LIMITED; ABN - (ABN 85 108 096 251)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "MICRON ALARM SUPPLIES PTY LTD (ABN 39 002 553 406)",
-          "new": "MICRON ALARM SUPPLIES PTY LTD; ABN - (ABN 39 002 553 406)",
-          "material": true
-        },
-        {
-          "field": "other_parties",
-          "old": "MML HOLDINGS LIMITED (ABN 55 084 402 380)",
-          "new": "MML HOLDINGS LIMITED; ABN - (ABN 55 084 402 380)",
+          "old": "West Feet Pty Ltd (ABN 21 129 844 944)",
+          "new": "West Feet Pty Ltd; ABN - (ABN 21 129 844 944)",
           "material": true
         }
       ]
@@ -236,147 +149,30 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw",
-      "title": "Endeavour Group – retail liquor site in Penrith, NSW",
-      "case_number": "MN-45028",
+      "slug": "kinetic-tassielink",
+      "title": "Kinetic - Tassielink",
+      "case_number": "MN-75058",
       "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-penrith-nsw",
-      "date": "19 Nov 2026",
-      "description": "Endeavour - retail liquor site in Penrith, NSW - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Endeavour%20-%20retail%20liquor%20site%20in%20Penrith%2C%20NSW%20-%20Phase%201%20Determination%20-%2019%20November%202026.pdf",
-      "category": "Phase 1 determination",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kinetic-tassielink",
+      "date": "20 Nov 2026",
+      "description": "Timeline extended by 5 business days - following request by parties",
+      "url": "",
+      "category": "Timeline extended",
       "priority": false,
       "new_matter": false
     },
     {
-      "slug": "novotech-agilex",
-      "title": "Novotech - Agilex",
-      "case_number": "MN-45032",
+      "slug": "octa-%E2%80%93-woodside-edl-lng-jv",
+      "title": "OCTA – Woodside-EDL LNG JV",
+      "case_number": "MN-10044",
       "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/novotech-agilex",
-      "date": "18 Nov 2026",
-      "description": "Novotech Agilex - Phase 1 Determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Novotech%20Agilex%20-%20Phase%201%20determination_0.pdf",
-      "category": "Phase 1 determination",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/octa-%E2%80%93-woodside-edl-lng-jv",
+      "date": "20 Nov 2026",
+      "description": "Timeline extended by 5 business days – following request by parties",
+      "url": "",
+      "category": "Timeline extended",
       "priority": false,
       "new_matter": false
-    },
-    {
-      "slug": "australian-venue-co-%E2%80%93-assets-of-central-hotel-beaconsfield-vic",
-      "title": "Australian Venue Co – Assets of Central Hotel, Beaconsfield VIC",
-      "case_number": "WA-70053",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-venue-co-%E2%80%93-assets-of-central-hotel-beaconsfield-vic",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Australian%20Venue%20Co%20%E2%80%93%20Assets%20of%20Central%20Hotel%2C%20Beaconsfield%20VIC%20%28WA-70053%29%20-%20Notification%20waiver%20determination%20-%2018%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "coles-%E2%80%93-supermarket-site-in-broulee-nsw",
-      "title": "Coles – supermarket site in Broulee, NSW",
-      "case_number": "WA-60062",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-broulee-nsw",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Coles%20%E2%80%93%20supermarket%20site%20in%20Broulee%2C%20NSW%20%28WA-60062%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "dexus-%E2%80%93-ldk-healthcare-unit-trust",
-      "title": "Dexus – LDK Healthcare Unit Trust",
-      "case_number": "WA-85065",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/dexus-%E2%80%93-ldk-healthcare-unit-trust",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Dexus%20%E2%80%93%20LDK%20Healthcare%20Unit%20Trust%20%28WA-85065%29%20-%20Notification%20waiver%20determination%20-%2018%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "home-timber-hardware-mitre-10-picton-nsw",
-      "title": "Home Timber & Hardware - Mitre 10, Picton NSW",
-      "case_number": "WA-20052",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/home-timber-hardware-mitre-10-picton-nsw",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Home%20Timber%20%26%20Hardware%20-%20Mitre%2010%2C%20Picton%20NSW%20%28WA-20052%29%20-%20%20Notification%20waiver%20determination%20-%2018%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "ma-financial-redcape-fund-%E2%80%93-hotel-canobolas",
-      "title": "MA Financial (Redcape Fund) – Hotel Canobolas",
-      "case_number": "WA-95050",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-hotel-canobolas",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/MA%20Financial%20%28Redcape%20Fund%29%20-%20Hotel%20Canobolas%20%28WA-95050%29%20-%20Notification%20waiver%20determination%20-%2018%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "pemba-%E2%80%93-accelagen",
-      "title": "Pemba – Accelagen",
-      "case_number": "WA-45043",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-accelagen",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Pemba%20%E2%80%93%20Accelagen%20%28WA-45043%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "pemba-%E2%80%93-superguardian",
-      "title": "Pemba – SuperGuardian",
-      "case_number": "WA-15055",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/pemba-%E2%80%93-superguardian",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Pemba%20%E2%80%93%20SuperGuardian%20%28WA-15055%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "respect-group-%E2%80%93-clifton-co-op-hospital-aged-care-support-at-home-care-and-community-housing-clifton-qld",
-      "title": "Respect Group – Clifton Co-op Hospital aged care, support at home care and community housing, Clifton QLD",
-      "case_number": "WA-85067",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/respect-group-%E2%80%93-clifton-co-op-hospital-aged-care-support-at-home-care-and-community-housing-clifton-qld",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Respect%20Group%20%E2%80%93%20Clifton%20Co-op%20Hospital%20aged%20care%2C%20support%20at%20home%20care%20and%20community%20housing%2C%20Clifton%20QLD%20%28WA-85067%29%20-%20Notification%20waiver%20determination%20-%2018%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "sheffield-group-%E2%80%93-champion-fasteners",
-      "title": "Sheffield Group – Champion Fasteners",
-      "case_number": "WA-40055",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/sheffield-group-%E2%80%93-champion-fasteners",
-      "date": "19 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Sheffield%20Group%20%E2%80%93%20Champion%20Fasteners%20%28WA-40055%29%20-%20Notification%20waiver%20determination%20-%2019%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
     }
   ]
 }
