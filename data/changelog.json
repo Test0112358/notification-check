@@ -41865,5 +41865,204 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
+    "title": "Endeavour Group – retail liquor site in Forster, NSW",
+    "case_number": "MN-10042",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "cognizant-%E2%80%93-dyflex",
+    "title": "Cognizant – DyFlex",
+    "case_number": "MN-80056",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cognizant-%E2%80%93-dyflex",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "steadfast-axiom-insurance-brokers",
+    "title": "Steadfast - Axiom Insurance Brokers",
+    "case_number": "MN-25024",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/steadfast-axiom-insurance-brokers",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Steadfast - Axiom Insurance Brokers. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-20",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "william-adams-clennett-hire",
+    "title": "William Adams - Clennett Hire",
+    "case_number": "MN-85063",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: William Adams - Clennett Hire. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-20",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "case_number": "MN-25056",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 20 November 2026 via email to mergers@accc.gov.au with the title Submission re: Amwins / Dragoneer / KKR / Temasek Consortium - Steadfast. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 13 Nov 2026 Closing date 20 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-20",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "hopper-motor-group-%E2%80%93-essendon-kia",
+    "title": "Hopper Motor Group – Essendon Kia",
+    "case_number": "MN-20041",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hopper-motor-group-%E2%80%93-essendon-kia",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "21 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-27T17:12:39+11:00",
+        "new": "2026-11-23T11:07:26+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '21 Nov 2026', 'description': 'Hopper Motor Group - Essendon Kia - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Hopper%20Motor%20Group%20-%20Essendon%20Kia%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "australian-retirement-trust-%E2%80%93-westfield-mt-gravatt",
+    "title": "Australian Retirement Trust – Westfield Mt Gravatt",
+    "case_number": "WA-80034",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-westfield-mt-gravatt",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust (ABN 66 682 890 035)",
+        "new": "QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust; ABN - (ABN 66 682 890 035)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "THE TRUSTEE FOR SCENTRE GIFT CARD TRUST (ABN 78 407 025 369); The Trustee for WESTART TRUST (ABN 81 342 268 847); SCENTRE ALLIANCES PTY LIMITED (ABN 53 098 357 521)",
+        "new": "THE TRUSTEE FOR SCENTRE GIFT CARD TRUST; ABN - (ABN 78 407 025 369); The Trustee for WESTART TRUST; ABN - (ABN 81 342 268 847); SCENTRE ALLIANCES PTY LIMITED; ABN - (ABN 53 098 357 521)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "SCENTRE GROUP LIMITED (ABN 66 001 671 496); The Trustee for Banksy Trading Trust (ABN 44 343 260 791); THE TRUSTEE FOR AUSTRALIAN RETIREMENT TRUST (ABN 60 905 115 063)",
+        "new": "SCENTRE GROUP LIMITED; ABN - (ABN 66 001 671 496); The Trustee for Banksy Trading Trust; ABN - (ABN 44 343 260 791); THE TRUSTEE FOR AUSTRALIAN RETIREMENT TRUST; ABN - (ABN 60 905 115 063)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "movac-%E2%80%93-advanced-navigation",
+    "title": "Movac – Advanced Navigation",
+    "case_number": "WA-70032",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/movac-%E2%80%93-advanced-navigation",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549)",
+        "new": "ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T01:56:26Z",
+    "slug": "nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances",
+    "title": "Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances",
+    "case_number": "WA-20032",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "targets",
+        "old": "GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Registration Number - 0500-01‐023775); Kantou Eco Recycle Co., Ltd. (Commercial Registration Number - 0600-01‐016749; Arçelik A.Ş. (MERSIS No - 0073001800000022)); Arçelik Hitachi Home Appliances B.V. (CCI No - 81724748)",
+        "new": "GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Registration Number - 0500-01‐023775); Kantou Eco Recycle Co., Ltd. (Commercial Registration Number - 0600-01‐016749); Arçelik A.Ş. (MERSIS No - 0073001800000022); Arçelik Hitachi Home Appliances B.V. (CCI No - 81724748)",
+        "material": true
+      }
+    ]
   }
 ]

@@ -12,6 +12,30 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
+    "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
+    "title": "Endeavour Group – retail liquor site in Forster, NSW",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "20 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "cognizant-%E2%80%93-dyflex",
+    "title": "Cognizant – DyFlex",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cognizant-%E2%80%93-dyflex",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "20 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
     "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
     "title": "Endeavour Group - retail liquor site in Darch, WA",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-retail-liquor-site-in-darch-wa",
@@ -60,18 +84,6 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
-    "layer": 1,
-    "rule": "PHASE1_PERIOD_TOO_SHORT",
-    "severity": "WARNING",
-    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
-    "field": "end_of_determination_period",
-    "stored_value": "12 Jan 2027",
-    "expected_or_found": "at least 30 business days after notification"
-  },
-  {
     "slug": "william-adams-clennett-hire",
     "title": "William Adams - Clennett Hire",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
@@ -84,9 +96,21 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "too-lost-%E2%80%93-xelon-entertainment",
-    "title": "Too Lost – Xelon Entertainment",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "amadeus-idemia-public-security",
+    "title": "Amadeus - Idemia Public Security",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -96,9 +120,9 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amadeus-idemia-public-security",
-    "title": "Amadeus - Idemia Public Security",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",

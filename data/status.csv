@@ -1,49 +1,53 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,21 Nov 2026 01:18 AEDT,Up to date
-Last run attempt,21 Nov 2026 01:18 AEDT,success
-HTTP requests used,47,
+Last successful update,23 Nov 2026 12:56 AEDT,Up to date
+Last run attempt,23 Nov 2026 12:56 AEDT,success
+HTTP requests used,95,
 ,,
-Total entries monitored,886,
-New entries this run,8,
+Total entries monitored,888,
+New entries this run,2,
 Changed entries this run,4,material changes only
 Removed entries this run,0,
-New decision documents,7,
+New decision documents,1,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (8),Case Number,URL
-"+ Endeavour Group – retail liquor site in Cowes, VIC",MN-85069,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic
-"+ Adcome – IGA Allora, QLD",WA-25064,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/adcome-%E2%80%93-iga-allora-qld
-+ Vista Equity Partners – Enterprise Trust Business of HID Global Corporation,WA-01135,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/vista-equity-partners-%E2%80%93-enterprise-trust-business-of-hid-global-corporation
-+ Emapta – TOA Global,WA-65047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/emapta-%E2%80%93-toa-global
-+ Apiam - Caroline Springs Veterinary Centre & Animal Hospital,WA-20056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-caroline-springs-veterinary-centre-animal-hospital
-+ Exponent Group – Crane Building Services and Utilities,WA-20054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/exponent-group-%E2%80%93-crane-building-services-and-utilities
-+ Advent Partners – investment in Procare Group,WA-70051,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/advent-partners-%E2%80%93-investment-in-procare-group
-+ Infosys – Versent Group (Telstra Purple),WA-85064,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/infosys-%E2%80%93-versent-group-telstra-purple
+NEW ENTRIES (2),Case Number,URL
+"+ Endeavour Group – retail liquor site in Forster, NSW",MN-10042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw
++ Cognizant – DyFlex,MN-80056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cognizant-%E2%80%93-dyflex
 ,,
 CHANGED ENTRIES (4),Change,URL
-~ Protech - ActivateRail,MN-05027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/protech-activaterail
-,Acquirer(s): PROTECH GROUP (AUST) PTY LTD (ABN 38 163 904 694) → PROTECH GROUP (AUST) PTY LTD; ABN - (ABN 38 163 904 694),
-,Target(s) / vendor(s): ACTIVATERAIL PTY LTD (ABN 46 617 749 809) → ACTIVATERAIL PTY LTD; ABN - (ABN 46 617 749 809),
-,Other parties: RIPPERS PTY LTD (ABN 90 600 268 031) → RIPPERS PTY LTD; ABN - (ABN 90 600 268 031),
-~ Aurizon – transactions related to the relocation of a rail corridor at Moranbah North,WA-05034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/aurizon-%E2%80%93-transactions-related-to-the-relocation-of-a-rail-corridor-at-moranbah-north
-,Acquirer(s): AURIZON NETWORK PTY LTD (ABN 78 132 181 116) → AURIZON NETWORK PTY LTD; ABN - (ABN 78 132 181 116),
-,Target(s) / vendor(s): Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD (ABN 52 011 027 295); ANGLO AMERICAN STEELMAKING CO… → Anglo American plc (03564138); QUEENSLAND TREASURY HOLDINGS PTY LTD; ABN - (ABN 52 011 027 295); ANGLO AMERICAN STEELMA…,
-,Other parties: AURIZON HOLDINGS LIMITED (ABN 14 146 335 622) → AURIZON HOLDINGS LIMITED; ABN - (ABN 14 146 335 622),
-~ AGS Financial Group - Hartley Financial Group,WA-85041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ags-financial-group-hartley-financial-group
-,Acquirer(s): AGS ACCOUNTING PTY LIMITED (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED (ABN 70 093 990 946) → AGS ACCOUNTING PTY LIMITED; ABN - (ABN 12 166 728 696); AGS FINANCIAL GROUP PTY LIMITED; ABN - (ABN 70 093 990 946),
-,Target(s) / vendor(s): PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD (ABN 76 615 645 979); TAX AND WEALTH PTY LTD (ABN 45 606 112 805); HARTLEY… → PLATINUM DIAMOND FINANCIAL SERVICES PTY LTD; ABN - (ABN 76 615 645 979); TAX AND WEALTH PTY LTD; ABN - (ABN 45 606 112…,
-,Other parties: AZ NEXT GENERATION ADVISORY PTY LTD (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED (ABN 38 09… → AZ NEXT GENERATION ADVISORY PTY LTD; ABN - (ABN 57 167 960 018); ASSOCIATED PLANNERS FINANCIAL SERVICES PTY LIMITED; AB…,
-~ CVC Capital Partners – IRCA Group,WA-35037,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-irca-group
-,"Other parties: CVC Capital Partners plc (JFSC – 140080; Advent International, L.P. (Delaware LP number 2044184)) → CVC Capital Partners plc (JFSC – 140080); Advent International, L.P. (Delaware LP number 2044184)",
+~ Hopper Motor Group – Essendon Kia,MN-20041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hopper-motor-group-%E2%80%93-essendon-kia
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 21 Nov 2026,
+,New document: Hopper Motor Group - Essendon Kia - Phase 1 determination (21 Nov 2026),
+~ Australian Retirement Trust – Westfield Mt Gravatt,WA-80034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-westfield-mt-gravatt
+,Acquirer(s): QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust (ABN 66 682 890 035) → QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust; ABN - (ABN 66 682 890 035),
+,Target(s) / vendor(s): THE TRUSTEE FOR SCENTRE GIFT CARD TRUST (ABN 78 407 025 369); The Trustee for WESTART TRUST (ABN 81 342 268 847); SCENT… → THE TRUSTEE FOR SCENTRE GIFT CARD TRUST; ABN - (ABN 78 407 025 369); The Trustee for WESTART TRUST; ABN - (ABN 81 342 2…,
+,Other parties: SCENTRE GROUP LIMITED (ABN 66 001 671 496); The Trustee for Banksy Trading Trust (ABN 44 343 260 791); THE TRUSTEE FOR… → SCENTRE GROUP LIMITED; ABN - (ABN 66 001 671 496); The Trustee for Banksy Trading Trust; ABN - (ABN 44 343 260 791); TH…,
+~ Movac – Advanced Navigation,WA-70032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/movac-%E2%80%93-advanced-navigation
+,Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549),
+~ Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances,WA-20032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances
+,"Target(s) / vendor(s): GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Regist… → GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Regist…",
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Endeavour Group – retail liquor site in Forster, NSW (MN-10042)",Notification added to the register,23 Nov 2026 12:56 AEDT
+Cognizant – DyFlex (MN-80056),Notification added to the register,23 Nov 2026 12:56 AEDT
+Hopper Motor Group – Essendon Kia (MN-20041),Status: Under assessment → Assessment completed,23 Nov 2026 12:56 AEDT
+Hopper Motor Group – Essendon Kia (MN-20041),ACCC determination: (blank) → Approved,23 Nov 2026 12:56 AEDT
+Hopper Motor Group – Essendon Kia (MN-20041),Determination published: (blank) → 21 Nov 2026,23 Nov 2026 12:56 AEDT
+Hopper Motor Group – Essendon Kia (MN-20041),New document: Hopper Motor Group - Essendon Kia - Phase 1 determination (21 Nov 2026),23 Nov 2026 12:56 AEDT
+Australian Retirement Trust – Westfield Mt Gravatt (WA-80034),Acquirer(s): QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust (ABN 66 682 890 035) → QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust; ABN - (ABN 66 682 890 035),23 Nov 2026 12:56 AEDT
+Australian Retirement Trust – Westfield Mt Gravatt (WA-80034),Target(s) / vendor(s): THE TRUSTEE FOR SCENTRE GIFT CARD TRUST (ABN 78 407 025 369); The Trustee for WESTART TRUST (ABN 81 342 268 847); SCENT… → THE TRUSTEE FOR SCENTRE GIFT CARD TRUST; ABN - (ABN 78 407 025 369); The Trustee for WESTART TRUST; ABN - (ABN 81 342 2…,23 Nov 2026 12:56 AEDT
+Australian Retirement Trust – Westfield Mt Gravatt (WA-80034),Other parties: SCENTRE GROUP LIMITED (ABN 66 001 671 496); The Trustee for Banksy Trading Trust (ABN 44 343 260 791); THE TRUSTEE FOR… → SCENTRE GROUP LIMITED; ABN - (ABN 66 001 671 496); The Trustee for Banksy Trading Trust; ABN - (ABN 44 343 260 791); TH…,23 Nov 2026 12:56 AEDT
+Movac – Advanced Navigation (WA-70032),Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549),23 Nov 2026 12:56 AEDT
+Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances (WA-20032),"Target(s) / vendor(s): GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Regist… → GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Regist…",23 Nov 2026 12:56 AEDT
 "Endeavour Group – retail liquor site in Cowes, VIC (MN-85069)",Notification added to the register,21 Nov 2026 01:18 AEDT
 "Adcome – IGA Allora, QLD (WA-25064)",Waiver added to the register,21 Nov 2026 01:18 AEDT
 Vista Equity Partners – Enterprise Trust Business of HID Global Corporation (WA-01135),Waiver added to the register,21 Nov 2026 01:18 AEDT
@@ -190,10 +194,3 @@ Regis – Home Care Business of Royal Freemasons (WA-15036),Target(s) / vendor(s
 Merivale – The Sackville Hotel (MN-35033),Acquirer(s): JH 7 PROPERTIES PTY LTD (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED (ABN 29 105 332 652) → JH 7 PROPERTIES PTY LTD; ABN - (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED; ABN - (ABN 29 105 332 652),16 Nov 2026 19:32 AEDT
 Merivale – The Sackville Hotel (MN-35033),Target(s) / vendor(s): AMALGAMATED HOTELS PTY LIMITED (ABN 82 009 604 719) → AMALGAMATED HOTELS PTY LIMITED; ABN - (ABN 82 009 604 719),16 Nov 2026 19:32 AEDT
 Merivale – The Sackville Hotel (MN-35033),Other parties: HEMMES PROPERTY PTY LIMITED (ABN 87 105 332 518) → HEMMES PROPERTY PTY LIMITED; ABN - (ABN 87 105 332 518),16 Nov 2026 19:32 AEDT
-Modaxo - Conduent (MN-25040),Target(s) / vendor(s): CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD. (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LTD (ABN… → CONDUENT BUSINESS SERVICES (AUSTRALIA) PTY. LTD.; ABN - (ABN 58 136 828 914); CONDUENT VICTORIA TICKETING SYSTEM PTY LT…,16 Nov 2026 12:21 AEDT
-Modaxo - Conduent (MN-25040),Other parties: Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD (ABN 16 010 832 318); MODAXO… → Constellation Software Inc (LEI 549300B6PYHMCTDWQV29); TRAPEZE GROUP ASIA PACIFIC PTY LTD; ABN - (ABN 16 010 832 318);…,16 Nov 2026 12:21 AEDT
-Danone – MADE (MN-55031),Target(s) / vendor(s): Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD (ABN 85 644 211 772) → Made (MJV) Pte Ltd (UEN 202321698C); TUCKER HOLDCO PTY LTD; ABN - (ABN 85 644 211 772),16 Nov 2026 12:21 AEDT
-Danone – MADE (MN-55031),Other parties: DANONE SAPUTO DAIRY AUSTRALIA PTY LTD (ABN 32 143 172 258; Compagnie Gervais Danone (SIREN 552 067 092)); Société Anony… → DANONE SAPUTO DAIRY AUSTRALIA PTY LTD; ABN - (ABN 32 143 172 258); Compagnie Gervais Danone (SIREN 552 067 092); Sociét…,16 Nov 2026 12:21 AEDT
-Johns Lyng Group – C&M Build Group (MN-75035),Acquirer(s): Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust (ABN 57 246 253 025) → Johns Lyng Group (Nominee) Pty Ltd as trustee for the Johns Lyng Unit Trust; ABN - (ABN 57 246 253 025),16 Nov 2026 12:21 AEDT
-Johns Lyng Group – C&M Build Group (MN-75035),Target(s) / vendor(s): C&M Central Unit Trust (ABN 47 351 736 164); C&M Central Pty Ltd (ACN 649 711 053) → C&M Central Unit Trust; ABN - (ABN 47 351 736 164); C&M Central Pty Ltd; ACN - (ACN 649 711 053),16 Nov 2026 12:21 AEDT
-Johns Lyng Group – C&M Build Group (MN-75035),Other parties: JOHNS LYNG GROUP LIMITED (ABN 86 620 466 248); SHERWOOD TOPCO LTD (ABN 54 688 487 103) → JOHNS LYNG GROUP LIMITED; ABN - (ABN 86 620 466 248); SHERWOOD TOPCO LTD; ABN - (ABN 54 688 487 103),16 Nov 2026 12:21 AEDT
