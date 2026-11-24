@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-11-24T05:30:58Z",
+  "generated_at_utc": "2026-11-24T16:18:36Z",
   "data_health": {
-    "last_success_utc": "2026-11-24T05:28:54Z",
+    "last_success_utc": "2026-11-24T16:17:16Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 37
+    "last_request_count": 22
   },
-  "total_entries": 892,
+  "total_entries": 899,
   "by_acquisition_status": {
     "Under assessment": 38,
-    "Assessment completed": 849,
+    "Assessment completed": 856,
     "Assessment ceased": 5
   },
   "by_stage": {
     "Phase 1 - initial assessment": 328,
-    "Waiver application": 555,
+    "Waiver application": 562,
     "Phase 2 - detailed assessment": 8,
     "Public benefit phase": 1
   },
   "by_type": {
     "Notification": 337,
-    "Waiver": 555
+    "Waiver": 562
   },
   "by_accc_determination": {
-    "Approved": 815,
+    "Approved": 822,
     "Not approved": 29,
     "Approved with conditions": 5
   },
@@ -33,48 +33,48 @@
       "title": "VetPartners – VetLove",
       "case_number": "MN-75031",
       "end_of_determination_period": "1 Dec 2026",
-      "business_days_remaining": 5,
-      "day_of_period": "Day 32 of 37"
+      "business_days_remaining": 4,
+      "day_of_period": "Day 33 of 37"
     },
     {
       "slug": "kinetic-tassielink",
       "title": "Kinetic - Tassielink",
       "case_number": "MN-75058",
       "end_of_determination_period": "2 Dec 2026",
-      "business_days_remaining": 6,
-      "day_of_period": "Day 39 of 45"
+      "business_days_remaining": 5,
+      "day_of_period": "Day 40 of 45"
     },
     {
       "slug": "sun-pharma-organon",
       "title": "Sun Pharma - Organon",
       "case_number": "MN-35035",
       "end_of_determination_period": "3 Dec 2026",
-      "business_days_remaining": 7,
-      "day_of_period": "Day 23 of 30"
+      "business_days_remaining": 6,
+      "day_of_period": "Day 24 of 30"
     },
     {
       "slug": "tabcorp-betmakers",
       "title": "Tabcorp - BetMakers",
       "case_number": "MN-20040",
       "end_of_determination_period": "3 Dec 2026",
-      "business_days_remaining": 7,
-      "day_of_period": "Day 28 of 35"
+      "business_days_remaining": 6,
+      "day_of_period": "Day 29 of 35"
     },
     {
       "slug": "psp-investments-aaa-egg-company",
       "title": "PSP Investments - AAA Egg Company",
       "case_number": "MN-55024",
       "end_of_determination_period": "4 Dec 2026",
-      "business_days_remaining": 8,
-      "day_of_period": "Day 52 of 60"
+      "business_days_remaining": 7,
+      "day_of_period": "Day 53 of 60"
     },
     {
       "slug": "macquarie-global-infrastructure-fund-serv",
       "title": "Macquarie Global Infrastructure Fund - SERV",
       "case_number": "MN-75059",
       "end_of_determination_period": "7 Dec 2026",
-      "business_days_remaining": 9,
-      "day_of_period": "Day 34 of 43"
+      "business_days_remaining": 8,
+      "day_of_period": "Day 35 of 43"
     }
   ],
   "past_deadline_awaiting_publication": [],
@@ -84,49 +84,49 @@
       "title": "Endeavour Group – retail liquor store and adjacent property on Russell Island (QLD)",
       "case_number": "MN-15054",
       "closes": "2026-11-25",
-      "business_days_left": 1
+      "business_days_left": 0
     },
     {
       "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic",
       "title": "Endeavour Group – retail liquor site in Cowes, VIC",
       "case_number": "MN-85069",
       "closes": "2026-11-27",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "cognizant-%E2%80%93-dyflex",
       "title": "Cognizant – DyFlex",
       "case_number": "MN-80056",
       "closes": "2026-11-27",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "endeavour-group-retail-liquor-site-in-darch-wa",
       "title": "Endeavour Group - retail liquor site in Darch, WA",
       "case_number": "MN-20048",
       "closes": "2026-11-27",
-      "business_days_left": 3
+      "business_days_left": 2
     },
     {
       "slug": "repurpose-it-delta-skipz",
       "title": "Repurpose It - Delta Skipz",
       "case_number": "MN-40047",
       "closes": "2026-11-30",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
       "title": "Endeavour Group – retail liquor site in Forster, NSW",
       "case_number": "MN-10042",
       "closes": "2026-11-30",
-      "business_days_left": 4
+      "business_days_left": 3
     },
     {
       "slug": "tdr-capital-ocu-group",
       "title": "TDR Capital - OCU Group",
       "case_number": "MN-65044",
       "closes": "2026-11-30",
-      "business_days_left": 4
+      "business_days_left": 3
     }
   ],
   "documents": {
@@ -151,16 +151,16 @@
         "slowest_business_days": 133
       },
       "Waiver": {
-        "matters": 555,
-        "determined": 555,
-        "approved": 528,
+        "matters": 562,
+        "determined": 562,
+        "approved": 535,
         "approved_with_conditions": 0,
         "not_approved": 27,
         "ceased": 0,
-        "approval_rate_pct": 95.1,
-        "median_business_days": 15,
+        "approval_rate_pct": 95.2,
+        "median_business_days": 15.0,
         "mean_business_days": 14.4,
-        "fastest_business_days": 2,
+        "fastest_business_days": 1,
         "slowest_business_days": 24
       }
     },
@@ -216,17 +216,17 @@
       {
         "year": 2026,
         "type": "Waiver",
-        "filed": 555,
-        "completed": 555,
-        "determined": 555,
-        "approved": 528,
+        "filed": 562,
+        "completed": 562,
+        "determined": 562,
+        "approved": 535,
         "approved_with_conditions": 0,
         "not_approved": 27,
         "ceased": 0,
-        "approval_rate_pct": 95.1,
-        "median_business_days": 15,
+        "approval_rate_pct": 95.2,
+        "median_business_days": 15.0,
         "mean_business_days": 14.4,
-        "fastest_business_days": 2,
+        "fastest_business_days": 1,
         "slowest_business_days": 24
       }
     ],
@@ -643,7 +643,7 @@
         "year": 2026,
         "month": 10,
         "type": "Waiver",
-        "filed": 67,
+        "filed": 71,
         "completed": 64,
         "determined": 64,
         "approved": 60,
@@ -677,77 +677,77 @@
         "year": 2026,
         "month": 11,
         "type": "Waiver",
-        "filed": 11,
-        "completed": 61,
-        "determined": 61,
-        "approved": 59,
+        "filed": 14,
+        "completed": 68,
+        "determined": 68,
+        "approved": 66,
         "approved_with_conditions": 0,
         "not_approved": 2,
         "ceased": 0,
-        "approval_rate_pct": 96.7,
-        "median_business_days": 17,
-        "mean_business_days": 16.4,
-        "fastest_business_days": 4,
+        "approval_rate_pct": 97.1,
+        "median_business_days": 17.0,
+        "mean_business_days": 16.2,
+        "fastest_business_days": 1,
         "slowest_business_days": 23
       }
     ],
     "by_sector": [
       {
         "sector": "Asset Management and Investment",
-        "matters": 231,
+        "matters": 233,
         "under_assessment": 12,
-        "determined": 219,
-        "approved": 215,
+        "determined": 221,
+        "approved": 217,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 0,
         "approval_rate_pct": 98.2,
         "median_business_days": 16.0,
-        "mean_business_days": 15.6,
+        "mean_business_days": 15.7,
         "fastest_business_days": 4,
         "slowest_business_days": 26
       },
       {
         "sector": "Professional Services",
-        "matters": 213,
+        "matters": 215,
         "under_assessment": 13,
-        "determined": 198,
-        "approved": 194,
+        "determined": 200,
+        "approved": 196,
         "approved_with_conditions": 1,
         "not_approved": 3,
         "ceased": 2,
         "approval_rate_pct": 98.5,
         "median_business_days": 16,
         "mean_business_days": 15.8,
-        "fastest_business_days": 2,
+        "fastest_business_days": 1,
         "slowest_business_days": 44
       },
       {
         "sector": "Manufacturing",
-        "matters": 154,
+        "matters": 155,
         "under_assessment": 1,
-        "determined": 153,
-        "approved": 147,
+        "determined": 154,
+        "approved": 148,
         "approved_with_conditions": 3,
         "not_approved": 3,
         "ceased": 0,
-        "approval_rate_pct": 98.0,
-        "median_business_days": 17.0,
-        "mean_business_days": 16.3,
+        "approval_rate_pct": 98.1,
+        "median_business_days": 17,
+        "mean_business_days": 16.4,
         "fastest_business_days": 4,
         "slowest_business_days": 44
       },
       {
         "sector": "Financial Advisory and Broking",
-        "matters": 117,
+        "matters": 119,
         "under_assessment": 5,
-        "determined": 112,
-        "approved": 112,
+        "determined": 114,
+        "approved": 114,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
         "approval_rate_pct": 100.0,
-        "median_business_days": 16,
+        "median_business_days": 17,
         "mean_business_days": 16.0,
         "fastest_business_days": 4,
         "slowest_business_days": 28
@@ -769,30 +769,30 @@
       },
       {
         "sector": "Property and Real Estate",
-        "matters": 86,
+        "matters": 88,
         "under_assessment": 8,
-        "determined": 78,
-        "approved": 72,
+        "determined": 80,
+        "approved": 74,
         "approved_with_conditions": 1,
         "not_approved": 5,
         "ceased": 0,
-        "approval_rate_pct": 93.6,
+        "approval_rate_pct": 93.8,
         "median_business_days": 17.0,
-        "mean_business_days": 19.9,
+        "mean_business_days": 19.8,
         "fastest_business_days": 3,
         "slowest_business_days": 133
       },
       {
         "sector": "Construction and Engineering",
-        "matters": 82,
+        "matters": 83,
         "under_assessment": 5,
-        "determined": 77,
-        "approved": 73,
+        "determined": 78,
+        "approved": 74,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 0,
-        "approval_rate_pct": 94.8,
-        "median_business_days": 16,
+        "approval_rate_pct": 94.9,
+        "median_business_days": 16.0,
         "mean_business_days": 16.1,
         "fastest_business_days": 3,
         "slowest_business_days": 33
@@ -829,16 +829,16 @@
       },
       {
         "sector": "Supermarkets and Grocery Retail",
-        "matters": 56,
+        "matters": 57,
         "under_assessment": 7,
-        "determined": 49,
-        "approved": 43,
+        "determined": 50,
+        "approved": 44,
         "approved_with_conditions": 2,
         "not_approved": 4,
         "ceased": 0,
-        "approval_rate_pct": 91.8,
-        "median_business_days": 15,
-        "mean_business_days": 18.1,
+        "approval_rate_pct": 92.0,
+        "median_business_days": 15.0,
+        "mean_business_days": 18,
         "fastest_business_days": 5,
         "slowest_business_days": 133
       },
@@ -874,15 +874,15 @@
       },
       {
         "sector": "Transport and Logistics",
-        "matters": 48,
+        "matters": 49,
         "under_assessment": 2,
-        "determined": 45,
-        "approved": 41,
+        "determined": 46,
+        "approved": 42,
         "approved_with_conditions": 0,
         "not_approved": 4,
         "ceased": 1,
-        "approval_rate_pct": 91.1,
-        "median_business_days": 17,
+        "approval_rate_pct": 91.3,
+        "median_business_days": 17.0,
         "mean_business_days": 17.4,
         "fastest_business_days": 5,
         "slowest_business_days": 49
@@ -979,15 +979,15 @@
       },
       {
         "sector": "Agriculture and Agribusiness",
-        "matters": 27,
+        "matters": 28,
         "under_assessment": 2,
-        "determined": 25,
-        "approved": 24,
+        "determined": 26,
+        "approved": 25,
         "approved_with_conditions": 0,
         "not_approved": 1,
         "ceased": 0,
-        "approval_rate_pct": 96.0,
-        "median_business_days": 18,
+        "approval_rate_pct": 96.2,
+        "median_business_days": 17.5,
         "mean_business_days": 17.5,
         "fastest_business_days": 12,
         "slowest_business_days": 24
@@ -1039,15 +1039,15 @@
       },
       {
         "sector": "Superannuation",
-        "matters": 19,
+        "matters": 20,
         "under_assessment": 1,
-        "determined": 18,
-        "approved": 18,
+        "determined": 19,
+        "approved": 19,
         "approved_with_conditions": 0,
         "not_approved": 0,
         "ceased": 0,
         "approval_rate_pct": 100.0,
-        "median_business_days": 17.5,
+        "median_business_days": 17,
         "mean_business_days": 16.5,
         "fastest_business_days": 9,
         "slowest_business_days": 22
@@ -1066,6 +1066,21 @@
         "mean_business_days": 14.8,
         "fastest_business_days": 6,
         "slowest_business_days": 19
+      },
+      {
+        "sector": "Government and Defence",
+        "matters": 16,
+        "under_assessment": 1,
+        "determined": 15,
+        "approved": 15,
+        "approved_with_conditions": 0,
+        "not_approved": 0,
+        "ceased": 0,
+        "approval_rate_pct": 100.0,
+        "median_business_days": 15,
+        "mean_business_days": 14.2,
+        "fastest_business_days": 1,
+        "slowest_business_days": 23
       },
       {
         "sector": "Hospitals",
@@ -1111,21 +1126,6 @@
         "mean_business_days": 15.5,
         "fastest_business_days": 3,
         "slowest_business_days": 21
-      },
-      {
-        "sector": "Government and Defence",
-        "matters": 14,
-        "under_assessment": 1,
-        "determined": 13,
-        "approved": 13,
-        "approved_with_conditions": 0,
-        "not_approved": 0,
-        "ceased": 0,
-        "approval_rate_pct": 100.0,
-        "median_business_days": 16,
-        "mean_business_days": 15.2,
-        "fastest_business_days": 5,
-        "slowest_business_days": 23
       },
       {
         "sector": "Waste and Environmental Services",

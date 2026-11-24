@@ -42341,5 +42341,179 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "kiwa-csa-group-0",
+    "title": "Kiwa - CSA Group",
+    "case_number": "WA-10054",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group-0",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
+    "title": "Woolworths - supermarket e-commerce hub in Muswellbrook, NSW",
+    "case_number": "WA-55049",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "lighthouse-%E2%80%93-proven-air-conditioning",
+    "title": "Lighthouse – Proven Air Conditioning",
+    "case_number": "WA-75070",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lighthouse-%E2%80%93-proven-air-conditioning",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "omers-%E2%80%93-la-trobe-financial",
+    "title": "OMERS – La Trobe Financial",
+    "case_number": "WA-30046",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/omers-%E2%80%93-la-trobe-financial",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "waterfront-logistics-monson-logistics",
+    "title": "Waterfront Logistics - Monson Logistics",
+    "case_number": "WA-05063",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waterfront-logistics-monson-logistics",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "apiam-%E2%80%93-south-west-equine-veterinary-group",
+    "title": "Apiam – South West Equine Veterinary Group",
+    "case_number": "WA-35057",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-south-west-equine-veterinary-group",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "platinum-equity-group-%E2%80%93-trime",
+    "title": "Platinum Equity Group – Trime",
+    "case_number": "WA-30045",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-trime",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
+    "title": "MA Financial (Redcape Fund) – Seven hospitality venues in NSW",
+    "case_number": "WA-85040",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "REDCAPE HOTEL GROUP PTY LTD (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD (ABN 96 619 512 060)",
+        "new": "REDCAPE HOTEL GROUP PTY LTD; ABN - (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD; ABN - (ABN 96 619 512 060)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Gunyah Hotel Property Pty Ltd (ACN 628 638 040); Radayla Pty Ltd (ABN 73 115 366 384); Sydney Junction Hotel Property Pty Ltd (ACN 628 636 671); Argenton Hotel Property Pty Ltd (ACN 628 638 755); Peden Business Pty Ltd (ACN 626 903 928); Peden Freehold Pty Limited (ACN 626 902 645); Gunyah Hotel Operations Pty Ltd (ACN 628 638 031); Argenton Hotel Operations Pty Ltd (ACN 628 639 270)",
+        "new": "Gunyah Hotel Property Pty Ltd; ACN - (ACN 628 638 040); Radayla Pty Ltd; ABN - (ABN 73 115 366 384); Sydney Junction Hotel Property Pty Ltd; ACN - (ACN 628 636 671); Argenton Hotel Property Pty Ltd; ACN - (ACN 628 638 755); Peden Business Pty Ltd; ACN - (ACN 626 903 928); Peden Freehold Pty Limited; ACN - (ACN 626 902 645); Gunyah Hotel Operations Pty Ltd; ACN - (ACN 628 638 031); Argenton Hotel Operations Pty Ltd; ACN - (ACN 628 639 270)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "jungheinrich-australia-all-lift",
+    "title": "Jungheinrich Australia - All Lift",
+    "case_number": "WA-80033",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD (ABN 28 608 769 642)",
+        "new": "JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD; ABN - (ABN 28 608 769 642)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "KRETCHMER HOLDING CO PTY LTD (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED (ABN 31 632 720 006)",
+        "new": "KRETCHMER HOLDING CO PTY LTD; ABN - (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED; ABN - (ABN 31 632 720 006)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739; ABN 22 008 024 011); JUNGHEINRICH FLEET SERVICES PTY LTD (ABN 90 066 707 784)",
+        "new": "JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739); ABN - (ABN 22 008 024 011); JUNGHEINRICH FLEET SERVICES PTY LTD; ABN - (ABN 90 066 707 784)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "igneo-infrastructure-partners-%E2%80%93-green-squares-energy",
+    "title": "Igneo Infrastructure Partners – Green Squares Energy",
+    "case_number": "WA-95035",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/igneo-infrastructure-partners-%E2%80%93-green-squares-energy",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Vertis Bidco Pty Ltd (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD (ABN 13 006 464 428)",
+        "new": "Vertis Bidco Pty Ltd; ACN - (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD; ABN - (ABN 13 006 464 428)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "The Trustee for Green Squares Energy Trust (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD (ABN 24 632 447 959)",
+        "new": "The Trustee for Green Squares Energy Trust; ABN - (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD; ABN - (ABN 24 632 447 959)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD (ABN 55 645 165 466); FIRST SENTIER GROUP LIMITED (ABN 49 630 725 558)",
+        "new": "Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD; ABN - (ABN 55 645 165 466); FIRST SENTIER GROUP LIMITED; ABN - (ABN 49 630 725 558)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T16:17:16Z",
+    "slug": "cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
+    "title": "CVC Capital Partners – IFF’s Food Ingredients business",
+    "case_number": "WA-65030",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Foxtrot UK Bidco Limited (CRN - 17249252; Foxtrot Denmark Bidco ApS (CVR - 42580058)); Foxtrot US Bidco, Inc. (State of Delaware – Division of Corporations 10628070)",
+        "new": "Foxtrot UK Bidco Limited (CRN - 17249252); Foxtrot Denmark Bidco ApS (CVR - 42580058); Foxtrot US Bidco, Inc. (State of Delaware – Division of Corporations 10628070)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "DANISCO AUSTRALIA PTY LTD (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd (ABN 20 123 509 017); NUTRITION & BIOSCIENCES AUSTRALIA PTY LTD (ABN 59 000 716 469); SOLAE AUSTRALIA PTY LTD (ABN 54 002 096 255)",
+        "new": "DANISCO AUSTRALIA PTY LTD; ABN - (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd; ABN - (ABN 20 123 509 017); NUTRITION & BIOSCIENCES AUSTRALIA PTY LTD; ABN - (ABN 59 000 716 469); SOLAE AUSTRALIA PTY LTD; ABN - (ABN 54 002 096 255)",
+        "material": true
+      }
+    ]
   }
 ]

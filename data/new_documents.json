@@ -1,7 +1,99 @@
 {
-  "run_utc": "2026-11-24T05:28:54Z",
+  "run_utc": "2026-11-24T16:17:16Z",
   "questionnaire_count": 0,
   "consultation_document_count": 0,
   "questionnaires": [],
-  "decision_documents": []
+  "decision_documents": [
+    {
+      "slug": "apiam-%E2%80%93-south-west-equine-veterinary-group",
+      "title": "Apiam – South West Equine Veterinary Group",
+      "case_number": "WA-35057",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-south-west-equine-veterinary-group",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Apiam%20-%20South%20West%20Equine%20Veterinary%20Group%20%28WA-35057%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "kiwa-csa-group-0",
+      "title": "Kiwa - CSA Group",
+      "case_number": "WA-10054",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group-0",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Kiwa%20-%20CSA%20Group%20%28WA-10054%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "lighthouse-%E2%80%93-proven-air-conditioning",
+      "title": "Lighthouse – Proven Air Conditioning",
+      "case_number": "WA-75070",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lighthouse-%E2%80%93-proven-air-conditioning",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Lighthouse%20%E2%80%93%20Proven%20Air%20Conditioning%20%28WA-75070%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "omers-%E2%80%93-la-trobe-financial",
+      "title": "OMERS – La Trobe Financial",
+      "case_number": "WA-30046",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/omers-%E2%80%93-la-trobe-financial",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/OMERS%20%E2%80%93%20La%20Trobe%20Financial%20%28WA-30046%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "platinum-equity-group-%E2%80%93-trime",
+      "title": "Platinum Equity Group – Trime",
+      "case_number": "WA-30045",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-trime",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Platinum%20Equity%20Group%20-%20Trime%20%28WA-30045%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "waterfront-logistics-monson-logistics",
+      "title": "Waterfront Logistics - Monson Logistics",
+      "case_number": "WA-05063",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waterfront-logistics-monson-logistics",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Waterfront%20Logistics%20-%20Monson%20Logistics%20%28WA-05063%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    },
+    {
+      "slug": "woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
+      "title": "Woolworths - supermarket e-commerce hub in Muswellbrook, NSW",
+      "case_number": "WA-55049",
+      "type": "Waiver",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
+      "date": "24 Nov 2026",
+      "description": "Notification waiver determination published",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Woolworths%20-%20supermarket%20e-commerce%20hub%20in%20Muswellbrook%2C%20NSW%20%28WA-55049%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
+      "category": "Waiver determination",
+      "priority": false,
+      "new_matter": true
+    }
+  ]
 }

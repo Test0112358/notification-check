@@ -1,35 +1,65 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,24 Nov 2026 16:28 AEDT,Up to date
-Last run attempt,24 Nov 2026 16:28 AEDT,success
-HTTP requests used,37,
+Last successful update,25 Nov 2026 03:17 AEDT,Up to date
+Last run attempt,25 Nov 2026 03:17 AEDT,success
+HTTP requests used,22,
 ,,
-Total entries monitored,892,
-New entries this run,0,
-Changed entries this run,3,material changes only
+Total entries monitored,899,
+New entries this run,7,
+Changed entries this run,4,material changes only
 Removed entries this run,0,
-New decision documents,0,
+New decision documents,7,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-CHANGED ENTRIES (3),Change,URL
-"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
-,Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),
-,Target(s) / vendor(s): The Trustee for Saracen Property Holdings Unit Trust (ABN 59 505 202 814) → The Trustee for Saracen Property Holdings Unit Trust; ABN - (ABN 59 505 202 814),
-~ Estia Health – AnglicareSA residential aged care business,MN-55029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business
-,Acquirer(s): ESTIA INVESTMENTS PTY. LTD. (ABN 87 164 350 387) → ESTIA INVESTMENTS PTY. LTD.; ABN - (ABN 87 164 350 387),
-,Target(s) / vendor(s): ANGLICARE SA LTD. (ABN 69 187 578 153) → ANGLICARE SA LTD.; ABN - (ABN 69 187 578 153),
-,Other parties: ESTIA HEALTH TOPCO PTY LTD (ABN 47 669 884 244) → ESTIA HEALTH TOPCO PTY LTD; ABN - (ABN 47 669 884 244),
-~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
-,Acquirer(s): LAUNDY WOY TRADING PTY LTD (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD (ABN 65 696 471 306) → LAUNDY WOY TRADING PTY LTD; ABN - (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD; ABN - (ABN 65 696 471 306),
-,Target(s) / vendor(s): HARVEST PUB OPERATIONS 2 PTY LTD (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED (ABN 98 609 737 064) → HARVEST PUB OPERATIONS 2 PTY LTD; ABN - (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED; ABN - (ABN 98 609 737 064),
+NEW ENTRIES (7),Case Number,URL
++ Kiwa - CSA Group,WA-10054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group-0
+"+ Woolworths - supermarket e-commerce hub in Muswellbrook, NSW",WA-55049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw
++ Lighthouse – Proven Air Conditioning,WA-75070,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lighthouse-%E2%80%93-proven-air-conditioning
++ OMERS – La Trobe Financial,WA-30046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/omers-%E2%80%93-la-trobe-financial
++ Waterfront Logistics - Monson Logistics,WA-05063,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waterfront-logistics-monson-logistics
++ Apiam – South West Equine Veterinary Group,WA-35057,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-south-west-equine-veterinary-group
++ Platinum Equity Group – Trime,WA-30045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-trime
+,,
+CHANGED ENTRIES (4),Change,URL
+~ MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw
+,Acquirer(s): REDCAPE HOTEL GROUP PTY LTD (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD (ABN 96 619 512 060) → REDCAPE HOTEL GROUP PTY LTD; ABN - (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD; ABN - (ABN 96 619 512 060),
+,Target(s) / vendor(s): Gunyah Hotel Property Pty Ltd (ACN 628 638 040); Radayla Pty Ltd (ABN 73 115 366 384); Sydney Junction Hotel Property P… → Gunyah Hotel Property Pty Ltd; ACN - (ACN 628 638 040); Radayla Pty Ltd; ABN - (ABN 73 115 366 384); Sydney Junction Ho…,
+~ Jungheinrich Australia - All Lift,WA-80033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift
+,Acquirer(s): JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD (ABN 28 608 769 642) → JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD; ABN - (ABN 28 608 769 642),
+,Target(s) / vendor(s): KRETCHMER HOLDING CO PTY LTD (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED (ABN 31 632 720 006) → KRETCHMER HOLDING CO PTY LTD; ABN - (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED; ABN - (ABN 31 632 720 0…,
+,Other parties: JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739; ABN 22 008 024 011)… → JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739); ABN - (ABN 22 008…,
+~ Igneo Infrastructure Partners – Green Squares Energy,WA-95035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/igneo-infrastructure-partners-%E2%80%93-green-squares-energy
+,Acquirer(s): Vertis Bidco Pty Ltd (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD (ABN 13 006 464 428) → Vertis Bidco Pty Ltd; ACN - (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD; ABN - (ABN 13 006 464 428),
+,Target(s) / vendor(s): The Trustee for Green Squares Energy Trust (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD (ABN 24 632 447 959) → The Trustee for Green Squares Energy Trust; ABN - (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD; ABN - (ABN 24 632…,
+,Other parties: Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD (ABN 55 645 165 466)… → Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD; ABN - (ABN 55 645 1…,
+~ CVC Capital Partners – IFF’s Food Ingredients business,WA-65030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business
+,"Acquirer(s): Foxtrot UK Bidco Limited (CRN - 17249252; Foxtrot Denmark Bidco ApS (CVR - 42580058)); Foxtrot US Bidco, Inc. (State of… → Foxtrot UK Bidco Limited (CRN - 17249252); Foxtrot Denmark Bidco ApS (CVR - 42580058); Foxtrot US Bidco, Inc. (State of…",
+,Target(s) / vendor(s): DANISCO AUSTRALIA PTY LTD (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd (ABN 20 123 509 017); NUTRIT… → DANISCO AUSTRALIA PTY LTD; ABN - (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd; ABN - (ABN 20 123 50…,
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Kiwa - CSA Group (WA-10054),Waiver added to the register,25 Nov 2026 03:17 AEDT
+"Woolworths - supermarket e-commerce hub in Muswellbrook, NSW (WA-55049)",Waiver added to the register,25 Nov 2026 03:17 AEDT
+Lighthouse – Proven Air Conditioning (WA-75070),Waiver added to the register,25 Nov 2026 03:17 AEDT
+OMERS – La Trobe Financial (WA-30046),Waiver added to the register,25 Nov 2026 03:17 AEDT
+Waterfront Logistics - Monson Logistics (WA-05063),Waiver added to the register,25 Nov 2026 03:17 AEDT
+Apiam – South West Equine Veterinary Group (WA-35057),Waiver added to the register,25 Nov 2026 03:17 AEDT
+Platinum Equity Group – Trime (WA-30045),Waiver added to the register,25 Nov 2026 03:17 AEDT
+MA Financial (Redcape Fund) – Seven hospitality venues in NSW (WA-85040),Acquirer(s): REDCAPE HOTEL GROUP PTY LTD (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD (ABN 96 619 512 060) → REDCAPE HOTEL GROUP PTY LTD; ABN - (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD; ABN - (ABN 96 619 512 060),25 Nov 2026 03:17 AEDT
+MA Financial (Redcape Fund) – Seven hospitality venues in NSW (WA-85040),Target(s) / vendor(s): Gunyah Hotel Property Pty Ltd (ACN 628 638 040); Radayla Pty Ltd (ABN 73 115 366 384); Sydney Junction Hotel Property P… → Gunyah Hotel Property Pty Ltd; ACN - (ACN 628 638 040); Radayla Pty Ltd; ABN - (ABN 73 115 366 384); Sydney Junction Ho…,25 Nov 2026 03:17 AEDT
+Jungheinrich Australia - All Lift (WA-80033),Acquirer(s): JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD (ABN 28 608 769 642) → JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD; ABN - (ABN 28 608 769 642),25 Nov 2026 03:17 AEDT
+Jungheinrich Australia - All Lift (WA-80033),Target(s) / vendor(s): KRETCHMER HOLDING CO PTY LTD (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED (ABN 31 632 720 006) → KRETCHMER HOLDING CO PTY LTD; ABN - (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED; ABN - (ABN 31 632 720 0…,25 Nov 2026 03:17 AEDT
+Jungheinrich Australia - All Lift (WA-80033),Other parties: JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739; ABN 22 008 024 011)… → JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739); ABN - (ABN 22 008…,25 Nov 2026 03:17 AEDT
+Igneo Infrastructure Partners – Green Squares Energy (WA-95035),Acquirer(s): Vertis Bidco Pty Ltd (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD (ABN 13 006 464 428) → Vertis Bidco Pty Ltd; ACN - (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD; ABN - (ABN 13 006 464 428),25 Nov 2026 03:17 AEDT
+Igneo Infrastructure Partners – Green Squares Energy (WA-95035),Target(s) / vendor(s): The Trustee for Green Squares Energy Trust (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD (ABN 24 632 447 959) → The Trustee for Green Squares Energy Trust; ABN - (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD; ABN - (ABN 24 632…,25 Nov 2026 03:17 AEDT
+Igneo Infrastructure Partners – Green Squares Energy (WA-95035),Other parties: Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD (ABN 55 645 165 466)… → Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD; ABN - (ABN 55 645 1…,25 Nov 2026 03:17 AEDT
+CVC Capital Partners – IFF’s Food Ingredients business (WA-65030),"Acquirer(s): Foxtrot UK Bidco Limited (CRN - 17249252; Foxtrot Denmark Bidco ApS (CVR - 42580058)); Foxtrot US Bidco, Inc. (State of… → Foxtrot UK Bidco Limited (CRN - 17249252); Foxtrot Denmark Bidco ApS (CVR - 42580058); Foxtrot US Bidco, Inc. (State of…",25 Nov 2026 03:17 AEDT
+CVC Capital Partners – IFF’s Food Ingredients business (WA-65030),Target(s) / vendor(s): DANISCO AUSTRALIA PTY LTD (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd (ABN 20 123 509 017); NUTRIT… → DANISCO AUSTRALIA PTY LTD; ABN - (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd; ABN - (ABN 20 123 50…,25 Nov 2026 03:17 AEDT
 "Coles – supermarket site in Upper Swan, WA (MN-05030)",Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),24 Nov 2026 16:28 AEDT
 "Coles – supermarket site in Upper Swan, WA (MN-05030)",Target(s) / vendor(s): The Trustee for Saracen Property Holdings Unit Trust (ABN 59 505 202 814) → The Trustee for Saracen Property Holdings Unit Trust; ABN - (ABN 59 505 202 814),24 Nov 2026 16:28 AEDT
 Estia Health – AnglicareSA residential aged care business (MN-55029),Acquirer(s): ESTIA INVESTMENTS PTY. LTD. (ABN 87 164 350 387) → ESTIA INVESTMENTS PTY. LTD.; ABN - (ABN 87 164 350 387),24 Nov 2026 16:28 AEDT
@@ -143,29 +173,3 @@ Pine Australia - Evolution Business Systems (WA-45023),Acquirer(s): Pine Austral
 Pine Australia - Evolution Business Systems (WA-45023),Target(s) / vendor(s): The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743) → The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 09…,18 Nov 2026 14:06 AEDT
 Ironbark - Paris Group (WA-75039),Acquirer(s): INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541) → INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541),18 Nov 2026 14:06 AEDT
 Ironbark - Paris Group (WA-75039),Target(s) / vendor(s): Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY… → Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS…,18 Nov 2026 14:06 AEDT
-Pemba – Bio101 (WA-85066),Waiver added to the register,18 Nov 2026 01:50 AEDT
-"ForHealth – Mackay Family Medical Practice, Qld (WA-45040)",Waiver added to the register,18 Nov 2026 01:50 AEDT
-Emera – ATCO and Canadian Utilities (WA-40053),Waiver added to the register,18 Nov 2026 01:50 AEDT
-Monadelphous - Tyden Power (MN-75065),Status: Under assessment → Assessment completed,18 Nov 2026 01:50 AEDT
-Monadelphous - Tyden Power (MN-75065),ACCC determination: (blank) → Approved,18 Nov 2026 01:50 AEDT
-Monadelphous - Tyden Power (MN-75065),Determination published: (blank) → 17 Nov 2026,18 Nov 2026 01:50 AEDT
-Monadelphous - Tyden Power (MN-75065),New document: Monadelphous - Tyden Power - Phase 1 determination (17 Nov 2026),18 Nov 2026 01:50 AEDT
-Tetra Tech - Pitt & Sherry (WA-20051),Waiver added to the register,18 Nov 2026 01:50 AEDT
-Equans – Credible Audio Visual Solutions (WA-80054),Waiver added to the register,18 Nov 2026 01:50 AEDT
-IPLiving - Springwood Living Group (MN-01126),Status: Under assessment → Assessment completed,18 Nov 2026 01:50 AEDT
-IPLiving - Springwood Living Group (MN-01126),ACCC determination: (blank) → Approved,18 Nov 2026 01:50 AEDT
-IPLiving - Springwood Living Group (MN-01126),Determination published: (blank) → 17 Nov 2026,18 Nov 2026 01:50 AEDT
-IPLiving - Springwood Living Group (MN-01126),New document: IPLiving - Springwood Living Group (17 Nov 2026),18 Nov 2026 01:50 AEDT
-Foresight Group – Kinetic (WA-55044),Waiver added to the register,18 Nov 2026 01:50 AEDT
-Waveconn - acquisition of certain Optus towers and sites (WA-80048),Waiver added to the register,18 Nov 2026 01:50 AEDT
-CVS Group – Karrinyup Small Animal Hospital (MN-01127),Status: Under assessment → Assessment completed,18 Nov 2026 01:50 AEDT
-CVS Group – Karrinyup Small Animal Hospital (MN-01127),ACCC determination: (blank) → Approved,18 Nov 2026 01:50 AEDT
-CVS Group – Karrinyup Small Animal Hospital (MN-01127),New document: CVS Group - Karrinyup Small Animal Hospital - Phase 1 determination (17 Nov 2026),18 Nov 2026 01:50 AEDT
-Hammondcare - Anglican Community Services' Support at Home business (MN-85038),Acquirer(s): HAMMONDCARE (ABN 48 000 026 219) → HAMMONDCARE; ABN - (ABN 48 000 026 219),18 Nov 2026 01:50 AEDT
-Hammondcare - Anglican Community Services' Support at Home business (MN-85038),Target(s) / vendor(s): ANGLICAN COMMUNITY SERVICES (ABN 39 922 848 563) → ANGLICAN COMMUNITY SERVICES; ABN - (ABN 39 922 848 563),18 Nov 2026 01:50 AEDT
-Hammondcare - Anglican Community Services' Support at Home business (MN-85038),Other parties: HAMMONDCARE HEALTH AND HOSPITALS LIMITED (ABN 72 074 354 028) → HAMMONDCARE HEALTH AND HOSPITALS LIMITED; ABN - (ABN 72 074 354 028),18 Nov 2026 01:50 AEDT
-Karmo - Simplr (MN-15030),Acquirer(s): KARMO HOLDINGS PTY LTD (ABN 93 667 511 480) → KARMO HOLDINGS PTY LTD; ABN - (ABN 93 667 511 480),18 Nov 2026 01:50 AEDT
-Karmo - Simplr (MN-15030),Target(s) / vendor(s): EAGERS AUTOMOTIVE LIMITED (ABN 87 009 680 013); SUBMO PTY LTD (ABN 19 637 015 457) → EAGERS AUTOMOTIVE LIMITED; ABN - (ABN 87 009 680 013); SUBMO PTY LTD; ABN - (ABN 19 637 015 457),18 Nov 2026 01:50 AEDT
-RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy (WA-80036),Other parties: WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583) → WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583),18 Nov 2026 01:50 AEDT
-Monadelphous - Tyden Power (WA-15037),Acquirer(s): MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547) → MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547),18 Nov 2026 01:50 AEDT
-Monadelphous - Tyden Power (WA-15037),Target(s) / vendor(s): TYDEN POWER PTY. LIMITED (ABN 75 612 521 212) → TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212),18 Nov 2026 01:50 AEDT
