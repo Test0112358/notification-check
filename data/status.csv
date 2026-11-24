@@ -1,42 +1,64 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,23 Nov 2026 12:56 AEDT,Up to date
-Last run attempt,23 Nov 2026 12:56 AEDT,success
-HTTP requests used,95,
+Last successful update,24 Nov 2026 12:12 AEDT,Up to date
+Last run attempt,24 Nov 2026 12:12 AEDT,success
+HTTP requests used,91,
 ,,
-Total entries monitored,888,
-New entries this run,2,
-Changed entries this run,4,material changes only
+Total entries monitored,892,
+New entries this run,4,
+Changed entries this run,5,material changes only
 Removed entries this run,0,
-New decision documents,1,
+New decision documents,3,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (2),Case Number,URL
-"+ Endeavour Group – retail liquor site in Forster, NSW",MN-10042,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw
-+ Cognizant – DyFlex,MN-80056,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cognizant-%E2%80%93-dyflex
+NEW ENTRIES (4),Case Number,URL
++ Repurpose It - Delta Skipz,MN-40047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/repurpose-it-delta-skipz
++ TDR Capital - OCU Group,MN-65044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tdr-capital-ocu-group
++ Carlisle Health – Altus Medical Imaging,WA-25065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/carlisle-health-%E2%80%93-altus-medical-imaging
++ Wittington Investments & Fairfax Financial – Boots Group,WA-75072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wittington-investments-fairfax-financial-%E2%80%93-boots-group
 ,,
-CHANGED ENTRIES (4),Change,URL
-~ Hopper Motor Group – Essendon Kia,MN-20041,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/hopper-motor-group-%E2%80%93-essendon-kia
+CHANGED ENTRIES (5),Change,URL
+~ Merchant Wealth Partners - minority investment in Ironbark Financial Group,MN-60059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group
 ,Status: Under assessment → Assessment completed,
 ,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 21 Nov 2026,
-,New document: Hopper Motor Group - Essendon Kia - Phase 1 determination (21 Nov 2026),
-~ Australian Retirement Trust – Westfield Mt Gravatt,WA-80034,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-retirement-trust-%E2%80%93-westfield-mt-gravatt
-,Acquirer(s): QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust (ABN 66 682 890 035) → QIC Investments No.5 Pty Ltd as trustee for Mondrian Hold Trust; ABN - (ABN 66 682 890 035),
-,Target(s) / vendor(s): THE TRUSTEE FOR SCENTRE GIFT CARD TRUST (ABN 78 407 025 369); The Trustee for WESTART TRUST (ABN 81 342 268 847); SCENT… → THE TRUSTEE FOR SCENTRE GIFT CARD TRUST; ABN - (ABN 78 407 025 369); The Trustee for WESTART TRUST; ABN - (ABN 81 342 2…,
-,Other parties: SCENTRE GROUP LIMITED (ABN 66 001 671 496); The Trustee for Banksy Trading Trust (ABN 44 343 260 791); THE TRUSTEE FOR… → SCENTRE GROUP LIMITED; ABN - (ABN 66 001 671 496); The Trustee for Banksy Trading Trust; ABN - (ABN 44 343 260 791); TH…,
-~ Movac – Advanced Navigation,WA-70032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/movac-%E2%80%93-advanced-navigation
-,Target(s) / vendor(s): ADVANCED NAVIGATION PTY. LTD. (ABN 49 156 101 549) → ADVANCED NAVIGATION PTY. LTD.; ABN - (ABN 49 156 101 549),
-~ Nojima Corporation – Hitachi Global Life Solutions and Arçelik Hitachi Home Appliances,WA-20032,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/nojima-corporation-%E2%80%93-hitachi-global-life-solutions-and-ar%C3%A7elik-hitachi-home-appliances
-,"Target(s) / vendor(s): GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Regist… → GLS, Inc. (Commercial Registration Number - 0104-01-200183); Hitachi Appliances Techno Service, Ltd. (Commercial Regist…",
+,Determination published: (blank) → 24 Nov 2026,
+,New document: Merchant Wealth Partners - minority investment in Ironbark Financial Group - Phase 1 determination (24 Nov 2026),
+~ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
+,Acquirer(s): Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation (ABN 86 002 932 756) → Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation; ABN - (ABN 86 002 932 756),
+~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abbvie-apogee
+,Acquirer(s): AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200; Andor Merger Co. (DELAWARE FILE NO.… → AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200); Andor Merger Co. (DELAWARE FILE NO…,
+~ Atmos – specific BayWa r.e. renewable energy projects,WA-20031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects
+,Acquirer(s): ATMOS DEVELOPMENTS PTY LTD (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD (ABN 23 654 882 925) → ATMOS DEVELOPMENTS PTY LTD; ABN - (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD; ABN - (ABN 23 654 882 925),
+,Target(s) / vendor(s): HUGHENDEN SOLAR FARM HOLDCO PTY LTD (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD (ABN 51 606 343 757); Y… → HUGHENDEN SOLAR FARM HOLDCO PTY LTD; ABN - (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD; ABN - (ABN 51 6…,
+,Other parties: BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD (ABN 51 645 165 448) → BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD; ABN - (ABN 51 645 165 448),
+"~ Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",WA-15035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt
+,Acquirer(s): Howard Springs Op Co Pty Ltd (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs Property… → Howard Springs Op Co Pty Ltd; ABN - (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs P…,
+,Target(s) / vendor(s): Majestic Logistics Pty Limited (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust (ABN 38 132… → Majestic Logistics Pty Limited; ABN - (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust; ABN…,
+,Other parties: Waymark Hotel Group Pty Ltd (ABN 92 621 426 999) → Waymark Hotel Group Pty Ltd; ABN - (ABN 92 621 426 999),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+Repurpose It - Delta Skipz (MN-40047),Notification added to the register,24 Nov 2026 12:12 AEDT
+TDR Capital - OCU Group (MN-65044),Notification added to the register,24 Nov 2026 12:12 AEDT
+Carlisle Health – Altus Medical Imaging (WA-25065),Waiver added to the register,24 Nov 2026 12:12 AEDT
+Wittington Investments & Fairfax Financial – Boots Group (WA-75072),Waiver added to the register,24 Nov 2026 12:12 AEDT
+Merchant Wealth Partners - minority investment in Ironbark Financial Group (MN-60059),Status: Under assessment → Assessment completed,24 Nov 2026 12:12 AEDT
+Merchant Wealth Partners - minority investment in Ironbark Financial Group (MN-60059),ACCC determination: (blank) → Approved,24 Nov 2026 12:12 AEDT
+Merchant Wealth Partners - minority investment in Ironbark Financial Group (MN-60059),Determination published: (blank) → 24 Nov 2026,24 Nov 2026 12:12 AEDT
+Merchant Wealth Partners - minority investment in Ironbark Financial Group (MN-60059),New document: Merchant Wealth Partners - minority investment in Ironbark Financial Group - Phase 1 determination (24 Nov 2026),24 Nov 2026 12:12 AEDT
+Obayashi Corporation – Multiplex (MN-05031),Acquirer(s): Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation (ABN 86 002 932 756) → Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation; ABN - (ABN 86 002 932 756),24 Nov 2026 12:12 AEDT
+AbbVie - Apogee (MN-90027),Acquirer(s): AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200; Andor Merger Co. (DELAWARE FILE NO.… → AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200); Andor Merger Co. (DELAWARE FILE NO…,24 Nov 2026 12:12 AEDT
+Atmos – specific BayWa r.e. renewable energy projects (WA-20031),Acquirer(s): ATMOS DEVELOPMENTS PTY LTD (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD (ABN 23 654 882 925) → ATMOS DEVELOPMENTS PTY LTD; ABN - (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD; ABN - (ABN 23 654 882 925),24 Nov 2026 12:12 AEDT
+Atmos – specific BayWa r.e. renewable energy projects (WA-20031),Target(s) / vendor(s): HUGHENDEN SOLAR FARM HOLDCO PTY LTD (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD (ABN 51 606 343 757); Y… → HUGHENDEN SOLAR FARM HOLDCO PTY LTD; ABN - (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD; ABN - (ABN 51 6…,24 Nov 2026 12:12 AEDT
+Atmos – specific BayWa r.e. renewable energy projects (WA-20031),Other parties: BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD (ABN 51 645 165 448) → BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD; ABN - (ABN 51 645 165 448),24 Nov 2026 12:12 AEDT
+"Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT (WA-15035)",Acquirer(s): Howard Springs Op Co Pty Ltd (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs Property… → Howard Springs Op Co Pty Ltd; ABN - (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs P…,24 Nov 2026 12:12 AEDT
+"Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT (WA-15035)",Target(s) / vendor(s): Majestic Logistics Pty Limited (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust (ABN 38 132… → Majestic Logistics Pty Limited; ABN - (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust; ABN…,24 Nov 2026 12:12 AEDT
+"Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT (WA-15035)",Other parties: Waymark Hotel Group Pty Ltd (ABN 92 621 426 999) → Waymark Hotel Group Pty Ltd; ABN - (ABN 92 621 426 999),24 Nov 2026 12:12 AEDT
 "Endeavour Group – retail liquor site in Forster, NSW (MN-10042)",Notification added to the register,23 Nov 2026 12:56 AEDT
 Cognizant – DyFlex (MN-80056),Notification added to the register,23 Nov 2026 12:56 AEDT
 Hopper Motor Group – Essendon Kia (MN-20041),Status: Under assessment → Assessment completed,23 Nov 2026 12:56 AEDT
@@ -173,24 +195,3 @@ Logic Technologies - Ace Communication Distributors (MN-95021),Target(s) / vendo
 VSA - SprayLine (MN-30022),Acquirer(s): VSA ROADS PTY LTD (ABN 18 136 665 935) → VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935),17 Nov 2026 15:08 AEDT
 VSA - SprayLine (MN-30022),"Target(s) / vendor(s): Head, Transport for Victoria (ABN 97 481 088 949) → Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",17 Nov 2026 15:08 AEDT
 VSA - SprayLine (MN-30022),Other parties: COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899) → COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899),17 Nov 2026 15:08 AEDT
-Ampol – Evie Networks (MN-30044),Notification added to the register,16 Nov 2026 19:32 AEDT
-INPEX – further interest in Bonaparte CCS JV (WA-15056),Waiver added to the register,16 Nov 2026 19:32 AEDT
-PSP – interest in AMP Grapes Investments Limited (WA-45039),Waiver added to the register,16 Nov 2026 19:32 AEDT
-"Oscars Group - assets of Courthouse Hotel and Kinselas Hotel, Darlinghurst, NSW (WA-20049)",Waiver added to the register,16 Nov 2026 19:32 AEDT
-Russell Investment Group – Flag Index Plus Fund V (WA-40052),Waiver added to the register,16 Nov 2026 19:32 AEDT
-Volaris Group – SpinifexIT (WA-25061),Waiver added to the register,16 Nov 2026 19:32 AEDT
-Koch – 50% interest in certain assets of OCP Nutricrops (MN-10039),Status: Under assessment → Assessment completed,16 Nov 2026 19:32 AEDT
-Koch – 50% interest in certain assets of OCP Nutricrops (MN-10039),ACCC determination: (blank) → Approved,16 Nov 2026 19:32 AEDT
-Koch – 50% interest in certain assets of OCP Nutricrops (MN-10039),Determination published: (blank) → 16 Nov 2026,16 Nov 2026 19:32 AEDT
-Koch – 50% interest in certain assets of OCP Nutricrops (MN-10039),New document: Koch – 50% interest in certain assets of OCP Nutricrops - Phase 1 determination (16 Nov 2026),16 Nov 2026 19:32 AEDT
-"Plenary – Ground lease for delivery of the Gabba entertainment and housing precinct project in Brisbane, QLD (WA-05059)",Waiver added to the register,16 Nov 2026 19:32 AEDT
-Gold Fields – BHP Nickel West (Kambalda exploration assets) (WA-05057),Waiver added to the register,16 Nov 2026 19:32 AEDT
-Gold Fields - BHP Nickel West (Kambalda nickel concentrator) (WA-95047),Waiver added to the register,16 Nov 2026 19:32 AEDT
-Aware Real Estate – 100 Market Street (WA-60037),Acquirer(s): The Trustee for ALTIS ARET SUB TRUST 34 (ABN 18 992 400 810) → The Trustee for ALTIS ARET SUB TRUST 34; ABN - (ABN 18 992 400 810),16 Nov 2026 19:32 AEDT
-Aware Real Estate – 100 Market Street (WA-60037),Target(s) / vendor(s): The Trustee for Market Mid Trust (ABN 84 274 975 190); The Trustee for Market Sub Trust (ABN 55 277 202 916); MARKET SU… → The Trustee for Market Mid Trust; ABN - (ABN 84 274 975 190); The Trustee for Market Sub Trust; ABN - (ABN 55 277 202 9…,16 Nov 2026 19:32 AEDT
-Aware Real Estate – 100 Market Street (WA-60037),Other parties: AWARE SUPER PTY LTD (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD (ABN 77 653 940 295); Link Real Estate I… → AWARE SUPER PTY LTD; ABN - (ABN 11 118 202 672); AWARE REAL ESTATE MANAGEMENT PTY LTD; ABN - (ABN 77 653 940 295); Link…,16 Nov 2026 19:32 AEDT
-Regis – Home Care Business of Royal Freemasons (WA-15036),Acquirer(s): REGIS AGED CARE PTY LTD (ABN 75 125 223 645) → REGIS AGED CARE PTY LTD; ABN - (ABN 75 125 223 645),16 Nov 2026 19:32 AEDT
-Regis – Home Care Business of Royal Freemasons (WA-15036),Target(s) / vendor(s): ROYAL FREEMASONS LTD (ABN 52 082 106 821) → ROYAL FREEMASONS LTD; ABN - (ABN 52 082 106 821),16 Nov 2026 19:32 AEDT
-Merivale – The Sackville Hotel (MN-35033),Acquirer(s): JH 7 PROPERTIES PTY LTD (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED (ABN 29 105 332 652) → JH 7 PROPERTIES PTY LTD; ABN - (ABN 41 621 226 140); HEMMES TRADING PTY LIMITED; ABN - (ABN 29 105 332 652),16 Nov 2026 19:32 AEDT
-Merivale – The Sackville Hotel (MN-35033),Target(s) / vendor(s): AMALGAMATED HOTELS PTY LIMITED (ABN 82 009 604 719) → AMALGAMATED HOTELS PTY LIMITED; ABN - (ABN 82 009 604 719),16 Nov 2026 19:32 AEDT
-Merivale – The Sackville Hotel (MN-35033),Other parties: HEMMES PROPERTY PTY LIMITED (ABN 87 105 332 518) → HEMMES PROPERTY PTY LIMITED; ABN - (ABN 87 105 332 518),16 Nov 2026 19:32 AEDT

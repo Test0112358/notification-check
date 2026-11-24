@@ -42064,5 +42064,207 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "repurpose-it-delta-skipz",
+    "title": "Repurpose It - Delta Skipz",
+    "case_number": "MN-40047",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/repurpose-it-delta-skipz",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "tdr-capital-ocu-group",
+    "title": "TDR Capital - OCU Group",
+    "case_number": "MN-65044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tdr-capital-ocu-group",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "ampol-%E2%80%93-evie-networks",
+    "title": "Ampol – Evie Networks",
+    "case_number": "MN-30044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ampol-%E2%80%93-evie-networks",
+    "event": "CHANGED",
+    "material": false,
+    "changes": [
+      {
+        "field": "consultation_text",
+        "old": "The ACCC has prepared a questionnaire on the Acquisition. Submissions or information in response to the questionnaire should be provided by 23 November 2026 via email to mergers@accc.gov.au with the title Submission re: Ampol – Evie Networks. The ACCC’s ability to give detailed consideration to submissions received after this time may be limited. Open date 16 Nov 2026 Closing date 23 Nov 2026",
+        "new": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "material": false
+      },
+      {
+        "field": "consultation_close_date",
+        "old": "2026-11-23",
+        "new": "",
+        "material": false
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "carlisle-health-%E2%80%93-altus-medical-imaging",
+    "title": "Carlisle Health – Altus Medical Imaging",
+    "case_number": "WA-25065",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/carlisle-health-%E2%80%93-altus-medical-imaging",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "wittington-investments-fairfax-financial-%E2%80%93-boots-group",
+    "title": "Wittington Investments & Fairfax Financial – Boots Group",
+    "case_number": "WA-75072",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wittington-investments-fairfax-financial-%E2%80%93-boots-group",
+    "event": "NEW_ENTRY",
+    "material": true,
+    "changes": []
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
+    "title": "Merchant Wealth Partners - minority investment in Ironbark Financial Group",
+    "case_number": "MN-60059",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "24 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-02T17:43:08+11:00",
+        "new": "2026-11-24T11:34:50+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '24 Nov 2026', 'description': 'Merchant Wealth Partners - minority investment in Ironbark Financial Group - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Merchant%20Wealth%20Partners%20-%20minority%20investment%20in%20Ironbark%20Financial%20Group.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "obayashi-corporation-%E2%80%93-multiplex",
+    "title": "Obayashi Corporation – Multiplex",
+    "case_number": "MN-05031",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation (ABN 86 002 932 756)",
+        "new": "Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation; ABN - (ABN 86 002 932 756)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "abbvie-apogee",
+    "title": "AbbVie - Apogee",
+    "case_number": "MN-90027",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abbvie-apogee",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200; Andor Merger Co. (DELAWARE FILE NO. - 10659205))",
+        "new": "AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200); Andor Merger Co. (DELAWARE FILE NO. - 10659205)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
+    "title": "Atmos – specific BayWa r.e. renewable energy projects",
+    "case_number": "WA-20031",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "ATMOS DEVELOPMENTS PTY LTD (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD (ABN 23 654 882 925)",
+        "new": "ATMOS DEVELOPMENTS PTY LTD; ABN - (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD; ABN - (ABN 23 654 882 925)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "HUGHENDEN SOLAR FARM HOLDCO PTY LTD (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD (ABN 51 606 343 757); YATPOOL SOLAR FARM HOLDCO PTY LTD (ABN 70 618 060 487)",
+        "new": "HUGHENDEN SOLAR FARM HOLDCO PTY LTD; ABN - (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD; ABN - (ABN 51 606 343 757); YATPOOL SOLAR FARM HOLDCO PTY LTD; ABN - (ABN 70 618 060 487)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD (ABN 51 645 165 448)",
+        "new": "BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD; ABN - (ABN 51 645 165 448)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T01:12:03Z",
+    "slug": "waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "title": "Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",
+    "case_number": "WA-15035",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Howard Springs Op Co Pty Ltd (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs Property Trust) (ACN 696 557 436)",
+        "new": "Howard Springs Op Co Pty Ltd; ABN - (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs Property Trust); ACN - (ACN 696 557 436)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Majestic Logistics Pty Limited (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust (ABN 38 132 336 915)",
+        "new": "Majestic Logistics Pty Limited; ABN - (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust; ABN - (ABN 38 132 336 915)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "Waymark Hotel Group Pty Ltd (ABN 92 621 426 999)",
+        "new": "Waymark Hotel Group Pty Ltd; ABN - (ABN 92 621 426 999)",
+        "material": true
+      }
+    ]
   }
 ]

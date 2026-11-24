@@ -1,5 +1,17 @@
 [
   {
+    "slug": "repurpose-it-delta-skipz",
+    "title": "Repurpose It - Delta Skipz",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/repurpose-it-delta-skipz",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "21 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
     "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic",
     "title": "Endeavour Group – retail liquor site in Cowes, VIC",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-cowes-vic",
@@ -15,6 +27,18 @@
     "slug": "endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
     "title": "Endeavour Group – retail liquor site in Forster, NSW",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/endeavour-group-%E2%80%93-retail-liquor-site-in-forster-nsw",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "20 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "tdr-capital-ocu-group",
+    "title": "TDR Capital - OCU Group",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tdr-capital-ocu-group",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -84,18 +108,6 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "william-adams-clennett-hire",
-    "title": "William Adams - Clennett Hire",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
-    "layer": 1,
-    "rule": "PHASE1_PERIOD_TOO_SHORT",
-    "severity": "WARNING",
-    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
-    "field": "end_of_determination_period",
-    "stored_value": "12 Jan 2027",
-    "expected_or_found": "at least 30 business days after notification"
-  },
-  {
     "slug": "amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
     "title": "Amwins / Dragoneer / KKR / Temasek Consortium – Steadfast",
     "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amwins-dragoneer-kkr-temasek-consortium-%E2%80%93-steadfast",
@@ -108,9 +120,21 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "amadeus-idemia-public-security",
-    "title": "Amadeus - Idemia Public Security",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
+    "slug": "william-adams-clennett-hire",
+    "title": "William Adams - Clennett Hire",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/william-adams-clennett-hire",
+    "layer": 1,
+    "rule": "PHASE1_PERIOD_TOO_SHORT",
+    "severity": "WARNING",
+    "detail": "Phase 1 determination period is 29 business days; the statutory minimum is 30.",
+    "field": "end_of_determination_period",
+    "stored_value": "12 Jan 2027",
+    "expected_or_found": "at least 30 business days after notification"
+  },
+  {
+    "slug": "too-lost-%E2%80%93-xelon-entertainment",
+    "title": "Too Lost – Xelon Entertainment",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
@@ -120,9 +144,9 @@
     "expected_or_found": "at least 30 business days after notification"
   },
   {
-    "slug": "too-lost-%E2%80%93-xelon-entertainment",
-    "title": "Too Lost – Xelon Entertainment",
-    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/too-lost-%E2%80%93-xelon-entertainment",
+    "slug": "amadeus-idemia-public-security",
+    "title": "Amadeus - Idemia Public Security",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/amadeus-idemia-public-security",
     "layer": 1,
     "rule": "PHASE1_PERIOD_TOO_SHORT",
     "severity": "WARNING",
