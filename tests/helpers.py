@@ -18,6 +18,7 @@ os.environ["ACCC_CACHE_DIR"] = os.path.join(TMP, ".cache")
 os.environ["ACCC_OUTBOX_DIR"] = os.path.join(TMP, "outbox")
 os.environ["ACCC_WATCHLIST"] = os.path.join(TMP, "watchlist.json")
 os.environ["ACCC_REQUEST_DELAY"] = "0"
+os.environ["ACCC_LISTING_RETRY_DELAY"] = "0"
 os.environ.pop("GITHUB_OUTPUT", None)
 os.environ.pop("FULL_REFRESH", None)
 

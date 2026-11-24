@@ -12,7 +12,7 @@ Scrapes the ACCC Acquisitions Register on a schedule, detects field-level change
 | **Consultation documents email** (only this run's files attached) | Email | New questionnaires, remedy offers or draft s87B undertakings are downloaded |
 | **Watchlist alert** | Email | A matter matching `watchlist.json` is new, changes, or gets a new decision document |
 | **Weekly digest** (Excel attached) | Email | First successful run of each week (normally Monday morning) |
-| **Monitor failure alert** | Email | A run fails (site blocked, data check failed, crash). Repeats about daily while failing |
+| **Monitor failure alert** | Email | A run fails (site blocked, data check failed, crash). Repeats about daily while failing. If the site serves a page without the register on it (maintenance, bot check), the alert waits until it has happened on two runs in a row |
 | **Verification failure alert** | Email | The independent accuracy checks find errors |
 | Google Sheets tabs | Sheets | Every successful run (optional) |
 | `data/register.csv`, `data/register.xlsx` | Repo / run artifact | Every successful run |
@@ -155,7 +155,7 @@ python verify.py                         # verify (add --live 5 to also spot-che
 
 ## Safeguards and known limitations
 
-- **No official API.** Everything is parsed from HTML. If the ACCC changes its page layout, the **sanity guard** refuses to save data that has lost key fields on more than 25% of pages, or a listing with fewer than 80% of known matters. Stored data is left untouched and you get a failure email. The parser lives in `parse_card()` and `parse_detail_page()` in `scraper.py`.
+- **No official API.** Everything is parsed from HTML. If the ACCC changes its page layout, the **sanity guard** refuses to save data that has lost key fields on more than 25% of pages, or a listing with fewer than 80% of known matters. Stored data is left untouched and you get a failure email. The parser lives in `parse_card()` and `parse_detail_page()` in `scraper.py`. If the first listing page has no matter cards and no page links at all, the monitor treats it as the site being temporarily unavailable rather than a layout change: it waits 90 seconds and tries once more, then records an `unavailable` failure. Any listing page that fails these checks is saved in the run's artifact under `outbox/failed_pages/` so you can see exactly what the ACCC served.
 - **Test fixtures are modelled, not captured.** `tests/fixtures/` mirrors the page structure the parser expects. When you next have access, saving a real listing page and case page over the fixtures makes the tests stronger.
 - **ACT holidays.** Add each new year from the ACT Government PDF to `accc_common.py` and raise `HOLIDAY_TABLE_LAST_YEAR`. The verifier warns when register dates pass the last year covered.
 - **Christmas suspension.** The 23 December to 11 January exclusion follows the ACCC Merger Process Guidelines. Check it against the latest guidelines each year.
