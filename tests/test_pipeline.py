@@ -4,8 +4,10 @@ detection, cosmetic vs material changes, failure handling, the sanity guard,
 document download retries and the schema migration.
 """
 
+import datetime
 import os
 import unittest
+from unittest import mock
 
 import helpers
 import documents
@@ -119,6 +121,73 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(code, 3)
         self.assertEqual(len(load_json(REGISTER_JSON, {})), 30)
         self.assertIn("listed only 3 matters", load_json(HEALTH_JSON, {})["last_error"])
+
+    # A maintenance / bot-check page served with HTTP 200 (seen 23 Nov 2026 at 03:24 Canberra time)
+    MAINTENANCE_HTML = ("<!DOCTYPE html><html><head><title>Site maintenance | ACCC</title></head>"
+                        "<body><h1>We'll be back soon</h1><p>The site is undergoing maintenance.</p>"
+                        '<a href="/public-registers/acquisitions-and-mergers-registers/acquisitions-register">'
+                        "Acquisitions register</a></body></html>")
+
+    def _store_30(self):
+        stored = {f"old-{i}": {"slug": f"old-{i}", "title": f"Old {i}", "case_number": f"MN-{i}",
+                               "url": f"{helpers.REGISTER}/old-{i}", "schema_version": 2}
+                  for i in range(30)}
+        save_json(REGISTER_JSON, stored)
+        return open(REGISTER_JSON, encoding="utf-8").read()
+
+    def test_non_register_page_retries_then_fails_as_unavailable(self):
+        before = self._store_30()
+        listing_url = f"{helpers.REGISTER}?items_per_page=50&page=0"
+        http = FakeRequestsSession({listing_url: (200, self.MAINTENANCE_HTML)})
+        code = scraper.run(http)
+        self.assertEqual(code, 4)
+        self.assertEqual(http.calls, [listing_url, listing_url])      # exactly one retry
+        self.assertEqual(open(REGISTER_JSON, encoding="utf-8").read(), before)
+        health = load_json(HEALTH_JSON, {})
+        self.assertEqual(health["last_status"], "failed: unavailable")
+        self.assertIn("Site maintenance | ACCC", health["last_error"])
+        failed_dir = os.path.join(OUTBOX_DIR, "failed_pages")
+        self.assertEqual(sorted(os.listdir(failed_dir)),
+                         ["listing-page-1-attempt-1.html", "listing-page-1-attempt-2.html"])
+        email = open(os.path.join(OUTBOX_DIR, "email_failure.html"), encoding="utf-8").read()
+        self.assertIn("without the register", email)
+        self.assertNotIn("parse_card() needs updating", email)
+        # No email on the first unavailable run; from the second in a row, about once a day
+        self.assertFalse(scraper.should_alert_failure(1, "unavailable"))
+        self.assertTrue(scraper.should_alert_failure(2, "unavailable"))
+        self.assertFalse(scraper.should_alert_failure(3, "unavailable"))
+        self.assertTrue(scraper.should_alert_failure(4, "unavailable"))
+
+    def test_non_register_page_recovers_on_retry(self):
+        stored = {f"old-{i}": {"slug": f"old-{i}"} for i in range(30)}
+        listing_url = f"{helpers.REGISTER}?items_per_page=50&page=0"
+        responses = [self.MAINTENANCE_HTML, fixture("listing_page.html")]
+
+        class FlakySite(FakeRequestsSession):
+            def get(self, url, timeout=None, headers=None):
+                self.calls.append(url)
+                return helpers.FakeResponse(200, responses.pop(0))
+
+        http = FlakySite()
+        with mock.patch.object(scraper, "MIN_FIRST_PAGE_CARDS", 3):
+            entries, _ = scraper.fetch_listing_entries(
+                scraper.PoliteSession(http), stored, full=False, today=datetime.date(2026, 11, 24))
+        self.assertEqual(http.calls, [listing_url, listing_url])
+        self.assertEqual(sorted(entries), sorted([helpers.SLUG_ACTIVE, helpers.SLUG_COMPLETED, helpers.SLUG_WAIVER]))
+
+    def test_layout_change_still_fails_immediately_without_retry(self):
+        # Register page with its pager but cards the parser cannot read: a real layout change
+        before = self._store_30()
+        broken = fixture("listing_page.html").replace("/acquisitions-register/", "/acquisition-matters/")
+        listing_url = f"{helpers.REGISTER}?items_per_page=50&page=0"
+        http = FakeRequestsSession({listing_url: (200, broken)})
+        code = scraper.run(http)
+        self.assertEqual(code, 3)
+        self.assertEqual(http.calls, [listing_url])                   # no retry
+        self.assertEqual(open(REGISTER_JSON, encoding="utf-8").read(), before)
+        self.assertIn("listed only 0 matters", load_json(HEALTH_JSON, {})["last_error"])
+        self.assertTrue(scraper.should_alert_failure(1, "sanity"))
+        self.assertTrue(os.path.exists(os.path.join(OUTBOX_DIR, "failed_pages", "listing-page-1.html")))
 
     def test_removed_entry_confirmed_by_404(self):
         run_site()

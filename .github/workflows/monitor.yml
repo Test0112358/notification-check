@@ -115,6 +115,7 @@ jobs:
             data/verification_report.csv
             data/verification_summary.json
             outbox/*.html
+            outbox/failed_pages/*.html
           if-no-files-found: ignore
           retention-days: 90
 

@@ -62,6 +62,10 @@ CONSULTATION_DOCS_DIR = data_path("consultation_docs")
 WATCHLIST_JSON = os.environ.get("ACCC_WATCHLIST", "watchlist.json")
 
 LISTING_CACHE_DIR = os.path.join(CACHE_DIR, "html", "listing")
+# Pages that failed a check, kept for diagnosis. Under the outbox (not .cache)
+# because the workflow uploads the outbox with the run's artifact, and
+# actions/upload-artifact skips hidden folders such as .cache by default.
+FAILED_PAGES_DIR = os.path.join(OUTBOX_DIR, "failed_pages")
 DETAIL_CACHE_DIR = os.path.join(CACHE_DIR, "html", "detail")
 
 # Bump when the stored record format changes. The first run after a bump
@@ -543,6 +547,15 @@ def cached_detail_html(slug):
         with open(path, "r", encoding="utf-8") as f:
             return f.read()
     return None
+
+
+def save_failed_page(name, html):
+    """Keep the raw HTML of a page that failed a check so the run artifact holds it."""
+    os.makedirs(FAILED_PAGES_DIR, exist_ok=True)
+    path = os.path.join(FAILED_PAGES_DIR, _safe_name(name) + ".html")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(html or "")
+    return path
 
 
 def mark_listing_complete():

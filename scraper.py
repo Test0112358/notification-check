@@ -42,6 +42,7 @@ import math
 import os
 import re
 import sys
+import time
 import traceback
 from urllib.parse import urljoin
 
@@ -54,7 +55,7 @@ from accc_common import (
     LISTING_PAGE_SIZE, NEW_DOCUMENTS_JSON, REGISTER_JSON, REGISTER_URL,
     SCHEMA_VERSION, AccessBlocked, PoliteSession, cache_detail_html,
     cache_listing_html, calc_period_days, canberra_today, clean, load_health,
-    mark_listing_complete,
+    mark_listing_complete, save_failed_page,
     load_json, parse_date, parse_iso, save_json, utc_now, utc_now_iso,
     write_github_outputs,
 )
@@ -80,6 +81,11 @@ FULL_LISTING_EVERY = datetime.timedelta(days=7)
 MIN_LISTING_PAGES = 2
 RECENT_LISTING_DAYS = 30        # keep paging until matters notified this long ago
 MIN_FIRST_PAGE_CARDS = 10
+# When the first listing page comes back without the register on it (no matter
+# cards and no page links), wait this long and fetch it once more before giving
+# up. Overnight the ACCC sometimes serves a maintenance or bot-check page with
+# HTTP 200 for a short while.
+LISTING_RETRY_DELAY = float(os.environ.get("ACCC_LISTING_RETRY_DELAY", "90"))
 
 # Sanity guard: abort without saving if the site or parser looks broken
 MIN_LISTING_RATIO = 0.8   # listing must return at least 80% of stored entries
@@ -123,6 +129,10 @@ SCHEMA_REFORMATTED_FIELDS = {"acquirers", "targets", "other_parties", "consultat
 
 class SanityCheckFailed(Exception):
     """The scraped data looks wrong; refuse to overwrite good stored data."""
+
+
+class SiteUnavailable(Exception):
+    """The ACCC served a page that is not the register (maintenance, bot check). Usually temporary."""
 
 
 # ---------------------------------------------------------------------------
@@ -238,16 +248,8 @@ def _page_needs_next(page_entries, stored_register, today):
     return bool(dates) and (today - min(dates)).days <= RECENT_LISTING_DAYS
 
 
-def fetch_listing_entries(session, stored_register, full, today):
-    """
-    Return ({slug: card}, complete). With full=True every listing page is
-    fetched; otherwise paging stops (after MIN_LISTING_PAGES) once a page has
-    no new matters and reaches back beyond RECENT_LISTING_DAYS. Raises AccessBlocked if
-    the first page is refused and SanityCheckFailed if it lists almost nothing.
-    """
-    print(f"  Fetching register listing pages ({'full scan' if full else 'recent pages only'})...")
-    entries = {}
-
+def _fetch_first_listing_page(session):
+    """Fetch and parse listing page 1. Returns (html, soup, {slug: card})."""
     result = session.get(_listing_url(0))
     if result.status == 403:
         raise AccessBlocked(
@@ -256,14 +258,63 @@ def fetch_listing_entries(session, stored_register, full, today):
         )
     if not result.ok:
         raise RuntimeError(f"Could not fetch the register listing page ({result.error or result.status}).")
-
     cache_listing_html(0, result.text)
     soup = BeautifulSoup(result.text, "lxml")
-    total_pages = get_last_page_index(soup) + 1
-    print(f"  {total_pages} page(s) found at {LISTING_PAGE_SIZE} items/page.")
     page_entries = {}
     parse_listing_page(soup, page_entries)
-    if len(stored_register) >= 20 and len(page_entries) < MIN_FIRST_PAGE_CARDS:
+    return result.text, soup, page_entries
+
+
+def _looks_like_register(soup, page_entries):
+    """
+    True if the page has any of the register's own structure: at least one
+    matter card or the pager. A page with neither is not the register at all
+    (maintenance, bot check, error page), which is different from a register
+    page whose cards the parser can no longer read (a layout change).
+    """
+    return bool(page_entries) or soup.select_one("nav.pager, .pager, li.pager__item") is not None
+
+
+def _page_description(soup, html):
+    title = clean(soup.title.get_text()) if soup.title else ""
+    size = len((html or "").encode("utf-8"))
+    return f"page title: '{title[:80]}', {size:,} bytes" if title else f"no page title, {size:,} bytes"
+
+
+def fetch_listing_entries(session, stored_register, full, today):
+    """
+    Return ({slug: card}, complete). With full=True every listing page is
+    fetched; otherwise paging stops (after MIN_LISTING_PAGES) once a page has
+    no new matters and reaches back beyond RECENT_LISTING_DAYS. Raises AccessBlocked if
+    the first page is refused, SiteUnavailable if it is still not the register
+    after one retry, and SanityCheckFailed if it is the register but lists
+    almost nothing.
+    """
+    print(f"  Fetching register listing pages ({'full scan' if full else 'recent pages only'})...")
+    entries = {}
+
+    html, soup, page_entries = _fetch_first_listing_page(session)
+    guarded = len(stored_register) >= 20
+    if guarded and not _looks_like_register(soup, page_entries):
+        save_failed_page("listing-page-1-attempt-1", html)
+        print(f"  The first listing page has no matters and no page links ({_page_description(soup, html)}).")
+        print(f"  Waiting {LISTING_RETRY_DELAY:.0f}s, then fetching it once more...")
+        time.sleep(LISTING_RETRY_DELAY)
+        html, soup, page_entries = _fetch_first_listing_page(session)
+        if not _looks_like_register(soup, page_entries):
+            save_failed_page("listing-page-1-attempt-2", html)
+            raise SiteUnavailable(
+                "The ACCC website returned a page without the register on it, twice "
+                f"({_page_description(soup, html)}). This is usually maintenance or a temporary "
+                "bot check. Stored data was left untouched. If it keeps happening on later runs, "
+                "the page layout may have changed."
+            )
+        print("  Second attempt returned the register; continuing.")
+
+    total_pages = get_last_page_index(soup) + 1
+    print(f"  {total_pages} page(s) found at {LISTING_PAGE_SIZE} items/page.")
+    if guarded and len(page_entries) < MIN_FIRST_PAGE_CARDS:
+        save_failed_page("listing-page-1", html)
         raise SanityCheckFailed(
             f"The first register page listed only {len(page_entries)} matters. The page layout has "
             "probably changed; parse_card() needs updating. Stored data was left untouched."
@@ -1120,8 +1171,14 @@ def _seed_health(health):
     return health
 
 
-def should_alert_failure(consecutive_failures):
-    """Alert on the first failure, then about once a day (every 2nd scheduled run)."""
+def should_alert_failure(consecutive_failures, kind=""):
+    """
+    Alert on the first failure, then about once a day (every 2nd scheduled run).
+    A site that is temporarily unavailable usually recovers by the next run,
+    so that kind only alerts from the second failure in a row.
+    """
+    if kind == "unavailable":
+        return consecutive_failures >= 2 and consecutive_failures % 2 == 0
     return consecutive_failures == 1 or consecutive_failures % 2 == 0
 
 
@@ -1175,6 +1232,7 @@ def run(http_session=None):
         result = scrape(session, run_utc, full_refresh, health)
     except Exception as exc:
         kind = ("blocked" if isinstance(exc, AccessBlocked)
+                else "unavailable" if isinstance(exc, SiteUnavailable)
                 else "sanity" if isinstance(exc, SanityCheckFailed) else "error")
         message = str(exc) if kind != "error" else f"{type(exc).__name__}: {exc}"
         if kind == "error":
@@ -1188,11 +1246,11 @@ def run(http_session=None):
             has_changes=False,
             failure_kind=kind,
             consecutive_failures=health["consecutive_failures"],
-            alert_failure=should_alert_failure(health["consecutive_failures"]),
+            alert_failure=should_alert_failure(health["consecutive_failures"], kind),
             failure_subject=reporting.failure_subject(health, kind),
             run_utc=run_utc,
         )
-        return 2 if kind == "blocked" else 3 if kind == "sanity" else 1
+        return {"blocked": 2, "sanity": 3, "unavailable": 4}.get(kind, 1)
 
     new_register = result["new_register"]
     stored_register = result["stored_register"]

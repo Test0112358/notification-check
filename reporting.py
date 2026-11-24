@@ -1190,6 +1190,7 @@ def failure_subject(health, kind):
     n = health.get("consecutive_failures", 1)
     what = {"blocked": "ACCC website is blocking the monitor",
             "sanity": "data check failed, nothing was saved",
+            "unavailable": "ACCC website served a page without the register",
             "error": "the scraper crashed"}.get(kind, "run failed")
     return f"ACCC Monitor FAILED ({n} in a row): {what}"
 
@@ -1214,7 +1215,18 @@ def write_failure_email(health, kind, message):
             "<p>The scraper refused to save because the data it received looked wrong (too few register entries, "
             "or key fields missing on many pages). This usually means the ACCC changed its page layout. Stored "
             "data was left untouched. The parser in <code>scraper.py</code> (parse_detail_page / parse_card) "
-            "needs checking against a live page.</p>"),
+            "needs checking against a live page.</p>"
+            "<p>If the listing page failed the check, the page the monitor received is saved in the run's "
+            "artifact under <code>outbox/failed_pages/</code>.</p>"),
+        "unavailable": (
+            "<p>The ACCC website answered normally (HTTP 200) but the page had no register on it: no matter "
+            "cards and no page links. The monitor waited and tried again, and got the same result. This is "
+            "usually website maintenance or a temporary bot check, and it normally clears by the next run. "
+            "Stored data was left untouched.</p>"
+            "<p>This alert is only sent once it has happened on two runs in a row. To check, open the register "
+            "in a browser. If the register looks normal there but the monitor keeps failing, compare it with "
+            "the page the monitor received, saved in the run's artifact under "
+            "<code>outbox/failed_pages/</code>.</p>"),
         "error": "<p>The scraper stopped with an unexpected error. The run log has the full traceback.</p>",
     }.get(kind, "")
     body = banner(f"<b>{esc(message)}</b>", "red")
