@@ -42266,5 +42266,80 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T05:28:54Z",
+    "slug": "coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "title": "Coles – supermarket site in Upper Swan, WA",
+    "case_number": "MN-05030",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708)",
+        "new": "COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "The Trustee for Saracen Property Holdings Unit Trust (ABN 59 505 202 814)",
+        "new": "The Trustee for Saracen Property Holdings Unit Trust; ABN - (ABN 59 505 202 814)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T05:28:54Z",
+    "slug": "estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "title": "Estia Health – AnglicareSA residential aged care business",
+    "case_number": "MN-55029",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "ESTIA INVESTMENTS PTY. LTD. (ABN 87 164 350 387)",
+        "new": "ESTIA INVESTMENTS PTY. LTD.; ABN - (ABN 87 164 350 387)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ANGLICARE SA LTD. (ABN 69 187 578 153)",
+        "new": "ANGLICARE SA LTD.; ABN - (ABN 69 187 578 153)",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "ESTIA HEALTH TOPCO PTY LTD (ABN 47 669 884 244)",
+        "new": "ESTIA HEALTH TOPCO PTY LTD; ABN - (ABN 47 669 884 244)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T05:28:54Z",
+    "slug": "laundy-%E2%80%93-woy-woy-hotel-0",
+    "title": "Laundy – Woy Woy Hotel",
+    "case_number": "MN-40029",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "LAUNDY WOY TRADING PTY LTD (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD (ABN 65 696 471 306)",
+        "new": "LAUNDY WOY TRADING PTY LTD; ABN - (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD; ABN - (ABN 65 696 471 306)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "HARVEST PUB OPERATIONS 2 PTY LTD (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED (ABN 98 609 737 064)",
+        "new": "HARVEST PUB OPERATIONS 2 PTY LTD; ABN - (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED; ABN - (ABN 98 609 737 064)",
+        "material": true
+      }
+    ]
   }
 ]

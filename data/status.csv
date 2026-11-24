@@ -1,48 +1,42 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,24 Nov 2026 12:12 AEDT,Up to date
-Last run attempt,24 Nov 2026 12:12 AEDT,success
-HTTP requests used,91,
+Last successful update,24 Nov 2026 16:28 AEDT,Up to date
+Last run attempt,24 Nov 2026 16:28 AEDT,success
+HTTP requests used,37,
 ,,
 Total entries monitored,892,
-New entries this run,4,
-Changed entries this run,5,material changes only
+New entries this run,0,
+Changed entries this run,3,material changes only
 Removed entries this run,0,
-New decision documents,3,
+New decision documents,0,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (4),Case Number,URL
-+ Repurpose It - Delta Skipz,MN-40047,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/repurpose-it-delta-skipz
-+ TDR Capital - OCU Group,MN-65044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/tdr-capital-ocu-group
-+ Carlisle Health – Altus Medical Imaging,WA-25065,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/carlisle-health-%E2%80%93-altus-medical-imaging
-+ Wittington Investments & Fairfax Financial – Boots Group,WA-75072,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wittington-investments-fairfax-financial-%E2%80%93-boots-group
-,,
-CHANGED ENTRIES (5),Change,URL
-~ Merchant Wealth Partners - minority investment in Ironbark Financial Group,MN-60059,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group
-,Status: Under assessment → Assessment completed,
-,ACCC determination: (blank) → Approved,
-,Determination published: (blank) → 24 Nov 2026,
-,New document: Merchant Wealth Partners - minority investment in Ironbark Financial Group - Phase 1 determination (24 Nov 2026),
-~ Obayashi Corporation – Multiplex,MN-05031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/obayashi-corporation-%E2%80%93-multiplex
-,Acquirer(s): Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation (ABN 86 002 932 756) → Obayashi UK Holdings Limited (UK Company No.17229281); Obayashi Corporation; ABN - (ABN 86 002 932 756),
-~ AbbVie - Apogee,MN-90027,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/abbvie-apogee
-,Acquirer(s): AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200; Andor Merger Co. (DELAWARE FILE NO.… → AbbVie Inc. (DELAWARE FILE NO. - 5126809); Andor LLC (DELAWARE FILE NO. - 10659200); Andor Merger Co. (DELAWARE FILE NO…,
-~ Atmos – specific BayWa r.e. renewable energy projects,WA-20031,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/atmos-%E2%80%93-specific-baywa-re-renewable-energy-projects
-,Acquirer(s): ATMOS DEVELOPMENTS PTY LTD (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD (ABN 23 654 882 925) → ATMOS DEVELOPMENTS PTY LTD; ABN - (ABN 80 652 915 216); ATMOS QUEENSLAND SOLAR PTY LTD; ABN - (ABN 23 654 882 925),
-,Target(s) / vendor(s): HUGHENDEN SOLAR FARM HOLDCO PTY LTD (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD (ABN 51 606 343 757); Y… → HUGHENDEN SOLAR FARM HOLDCO PTY LTD; ABN - (ABN 78 617 749 569); BAYWA R.E. PROJECTS AUSTRALIA PTY LTD; ABN - (ABN 51 6…,
-,Other parties: BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD (ABN 51 645 165 448) → BAYWA R.E. AG (HRB number: 264823); ATMOS TOPCO PTY LTD; ABN - (ABN 51 645 165 448),
-"~ Waymark Hotels Group – Howard Springs Tavern, Howard Springs, NT",WA-15035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waymark-hotels-group-%E2%80%93-howard-springs-tavern-howard-springs-nt
-,Acquirer(s): Howard Springs Op Co Pty Ltd (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs Property… → Howard Springs Op Co Pty Ltd; ABN - (ABN 78 696 555 674); Waymark Hotels Properties No 43 Pty Ltd (ATF Howard Springs P…,
-,Target(s) / vendor(s): Majestic Logistics Pty Limited (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust (ABN 38 132… → Majestic Logistics Pty Limited; ABN - (ABN 68 084 089 038); Majestic Ventures Pty Limited ATF Elsdon Family Trust; ABN…,
-,Other parties: Waymark Hotel Group Pty Ltd (ABN 92 621 426 999) → Waymark Hotel Group Pty Ltd; ABN - (ABN 92 621 426 999),
+CHANGED ENTRIES (3),Change,URL
+"~ Coles – supermarket site in Upper Swan, WA",MN-05030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/coles-%E2%80%93-supermarket-site-in-upper-swan-wa
+,Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),
+,Target(s) / vendor(s): The Trustee for Saracen Property Holdings Unit Trust (ABN 59 505 202 814) → The Trustee for Saracen Property Holdings Unit Trust; ABN - (ABN 59 505 202 814),
+~ Estia Health – AnglicareSA residential aged care business,MN-55029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/estia-health-%E2%80%93-anglicaresa-residential-aged-care-business
+,Acquirer(s): ESTIA INVESTMENTS PTY. LTD. (ABN 87 164 350 387) → ESTIA INVESTMENTS PTY. LTD.; ABN - (ABN 87 164 350 387),
+,Target(s) / vendor(s): ANGLICARE SA LTD. (ABN 69 187 578 153) → ANGLICARE SA LTD.; ABN - (ABN 69 187 578 153),
+,Other parties: ESTIA HEALTH TOPCO PTY LTD (ABN 47 669 884 244) → ESTIA HEALTH TOPCO PTY LTD; ABN - (ABN 47 669 884 244),
+~ Laundy – Woy Woy Hotel,MN-40029,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/laundy-%E2%80%93-woy-woy-hotel-0
+,Acquirer(s): LAUNDY WOY TRADING PTY LTD (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD (ABN 65 696 471 306) → LAUNDY WOY TRADING PTY LTD; ABN - (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD; ABN - (ABN 65 696 471 306),
+,Target(s) / vendor(s): HARVEST PUB OPERATIONS 2 PTY LTD (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED (ABN 98 609 737 064) → HARVEST PUB OPERATIONS 2 PTY LTD; ABN - (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED; ABN - (ABN 98 609 737 064),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Coles – supermarket site in Upper Swan, WA (MN-05030)",Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),24 Nov 2026 16:28 AEDT
+"Coles – supermarket site in Upper Swan, WA (MN-05030)",Target(s) / vendor(s): The Trustee for Saracen Property Holdings Unit Trust (ABN 59 505 202 814) → The Trustee for Saracen Property Holdings Unit Trust; ABN - (ABN 59 505 202 814),24 Nov 2026 16:28 AEDT
+Estia Health – AnglicareSA residential aged care business (MN-55029),Acquirer(s): ESTIA INVESTMENTS PTY. LTD. (ABN 87 164 350 387) → ESTIA INVESTMENTS PTY. LTD.; ABN - (ABN 87 164 350 387),24 Nov 2026 16:28 AEDT
+Estia Health – AnglicareSA residential aged care business (MN-55029),Target(s) / vendor(s): ANGLICARE SA LTD. (ABN 69 187 578 153) → ANGLICARE SA LTD.; ABN - (ABN 69 187 578 153),24 Nov 2026 16:28 AEDT
+Estia Health – AnglicareSA residential aged care business (MN-55029),Other parties: ESTIA HEALTH TOPCO PTY LTD (ABN 47 669 884 244) → ESTIA HEALTH TOPCO PTY LTD; ABN - (ABN 47 669 884 244),24 Nov 2026 16:28 AEDT
+Laundy – Woy Woy Hotel (MN-40029),Acquirer(s): LAUNDY WOY TRADING PTY LTD (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD (ABN 65 696 471 306) → LAUNDY WOY TRADING PTY LTD; ABN - (ABN 29 696 470 345); LAUNDY WOY FREEHOLD PTY LTD; ABN - (ABN 65 696 471 306),24 Nov 2026 16:28 AEDT
+Laundy – Woy Woy Hotel (MN-40029),Target(s) / vendor(s): HARVEST PUB OPERATIONS 2 PTY LTD (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED (ABN 98 609 737 064) → HARVEST PUB OPERATIONS 2 PTY LTD; ABN - (ABN 51 652 748 242); AMAL TRUSTEES PTY LIMITED; ABN - (ABN 98 609 737 064),24 Nov 2026 16:28 AEDT
 Repurpose It - Delta Skipz (MN-40047),Notification added to the register,24 Nov 2026 12:12 AEDT
 TDR Capital - OCU Group (MN-65044),Notification added to the register,24 Nov 2026 12:12 AEDT
 Carlisle Health – Altus Medical Imaging (WA-25065),Waiver added to the register,24 Nov 2026 12:12 AEDT
@@ -175,23 +169,3 @@ Karmo - Simplr (MN-15030),Target(s) / vendor(s): EAGERS AUTOMOTIVE LIMITED (ABN 
 RCT Solutions GmbH - Wärtsilä Energy Storage Finland Oy (WA-80036),Other parties: WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583) → WARTSILA ENERGY STORAGE AUSTRALIA PTY LTD; ABN - (ABN 94 673 275 002); Wärtsilä Energy Storage Inc (7179583),18 Nov 2026 01:50 AEDT
 Monadelphous - Tyden Power (WA-15037),Acquirer(s): MONADELPHOUS GROUP LIMITED (ABN 28 008 988 547) → MONADELPHOUS GROUP LIMITED; ABN - (ABN 28 008 988 547),18 Nov 2026 01:50 AEDT
 Monadelphous - Tyden Power (WA-15037),Target(s) / vendor(s): TYDEN POWER PTY. LIMITED (ABN 75 612 521 212) → TYDEN POWER PTY. LIMITED; ABN - (ABN 75 612 521 212),18 Nov 2026 01:50 AEDT
-NYK - NS United (MN-15043),Status: Under assessment → Assessment completed,17 Nov 2026 15:08 AEDT
-NYK - NS United (MN-15043),ACCC determination: (blank) → Approved,17 Nov 2026 15:08 AEDT
-NYK - NS United (MN-15043),Determination published: (blank) → 17 Nov 2026,17 Nov 2026 15:08 AEDT
-NYK - NS United (MN-15043),New document: NYK - NS United - Phase 1 determination (17 Nov 2026),17 Nov 2026 15:08 AEDT
-bp - bp Gateway (MN-95033),Acquirer(s): BP AUSTRALIA PTY LTD (ABN 53 004 085 616) → BP AUSTRALIA PTY LTD; ABN - (ABN 53 004 085 616),17 Nov 2026 15:08 AEDT
-bp - bp Gateway (MN-95033),Target(s) / vendor(s): M. & H.J. WEBB PTY. LIMITED (ABN 56 001 662 040) → M. & H.J. WEBB PTY. LIMITED; ABN - (ABN 56 001 662 040),17 Nov 2026 15:08 AEDT
-bp - bp Gateway (MN-95033),Other parties: BP Australia Investments Pty Ltd (ABN 66 102 991 551); BP plc (UK company number: 00102498) → BP Australia Investments Pty Ltd; ABN - (ABN 66 102 991 551); BP plc (UK company number: 00102498),17 Nov 2026 15:08 AEDT
-HiTech Group Australia - Hudson Global Resources (MN-95038),Acquirer(s): HITECH GROUP AUSTRALIA LIMITED (ABN 41 062 067 878) → HITECH GROUP AUSTRALIA LIMITED; ABN - (ABN 41 062 067 878),17 Nov 2026 15:08 AEDT
-HiTech Group Australia - Hudson Global Resources (MN-95038),Target(s) / vendor(s): Hudson Global Resources (Aust) Pty Limited (Administrators Appointed) (ABN 21 002 888 762) → Hudson Global Resources (Aust) Pty Limited (Administrators Appointed); ABN - (ABN 21 002 888 762),17 Nov 2026 15:08 AEDT
-"Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly (WA-80037)",Acquirer(s): AVC OPERATIONS PTY LIMITED (ABN 81 607 832 299) → AVC OPERATIONS PTY LIMITED; ABN - (ABN 81 607 832 299),17 Nov 2026 15:08 AEDT
-"Australian Venue Co – Assets of Riverland Bar, The Boatbuilders Yard and General Assembly (WA-80037)",Target(s) / vendor(s): FED VAULTS PTY. LTD. (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD (ABN 79 138 533 605); DOG AT THE BRIDGE PTY LTD (ABN 56… → FED VAULTS PTY. LTD.; ABN - (ABN 43 117 104 882); SHED 4 (VIC) PTY LTD; ABN - (ABN 79 138 533 605); DOG AT THE BRIDGE P…,17 Nov 2026 15:08 AEDT
-Black Rhino - Club Hotel Motel Roma (MN-90008),Acquirer(s): The Trustee for Light Them Up (Roma) Trust (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD (ABN 21 693 060 187) → The Trustee for Light Them Up (Roma) Trust; ABN - (ABN 17 705 523 498); BLACK RHINO (CLUB ROMA) PTY LTD; ABN - (ABN 21…,17 Nov 2026 15:08 AEDT
-Black Rhino - Club Hotel Motel Roma (MN-90008),Target(s) / vendor(s): SPEEDY COCKTAILS PTY LTD (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST (ABN 95 506 126 845) → SPEEDY COCKTAILS PTY LTD; ABN - (ABN 99 619 330 255); The Trustee for THE BARRY WALDRON FAMILY TRUST; ABN - (ABN 95 506…,17 Nov 2026 15:08 AEDT
-Coles – supermarket site in Lidcombe (NSW) (MN-50019),Acquirer(s): COLES SUPERMARKETS AUSTRALIA PTY LTD (ABN 45 004 189 708) → COLES SUPERMARKETS AUSTRALIA PTY LTD; ABN - (ABN 45 004 189 708),17 Nov 2026 15:08 AEDT
-Coles – supermarket site in Lidcombe (NSW) (MN-50019),Target(s) / vendor(s): BUILTCOM PROPERTIES 11 PTY LTD (ABN 21 648 938 710) → BUILTCOM PROPERTIES 11 PTY LTD; ABN - (ABN 21 648 938 710),17 Nov 2026 15:08 AEDT
-Logic Technologies - Ace Communication Distributors (MN-95021),Acquirer(s): CSE-GLOBAL (AUSTRALIA) PTY LTD (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD (ABN 25 071 025 084) → CSE-GLOBAL (AUSTRALIA) PTY LTD; ABN - (ABN 85 109 958 090); LOGIC TECHNOLOGIES PTY LTD; ABN - (ABN 25 071 025 084),17 Nov 2026 15:08 AEDT
-Logic Technologies - Ace Communication Distributors (MN-95021),Target(s) / vendor(s): ACE COMMUNICATION DISTRIBUTORS PTY LTD (ABN 75 103 761 011) → ACE COMMUNICATION DISTRIBUTORS PTY LTD; ABN - (ABN 75 103 761 011),17 Nov 2026 15:08 AEDT
-VSA - SprayLine (MN-30022),Acquirer(s): VSA ROADS PTY LTD (ABN 18 136 665 935) → VSA ROADS PTY LTD; ABN - (ABN 18 136 665 935),17 Nov 2026 15:08 AEDT
-VSA - SprayLine (MN-30022),"Target(s) / vendor(s): Head, Transport for Victoria (ABN 97 481 088 949) → Head, Transport for Victoria; ABN - (ABN 97 481 088 949)",17 Nov 2026 15:08 AEDT
-VSA - SprayLine (MN-30022),Other parties: COLAS AUSTRALIA GROUP PTY LTD (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD (ABN 88 127 397 899) → COLAS AUSTRALIA GROUP PTY LTD; ABN - (ABN 11 000 388 161); COLAS CONTRACTING PTY LTD; ABN - (ABN 88 127 397 899),17 Nov 2026 15:08 AEDT

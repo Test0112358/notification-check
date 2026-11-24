@@ -1,47 +1,7 @@
 {
-  "run_utc": "2026-11-24T01:12:03Z",
+  "run_utc": "2026-11-24T05:28:54Z",
   "questionnaire_count": 0,
   "consultation_document_count": 0,
   "questionnaires": [],
-  "decision_documents": [
-    {
-      "slug": "merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
-      "title": "Merchant Wealth Partners - minority investment in Ironbark Financial Group",
-      "case_number": "MN-60059",
-      "type": "Notification",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/merchant-wealth-partners-minority-investment-in-ironbark-financial-group",
-      "date": "24 Nov 2026",
-      "description": "Merchant Wealth Partners - minority investment in Ironbark Financial Group - Phase 1 determination",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Phase%201%20determination%20Merchant%20Wealth%20Partners%20-%20minority%20investment%20in%20Ironbark%20Financial%20Group.pdf",
-      "category": "Phase 1 determination",
-      "priority": false,
-      "new_matter": false
-    },
-    {
-      "slug": "carlisle-health-%E2%80%93-altus-medical-imaging",
-      "title": "Carlisle Health – Altus Medical Imaging",
-      "case_number": "WA-25065",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/carlisle-health-%E2%80%93-altus-medical-imaging",
-      "date": "23 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Carlisle%20Health%20%E2%80%93%20Altus%20Medical%20Imaging%20%28WA-25065%29%20-%20Notification%20waiver%20determination%20-%2023%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "wittington-investments-fairfax-financial-%E2%80%93-boots-group",
-      "title": "Wittington Investments & Fairfax Financial – Boots Group",
-      "case_number": "WA-75072",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/wittington-investments-fairfax-financial-%E2%80%93-boots-group",
-      "date": "23 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Wittington%20Investments%20%26%20Fairfax%20Financial%20-%20Boots%20Group%20%28WA-75072%29%20-%20Notification%20waiver%20determination%20-%2023%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    }
-  ]
+  "decision_documents": []
 }

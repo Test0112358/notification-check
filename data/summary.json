@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-24T01:17:18Z",
+  "generated_at_utc": "2026-11-24T05:30:58Z",
   "data_health": {
-    "last_success_utc": "2026-11-24T01:12:03Z",
+    "last_success_utc": "2026-11-24T05:28:54Z",
     "data_age_days": 0,
     "consecutive_failures": 0,
-    "last_request_count": 91
+    "last_request_count": 37
   },
   "total_entries": 892,
   "by_acquisition_status": {
