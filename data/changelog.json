@@ -42515,5 +42515,321 @@
         "material": true
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
+    "title": "Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",
+    "case_number": "MN-25058",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-03T10:52:54+11:00",
+        "new": "2026-11-25T09:37:48+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Nov 2026', 'description': 'Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Healthe%20Care%20%E2%80%93%20Knox%20Private%2C%20Ringwood%20Private%2C%20Northpark%20Private%2C%20Victorian%20Rehabilitation%20Centre%20and%20Geelong%20Clinic%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "healthe-care-prince-of-wales-private-hospital",
+    "title": "Healthe Care - Prince of Wales Private Hospital",
+    "case_number": "MN-60052",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-prince-of-wales-private-hospital",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-03T11:11:15+11:00",
+        "new": "2026-11-25T09:39:34+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Nov 2026', 'description': 'Healthe Care – Prince of Wales Private Hospital - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Healthe%20Care%20-%20Prince%20of%20Wales%20Private%20Hospital%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+    "title": "ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",
+    "case_number": "MN-10043",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 November 2026",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); Healthscope NewCo Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 80 092 450 274)",
+        "new": "Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Healthscope NewCo Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 80 092 450 274)",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-11-02T10:10:34+11:00",
+        "new": "2026-11-25T09:34:28+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Nov 2026', 'description': 'Acurio - Nepean, Sydney Southwest, and Campbelltown Private Hospitals - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Acurio%20%E2%80%93%20Nepean%2C%20Sydney%20Southwest%2C%20and%20Campbelltown%20Private%20Hospitals%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services",
+    "title": "Calvary – 14 Healthscope hospitals and Healthscope Independence Services",
+    "case_number": "MN-10040",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-30T10:08:39+11:00",
+        "new": "2026-11-25T09:35:28+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '25 Nov 2026', 'description': 'Calvary – 14 Healthscope hospitals and Healthscope Independence Services - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Calvary%20-%2014%20Healthscope%20hospitals%20and%20Healthscope%20Independence%20Services%20-%20Phase%201%20determination.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "stellex-and-ona-%E2%80%93-score",
+    "title": "Stellex and ONA – Score",
+    "case_number": "MN-90044",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stellex-and-ona-%E2%80%93-score",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquisition_status",
+        "old": "Under assessment",
+        "new": "Assessment completed",
+        "material": true
+      },
+      {
+        "field": "accc_determination",
+        "old": "",
+        "new": "Approved",
+        "material": true
+      },
+      {
+        "field": "determination_publication_date",
+        "old": "",
+        "new": "25 November 2026",
+        "material": true
+      },
+      {
+        "field": "last_modified_accc",
+        "old": "2026-10-30T15:48:56+11:00",
+        "new": "2026-11-25T12:23:49+11:00",
+        "material": false
+      },
+      {
+        "field": "consultation_text",
+        "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+        "new": "",
+        "material": false
+      },
+      {
+        "field": "decisions_docs",
+        "old": "",
+        "new": "[{'date': '24 Nov 2026', 'description': 'Stellex and ONA - Score - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Stellex%20Ona%20Score%20-%20Phase%201%20determination_0.pdf'}]",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
+    "title": "Ambrose Construct Group – Major Loss Builders",
+    "case_number": "MN-10021",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "Insurance Building Australia Operations Pty Ltd (ABN 80 661 826 026)",
+        "new": "Insurance Building Australia Operations Pty Ltd; ABN - (ABN 80 661 826 026)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Major LB Pty Ltd (ABN 72 611 974 540)",
+        "new": "Major LB Pty Ltd; ABN - (ABN 72 611 974 540)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+    "title": "McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company",
+    "case_number": "MN-65026",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "MAG SOUTH COAST PTY LTD (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD (ABN 64 676 724 306)",
+        "new": "MAG SOUTH COAST PTY LTD; ABN - (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD; ABN - (ABN 64 676 724 306)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD (ABN 33 000 220 557); COUNTRY MOTOR COMPANY PTY LTD (ABN 11 002 189 228); Glenn Ype Buikstra Family Will Trust",
+        "new": "Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; ABN - (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD; ABN - (ABN 33 000 220 557); COUNTRY MOTOR COMPANY PTY LTD; ABN - (ABN 11 002 189 228); Glenn Ype Buikstra Family Will Trust",
+        "material": true
+      },
+      {
+        "field": "other_parties",
+        "old": "MAG NORTHERN BEACHES PTY LTD (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD (ABN 60 003 411 210); MAG BODY CORP PTY LTD (ABN 93 676 724 495)",
+        "new": "MAG NORTHERN BEACHES PTY LTD; ABN - (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD; ABN - (ABN 60 003 411 210); MAG BODY CORP PTY LTD; ABN - (ABN 93 676 724 495)",
+        "material": true
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T04:32:24Z",
+    "slug": "australian-motors-group-%E2%80%93-mudgee-toyota",
+    "title": "Australian Motors Group – Mudgee Toyota",
+    "case_number": "WA-45022",
+    "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-motors-group-%E2%80%93-mudgee-toyota",
+    "event": "CHANGED",
+    "material": true,
+    "changes": [
+      {
+        "field": "acquirers",
+        "old": "AMG HEADQUARTERS EIGHTEEN PTY LTD (ACN 698 081 819)",
+        "new": "AMG HEADQUARTERS EIGHTEEN PTY LTD; ACN - (ACN 698 081 819)",
+        "material": true
+      },
+      {
+        "field": "targets",
+        "old": "DAWNACO PTY. LIMITED (ABN 23 003 837 643)",
+        "new": "DAWNACO PTY. LIMITED; ABN - (ABN 23 003 837 643)",
+        "material": true
+      }
+    ]
   }
 ]

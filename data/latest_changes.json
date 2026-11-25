@@ -1,165 +1,352 @@
 {
-  "run_utc": "2026-11-24T16:17:16Z",
-  "run_canberra": "25 Nov 2026 03:17 AEDT",
-  "new_count": 7,
-  "changed_count": 4,
+  "run_utc": "2026-11-25T04:32:24Z",
+  "run_canberra": "25 Nov 2026 15:32 AEDT",
+  "new_count": 0,
+  "changed_count": 8,
   "cosmetic_only_count": 0,
   "removed_count": 0,
-  "new_entries": [
-    {
-      "slug": "kiwa-csa-group-0",
-      "title": "Kiwa - CSA Group",
-      "case_number": "WA-10054",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group-0"
-    },
-    {
-      "slug": "woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
-      "title": "Woolworths - supermarket e-commerce hub in Muswellbrook, NSW",
-      "case_number": "WA-55049",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw"
-    },
-    {
-      "slug": "lighthouse-%E2%80%93-proven-air-conditioning",
-      "title": "Lighthouse – Proven Air Conditioning",
-      "case_number": "WA-75070",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lighthouse-%E2%80%93-proven-air-conditioning"
-    },
-    {
-      "slug": "omers-%E2%80%93-la-trobe-financial",
-      "title": "OMERS – La Trobe Financial",
-      "case_number": "WA-30046",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/omers-%E2%80%93-la-trobe-financial"
-    },
-    {
-      "slug": "waterfront-logistics-monson-logistics",
-      "title": "Waterfront Logistics - Monson Logistics",
-      "case_number": "WA-05063",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waterfront-logistics-monson-logistics"
-    },
-    {
-      "slug": "apiam-%E2%80%93-south-west-equine-veterinary-group",
-      "title": "Apiam – South West Equine Veterinary Group",
-      "case_number": "WA-35057",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-south-west-equine-veterinary-group"
-    },
-    {
-      "slug": "platinum-equity-group-%E2%80%93-trime",
-      "title": "Platinum Equity Group – Trime",
-      "case_number": "WA-30045",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-trime"
-    }
-  ],
+  "new_entries": [],
   "changed_entries": [
     {
-      "slug": "ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
-      "title": "MA Financial (Redcape Fund) – Seven hospitality venues in NSW",
-      "case_number": "WA-85040",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw",
+      "slug": "healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
+      "title": "Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",
+      "case_number": "MN-25058",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
       "material": true,
       "summary": [
-        "Acquirer(s): REDCAPE HOTEL GROUP PTY LTD (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD (ABN 96 619 512 060) → REDCAPE HOTEL GROUP PTY LTD; ABN - (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD; ABN - (ABN 96 619 512 060)",
-        "Target(s) / vendor(s): Gunyah Hotel Property Pty Ltd (ACN 628 638 040); Radayla Pty Ltd (ABN 73 115 366 384); Sydney Junction Hotel Property P… → Gunyah Hotel Property Pty Ltd; ACN - (ACN 628 638 040); Radayla Pty Ltd; ABN - (ABN 73 115 366 384); Sydney Junction Ho…"
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 25 Nov 2026",
+        "New document: Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic - Phase 1 determination (25 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquirers",
-          "old": "REDCAPE HOTEL GROUP PTY LTD (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD (ABN 96 619 512 060)",
-          "new": "REDCAPE HOTEL GROUP PTY LTD; ABN - (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD; ABN - (ABN 96 619 512 060)",
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
           "material": true
         },
         {
-          "field": "targets",
-          "old": "Gunyah Hotel Property Pty Ltd (ACN 628 638 040); Radayla Pty Ltd (ABN 73 115 366 384); Sydney Junction Hotel Property Pty Ltd (ACN 628 636 671); Argenton Hotel Property Pty Ltd (ACN 628 638 755); Peden Business Pty Ltd (ACN 626 903 928); Peden Freehold Pty Limited (ACN 626 902 645); Gunyah Hotel Operations Pty Ltd (ACN 628 638 031); Argenton Hotel Operations Pty Ltd (ACN 628 639 270)",
-          "new": "Gunyah Hotel Property Pty Ltd; ACN - (ACN 628 638 040); Radayla Pty Ltd; ABN - (ABN 73 115 366 384); Sydney Junction Hotel Property Pty Ltd; ACN - (ACN 628 636 671); Argenton Hotel Property Pty Ltd; ACN - (ACN 628 638 755); Peden Business Pty Ltd; ACN - (ACN 626 903 928); Peden Freehold Pty Limited; ACN - (ACN 626 902 645); Gunyah Hotel Operations Pty Ltd; ACN - (ACN 628 638 031); Argenton Hotel Operations Pty Ltd; ACN - (ACN 628 639 270)",
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "25 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-11-03T10:52:54+11:00",
+          "new": "2026-11-25T09:37:48+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '25 Nov 2026', 'description': 'Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Healthe%20Care%20%E2%80%93%20Knox%20Private%2C%20Ringwood%20Private%2C%20Northpark%20Private%2C%20Victorian%20Rehabilitation%20Centre%20and%20Geelong%20Clinic%20-%20Phase%201%20determination.pdf'}]",
           "material": true
         }
       ]
     },
     {
-      "slug": "jungheinrich-australia-all-lift",
-      "title": "Jungheinrich Australia - All Lift",
-      "case_number": "WA-80033",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift",
+      "slug": "healthe-care-prince-of-wales-private-hospital",
+      "title": "Healthe Care - Prince of Wales Private Hospital",
+      "case_number": "MN-60052",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-prince-of-wales-private-hospital",
       "material": true,
       "summary": [
-        "Acquirer(s): JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD (ABN 28 608 769 642) → JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD; ABN - (ABN 28 608 769 642)",
-        "Target(s) / vendor(s): KRETCHMER HOLDING CO PTY LTD (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED (ABN 31 632 720 006) → KRETCHMER HOLDING CO PTY LTD; ABN - (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED; ABN - (ABN 31 632 720 0…",
-        "Other parties: JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739; ABN 22 008 024 011)… → JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739); ABN - (ABN 22 008…"
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 25 Nov 2026",
+        "New document: Healthe Care – Prince of Wales Private Hospital - Phase 1 determination (25 Nov 2026)"
       ],
       "changes": [
         {
-          "field": "acquirers",
-          "old": "JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD (ABN 28 608 769 642)",
-          "new": "JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD; ABN - (ABN 28 608 769 642)",
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "25 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-11-03T11:11:15+11:00",
+          "new": "2026-11-25T09:39:34+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '25 Nov 2026', 'description': 'Healthe Care – Prince of Wales Private Hospital - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Healthe%20Care%20-%20Prince%20of%20Wales%20Private%20Hospital%20-%20Phase%201%20determination.pdf'}]",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+      "title": "ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",
+      "case_number": "MN-10043",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+      "material": true,
+      "summary": [
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 25 Nov 2026",
+        "Target(s) / vendor(s): ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Health… → Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); ANZ Hospitals Pty Ltd (administrators appointed) (receivers…",
+        "New document: Acurio - Nepean, Sydney Southwest, and Campbelltown Private Hospitals - Phase 1 determination (25 Nov 2026)"
+      ],
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "25 November 2026",
           "material": true
         },
         {
           "field": "targets",
-          "old": "KRETCHMER HOLDING CO PTY LTD (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED (ABN 31 632 720 006)",
-          "new": "KRETCHMER HOLDING CO PTY LTD; ABN - (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED; ABN - (ABN 31 632 720 006)",
+          "old": "ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); Healthscope NewCo Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 80 092 450 274)",
+          "new": "Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Healthscope NewCo Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 80 092 450 274)",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-11-02T10:10:34+11:00",
+          "new": "2026-11-25T09:34:28+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '25 Nov 2026', 'description': 'Acurio - Nepean, Sydney Southwest, and Campbelltown Private Hospitals - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Acurio%20%E2%80%93%20Nepean%2C%20Sydney%20Southwest%2C%20and%20Campbelltown%20Private%20Hospitals%20-%20Phase%201%20determination.pdf'}]",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services",
+      "title": "Calvary – 14 Healthscope hospitals and Healthscope Independence Services",
+      "case_number": "MN-10040",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services",
+      "material": true,
+      "summary": [
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 25 Nov 2026",
+        "New document: Calvary – 14 Healthscope hospitals and Healthscope Independence Services - Phase 1 determination (25 Nov 2026)"
+      ],
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "25 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-30T10:08:39+11:00",
+          "new": "2026-11-25T09:35:28+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '25 Nov 2026', 'description': 'Calvary – 14 Healthscope hospitals and Healthscope Independence Services - Phase 1 determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Calvary%20-%2014%20Healthscope%20hospitals%20and%20Healthscope%20Independence%20Services%20-%20Phase%201%20determination.pdf'}]",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "stellex-and-ona-%E2%80%93-score",
+      "title": "Stellex and ONA – Score",
+      "case_number": "MN-90044",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stellex-and-ona-%E2%80%93-score",
+      "material": true,
+      "summary": [
+        "Status: Under assessment → Assessment completed",
+        "ACCC determination: (blank) → Approved",
+        "Determination published: (blank) → 25 Nov 2026",
+        "New document: Stellex and ONA - Score - Phase 1 Determination (24 Nov 2026)"
+      ],
+      "changes": [
+        {
+          "field": "acquisition_status",
+          "old": "Under assessment",
+          "new": "Assessment completed",
+          "material": true
+        },
+        {
+          "field": "accc_determination",
+          "old": "",
+          "new": "Approved",
+          "material": true
+        },
+        {
+          "field": "determination_publication_date",
+          "old": "",
+          "new": "25 November 2026",
+          "material": true
+        },
+        {
+          "field": "last_modified_accc",
+          "old": "2026-10-30T15:48:56+11:00",
+          "new": "2026-11-25T12:23:49+11:00",
+          "material": false
+        },
+        {
+          "field": "consultation_text",
+          "old": "The period for providing submissions or information in response to the ACCC’s questionnaire has concluded.",
+          "new": "",
+          "material": false
+        },
+        {
+          "field": "decisions_docs",
+          "old": "",
+          "new": "[{'date': '24 Nov 2026', 'description': 'Stellex and ONA - Score - Phase 1 Determination', 'url': 'https://www.accc.gov.au/system/files/moderated_files/Stellex%20Ona%20Score%20-%20Phase%201%20determination_0.pdf'}]",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "ambrose-construct-group-%E2%80%93-major-loss-builders",
+      "title": "Ambrose Construct Group – Major Loss Builders",
+      "case_number": "MN-10021",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders",
+      "material": true,
+      "summary": [
+        "Acquirer(s): Insurance Building Australia Operations Pty Ltd (ABN 80 661 826 026) → Insurance Building Australia Operations Pty Ltd; ABN - (ABN 80 661 826 026)",
+        "Target(s) / vendor(s): Major LB Pty Ltd (ABN 72 611 974 540) → Major LB Pty Ltd; ABN - (ABN 72 611 974 540)"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "Insurance Building Australia Operations Pty Ltd (ABN 80 661 826 026)",
+          "new": "Insurance Building Australia Operations Pty Ltd; ABN - (ABN 80 661 826 026)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "Major LB Pty Ltd (ABN 72 611 974 540)",
+          "new": "Major LB Pty Ltd; ABN - (ABN 72 611 974 540)",
+          "material": true
+        }
+      ]
+    },
+    {
+      "slug": "mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+      "title": "McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company",
+      "case_number": "MN-65026",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company",
+      "material": true,
+      "summary": [
+        "Acquirer(s): MAG SOUTH COAST PTY LTD (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD (ABN 64 676 724 306) → MAG SOUTH COAST PTY LTD; ABN - (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD; ABN - (ABN 64 676 724 306)",
+        "Target(s) / vendor(s): Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD (ABN 33 000 22… → Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; ABN - (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD; ABN -…",
+        "Other parties: MAG NORTHERN BEACHES PTY LTD (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD (ABN 60 003 411 210); MAG BODY CORP… → MAG NORTHERN BEACHES PTY LTD; ABN - (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD; ABN - (ABN 60 003 411 210);…"
+      ],
+      "changes": [
+        {
+          "field": "acquirers",
+          "old": "MAG SOUTH COAST PTY LTD (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD (ABN 64 676 724 306)",
+          "new": "MAG SOUTH COAST PTY LTD; ABN - (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD; ABN - (ABN 64 676 724 306)",
+          "material": true
+        },
+        {
+          "field": "targets",
+          "old": "Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD (ABN 33 000 220 557); COUNTRY MOTOR COMPANY PTY LTD (ABN 11 002 189 228); Glenn Ype Buikstra Family Will Trust",
+          "new": "Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; ABN - (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD; ABN - (ABN 33 000 220 557); COUNTRY MOTOR COMPANY PTY LTD; ABN - (ABN 11 002 189 228); Glenn Ype Buikstra Family Will Trust",
           "material": true
         },
         {
           "field": "other_parties",
-          "old": "JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739; ABN 22 008 024 011); JUNGHEINRICH FLEET SERVICES PTY LTD (ABN 90 066 707 784)",
-          "new": "JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739); ABN - (ABN 22 008 024 011); JUNGHEINRICH FLEET SERVICES PTY LTD; ABN - (ABN 90 066 707 784)",
+          "old": "MAG NORTHERN BEACHES PTY LTD (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD (ABN 60 003 411 210); MAG BODY CORP PTY LTD (ABN 93 676 724 495)",
+          "new": "MAG NORTHERN BEACHES PTY LTD; ABN - (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD; ABN - (ABN 60 003 411 210); MAG BODY CORP PTY LTD; ABN - (ABN 93 676 724 495)",
           "material": true
         }
       ]
     },
     {
-      "slug": "igneo-infrastructure-partners-%E2%80%93-green-squares-energy",
-      "title": "Igneo Infrastructure Partners – Green Squares Energy",
-      "case_number": "WA-95035",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/igneo-infrastructure-partners-%E2%80%93-green-squares-energy",
+      "slug": "australian-motors-group-%E2%80%93-mudgee-toyota",
+      "title": "Australian Motors Group – Mudgee Toyota",
+      "case_number": "WA-45022",
+      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-motors-group-%E2%80%93-mudgee-toyota",
       "material": true,
       "summary": [
-        "Acquirer(s): Vertis Bidco Pty Ltd (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD (ABN 13 006 464 428) → Vertis Bidco Pty Ltd; ACN - (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD; ABN - (ABN 13 006 464 428)",
-        "Target(s) / vendor(s): The Trustee for Green Squares Energy Trust (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD (ABN 24 632 447 959) → The Trustee for Green Squares Energy Trust; ABN - (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD; ABN - (ABN 24 632…",
-        "Other parties: Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD (ABN 55 645 165 466)… → Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD; ABN - (ABN 55 645 1…"
+        "Acquirer(s): AMG HEADQUARTERS EIGHTEEN PTY LTD (ACN 698 081 819) → AMG HEADQUARTERS EIGHTEEN PTY LTD; ACN - (ACN 698 081 819)",
+        "Target(s) / vendor(s): DAWNACO PTY. LIMITED (ABN 23 003 837 643) → DAWNACO PTY. LIMITED; ABN - (ABN 23 003 837 643)"
       ],
       "changes": [
         {
           "field": "acquirers",
-          "old": "Vertis Bidco Pty Ltd (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD (ABN 13 006 464 428)",
-          "new": "Vertis Bidco Pty Ltd; ACN - (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD; ABN - (ABN 13 006 464 428)",
+          "old": "AMG HEADQUARTERS EIGHTEEN PTY LTD (ACN 698 081 819)",
+          "new": "AMG HEADQUARTERS EIGHTEEN PTY LTD; ACN - (ACN 698 081 819)",
           "material": true
         },
         {
           "field": "targets",
-          "old": "The Trustee for Green Squares Energy Trust (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD (ABN 24 632 447 959)",
-          "new": "The Trustee for Green Squares Energy Trust; ABN - (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD; ABN - (ABN 24 632 447 959)",
-          "material": true
-        },
-        {
-          "field": "other_parties",
-          "old": "Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD (ABN 55 645 165 466); FIRST SENTIER GROUP LIMITED (ABN 49 630 725 558)",
-          "new": "Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD; ABN - (ABN 55 645 165 466); FIRST SENTIER GROUP LIMITED; ABN - (ABN 49 630 725 558)",
-          "material": true
-        }
-      ]
-    },
-    {
-      "slug": "cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
-      "title": "CVC Capital Partners – IFF’s Food Ingredients business",
-      "case_number": "WA-65030",
-      "url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business",
-      "material": true,
-      "summary": [
-        "Acquirer(s): Foxtrot UK Bidco Limited (CRN - 17249252; Foxtrot Denmark Bidco ApS (CVR - 42580058)); Foxtrot US Bidco, Inc. (State of… → Foxtrot UK Bidco Limited (CRN - 17249252); Foxtrot Denmark Bidco ApS (CVR - 42580058); Foxtrot US Bidco, Inc. (State of…",
-        "Target(s) / vendor(s): DANISCO AUSTRALIA PTY LTD (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd (ABN 20 123 509 017); NUTRIT… → DANISCO AUSTRALIA PTY LTD; ABN - (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd; ABN - (ABN 20 123 50…"
-      ],
-      "changes": [
-        {
-          "field": "acquirers",
-          "old": "Foxtrot UK Bidco Limited (CRN - 17249252; Foxtrot Denmark Bidco ApS (CVR - 42580058)); Foxtrot US Bidco, Inc. (State of Delaware – Division of Corporations 10628070)",
-          "new": "Foxtrot UK Bidco Limited (CRN - 17249252); Foxtrot Denmark Bidco ApS (CVR - 42580058); Foxtrot US Bidco, Inc. (State of Delaware – Division of Corporations 10628070)",
-          "material": true
-        },
-        {
-          "field": "targets",
-          "old": "DANISCO AUSTRALIA PTY LTD (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd (ABN 20 123 509 017); NUTRITION & BIOSCIENCES AUSTRALIA PTY LTD (ABN 59 000 716 469); SOLAE AUSTRALIA PTY LTD (ABN 54 002 096 255)",
-          "new": "DANISCO AUSTRALIA PTY LTD; ABN - (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd; ABN - (ABN 20 123 509 017); NUTRITION & BIOSCIENCES AUSTRALIA PTY LTD; ABN - (ABN 59 000 716 469); SOLAE AUSTRALIA PTY LTD; ABN - (ABN 54 002 096 255)",
+          "old": "DAWNACO PTY. LIMITED (ABN 23 003 837 643)",
+          "new": "DAWNACO PTY. LIMITED; ABN - (ABN 23 003 837 643)",
           "material": true
         }
       ]
@@ -168,95 +355,69 @@
   "removed_entries": [],
   "decision_documents": [
     {
-      "slug": "apiam-%E2%80%93-south-west-equine-veterinary-group",
-      "title": "Apiam – South West Equine Veterinary Group",
-      "case_number": "WA-35057",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-south-west-equine-veterinary-group",
-      "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Apiam%20-%20South%20West%20Equine%20Veterinary%20Group%20%28WA-35057%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
+      "slug": "acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+      "title": "ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",
+      "case_number": "MN-10043",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals",
+      "date": "25 Nov 2026",
+      "description": "Acurio - Nepean, Sydney Southwest, and Campbelltown Private Hospitals - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Acurio%20%E2%80%93%20Nepean%2C%20Sydney%20Southwest%2C%20and%20Campbelltown%20Private%20Hospitals%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
+      "new_matter": false
     },
     {
-      "slug": "kiwa-csa-group-0",
-      "title": "Kiwa - CSA Group",
-      "case_number": "WA-10054",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group-0",
-      "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Kiwa%20-%20CSA%20Group%20%28WA-10054%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
+      "slug": "calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services",
+      "title": "Calvary – 14 Healthscope hospitals and Healthscope Independence Services",
+      "case_number": "MN-10040",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services",
+      "date": "25 Nov 2026",
+      "description": "Calvary – 14 Healthscope hospitals and Healthscope Independence Services - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Calvary%20-%2014%20Healthscope%20hospitals%20and%20Healthscope%20Independence%20Services%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
+      "new_matter": false
     },
     {
-      "slug": "lighthouse-%E2%80%93-proven-air-conditioning",
-      "title": "Lighthouse – Proven Air Conditioning",
-      "case_number": "WA-75070",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lighthouse-%E2%80%93-proven-air-conditioning",
-      "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Lighthouse%20%E2%80%93%20Proven%20Air%20Conditioning%20%28WA-75070%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
+      "slug": "healthe-care-prince-of-wales-private-hospital",
+      "title": "Healthe Care - Prince of Wales Private Hospital",
+      "case_number": "MN-60052",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-prince-of-wales-private-hospital",
+      "date": "25 Nov 2026",
+      "description": "Healthe Care – Prince of Wales Private Hospital - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Healthe%20Care%20-%20Prince%20of%20Wales%20Private%20Hospital%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
+      "new_matter": false
     },
     {
-      "slug": "omers-%E2%80%93-la-trobe-financial",
-      "title": "OMERS – La Trobe Financial",
-      "case_number": "WA-30046",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/omers-%E2%80%93-la-trobe-financial",
-      "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/OMERS%20%E2%80%93%20La%20Trobe%20Financial%20%28WA-30046%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
+      "slug": "healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
+      "title": "Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",
+      "case_number": "MN-25058",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic",
+      "date": "25 Nov 2026",
+      "description": "Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic - Phase 1 determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Healthe%20Care%20%E2%80%93%20Knox%20Private%2C%20Ringwood%20Private%2C%20Northpark%20Private%2C%20Victorian%20Rehabilitation%20Centre%20and%20Geelong%20Clinic%20-%20Phase%201%20determination.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
+      "new_matter": false
     },
     {
-      "slug": "platinum-equity-group-%E2%80%93-trime",
-      "title": "Platinum Equity Group – Trime",
-      "case_number": "WA-30045",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-trime",
+      "slug": "stellex-and-ona-%E2%80%93-score",
+      "title": "Stellex and ONA – Score",
+      "case_number": "MN-90044",
+      "type": "Notification",
+      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stellex-and-ona-%E2%80%93-score",
       "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Platinum%20Equity%20Group%20-%20Trime%20%28WA-30045%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
+      "description": "Stellex and ONA - Score - Phase 1 Determination",
+      "url": "https://www.accc.gov.au/system/files/moderated_files/Stellex%20Ona%20Score%20-%20Phase%201%20determination_0.pdf",
+      "category": "Phase 1 determination",
       "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "waterfront-logistics-monson-logistics",
-      "title": "Waterfront Logistics - Monson Logistics",
-      "case_number": "WA-05063",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waterfront-logistics-monson-logistics",
-      "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Waterfront%20Logistics%20-%20Monson%20Logistics%20%28WA-05063%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
-    },
-    {
-      "slug": "woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
-      "title": "Woolworths - supermarket e-commerce hub in Muswellbrook, NSW",
-      "case_number": "WA-55049",
-      "type": "Waiver",
-      "accc_url": "https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw",
-      "date": "24 Nov 2026",
-      "description": "Notification waiver determination published",
-      "url": "https://www.accc.gov.au/system/files/moderated_files/Woolworths%20-%20supermarket%20e-commerce%20hub%20in%20Muswellbrook%2C%20NSW%20%28WA-55049%29%20-%20Notification%20waiver%20determination%20-%2024%20November%202026.pdf",
-      "category": "Waiver determination",
-      "priority": false,
-      "new_matter": true
+      "new_matter": false
     }
   ]
 }

@@ -1,48 +1,89 @@
 ﻿Metric,Value,Notes
 ,,
-Last successful update,25 Nov 2026 03:17 AEDT,Up to date
-Last run attempt,25 Nov 2026 03:17 AEDT,success
-HTTP requests used,22,
+Last successful update,25 Nov 2026 15:32 AEDT,Up to date
+Last run attempt,25 Nov 2026 15:32 AEDT,success
+HTTP requests used,73,
 ,,
 Total entries monitored,899,
-New entries this run,7,
-Changed entries this run,4,material changes only
+New entries this run,0,
+Changed entries this run,8,material changes only
 Removed entries this run,0,
-New decision documents,7,
+New decision documents,5,
 ,,
 Auto-run schedule,"Mon to Fri, 8:37am, 12:37pm and 4:37pm Canberra time. GitHub can start scheduled runs late.",
 ,,
 CHANGES IN THIS RUN,,
 ,,
-NEW ENTRIES (7),Case Number,URL
-+ Kiwa - CSA Group,WA-10054,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/kiwa-csa-group-0
-"+ Woolworths - supermarket e-commerce hub in Muswellbrook, NSW",WA-55049,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/woolworths-supermarket-e-commerce-hub-in-muswellbrook-nsw
-+ Lighthouse – Proven Air Conditioning,WA-75070,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/lighthouse-%E2%80%93-proven-air-conditioning
-+ OMERS – La Trobe Financial,WA-30046,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/omers-%E2%80%93-la-trobe-financial
-+ Waterfront Logistics - Monson Logistics,WA-05063,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/waterfront-logistics-monson-logistics
-+ Apiam – South West Equine Veterinary Group,WA-35057,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/apiam-%E2%80%93-south-west-equine-veterinary-group
-+ Platinum Equity Group – Trime,WA-30045,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/platinum-equity-group-%E2%80%93-trime
-,,
-CHANGED ENTRIES (4),Change,URL
-~ MA Financial (Redcape Fund) – Seven hospitality venues in NSW,WA-85040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ma-financial-redcape-fund-%E2%80%93-seven-hospitality-venues-in-nsw
-,Acquirer(s): REDCAPE HOTEL GROUP PTY LTD (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD (ABN 96 619 512 060) → REDCAPE HOTEL GROUP PTY LTD; ABN - (ABN 43 139 067 244); MAHF CUSTODIAN PTY LTD; ABN - (ABN 96 619 512 060),
-,Target(s) / vendor(s): Gunyah Hotel Property Pty Ltd (ACN 628 638 040); Radayla Pty Ltd (ABN 73 115 366 384); Sydney Junction Hotel Property P… → Gunyah Hotel Property Pty Ltd; ACN - (ACN 628 638 040); Radayla Pty Ltd; ABN - (ABN 73 115 366 384); Sydney Junction Ho…,
-~ Jungheinrich Australia - All Lift,WA-80033,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/jungheinrich-australia-all-lift
-,Acquirer(s): JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD (ABN 28 608 769 642) → JUNGHEINRICH AUSTRALIA HOLDINGS PTY LTD; ABN - (ABN 28 608 769 642),
-,Target(s) / vendor(s): KRETCHMER HOLDING CO PTY LTD (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED (ABN 31 632 720 006) → KRETCHMER HOLDING CO PTY LTD; ABN - (ABN 37 634 564 926); ALL LIFT EQUIPMENT SALES PTY LIMITED; ABN - (ABN 31 632 720 0…,
-,Other parties: JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739; ABN 22 008 024 011)… → JUNGHEINRICH AUSTRALIA PTY LTD as trustee for The Jungheinrich Australia Trust (ABN 29 117 832 739); ABN - (ABN 22 008…,
-~ Igneo Infrastructure Partners – Green Squares Energy,WA-95035,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/igneo-infrastructure-partners-%E2%80%93-green-squares-energy
-,Acquirer(s): Vertis Bidco Pty Ltd (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD (ABN 13 006 464 428) → Vertis Bidco Pty Ltd; ACN - (ACN 699 084 467); FIRST SENTIER INVESTORS (AUSTRALIA) RE LTD; ABN - (ABN 13 006 464 428),
-,Target(s) / vendor(s): The Trustee for Green Squares Energy Trust (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD (ABN 24 632 447 959) → The Trustee for Green Squares Energy Trust; ABN - (ABN 84 706 057 848); GREEN SQUARES ENERGY PTY LTD; ABN - (ABN 24 632…,
-,Other parties: Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD (ABN 55 645 165 466)… → Mitsubishi UFJ Financial Group Inc; CPE Renewables Investment Unit Trust; ATMOS RENEWABLES PTY LTD; ABN - (ABN 55 645 1…,
-~ CVC Capital Partners – IFF’s Food Ingredients business,WA-65030,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/cvc-capital-partners-%E2%80%93-iff%E2%80%99s-food-ingredients-business
-,"Acquirer(s): Foxtrot UK Bidco Limited (CRN - 17249252; Foxtrot Denmark Bidco ApS (CVR - 42580058)); Foxtrot US Bidco, Inc. (State of… → Foxtrot UK Bidco Limited (CRN - 17249252); Foxtrot Denmark Bidco ApS (CVR - 42580058); Foxtrot US Bidco, Inc. (State of…",
-,Target(s) / vendor(s): DANISCO AUSTRALIA PTY LTD (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd (ABN 20 123 509 017); NUTRIT… → DANISCO AUSTRALIA PTY LTD; ABN - (ABN 62 096 139 392); Taura Natural Ingredients Holdings Pty Ltd; ABN - (ABN 20 123 50…,
+CHANGED ENTRIES (8),Change,URL
+"~ Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic",MN-25058,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-%E2%80%93-knox-private-ringwood-private-northpark-private-victorian-rehabilitation-centre-and-geelong-clinic
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 25 Nov 2026,
+,"New document: Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic - Phase 1 determination (25 Nov 2026)",
+~ Healthe Care - Prince of Wales Private Hospital,MN-60052,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/healthe-care-prince-of-wales-private-hospital
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 25 Nov 2026,
+,New document: Healthe Care – Prince of Wales Private Hospital - Phase 1 determination (25 Nov 2026),
+"~ ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals",MN-10043,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/acurio-nepean-sydney-southwest-and-campbelltown-private-hospitals
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 25 Nov 2026,
+,Target(s) / vendor(s): ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Health… → Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); ANZ Hospitals Pty Ltd (administrators appointed) (receivers…,
+,"New document: Acurio - Nepean, Sydney Southwest, and Campbelltown Private Hospitals - Phase 1 determination (25 Nov 2026)",
+~ Calvary – 14 Healthscope hospitals and Healthscope Independence Services,MN-10040,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/calvary-%E2%80%93-14-healthscope-hospitals-and-healthscope-independence-services
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 25 Nov 2026,
+,New document: Calvary – 14 Healthscope hospitals and Healthscope Independence Services - Phase 1 determination (25 Nov 2026),
+~ Stellex and ONA – Score,MN-90044,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/stellex-and-ona-%E2%80%93-score
+,Status: Under assessment → Assessment completed,
+,ACCC determination: (blank) → Approved,
+,Determination published: (blank) → 25 Nov 2026,
+,New document: Stellex and ONA - Score - Phase 1 Determination (24 Nov 2026),
+~ Ambrose Construct Group – Major Loss Builders,MN-10021,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/ambrose-construct-group-%E2%80%93-major-loss-builders
+,Acquirer(s): Insurance Building Australia Operations Pty Ltd (ABN 80 661 826 026) → Insurance Building Australia Operations Pty Ltd; ABN - (ABN 80 661 826 026),
+,Target(s) / vendor(s): Major LB Pty Ltd (ABN 72 611 974 540) → Major LB Pty Ltd; ABN - (ABN 72 611 974 540),
+~ McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company,MN-65026,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/mccarrolls-automotive-group-kinghorn-motor-group-country-motor-company
+,Acquirer(s): MAG SOUTH COAST PTY LTD (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD (ABN 64 676 724 306) → MAG SOUTH COAST PTY LTD; ABN - (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD; ABN - (ABN 64 676 724 306),
+,Target(s) / vendor(s): Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD (ABN 33 000 22… → Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; ABN - (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD; ABN -…,
+,Other parties: MAG NORTHERN BEACHES PTY LTD (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD (ABN 60 003 411 210); MAG BODY CORP… → MAG NORTHERN BEACHES PTY LTD; ABN - (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD; ABN - (ABN 60 003 411 210);…,
+~ Australian Motors Group – Mudgee Toyota,WA-45022,https://www.accc.gov.au/public-registers/acquisitions-and-mergers-registers/acquisitions-register/australian-motors-group-%E2%80%93-mudgee-toyota
+,Acquirer(s): AMG HEADQUARTERS EIGHTEEN PTY LTD (ACN 698 081 819) → AMG HEADQUARTERS EIGHTEEN PTY LTD; ACN - (ACN 698 081 819),
+,Target(s) / vendor(s): DAWNACO PTY. LIMITED (ABN 23 003 837 643) → DAWNACO PTY. LIMITED; ABN - (ABN 23 003 837 643),
 ,,
 ,,
 CHANGES IN THE LAST 7 DAYS,,
 ,,
 Matter,Change,Detected
+"Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic (MN-25058)",Status: Under assessment → Assessment completed,25 Nov 2026 15:32 AEDT
+"Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic (MN-25058)",ACCC determination: (blank) → Approved,25 Nov 2026 15:32 AEDT
+"Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic (MN-25058)",Determination published: (blank) → 25 Nov 2026,25 Nov 2026 15:32 AEDT
+"Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic (MN-25058)","New document: Healthe Care – Knox Private, Ringwood Private, Northpark Private, Victorian Rehabilitation Centre and Geelong Clinic - Phase 1 determination (25 Nov 2026)",25 Nov 2026 15:32 AEDT
+Healthe Care - Prince of Wales Private Hospital (MN-60052),Status: Under assessment → Assessment completed,25 Nov 2026 15:32 AEDT
+Healthe Care - Prince of Wales Private Hospital (MN-60052),ACCC determination: (blank) → Approved,25 Nov 2026 15:32 AEDT
+Healthe Care - Prince of Wales Private Hospital (MN-60052),Determination published: (blank) → 25 Nov 2026,25 Nov 2026 15:32 AEDT
+Healthe Care - Prince of Wales Private Hospital (MN-60052),New document: Healthe Care – Prince of Wales Private Hospital - Phase 1 determination (25 Nov 2026),25 Nov 2026 15:32 AEDT
+"ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals (MN-10043)",Status: Under assessment → Assessment completed,25 Nov 2026 15:32 AEDT
+"ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals (MN-10043)",ACCC determination: (blank) → Approved,25 Nov 2026 15:32 AEDT
+"ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals (MN-10043)",Determination published: (blank) → 25 Nov 2026,25 Nov 2026 15:32 AEDT
+"ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals (MN-10043)",Target(s) / vendor(s): ANZ Hospitals Pty Ltd (administrators appointed) (receivers and managers appointed); ABN - (ABN 14 631 014 938); Health… → Healthscope Operations Pty Ltd; ABN - (ABN 85 006 405 152); ANZ Hospitals Pty Ltd (administrators appointed) (receivers…,25 Nov 2026 15:32 AEDT
+"ACURIO - Nepean, Sydney Southwest, and Campbelltown Private Hospitals (MN-10043)","New document: Acurio - Nepean, Sydney Southwest, and Campbelltown Private Hospitals - Phase 1 determination (25 Nov 2026)",25 Nov 2026 15:32 AEDT
+Calvary – 14 Healthscope hospitals and Healthscope Independence Services (MN-10040),Status: Under assessment → Assessment completed,25 Nov 2026 15:32 AEDT
+Calvary – 14 Healthscope hospitals and Healthscope Independence Services (MN-10040),ACCC determination: (blank) → Approved,25 Nov 2026 15:32 AEDT
+Calvary – 14 Healthscope hospitals and Healthscope Independence Services (MN-10040),Determination published: (blank) → 25 Nov 2026,25 Nov 2026 15:32 AEDT
+Calvary – 14 Healthscope hospitals and Healthscope Independence Services (MN-10040),New document: Calvary – 14 Healthscope hospitals and Healthscope Independence Services - Phase 1 determination (25 Nov 2026),25 Nov 2026 15:32 AEDT
+Stellex and ONA – Score (MN-90044),Status: Under assessment → Assessment completed,25 Nov 2026 15:32 AEDT
+Stellex and ONA – Score (MN-90044),ACCC determination: (blank) → Approved,25 Nov 2026 15:32 AEDT
+Stellex and ONA – Score (MN-90044),Determination published: (blank) → 25 Nov 2026,25 Nov 2026 15:32 AEDT
+Stellex and ONA – Score (MN-90044),New document: Stellex and ONA - Score - Phase 1 Determination (24 Nov 2026),25 Nov 2026 15:32 AEDT
+Ambrose Construct Group – Major Loss Builders (MN-10021),Acquirer(s): Insurance Building Australia Operations Pty Ltd (ABN 80 661 826 026) → Insurance Building Australia Operations Pty Ltd; ABN - (ABN 80 661 826 026),25 Nov 2026 15:32 AEDT
+Ambrose Construct Group – Major Loss Builders (MN-10021),Target(s) / vendor(s): Major LB Pty Ltd (ABN 72 611 974 540) → Major LB Pty Ltd; ABN - (ABN 72 611 974 540),25 Nov 2026 15:32 AEDT
+McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company (MN-65026),Acquirer(s): MAG SOUTH COAST PTY LTD (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD (ABN 64 676 724 306) → MAG SOUTH COAST PTY LTD; ABN - (ABN 70 683 627 590); MCCARROLL PROPERTY HOLDINGS PTY LTD; ABN - (ABN 64 676 724 306),25 Nov 2026 15:32 AEDT
+McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company (MN-65026),Target(s) / vendor(s): Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD (ABN 33 000 22… → Donna Lea Buikstra Family Will Trust; KJO PROPERTY PTY LTD; ABN - (ABN 33 169 760 178); KINGHORN MOTORS PTY LTD; ABN -…,25 Nov 2026 15:32 AEDT
+McCarroll's Automotive Group - Kinghorn Motor Group & Country Motor Company (MN-65026),Other parties: MAG NORTHERN BEACHES PTY LTD (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD (ABN 60 003 411 210); MAG BODY CORP… → MAG NORTHERN BEACHES PTY LTD; ABN - (ABN 21 659 209 051); MCCARROLL'S OF MOSS VALE PTY LTD; ABN - (ABN 60 003 411 210);…,25 Nov 2026 15:32 AEDT
+Australian Motors Group – Mudgee Toyota (WA-45022),Acquirer(s): AMG HEADQUARTERS EIGHTEEN PTY LTD (ACN 698 081 819) → AMG HEADQUARTERS EIGHTEEN PTY LTD; ACN - (ACN 698 081 819),25 Nov 2026 15:32 AEDT
+Australian Motors Group – Mudgee Toyota (WA-45022),Target(s) / vendor(s): DAWNACO PTY. LIMITED (ABN 23 003 837 643) → DAWNACO PTY. LIMITED; ABN - (ABN 23 003 837 643),25 Nov 2026 15:32 AEDT
 Kiwa - CSA Group (WA-10054),Waiver added to the register,25 Nov 2026 03:17 AEDT
 "Woolworths - supermarket e-commerce hub in Muswellbrook, NSW (WA-55049)",Waiver added to the register,25 Nov 2026 03:17 AEDT
 Lighthouse – Proven Air Conditioning (WA-75070),Waiver added to the register,25 Nov 2026 03:17 AEDT
@@ -163,13 +204,3 @@ Genesis Minerals – Vault Minerals (WA-40036),Target(s) / vendor(s): VAULT MINE
 Grafton Motor Group – Grafton Mazda (WA-05045),Acquirer(s): GTOWN MOTORS PTY LTD (ABN 49 696 167 996) → GTOWN MOTORS PTY LTD; ABN - (ABN 49 696 167 996),19 Nov 2026 01:29 AEDT
 Grafton Motor Group – Grafton Mazda (WA-05045),Target(s) / vendor(s): KEN CASSON MOTORS PTY. LIMITED (ABN 32 003 933 695) → KEN CASSON MOTORS PTY. LIMITED; ABN - (ABN 32 003 933 695),19 Nov 2026 01:29 AEDT
 Grafton Motor Group – Grafton Mazda (WA-05045),Other parties: HOUMA HOLDINGS PTY LTD (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD (ABN 61 107 107 559) → HOUMA HOLDINGS PTY LTD; ABN - (ABN 44 002 590 758); GRAFTON MOTOR GROUP PTY LTD; ABN - (ABN 61 107 107 559),19 Nov 2026 01:29 AEDT
-4K Automotive Group – Peninsula Motor Group (MN-20044),Status: Under assessment → Assessment completed,18 Nov 2026 14:06 AEDT
-4K Automotive Group – Peninsula Motor Group (MN-20044),ACCC determination: (blank) → Approved,18 Nov 2026 14:06 AEDT
-4K Automotive Group – Peninsula Motor Group (MN-20044),Determination published: (blank) → 18 Nov 2026,18 Nov 2026 14:06 AEDT
-4K Automotive Group – Peninsula Motor Group (MN-20044),New document: 4K Automotive Group - Peninsula Motor Group - Phase 1 determination (18 Nov 2026),18 Nov 2026 14:06 AEDT
-"Coles – expansion of supermarket located within Coles head office site in Docklands, VIC (WA-65032)",Acquirer(s): COLES GROUP LIMITED (ABN 11 004 089 936) → COLES GROUP LIMITED; ABN - (ABN 11 004 089 936),18 Nov 2026 14:06 AEDT
-"Coles – expansion of supermarket located within Coles head office site in Docklands, VIC (WA-65032)",Target(s) / vendor(s): Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1 (ABN 50 230 519 968) → Bourke Junction No. 1 Pty Ltd as trustee for the Bourke Junction Trust No. 1; ABN - (ABN 50 230 519 968),18 Nov 2026 14:06 AEDT
-Pine Australia - Evolution Business Systems (WA-45023),Acquirer(s): Pine Australia Holdings Pty Ltd (ACN 697 228 309) → Pine Australia Holdings Pty Ltd; ACN - (ACN 697 228 309),18 Nov 2026 14:06 AEDT
-Pine Australia - Evolution Business Systems (WA-45023),Target(s) / vendor(s): The Trustee for J Martin Family Trust (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD (ABN 44 097 484 743) → The Trustee for J Martin Family Trust; ABN - (ABN 16 569 506 313); EVOLUTION BUSINESS SYSTEMS PTY LTD; ABN - (ABN 44 09…,18 Nov 2026 14:06 AEDT
-Ironbark - Paris Group (WA-75039),Acquirer(s): INVEST BLUE FINANCE PTY LTD (ABN 35 661 784 541) → INVEST BLUE FINANCE PTY LTD; ABN - (ABN 35 661 784 541),18 Nov 2026 14:06 AEDT
-Ironbark - Paris Group (WA-75039),Target(s) / vendor(s): Paris Financial Services Pty Ltd (ABN 24 143 510 301); PARIS LENDING PTY LTD (ABN 48 610 493 368); PARIS FINANCIAL PTY… → Paris Financial Services Pty Ltd; ABN - (ABN 24 143 510 301); PARIS LENDING PTY LTD; ABN - (ABN 48 610 493 368); PARIS…,18 Nov 2026 14:06 AEDT
