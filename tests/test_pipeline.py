@@ -108,9 +108,32 @@ class PipelineTests(unittest.TestCase):
         self.assertIn("self-hosted", email)
         scraper.run(FakeRequestsSession(blocked=True))
         self.assertEqual(load_json(HEALTH_JSON, {})["consecutive_failures"], 2)
-        self.assertTrue(scraper.should_alert_failure(1))
-        self.assertTrue(scraper.should_alert_failure(2))
-        self.assertFalse(scraper.should_alert_failure(3))
+        # Other failure kinds alert straight away, then about once a day
+        self.assertTrue(scraper.should_alert_failure(1, "sanity"))
+        self.assertTrue(scraper.should_alert_failure(2, "error"))
+        self.assertFalse(scraper.should_alert_failure(3, "sanity"))
+        # A refusal is retried on a fresh machine first, so only the second one in a row alerts
+        self.assertFalse(scraper.should_alert_failure(1, "blocked"))
+        self.assertTrue(scraper.should_alert_failure(2, "blocked"))
+        self.assertFalse(scraper.should_alert_failure(3, "blocked"))
+        self.assertTrue(scraper.should_alert_failure(4, "blocked"))
+
+    def test_blocked_run_does_not_alert_until_retry_also_fails(self):
+        run_site()
+        outputs = os.path.join(helpers.TMP, "github_output")
+        open(outputs, "w").close()
+        with mock.patch.dict(os.environ, {"GITHUB_OUTPUT": outputs}):
+            self.assertEqual(scraper.run(FakeRequestsSession(blocked=True)), 2)
+            first = open(outputs, encoding="utf-8").read()
+            open(outputs, "w").close()
+            self.assertEqual(scraper.run(FakeRequestsSession(blocked=True)), 2)
+            second = open(outputs, encoding="utf-8").read()
+        self.assertIn("failure_kind=blocked", first)      # the workflow retries on this
+        self.assertIn("alert_failure=false", first)
+        self.assertIn("alert_failure=true", second)
+        # A later success resets the count, so the next one-off refusal is silent again
+        self.assertEqual(run_site()[0], 0)
+        self.assertEqual(load_json(HEALTH_JSON, {})["consecutive_failures"], 0)
 
     def test_sanity_guard_refuses_partial_listing(self):
         stored = {f"old-{i}": {"slug": f"old-{i}", "title": f"Old {i}", "case_number": f"MN-{i}",

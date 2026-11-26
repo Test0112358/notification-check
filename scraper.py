@@ -1171,13 +1171,20 @@ def _seed_health(health):
     return health
 
 
+# Failures that usually clear on another machine or a few minutes later. The
+# workflow retries these once on a fresh GitHub machine, so they only alert
+# from the second failure in a row (normally that retry).
+TRANSIENT_FAILURE_KINDS = {"blocked", "unavailable"}
+
+
 def should_alert_failure(consecutive_failures, kind=""):
     """
     Alert on the first failure, then about once a day (every 2nd scheduled run).
-    A site that is temporarily unavailable usually recovers by the next run,
-    so that kind only alerts from the second failure in a row.
+    A refusal (blocked) or a page without the register (unavailable) usually
+    clears on the workflow's automatic retry, so those kinds only alert from
+    the second failure in a row.
     """
-    if kind == "unavailable":
+    if kind in TRANSIENT_FAILURE_KINDS:
         return consecutive_failures >= 2 and consecutive_failures % 2 == 0
     return consecutive_failures == 1 or consecutive_failures % 2 == 0
 
