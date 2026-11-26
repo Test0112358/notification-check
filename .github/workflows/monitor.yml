@@ -21,6 +21,11 @@ on:
         type: boolean
         required: false
         default: false
+      auto_retry:
+        description: 'Set by the monitor itself when it retries after the ACCC refused a run (leave unticked)'
+        type: boolean
+        required: false
+        default: false
 
 # Never let two runs overlap (both would commit and push data).
 concurrency:
@@ -37,6 +42,9 @@ jobs:
 
     permissions:
       contents: write
+
+    outputs:
+      failure_kind: ${{ steps.scraper.outputs.failure_kind }}
 
     env:
       MAIL_ENABLED: ${{ secrets.MAIL_USERNAME != '' }}
@@ -248,3 +256,32 @@ jobs:
         run: |
           echo "Verification found errors; see data/verification_report.csv"
           exit 1
+
+  # The ACCC's CDN (Akamai) sometimes refuses one GitHub machine (HTTP 403) or
+  # serves it a page without the register, while other machines get through.
+  # Every job runs on a fresh machine, usually with a different IP address, so
+  # after such a failure start one new run a few minutes later. That run has
+  # auto_retry set, so it never retries again. The failure email for these
+  # kinds is only sent from the second failure in a row, so a refusal that the
+  # retry gets past never reaches your inbox.
+  retry_on_fresh_runner:
+    name: Retry once on a fresh GitHub machine
+    needs: monitor
+    if: >-
+      always() && !inputs.auto_retry &&
+      (needs.monitor.outputs.failure_kind == 'blocked' || needs.monitor.outputs.failure_kind == 'unavailable')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      actions: write
+    steps:
+      - name: Wait, then start a new monitor run
+        env:
+          GH_TOKEN: ${{ github.token }}
+          KIND: ${{ needs.monitor.outputs.failure_kind }}
+        run: |
+          sleep 180
+          gh workflow run monitor.yml --repo "${{ github.repository }}" --ref "${{ github.ref_name }}" \
+            -f reason="Automatic retry after '$KIND' failure in run ${{ github.run_id }}" \
+            -f auto_retry=true
+          echo "Started a retry run; it begins once this run finishes."

@@ -12,7 +12,7 @@ Scrapes the ACCC Acquisitions Register on a schedule, detects field-level change
 | **Consultation documents email** (only this run's files attached) | Email | New questionnaires, remedy offers or draft s87B undertakings are downloaded |
 | **Watchlist alert** | Email | A matter matching `watchlist.json` is new, changes, or gets a new decision document |
 | **Weekly digest** (Excel attached) | Email | First successful run of each week (normally Monday morning) |
-| **Monitor failure alert** | Email | A run fails (site blocked, data check failed, crash). Repeats about daily while failing. If the site serves a page without the register on it (maintenance, bot check), the alert waits until it has happened on two runs in a row |
+| **Monitor failure alert** | Email | A run fails (site blocked, data check failed, crash). Repeats about daily while failing. If the site refuses the run (403) or serves a page without the register on it (maintenance, bot check), the workflow retries once on a fresh GitHub machine a few minutes later, and the alert is only sent if that fails too |
 | **Verification failure alert** | Email | The independent accuracy checks find errors |
 | Google Sheets tabs | Sheets | Every successful run (optional) |
 | `data/register.csv`, `data/register.xlsx` | Repo / run artifact | Every successful run |
@@ -106,9 +106,11 @@ To re-check every page once, run the workflow manually with **full_refresh** tic
 
 ## If the ACCC site blocks the monitor (HTTP 403)
 
-From 5 October 2026 the ACCC's CDN (Akamai) has answered every request from GitHub's runners with `403 Access Denied`, even for `robots.txt`. The block is based on where requests come from (cloud/datacenter IP ranges), not on what is requested, so code changes alone cannot fix it. The monitor now emails you when this happens, and the data shows how old it is.
+From 5 October to 6 November 2026 the ACCC's CDN (Akamai) answered every request from GitHub's runners with `403 Access Denied`, even for `robots.txt`. Since then most runs get through, but an occasional run is still refused on its first request (for example 26 Nov 2026, 02:58 Canberra time) while the runs either side succeed. The refusal is based on where requests come from (cloud/datacenter IP addresses), not on what is requested, so code changes alone cannot prevent it.
 
-Options, in order of effort:
+**Automatic retry.** Each GitHub job runs on a fresh machine, usually with a different IP address. When a run is refused (`blocked`) or served a page without the register (`unavailable`), the workflow's `retry_on_fresh_runner` job waits 3 minutes and starts one new run with `auto_retry` set (that run never retries again). The failure email for these two kinds is only sent from the second failure in a row, so a one-off refusal that the retry gets past is handled silently. Every attempt is still recorded in `data/health.json` and the commit history.
+
+If refusals become frequent again (failure emails on most days), use one of these lasting fixes, in order of effort:
 
 1. **Self-hosted runner (no code change).** Install a GitHub Actions runner on an always-on machine with a normal business or home connection (Settings → Actions → Runners → New self-hosted runner). Then add the repository variable `RUNNER_LABEL` = `self-hosted` (Settings → Secrets and variables → Actions → Variables). The workflow runs there from the next scheduled run.
 2. **Identify the monitor and ask to be allowed.** Add the repository variable `MONITOR_CONTACT` (an email address or URL). It is appended to the User-Agent, e.g. `ACCC-Register-Monitor/2.0 (...; contact: you@example.com)`. Then ask the ACCC to allow it.

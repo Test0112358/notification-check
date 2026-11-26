@@ -1210,7 +1210,11 @@ def write_failure_email(health, kind, message):
             "<li>Add a contact to the User-Agent with the repository variable <code>MONITOR_CONTACT</code> "
             "(an email address or URL) and ask the ACCC to allow the monitor.</li></ol>"
             "<p>The monitor already keeps its request volume low and stops after a few refusals, so it will not "
-            "keep hitting the site while blocked.</p>"),
+            "keep hitting the site while blocked.</p>"
+            "<p>After a refusal the workflow starts one new run on a fresh GitHub machine (usually a different IP "
+            "address) a few minutes later, and this email is only sent once that has been refused too. A single "
+            "refusal that clears on the retry needs no action. If these emails keep coming, the options above are "
+            "the lasting fix.</p>"),
         "sanity": (
             "<p>The scraper refused to save because the data it received looked wrong (too few register entries, "
             "or key fields missing on many pages). This usually means the ACCC changed its page layout. Stored "
@@ -1223,7 +1227,8 @@ def write_failure_email(health, kind, message):
             "cards and no page links. The monitor waited and tried again, and got the same result. This is "
             "usually website maintenance or a temporary bot check, and it normally clears by the next run. "
             "Stored data was left untouched.</p>"
-            "<p>This alert is only sent once it has happened on two runs in a row. To check, open the register "
+            "<p>The workflow also retries once on a fresh GitHub machine a few minutes later. This alert is only "
+            "sent once it has happened on two runs in a row. To check, open the register "
             "in a browser. If the register looks normal there but the monitor keeps failing, compare it with "
             "the page the monitor received, saved in the run's artifact under "
             "<code>outbox/failed_pages/</code>.</p>"),
